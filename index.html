@@ -1014,30 +1014,16 @@ async function fetchHolidays() {
   }
 }
 
-// ----- TECH NEWS (네이버 뉴스 IT/과학) -----
+// ----- 한국 뉴스 (Google News RSS → news.json) -----
 
 async function fetchTechNews() {
   var el = $('technewsContent');
   try {
-    // Google News RSS — 한국 뉴스
-    var rssUrl = 'https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko';
-    var proxyUrl = 'https://api.allorigins.win/get?url=' + encodeURIComponent(rssUrl);
-
-    var ctrl = new AbortController();
-    var timeout = setTimeout(function() { ctrl.abort(); }, 10000);
-    var resp;
-    try {
-      resp = await fetch(proxyUrl, { signal: ctrl.signal });
-    } finally { clearTimeout(timeout); }
-
+    // 같은 도메인의 news.json 로드 (CORS 문제 없음)
+    var resp = await fetch('news.json?ts=' + Date.now());
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
-    var jsonData = await resp.json();
-    var xmlText = jsonData.contents || '';
-
-    // XML 파싱
-    var parser = new DOMParser();
-    var doc = parser.parseFromString(xmlText, 'text/xml');
-    var items = doc.querySelectorAll('item');
+    var data = await resp.json();
+    var items = data.items || [];
 
     if (items.length === 0) {
       el.innerHTML = '<div class="widget-error">뉴스가 없습니다</div>';
@@ -1045,17 +1031,11 @@ async function fetchTechNews() {
     }
 
     var html = '<div class="technews-list">';
-    var count = Math.min(items.length, 5);
-    for (var i = 0; i < count; i++) {
+    for (var i = 0; i < items.length; i++) {
       var item = items[i];
-      var titleEl = item.querySelector('title');
-      var linkEl = item.querySelector('link');
-      var descEl = item.querySelector('description');
-      var pubEl = item.querySelector('pubDate');
-
-      var title = titleEl ? escapeHtml(titleEl.textContent) : '제목 없음';
-      var link = linkEl ? linkEl.textContent.trim() : '#';
-      var pubDate = pubEl ? timeAgoShort(pubEl.textContent.trim()) : '';
+      var title = escapeHtml(item.title || '');
+      var link = item.link || '#';
+      var pubDate = item.pubDate ? timeAgoShort(item.pubDate) : '';
 
       html += '' +
         '<div class="technews-item">' +
