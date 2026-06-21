@@ -756,7 +756,7 @@
   <div class="card card-technews">
     <div class="card-header">
       <span class="card-dot"></span>
-      <span class="card-label">Tech News</span>
+      <span class="card-label">한국 뉴스</span>
     </div>
     <div class="card-body" id="technewsContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
@@ -1014,58 +1014,75 @@ async function fetchHolidays() {
   }
 }
 
-// ----- TECH NEWS (Hacker News) -----
+// ----- TECH NEWS (네이버 뉴스 IT/과학) -----
 
 async function fetchTechNews() {
   var el = $('technewsContent');
   try {
-    var idsRes = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
-    if (!idsRes.ok) throw new Error('HTTP ' + idsRes.status);
-    var ids = await idsRes.json();
+    // Google News RSS — 한국 뉴스
+    var rssUrl = 'https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko';
+    var proxyUrl = 'https://api.allorigins.win/get?url=' + encodeURIComponent(rssUrl);
 
-    // Get top 5 stories
-    var topIds = ids.slice(0, 5);
-    var stories = [];
-    for (var i = 0; i < topIds.length; i++) {
-      try {
-        var storyRes = await fetch('https://hacker-news.firebaseio.com/v0/item/' + topIds[i] + '.json');
-        if (storyRes.ok) {
-          var story = await storyRes.json();
-          if (story && story.title) {
-            stories.push(story);
-          }
-        }
-      } catch(e) { /* skip failed */ }
-    }
+    var ctrl = new AbortController();
+    var timeout = setTimeout(function() { ctrl.abort(); }, 10000);
+    var resp;
+    try {
+      resp = await fetch(proxyUrl, { signal: ctrl.signal });
+    } finally { clearTimeout(timeout); }
 
-    if (stories.length === 0) {
-      el.innerHTML = '<div class="widget-error">기술 뉴스를 불러올 수 없습니다</div>';
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    var jsonData = await resp.json();
+    var xmlText = jsonData.contents || '';
+
+    // XML 파싱
+    var parser = new DOMParser();
+    var doc = parser.parseFromString(xmlText, 'text/xml');
+    var items = doc.querySelectorAll('item');
+
+    if (items.length === 0) {
+      el.innerHTML = '<div class="widget-error">뉴스가 없습니다</div>';
       return;
     }
 
     var html = '<div class="technews-list">';
-    for (var i = 0; i < stories.length; i++) {
-      var s = stories[i];
-      var title = escapeHtml(s.title);
-      var url = s.url ? s.url : 'https://news.ycombinator.com/item?id=' + s.id;
-      var score = s.score || 0;
-      var comments = s.descendants || 0;
-      var author = escapeHtml(s.by || 'anonymous');
+    var count = Math.min(items.length, 5);
+    for (var i = 0; i < count; i++) {
+      var item = items[i];
+      var titleEl = item.querySelector('title');
+      var linkEl = item.querySelector('link');
+      var descEl = item.querySelector('description');
+      var pubEl = item.querySelector('pubDate');
+
+      var title = titleEl ? escapeHtml(titleEl.textContent) : '제목 없음';
+      var link = linkEl ? linkEl.textContent.trim() : '#';
+      var pubDate = pubEl ? timeAgoShort(pubEl.textContent.trim()) : '';
+
       html += '' +
         '<div class="technews-item">' +
-          '<div class="technews-title"><a href="' + url + '" target="_blank" rel="noopener">' + title + '</a></div>' +
+          '<div class="technews-title"><a href="' + link + '" target="_blank" rel="noopener">' + title + '</a></div>' +
           '<div class="technews-meta">' +
-            '<span>⬆ ' + score + '</span>' +
-            '<span>💬 ' + comments + '</span>' +
-            '<span>👤 ' + author + '</span>' +
+            '<span>구글 뉴스</span>' +
+            (pubDate ? '<span>· ' + pubDate + '</span>' : '') +
           '</div>' +
         '</div>';
     }
     html += '</div>';
     el.innerHTML = html;
   } catch(e) {
-    el.innerHTML = '<div class="widget-error">기술 뉴스를 불러올 수 없습니다</div>';
+    el.innerHTML = '<div class="widget-error">뉴스를 불러올 수 없습니다</div>';
   }
+}
+
+function timeAgoShort(dateStr) {
+  try {
+    var diff = Date.now() - new Date(dateStr).getTime();
+    var min = Math.floor(diff / 60000);
+    if (min < 1) return '방금';
+    if (min < 60) return min + '분 전';
+    var hr = Math.floor(min / 60);
+    if (hr < 24) return hr + '시간 전';
+    return Math.floor(hr / 24) + '일 전';
+  } catch(e) { return ''; }
 }
 
 // ----- GITHUB -----
