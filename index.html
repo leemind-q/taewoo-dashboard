@@ -1,846 +1,1049 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dashboard</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  <style>
-    * { margin:0; padding:0; box-sizing:border-box; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mission Control Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ===== RESET & BASE ===== */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-    :root {
-      --bg: #060608;
-      --glass: rgba(255,255,255,0.025);
-      --glass-hi: rgba(255,255,255,0.05);
-      --border: rgba(255,255,255,0.06);
-      --border-hi: rgba(255,255,255,0.12);
-      --text: #f5f5f0;
-      --text-2: #a0a0a8;
-      --text-3: #5a5a62;
-      --amber: #e8a838;
-      --amber-glow: rgba(232,168,56,0.15);
-      --teal: #2dd4bf;
-      --teal-glow: rgba(45,212,191,0.12);
-      --red: #f87171;
-      --blue: #60a5fa;
-      --green: #34d399;
+  body {
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
+    background: #050507;
+    color: rgba(255,255,255,0.88);
+    min-height: 100vh;
+    padding: 24px;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* ===== NOISE TEXTURE ===== */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.025;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 256px 256px;
+  }
+
+  /* subtle ambient glow */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background: radial-gradient(ellipse 80% 50% at 50% 0%, rgba(59,130,246,0.04) 0%, transparent 70%),
+                radial-gradient(ellipse 60% 40% at 80% 100%, rgba(251,191,36,0.03) 0%, transparent 60%);
+  }
+
+  /* ===== HEADER ===== */
+  .dashboard-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1400px;
+    margin: 0 auto 24px;
+    position: relative;
+    z-index: 1;
+    padding: 0 4px;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .brand-dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: #3b82f6;
+    animation: pulse-dot 2.4s ease-in-out infinite;
+    box-shadow: 0 0 16px rgba(59,130,246,0.5), 0 0 40px rgba(59,130,246,0.15);
+    position: relative;
+  }
+  .brand-dot::after {
+    content: '';
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    border: 1px solid rgba(59,130,246,0.2);
+    animation: pulse-ring 2.4s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.65; transform: scale(0.92); }
+  }
+  @keyframes pulse-ring {
+    0%, 100% { opacity: 0.4; transform: scale(1); }
+    50% { opacity: 0; transform: scale(1.5); }
+  }
+
+  .brand-text {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.25em;
+    color: rgba(255,255,255,0.85);
+    text-transform: uppercase;
+  }
+
+  .refresh-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    color: rgba(255,255,255,0.7);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  .refresh-btn:hover {
+    background: rgba(255,255,255,0.1);
+    border-color: rgba(255,255,255,0.18);
+    color: rgba(255,255,255,0.95);
+  }
+  .refresh-btn:active {
+    transform: scale(0.97);
+  }
+  .refresh-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+  .refresh-btn svg {
+    width: 15px;
+    height: 15px;
+    flex-shrink: 0;
+    transition: transform 0.4s ease;
+  }
+  .refresh-btn.spinning svg {
+    transform: rotate(360deg);
+  }
+
+  /* ===== DASHBOARD GRID ===== */
+  .dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 22px;
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ===== CARDS ===== */
+  .card {
+    background: linear-gradient(145deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.015) 100%);
+    backdrop-filter: blur(24px) saturate(1.1);
+    -webkit-backdrop-filter: blur(24px) saturate(1.1);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 20px;
+    padding: 26px 28px;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.4s ease, box-shadow 0.4s ease;
+  }
+  .card:hover {
+    border-color: rgba(255,255,255,0.13);
+    box-shadow: 0 0 60px rgba(59,130,246,0.03), 0 0 120px rgba(59,130,246,0.015);
+  }
+
+  /* gradient border line on top */
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent 5%, rgba(59,130,246,0.35) 30%, rgba(251,191,36,0.25) 60%, rgba(59,130,246,0.1) 80%, transparent 95%);
+  }
+
+  /* inner gradient glow */
+  .card::after {
+    content: '';
+    position: absolute;
+    top: -40%;
+    left: -20%;
+    width: 140%;
+    height: 100%;
+    background: radial-gradient(ellipse 60% 50% at 30% 15%, rgba(59,130,246,0.04) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* ===== CARD HEADER ===== */
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .card-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #3b82f6;
+    flex-shrink: 0;
+  }
+  .card-header .card-dot {
+    box-shadow: 0 0 10px rgba(59,130,246,0.4);
+  }
+
+  .card-label {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    color: rgba(255,255,255,0.35);
+    text-transform: uppercase;
+  }
+
+  /* ===== CARD SPANS ===== */
+  .card-clock   { grid-column: span 2; }
+  .card-weather { grid-column: span 2; }
+  .card-air     { grid-column: span 1; }
+  .card-forex   { grid-column: span 1; }
+  .card-github  { grid-column: span 2; }
+  .card-stocks  { grid-column: 1 / -1; }
+
+  /* ===== LOADING DOTS ===== */
+  .loading-dots {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 24px 0;
+  }
+  .loading-dots span {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.2);
+    animation: dot-bounce 1.4s ease-in-out infinite both;
+  }
+  .loading-dots span:nth-child(2) { animation-delay: 0.16s; }
+  .loading-dots span:nth-child(3) { animation-delay: 0.32s; }
+
+  @keyframes dot-bounce {
+    0%, 80%, 100% { transform: scale(0.55); opacity: 0.35; }
+    40% { transform: scale(1); opacity: 1; }
+  }
+
+  .card-body {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ===== CLOCK ===== */
+  .clock-time {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 300;
+    font-size: clamp(48px, 5vw, 74px);
+    letter-spacing: -0.02em;
+    color: #fff;
+    line-height: 1;
+    margin-bottom: 6px;
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 0 60px rgba(59,130,246,0.08);
+  }
+  .clock-date {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: rgba(255,255,255,0.4);
+    letter-spacing: 0.02em;
+  }
+
+  /* ===== WEATHER ===== */
+  .weather-main {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 18px;
+  }
+  .weather-icon {
+    font-size: 48px;
+    line-height: 1;
+  }
+  .weather-temp {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 300;
+    font-size: clamp(42px, 4vw, 58px);
+    color: #fff;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .weather-feels {
+    font-size: 14px;
+    color: rgba(255,255,255,0.45);
+    margin-top: 2px;
+  }
+  .weather-desc {
+    font-size: 14px;
+    color: rgba(255,255,255,0.5);
+    font-weight: 500;
+  }
+  .weather-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+  .weather-stat {
+    background: rgba(255,255,255,0.04);
+    border-radius: 12px;
+    padding: 12px 14px;
+    text-align: center;
+  }
+  .weather-stat-label {
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .weather-stat-value {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgba(255,255,255,0.85);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ===== AIR QUALITY ===== */
+  .air-gauge-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+  .air-gauge-svg {
+    width: 110px;
+    height: 110px;
+  }
+  .air-gauge-value {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+  .air-gauge-unit {
+    font-size: 12px;
+    color: rgba(255,255,255,0.35);
+    font-weight: 500;
+  }
+  .air-gauge-label {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+  }
+  .air-details {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 12px;
+    width: 100%;
+  }
+  .air-detail-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: rgba(255,255,255,0.45);
+  }
+  .air-detail-row span:last-child {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    color: rgba(255,255,255,0.7);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ===== EXCHANGE ===== */
+  .forex-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px;
+  }
+  .forex-item {
+    background: rgba(255,255,255,0.03);
+    border-radius: 12px;
+    padding: 12px 14px;
+  }
+  .forex-code {
+    font-size: 12px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.3);
+    margin-bottom: 3px;
+    letter-spacing: 0.02em;
+  }
+  .forex-value {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(255,255,255,0.88);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+
+  /* ===== GITHUB ===== */
+  .github-events {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .github-event {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 12px;
+    transition: background 0.2s ease;
+  }
+  .github-event:hover {
+    background: rgba(255,255,255,0.03);
+  }
+  .github-event-icon {
+    font-size: 16px;
+    line-height: 1.4;
+    flex-shrink: 0;
+    width: 20px;
+    text-align: center;
+  }
+  .github-event-body {
+    flex: 1;
+    min-width: 0;
+  }
+  .github-event-repo {
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.7);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .github-event-repo span {
+    color: rgba(255,255,255,0.35);
+  }
+  .github-event-msg {
+    font-size: 13px;
+    color: rgba(255,255,255,0.5);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 1px;
+  }
+  .github-event-time {
+    font-size: 11px;
+    color: rgba(255,255,255,0.25);
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  /* ===== STOCKS ===== */
+  .stocks-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+  .stock-item {
+    background: rgba(255,255,255,0.03);
+    border-radius: 16px;
+    padding: 18px 20px;
+    text-align: center;
+    transition: background 0.2s ease;
+  }
+  .stock-item:hover {
+    background: rgba(255,255,255,0.05);
+  }
+  .stock-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.45);
+    margin-bottom: 6px;
+  }
+  .stock-price {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: clamp(20px, 2vw, 26px);
+    color: #fff;
+    font-variant-numeric: tabular-nums;
+    margin-bottom: 3px;
+  }
+  .stock-change {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  .stock-change.up { color: #34d399; }
+  .stock-change.down { color: #f87171; }
+  .stock-change.neutral { color: rgba(255,255,255,0.4); }
+
+  .stock-fallback {
+    text-align: center;
+    padding: 18px 0;
+  }
+  .stock-fallback a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    transition: color 0.2s;
+  }
+  .stock-fallback a:hover {
+    color: #60a5fa;
+    text-decoration: underline;
+  }
+
+  /* ===== ERROR STATE ===== */
+  .widget-error {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 0;
+    font-size: 13px;
+    color: rgba(255,255,255,0.3);
+  }
+  .widget-error a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .widget-error a:hover {
+    text-decoration: underline;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 1024px) {
+    .dashboard-grid {
+      gap: 18px;
     }
+    .card { padding: 22px 24px; }
+  }
 
-    body {
-      font-family: 'Plus Jakarta Sans', sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-      overflow-x: hidden;
-      -webkit-font-smoothing: antialiased;
-    }
+  @media (max-width: 768px) {
+    body { padding: 14px; }
 
-    /* Ambient background */
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background:
-        radial-gradient(circle at 15% 20%, rgba(232,168,56,0.06) 0%, transparent 35%),
-        radial-gradient(circle at 85% 80%, rgba(45,212,191,0.05) 0%, transparent 40%),
-        radial-gradient(circle at 50% 50%, rgba(139,92,246,0.03) 0%, transparent 50%);
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    .container {
-      position: relative;
-      z-index: 1;
-      max-width: 1280px;
-      margin: 0 auto;
-      padding: 24px;
-    }
-
-    /* ─── Header ─── */
-    .top-bar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 28px;
-    }
-
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .brand-dot {
-      width: 10px; height: 10px;
-      border-radius: 50%;
-      background: var(--amber);
-      box-shadow: 0 0 12px var(--amber-glow);
-      animation: breathe 3s ease-in-out infinite;
-    }
-
-    @keyframes breathe {
-      0%,100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.6; transform: scale(0.85); }
-    }
-
-    .brand-name {
-      font-size: 13px;
-      font-weight: 600;
-      color: var(--text-2);
-      letter-spacing: 0.5px;
-      text-transform: uppercase;
-    }
-
-    .top-actions {
-      display: flex;
-      align-items: center;
+    .dashboard-grid {
+      grid-template-columns: 1fr;
       gap: 16px;
     }
-
-    .live-tag {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 11px;
-      color: var(--text-3);
-      font-weight: 500;
+    .card-clock,
+    .card-weather,
+    .card-air,
+    .card-forex,
+    .card-github,
+    .card-stocks {
+      grid-column: span 1;
     }
 
-    .live-tag::before {
-      content: '';
-      width: 6px; height: 6px;
-      border-radius: 50%;
-      background: var(--green);
-      animation: breathe 2s infinite;
-    }
+    .brand-text { font-size: 15px; }
+    .refresh-btn { padding: 8px 16px; font-size: 12px; }
+    .refresh-btn svg { width: 13px; height: 13px; }
 
-    .refresh-btn {
-      background: var(--glass);
-      border: 1px solid var(--border);
-      color: var(--text-2);
-      padding: 8px 16px;
-      border-radius: 100px;
-      cursor: pointer;
-      font-size: 12px;
-      font-family: inherit;
-      font-weight: 500;
-      transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-    }
+    .clock-time { font-size: clamp(42px, 12vw, 56px); }
 
-    .refresh-btn:hover {
-      background: var(--glass-hi);
-      border-color: var(--border-hi);
-      color: var(--text);
-      transform: translateY(-1px);
-    }
+    .weather-main { gap: 14px; }
+    .weather-icon { font-size: 38px; }
+    .weather-temp { font-size: clamp(36px, 10vw, 48px); }
+    .weather-stats { grid-template-columns: repeat(2, 1fr); }
 
-    /* ─── Bento Grid ─── */
-    .bento {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      grid-auto-rows: minmax(160px, auto);
-      gap: 16px;
-    }
+    .stocks-grid { grid-template-columns: 1fr; gap: 10px; }
 
-    .card {
-      background: var(--glass);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid var(--border);
-      border-radius: 24px;
-      padding: 24px;
-      position: relative;
-      overflow: hidden;
-      transition: border-color 0.4s ease, transform 0.3s ease;
-    }
+    .card-header { margin-bottom: 16px; }
+  }
 
-    .card::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 1px;
-      background: linear-gradient(90deg, transparent, var(--border-hi), transparent);
-    }
+  @media (max-width: 480px) {
+    body { padding: 10px; }
+    .dashboard-grid { gap: 12px; }
+    .card { padding: 18px 16px; border-radius: 16px; }
 
-    .card:hover {
-      border-color: var(--border-hi);
-    }
+    .weather-stats { grid-template-columns: repeat(2, 1fr); }
+    .weather-stat { padding: 10px 12px; }
 
-    /* Card spans */
-    .span-2 { grid-column: span 2; }
-    .span-4 { grid-column: span 4; }
-    .row-2 { grid-row: span 2; }
+    .air-gauge-svg { width: 90px; height: 90px; }
 
-    /* Card header */
-    .card-label {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 20px;
-    }
-
-    .card-label-dot {
-      width: 6px; height: 6px;
-      border-radius: 50%;
-    }
-
-    .card-label-text {
-      font-size: 11px;
-      font-weight: 600;
-      color: var(--text-3);
-      letter-spacing: 1.2px;
-      text-transform: uppercase;
-    }
-
-    /* ─── Clock Widget (large, span 2) ─── */
-    .clock-value {
-      font-size: 56px;
-      font-weight: 200;
-      letter-spacing: -2px;
-      font-variant-numeric: tabular-nums;
-      line-height: 1;
-    }
-
-    .clock-date {
-      font-size: 13px;
-      color: var(--text-2);
-      margin-top: 8px;
-      font-weight: 400;
-    }
-
-    /* ─── Weather Widget (span 2, row 2) ─── */
-    .weather-hero {
-      display: flex;
-      align-items: flex-end;
-      gap: 16px;
-    }
-
-    .weather-temp {
-      font-size: 64px;
-      font-weight: 200;
-      letter-spacing: -3px;
-      line-height: 0.9;
-    }
-
-    .weather-icon {
-      font-size: 36px;
-      margin-bottom: 8px;
-      filter: drop-shadow(0 4px 12px var(--amber-glow));
-    }
-
-    .weather-desc {
-      font-size: 14px;
-      color: var(--text-2);
-      margin-top: 4px;
-    }
-
-    .weather-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-      margin-top: 24px;
-      padding-top: 20px;
-      border-top: 1px solid var(--border);
-    }
-
-    .weather-stat .stat-label {
-      font-size: 10px;
-      color: var(--text-3);
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
-
-    .weather-stat .stat-value {
-      font-size: 18px;
-      font-weight: 500;
-      margin-top: 4px;
-      font-variant-numeric: tabular-nums;
-    }
-
-    /* ─── AQI Widget ─── */
-    .aqi-display {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-    }
-
-    .aqi-ring {
-      width: 80px; height: 80px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 28px;
-      font-weight: 300;
-      position: relative;
-    }
-
-    .aqi-ring::before {
-      content: '';
-      position: absolute;
-      inset: -4px;
-      border-radius: 50%;
-      border: 2px solid currentColor;
-      opacity: 0.3;
-    }
-
-    .aqi-grade {
-      font-size: 20px;
-      font-weight: 600;
-    }
-
-    .aqi-sub {
-      font-size: 12px;
-      color: var(--text-3);
-      margin-top: 2px;
-    }
-
-    .aqi-breakdown {
-      display: flex;
-      gap: 16px;
-      margin-top: 20px;
-      padding-top: 16px;
-      border-top: 1px solid var(--border);
-    }
-
-    .aqi-mini {
-      flex: 1;
-    }
-
-    .aqi-mini .stat-label {
-      font-size: 10px;
-      color: var(--text-3);
-      text-transform: uppercase;
-      letter-spacing: 0.8px;
-    }
-
-    .aqi-mini .stat-value {
-      font-size: 16px;
-      font-weight: 500;
-      margin-top: 2px;
-      font-variant-numeric: tabular-nums;
-    }
-
-    /* ─── Exchange Rate Widget ─── */
-    .rate-rows {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .rate-item {
-      display: grid;
-      grid-template-columns: 48px 1fr auto;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .rate-code {
-      font-size: 14px;
-      font-weight: 700;
-      color: var(--amber);
-    }
-
-    .rate-bar {
-      height: 1px;
-      background: var(--border);
-    }
-
-    .rate-value {
-      font-size: 15px;
-      font-weight: 600;
-      font-variant-numeric: tabular-nums;
-      text-align: right;
-    }
-
-    .rate-value-wrap {
-      text-align: right;
-    }
-
-    .rate-delta {
-      font-size: 10px;
-      font-weight: 600;
-      margin-top: 2px;
-    }
-
-    .rate-delta.up { color: var(--red); }
-    .rate-delta.down { color: var(--blue); }
-
-    /* ─── GitHub Widget ─── */
-    .gh-rows {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .gh-row {
-      display: flex;
-      gap: 12px;
-      text-decoration: none;
-      color: var(--text);
-      padding: 10px 0;
-      border-bottom: 1px solid var(--border);
-      transition: padding-left 0.2s;
-    }
-
-    .gh-row:last-child { border-bottom: none; }
-    .gh-row:hover { padding-left: 8px; }
-
-    .gh-type {
-      width: 32px; height: 32px;
-      border-radius: 8px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 14px;
-      flex-shrink: 0;
-      background: var(--glass-hi);
-    }
-
-    .gh-body { flex: 1; min-width: 0; }
-
-    .gh-repo {
-      font-size: 12px;
-      font-weight: 600;
-      color: var(--teal);
-    }
-
-    .gh-msg {
-      font-size: 12px;
-      color: var(--text-2);
-      margin-top: 2px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-
-    .gh-time {
-      font-size: 10px;
-      color: var(--text-3);
-      margin-top: 2px;
-    }
-
-    /* ─── Stock Widget ─── */
-    .stock-rows {
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
-    }
-
-    .stock-item {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .stock-left { display: flex; flex-direction: column; }
-    .stock-name { font-size: 13px; font-weight: 600; }
-    .stock-code { font-size: 10px; color: var(--text-3); margin-top: 1px; }
-
-    .stock-right { text-align: right; }
-    .stock-price { font-size: 16px; font-weight: 600; font-variant-numeric: tabular-nums; }
-    .stock-chg { font-size: 11px; font-weight: 600; margin-top: 1px; }
-    .stock-chg.up { color: var(--red); }
-    .stock-chg.down { color: var(--blue); }
-    .stock-chg.flat { color: var(--text-3); }
-
-    /* ─── Loading ─── */
-    .loading {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      padding: 16px 0;
-    }
-
-    .loading span {
-      width: 6px; height: 6px;
-      border-radius: 50%;
-      background: var(--text-3);
-      animation: pulse-load 1.4s infinite ease-in-out;
-    }
-
-    .loading span:nth-child(2) { animation-delay: 0.2s; }
-    .loading span:nth-child(3) { animation-delay: 0.4s; }
-
-    @keyframes pulse-load {
-      0%, 80%, 100% { opacity: 0.2; transform: scale(0.8); }
-      40% { opacity: 1; transform: scale(1.2); }
-    }
-
-    .error {
-      font-size: 12px;
-      color: var(--text-3);
-      padding: 12px 0;
-      text-align: center;
-    }
-
-    /* ─── Responsive ─── */
-    @media (max-width: 900px) {
-      .bento { grid-template-columns: repeat(2, 1fr); }
-      .span-2, .span-4 { grid-column: span 2; }
-      .row-2 { grid-row: span 1; }
-    }
-
-    @media (max-width: 600px) {
-      .container { padding: 16px; }
-      .bento { grid-template-columns: 1fr; gap: 12px; }
-      .span-2, .span-4 { grid-column: span 1; }
-      .clock-value { font-size: 42px; }
-      .weather-temp { font-size: 48px; }
-      .weather-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-  </style>
+    .dashboard-header { flex-direction: column; gap: 12px; align-items: flex-start; }
+    .refresh-btn { align-self: flex-end; }
+  }
+</style>
 </head>
 <body>
-  <div class="container">
-    <!-- Top Bar -->
-    <div class="top-bar">
-      <div class="brand">
-        <div class="brand-dot"></div>
-        <div class="brand-name">Dashboard</div>
-      </div>
-      <div class="top-actions">
-        <div class="live-tag" id="last-update">LIVE</div>
-        <button class="refresh-btn" onclick="refreshAll()">새로고침</button>
-      </div>
+
+<!-- ===== HEADER ===== -->
+<header class="dashboard-header">
+  <div class="brand">
+    <span class="brand-dot"></span>
+    <span class="brand-text">DASHBOARD</span>
+  </div>
+  <button class="refresh-btn" id="refreshBtn" onclick="refreshAll()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/>
+    </svg>
+    Refresh
+  </button>
+</header>
+
+<!-- ===== DASHBOARD GRID ===== -->
+<main class="dashboard-grid">
+
+  <!-- 1. CLOCK -->
+  <div class="card card-clock">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Time</span>
     </div>
-
-    <!-- Bento Grid -->
-    <div class="bento">
-      <!-- Clock — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--amber)"></div>
-          <div class="card-label-text">Now</div>
-        </div>
-        <div class="clock-value" id="clock-time">--:--</div>
-        <div class="clock-date" id="clock-date">—</div>
-      </div>
-
-      <!-- Weather — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--teal)"></div>
-          <div class="card-label-text">Weather · 인천 남동구</div>
-        </div>
-        <div id="weather-content" class="loading"><span></span><span></span><span></span></div>
-      </div>
-
-      <!-- AQI — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--green)"></div>
-          <div class="card-label-text">Air Quality</div>
-        </div>
-        <div id="aqi-content" class="loading"><span></span><span></span><span></span></div>
-      </div>
-
-      <!-- Exchange Rates — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--amber)"></div>
-          <div class="card-label-text">FX Rates · KRW</div>
-        </div>
-        <div id="rate-content" class="loading"><span></span><span></span><span></span></div>
-      </div>
-
-      <!-- GitHub — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--text-2)"></div>
-          <div class="card-label-text">GitHub Activity</div>
-        </div>
-        <div id="gh-content" class="loading"><span></span><span></span><span></span></div>
-      </div>
-
-      <!-- Stocks — span 2 -->
-      <div class="card span-2">
-        <div class="card-label">
-          <div class="card-label-dot" style="background:var(--red)"></div>
-          <div class="card-label-text">Stocks</div>
-        </div>
-        <div id="stock-content" class="loading"><span></span><span></span><span></span></div>
-      </div>
+    <div class="card-body">
+      <div class="clock-time" id="clockTime">--:--:--</div>
+      <div class="clock-date" id="clockDate">----.--.--</div>
     </div>
   </div>
 
-  <script>
-    // ═══════════════════════════════════════════════════════════════
-    // Dashboard Engine — 무료 API만 사용
-    // ═══════════════════════════════════════════════════════════════
+  <!-- 2. WEATHER -->
+  <div class="card card-weather">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Weather</span>
+    </div>
+    <div class="card-body" id="weatherContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
 
-    const LAT = 37.4476, LON = 126.7316; // 인천 남동구
-    let prevRates = {};
+  <!-- 3. AIR QUALITY -->
+  <div class="card card-air">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Air Quality</span>
+    </div>
+    <div class="card-body" id="airContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
 
-    // ─── Clock ────────────────────────────────────────────────────────
-    function updateClock() {
-      const now = new Date();
-      const h = String(now.getHours()).padStart(2, '0');
-      const m = String(now.getMinutes()).padStart(2, '0');
-      const s = String(now.getSeconds()).padStart(2, '0');
-      const el = document.getElementById('clock-time');
-      el.textContent = `${h}:${m}`;
+  <!-- 4. EXCHANGE RATES -->
+  <div class="card card-forex">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Exchange</span>
+    </div>
+    <div class="card-body" id="forexContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
 
-      const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
-      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-      const dateStr = `${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}`;
-      document.getElementById('clock-date').textContent = dateStr;
+  <!-- 5. GITHUB -->
+  <div class="card card-github">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">GitHub</span>
+    </div>
+    <div class="card-body" id="githubContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
+
+  <!-- 6. STOCKS -->
+  <div class="card card-stocks">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Stocks</span>
+    </div>
+    <div class="card-body" id="stocksContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
+
+</main>
+
+<script>
+/* ==================================================================
+   MISSION CONTROL DASHBOARD — JavaScript
+   ================================================================== */
+
+// ----- UTILITIES -----
+
+function escapeHtml(str) {
+  var d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+function timeAgo(dateStr) {
+  var now = Date.now();
+  var then = new Date(dateStr).getTime();
+  var diff = Math.floor((now - then) / 1000);
+  if (diff < 0) return '곧';
+  if (diff < 60) return '방금';
+  if (diff < 3600) return Math.floor(diff / 60) + '분 전';
+  if (diff < 86400) return Math.floor(diff / 3600) + '시간 전';
+  return Math.floor(diff / 86400) + '일 전';
+}
+
+function $(id) { return document.getElementById(id); }
+
+// ----- CLOCK -----
+
+function updateClock() {
+  var now = new Date();
+  var days = ['일요일','월요일','화요일','수요일','목요일','금요일','토요일'];
+  var h = String(now.getHours()).padStart(2,'0');
+  var m = String(now.getMinutes()).padStart(2,'0');
+  var s = String(now.getSeconds()).padStart(2,'0');
+  var y = now.getFullYear();
+  var mo = String(now.getMonth()+1).padStart(2,'0');
+  var d = String(now.getDate()).padStart(2,'0');
+  var day = days[now.getDay()];
+  $('clockTime').textContent = h + ':' + m + ':' + s;
+  $('clockDate').textContent = y + '.' + mo + '.' + d + ' ' + day;
+}
+
+// ----- WEATHER -----
+
+function getWeatherEmoji(code) {
+  if (code === 0) return '☀️';
+  if (code <= 3) return '⛅';
+  if (code <= 48) return '🌫️';
+  if (code <= 67) return '🌧️';
+  if (code <= 77) return '🌨️';
+  if (code <= 82) return '🌦️';
+  return '⛈️';
+}
+
+function getWeatherDesc(code) {
+  if (code === 0) return '맑음';
+  if (code <= 3) return '구름많음';
+  if (code <= 48) return '안개';
+  if (code <= 67) return '비';
+  if (code <= 77) return '눈';
+  if (code <= 82) return '소나기';
+  return '뇌우';
+}
+
+async function fetchWeather() {
+  var el = $('weatherContent');
+  try {
+    var url = 'https://api.open-meteo.com/v1/forecast?latitude=37.4476&longitude=126.7316&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=Asia/Seoul';
+    var res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var data = await res.json();
+
+    var curr = data.current;
+    var daily = data.daily;
+
+    var temp = Math.round(curr.temperature_2m);
+    var feels = Math.round(curr.apparent_temperature);
+    var humidity = curr.relative_humidity_2m;
+    var wind = curr.wind_speed_10m;
+    var wcode = curr.weather_code;
+    var high = Math.round(daily.temperature_2m_max[0]);
+    var low = Math.round(daily.temperature_2m_min[0]);
+
+    el.innerHTML = '' +
+      '<div class="weather-main">' +
+        '<div class="weather-icon">' + getWeatherEmoji(wcode) + '</div>' +
+        '<div>' +
+          '<div class="weather-temp">' + temp + '°</div>' +
+          '<div class="weather-feels">체감 ' + feels + '° · ' + escapeHtml(getWeatherDesc(wcode)) + '</div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="weather-stats">' +
+        '<div class="weather-stat"><div class="weather-stat-label">최고</div><div class="weather-stat-value">' + high + '°</div></div>' +
+        '<div class="weather-stat"><div class="weather-stat-label">최저</div><div class="weather-stat-value">' + low + '°</div></div>' +
+        '<div class="weather-stat"><div class="weather-stat-label">습도</div><div class="weather-stat-value">' + humidity + '%</div></div>' +
+        '<div class="weather-stat"><div class="weather-stat-label">바람</div><div class="weather-stat-value">' + wind + 'm/s</div></div>' +
+      '</div>';
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">날씨 정보를 불러올 수 없습니다</div>';
+  }
+}
+
+// ----- AIR QUALITY -----
+
+function getAirGrade(pm10) {
+  if (pm10 <= 30) return { label: '좋음', color: '#34d399' };
+  if (pm10 <= 80) return { label: '보통', color: '#fbbf24' };
+  if (pm10 <= 150) return { label: '나쁨', color: '#f87171' };
+  return { label: '매우나쁨', color: '#991b1b' };
+}
+
+async function fetchAirQuality() {
+  var el = $('airContent');
+  try {
+    var url = 'https://air-quality-api.open-meteo.com/v1/air-quality?latitude=37.4476&longitude=126.7316&current=pm10,pm2_5,ozone,nitrogen_dioxide&timezone=Asia/Seoul';
+    var res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var data = await res.json();
+
+    var pm10 = Math.round(data.current.pm10) || 0;
+    var pm25 = Math.round(data.current.pm2_5) || 0;
+    var o3 = Math.round(data.current.ozone) || 0;
+    var no2 = Math.round(data.current.nitrogen_dioxide) || 0;
+
+    var grade = getAirGrade(pm10);
+    var circumference = 301.59;
+    var maxVal = 200;
+    var fraction = Math.min(pm10 / maxVal, 1);
+    var offset = circumference * (1 - fraction);
+
+    el.innerHTML = '' +
+      '<div class="air-gauge-wrap">' +
+        '<div class="air-gauge-svg-wrap" style="position:relative;display:inline-flex">' +
+          '<svg class="air-gauge-svg" viewBox="0 0 120 120">' +
+            '<circle cx="60" cy="60" r="48" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="6"/>' +
+            '<circle cx="60" cy="60" r="48" fill="none" stroke="' + grade.color + '" stroke-width="6" stroke-linecap="round" stroke-dasharray="' + circumference + '" stroke-dashoffset="' + offset + '" transform="rotate(-90 60 60)" style="transition: stroke-dashoffset 1s ease, stroke 0.4s ease"/>' +
+          '</svg>' +
+          '<div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center">' +
+            '<div class="air-gauge-value" style="color:' + grade.color + '">' + pm10 + '</div>' +
+            '<div class="air-gauge-unit">PM10</div>' +
+          '</div>' +
+        '</div>' +
+        '<div class="air-gauge-label" style="color:' + grade.color + '">' + grade.label + '</div>' +
+      '</div>' +
+      '<div class="air-details">' +
+        '<div class="air-detail-row"><span>PM2.5</span><span>' + pm25 + ' µg/m³</span></div>' +
+        '<div class="air-detail-row"><span>오존(O₃)</span><span>' + o3 + ' µg/m³</span></div>' +
+        '<div class="air-detail-row"><span>이산화질소(NO₂)</span><span>' + no2 + ' µg/m³</span></div>' +
+      '</div>';
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">대기질 정보를 불러올 수 없습니다</div>';
+  }
+}
+
+// ----- EXCHANGE RATES -----
+
+async function fetchForex() {
+  var el = $('forexContent');
+  try {
+    var url = 'https://open.er-api.com/v6/latest/KRW';
+    var res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var data = await res.json();
+    var rates = data.rates;
+
+    var currencies = [
+      { code: 'USD', value: (1 / rates.USD).toFixed(1) },
+      { code: 'EUR', value: (1 / rates.EUR).toFixed(1) },
+      { code: 'JPY', value: (1 / rates.JPY).toFixed(1) },
+      { code: 'CNY', value: (1 / rates.CNY).toFixed(1) }
+    ];
+
+    var html = '<div class="forex-grid">';
+    currencies.forEach(function(c) {
+      var numVal = parseFloat(c.value);
+      var formatted = numVal >= 100 ? Math.round(numVal).toLocaleString() : c.value;
+      html += '<div class="forex-item"><div class="forex-code">' + escapeHtml(c.code) + '</div><div class="forex-value">' + formatted + '</div></div>';
+    });
+    html += '</div>';
+    el.innerHTML = html;
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">환율 정보를 불러올 수 없습니다</div>';
+  }
+}
+
+// ----- GITHUB -----
+
+function getEventIcon(type) {
+  var map = {
+    PushEvent: '⬆️',
+    CreateEvent: '✨',
+    WatchEvent: '⭐',
+    ForkEvent: '🍴',
+    ReleaseEvent: '📦'
+  };
+  return map[type] || '🔹';
+}
+
+function getEventMessage(event) {
+  if (event.type === 'PushEvent') {
+    var commits = event.payload.commits || [];
+    if (commits.length === 0) return 'No commits';
+    return commits.map(function(c) { return c.message.split('\n')[0]; }).join(', ');
+  }
+  if (event.type === 'CreateEvent') {
+    var ref = event.payload.ref || event.payload.master_branch || '';
+    return 'Created ' + event.payload.ref_type + ' ' + ref;
+  }
+  if (event.type === 'WatchEvent') return 'Starred this repository';
+  if (event.type === 'ForkEvent') return 'Forked this repository';
+  if (event.type === 'ReleaseEvent') return 'Released ' + (event.payload.release ? event.payload.release.tag_name || '' : '');
+  return event.type.replace('Event', '') || 'Activity';
+}
+
+async function fetchGitHub() {
+  var el = $('githubContent');
+  try {
+    var url = 'https://api.github.com/users/leemind-q/events/public?per_page=5';
+    var res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var events = await res.json();
+
+    var html = '<div class="github-events">';
+    events.forEach(function(ev) {
+      var repoName = ev.repo.name;
+      var parts = repoName.split('/');
+      var displayRepo = parts.length > 1 ? parts[0].substring(0,1) + '…/' + parts[1] : repoName;
+      var msg = getEventMessage(ev);
+      var time = timeAgo(ev.created_at);
+      var icon = getEventIcon(ev.type);
+      html += '' +
+        '<div class="github-event">' +
+          '<div class="github-event-icon">' + icon + '</div>' +
+          '<div class="github-event-body">' +
+            '<div class="github-event-repo">' + escapeHtml(displayRepo) + ' <span>·</span></div>' +
+            '<div class="github-event-msg">' + escapeHtml(msg) + '</div>' +
+          '</div>' +
+          '<div class="github-event-time">' + time + '</div>' +
+        '</div>';
+    });
+    html += '</div>';
+    el.innerHTML = html;
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">GitHub 활동을 불러올 수 없습니다</div>';
+  }
+}
+
+// ----- STOCKS -----
+
+async function fetchStocks() {
+  var el = $('stocksContent');
+  var symbols = [
+    { id: '005930.KS', name: '삼성전자' },
+    { id: '000660.KS', name: 'SK하이닉스' },
+    { id: '005380.KS', name: '현대차' }
+  ];
+
+  var results = [];
+  var hasError = false;
+
+  for (var i = 0; i < symbols.length; i++) {
+    var sym = symbols[i];
+    try {
+      var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/' + encodeURIComponent(sym.id);
+      var proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(yahooUrl);
+
+      var controller = new AbortController();
+      var timeout = setTimeout(function() { controller.abort(); }, 8000);
+
+      var res = await fetch(proxyUrl, { signal: controller.signal });
+      clearTimeout(timeout);
+
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      var data = await res.json();
+
+      var meta = data.chart.result[0].meta;
+      var price = meta.regularMarketPrice;
+      var prevClose = meta.chartPreviousClose || meta.previousClose;
+      var change = price - prevClose;
+      var changePct = (change / prevClose * 100);
+
+      results.push({
+        name: sym.name,
+        price: price,
+        change: change,
+        changePct: changePct
+      });
+    } catch(e) {
+      hasError = true;
+      results.push({
+        name: sym.name,
+        error: true
+      });
     }
-    updateClock();
-    setInterval(() => {
-      const now = new Date();
-      const s = String(now.getSeconds()).padStart(2, '0');
-      const el = document.getElementById('clock-time');
-      const cur = el.textContent;
-      const h = String(now.getHours()).padStart(2, '0');
-      const m = String(now.getMinutes()).padStart(2, '0');
-      el.textContent = `${h}:${m}`;
-      updateClock();
-    }, 1000);
+  }
 
-    // ─── Weather (Open-Meteo) ────────────────────────────────────────
-    async function loadWeather() {
-      const el = document.getElementById('weather-content');
-      try {
-        const url = `https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=Asia/Seoul`;
-        const data = await (await fetch(url)).json();
+  if (results.length === 0) {
+    el.innerHTML = '<div class="stock-fallback"><a href="https://finance.naver.com/" target="_blank" rel="noopener">네이버 금융 →</a></div>';
+    return;
+  }
 
-        const temp = Math.round(data.current.temperature_2m);
-        const feels = Math.round(data.current.apparent_temperature);
-        const humidity = data.current.relative_humidity_2m;
-        const wind = Math.round(data.current.wind_speed_10m);
-        const code = data.current.weather_code;
-        const maxT = Math.round(data.daily.temperature_2m_max[0]);
-        const minT = Math.round(data.daily.temperature_2m_min[0]);
-
-        const icon = wIcon(code);
-        const desc = wDesc(code);
-
-        el.innerHTML = `
-          <div class="weather-hero">
-            <div>
-              <div class="weather-temp">${temp}°</div>
-              <div class="weather-desc">${desc} · 체감 ${feels}°</div>
-            </div>
-            <div class="weather-icon">${icon}</div>
-          </div>
-          <div class="weather-grid">
-            <div class="weather-stat">
-              <div class="stat-label">High</div>
-              <div class="stat-value">${maxT}°</div>
-            </div>
-            <div class="weather-stat">
-              <div class="stat-label">Low</div>
-              <div class="stat-value">${minT}°</div>
-            </div>
-            <div class="weather-stat">
-              <div class="stat-label">Humidity</div>
-              <div class="stat-value">${humidity}%</div>
-            </div>
-            <div class="weather-stat">
-              <div class="stat-label">Wind</div>
-              <div class="stat-value">${wind}km/h</div>
-            </div>
-          </div>
-        `;
-      } catch(e) {
-        el.innerHTML = '<div class="error">날씨 로드 실패</div>';
-      }
+  var html = '<div class="stocks-grid">';
+  results.forEach(function(stock) {
+    if (stock.error) {
+      html += '' +
+        '<div class="stock-item">' +
+          '<div class="stock-name">' + escapeHtml(stock.name) + '</div>' +
+          '<div style="color:rgba(255,255,255,0.3);font-size:13px;padding:8px 0">—</div>' +
+        '</div>';
+      return;
     }
+    var cls = 'neutral';
+    var sign = '';
+    if (stock.change > 0) { cls = 'up'; sign = '▲'; }
+    else if (stock.change < 0) { cls = 'down'; sign = '▼'; }
+    else { sign = '—'; }
 
-    function wIcon(c) {
-      if (c===0) return '☀️'; if (c<=3) return '⛅'; if (c<=48) return '🌫️';
-      if (c<=67) return '🌧️'; if (c<=77) return '🌨️'; if (c<=82) return '🌦️';
-      if (c>=95) return '⛈️'; return '🌤️';
-    }
-    function wDesc(c) {
-      if (c===0) return '맑음'; if (c<=3) return '구름 많음'; if (c<=48) return '안개';
-      if (c<=57) return '이슬비'; if (c<=67) return '비'; if (c<=77) return '눈';
-      if (c<=82) return '소나기'; if (c>=95) return '뇌우'; return '흐림';
-    }
+    var formattedPrice = Math.round(stock.price).toLocaleString();
+    var formattedChange = sign + ' ' + Math.abs(stock.changePct).toFixed(1) + '%';
 
-    // ─── Air Quality ─────────────────────────────────────────────────
-    async function loadAQI() {
-      const el = document.getElementById('aqi-content');
-      try {
-        const url = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${LAT}&longitude=${LON}&current=pm10,pm2_5,ozone,nitrogen_dioxide&timezone=Asia/Seoul`;
-        const data = await (await fetch(url)).json();
-        const pm10 = data.current.pm10, pm25 = data.current.pm2_5;
-        const o3 = data.current.ozone, no2 = data.current.nitrogen_dioxide;
-        const grade = pm10<=30?'좋음':pm10<=80?'보통':pm10<=150?'나쁨':'매우 나쁨';
-        const color = pm10<=30?'var(--green)':pm10<=80?'var(--amber)':pm10<=150?'var(--red)':'#991b1b';
+    html += '' +
+      '<div class="stock-item">' +
+        '<div class="stock-name">' + escapeHtml(stock.name) + '</div>' +
+        '<div class="stock-price">' + formattedPrice + '</div>' +
+        '<div class="stock-change ' + cls + '">' + formattedChange + '</div>' +
+      '</div>';
+  });
+  html += '</div>';
 
-        el.innerHTML = `
-          <div class="aqi-display">
-            <div class="aqi-ring" style="color:${color}">${Math.round(pm10)}</div>
-            <div>
-              <div class="aqi-grade" style="color:${color}">${grade}</div>
-              <div class="aqi-sub">PM10 µg/m³</div>
-            </div>
-          </div>
-          <div class="aqi-breakdown">
-            <div class="aqi-mini"><div class="stat-label">PM2.5</div><div class="stat-value">${Math.round(pm25)}</div></div>
-            <div class="aqi-mini"><div class="stat-label">O₃</div><div class="stat-value">${Math.round(o3)}</div></div>
-            <div class="aqi-mini"><div class="stat-label">NO₂</div><div class="stat-value">${Math.round(no2)}</div></div>
-          </div>
-        `;
-      } catch(e) {
-        el.innerHTML = '<div class="error">대기질 로드 실패</div>';
-      }
-    }
+  if (hasError) {
+    html += '<div style="margin-top:8px;text-align:center"><a href="https://finance.naver.com/" target="_blank" rel="noopener" style="color:#3b82f6;text-decoration:none;font-size:13px;font-weight:500">네이버 금융 →</a></div>';
+  }
 
-    // ─── Exchange Rates ──────────────────────────────────────────────
-    async function loadRates() {
-      const el = document.getElementById('rate-content');
-      try {
-        const data = await (await fetch('https://open.er-api.com/v6/latest/KRW')).json();
-        const rates = data.rates;
-        const items = [
-          { code:'USD', rate:rates.USD },
-          { code:'EUR', rate:rates.EUR },
-          { code:'JPY', rate:rates.JPY*100 },
-          { code:'CNY', rate:rates.CNY },
-        ];
+  el.innerHTML = html;
+}
 
-        let html = '<div class="rate-rows">';
-        items.forEach(c => {
-          const value = (1/c.rate).toFixed(1);
-          const prev = prevRates[c.code];
-          let delta = '';
-          if (prev) {
-            const diff = (1/c.rate - 1/prev);
-            if (Math.abs(diff) > 0.05) {
-              const cls = diff>0?'up':'down';
-              const arrow = diff>0?'▲':'▼';
-              delta = `<div class="rate-delta ${cls}">${arrow} ${Math.abs(diff).toFixed(1)}</div>`;
-            }
-          }
-          prevRates[c.code] = c.rate;
-          html += `<div class="rate-item">
-            <span class="rate-code">${c.code}</span>
-            <span class="rate-bar"></span>
-            <div class="rate-value-wrap">
-              <div class="rate-value">${value}</div>
-              ${delta}
-            </div>
-          </div>`;
-        });
-        html += '</div>';
-        el.innerHTML = html;
-      } catch(e) {
-        el.innerHTML = '<div class="error">환율 로드 실패</div>';
-      }
-    }
+// ----- REFRESH ALL -----
 
-    // ─── GitHub ───────────────────────────────────────────────────────
-    async function loadGitHub() {
-      const el = document.getElementById('gh-content');
-      try {
-        const resp = await fetch('https://api.github.com/users/leemind-q/events/public?per_page=5');
-        if (!resp.ok) throw new Error('rate limit');
-        const events = await resp.json();
-        if (!Array.isArray(events) || events.length === 0) {
-          el.innerHTML = '<div class="error">최근 활동 없음</div>';
-          return;
-        }
+var _refreshing = false;
 
-        const typeIcons = { PushEvent:'⬆️', CreateEvent:'✨', WatchEvent:'⭐', ForkEvent:'🍴', ReleaseEvent:'📦', IssuesEvent:'🔵', PullRequestEvent:'🔀' };
+async function refreshAll() {
+  if (_refreshing) return;
+  _refreshing = true;
 
-        let html = '<div class="gh-rows">';
-        events.slice(0,5).forEach(ev => {
-          let msg = '', repo = ev.repo.name, url = `https://github.com/${repo}`;
-          if (ev.type==='PushEvent') {
-            const c = ev.payload.commits||[];
-            msg = c.length>0 ? (c[0].message||'').split('\n')[0] : 'push';
-            url = `https://github.com/${repo}/commit/${c[0]?.sha||''}`;
-          } else if (ev.type==='CreateEvent') msg = `${ev.payload.ref_type||''} 생성: ${ev.payload.ref||''}`;
-          else if (ev.type==='WatchEvent') msg = '스타';
-          else if (ev.type==='ForkEvent') msg = '포크';
-          else if (ev.type==='ReleaseEvent') msg = `릴리즈: ${ev.payload.release?.name||''}`;
-          else msg = ev.type.replace('Event','');
+  var btn = $('refreshBtn');
+  btn.classList.add('spinning');
+  btn.disabled = true;
 
-          const icon = typeIcons[ev.type] || '•';
-          const t = timeAgo(ev.created_at);
+  try {
+    await Promise.all([
+      fetchWeather(),
+      fetchAirQuality(),
+      fetchForex(),
+      fetchGitHub(),
+      fetchStocks()
+    ]);
+  } catch(e) {
+    // individual handlers catch errors
+  }
 
-          html += `<a class="gh-row" href="${url}" target="_blank">
-            <div class="gh-type">${icon}</div>
-            <div class="gh-body">
-              <div class="gh-repo">${esc(repo)}</div>
-              <div class="gh-msg">${esc(msg)}</div>
-              <div class="gh-time">${t}</div>
-            </div>
-          </a>`;
-        });
-        html += '</div>';
-        el.innerHTML = html;
-      } catch(e) {
-        el.innerHTML = '<div class="error">GitHub API 한도</div>';
-      }
-    }
+  btn.classList.remove('spinning');
+  btn.disabled = false;
+  _refreshing = false;
+}
 
-    function timeAgo(d) {
-      const m = Math.floor((Date.now()-new Date(d))/60000);
-      if (m<1) return '방금'; if (m<60) return `${m}분 전`;
-      const h = Math.floor(m/60); if (h<24) return `${h}시간 전`;
-      return `${Math.floor(h/24)}일 전`;
-    }
-    function esc(s) { if(!s) return ''; const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+// ----- INIT -----
 
-    // ─── Stocks ──────────────────────────────────────────────────────
-    async function loadStocks() {
-      const el = document.getElementById('stock-content');
-      const stocks = [
-        { name:'삼성전자', code:'005930' },
-        { name:'SK하이닉스', code:'000660' },
-        { name:'현대차', code:'005380' },
-      ];
-      try {
-        const results = await Promise.allSettled(stocks.map(async s => {
-          const ctrl = new AbortController();
-          const t = setTimeout(()=>ctrl.abort(), 8000);
-          try {
-            const url = `https://api.allorigins.win/raw?url=${encodeURIComponent('https://finance.naver.com/item/main.naver?code='+s.code)}`;
-            const html = await (await fetch(url, {signal:ctrl.signal})).text();
-            const pm = html.match(/<div class="blind">\s*<p>\s*현재가\s*([\d,]+)/);
-            const cm = html.match(/전일비\s*([-]?[\d.]+)%/);
-            return { name:s.name, code:s.code, price:pm?pm[1]:'N/A', change:cm?parseFloat(cm[1]):0 };
-          } finally { clearTimeout(t); }
-        }));
+document.addEventListener('DOMContentLoaded', function() {
+  updateClock();
+  setInterval(updateClock, 1000);
 
-        let html = '<div class="stock-rows">';
-        results.forEach((r,i) => {
-          if (r.status==='fulfilled' && r.value && r.value.price!=='N/A') {
-            const s = r.value;
-            const cls = s.change>0?'up':s.change<0?'down':'flat';
-            const arrow = s.change>0?'▲':s.change<0?'▼':'—';
-            html += `<div class="stock-item">
-              <div class="stock-left"><div class="stock-name">${s.name}</div><div class="stock-code">${s.code}</div></div>
-              <div class="stock-right"><div class="stock-price">${s.price}</div><div class="stock-chg ${cls}">${arrow} ${Math.abs(s.change)}%</div></div>
-            </div>`;
-          } else {
-            const s = stocks[i];
-            html += `<div class="stock-item">
-              <div class="stock-left"><div class="stock-name">${s.name}</div><div class="stock-code">${s.code}</div></div>
-              <div class="stock-right"><a href="https://finance.naver.com/item/main.naver?code=${s.code}" target="_blank" style="font-size:11px;color:var(--text-3);text-decoration:none">네이버 금융 →</a></div>
-            </div>`;
-          }
-        });
-        html += '</div>';
-        el.innerHTML = html;
-      } catch(e) {
-        el.innerHTML = '<div class="error">주식 로드 실패</div>';
-      }
-    }
+  refreshAll();
 
-    // ─── Refresh ─────────────────────────────────────────────────────
-    function refreshAll() {
-      loadWeather(); loadAQI(); loadRates(); loadGitHub(); loadStocks();
-      const now = new Date();
-      document.getElementById('last-update').textContent = `UPDATED ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
-    }
-    refreshAll();
-    setInterval(refreshAll, 300000);
-  </script>
+  // Auto-refresh every 5 minutes
+  setInterval(refreshAll, 300000);
+});
+</script>
+
 </body>
 </html>
