@@ -206,9 +206,6 @@
     background: #3b82f6;
     flex-shrink: 0;
   }
-  .card-header .card-dot {
-    box-shadow: 0 0 10px rgba(59,130,246,0.4);
-  }
 
   .card-label {
     font-family: 'DM Sans', sans-serif;
@@ -219,13 +216,23 @@
     text-transform: uppercase;
   }
 
+  /* ===== CARD DOT COLORS ===== */
+  .card-clock .card-dot { background: #fbbf24; box-shadow: 0 0 10px rgba(251,191,36,0.4); }
+  .card-weather .card-dot { background: #3b82f6; box-shadow: 0 0 10px rgba(59,130,246,0.4); }
+  .card-air .card-dot { background: #34d399; box-shadow: 0 0 10px rgba(52,211,153,0.4); }
+  .card-holiday .card-dot { background: #f87171; box-shadow: 0 0 10px rgba(248,113,113,0.4); }
+  .card-technews .card-dot { background: #fb923c; box-shadow: 0 0 10px rgba(251,146,60,0.4); }
+  .card-github .card-dot { background: rgba(255,255,255,0.35); box-shadow: 0 0 10px rgba(255,255,255,0.15); }
+  .card-gamedev .card-dot { background: #a78bfa; box-shadow: 0 0 10px rgba(167,139,250,0.4); }
+
   /* ===== CARD SPANS ===== */
   .card-clock   { grid-column: span 2; }
   .card-weather { grid-column: span 2; }
   .card-air     { grid-column: span 1; }
-  .card-forex   { grid-column: span 1; }
+  .card-holiday { grid-column: span 1; }
+  .card-technews { grid-column: span 2; }
   .card-github  { grid-column: span 2; }
-  .card-stocks  { grid-column: 1 / -1; }
+  .card-gamedev { grid-column: span 2; }
 
   /* ===== LOADING DOTS ===== */
   .loading-dots {
@@ -379,31 +386,109 @@
     font-variant-numeric: tabular-nums;
   }
 
-  /* ===== EXCHANGE ===== */
-  .forex-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 3px;
+  /* ===== HOLIDAY ===== */
+  .holiday-main {
+    text-align: center;
+    padding: 8px 0;
   }
-  .forex-item {
-    background: rgba(255,255,255,0.03);
-    border-radius: 12px;
-    padding: 12px 14px;
-  }
-  .forex-code {
-    font-size: 12px;
-    font-weight: 600;
-    color: rgba(255,255,255,0.3);
-    margin-bottom: 3px;
+  .holiday-big {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #f87171;
     letter-spacing: 0.02em;
+    margin-bottom: 4px;
   }
-  .forex-value {
+  .holiday-type {
+    font-size: 12px;
+    color: rgba(255,255,255,0.35);
+    font-weight: 500;
+    margin-bottom: 16px;
+  }
+  .holiday-next-wrap {
+    text-align: center;
+    border-top: 1px solid rgba(255,255,255,0.06);
+    padding-top: 14px;
+    margin-top: 4px;
+  }
+  .holiday-next-label {
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .holiday-next-name {
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 500;
-    font-size: 18px;
-    color: rgba(255,255,255,0.88);
-    font-variant-numeric: tabular-nums;
-    letter-spacing: -0.01em;
+    font-size: 15px;
+    color: rgba(255,255,255,0.75);
+    margin-bottom: 2px;
+  }
+  .holiday-next-date {
+    font-size: 12px;
+    color: rgba(255,255,255,0.35);
+  }
+  .holiday-days {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: #f87171;
+    line-height: 1;
+    margin-bottom: 2px;
+  }
+  .holiday-days-label {
+    font-size: 12px;
+    color: rgba(255,255,255,0.35);
+    margin-bottom: 8px;
+  }
+  .holiday-days-note {
+    font-size: 12px;
+    color: rgba(255,255,255,0.3);
+  }
+
+  /* ===== TECH NEWS ===== */
+  .technews-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .technews-item {
+    padding: 10px 12px;
+    border-radius: 12px;
+    transition: background 0.2s ease;
+  }
+  .technews-item:hover {
+    background: rgba(255,255,255,0.03);
+  }
+  .technews-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.78);
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .technews-title a {
+    color: rgba(255,255,255,0.78);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .technews-title a:hover {
+    color: #fb923c;
+    text-decoration: underline;
+  }
+  .technews-meta {
+    display: flex;
+    gap: 14px;
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    font-weight: 500;
+  }
+  .technews-meta span {
+    display: flex;
+    align-items: center;
+    gap: 4px;
   }
 
   /* ===== GITHUB ===== */
@@ -460,60 +545,81 @@
     margin-top: 2px;
   }
 
-  /* ===== STOCKS ===== */
-  .stocks-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 14px;
+  /* ===== GAME DEV ===== */
+  .gamedev-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
   }
-  .stock-item {
-    background: rgba(255,255,255,0.03);
-    border-radius: 16px;
-    padding: 18px 20px;
-    text-align: center;
+  .gamedev-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 12px;
     transition: background 0.2s ease;
   }
-  .stock-item:hover {
-    background: rgba(255,255,255,0.05);
+  .gamedev-item:hover {
+    background: rgba(255,255,255,0.03);
   }
-  .stock-name {
-    font-size: 14px;
-    font-weight: 600;
-    color: rgba(255,255,255,0.45);
-    margin-bottom: 6px;
-  }
-  .stock-price {
+  .gamedev-rank {
     font-family: 'Space Grotesk', sans-serif;
-    font-weight: 500;
-    font-size: clamp(20px, 2vw, 26px);
-    color: #fff;
-    font-variant-numeric: tabular-nums;
-    margin-bottom: 3px;
-  }
-  .stock-change {
-    font-family: 'Space Grotesk', sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-    font-variant-numeric: tabular-nums;
-  }
-  .stock-change.up { color: #34d399; }
-  .stock-change.down { color: #f87171; }
-  .stock-change.neutral { color: rgba(255,255,255,0.4); }
-
-  .stock-fallback {
+    font-weight: 700;
+    font-size: 13px;
+    color: rgba(255,255,255,0.2);
+    flex-shrink: 0;
+    width: 20px;
     text-align: center;
-    padding: 18px 0;
+    line-height: 1.4;
   }
-  .stock-fallback a {
-    color: #3b82f6;
-    text-decoration: none;
+  .gamedev-body {
+    flex: 1;
+    min-width: 0;
+  }
+  .gamedev-name {
+    font-size: 13px;
     font-weight: 500;
-    font-size: 14px;
+    color: rgba(255,255,255,0.75);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .gamedev-name a {
+    color: rgba(255,255,255,0.75);
+    text-decoration: none;
     transition: color 0.2s;
   }
-  .stock-fallback a:hover {
-    color: #60a5fa;
+  .gamedev-name a:hover {
+    color: #a78bfa;
     text-decoration: underline;
+  }
+  .gamedev-desc {
+    font-size: 12px;
+    color: rgba(255,255,255,0.4);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 1px;
+  }
+  .gamedev-meta {
+    display: flex;
+    gap: 12px;
+    margin-top: 4px;
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    font-weight: 500;
+  }
+  .gamedev-meta span {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+  }
+  .gamedev-lang {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
   }
 
   /* ===== ERROR STATE ===== */
@@ -552,9 +658,10 @@
     .card-clock,
     .card-weather,
     .card-air,
-    .card-forex,
+    .card-holiday,
+    .card-technews,
     .card-github,
-    .card-stocks {
+    .card-gamedev {
       grid-column: span 1;
     }
 
@@ -568,8 +675,6 @@
     .weather-icon { font-size: 38px; }
     .weather-temp { font-size: clamp(36px, 10vw, 48px); }
     .weather-stats { grid-template-columns: repeat(2, 1fr); }
-
-    .stocks-grid { grid-template-columns: 1fr; gap: 10px; }
 
     .card-header { margin-bottom: 16px; }
   }
@@ -608,7 +713,7 @@
 <!-- ===== DASHBOARD GRID ===== -->
 <main class="dashboard-grid">
 
-  <!-- 1. CLOCK -->
+  <!-- 1. CLOCK (span 2) -->
   <div class="card card-clock">
     <div class="card-header">
       <span class="card-dot"></span>
@@ -620,7 +725,7 @@
     </div>
   </div>
 
-  <!-- 2. WEATHER -->
+  <!-- 2. WEATHER (span 2) -->
   <div class="card card-weather">
     <div class="card-header">
       <span class="card-dot"></span>
@@ -629,7 +734,7 @@
     <div class="card-body" id="weatherContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 3. AIR QUALITY -->
+  <!-- 3. AIR QUALITY (span 1) -->
   <div class="card card-air">
     <div class="card-header">
       <span class="card-dot"></span>
@@ -638,16 +743,25 @@
     <div class="card-body" id="airContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 4. EXCHANGE RATES -->
-  <div class="card card-forex">
+  <!-- 4. HOLIDAY (span 1) -->
+  <div class="card card-holiday">
     <div class="card-header">
       <span class="card-dot"></span>
-      <span class="card-label">Exchange</span>
+      <span class="card-label">Holiday</span>
     </div>
-    <div class="card-body" id="forexContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+    <div class="card-body" id="holidayContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 5. GITHUB -->
+  <!-- 5. TECH NEWS (span 2) -->
+  <div class="card card-technews">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Tech News</span>
+    </div>
+    <div class="card-body" id="technewsContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
+
+  <!-- 6. GITHUB (span 2) -->
   <div class="card card-github">
     <div class="card-header">
       <span class="card-dot"></span>
@@ -656,13 +770,13 @@
     <div class="card-body" id="githubContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 6. STOCKS -->
-  <div class="card card-stocks">
+  <!-- 7. GAME DEV TRENDS (span 2) -->
+  <div class="card card-gamedev">
     <div class="card-header">
       <span class="card-dot"></span>
-      <span class="card-label">Stocks</span>
+      <span class="card-label">Game Dev</span>
     </div>
-    <div class="card-body" id="stocksContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+    <div class="card-body" id="gamedevContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
 </main>
@@ -821,34 +935,136 @@ async function fetchAirQuality() {
   }
 }
 
-// ----- EXCHANGE RATES -----
+// ----- HOLIDAY -----
 
-async function fetchForex() {
-  var el = $('forexContent');
+async function fetchHolidays() {
+  var el = $('holidayContent');
   try {
-    var url = 'https://open.er-api.com/v6/latest/KRW';
-    var res = await fetch(url);
+    var year = new Date().getFullYear();
+    var res = await fetch('https://date.nager.at/api/v3/PublicHolidays/' + year + '/KR');
     if (!res.ok) throw new Error('HTTP ' + res.status);
-    var data = await res.json();
-    var rates = data.rates;
+    var holidays = await res.json();
 
-    var currencies = [
-      { code: 'USD', value: (1 / rates.USD).toFixed(1) },
-      { code: 'EUR', value: (1 / rates.EUR).toFixed(1) },
-      { code: 'JPY', value: (1 / rates.JPY).toFixed(1) },
-      { code: 'CNY', value: (1 / rates.CNY).toFixed(1) }
-    ];
+    var today = new Date();
+    today.setHours(0, 0, 0, 0);
+    var todayStr = today.getFullYear() + '-' + String(today.getMonth()+1).padStart(2,'0') + '-' + String(today.getDate()).padStart(2,'0');
 
-    var html = '<div class="forex-grid">';
-    currencies.forEach(function(c) {
-      var numVal = parseFloat(c.value);
-      var formatted = numVal >= 100 ? Math.round(numVal).toLocaleString() : c.value;
-      html += '<div class="forex-item"><div class="forex-code">' + escapeHtml(c.code) + '</div><div class="forex-value">' + formatted + '</div></div>';
-    });
+    // Find if today is a holiday
+    var todayHoliday = null;
+    var upcomingHoliday = null;
+    for (var i = 0; i < holidays.length; i++) {
+      var h = holidays[i];
+      if (h.date === todayStr) {
+        todayHoliday = h;
+        break;
+      }
+    }
+
+    // Find next upcoming holiday (after today)
+    for (var i = 0; i < holidays.length; i++) {
+      var h = holidays[i];
+      if (h.date > todayStr) {
+        upcomingHoliday = h;
+        break;
+      }
+    }
+
+    if (todayHoliday) {
+      // Today is a holiday - show big
+      var daysUntilNext = '';
+      if (upcomingHoliday) {
+        var nextDate = new Date(upcomingHoliday.date);
+        var diffMs = nextDate.getTime() - today.getTime();
+        var diffDays = Math.ceil(diffMs / (1000*60*60*24));
+        if (diffDays > 1) {
+          daysUntilNext = '<div style="margin-top:12px;padding-top:14px;border-top:1px solid rgba(255,255,255,0.06)">' +
+            '<div class="holiday-next-label">Next Holiday</div>' +
+            '<div class="holiday-next-name">' + escapeHtml(upcomingHoliday.localName) + '</div>' +
+            '<div class="holiday-next-date">' + upcomingHoliday.date + ' (' + diffDays + '일 후)</div>' +
+            '</div>';
+        }
+      }
+      el.innerHTML = '' +
+        '<div class="holiday-main">' +
+          '<div class="holiday-big">🎉 ' + escapeHtml(todayHoliday.localName) + '</div>' +
+          '<div class="holiday-type">' + escapeHtml(todayHoliday.type || 'Public Holiday') + '</div>' +
+          daysUntilNext +
+        '</div>';
+    } else {
+      // Weekday - show next upcoming
+      if (upcomingHoliday) {
+        var nextDate = new Date(upcomingHoliday.date);
+        var diffMs = nextDate.getTime() - today.getTime();
+        var diffDays = Math.ceil(diffMs / (1000*60*60*24));
+        el.innerHTML = '' +
+          '<div class="holiday-main">' +
+            '<div style="font-size:13px;color:rgba(255,255,255,0.4);margin-bottom:10px">오늘은 평일입니다</div>' +
+            '<div class="holiday-days">' + diffDays + '</div>' +
+            '<div class="holiday-days-label">days until next holiday</div>' +
+            '<div class="holiday-next-label" style="margin-top:4px">Next Holiday</div>' +
+            '<div class="holiday-next-name">' + escapeHtml(upcomingHoliday.localName) + '</div>' +
+            '<div class="holiday-next-date">' + upcomingHoliday.date + '</div>' +
+          '</div>';
+      } else {
+        el.innerHTML = '<div style="text-align:center;padding:8px 0;font-size:13px;color:rgba(255,255,255,0.4)">오늘은 평일입니다</div>';
+      }
+    }
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">공휴일 정보를 불러올 수 없습니다</div>';
+  }
+}
+
+// ----- TECH NEWS (Hacker News) -----
+
+async function fetchTechNews() {
+  var el = $('technewsContent');
+  try {
+    var idsRes = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+    if (!idsRes.ok) throw new Error('HTTP ' + idsRes.status);
+    var ids = await idsRes.json();
+
+    // Get top 5 stories
+    var topIds = ids.slice(0, 5);
+    var stories = [];
+    for (var i = 0; i < topIds.length; i++) {
+      try {
+        var storyRes = await fetch('https://hacker-news.firebaseio.com/v0/item/' + topIds[i] + '.json');
+        if (storyRes.ok) {
+          var story = await storyRes.json();
+          if (story && story.title) {
+            stories.push(story);
+          }
+        }
+      } catch(e) { /* skip failed */ }
+    }
+
+    if (stories.length === 0) {
+      el.innerHTML = '<div class="widget-error">기술 뉴스를 불러올 수 없습니다</div>';
+      return;
+    }
+
+    var html = '<div class="technews-list">';
+    for (var i = 0; i < stories.length; i++) {
+      var s = stories[i];
+      var title = escapeHtml(s.title);
+      var url = s.url ? s.url : 'https://news.ycombinator.com/item?id=' + s.id;
+      var score = s.score || 0;
+      var comments = s.descendants || 0;
+      var author = escapeHtml(s.by || 'anonymous');
+      html += '' +
+        '<div class="technews-item">' +
+          '<div class="technews-title"><a href="' + url + '" target="_blank" rel="noopener">' + title + '</a></div>' +
+          '<div class="technews-meta">' +
+            '<span>⬆ ' + score + '</span>' +
+            '<span>💬 ' + comments + '</span>' +
+            '<span>👤 ' + author + '</span>' +
+          '</div>' +
+        '</div>';
+    }
     html += '</div>';
     el.innerHTML = html;
   } catch(e) {
-    el.innerHTML = '<div class="widget-error">환율 정보를 불러올 수 없습니다</div>';
+    el.innerHTML = '<div class="widget-error">기술 뉴스를 불러올 수 없습니다</div>';
   }
 }
 
@@ -914,93 +1130,77 @@ async function fetchGitHub() {
   }
 }
 
-// ----- STOCKS -----
+// ----- GAME DEV TRENDS (GitHub Search) -----
 
-async function fetchStocks() {
-  var el = $('stocksContent');
-  var symbols = [
-    { id: '005930.KS', name: '삼성전자' },
-    { id: '000660.KS', name: 'SK하이닉스' },
-    { id: '005380.KS', name: '현대차' }
-  ];
+var GAME_LANG_COLORS = {
+  'JavaScript': '#f1e05a',
+  'TypeScript': '#3178c6',
+  'Python': '#3572A5',
+  'C++': '#f34b7d',
+  'C#': '#178600',
+  'Java': '#b07219',
+  'Go': '#00ADD8',
+  'Rust': '#dea584',
+  'Lua': '#000080',
+  'Kotlin': '#A97BFF',
+  'Swift': '#F05138',
+  'Ruby': '#701516',
+  'C': '#555555',
+  'Dart': '#00B4AB',
+  'Zig': '#ec915c'
+};
 
-  var results = [];
-  var hasError = false;
+function getLangColor(lang) {
+  return GAME_LANG_COLORS[lang] || '#8b8b8b';
+}
 
-  for (var i = 0; i < symbols.length; i++) {
-    var sym = symbols[i];
-    try {
-      var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/' + encodeURIComponent(sym.id);
-      var proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(yahooUrl);
-
-      var controller = new AbortController();
-      var timeout = setTimeout(function() { controller.abort(); }, 8000);
-
-      var res = await fetch(proxyUrl, { signal: controller.signal });
-      clearTimeout(timeout);
-
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      var data = await res.json();
-
-      var meta = data.chart.result[0].meta;
-      var price = meta.regularMarketPrice;
-      var prevClose = meta.chartPreviousClose || meta.previousClose;
-      var change = price - prevClose;
-      var changePct = (change / prevClose * 100);
-
-      results.push({
-        name: sym.name,
-        price: price,
-        change: change,
-        changePct: changePct
-      });
-    } catch(e) {
-      hasError = true;
-      results.push({
-        name: sym.name,
-        error: true
-      });
-    }
+function formatStars(n) {
+  if (n >= 1000) {
+    return (n / 1000).toFixed(1) + 'k';
   }
+  return n.toString();
+}
 
-  if (results.length === 0) {
-    el.innerHTML = '<div class="stock-fallback"><a href="https://finance.naver.com/" target="_blank" rel="noopener">네이버 금융 →</a></div>';
-    return;
-  }
+async function fetchGameDev() {
+  var el = $('gamedevContent');
+  try {
+    var url = 'https://api.github.com/search/repositories?q=topic:game+topic:game-engine+stars:>500&sort=stars&order=desc&per_page=5';
+    var res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var data = await res.json();
+    var items = data.items || [];
 
-  var html = '<div class="stocks-grid">';
-  results.forEach(function(stock) {
-    if (stock.error) {
-      html += '' +
-        '<div class="stock-item">' +
-          '<div class="stock-name">' + escapeHtml(stock.name) + '</div>' +
-          '<div style="color:rgba(255,255,255,0.3);font-size:13px;padding:8px 0">—</div>' +
-        '</div>';
+    if (items.length === 0) {
+      el.innerHTML = '<div class="widget-error">게임 개발 트렌드를 불러올 수 없습니다</div>';
       return;
     }
-    var cls = 'neutral';
-    var sign = '';
-    if (stock.change > 0) { cls = 'up'; sign = '▲'; }
-    else if (stock.change < 0) { cls = 'down'; sign = '▼'; }
-    else { sign = '—'; }
 
-    var formattedPrice = Math.round(stock.price).toLocaleString();
-    var formattedChange = sign + ' ' + Math.abs(stock.changePct).toFixed(1) + '%';
-
-    html += '' +
-      '<div class="stock-item">' +
-        '<div class="stock-name">' + escapeHtml(stock.name) + '</div>' +
-        '<div class="stock-price">' + formattedPrice + '</div>' +
-        '<div class="stock-change ' + cls + '">' + formattedChange + '</div>' +
-      '</div>';
-  });
-  html += '</div>';
-
-  if (hasError) {
-    html += '<div style="margin-top:8px;text-align:center"><a href="https://finance.naver.com/" target="_blank" rel="noopener" style="color:#3b82f6;text-decoration:none;font-size:13px;font-weight:500">네이버 금융 →</a></div>';
+    var html = '<div class="gamedev-list">';
+    for (var i = 0; i < items.length; i++) {
+      var repo = items[i];
+      var name = escapeHtml(repo.full_name);
+      var desc = repo.description ? escapeHtml(repo.description) : 'No description';
+      var stars = formatStars(repo.stargazers_count);
+      var lang = repo.language || '';
+      var langColor = getLangColor(lang);
+      html += '' +
+        '<div class="gamedev-item">' +
+          '<div class="gamedev-rank">#' + (i+1) + '</div>' +
+          '<div class="gamedev-body">' +
+            '<div class="gamedev-name"><a href="' + repo.html_url + '" target="_blank" rel="noopener">' + name + '</a></div>' +
+            '<div class="gamedev-desc">' + desc + '</div>' +
+            '<div class="gamedev-meta">' +
+              '<span>⭐ ' + stars + '</span>' +
+              (lang ? '<span><span class="gamedev-lang" style="background:' + langColor + '"></span>' + escapeHtml(lang) + '</span>' : '') +
+            '</div>' +
+          '</div>' +
+        '</div>';
+    }
+    html += '</div>';
+    el.innerHTML = html;
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">게임 개발 트렌드를 불러올 수 없습니다</div>';
   }
-
-  el.innerHTML = html;
 }
 
 // ----- REFRESH ALL -----
@@ -1019,9 +1219,10 @@ async function refreshAll() {
     await Promise.all([
       fetchWeather(),
       fetchAirQuality(),
-      fetchForex(),
+      fetchHolidays(),
+      fetchTechNews(),
       fetchGitHub(),
-      fetchStocks()
+      fetchGameDev()
     ]);
   } catch(e) {
     // individual handlers catch errors
