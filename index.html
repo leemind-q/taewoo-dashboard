@@ -221,18 +221,21 @@
   .card-weather .card-dot { background: #3b82f6; box-shadow: 0 0 10px rgba(59,130,246,0.4); }
   .card-air .card-dot { background: #34d399; box-shadow: 0 0 10px rgba(52,211,153,0.4); }
   .card-holiday .card-dot { background: #f87171; box-shadow: 0 0 10px rgba(248,113,113,0.4); }
-  .card-technews .card-dot { background: #fb923c; box-shadow: 0 0 10px rgba(251,146,60,0.4); }
+  .card-news .card-dot { background: #fb923c; box-shadow: 0 0 10px rgba(251,146,60,0.4); }
   .card-github .card-dot { background: rgba(255,255,255,0.35); box-shadow: 0 0 10px rgba(255,255,255,0.15); }
   .card-gamedev .card-dot { background: #a78bfa; box-shadow: 0 0 10px rgba(167,139,250,0.4); }
+  .card-quicklinks .card-dot { background: #f472b6; box-shadow: 0 0 10px rgba(244,114,182,0.4); }
 
   /* ===== CARD SPANS ===== */
+  .card-search   { grid-column: span 4; }
   .card-clock   { grid-column: span 2; }
   .card-weather { grid-column: span 2; }
+  .card-news    { grid-column: span 4; }
   .card-air     { grid-column: span 1; }
   .card-holiday { grid-column: span 1; }
-  .card-technews { grid-column: span 2; }
   .card-github  { grid-column: span 2; }
   .card-gamedev { grid-column: span 2; }
+  .card-quicklinks { grid-column: span 4; }
 
   /* ===== LOADING DOTS ===== */
   .loading-dots {
@@ -259,6 +262,60 @@
   .card-body {
     position: relative;
     z-index: 1;
+  }
+
+  /* ===== SEARCH BAR ===== */
+  .search-wrap {
+    position: relative;
+    z-index: 1;
+  }
+  .search-input {
+    width: 100%;
+    padding: 16px 24px 16px 56px;
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 100px;
+    background: rgba(255,255,255,0.04);
+    color: rgba(255,255,255,0.85);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    outline: none;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+  .search-input::placeholder {
+    color: rgba(255,255,255,0.25);
+    font-weight: 400;
+  }
+  .search-input:focus {
+    border-color: rgba(251,191,36,0.4);
+    background: rgba(255,255,255,0.07);
+    box-shadow: 0 0 40px rgba(251,191,36,0.04), 0 0 80px rgba(251,191,36,0.02);
+  }
+  .search-icon {
+    position: absolute;
+    left: 22px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    color: rgba(255,255,255,0.25);
+    pointer-events: none;
+  }
+  .search-shortcut {
+    position: absolute;
+    right: 22px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: rgba(255,255,255,0.15);
+    font-family: 'DM Sans', sans-serif;
+    padding: 4px 10px;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.03);
+    pointer-events: none;
   }
 
   /* ===== CLOCK ===== */
@@ -335,6 +392,50 @@
     font-size: 17px;
     color: rgba(255,255,255,0.85);
     font-variant-numeric: tabular-nums;
+  }
+
+  /* ===== WEATHER 3-DAY FORECAST ===== */
+  .weather-forecast {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-top: 12px;
+    padding-top: 14px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+  .weather-forecast-day {
+    background: rgba(255,255,255,0.03);
+    border-radius: 12px;
+    padding: 12px 10px;
+    text-align: center;
+  }
+  .weather-forecast-day-name {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.35);
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .weather-forecast-emoji {
+    font-size: 22px;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .weather-forecast-temps {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+  .weather-forecast-high {
+    color: rgba(255,255,255,0.8);
+  }
+  .weather-forecast-low {
+    color: rgba(255,255,255,0.35);
   }
 
   /* ===== AIR QUALITY ===== */
@@ -448,47 +549,141 @@
     color: rgba(255,255,255,0.3);
   }
 
-  /* ===== TECH NEWS ===== */
-  .technews-list {
+  /* ===== NEWS TABS ===== */
+  .news-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1;
+  }
+  .news-tabs {
+    display: flex;
+    gap: 0;
+    position: relative;
+    z-index: 1;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .news-tab {
+    padding: 10px 24px 10px 24px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.3);
+    cursor: pointer;
+    border: none;
+    background: none;
+    position: relative;
+    transition: color 0.25s ease;
+    letter-spacing: 0.02em;
+  }
+  .news-tab:hover {
+    color: rgba(255,255,255,0.5);
+  }
+  .news-tab.active {
+    color: #fbbf24;
+  }
+  .news-tab::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 24px;
+    right: 24px;
+    height: 2px;
+    background: transparent;
+    border-radius: 2px;
+    transition: all 0.25s ease;
+  }
+  .news-tab.active::after {
+    background: #fbbf24;
+    left: 24px;
+    right: 24px;
+    box-shadow: 0 0 12px rgba(251,191,36,0.3);
+  }
+  .news-updated {
+    font-size: 12px;
+    color: rgba(255,255,255,0.2);
+    font-weight: 500;
+    white-space: nowrap;
+    margin-left: auto;
+    padding-left: 16px;
+  }
+
+  .news-list {
     display: flex;
     flex-direction: column;
     gap: 2px;
+    margin-top: 6px;
+    position: relative;
+    z-index: 1;
   }
-  .technews-item {
+  .news-item {
     padding: 10px 12px;
     border-radius: 12px;
     transition: background 0.2s ease;
   }
-  .technews-item:hover {
+  .news-item:hover {
     background: rgba(255,255,255,0.03);
   }
-  .technews-title {
+  .news-title {
     font-size: 14px;
     font-weight: 500;
     color: rgba(255,255,255,0.78);
     line-height: 1.4;
     margin-bottom: 4px;
   }
-  .technews-title a {
+  .news-title a {
     color: rgba(255,255,255,0.78);
     text-decoration: none;
     transition: color 0.2s;
   }
-  .technews-title a:hover {
-    color: #fb923c;
-    text-decoration: underline;
+  .news-title a:hover {
+    color: #fbbf24;
   }
-  .technews-meta {
+  .news-meta {
     display: flex;
     gap: 14px;
     font-size: 11px;
     color: rgba(255,255,255,0.3);
     font-weight: 500;
   }
-  .technews-meta span {
+  .news-meta span {
     display: flex;
     align-items: center;
     gap: 4px;
+  }
+
+  /* news fade transition */
+  .news-list-wrap {
+    position: relative;
+    min-height: 120px;
+  }
+  .news-list-wrap.fade-in .news-list {
+    animation: newsFadeIn 0.3s ease;
+  }
+  @keyframes newsFadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .news-refresh-btn {
+    background: none;
+    border: 1px solid rgba(255,255,255,0.08);
+    color: rgba(255,255,255,0.3);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 12px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  .news-refresh-btn:hover {
+    border-color: rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.5);
+  }
+  .news-refresh-btn:active {
+    transform: scale(0.97);
   }
 
   /* ===== GITHUB ===== */
@@ -622,6 +817,52 @@
     flex-shrink: 0;
   }
 
+  /* ===== QUICK LINKS ===== */
+  .quicklinks-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 12px;
+    position: relative;
+    z-index: 1;
+  }
+  .quicklink-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 20px 10px;
+    border-radius: 16px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.05);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .quicklink-item:hover {
+    background: rgba(255,255,255,0.06);
+    border-color: rgba(255,255,255,0.12);
+    box-shadow: 0 0 30px rgba(251,191,36,0.04), 0 0 60px rgba(251,191,36,0.02);
+    transform: translateY(-2px);
+  }
+  .quicklink-item:active {
+    transform: scale(0.97);
+  }
+  .quicklink-icon {
+    font-size: 26px;
+    line-height: 1;
+  }
+  .quicklink-name {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.45);
+    transition: color 0.2s;
+  }
+  .quicklink-item:hover .quicklink-name {
+    color: rgba(255,255,255,0.75);
+  }
+
   /* ===== ERROR STATE ===== */
   .widget-error {
     display: flex;
@@ -646,6 +887,9 @@
       gap: 18px;
     }
     .card { padding: 22px 24px; }
+    .quicklinks-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
   }
 
   @media (max-width: 768px) {
@@ -655,13 +899,15 @@
       grid-template-columns: 1fr;
       gap: 16px;
     }
+    .card-search,
     .card-clock,
     .card-weather,
+    .card-news,
     .card-air,
     .card-holiday,
-    .card-technews,
     .card-github,
-    .card-gamedev {
+    .card-gamedev,
+    .card-quicklinks {
       grid-column: span 1;
     }
 
@@ -675,8 +921,37 @@
     .weather-icon { font-size: 38px; }
     .weather-temp { font-size: clamp(36px, 10vw, 48px); }
     .weather-stats { grid-template-columns: repeat(2, 1fr); }
+    .weather-forecast { grid-template-columns: repeat(3, 1fr); }
 
     .card-header { margin-bottom: 16px; }
+
+    .quicklinks-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    .quicklink-item {
+      padding: 16px 8px;
+    }
+    .quicklink-icon {
+      font-size: 22px;
+    }
+
+    /* news tabs scrollable on mobile */
+    .news-tabs {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .news-tabs::-webkit-scrollbar {
+      display: none;
+    }
+    .news-tab {
+      padding: 10px 16px;
+      white-space: nowrap;
+    }
+
+    .search-shortcut {
+      display: none;
+    }
   }
 
   @media (max-width: 480px) {
@@ -691,6 +966,36 @@
 
     .dashboard-header { flex-direction: column; gap: 12px; align-items: flex-start; }
     .refresh-btn { align-self: flex-end; }
+
+    .quicklinks-grid {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+    .quicklink-item {
+      padding: 12px 6px;
+      border-radius: 12px;
+    }
+    .quicklink-icon {
+      font-size: 18px;
+    }
+    .quicklink-name {
+      font-size: 10px;
+    }
+
+    .search-input {
+      padding: 14px 18px 14px 46px;
+      font-size: 14px;
+    }
+    .search-icon {
+      left: 18px;
+      width: 18px;
+      height: 18px;
+    }
+  }
+
+  /* ===== NO-SCRIPT ===== */
+  .no-js {
+    display: none;
   }
 </style>
 </head>
@@ -713,6 +1018,18 @@
 <!-- ===== DASHBOARD GRID ===== -->
 <main class="dashboard-grid">
 
+  <!-- 0. SEARCH BAR (span 4) -->
+  <div class="card card-search" style="padding:18px 24px">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="M21 21l-4.35-4.35"/>
+      </svg>
+      <input class="search-input" type="text" id="searchInput" placeholder="네이버 검색..." autocomplete="off" spellcheck="false">
+      <span class="search-shortcut">Naver</span>
+    </div>
+  </div>
+
   <!-- 1. CLOCK (span 2) -->
   <div class="card card-clock">
     <div class="card-header">
@@ -734,7 +1051,27 @@
     <div class="card-body" id="weatherContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 3. AIR QUALITY (span 1) -->
+  <!-- 3. NEWS (span 4) -->
+  <div class="card card-news">
+    <div class="card-header" style="margin-bottom:0">
+      <span class="card-dot"></span>
+      <span class="card-label">News</span>
+    </div>
+    <div class="card-body">
+      <div class="news-tabs" id="newsTabs">
+        <button class="news-tab active" data-category="IT">IT</button>
+        <button class="news-tab" data-category="반도체">반도체</button>
+        <button class="news-tab" data-category="AI">AI</button>
+        <span class="news-updated" id="newsUpdated"></span>
+        <button class="news-refresh-btn" id="newsRefreshBtn" onclick="fetchNews()" style="margin-left:8px">↻</button>
+      </div>
+      <div class="news-list-wrap" id="newsContent">
+        <div class="loading-dots"><span></span><span></span><span></span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. AIR QUALITY (span 1) -->
   <div class="card card-air">
     <div class="card-header">
       <span class="card-dot"></span>
@@ -743,22 +1080,13 @@
     <div class="card-body" id="airContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
-  <!-- 4. HOLIDAY (span 1) -->
+  <!-- 5. HOLIDAY (span 1) -->
   <div class="card card-holiday">
     <div class="card-header">
       <span class="card-dot"></span>
       <span class="card-label">Holiday</span>
     </div>
     <div class="card-body" id="holidayContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
-  </div>
-
-  <!-- 5. TECH NEWS (span 2) -->
-  <div class="card card-technews">
-    <div class="card-header">
-      <span class="card-dot"></span>
-      <span class="card-label">한국 뉴스</span>
-    </div>
-    <div class="card-body" id="technewsContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
   </div>
 
   <!-- 6. GITHUB (span 2) -->
@@ -777,6 +1105,48 @@
       <span class="card-label">Game Dev</span>
     </div>
     <div class="card-body" id="gamedevContent"><div class="loading-dots"><span></span><span></span><span></span></div></div>
+  </div>
+
+  <!-- 8. QUICK LINKS (span 4) -->
+  <div class="card card-quicklinks">
+    <div class="card-header">
+      <span class="card-dot"></span>
+      <span class="card-label">Quick Links</span>
+    </div>
+    <div class="quicklinks-grid">
+      <a class="quicklink-item" href="https://github.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">🐙</span>
+        <span class="quicklink-name">GitHub</span>
+      </a>
+      <a class="quicklink-item" href="https://www.naver.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">🌿</span>
+        <span class="quicklink-name">네이버</span>
+      </a>
+      <a class="quicklink-item" href="https://youtube.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">📺</span>
+        <span class="quicklink-name">유튜브</span>
+      </a>
+      <a class="quicklink-item" href="https://gemini.google.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">✨</span>
+        <span class="quicklink-name">Gemini</span>
+      </a>
+      <a class="quicklink-item" href="https://chat.openai.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">💬</span>
+        <span class="quicklink-name">ChatGPT</span>
+      </a>
+      <a class="quicklink-item" href="https://claude.ai" target="_blank" rel="noopener">
+        <span class="quicklink-icon">🤖</span>
+        <span class="quicklink-name">Claude</span>
+      </a>
+      <a class="quicklink-item" href="https://developer.mozilla.org" target="_blank" rel="noopener">
+        <span class="quicklink-icon">📘</span>
+        <span class="quicklink-name">MDN</span>
+      </a>
+      <a class="quicklink-item" href="https://stackoverflow.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">📚</span>
+        <span class="quicklink-name">Stack Overflow</span>
+      </a>
+    </div>
   </div>
 
 </main>
@@ -823,6 +1193,22 @@ function updateClock() {
   $('clockDate').textContent = y + '.' + mo + '.' + d + ' ' + day;
 }
 
+// ----- SEARCH -----
+
+function initSearch() {
+  var input = $('searchInput');
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      var query = input.value.trim();
+      if (query) {
+        var url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent(query);
+        window.open(url, '_blank');
+        input.value = '';
+      }
+    }
+  });
+}
+
 // ----- WEATHER -----
 
 function getWeatherEmoji(code) {
@@ -845,10 +1231,17 @@ function getWeatherDesc(code) {
   return '뇌우';
 }
 
+function getDayName(offset) {
+  var names = ['일','월','화','수','목','금','토'];
+  var d = new Date();
+  d.setDate(d.getDate() + offset);
+  return names[d.getDay()] + '요일';
+}
+
 async function fetchWeather() {
   var el = $('weatherContent');
   try {
-    var url = 'https://api.open-meteo.com/v1/forecast?latitude=37.4476&longitude=126.7316&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=Asia/Seoul';
+    var url = 'https://api.open-meteo.com/v1/forecast?latitude=37.4476&longitude=126.7316&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Asia/Seoul&forecast_days=3';
     var res = await fetch(url);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     var data = await res.json();
@@ -864,6 +1257,24 @@ async function fetchWeather() {
     var high = Math.round(daily.temperature_2m_max[0]);
     var low = Math.round(daily.temperature_2m_min[0]);
 
+    // Build 3-day forecast (today, tomorrow, day after)
+    var forecastHtml = '';
+    for (var i = 0; i < 3; i++) {
+      var dayName = i === 0 ? '오늘' : getDayName(i);
+      var fHigh = Math.round(daily.temperature_2m_max[i]);
+      var fLow = Math.round(daily.temperature_2m_min[i]);
+      var fCode = daily.weather_code[i];
+      forecastHtml += '' +
+        '<div class="weather-forecast-day">' +
+          '<div class="weather-forecast-day-name">' + dayName + '</div>' +
+          '<div class="weather-forecast-emoji">' + getWeatherEmoji(fCode) + '</div>' +
+          '<div class="weather-forecast-temps">' +
+            '<span class="weather-forecast-high">' + fHigh + '°</span>' +
+            '<span class="weather-forecast-low">' + fLow + '°</span>' +
+          '</div>' +
+        '</div>';
+    }
+
     el.innerHTML = '' +
       '<div class="weather-main">' +
         '<div class="weather-icon">' + getWeatherEmoji(wcode) + '</div>' +
@@ -877,7 +1288,8 @@ async function fetchWeather() {
         '<div class="weather-stat"><div class="weather-stat-label">최저</div><div class="weather-stat-value">' + low + '°</div></div>' +
         '<div class="weather-stat"><div class="weather-stat-label">습도</div><div class="weather-stat-value">' + humidity + '%</div></div>' +
         '<div class="weather-stat"><div class="weather-stat-label">바람</div><div class="weather-stat-value">' + wind + 'm/s</div></div>' +
-      '</div>';
+      '</div>' +
+      '<div class="weather-forecast">' + forecastHtml + '</div>';
   } catch(e) {
     el.innerHTML = '<div class="widget-error">날씨 정보를 불러올 수 없습니다</div>';
   }
@@ -1014,55 +1426,73 @@ async function fetchHolidays() {
   }
 }
 
-// ----- 한국 뉴스 (Google News RSS → news.json) -----
+// ----- NEWS (3 tabs: IT, 반도체, AI) -----
 
-async function fetchTechNews() {
-  var el = $('technewsContent');
+var _newsCategory = 'IT';
+
+function switchNewsTab(category) {
+  _newsCategory = category;
+  var tabs = document.querySelectorAll('.news-tab');
+  for (var i = 0; i < tabs.length; i++) {
+    tabs[i].classList.remove('active');
+    if (tabs[i].getAttribute('data-category') === category) {
+      tabs[i].classList.add('active');
+    }
+  }
+  fetchNews();
+}
+
+async function fetchNews() {
+  var el = $('newsContent');
   try {
-    // 같은 도메인의 news.json 로드 (CORS 문제 없음)
     var resp = await fetch('news.json?ts=' + Date.now());
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     var data = await resp.json();
-    var items = data.items || [];
+
+    // Update timestamp
+    if (data.updated) {
+      $('newsUpdated').textContent = '업데이트: ' + data.updated;
+    }
+
+    var category = _newsCategory;
+    var items = (data.categories && data.categories[category]) || [];
 
     if (items.length === 0) {
-      el.innerHTML = '<div class="widget-error">뉴스가 없습니다</div>';
+      el.innerHTML = '<div class="news-list-wrap fade-in"><div class="widget-error">뉴스가 없습니다</div></div>';
       return;
     }
 
-    var html = '<div class="technews-list">';
+    var html = '<div class="news-list-wrap fade-in"><div class="news-list">';
     for (var i = 0; i < items.length; i++) {
       var item = items[i];
       var title = escapeHtml(item.title || '');
       var link = item.link || '#';
-      var pubDate = item.pubDate ? timeAgoShort(item.pubDate) : '';
+      var source = item.source ? escapeHtml(item.source) : '';
+      var timeInfo = item.time ? escapeHtml(item.time) : '';
 
       html += '' +
-        '<div class="technews-item">' +
-          '<div class="technews-title"><a href="' + link + '" target="_blank" rel="noopener">' + title + '</a></div>' +
-          '<div class="technews-meta">' +
-            '<span>구글 뉴스</span>' +
-            (pubDate ? '<span>· ' + pubDate + '</span>' : '') +
+        '<div class="news-item">' +
+          '<div class="news-title"><a href="' + link + '" target="_blank" rel="noopener">' + title + '</a></div>' +
+          '<div class="news-meta">' +
+            (source ? '<span>' + source + '</span>' : '') +
+            (timeInfo ? '<span>· ' + timeInfo + '</span>' : '') +
           '</div>' +
         '</div>';
     }
-    html += '</div>';
+    html += '</div></div>';
     el.innerHTML = html;
-  } catch(e) {
-    el.innerHTML = '<div class="widget-error">뉴스를 불러올 수 없습니다</div>';
-  }
-}
 
-function timeAgoShort(dateStr) {
-  try {
-    var diff = Date.now() - new Date(dateStr).getTime();
-    var min = Math.floor(diff / 60000);
-    if (min < 1) return '방금';
-    if (min < 60) return min + '분 전';
-    var hr = Math.floor(min / 60);
-    if (hr < 24) return hr + '시간 전';
-    return Math.floor(hr / 24) + '일 전';
-  } catch(e) { return ''; }
+    // trigger reflow for animation
+    var wrap = el.querySelector('.news-list-wrap');
+    if (wrap) {
+      wrap.classList.remove('fade-in');
+      void wrap.offsetWidth;
+      wrap.classList.add('fade-in');
+    }
+
+  } catch(e) {
+    el.innerHTML = '<div class="widget-error">뉴스를 불러올 수 없습니다 <button class="news-refresh-btn" onclick="fetchNews()" style="margin-left:8px">다시 시도</button></div>';
+  }
 }
 
 // ----- GITHUB -----
@@ -1200,6 +1630,20 @@ async function fetchGameDev() {
   }
 }
 
+// ----- NEWS TAB CLICK HANDLING -----
+
+function initNewsTabs() {
+  var tabs = document.querySelectorAll('.news-tab');
+  for (var i = 0; i < tabs.length; i++) {
+    tabs[i].addEventListener('click', function() {
+      var cat = this.getAttribute('data-category');
+      if (cat !== _newsCategory) {
+        switchNewsTab(cat);
+      }
+    });
+  }
+}
+
 // ----- REFRESH ALL -----
 
 var _refreshing = false;
@@ -1217,10 +1661,10 @@ async function refreshAll() {
       fetchWeather(),
       fetchAirQuality(),
       fetchHolidays(),
-      fetchTechNews(),
       fetchGitHub(),
       fetchGameDev()
     ]);
+    // News is NOT refreshed automatically (manual only)
   } catch(e) {
     // individual handlers catch errors
   }
@@ -1236,9 +1680,14 @@ document.addEventListener('DOMContentLoaded', function() {
   updateClock();
   setInterval(updateClock, 1000);
 
+  initSearch();
+  initNewsTabs();
+
+  // Initial load
+  fetchNews();
   refreshAll();
 
-  // Auto-refresh every 5 minutes
+  // Auto-refresh every 5 minutes (excluding news)
   setInterval(refreshAll, 300000);
 });
 </script>

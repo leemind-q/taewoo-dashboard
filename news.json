@@ -1,30 +1,86 @@
 {
-  "items": [
-    {
-      "title": "공정가액비율 대폭 올릴 듯… 다주택·고가1주택 ‘핀셋 증세’ 거론 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2JlTlFUOWNva0dGbWw1aFlrOFBGSU0wM2FPVFZkdF9XWFJMcEx2NjNfZjZLREo5MTBsaUJUbWp5QmlHbk9ucHJQQXczNENNTDJSZmx2Vkw1d0VBbVRRcDluOU1yUFVwdFpDR3ZTVl9lay1jRTk0aVJwREp0OFBpTVJrRVRsZFZk?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 15:50:00 GMT"
-    },
-    {
-      "title": "이 대통령, 집권 2년차 ‘수석 절반 교체’…민정수석 ‘3연속 검찰 출신’ 논란 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTVl6WmdMNmlqaVI3a3hxRDNRTXpocmIyWUh4MG55SHQ0WEYzTmpxMU9DemZhd2hZLUplTlB2YVNIaW85dm9raWdwb3hXd0lfbGlIM3A0a2IwMXI5NWZHbVdtQTZwc2JfeDZj?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 13:11:00 GMT"
-    },
-    {
-      "title": "[시스루피플]“출산휴가 다녀오겠습니다”···일본 최연소 여성 시장이 쏘아올린 ‘정치인의 출산’ 논쟁 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pQXZTdUJHN2ppX0FkRWstc245cnY0bVhSb3VqTzV6TVhBQ0FPdk5TbW1JWWZ5anhqTGVBVXRNZHlSMHk3b3FnNjdNdXhNUGpzd1hNblBIYml2Z9IBX0FVX3lxTFBwTmI0RUdyRDFJZUV3cl93VzFPNW9sNF9XLV9pZDVrQ1NsNHh1a1VYWmpGeHBjOHppZTNEOFAzWk9UR2JrWk11clFrQXktQXBzeV9ucERaSEh2Qi0zRzVr?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 21:00:00 GMT"
-    },
-    {
-      "title": "미-이란 첫 회담 80분 만에 종료…이란, 트럼프 위협 반발 협상장 떠나 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NMFQ2SmNqYk9nNFF2TTlsOXdfMUktc2hsdVpyM0x4OGFJel84d0RERkhFdDNqY0ozVEZ5QUxUSnAxTGxRUXJBdnp4UVlHZHVpbkJpM2wtWVNoTVFVLWtsMFVnUnhCWHJWbk56a1Z0VWVRSFU?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 22:15:00 GMT"
-    },
-    {
-      "title": "‘연어 술파티’ 위증 유죄, 불씨는 남아…검찰 공소권 남용도 인정 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqaWI2dXFES1RKRUlGRi1BVzlEMUVCa1U3NnJTenhPX3dKNEpxZjZKX1ljRF84YkpicjYtTG0wd3k2d0g1YmY2YW9xRlRaN2JKNG9pbW8zMG1lcXBfZm1SN0hfTQ?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 13:11:00 GMT"
-    }
-  ],
-  "updated": "2026-06-22T08:42:33.758216"
+  "categories": {
+    "IT": [
+      {
+        "title": "네이버 검색 점유율, AI 검색 강화 이후 80% 넘었다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005537570",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"양자컴이 암호 뚫는다\"…KT, 미래 네트워크 보안 전략 제시",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005537570",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "차세대 세포 유전자 치료제 항암 성능 높일 '열쇠 단백질' 발굴",
+        "link": "https://n.news.naver.com/mnews/article/018/0006311578",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "구글 떠난 노벨상 수상자, 앤트로픽 이직…AI발 빅테크 인재전쟁",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006311578",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "삼성전자, 오픈AI '챗GPT 엔터프라이즈' 전사 도입…글로벌 최대 규모",
+        "link": "https://n.news.naver.com/mnews/article/138/0002231543",
+        "source": "네이버 뉴스"
+      }
+    ],
+    "반도체": [
+      {
+        "title": "‘수억 보너스’ 반도체 원청 직원은 “집 사볼까”…하청은 “생계 불안” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TVJ5aXVMb0JSQzlpODI5RkoxQzF0NGtwc3pwb0RNcnY4V1ZFeTM5NVE1YndDNzBBVC1vdWllUHVHY2ViOGFZOWZCMTI0VFBYWER0VUJIMVFnaUhNWWJoQVFSNmI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 폭등에 올라탔다…10억 굴리는 고수들 쓸어 담은 종목 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXNHczRVExWkR6ZWVLNXdBaTFUaWV1WVN0dUgycnJrVTFkRWN5cXZwcGRjZUU1dWVGbFhaa1hsWDg4SnJsaUlCbDRtRGdqZEJMaDIxZ1JGdUJ4Z9IBVEFVX3lxTE5TaThaRG9aQmFPLWhJdzBHRU1VY0ZFQmhXXzNycDhpdVRCNXJ0UnZXUWN5S1hNMHpzdWlEUWVRODBrQ0hQazd3cThObUZVMnIyeFJ1cg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "변기업체서 반도체 기업으로…日토토, 7600억원 투자 결정 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zTnA4Zks3aU1FYnRMaTNjOERlZzMtOEg1OWFlMm1VMkU4Y01NaEhHbVV4aEoyVm1DMm9YLWd5dGxvdWZ4NGptek1zX1lVWE5PZkpyWlRCVUhlWjBLcHNRd2pVd1owemxVZkFON2ZPZ3djckE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"변기회사 맞아?\" TOTO, 반도체 부품에 7602억원 투자 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTDhWTUNpNXcxZW1VS1M5elAzYmRrakU4d1ZPNjAyMkVsSnJ5U2p2aFhEZnZrOHgyYzZVakZoRDdWUXo5SUE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "토토, 세라믹 기술로 AI 반도체 공급망 부상… 1나노급 공정 겨냥한 일본 소재의 반격 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk5ENlVFczRab0FaemxUUDhabTBWbHdmX0g5WWxxOWVwNndXWWQ1Ylp2MXBfdklTcUVsZlBqbC1SZnVyLV8zZDA3NW00VGdFaWRQZFVfaEktdjljblE5VGt0aHNIZU5rNDd4OTh2d1pydFRtUUlDNkRjbmo1c3RaMzNtUkpCenBf?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "미국이 AI를 껐다 [뉴노멀-실리콘밸리] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14TlhTeXQxU0xIRVQyNEZWWXZGRzIzY3FSYWdRUWhPdzZPWll2VjNMMmpUdEFZbzZYbjZZX01iVExiVnE1VTNjM2E4U1FqUjRfME5HX3FmWkdKR3NTSnVzVmtTR1dtQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "양산인공지능고, 'AI로 예측' 3위 달성 쾌거 - 양산신문",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsOWl3ajBaXzB0TVpscDFhdTh6NHZ5Ul9uRTdkbFJRcmVqdG5MUTYzZXg4UG1Daks4dGtOd2IwVHNRVWYxUXMzMHRmeWpEdGtUSnZVWlZWSUhwemhGRXl1d21IWktUN2VzaE9zcFRNSQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[농진청] ‘인공지능(AI) 융합, 농업혁신의 날개를 달다’ - 월간친환경",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlMkp5bUhlcFdrdm5HeEtvM0w5Q08yVnNCNTc2azE0ZDktV09pX0FlNXAtTGVRalEyckF3THVucXRHblJ3NDQ2T3E3cTE1X0wwY0dsYVUxV1NVQ0lNUVdWejlhWVNjcEQxb1VkeHNud0RDQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능, 돼지 질병 예측부터 도축까지 맡는다…정부, 축산 현장 AI 전환 본격화 - 돼지와사람",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1UjFKMW9aaFR5RXFaTXBEZVEyS2g2YUF2UjRhVlUtU3FxNU03Y2REYTF6ODJJZWxEZTFxN3J4UnFvUU84LVVEOVZzS0k5ZVIzMUdFRGJIdks2aEVqZXF1OXV3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] AI시대 성평등 해법은…여성의 참여보다 권력 구조를 바꿔야 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNkVPX25QNWhHMEpQYjI0OW1vZ21zdmxrUjRQWVNIX01ELU5BMzZpaHVqRGV5LUxLajdlMVA2M0RyU0hLeWJrVTZuYlNBTTFpRWxBMWMyY1RxNkZ3NlJoNUZhYzU1MWVXaVRmYzBwQQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ]
+  },
+  "updated": "2026-06-22 08:50"
 }
