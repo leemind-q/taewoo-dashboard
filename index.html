@@ -8,6 +8,20 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script type="importmap">
+{
+  "imports": {
+    "@tiptap/core": "https://esm.sh/@tiptap/core@2.11.5",
+    "@tiptap/starter-kit": "https://esm.sh/@tiptap/starter-kit@2.11.5",
+    "@tiptap/extension-placeholder": "https://esm.sh/@tiptap/extension-placeholder@2.11.5",
+    "@tiptap/extension-underline": "https://esm.sh/@tiptap/extension-underline@2.11.5",
+    "@tiptap/extension-link": "https://esm.sh/@tiptap/extension-link@2.11.5",
+    "@tiptap/extension-task-list": "https://esm.sh/@tiptap/extension-task-list@2.11.5",
+    "@tiptap/extension-task-item": "https://esm.sh/@tiptap/extension-task-item@2.11.5",
+    "@tiptap/pm": "https://esm.sh/@tiptap/pm@2.11.5"
+  }
+}
+</script>
 <style>
 /* ===== RESET & BASE ===== */
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -775,15 +789,101 @@ body::after {
 .memo-tags-input::placeholder { color: rgba(255,255,255,0.2); }
 
 .memo-editor-body { flex: 1; display: flex; overflow: hidden; position: relative; min-height: 0; }
-.memo-editor-textarea {
-  flex: 1; padding: 24px;
+/* Tiptap / ProseMirror editor styles */
+#memoEditor { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+#memoEditor .ProseMirror {
+  flex: 1; padding: 24px; outline: none;
   font-size: 15px; line-height: 1.75;
   color: rgba(255,255,255,0.88);
-  background: transparent; border: none; resize: none;
-  font-family: 'DM Sans',sans-serif; tab-size: 2; overflow-y: auto;
-  width: 100%; min-height: calc(100vh - 320px);
+  font-family: 'DM Sans',sans-serif;
+  overflow-y: auto;
+  min-height: calc(100vh - 320px);
 }
-.memo-editor-textarea::placeholder { color: rgba(255,255,255,0.12); }
+#memoEditor .ProseMirror p { margin: 0; }
+#memoEditor .ProseMirror p.is-editor-empty:first-child::before {
+  content: attr(data-placeholder);
+  float: left; height: 0; pointer-events: none;
+  color: rgba(255,255,255,0.12);
+}
+#memoEditor .ProseMirror h1 { font-family: 'Space Grotesk',sans-serif; font-weight: 700; font-size: 26px; color: #fff; margin: 20px 0 10px; }
+#memoEditor .ProseMirror h2 { font-family: 'Space Grotesk',sans-serif; font-weight: 500; font-size: 22px; color: rgba(255,255,255,0.95); margin: 18px 0 8px; }
+#memoEditor .ProseMirror h3 { font-family: 'Space Grotesk',sans-serif; font-weight: 500; font-size: 18px; color: rgba(255,255,255,0.9); margin: 14px 0 6px; }
+#memoEditor .ProseMirror ul, #memoEditor .ProseMirror ol { padding-left: 24px; margin: 6px 0; }
+#memoEditor .ProseMirror li { margin-bottom: 2px; line-height: 1.65; }
+#memoEditor .ProseMirror li p { margin: 0; }
+#memoEditor .ProseMirror blockquote {
+  border-left: 3px solid #fbbf24; padding: 6px 16px; margin: 10px 0;
+  background: rgba(251,191,36,0.05); border-radius: 0 8px 8px 0;
+  color: rgba(255,255,255,0.7);
+}
+#memoEditor .ProseMirror pre {
+  background: rgba(0,0,0,0.4); padding: 16px; border-radius: 10px; margin: 10px 0;
+  overflow-x: auto; border: 1px solid rgba(255,255,255,0.06);
+  font-family: 'DM Sans',monospace; font-size: 13px; line-height: 1.6;
+  color: rgba(255,255,255,0.88);
+}
+#memoEditor .ProseMirror pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
+#memoEditor .ProseMirror code {
+  background: rgba(0,0,0,0.4); padding: 2px 6px; border-radius: 4px;
+  font-size: 13px; font-family: 'DM Sans',monospace; color: #fbbf24;
+}
+#memoEditor .ProseMirror hr { border: none; border-top: 1px solid rgba(255,255,255,0.08); margin: 20px 0; }
+#memoEditor .ProseMirror a { color: #fbbf24; text-decoration: underline; cursor: pointer; }
+#memoEditor .ProseMirror a:hover { color: #fcd34d; }
+#memoEditor .ProseMirror img { max-width: 100%; border-radius: 8px; margin: 10px 0; }
+#memoEditor .ProseMirror ul[data-type="taskList"] { list-style: none; padding-left: 0; }
+#memoEditor .ProseMirror ul[data-type="taskList"] li { display: flex; align-items: flex-start; gap: 8px; }
+#memoEditor .ProseMirror ul[data-type="taskList"] li label { flex-shrink: 0; }
+#memoEditor .ProseMirror ul[data-type="taskList"] li label input[type="checkbox"] { cursor: pointer; }
+#memoEditor .ProseMirror ul[data-type="taskList"] li[data-checked="true"] > div > p { text-decoration: line-through; color: rgba(255,255,255,0.35); }
+/* Selection highlight */
+#memoEditor .ProseMirror ::selection { background: rgba(251,191,36,0.2); }
+#memoEditor .ProseMirror::selection { background: rgba(251,191,36,0.2); }
+/* Scrollbar */
+#memoEditor .ProseMirror::-webkit-scrollbar { width: 6px; }
+#memoEditor .ProseMirror::-webkit-scrollbar-track { background: transparent; }
+#memoEditor .ProseMirror::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+
+/* Slash command menu */
+.memo-slash-menu {
+  position: absolute; z-index: 9999;
+  background: rgba(25,25,30,0.98);
+  border: 1px solid rgba(255,255,255,0.1); border-radius: 12px;
+  padding: 6px; min-width: 220px;
+  backdrop-filter: blur(16px);
+  box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  display: none;
+}
+.memo-slash-menu.open { display: block; }
+.memo-slash-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px; border-radius: 8px;
+  cursor: pointer; font-size: 13px; color: rgba(255,255,255,0.7);
+  transition: all .1s;
+}
+.memo-slash-item:hover, .memo-slash-item.active { background: rgba(251,191,36,0.1); color: #fbbf24; }
+.memo-slash-item .memo-slash-icon { font-size: 16px; width: 24px; text-align: center; }
+
+/* Inline formatting toolbar */
+.memo-inline-toolbar {
+  position: absolute; z-index: 9999;
+  background: rgba(25,25,30,0.98);
+  border: 1px solid rgba(255,255,255,0.1); border-radius: 10px;
+  padding: 4px 6px;
+  backdrop-filter: blur(16px);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+  display: none; align-items: center; gap: 2px;
+}
+.memo-inline-toolbar.open { display: flex; }
+.memo-inline-btn {
+  display: flex; align-items: center; justify-content: center;
+  width: 30px; height: 30px; border-radius: 6px;
+  border: none; background: transparent; cursor: pointer;
+  font-size: 14px; color: rgba(255,255,255,0.5); transition: all .1s;
+}
+.memo-inline-btn:hover { background: rgba(255,255,255,0.06); color: #fff; }
+.memo-inline-btn.active { background: rgba(251,191,36,0.12); color: #fbbf24; }
+.memo-inline-sep { width: 1px; height: 20px; background: rgba(255,255,255,0.08); margin: 0 4px; }
 .memo-editor-footer {
   display: flex; align-items: center; justify-content: space-between;
   padding: 6px 24px; border-top: 1px solid rgba(255,255,255,0.04);
@@ -806,30 +906,6 @@ body::after {
 }
 .memo-export-btn:hover { background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.6); }
 .memo-export-wrap { display: flex; gap: 4px; }
-
-/* Markdown preview */
-.memo-editor-preview { word-wrap: break-word; }
-.memo-editor-preview h1 { font-family: 'Space Grotesk',sans-serif; font-weight: 700; font-size: 28px; color: #fff; margin: 24px 0 12px; padding-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.08); }
-.memo-editor-preview h2 { font-family: 'Space Grotesk',sans-serif; font-weight: 500; font-size: 22px; color: rgba(255,255,255,0.95); margin: 20px 0 10px; }
-.memo-editor-preview h3 { font-family: 'Space Grotesk',sans-serif; font-weight: 500; font-size: 18px; color: rgba(255,255,255,0.9); margin: 16px 0 8px; }
-.memo-editor-preview h4 { font-size: 16px; font-weight: 500; margin: 12px 0 6px; }
-.memo-editor-preview p { margin: 0 0 12px; line-height: 1.75; }
-.memo-editor-preview ul, .memo-editor-preview ol { padding-left: 24px; margin-bottom: 12px; }
-.memo-editor-preview li { margin-bottom: 4px; line-height: 1.6; }
-.memo-editor-preview blockquote { border-left: 3px solid #fbbf24; padding: 8px 16px; margin: 12px 0; background: rgba(251,191,36,0.05); border-radius: 0 8px 8px 0; color: rgba(255,255,255,0.7); }
-.memo-editor-preview code { background: rgba(0,0,0,0.3); padding: 2px 6px; border-radius: 4px; font-size: 13px; font-family: 'DM Sans',monospace; color: #fbbf24; }
-.memo-editor-preview pre { background: rgba(0,0,0,0.3); padding: 16px; border-radius: 10px; margin: 12px 0; overflow-x: auto; border: 1px solid rgba(255,255,255,0.06); }
-.memo-editor-preview pre code { background: none; padding: 0; border-radius: 0; color: rgba(255,255,255,0.85); font-size: 13px; line-height: 1.6; }
-.memo-editor-preview hr { border: none; border-top: 1px solid rgba(255,255,255,0.08); margin: 24px 0; }
-.memo-editor-preview table { width: 100%; border-collapse: collapse; margin: 12px 0; }
-.memo-editor-preview th, .memo-editor-preview td { padding: 8px 12px; border: 1px solid rgba(255,255,255,0.1); text-align: left; font-size: 14px; }
-.memo-editor-preview th { background: rgba(255,255,255,0.04); font-weight: 600; color: rgba(255,255,255,0.8); }
-.memo-editor-preview img { max-width: 100%; border-radius: 8px; margin: 12px 0; }
-.memo-editor-preview a { color: #fbbf24; }
-.memo-editor-preview input[type="checkbox"] { -webkit-appearance: none; appearance: none; width: 16px; height: 16px; border: 2px solid rgba(255,255,255,0.2); border-radius: 4px; cursor: pointer; vertical-align: middle; margin-right: 6px; position: relative; transition: all .15s; }
-.memo-editor-preview input[type="checkbox"]:checked { background: #fbbf24; border-color: #fbbf24; }
-.memo-editor-preview input[type="checkbox"]:checked::after { content: '✓'; position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #000; font-size: 11px; font-weight: 700; }
-.memo-editor-preview input[type="checkbox"]:hover { border-color: #fbbf24; }
 
 /* Emoji Picker */
 .memo-emoji-picker {
@@ -858,17 +934,6 @@ body::after {
 .memo-emoji-search { width: 100%; padding: 6px 8px; border-radius: 6px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08); color: #fff; font-size: 12px; margin-bottom: 8px; font-family: 'DM Sans',sans-serif; }
 .memo-emoji-search::placeholder { color: rgba(255,255,255,0.25); }
 .memo-emoji-picker { width: 280px; max-height: 320px; overflow-y: auto; }
-
-/* --- Mobile Preview Toggle --- */
-.memo-mobile-preview-btn {
-  display: none; position: fixed; bottom: 16px; right: 16px; z-index: 150;
-  width: 44px; height: 44px; border-radius: 50%;
-  background: linear-gradient(135deg, #fbbf24, #f59e0b);
-  color: #000; border: none; cursor: pointer; font-size: 20px;
-  box-shadow: 0 4px 20px rgba(251,191,36,0.3); align-items: center; justify-content: center;
-  transition: transform .2s;
-}
-.memo-mobile-preview-btn:active { transform: scale(0.9); }
 
 /* --- Search Highlight --- */
 .memo-search-highlight { background: rgba(251,191,36,0.3); border-radius: 2px; padding: 0 2px; }
@@ -1038,20 +1103,13 @@ body::after {
   .memo-hamburger { display: block; }
   .memo-editor-toolbar { padding: 8px 12px 8px 52px; flex-wrap: wrap; gap: 6px; }
   .memo-editor-title-input { font-size: 17px; }
-  .memo-editor-textarea, .memo-editor-preview { padding: 16px; width: 100%; }
-  .memo-mobile-preview-btn { display: flex; }
-  .memo-editor-body.mobile-preview .memo-editor-textarea { display: none; }
-  .memo-editor-body.mobile-preview .memo-editor-preview { display: block; }
   .memo-breadcrumbs { padding: 6px 12px 6px 52px; font-size: 11px; }
   .memo-modal { padding: 24px; max-width: 95%; }
   .memo-template-grid { grid-template-columns: 1fr; }
   .memo-shortcut-hint { display: none; }
   .memo-tags-row { padding: 4px 12px; }
   .memo-editor-footer { padding: 6px 12px; flex-wrap: wrap; gap: 4px; }
-  /* Disable split mode on mobile */
-  .memo-view-toggle button[data-mode="split"] { display: none; }
-  .memo-editor-body.split .memo-editor-preview { display: none !important; }
-  .memo-editor-body.split .memo-editor-textarea { width: 100% !important; border-right: none !important; }
+  #memoEditor .ProseMirror { padding: 16px; }
   /* Mobile sidebar backdrop */
   .memo-sidebar-backdrop { display: none; }
   .memo-sidebar.open ~ .memo-sidebar-backdrop { display: block; }
@@ -1351,7 +1409,7 @@ body::after {
 
           <!-- Editor body -->
           <div class="memo-editor-body" id="memoEditorBody">
-            <textarea class="memo-editor-textarea" id="memoEditorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." spellcheck="false"></textarea>
+            <div id="memoEditor"></div>
           </div>
 
           <!-- Footer -->
@@ -2004,8 +2062,7 @@ function memoInitDom() {
   memoEl.breadcrumbs = id('memoBreadcrumbs');
   memoEl.emojiBtn = id('memoEmojiBtn');
   memoEl.editorTitle = id('memoEditorTitle');
-  memoEl.editorTextarea = id('memoEditorTextarea');
-  memoEl.editorPreview = id('memoEditorPreview');
+  memoEl.editor = null; // Tiptap editor instance, initialized later
   memoEl.editorBody = id('memoEditorBody');
   memoEl.charCount = id('memoCharCount');
   memoEl.wordCount = id('memoWordCount');
@@ -2311,7 +2368,11 @@ function memoSelectNote(id) {
   memoShowEditor(true);
   memoEl.emojiBtn.textContent = note.icon || '📝';
   memoEl.editorTitle.value = note.title;
-  memoEl.editorTextarea.value = note.content;
+  // Set content in Tiptap editor from markdown
+  if (memoEl.editor) {
+    var html = memoMarkdownToHtml(note.content);
+    memoEl.editor.commands.setContent(html, false);
+  }
   memoUpdateCharCount();
   
   memoUpdateLastEdited(note.updatedAt);
@@ -2632,13 +2693,226 @@ function memoExportAll() {
 
 // --- Editor ---
 function memoUpdateCharCount() {
-  memoEl.charCount.textContent = memoEl.editorTextarea.value.length.toLocaleString() + '자';
-  var text = memoEl.editorTextarea.value.trim();
-  var words = text ? text.split(/\s+/).length : 0;
+  var text = '';
+  if (memoEl.editor) text = memoEl.editor.getText();
+  memoEl.charCount.textContent = text.length.toLocaleString() + '자';
+  var trimmed = text.trim();
+  var words = trimmed ? trimmed.split(/\s+/).length : 0;
   memoEl.wordCount.textContent = words.toLocaleString() + '단어';
 }
 function memoUpdatePreview() { /* preview removed — no-op */ }
 function memoBindPreviewCheckboxes() { /* no preview — no-op */ }
+
+// --- Markdown ↔ HTML conversion (for Tiptap storage compatibility) ---
+function memoHtmlToMarkdown(html) {
+  if (!html || html === '<p></p>') return '';
+  // Simple HTML-to-Markdown converter using the DOMParser
+  var div = document.createElement('div');
+  div.innerHTML = html;
+  
+  function walk(node, depth) {
+    var result = '';
+    var indent = '';
+    for (var i = 0; i < depth; i++) indent += '';
+    
+    for (var child = node.firstChild; child; child = child.nextSibling) {
+      if (child.nodeType === 3) { // Text
+        result += child.textContent;
+      } else if (child.nodeType === 1) { // Element
+        var tag = child.tagName.toLowerCase();
+        var inner = walk(child, depth);
+        
+        switch (tag) {
+          case 'h1': result += '# ' + inner.trim() + '\n\n'; break;
+          case 'h2': result += '## ' + inner.trim() + '\n\n'; break;
+          case 'h3': result += '### ' + inner.trim() + '\n\n'; break;
+          case 'p': result += inner.trim() + '\n\n'; break;
+          case 'br': result += '\n'; break;
+          case 'hr': result += '---\n\n'; break;
+          case 'blockquote': {
+            var lines = inner.trim().split('\n');
+            result += lines.map(function(l) { return '> ' + l; }).join('\n') + '\n\n';
+            break;
+          }
+          case 'ul':
+          case 'ol': {
+            var isOl = tag === 'ol';
+            var liIdx = 1;
+            for (var li = child.firstChild; li; li = li.nextSibling) {
+              if (li.nodeType === 1 && li.tagName.toLowerCase() === 'li') {
+                var liText = walk(li, depth);
+                // Check for task list
+                var isTask = li.getAttribute('data-type') === 'taskItem' || li.querySelector('input[type="checkbox"]');
+                var checked = li.getAttribute('data-checked') === 'true' || (li.querySelector('input[type="checkbox"]') && li.querySelector('input[type="checkbox"]').checked);
+                if (isOl) {
+                  result += indent + liIdx + '. ' + liText.trim() + '\n';
+                  liIdx++;
+                } else if (isTask) {
+                  result += indent + '- [' + (checked ? 'x' : ' ') + '] ' + liText.trim() + '\n';
+                } else {
+                  result += indent + '- ' + liText.trim() + '\n';
+                }
+              }
+            }
+            result += '\n';
+            break;
+          }
+          case 'li': {
+            inner = inner.replace(/^[-\d.]+\s+/, '');
+            result += inner;
+            break;
+          }
+          case 'pre': {
+            var codeEl = child.querySelector('code');
+            var codeText = codeEl ? codeEl.textContent : child.textContent;
+            var lang = codeEl && codeEl.className ? codeEl.className.replace(/^language-/, '') : '';
+            result += '```' + lang + '\n' + codeText + '\n```\n\n';
+            break;
+          }
+          case 'code': result += '`' + child.textContent + '`'; break;
+          case 'strong': result += '**' + inner + '**'; break;
+          case 'em': result += '*' + inner + '*'; break;
+          case 'u': result += '<u>' + inner + '</u>'; break;
+          case 's': result += '~~' + inner + '~~'; break;
+          case 'a': {
+            var href = child.getAttribute('href') || '';
+            result += '[' + inner + '](' + href + ')';
+            break;
+          }
+          case 'img': {
+            var src = child.getAttribute('src') || '';
+            var alt = child.getAttribute('alt') || '';
+            result += '![' + alt + '](' + src + ')';
+            break;
+          }
+          default: result += inner;
+        }
+      }
+    }
+    return result;
+  }
+  
+  var md = walk(div, 0);
+  // Clean up excessive newlines
+  md = md.replace(/\n{3,}/g, '\n\n').trim();
+  return md;
+}
+
+function memoMarkdownToHtml(md) {
+  if (!md || !md.trim()) return '<p></p>';
+  // Use the already-loaded marked library
+  try {
+    return marked.parse(md);
+  } catch(e) {
+    // Fallback: simple line-based conversion
+    var lines = md.split('\n');
+    var html = '';
+    var inList = false;
+    var listType = '';
+    var inCode = false;
+    var codeContent = '';
+    
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i];
+      
+      // Code block
+      if (line.trim().startsWith('```')) {
+        if (!inCode) {
+          inCode = true;
+          codeContent = '';
+        } else {
+          html += '<pre><code>' + escapeHtml(codeContent.trim()) + '</code></pre>\n';
+          inCode = false;
+        }
+        continue;
+      }
+      if (inCode) {
+        codeContent += line + '\n';
+        continue;
+      }
+      
+      // Headers
+      if (/^### /.test(line)) { html += '<h3>' + line.substring(4) + '</h3>\n'; continue; }
+      if (/^## /.test(line)) { html += '<h2>' + line.substring(3) + '</h2>\n'; continue; }
+      if (/^# /.test(line)) { html += '<h1>' + line.substring(2) + '</h1>\n'; continue; }
+      
+      // HR
+      if (/^---$/.test(line.trim())) { html += '<hr>\n'; continue; }
+      
+      // Blockquote
+      if (/^> /.test(line)) { html += '<blockquote><p>' + line.substring(2) + '</p></blockquote>\n'; continue; }
+      
+      // Close list if not a list item
+      if (inList && !/^(\s*)[-*+]\s/.test(line) && !/^(\s*)\d+\.\s/.test(line) && !/^(\s*)- \[[ x]\]\s/.test(line)) {
+        html += '</' + listType + '>\n';
+        inList = false;
+      }
+      
+      // Checkbox list
+      var cbMatch = line.match(/^(\s*)- \[([ x])\]\s+(.*)/);
+      if (cbMatch) {
+        if (!inList || listType !== 'ul') {
+          if (inList) html += '</' + listType + '>\n';
+          inList = true;
+          listType = 'ul';
+          html += '<ul data-type="taskList">\n';
+        }
+        var checked = cbMatch[2] === 'x' ? 'true' : 'false';
+        html += '<li data-checked="' + checked + '" data-type="taskItem"><label><input type="checkbox" ' + (checked === 'true' ? 'checked' : '') + '></label><div><p>' + cbMatch[3] + '</p></div></li>\n';
+        continue;
+      }
+      
+      // Bullet list
+      var bulletMatch = line.match(/^(\s*)[-*+]\s+(.*)/);
+      if (bulletMatch) {
+        if (!inList || listType !== 'ul') {
+          if (inList) html += '</' + listType + '>\n';
+          inList = true;
+          listType = 'ul';
+          html += '<ul>\n';
+        }
+        html += '<li><p>' + bulletMatch[2] + '</p></li>\n';
+        continue;
+      }
+      
+      // Numbered list
+      var numMatch = line.match(/^(\s*)(\d+)\.\s+(.*)/);
+      if (numMatch) {
+        if (!inList || listType !== 'ol') {
+          if (inList) html += '</' + listType + '>\n';
+          inList = true;
+          listType = 'ol';
+          html += '<ol>\n';
+        }
+        html += '<li><p>' + numMatch[3] + '</p></li>\n';
+        continue;
+      }
+      
+      // Empty line
+      if (!line.trim()) {
+        if (inList) { html += '</' + listType + '>\n'; inList = false; }
+        continue;
+      }
+      
+      // Paragraph - process inline formatting
+      var p = line;
+      // Bold
+      p = p.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      // Italic
+      p = p.replace(/\*(.+?)\*/g, '<em>$1</em>');
+      // Inline code
+      p = p.replace(/`(.+?)`/g, '<code>$1</code>');
+      // Links
+      p = p.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
+      html += '<p>' + p + '</p>\n';
+    }
+    
+    if (inList) html += '</' + listType + '>\n';
+    if (inCode) html += '<pre><code>' + escapeHtml(codeContent.trim()) + '</code></pre>\n';
+    
+    return html || '<p></p>';
+  }
+}
 function memoUpdateLastEdited(iso) {
   memoEl.lastEdited.textContent = iso ? '마지막 수정: ' + memoFormatDate(iso) : '';
 }
@@ -2673,169 +2947,6 @@ function memoDuplicateNote(id) {
   memoSelectNote(newNote.id);
   memoPersistToGist().catch(function(){});
   memoShowToast('메모 복제됨', 'success');
-}
-
-// --- Textarea Indentation ---
-function memoHandleTextareaKeydown(e) {
-  var ta = memoEl.editorTextarea;
-  var start = ta.selectionStart;
-  var end = ta.selectionEnd;
-  var val = ta.value;
-  var lines = val.split('\n');
-
-  // Tab / Shift+Tab — list-aware indentation
-  if (e.key === 'Tab') {
-    e.preventDefault();
-    var cursorLine = val.substring(0, start).split('\n').length - 1;
-    var currentLine = lines[cursorLine] || '';
-    var isListItem = /^(\s*)([-*+]|\d+\.)\s/.test(currentLine);
-    var indentSize = 2; // markdown sub-list indent
-
-    if (start !== end && !isListItem) {
-      // Multi-line indent (non-list)
-      var startLine = val.substring(0, start).split('\n').length - 1;
-      var endLine = val.substring(0, end).split('\n').length - 1;
-      for (var i = startLine; i <= endLine; i++) {
-        if (e.shiftKey) {
-          if (lines[i].startsWith('  ')) lines[i] = lines[i].substring(2);
-        } else {
-          lines[i] = '  ' + lines[i];
-        }
-      }
-      ta.value = lines.join('\n');
-      ta.selectionStart = start + (e.shiftKey ? -2 : 2);
-      ta.selectionEnd = end + (e.shiftKey ? -2 * (endLine - startLine + 1) : 2 * (endLine - startLine + 1));
-    } else if (isListItem) {
-      // List item: indent/dedent the whole line
-      if (e.shiftKey) {
-        if (currentLine.startsWith('  ')) {
-          lines[cursorLine] = currentLine.substring(2);
-        }
-      } else {
-        lines[cursorLine] = '  ' + currentLine;
-      }
-      ta.value = lines.join('\n');
-      ta.selectionStart = ta.selectionEnd = start + (e.shiftKey ? -2 : 2);
-    } else {
-      // Plain text: insert 2 spaces
-      ta.value = val.substring(0, start) + '  ' + val.substring(end);
-      ta.selectionStart = ta.selectionEnd = start + 2;
-    }
-    memoUpdateCharCount();
-    memoScheduleSave();
-    return;
-  }
-
-  // Enter key - auto list continuation
-  if (e.key === 'Enter' && !e.shiftKey) {
-    var cursorLine = val.substring(0, start).split('\n').length - 1;
-    var currentLine = lines[cursorLine] || '';
-    var indent = currentLine.match(/^(\s*)/)[1];
-
-    // Checkbox list (- [ ])
-    var cbMatch = currentLine.match(/^(\s*)[-*+]\s+\[[\sx]\]\s*/);
-    if (cbMatch) {
-      e.preventDefault();
-      var rest = currentLine.substring(cbMatch[0].length).trim();
-      if (!rest) {
-        // Empty checkbox - remove it
-        lines.splice(cursorLine, 1);
-        ta.value = lines.join('\n');
-        var pos = val.substring(0, start).length - currentLine.length;
-        ta.selectionStart = ta.selectionEnd = pos;
-      } else {
-        var ins = indent + '- [ ] ';
-        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
-        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
-      }
-      memoUpdateCharCount();
-      
-      memoScheduleSave();
-      return;
-    }
-
-    // Bullet list (- or *)
-    var bulletMatch = currentLine.match(/^(\s*)([-*+])\s+/);
-    if (bulletMatch && !currentLine.match(/^\s*[-*+]\s+\[[\sx]\]/)) {
-      e.preventDefault();
-      var rest = currentLine.substring(bulletMatch[0].length).trim();
-      if (!rest) {
-        // Empty bullet - remove it
-        lines.splice(cursorLine, 1);
-        ta.value = lines.join('\n');
-        var pos = val.substring(0, start).length - currentLine.length;
-        ta.selectionStart = ta.selectionEnd = pos;
-      } else {
-        var ins = indent + bulletMatch[2] + ' ';
-        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
-        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
-      }
-      memoUpdateCharCount();
-      
-      memoScheduleSave();
-      return;
-    }
-
-    // Numbered list (1. 2. etc.)
-    var numMatch = currentLine.match(/^(\s*)(\d+)\.\s+/);
-    if (numMatch) {
-      e.preventDefault();
-      var rest = currentLine.substring(numMatch[0].length).trim();
-      if (!rest) {
-        lines.splice(cursorLine, 1);
-        ta.value = lines.join('\n');
-        var pos = val.substring(0, start).length - currentLine.length;
-        ta.selectionStart = ta.selectionEnd = pos;
-      } else {
-        var nextNum = parseInt(numMatch[2], 10) + 1;
-        var ins = indent + nextNum + '. ';
-        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
-        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
-      }
-      memoUpdateCharCount();
-      
-      memoScheduleSave();
-      return;
-    }
-  }
-}
-
-// --- Markdown Auto-Conversion (Notion-style) ---
-function memoHandleTextareaInput() {
-  var ta = memoEl.editorTextarea;
-  var val = ta.value;
-  var selStart = ta.selectionStart;
-  var cursorLineStart = val.lastIndexOf('\n', selStart - 1) + 1;
-  var lineStartToCursor = val.substring(cursorLineStart, selStart);
-
-  // Check for auto-conversion patterns (line starts with pattern + space)
-  var converted = null;
-  // #, ##, ### headers
-  if (/^# $/.test(lineStartToCursor)) converted = '# ';
-  else if (/^## $/.test(lineStartToCursor)) converted = '## ';
-  else if (/^### $/.test(lineStartToCursor)) converted = '### ';
-  // bullet list
-  else if (/^- $/.test(lineStartToCursor)) converted = '- ';
-  else if (/^\* $/.test(lineStartToCursor)) converted = '* ';
-  // blockquote
-  else if (/^> $/.test(lineStartToCursor)) converted = '> ';
-  // checkbox
-  else if (/^\[ ?\] $/.test(lineStartToCursor)) converted = '- [ ] ';
-  // numbered list (keep as-is, e.g. "1. ")
-  else if (/^\d+\. $/.test(lineStartToCursor)) converted = lineStartToCursor;
-
-  if (converted !== null) {
-    ta.value = val.substring(0, cursorLineStart) + converted + val.substring(selStart);
-    ta.selectionStart = ta.selectionEnd = cursorLineStart + converted.length;
-    memoUpdateCharCount();
-    
-    memoScheduleSave();
-    return;
-  }
-
-  memoUpdateCharCount();
-  
-  memoScheduleSave();
 }
 
 // --- Extended Emoji Picker ---
@@ -2996,7 +3107,7 @@ async function memoPerformSave() {
   if (!note) return;
   var title = memoEl.editorTitle.value.trim() || '제목 없음';
   note.title = title;
-  note.content = memoEl.editorTextarea.value;
+  note.content = memoEl.editor ? memoHtmlToMarkdown(memoEl.editor.getHTML()) : '';
   note.updatedAt = new Date().toISOString();
   note.icon = memoEl.emojiBtn.textContent || '📝';
   memoLocalSave(memoState.data);
@@ -3034,7 +3145,7 @@ async function memoSyncFromGist() {
         memoLocalSave(memoState.data);
         if (memoState.currentId) {
           var cur = memoGetNote(memoState.currentId);
-          if (cur) { memoEl.editorTitle.value = cur.title; memoEl.editorTextarea.value = cur.content; memoEl.emojiBtn.textContent = cur.icon || '📝';  memoUpdateCharCount(); memoUpdateLastEdited(cur.updatedAt); memoRenderTags(cur); }
+          if (cur) { memoEl.editorTitle.value = cur.title; memoEl.emojiBtn.textContent = cur.icon || '📝'; if (memoEl.editor) { var html = memoMarkdownToHtml(cur.content); memoEl.editor.commands.setContent(html, false); }  memoUpdateCharCount(); memoUpdateLastEdited(cur.updatedAt); memoRenderTags(cur); }
         }
         memoRenderTree();
         memoShowToast('Gist에서 동기화됨', 'success');
@@ -3151,39 +3262,8 @@ function memoBindEvents() {
   // Editor title
   memoEl.editorTitle.addEventListener('input', function() { memoScheduleSave(); });
 
-  // Textarea events - indentation, auto-convert, keyboard shortcuts
-  memoEl.editorTextarea.addEventListener('keydown', function(e) {
-    var c = e.ctrlKey || e.metaKey;
-    if (c && (e.key === 'b' || e.key === 'B')) {
-      e.preventDefault();
-      var ta = this;
-      var start = ta.selectionStart, end = ta.selectionEnd;
-      if (start === end) { ta.value = ta.value.substring(0, start) + '****' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 2; }
-      else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '**' + sel + '**' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 4; }
-      memoUpdateCharCount();  memoScheduleSave(); return;
-    }
-    if (c && (e.key === 'i' || e.key === 'I')) {
-      e.preventDefault();
-      var ta = this;
-      var start = ta.selectionStart, end = ta.selectionEnd;
-      if (start === end) { ta.value = ta.value.substring(0, start) + '*' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 1; }
-      else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '*' + sel + '*' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 2; }
-      memoUpdateCharCount();  memoScheduleSave(); return;
-    }
-    if (c && (e.key === 'k' || e.key === 'K')) {
-      e.preventDefault();
-      var ta = this;
-      var start = ta.selectionStart, end = ta.selectionEnd;
-      var sel = ta.value.substring(start, end) || 'link text';
-      var url = prompt('Enter link URL:', 'https://');
-      if (url) { ta.value = ta.value.substring(0, start) + '[' + sel + '](' + url + ')' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = start + sel.length + url.length + 3; }
-      memoUpdateCharCount();  memoScheduleSave(); return;
-    }
-    memoHandleTextareaKeydown(e);
-  });
-  memoEl.editorTextarea.addEventListener('input', function(e) {
-    memoHandleTextareaInput(e);
-  });
+  // Tiptap editor: auto-save on content change (handled by onUpdate in editor init)
+  // Keyboard shortcuts for formatting (Ctrl+B, Ctrl+I, Ctrl+K) are handled by Tiptap StarterKit
 
   // Emoji button
   memoEl.emojiBtn.addEventListener('click', function(e) {
@@ -3363,6 +3443,257 @@ document.addEventListener('DOMContentLoaded', function() {
     if (memoState.token) { memoSyncFromGist().then(function() { memoPersistToGist(); }).catch(function(){}); }
   });
 });
+</script>
+
+<!-- Tiptap Editor Initialization -->
+<script type="module">
+import { Editor } from '@tiptap/core';
+import StarterKit from '@tiptap/starter-kit';
+import Placeholder from '@tiptap/extension-placeholder';
+import Underline from '@tiptap/extension-underline';
+import Link from '@tiptap/extension-link';
+import { TaskList } from '@tiptap/extension-task-list';
+import { TaskItem } from '@tiptap/extension-task-item';
+
+// Slash command menu items
+const SLASH_ITEMS = [
+  { title: '제목 1', icon: 'H1', action: (e) => e.chain().focus().toggleHeading({ level: 1 }).run() },
+  { title: '제목 2', icon: 'H2', action: (e) => e.chain().focus().toggleHeading({ level: 2 }).run() },
+  { title: '제목 3', icon: 'H3', action: (e) => e.chain().focus().toggleHeading({ level: 3 }).run() },
+  { title: '글머리 목록', icon: '•', action: (e) => e.chain().focus().toggleBulletList().run() },
+  { title: '번호 목록', icon: '1.', action: (e) => e.chain().focus().toggleOrderedList().run() },
+  { title: '할 일', icon: '☐', action: (e) => e.chain().focus().toggleTaskList().run() },
+  { title: '인용구', icon: '❝', action: (e) => e.chain().focus().toggleBlockquote().run() },
+  { title: '코드 블록', icon: '</>', action: (e) => e.chain().focus().toggleCodeBlock().run() },
+  { title: '구분선', icon: '—', action: (e) => e.chain().focus().setHorizontalRule().run() },
+];
+
+// Slash menu DOM
+var slashMenu = null;
+var slashItems = [];
+var slashSelectedIndex = 0;
+
+function createSlashMenu() {
+  if (slashMenu) return;
+  slashMenu = document.createElement('div');
+  slashMenu.className = 'memo-slash-menu';
+  slashMenu.style.cssText = 'display:none;position:fixed;z-index:9999;background:#1a1a2e;border:1px solid rgba(255,255,255,0.15);border-radius:10px;padding:6px;min-width:200px;box-shadow:0 8px 32px rgba(0,0,0,0.5);max-height:320px;overflow-y:auto;';
+  document.body.appendChild(slashMenu);
+}
+
+function showSlashMenu(editor, coords) {
+  createSlashMenu();
+  slashItems = SLASH_ITEMS.slice();
+  slashSelectedIndex = 0;
+  renderSlashItems(editor);
+  slashMenu.style.display = 'block';
+  slashMenu.style.left = coords.left + 'px';
+  slashMenu.style.top = (coords.top + 24) + 'px';
+}
+
+function hideSlashMenu() {
+  if (slashMenu) slashMenu.style.display = 'none';
+}
+
+function renderSlashItems(editor) {
+  if (!slashMenu) return;
+  slashMenu.innerHTML = '';
+  slashItems.forEach(function(item, i) {
+    var el = document.createElement('div');
+    el.className = 'memo-slash-item' + (i === slashSelectedIndex ? ' selected' : '');
+    el.style.cssText = 'display:flex;align-items:center;gap:10px;padding:8px 12px;border-radius:6px;cursor:pointer;font-size:13px;color:rgba(255,255,255,0.8);transition:background .1s;' + (i === slashSelectedIndex ? 'background:rgba(251,191,36,0.15);' : '');
+    el.innerHTML = '<span style="width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.06);border-radius:6px;font-size:12px;font-weight:600;color:#fbbf24;flex-shrink:0;">' + item.icon + '</span><span>' + item.title + '</span>';
+    el.addEventListener('mouseenter', function() { slashSelectedIndex = i; renderSlashItems(editor); });
+    el.addEventListener('mousedown', function(e) {
+      e.preventDefault();
+      item.action(editor);
+      hideSlashMenu();
+    });
+    slashMenu.appendChild(el);
+  });
+}
+
+// Inline format toolbar
+var inlineToolbar = null;
+
+function createInlineToolbar() {
+  if (inlineToolbar) return;
+  inlineToolbar = document.createElement('div');
+  inlineToolbar.className = 'memo-inline-toolbar';
+  inlineToolbar.style.cssText = 'display:none;position:fixed;z-index:9999;background:#1a1a2e;border:1px solid rgba(255,255,255,0.15);border-radius:8px;padding:4px;gap:2px;box-shadow:0 4px 20px rgba(0,0,0,0.5);';
+  inlineToolbar.innerHTML = ''
+    + '<button class="memo-inline-btn" data-fmt="bold" style="background:none;border:none;color:rgba(255,255,255,0.7);padding:6px 10px;border-radius:4px;cursor:pointer;font-size:13px;font-weight:700;">B</button>'
+    + '<button class="memo-inline-btn" data-fmt="italic" style="background:none;border:none;color:rgba(255,255,255,0.7);padding:6px 10px;border-radius:4px;cursor:pointer;font-size:13px;font-style:italic;">I</button>'
+    + '<button class="memo-inline-btn" data-fmt="underline" style="background:none;border:none;color:rgba(255,255,255,0.7);padding:6px 10px;border-radius:4px;cursor:pointer;font-size:13px;text-decoration:underline;">U</button>'
+    + '<button class="memo-inline-btn" data-fmt="link" style="background:none;border:none;color:rgba(255,255,255,0.7);padding:6px 10px;border-radius:4px;cursor:pointer;font-size:13px;">🔗</button>'
+    + '<button class="memo-inline-btn" data-fmt="strike" style="background:none;border:none;color:rgba(255,255,255,0.7);padding:6px 10px;border-radius:4px;cursor:pointer;font-size:13px;text-decoration:line-through;">S</button>';
+  document.body.appendChild(inlineToolbar);
+
+  inlineToolbar.querySelectorAll('.memo-inline-btn').forEach(function(btn) {
+    btn.addEventListener('mousedown', function(e) {
+      e.preventDefault();
+      var fmt = btn.getAttribute('data-fmt');
+      if (!window._memoEditor) return;
+      var ed = window._memoEditor;
+      if (fmt === 'bold') ed.chain().focus().toggleBold().run();
+      else if (fmt === 'italic') ed.chain().focus().toggleItalic().run();
+      else if (fmt === 'underline') ed.chain().focus().toggleUnderline().run();
+      else if (fmt === 'strike') ed.chain().focus().toggleStrike().run();
+      else if (fmt === 'link') {
+        var url = prompt('링크 URL 입력:');
+        if (url) ed.chain().focus().setLink({ href: url }).run();
+      }
+      setTimeout(updateInlineToolbar(ed), 10);
+    });
+  });
+}
+
+function showInlineToolbar(editor, coords) {
+  createInlineToolbar();
+  inlineToolbar.style.display = 'flex';
+  var rect = editor.view.dom.getBoundingClientRect();
+  var x = coords.left - 100;
+  var y = coords.top - 48;
+  if (x < 8) x = 8;
+  inlineToolbar.style.left = x + 'px';
+  inlineToolbar.style.top = y + 'px';
+}
+
+function hideInlineToolbar() {
+  if (inlineToolbar) inlineToolbar.style.display = 'none';
+}
+
+function updateInlineToolbar(editor) {
+  if (!inlineToolbar) return;
+  var btns = inlineToolbar.querySelectorAll('.memo-inline-btn');
+  btns.forEach(function(btn) {
+    var fmt = btn.getAttribute('data-fmt');
+    var active = false;
+    if (fmt === 'bold') active = editor.isActive('bold');
+    else if (fmt === 'italic') active = editor.isActive('italic');
+    else if (fmt === 'underline') active = editor.isActive('underline');
+    else if (fmt === 'strike') active = editor.isActive('strike');
+    else if (fmt === 'link') active = editor.isActive('link');
+    btn.style.background = active ? 'rgba(251,191,36,0.2)' : 'none';
+    btn.style.color = active ? '#fbbf24' : 'rgba(255,255,255,0.7)';
+  });
+}
+
+// Wait for DOM + memoEl to be ready
+function initTiptapEditor() {
+  var el = document.getElementById('memoEditor');
+  if (!el || typeof memoEl === 'undefined') {
+    setTimeout(initTiptapEditor, 200);
+    return;
+  }
+
+  var editor = new Editor({
+    element: el,
+    extensions: [
+      StarterKit.configure({
+        heading: { levels: [1, 2, 3] },
+      }),
+      Placeholder.configure({
+        placeholder: '내용을 입력하세요... ( / 입력으로 블록 삽입 )',
+      }),
+      Underline,
+      Link.configure({
+        openOnClick: false,
+        HTMLAttributes: { rel: 'noopener noreferrer' },
+      }),
+      TaskList,
+      TaskItem.configure({ nested: true }),
+    ],
+    content: '<p></p>',
+    onUpdate: function() {
+      if (typeof memoScheduleSave === 'function') memoScheduleSave();
+      if (typeof memoUpdateCharCount === 'function') memoUpdateCharCount();
+    },
+    onSelectionUpdate: function() {
+      // Show/hide inline toolbar
+      var from = editor.state.selection.from;
+      var to = editor.state.selection.to;
+      if (from !== to) {
+        var coords = editor.view.coordsAtPos(from);
+        showInlineToolbar(editor, coords);
+        updateInlineToolbar(editor);
+      } else {
+        hideInlineToolbar();
+      }
+    },
+    onBlur: function() {
+      setTimeout(hideInlineToolbar, 200);
+    },
+  });
+
+  // Tab indentation
+  el.addEventListener('keydown', function(e) {
+    if (e.key === 'Tab') {
+      e.preventDefault();
+      if (e.shiftKey) {
+        editor.chain().focus().liftListItem('listItem').run();
+      } else {
+        editor.chain().focus().sinkListItem('listItem').run();
+      }
+    }
+    // Slash command
+    if (e.key === '/') {
+      var sel = editor.state.selection;
+      var textBefore = editor.state.doc.textBetween(Math.max(0, sel.from - 3), sel.from, '\n');
+      if (textBefore === '' || textBefore.endsWith('\n') || sel.from <= 1) {
+        var coords = editor.view.coordsAtPos(sel.from);
+        setTimeout(function() { showSlashMenu(editor, coords); }, 10);
+      }
+    }
+    // Slash menu navigation
+    if (slashMenu && slashMenu.style.display === 'block') {
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        slashSelectedIndex = (slashSelectedIndex + 1) % slashItems.length;
+        renderSlashItems(editor);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        slashSelectedIndex = (slashSelectedIndex - 1 + slashItems.length) % slashItems.length;
+        renderSlashItems(editor);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        var item = slashItems[slashSelectedIndex];
+        if (item) {
+          // Delete the / character
+          editor.chain().focus().deleteRange({ from: editor.state.selection.from - 1, to: editor.state.selection.from }).run();
+          item.action(editor);
+        }
+        hideSlashMenu();
+      } else if (e.key === 'Escape') {
+        hideSlashMenu();
+      }
+    }
+    // Escape hides inline toolbar
+    if (e.key === 'Escape') {
+      hideSlashMenu();
+      hideInlineToolbar();
+    }
+  });
+
+  // Click outside slash menu to close
+  document.addEventListener('click', function(e) {
+    if (slashMenu && slashMenu.style.display === 'block' && !slashMenu.contains(e.target)) {
+      hideSlashMenu();
+    }
+  });
+
+  // Assign to memoEl
+  memoEl.editor = editor;
+  window._memoEditor = editor;
+  console.log('Tiptap editor initialized');
+}
+
+// Initialize after DOM ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', function() { setTimeout(initTiptapEditor, 300); });
+} else {
+  setTimeout(initTiptapEditor, 300);
+}
 </script>
 </body>
 </html>
