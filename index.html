@@ -525,8 +525,8 @@ body::after {
 /* --- Sidebar --- */
 .memo-sidebar {
   width: 280px; min-width: 280px;
-  background: rgba(255,255,255,0.02);
-  border-right: 1px solid rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.035);
+  border-right: 1px solid rgba(255,255,255,0.1);
   display: flex; flex-direction: column;
   height: 100%; overflow: hidden;
   transition: transform .3s ease;
@@ -555,14 +555,14 @@ body::after {
 }
 .memo-search-wrap input {
   width: 100%; padding: 8px 10px 8px 32px;
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
   border-radius: 8px;
-  font-size: 12px; color: rgba(255,255,255,0.7);
+  font-size: 12px; color: rgba(255,255,255,0.85);
   transition: border-color .2s;
 }
-.memo-search-wrap input:focus { border-color: rgba(251,191,36,0.4); color: #fff; }
-.memo-search-wrap input::placeholder { color: rgba(255,255,255,0.25); }
+.memo-search-wrap input:focus { border-color: rgba(251,191,36,0.4); color: #fff; background: rgba(255,255,255,0.08); }
+.memo-search-wrap input::placeholder { color: rgba(255,255,255,0.35); }
 .memo-new-memo-btn {
   display: flex; align-items: center; justify-content: center; gap: 6px;
   width: 100%; padding: 8px 12px;
@@ -589,10 +589,12 @@ body::after {
   display: flex; align-items: center; gap: 6px;
   padding: 8px 10px; border-radius: 6px;
   cursor: pointer; transition: background .15s;
-  font-size: 13px; font-weight: 600; color: rgba(255,255,255,0.7);
+  font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.9);
   user-select: none;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  margin-bottom: 2px;
 }
-.memo-tree-category-header:hover { background: rgba(255,255,255,0.04); }
+.memo-tree-category-header:hover { background: rgba(255,255,255,0.06); }
 .memo-tree-category-header .memo-cat-icon { font-size: 16px; line-height: 1; }
 .memo-tree-category-header .memo-cat-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .memo-tree-category-header .memo-cat-count { font-size: 11px; color: rgba(255,255,255,0.25); font-weight: 400; margin-left: auto; }
@@ -607,16 +609,17 @@ body::after {
 .memo-tree-items { list-style: none; padding: 0; margin: 0; }
 .memo-tree-item {
   display: flex; align-items: center; gap: 4px;
-  padding: 6px 10px 6px 0; border-radius: 6px;
+  padding: 7px 10px 7px 0; border-radius: 6px;
   cursor: pointer; transition: all .15s;
   margin-bottom: 1px; position: relative;
+  border-left: 2px solid transparent;
 }
-.memo-tree-item:hover { background: rgba(255,255,255,0.04); }
-.memo-tree-item.active { background: rgba(251,191,36,0.08); }
+.memo-tree-item:hover { background: rgba(255,255,255,0.06); }
+.memo-tree-item.active { background: rgba(251,191,36,0.12); border-left-color: #fbbf24; }
 .memo-tree-item .memo-tree-toggle {
   width: 18px; flex-shrink: 0;
   display: flex; align-items: center; justify-content: center;
-  color: rgba(255,255,255,0.2); font-size: 10px;
+  color: rgba(255,255,255,0.4); font-size: 10px;
   transition: transform .15s;
   visibility: hidden;
 }
@@ -625,21 +628,22 @@ body::after {
 .memo-tree-item .memo-tree-icon { font-size: 14px; line-height: 1; margin-right: 2px; flex-shrink: 0; }
 .memo-tree-item .memo-tree-title {
   flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-  font-size: 12px; color: rgba(255,255,255,0.8);
+  font-size: 12px; color: rgba(255,255,255,0.85); font-weight: 500;
 }
+.memo-tree-item.active .memo-tree-title { color: #fbbf24; }
 .memo-tree-item .memo-tree-actions {
   display: none; gap: 1px; margin-left: auto; flex-shrink: 0;
 }
 .memo-tree-item:hover .memo-tree-actions { display: flex; }
-.memo-tree-action-btn { padding: 2px 4px; border-radius: 4px; color: rgba(255,255,255,0.25); font-size: 12px; line-height: 1; }
-.memo-tree-action-btn:hover { background: rgba(255,255,255,0.06); color: rgba(255,255,255,0.5); }
+.memo-tree-action-btn { padding: 2px 4px; border-radius: 4px; color: rgba(255,255,255,0.35); font-size: 12px; line-height: 1; }
+.memo-tree-action-btn:hover { background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.7); }
 .memo-tree-action-btn.danger:hover { color: #f87171; background: rgba(248,113,113,0.1); }
-.memo-tree-item .memo-tree-pin { font-size: 10px; color: #fbbf24; opacity: .6; }
+.memo-tree-item .memo-tree-pin { font-size: 10px; color: #fbbf24; opacity: .8; }
 
-.memo-tree-children { list-style: none; padding: 0; margin: 0; overflow: hidden; transition: max-height .2s ease; }
+.memo-tree-children { list-style: none; padding: 0; margin: 0; overflow: hidden; transition: max-height .2s ease; border-left: 1px solid rgba(255,255,255,0.06); margin-left: 16px; }
 .memo-tree-children.collapsed { max-height: 0; }
 
-.memo-empty-tree { padding: 24px 16px; text-align: center; color: rgba(255,255,255,0.2); font-size: 12px; }
+.memo-empty-tree { padding: 24px 16px; text-align: center; color: rgba(255,255,255,0.3); font-size: 12px; }
 
 /* --- Context Menu --- */
 .memo-context-menu {
@@ -699,21 +703,21 @@ body::after {
 .memo-breadcrumbs {
   display: flex; align-items: center; gap: 6px;
   padding: 8px 24px 0; font-size: 12px;
-  color: rgba(255,255,255,0.3); flex-wrap: wrap;
+  color: rgba(255,255,255,0.5); flex-wrap: wrap;
 }
-.memo-breadcrumbs .memo-bc-sep { color: rgba(255,255,255,0.15); font-size: 10px; }
-.memo-breadcrumbs .memo-bc-item { cursor: pointer; color: rgba(255,255,255,0.4); transition: color .15s; }
+.memo-breadcrumbs .memo-bc-sep { color: rgba(255,255,255,0.25); font-size: 10px; }
+.memo-breadcrumbs .memo-bc-item { cursor: pointer; color: rgba(255,255,255,0.55); transition: color .15s; }
 .memo-breadcrumbs .memo-bc-item:hover { color: #fbbf24; }
-.memo-breadcrumbs .memo-bc-item.current { color: rgba(255,255,255,0.7); cursor: default; }
-.memo-breadcrumbs .memo-bc-item.current:hover { color: rgba(255,255,255,0.7); }
+.memo-breadcrumbs .memo-bc-item.current { color: rgba(255,255,255,0.85); cursor: default; font-weight: 500; }
+.memo-breadcrumbs .memo-bc-item.current:hover { color: rgba(255,255,255,0.85); }
 
 /* Editor */
 .memo-editor-container { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
 .memo-editor-toolbar {
   display: flex; align-items: center; gap: 10px;
   padding: 10px 24px;
-  border-bottom: 1px solid rgba(255,255,255,0.06);
-  background: rgba(255,255,255,0.01);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.02);
   flex-wrap: wrap;
 }
 .memo-editor-title-row { display: flex; align-items: center; gap: 8px; flex: 1; min-width: 0; }
