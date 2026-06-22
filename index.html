@@ -829,8 +829,8 @@
   /* ===== QUICK LINKS ===== */
   .quicklinks-grid {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    gap: 12px;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 8px;
     position: relative;
     z-index: 1;
   }
@@ -839,9 +839,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 8px;
-    padding: 20px 10px;
-    border-radius: 16px;
+    gap: 6px;
+    padding: 14px 4px;
+    border-radius: 14px;
     background: rgba(255,255,255,0.03);
     border: 1px solid rgba(255,255,255,0.05);
     text-decoration: none;
@@ -859,11 +859,11 @@
     transform: scale(0.97);
   }
   .quicklink-icon {
-    font-size: 26px;
+    font-size: 22px;
     line-height: 1;
   }
   .quicklink-name {
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 500;
     color: rgba(255,255,255,0.45);
     transition: color 0.2s;
@@ -1016,12 +1016,15 @@
     <span class="brand-dot"></span>
     <span class="brand-text">DASHBOARD</span>
   </div>
-  <button class="refresh-btn" id="refreshBtn" onclick="refreshAll()">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/>
-    </svg>
-    Refresh
-  </button>
+  <div style="display:flex;gap:12px;align-items:center">
+    <a href="memo.html" style="display:flex;align-items:center;gap:6px;padding:8px 18px;border:1px solid rgba(251,191,36,0.3);border-radius:100px;background:rgba(251,191,36,0.08);color:#fbbf24;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:500;text-decoration:none;transition:all 0.3s">📝 메모장</a>
+    <button class="refresh-btn" id="refreshBtn" onclick="refreshAll()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/>
+      </svg>
+      Refresh
+    </button>
+  </div>
 </header>
 
 <!-- ===== DASHBOARD GRID ===== -->

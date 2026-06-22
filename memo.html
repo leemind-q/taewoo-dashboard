@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>메모 — 개인 메모 플랫폼</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;overflow:hidden}
+body{
+  font-family:'DM Sans',sans-serif;
+  background:#050507;
+  color:rgba(255,255,255,0.88);
+  -webkit-font-smoothing:antialiased;
+  position:relative;
+}
+body::before{
+  content:'';position:fixed;inset:0;
+  background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events:none;z-index:9999;
+}
+a{color:#fbbf24;text-decoration:none}
+a:hover{text-decoration:underline}
+button{cursor:pointer;font-family:inherit;border:none;outline:none;background:none;color:inherit}
+input,textarea{font-family:inherit;outline:none;border:none;background:none;color:inherit}
+::selection{background:rgba(251,191,36,0.3)}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,0.2)}
+.app{display:flex;height:100vh;position:relative}
+
+/* Sidebar */
+.sidebar{
+  width:280px;min-width:280px;
+  background:rgba(255,255,255,0.02);
+  border-right:1px solid rgba(255,255,255,0.06);
+  display:flex;flex-direction:column;
+  height:100vh;overflow:hidden;
+  transition:transform .3s ease;
+  z-index:100;
+}
+.sidebar-header{padding:20px 16px 12px;display:flex;flex-direction:column;gap:12px}
+.sidebar-title{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:18px;font-weight:600;
+  display:flex;align-items:center;gap:8px;color:#fff;
+}
+.sidebar-title .badge{
+  font-size:11px;font-weight:400;
+  padding:2px 8px;border-radius:6px;
+  background:rgba(255,255,255,0.08);
+  color:rgba(255,255,255,0.4);
+}
+.search-wrap{position:relative}
+.search-wrap svg{
+  position:absolute;left:12px;top:50%;
+  transform:translateY(-50%);
+  width:16px;height:16px;
+  color:rgba(255,255,255,0.3);
+  pointer-events:none;
+}
+.search-wrap input{
+  width:100%;padding:10px 12px 10px 36px;
+  background:rgba(255,255,255,0.04);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:10px;
+  font-size:13px;color:rgba(255,255,255,0.7);
+  transition:border-color .2s;
+}
+.search-wrap input:focus{border-color:rgba(251,191,36,0.4);color:#fff}
+.search-wrap input::placeholder{color:rgba(255,255,255,0.25)}
+.new-memo-btn{
+  display:flex;align-items:center;justify-content:center;gap:8px;
+  width:100%;padding:10px 16px;
+  background:linear-gradient(135deg,rgba(251,191,36,0.15),rgba(251,191,36,0.05));
+  border:1px solid rgba(251,191,36,0.2);
+  border-radius:10px;
+  color:#fbbf24;font-size:13px;font-weight:600;
+  transition:all .2s;
+}
+.new-memo-btn:hover{
+  background:linear-gradient(135deg,rgba(251,191,36,0.25),rgba(251,191,36,0.1));
+  border-color:rgba(251,191,36,0.4);
+  transform:translateY(-1px);
+}
+.new-memo-btn svg{width:16px;height:16px}
+.sidebar-stats{padding:0 16px 8px;font-size:12px;color:rgba(255,255,255,0.3)}
+.memo-list{flex:1;overflow-y:auto;padding:0 8px 16px}
+.memo-item{
+  display:flex;align-items:center;gap:8px;
+  padding:10px 12px;border-radius:8px;
+  cursor:pointer;transition:all .15s;
+  border-left:3px solid transparent;margin-bottom:2px;
+}
+.memo-item:hover{background:rgba(255,255,255,0.05)}
+.memo-item.active{background:rgba(255,255,255,0.06);border-left-color:#fbbf24}
+.memo-item-content{flex:1;min-width:0}
+.memo-item-title{
+  font-size:13px;font-weight:500;
+  color:rgba(255,255,255,0.85);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  margin-bottom:2px;
+}
+.memo-item-meta{font-size:11px;color:rgba(255,255,255,0.3);display:flex;align-items:center;gap:6px}
+.memo-item-pin{color:#fbbf24;font-size:12px;opacity:0.7}
+.memo-item-delete{
+  opacity:0;transition:opacity .15s;
+  color:rgba(255,255,255,0.25);padding:4px;border-radius:4px;flex-shrink:0;
+}
+.memo-item:hover .memo-item-delete{opacity:1}
+.memo-item-delete:hover{color:#f87171;background:rgba(248,113,113,0.1)}
+.memo-empty{text-align:center;padding:40px 20px;color:rgba(255,255,255,0.25);font-size:13px}
+
+/* Main */
+.main{flex:1;display:flex;flex-direction:column;height:100vh;overflow:hidden;position:relative}
+.empty-state{
+  flex:1;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  color:rgba(255,255,255,0.2);gap:12px;
+}
+.empty-state svg{width:48px;height:48px;opacity:0.3}
+.empty-state p{font-size:15px;font-weight:400}
+
+/* Loading */
+.loading-overlay{
+  position:fixed;inset:0;background:#050507;
+  display:flex;align-items:center;justify-content:center;
+  z-index:10000;transition:opacity .4s;
+}
+.loading-overlay.hidden{opacity:0;pointer-events:none}
+.loading-dots{display:flex;gap:8px}
+.loading-dots span{
+  width:10px;height:10px;border-radius:50%;background:#fbbf24;
+  animation:dotBounce 1.4s ease-in-out infinite both;
+}
+.loading-dots span:nth-child(1){animation-delay:-0.32s}
+.loading-dots span:nth-child(2){animation-delay:-0.16s}
+.loading-dots span:nth-child(3){animation-delay:0}
+@keyframes dotBounce{
+  0%,80%,100%{transform:scale(0);opacity:0.5}
+  40%{transform:scale(1);opacity:1}
+}
+
+/* Editor */
+.editor-container{flex:1;display:flex;flex-direction:column;overflow:hidden}
+.editor-toolbar{
+  display:flex;align-items:center;gap:12px;
+  padding:14px 24px;
+  border-bottom:1px solid rgba(255,255,255,0.06);
+  background:rgba(255,255,255,0.01);
+}
+.editor-title-input{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:22px;font-weight:600;
+  color:#fff;flex:1;background:transparent;border:none;min-width:0;
+}
+.editor-title-input::placeholder{color:rgba(255,255,255,0.15)}
+.editor-toolbar-right{
+  display:flex;align-items:center;gap:10px;flex-shrink:0;
+}
+.save-status{font-size:12px;padding:4px 10px;border-radius:6px;transition:all .3s}
+.save-status.saved{color:#34d399;background:rgba(52,211,153,0.1)}
+.save-status.saving{color:#fbbf24;background:rgba(251,191,36,0.1)}
+.save-status.error{color:#f87171;background:rgba(248,113,113,0.1)}
+.char-count{font-size:12px;color:rgba(255,255,255,0.25)}
+.view-toggle{display:flex;gap:2px;background:rgba(255,255,255,0.05);border-radius:8px;padding:2px}
+.view-toggle button{padding:5px 10px;font-size:11px;font-weight:500;border-radius:6px;color:rgba(255,255,255,0.4);transition:all .15s}
+.view-toggle button.active{background:rgba(251,191,36,0.15);color:#fbbf24}
+.view-toggle button:hover:not(.active){color:rgba(255,255,255,0.6)}
+.shortcut-hint{font-size:11px;color:rgba(255,255,255,0.2);display:flex;align-items:center;gap:4px}
+.shortcut-hint kbd{
+  font-family:'DM Sans',sans-serif;
+  padding:1px 5px;border-radius:4px;background:rgba(255,255,255,0.06);
+  font-size:10px;color:rgba(255,255,255,0.35);
+}
+.editor-body{flex:1;display:flex;overflow:hidden;position:relative}
+.editor-textarea{
+  flex:1;padding:24px;
+  font-size:15px;line-height:1.75;
+  color:rgba(255,255,255,0.88);
+  background:transparent;border:none;resize:none;
+  font-family:'DM Sans',sans-serif;tab-size:2;overflow-y:auto;
+}
+.editor-textarea::placeholder{color:rgba(255,255,255,0.12)}
+.editor-preview{flex:1;padding:24px;overflow-y:auto}
+.editor-preview.hidden,.editor-textarea.hidden{display:none}
+.editor-body.split .editor-textarea{border-right:1px solid rgba(255,255,255,0.06)}
+.editor-body.split .editor-preview{border-left:none}
+.editor-body.preview .editor-textarea{display:none}
+.editor-body.preview .editor-preview{display:block;border-left:none}
+.editor-body.edit .editor-textarea{display:block;border-right:none}
+.editor-body.edit .editor-preview{display:none}
+.last-edited{padding:8px 24px;font-size:11px;color:rgba(255,255,255,0.15);border-top:1px solid rgba(255,255,255,0.04);text-align:right}
+
+/* Markdown preview */
+.editor-preview{word-wrap:break-word}
+.editor-preview h1{
+  font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:28px;
+  color:#fff;margin:24px 0 12px;padding-bottom:8px;
+  border-bottom:1px solid rgba(255,255,255,0.08);
+}
+.editor-preview h2{font-family:'Space Grotesk',sans-serif;font-weight:500;font-size:22px;color:rgba(255,255,255,0.95);margin:20px 0 10px}
+.editor-preview h3{font-family:'Space Grotesk',sans-serif;font-weight:500;font-size:18px;color:rgba(255,255,255,0.9);margin:16px 0 8px}
+.editor-preview h4{font-size:16px;font-weight:500;margin:12px 0 6px}
+.editor-preview p{margin:0 0 12px;line-height:1.75}
+.editor-preview ul,.editor-preview ol{padding-left:24px;margin-bottom:12px}
+.editor-preview li{margin-bottom:4px;line-height:1.6}
+.editor-preview blockquote{
+  border-left:3px solid #fbbf24;padding:8px 16px;margin:12px 0;
+  background:rgba(251,191,36,0.05);border-radius:0 8px 8px 0;
+  color:rgba(255,255,255,0.7);
+}
+.editor-preview code{
+  background:rgba(0,0,0,0.3);padding:2px 6px;border-radius:4px;
+  font-size:13px;font-family:'DM Sans',monospace;color:#fbbf24;
+}
+.editor-preview pre{
+  background:rgba(0,0,0,0.3);padding:16px;border-radius:10px;
+  margin:12px 0;overflow-x:auto;
+  border:1px solid rgba(255,255,255,0.06);
+}
+.editor-preview pre code{background:none;padding:0;border-radius:0;color:rgba(255,255,255,0.85);font-size:13px;line-height:1.6}
+.editor-preview hr{border:none;border-top:1px solid rgba(255,255,255,0.08);margin:24px 0}
+.editor-preview table{width:100%;border-collapse:collapse;margin:12px 0}
+.editor-preview th,.editor-preview td{padding:8px 12px;border:1px solid rgba(255,255,255,0.1);text-align:left;font-size:14px}
+.editor-preview th{background:rgba(255,255,255,0.04);font-weight:600;color:rgba(255,255,255,0.8)}
+.editor-preview img{max-width:100%;border-radius:8px;margin:12px 0}
+.editor-preview a{color:#fbbf24}
+.editor-preview input[type="checkbox"]{
+  -webkit-appearance:none;appearance:none;
+  width:16px;height:16px;border:2px solid rgba(255,255,255,0.2);
+  border-radius:4px;cursor:pointer;vertical-align:middle;
+  margin-right:6px;position:relative;transition:all .15s;
+}
+.editor-preview input[type="checkbox"]:checked{background:#fbbf24;border-color:#fbbf24}
+.editor-preview input[type="checkbox"]:checked::after{
+  content:'✓';position:absolute;inset:0;
+  display:flex;align-items:center;justify-content:center;
+  color:#000;font-size:11px;font-weight:700;
+}
+.editor-preview input[type="checkbox"]:hover{border-color:#fbbf24}
+
+/* Modals */
+.modal-overlay{
+  position:fixed;inset:0;
+  background:rgba(0,0,0,0.7);
+  backdrop-filter:blur(8px);
+  display:flex;align-items:center;justify-content:center;
+  z-index:1000;opacity:0;pointer-events:none;
+  transition:opacity .25s;
+}
+.modal-overlay.open{opacity:1;pointer-events:all}
+.modal{
+  background:rgba(20,20,24,0.95);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:20px;padding:32px;
+  max-width:480px;width:90%;
+  box-shadow:0 24px 80px rgba(0,0,0,0.6);
+  backdrop-filter:blur(24px);
+  transform:translateY(20px);
+  transition:transform .3s;
+}
+.modal-overlay.open .modal{transform:translateY(0)}
+.modal h2{font-family:'Space Grotesk',sans-serif;font-size:22px;font-weight:600;color:#fff;margin-bottom:8px}
+.modal p{color:rgba(255,255,255,0.55);font-size:14px;line-height:1.6;margin-bottom:20px}
+.modal label{display:block;font-size:13px;font-weight:500;color:rgba(255,255,255,0.6);margin-bottom:6px}
+.modal input[type="text"],.modal input[type="password"],.modal select,.modal textarea{
+  width:100%;padding:10px 14px;
+  background:rgba(255,255,255,0.05);
+  border:1px solid rgba(255,255,255,0.1);
+  border-radius:10px;font-size:14px;color:#fff;
+  transition:border-color .2s;font-family:'DM Sans',sans-serif;
+}
+.modal input:focus,.modal select:focus,.modal textarea:focus{border-color:rgba(251,191,36,0.4)}
+.modal-btn{padding:10px 20px;border-radius:10px;font-size:14px;font-weight:600;transition:all .2s}
+.modal-btn.primary{background:linear-gradient(135deg,#fbbf24,#f59e0b);color:#000}
+.modal-btn.primary:hover{transform:translateY(-1px);box-shadow:0 4px 20px rgba(251,191,36,0.3)}
+.modal-btn.secondary{background:rgba(255,255,255,0.06);color:rgba(255,255,255,0.6)}
+.modal-btn.secondary:hover{background:rgba(255,255,255,0.1);color:#fff}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:20px}
+
+/* Template grid */
+.template-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
+.template-card{
+  padding:12px 14px;background:rgba(255,255,255,0.03);
+  border:1px solid rgba(255,255,255,0.06);border-radius:12px;
+  cursor:pointer;transition:all .15s;text-align:left;
+}
+.template-card:hover{background:rgba(251,191,36,0.08);border-color:rgba(251,191,36,0.2)}
+.template-card.active{background:rgba(251,191,36,0.12);border-color:#fbbf24}
+.template-card .tmpl-name{font-size:13px;font-weight:600;color:#fff;margin-bottom:2px}
+.template-card .tmpl-desc{font-size:11px;color:rgba(255,255,255,0.35)}
+
+/* Sidebar footer */
+.sidebar-footer{
+  border-top:1px solid rgba(255,255,255,0.06);
+  padding:12px 16px;display:flex;gap:8px;
+}
+.sidebar-footer button{
+  display:flex;align-items:center;gap:6px;
+  padding:8px 12px;border-radius:8px;
+  font-size:12px;color:rgba(255,255,255,0.4);
+  transition:all .15s;
+}
+.sidebar-footer button:hover{background:rgba(255,255,255,0.04);color:rgba(255,255,255,0.6)}
+.sidebar-footer button svg{width:14px;height:14px}
+
+/* Hamburger */
+.hamburger{
+  display:none;position:fixed;top:12px;left:12px;z-index:200;
+  background:rgba(255,255,255,0.05);backdrop-filter:blur(12px);
+  border:1px solid rgba(255,255,255,0.08);border-radius:10px;
+  padding:8px;color:rgba(255,255,255,0.5);
+}
+.hamburger:hover{color:#fff;background:rgba(255,255,255,0.08)}
+.hamburger svg{width:20px;height:20px;display:block}
+
+/* Toast */
+.toast{
+  position:fixed;bottom:24px;left:50%;
+  transform:translateX(-50%) translateY(80px);
+  padding:10px 20px;border-radius:10px;font-size:13px;
+  background:rgba(20,20,24,0.95);border:1px solid rgba(255,255,255,0.1);
+  backdrop-filter:blur(12px);color:rgba(255,255,255,0.8);
+  z-index:5000;opacity:0;transition:all .3s;pointer-events:none;
+}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.toast.success{border-color:rgba(52,211,153,0.3)}
+.toast.error{border-color:rgba(248,113,113,0.3);color:#f87171}
+
+/* Responsive */
+@media(max-width:768px){
+  .sidebar{
+    position:fixed;left:0;top:0;
+    transform:translateX(-100%);
+    box-shadow:4px 0 40px rgba(0,0,0,0.5);
+  }
+  .sidebar.open{transform:translateX(0)}
+  .hamburger{display:block}
+  .editor-toolbar{padding:12px 16px}
+  .editor-title-input{font-size:18px}
+  .editor-textarea,.editor-preview{padding:16px}
+  .modal{padding:24px;max-width:95%}
+  .template-grid{grid-template-columns:1fr}
+  .shortcut-hint{display:none}
+}
+</style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="loading-dots"><span></span><span></span><span></span></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<button class="hamburger" id="hamburgerBtn" aria-label="메뉴 열기">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+</button>
+
+<div class="app">
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-title">
+        📝 메모
+        <span class="badge" id="badge">로컬</span>
+      </div>
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="searchInput" placeholder="메모 검색..." autocomplete="off">
+      </div>
+      <button class="new-memo-btn" id="newMemoBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+        새 메모
+      </button>
+    </div>
+    <div class="sidebar-stats" id="memoStats">0개 메모</div>
+    <div class="memo-list" id="memoList">
+      <div class="memo-empty">메모가 없습니다. 새 메모를 만들어보세요.</div>
+    </div>
+    <div class="sidebar-footer">
+      <button id="settingsBtn" title="설정">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        설정
+      </button>
+      <button id="syncBtn" title="수동 동기화">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 2v6h-6M3 12a9 9 0 0 1 15.36-5.64L21 8M3 22v-6h6M21 12a9 9 0 0 1-15.36 5.64L3 16"/></svg>
+        동기화
+      </button>
+    </div>
+  </aside>
+
+  <main class="main" id="mainArea">
+    <div class="empty-state" id="emptyState">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M12 20h9M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+      <p>메모를 선택하거나 새 메모를 만드세요</p>
+    </div>
+
+    <div class="editor-container" id="editorContainer" style="display:none">
+      <div class="editor-toolbar">
+        <input type="text" class="editor-title-input" id="editorTitle" placeholder="제목 없음" autocomplete="off">
+        <div class="editor-toolbar-right">
+          <span class="char-count" id="charCount">0자</span>
+          <span class="save-status" id="saveStatus"></span>
+          <div class="view-toggle" id="viewToggle">
+            <button data-mode="edit">편집</button>
+            <button data-mode="split" class="active">분할</button>
+            <button data-mode="preview">미리보기</button>
+          </div>
+          <div class="shortcut-hint">
+            <kbd>Ctrl+N</kbd> 새 메모 <kbd>Ctrl+S</kbd> 저장
+          </div>
+        </div>
+      </div>
+      <div class="editor-body split" id="editorBody">
+        <textarea class="editor-textarea" id="editorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." spellcheck="false"></textarea>
+        <div class="editor-preview" id="editorPreview"></div>
+      </div>
+      <div class="last-edited" id="lastEdited"></div>
+    </div>
+  </main>
+</div>
+
+<!-- Settings Modal -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <h2>⚙️ 설정</h2>
+    <p>GitHub Personal Access Token이 필요합니다. gist 권한만 선택해서 발급하세요.</p>
+    <label for="patInput">GitHub Personal Access Token</label>
+    <input type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off">
+    <p style="font-size:12px;margin-top:8px;margin-bottom:0">
+      <a href="https://github.com/settings/tokens/new" target="_blank">🔑 토큰 발급하기 →</a>
+      <br><span style="color:rgba(255,255,255,0.3)">Gist 권한만 체크하세요.</span>
+    </p>
+    <div class="modal-actions">
+      <button class="modal-btn secondary" id="settingsCancel">취소</button>
+      <button class="modal-btn primary" id="settingsSave">저장</button>
+    </div>
+  </div>
+</div>
+
+<!-- Delete Modal -->
+<div class="modal-overlay" id="deleteModal">
+  <div class="modal" style="max-width:400px">
+    <h2>🗑️ 메모 삭제</h2>
+    <p id="deleteMsg">정말 이 메모를 삭제하시겠습니까?</p>
+    <div class="modal-actions">
+      <button class="modal-btn secondary" id="deleteCancel">취소</button>
+      <button class="modal-btn primary" id="deleteConfirm" style="background:linear-gradient(135deg,#f87171,#ef4444);color:#fff">삭제</button>
+    </div>
+  </div>
+</div>
+
+<!-- Template Modal -->
+<div class="modal-overlay" id="templateModal">
+  <div class="modal" style="max-width:420px">
+    <h2>📄 새 메모</h2>
+    <p>템플릿을 선택하세요.</p>
+    <div class="template-grid" id="templateGrid">
+      <div class="template-card active" data-template="blank">
+        <div class="tmpl-name">📄 빈 메모</div>
+        <div class="tmpl-desc">빈 페이지에서 시작</div>
+      </div>
+      <div class="template-card" data-template="daily">
+        <div class="tmpl-name">📅 일일로그</div>
+        <div class="tmpl-desc">오늘의 기록</div>
+      </div>
+      <div class="template-card" data-template="meeting">
+        <div class="tmpl-name">📋 회의록</div>
+        <div class="tmpl-desc">회의 내용 기록</div>
+      </div>
+      <div class="template-card" data-template="idea">
+        <div class="tmpl-name">💡 아이디어</div>
+        <div class="tmpl-desc">아이디어 정리</div>
+      </div>
+      <div class="template-card" data-template="todo">
+        <div class="tmpl-name">✅ 할 일</div>
+        <div class="tmpl-desc">체크리스트</div>
+      </div>
+    </div>
+    <div class="modal-actions">
+      <button class="modal-btn secondary" id="templateCancel">취소</button>
+      <button class="modal-btn primary" id="templateConfirm">만들기</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   메모 플랫폼 — Full Application
+   ============================================================ */
+
+// --- Helpers ---
+function escapeHtml(str){
+  const d=document.createElement('div');
+  d.appendChild(document.createTextNode(str));
+  return d.innerHTML;
+}
+
+function debounce(fn,ms){
+  let t;
+  const f=function(...a){clearTimeout(t);t=setTimeout(()=>fn.apply(this,a),ms)};
+  f.cancel=()=>{clearTimeout(t);t=null};
+  f.flush=()=>{if(t){clearTimeout(t);t=null;fn()}};
+  return f;
+}
+
+function slugify(text){
+  return text.toLowerCase()
+    .replace(/[^a-z0-9가-힣\s-]/g,'')
+    .replace(/\s+/g,'-').replace(/-+/g,'-')
+    .replace(/^-|-$/g,'')||'untitled';
+}
+
+function formatDate(iso){
+  if(!iso) return '';
+  const d=new Date(iso), n=new Date();
+  const diff=n-d;
+  if(diff<6e4) return '방금 전';
+  if(diff<36e5) return Math.floor(diff/6e4)+'분 전';
+  if(diff<864e5) return Math.floor(diff/36e5)+'시간 전';
+  const y=d.getFullYear(),mo=String(d.getMonth()+1).padStart(2,'0'),dd=String(d.getDate()).padStart(2,'0');
+  const h=String(d.getHours()).padStart(2,'0'),mi=String(d.getMinutes()).padStart(2,'0');
+  if(y===n.getFullYear()) return mo+'/'+dd+' '+h+':'+mi;
+  return y+'/'+mo+'/'+dd;
+}
+
+function todayStr(){
+  const d=new Date();
+  const wd=['일','월','화','수','목','금','토'][d.getDay()];
+  return `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${wd})`;
+}
+
+// --- Templates ---
+const TEMPLATES={
+  blank:'',
+  daily:`## ${todayStr()}\n\n### 한 일\n- \n\n### 배운 것\n- \n\n### 내일 할 일\n- `,
+  meeting:`## 회의 제목\n\n**날짜:** ${todayStr()}\n**참석자:** \n\n### 안건\n1. \n\n### 결정사항\n- \n\n### 액션 아이템\n- [ ] `,
+  idea:`## 아이디어 제목\n\n**배경:** \n\n**내용:** \n\n**다음 단계:**\n- [ ] `,
+  todo:'## 할 일\n\n- [ ] \n- [ ] \n- [ ] '
+};
+
+// --- Gist Config ---
+const GIST_ID='fb6f17419e927d07ca79a4c9be37a971';
+const GIST_API=`https://api.github.com/gists/${GIST_ID}`;
+
+// --- State ---
+const state={
+  memos:[],          // [{id,title,content,updatedAt,pinned,filename}]
+  currentId:null,
+  searchQuery:'',
+  viewMode:'split',
+  token:null,
+  saveStatus:'',
+  templateChoice:'blank'
+};
+
+// --- DOM ---
+const $=s=>document.querySelector(s);
+const $$=s=>document.querySelectorAll(s);
+
+const sidebar=$('#sidebar');
+const hamburger=$('#hamburgerBtn');
+const searchInput=$('#searchInput');
+const newMemoBtn=$('#newMemoBtn');
+const memoList=$('#memoList');
+const memoStats=$('#memoStats');
+const badge=$('#badge');
+const emptyState=$('#emptyState');
+const editorContainer=$('#editorContainer');
+const editorTitle=$('#editorTitle');
+const editorTextarea=$('#editorTextarea');
+const editorPreview=$('#editorPreview');
+const editorBody=$('#editorBody');
+const charCount=$('#charCount');
+const saveStatusEl=$('#saveStatus');
+const lastEdited=$('#lastEdited');
+const viewToggle=$('#viewToggle');
+const settingsBtn=$('#settingsBtn');
+const syncBtn=$('#syncBtn');
+const settingsModal=$('#settingsModal');
+const patInput=$('#patInput');
+const settingsSave=$('#settingsSave');
+const settingsCancel=$('#settingsCancel');
+const deleteModal=$('#deleteModal');
+const deleteMsg=$('#deleteMsg');
+const deleteConfirm=$('#deleteConfirm');
+const deleteCancel=$('#deleteCancel');
+const templateModal=$('#templateModal');
+const templateGrid=$('#templateGrid');
+const templateConfirm=$('#templateConfirm');
+const templateCancel=$('#templateCancel');
+const loadingOverlay=$('#loadingOverlay');
+const toast=$('#toast');
+
+// --- Toast ---
+let toastTimer;
+function showToast(msg,type='info'){
+  toast.textContent=msg;
+  toast.className='toast '+type;
+  clearTimeout(toastTimer);
+  void toast.offsetWidth;
+  toast.classList.add('show');
+  toastTimer=setTimeout(()=>toast.classList.remove('show'),3000);
+}
+
+// --- Gist API ---
+function gistHeaders(){
+  const t=state.token;
+  return t ? {'Content-Type':'application/json','Authorization':`token ${t}`}
+           : {'Content-Type':'application/json'};
+}
+
+async function gistFetch(){
+  if(!state.token) throw new Error('토큰이 없습니다');
+  const r=await fetch(GIST_API,{headers:gistHeaders()});
+  if(!r.ok) throw new Error(`Gist 오류 (${r.status})`);
+  return r.json();
+}
+
+async function gistUpdate(files){
+  if(!state.token) throw new Error('토큰이 없습니다');
+  const body={files:{}};
+  for(const [k,v] of Object.entries(files)){
+    body.files[k]=v===null ? null : {content:v};
+  }
+  const r=await fetch(GIST_API,{method:'PATCH',headers:gistHeaders(),body:JSON.stringify(body)});
+  if(!r.ok) throw new Error(`Gist 업데이트 오류 (${r.status})`);
+  return r.json();
+}
+
+async function loadMemosFromGist(){
+  try{
+    const data=await gistFetch();
+    const memos=[];
+    for(const [fn,file] of Object.entries(data.files||{})){
+      if(!file||file.truncated) continue;
+      const c=file.content||'';
+      const t=file.truncated?'':(c.match(/^#\s+(.+)/m)?.[1]||fn.replace(/\.md$/,'').replace(/-/g,' ').replace(/\b\w/g,l=>l.toUpperCase())||'제목 없음');
+      memos.push({id:fn,title:t,content:c,updatedAt:file.updated_at||new Date().toISOString(),pinned:false,filename:fn});
+    }
+    return memos;
+  }catch(e){console.warn('Gist fetch failed:',e);return null}
+}
+
+function extractTitle(content,fn){
+  const m=content.match(/^#\s+(.+)/m);
+  if(m) return m[1].trim();
+  if(fn) return fn.replace(/\.md$/,'').replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+  return '제목 없음';
+}
+
+function makeFilename(title,existing){
+  let base=slugify(title)||'untitled';
+  let fn=base+'.md';
+  for(let i=2;existing.includes(fn);i++) fn=base+'('+i+').md';
+  return fn;
+}
+
+// --- Local Storage ---
+const LS_MEMOS='memo_app_data';
+const LS_TOKEN='memo_github_token';
+
+function localLoad(){try{const r=localStorage.getItem(LS_MEMOS);return r?JSON.parse(r):[]}catch{return[]}}
+function localSave(m){try{localStorage.setItem(LS_MEMOS,JSON.stringify(m))}catch(e){}}
+function tokenLoad(){const t=localStorage.getItem(LS_TOKEN);state.token=t||null;return state.token}
+function tokenSave(t){state.token=t;localStorage.setItem(LS_TOKEN,t)}
+
+// --- Memo Operations ---
+function genId(){return 'memo_'+Date.now()+'_'+Math.random().toString(36).slice(2,8)}
+
+function createMemo(templateKey){
+  const content=TEMPLATES[templateKey]||'';
+  const title=extractTitle(content,'');
+  const fns=state.memos.map(m=>m.filename);
+  const filename=makeFilename(title||'제목 없음',fns);
+  const memo={id:genId(),title:title||'제목 없음',content,updatedAt:new Date().toISOString(),pinned:false,filename};
+  state.memos.unshift(memo);
+  localSave(state.memos);
+  renderList();
+  selectMemo(memo.id);
+  gistSyncAll().catch(()=>{});
+  showToast('새 메모 생성됨','success');
+}
+
+function deleteMemo(id){
+  const idx=state.memos.findIndex(m=>m.id===id);
+  if(idx<0) return;
+  const memo=state.memos[idx];
+  state.memos.splice(idx,1);
+  localSave(state.memos);
+  if(state.currentId===id){state.currentId=null;showEditor(false)}
+  renderList();
+  if(state.token) gistUpdate({[memo.filename]:null}).catch(()=>{});
+  showToast('메모 삭제됨','info');
+}
+
+function selectMemo(id){
+  const memo=state.memos.find(m=>m.id===id);
+  if(!memo) return;
+  state.currentId=id;
+  showEditor(true);
+  editorTitle.value=escapeHtml(memo.title);
+  editorTextarea.value=memo.content;
+  updateCharCount();
+  updatePreview();
+  updateLastEdited(memo.updatedAt);
+  setSaveStatus('');
+  renderList();
+  // Close sidebar on mobile
+  if(window.innerWidth<=768) sidebar.classList.remove('open');
+}
+
+function showEditor(show){
+  emptyState.style.display=show?'none':'flex';
+  editorContainer.style.display=show?'flex':'none';
+}
+
+function updateCharCount(){
+  charCount.textContent=editorTextarea.value.length.toLocaleString()+'자';
+}
+
+function updatePreview(){
+  const raw=editorTextarea.value;
+  try{
+    editorPreview.innerHTML=raw
+      ? marked.parse(escapeHtml(raw),{breaks:true})
+      : '<p style="color:rgba(255,255,255,0.15)">내용을 입력하면 미리보기가 표시됩니다.</p>';
+    // Checkbox click handler
+    editorPreview.querySelectorAll('input[type="checkbox"]').forEach(cb=>{
+      cb.addEventListener('change',function(){
+        const li=this.closest('li');
+        if(!li) return;
+        const items=Array.from(li.parentElement.children);
+        const idx=items.indexOf(li);
+        const lines=editorTextarea.value.split('\n');
+        let found=-1;
+        for(let i=0;i<lines.length;i++){
+          if(/^\s*[-*+]\s+\[[\sx]\]/i.test(lines[i])){
+            found++;
+            if(found===idx){
+              lines[i]=lines[i].replace(/\[[\sx]\]/i,this.checked?'[x]':'[ ]');
+              editorTextarea.value=lines.join('\n');
+              updatePreview();
+              scheduleSave();
+              break;
+            }
+          }
+        }
+      });
+    });
+  }catch(e){editorPreview.innerHTML='<p style="color:#f87171">⚠️ 렌더링 오류</p>'}
+}
+
+function updateLastEdited(iso){
+  lastEdited.textContent=iso?'마지막 수정: '+formatDate(iso):'';
+}
+
+function setSaveStatus(s,msg){
+  state.saveStatus=s;
+  saveStatusEl.textContent=msg||'';
+  saveStatusEl.className='save-status'+(s?' '+s:'');
+}
+
+// --- Save ---
+async function performSave(){
+  if(!state.currentId) return;
+  const memo=state.memos.find(m=>m.id===state.currentId);
+  if(!memo) return;
+  const title=editorTitle.value.trim()||'제목 없음';
+  const content=editorTextarea.value;
+  const now=new Date().toISOString();
+
+  // Check filename change
+  const used=state.memos.filter(m=>m.id!==memo.id).map(m=>m.filename);
+  const newFn=makeFilename(title,used);
+  const oldFn=memo.filename;
+  if(newFn!==oldFn){
+    memo.filename=newFn;
+    if(state.token) gistUpdate({[oldFn]:null}).catch(()=>{});
+  }
+
+  memo.title=title;
+  memo.content=content;
+  memo.updatedAt=now;
+  localSave(state.memos);
+  renderList();
+  updateLastEdited(now);
+  setSaveStatus('saved','저장됨');
+
+  // Sync to gist
+  if(state.token){
+    try{
+      await gistUpdate({[memo.filename]:content});
+    }catch(e){
+      setSaveStatus('error','동기화 오류');
+      console.warn('Gist sync error:',e);
+    }
+  }
+}
+
+const scheduleSave=debounce(performSave,2000);
+
+// --- Render List ---
+function renderList(){
+  const q=state.searchQuery.toLowerCase().trim();
+  let items=q ? state.memos.filter(m=>m.title.toLowerCase().includes(q)||m.content.toLowerCase().includes(q))
+              : [...state.memos];
+  items.sort((a,b)=>{
+    if(a.pinned!==b.pinned) return a.pinned?-1:1;
+    return new Date(b.updatedAt)-new Date(a.updatedAt);
+  });
+  memoStats.textContent=state.memos.length+'개 메모'+(q&&items.length!==state.memos.length?` (검색 ${items.length}개)`:'');
+  badge.textContent=state.token?'Gist':'로컬';
+  badge.style.background=state.token?'rgba(59,130,246,0.15)':'rgba(255,255,255,0.08)';
+  badge.style.color=state.token?'#3b82f6':'rgba(255,255,255,0.4)';
+
+  if(!items.length){
+    memoList.innerHTML='<div class="memo-empty">'+(q?'검색 결과가 없습니다.':'메모가 없습니다. 새 메모를 만들어보세요.')+'</div>';
+    return;
+  }
+  memoList.innerHTML=items.map(m=>`<div class="memo-item${m.id===state.currentId?' active':''}" data-id="${escapeHtml(m.id)}">
+    <div class="memo-item-content">
+      <div class="memo-item-title">${escapeHtml(m.title)}</div>
+      <div class="memo-item-meta">${m.pinned?'<span class="memo-item-pin">📌</span>':''}${formatDate(m.updatedAt)}</div>
+    </div>
+    <button class="memo-item-delete" data-id="${escapeHtml(m.id)}" title="삭제">✕</button>
+  </div>`).join('');
+
+  memoList.querySelectorAll('.memo-item').forEach(el=>{
+    el.addEventListener('click',function(e){
+      if(e.target.closest('.memo-item-delete')) return;
+      selectMemo(this.dataset.id);
+    });
+  });
+  memoList.querySelectorAll('.memo-item-delete').forEach(btn=>{
+    btn.addEventListener('click',function(e){
+      e.stopPropagation();
+      const id=this.dataset.id;
+      const m=state.memos.find(x=>x.id===id);
+      deleteMsg.textContent=m?`"${escapeHtml(m.title)}" 메모를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.`:'정말 삭제하시겠습니까?';
+      deleteModal.dataset.targetId=id;
+      deleteModal.classList.add('open');
+    });
+  });
+}
+
+// --- Gist Sync (full) ---
+async function gistSyncAll(){
+  if(!state.token) return;
+  const files={};
+  for(const m of state.memos) files[m.filename]=m.content;
+  // Mark files to delete
+  try{
+    const g=await gistFetch();
+    if(g&&g.files){
+      for(const fn of Object.keys(g.files)){
+        if(!state.memos.find(m=>m.filename===fn)) files[fn]=null;
+      }
+    }
+  }catch(e){}
+  await gistUpdate(files);
+}
+
+async function syncFromGist(){
+  if(!state.token){showToast('토큰이 필요합니다. 설정에서 입력하세요.','error');return}
+  if(!navigator.onLine){showToast('오프라인 상태입니다.','error');return}
+  try{
+    const gm=await loadMemosFromGist();
+    if(!gm) return;
+    const map={};
+    state.memos.forEach(m=>{map[m.filename]=m});
+    let changed=false;
+    for(const g of gm){
+      const local=map[g.filename];
+      if(!local){state.memos.push(g);changed=true}
+      else if(new Date(g.updatedAt)>new Date(local.updatedAt)){
+        Object.assign(local,{title:g.title,content:g.content,updatedAt:g.updatedAt});
+        changed=true;
+      }
+    }
+    if(changed){
+      localSave(state.memos);
+      if(state.currentId){
+        const cur=state.memos.find(m=>m.id===state.currentId);
+        if(cur){
+          editorTitle.value=escapeHtml(cur.title);
+          editorTextarea.value=cur.content;
+          updatePreview();updateCharCount();updateLastEdited(cur.updatedAt);
+        }
+      }
+      renderList();
+      showToast('Gist에서 업데이트됨','success');
+    }else showToast('최신 상태입니다','info');
+  }catch(e){showToast('동기화 실패: '+e.message,'error')}
+}
+
+// --- Periodic sync ---
+let syncInterval;
+function startSyncTimer(){
+  clearInterval(syncInterval);
+  syncInterval=setInterval(()=>{
+    if(state.token&&navigator.onLine) syncFromGist().catch(()=>{});
+  },300000);
+}
+
+// --- Init ---
+async function init(){
+  loadingOverlay.classList.remove('hidden');
+  tokenLoad();
+  const local=localLoad();
+  if(local.length) state.memos=local;
+
+  if(state.token){
+    try{
+      const gm=await loadMemosFromGist();
+      if(gm&&gm.length){
+        const map={};state.memos.forEach(m=>{map[m.filename]=m});
+        for(const g of gm){
+          const l=map[g.filename];
+          if(!l) state.memos.push(g);
+          else if(new Date(g.updatedAt)>new Date(l.updatedAt)) Object.assign(l,{title:g.title,content:g.content,updatedAt:g.updatedAt});
+        }
+        localSave(state.memos);
+      }
+    }catch(e){console.warn('Init gist fetch failed:',e)}
+  }else{
+    setTimeout(()=>settingsModal.classList.add('open'),500);
+  }
+
+  renderList();
+  if(state.memos.length) selectMemo(state.memos[0].id);
+  else showEditor(false);
+  startSyncTimer();
+  loadingOverlay.classList.add('hidden');
+}
+
+// --- Event Listeners ---
+
+// Search
+searchInput.addEventListener('input',function(){state.searchQuery=this.value;renderList()});
+
+// New memo
+newMemoBtn.addEventListener('click',()=>templateModal.classList.add('open'));
+
+// Template picker
+templateGrid.addEventListener('click',function(e){
+  const c=e.target.closest('.template-card');
+  if(!c) return;
+  this.querySelectorAll('.template-card').forEach(x=>x.classList.remove('active'));
+  c.classList.add('active');
+  state.templateChoice=c.dataset.template;
+});
+templateConfirm.addEventListener('click',()=>{templateModal.classList.remove('open');createMemo(state.templateChoice)});
+templateCancel.addEventListener('click',()=>templateModal.classList.remove('open'));
+
+// Editor title
+editorTitle.addEventListener('input',()=>{scheduleSave()});
+// Editor textarea
+editorTextarea.addEventListener('input',()=>{updateCharCount();updatePreview();scheduleSave()});
+
+// View toggle
+viewToggle.addEventListener('click',function(e){
+  const b=e.target.closest('button');
+  if(!b||!b.dataset.mode) return;
+  const mode=b.dataset.mode;
+  state.viewMode=mode;
+  this.querySelectorAll('button').forEach(x=>x.classList.toggle('active',x.dataset.mode===mode));
+  editorBody.className='editor-body '+mode;
+});
+
+// Settings
+settingsBtn.addEventListener('click',()=>{patInput.value=state.token||'';settingsModal.classList.add('open')});
+settingsSave.addEventListener('click',()=>{
+  const t=patInput.value.trim();
+  if(!t){showToast('토큰을 입력하세요.','error');return}
+  tokenSave(t);
+  settingsModal.classList.remove('open');
+  showToast('토큰 저장됨','success');
+  renderList();
+  syncFromGist().catch(()=>{});
+});
+settingsCancel.addEventListener('click',()=>settingsModal.classList.remove('open'));
+
+// Sync
+syncBtn.addEventListener('click',syncFromGist);
+
+// Delete
+deleteConfirm.addEventListener('click',()=>{
+  const id=deleteModal.dataset.targetId;
+  if(id) deleteMemo(id);
+  deleteModal.classList.remove('open');
+});
+deleteCancel.addEventListener('click',()=>deleteModal.classList.remove('open'));
+
+// Hamburger
+hamburger.addEventListener('click',()=>sidebar.classList.toggle('open'));
+document.addEventListener('click',function(e){
+  if(window.innerWidth<=768&&sidebar.classList.contains('open')&&!sidebar.contains(e.target)&&!hamburger.contains(e.target))
+    sidebar.classList.remove('open');
+});
+
+// Close modals on overlay click
+document.querySelectorAll('.modal-overlay').forEach(o=>{
+  o.addEventListener('click',function(e){if(e.target===this)this.classList.remove('open')});
+});
+
+// Keyboard shortcuts
+document.addEventListener('keydown',function(e){
+  const c=e.ctrlKey||e.metaKey;
+  if(c&&e.key==='n'){e.preventDefault();templateModal.classList.add('open')}
+  else if(c&&e.key==='s'){
+    e.preventDefault();
+    if(state.currentId){
+      setSaveStatus('saving','저장 중...');
+      scheduleSave.cancel();
+      performSave();
+    }
+  }
+  else if(c&&e.key==='f'){e.preventDefault();searchInput.focus();searchInput.select()}
+  else if(e.key==='Escape'){
+    const om=document.querySelector('.modal-overlay.open');
+    if(om){om.classList.remove('open');return}
+    const modes=['edit','split','preview'];
+    const idx=modes.indexOf(state.viewMode);
+    const next=modes[(idx+1)%modes.length];
+    state.viewMode=next;
+    viewToggle.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.mode===next));
+    editorBody.className='editor-body '+next;
+  }
+  else if(c&&e.key==='Delete'){
+    e.preventDefault();
+    if(state.currentId){
+      const m=state.memos.find(x=>x.id===state.currentId);
+      deleteMsg.textContent=m?`"${escapeHtml(m.title)}" 메모를 삭제하시겠습니까?`:'정말 삭제하시겠습니까?';
+      deleteModal.dataset.targetId=state.currentId;
+      deleteModal.classList.add('open');
+    }
+  }
+});
+
+// Online/offline
+window.addEventListener('offline',()=>showToast('오프라인 — 로컬 저장','info'));
+window.addEventListener('online',()=>{
+  showToast('온라인 복귀 — 동기화','info');
+  if(state.token){syncFromGist().then(()=>gistSyncAll()).catch(()=>{})}
+});
+
+// --- Start ---
+init();
+</script>
+</body>
+</html>
