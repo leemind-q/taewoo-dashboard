@@ -138,6 +138,20 @@ def main():
         except:
             categories['AI'] = []
 
+    # 4. 사회 (네이버 섹션 102 = 사회)
+    try:
+        articles = scrape_section(102)
+        if not articles:
+            articles = scrape_google_news('사회')
+        categories['사회'] = articles
+        print(f'사회: {len(articles)}개')
+    except Exception as e:
+        print(f'사회 스크래핑 실패: {e}', file=sys.stderr)
+        try:
+            categories['사회'] = scrape_google_news('사회 뉴스')
+        except:
+            categories['사회'] = []
+
     output = {
         'categories': categories,
         'updated': datetime.now().strftime('%Y-%m-%d %H:%M')

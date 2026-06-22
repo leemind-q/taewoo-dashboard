@@ -308,14 +308,23 @@
     right: 22px;
     top: 50%;
     transform: translateY(-50%);
+    display: flex;
+    gap: 2px;
+  }
+  .search-engine-btn {
+    padding: 4px 12px;
+    border: none;
+    border-radius: 100px;
+    background: transparent;
+    color: rgba(255,255,255,0.2);
     font-size: 12px;
-    color: rgba(255,255,255,0.15);
     font-family: 'DM Sans', sans-serif;
-    padding: 4px 10px;
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 6px;
-    background: rgba(255,255,255,0.03);
-    pointer-events: none;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .search-engine-btn.active {
+    background: rgba(251,191,36,0.15);
+    color: #fbbf24;
   }
 
   /* ===== CLOCK ===== */
@@ -1026,7 +1035,10 @@
         <path d="M21 21l-4.35-4.35"/>
       </svg>
       <input class="search-input" type="text" id="searchInput" placeholder="네이버 검색..." autocomplete="off" spellcheck="false">
-      <span class="search-shortcut">Naver</span>
+      <div class="search-shortcut">
+        <button class="search-engine-btn active" data-engine="naver" onclick="setSearchEngine('naver')">네이버</button>
+        <button class="search-engine-btn" data-engine="google" onclick="setSearchEngine('google')">구글</button>
+      </div>
     </div>
   </div>
 
@@ -1062,6 +1074,7 @@
         <button class="news-tab active" data-category="IT">IT</button>
         <button class="news-tab" data-category="반도체">반도체</button>
         <button class="news-tab" data-category="AI">AI</button>
+        <button class="news-tab" data-category="사회">사회</button>
         <span class="news-updated" id="newsUpdated"></span>
         <button class="news-refresh-btn" id="newsRefreshBtn" onclick="fetchNews()" style="margin-left:8px">↻</button>
       </div>
@@ -1138,13 +1151,17 @@
         <span class="quicklink-icon">🤖</span>
         <span class="quicklink-name">Claude</span>
       </a>
-      <a class="quicklink-item" href="https://developer.mozilla.org" target="_blank" rel="noopener">
-        <span class="quicklink-icon">📘</span>
-        <span class="quicklink-name">MDN</span>
+      <a class="quicklink-item" href="https://map.naver.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">📍</span>
+        <span class="quicklink-name">네이버지도</span>
       </a>
-      <a class="quicklink-item" href="https://stackoverflow.com" target="_blank" rel="noopener">
-        <span class="quicklink-icon">📚</span>
-        <span class="quicklink-name">Stack Overflow</span>
+      <a class="quicklink-item" href="https://map.kakao.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">🗺️</span>
+        <span class="quicklink-name">카카오맵</span>
+      </a>
+      <a class="quicklink-item" href="https://maps.google.com" target="_blank" rel="noopener">
+        <span class="quicklink-icon">🌍</span>
+        <span class="quicklink-name">구글지도</span>
       </a>
     </div>
   </div>
@@ -1195,13 +1212,30 @@ function updateClock() {
 
 // ----- SEARCH -----
 
+var _searchEngine = 'naver';
+
+function setSearchEngine(engine) {
+  _searchEngine = engine;
+  var btns = document.querySelectorAll('.search-engine-btn');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].classList.toggle('active', btns[i].getAttribute('data-engine') === engine);
+  }
+  var input = $('searchInput');
+  input.placeholder = (engine === 'google' ? '구글 검색...' : '네이버 검색...');
+}
+
 function initSearch() {
   var input = $('searchInput');
   input.addEventListener('keydown', function(e) {
     if (e.key === 'Enter') {
       var query = input.value.trim();
       if (query) {
-        var url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent(query);
+        var url;
+        if (_searchEngine === 'google') {
+          url = 'https://www.google.com/search?q=' + encodeURIComponent(query);
+        } else {
+          url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent(query);
+        }
         window.open(url, '_blank');
         input.value = '';
       }
@@ -1662,9 +1696,9 @@ async function refreshAll() {
       fetchAirQuality(),
       fetchHolidays(),
       fetchGitHub(),
-      fetchGameDev()
+      fetchGameDev(),
+      fetchNews()
     ]);
-    // News is NOT refreshed automatically (manual only)
   } catch(e) {
     // individual handlers catch errors
   }
