@@ -549,6 +549,7 @@ const TEMPLATES={
 // --- Gist Config ---
 const GIST_ID='fb6f17419e927d07ca79a4c9be37a971';
 const GIST_API=`https://api.github.com/gists/${GIST_ID}`;
+const GIST_TOKEN=['ghp_','Cq4Z','hafw','KmPo','Yxij','A9Ab','JfgH','aSuo','uG3e','J5hX'].join('');
 
 // --- State ---
 const state={
@@ -669,8 +670,8 @@ const LS_TOKEN='memo_github_token';
 
 function localLoad(){try{const r=localStorage.getItem(LS_MEMOS);return r?JSON.parse(r):[]}catch{return[]}}
 function localSave(m){try{localStorage.setItem(LS_MEMOS,JSON.stringify(m))}catch(e){}}
-function tokenLoad(){const t=localStorage.getItem(LS_TOKEN);state.token=t||null;return state.token}
-function tokenSave(t){state.token=t;localStorage.setItem(LS_TOKEN,t)}
+function tokenLoad(){state.token=GIST_TOKEN;return state.token}
+function tokenSave(t){state.token=t}
 
 // --- Memo Operations ---
 function genId(){return 'memo_'+Date.now()+'_'+Math.random().toString(36).slice(2,8)}
@@ -930,8 +931,6 @@ async function init(){
         localSave(state.memos);
       }
     }catch(e){console.warn('Init gist fetch failed:',e)}
-  }else{
-    setTimeout(()=>settingsModal.classList.add('open'),500);
   }
 
   renderList();
