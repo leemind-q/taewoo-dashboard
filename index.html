@@ -744,10 +744,6 @@ body::after {
 .memo-save-status.saving { color: #fbbf24; background: rgba(251,191,36,0.1); }
 .memo-save-status.error { color: #f87171; background: rgba(248,113,113,0.1); }
 .memo-char-count { font-size: 11px; color: rgba(255,255,255,0.25); white-space: nowrap; }
-.memo-view-toggle { display: flex; gap: 2px; background: rgba(255,255,255,0.05); border-radius: 6px; padding: 2px; }
-.memo-view-toggle button { padding: 4px 8px; font-size: 11px; font-weight: 500; border-radius: 5px; color: rgba(255,255,255,0.4); transition: all .15s; }
-.memo-view-toggle button.active { background: rgba(251,191,36,0.15); color: #fbbf24; }
-.memo-view-toggle button:hover:not(.active) { color: rgba(255,255,255,0.6); }
 .memo-shortcut-hint { font-size: 11px; color: rgba(255,255,255,0.2); display: flex; align-items: center; gap: 4px; }
 .memo-shortcut-hint kbd {
   font-family: 'DM Sans',sans-serif;
@@ -785,13 +781,7 @@ body::after {
 }
 .memo-editor-textarea::placeholder { color: rgba(255,255,255,0.12); }
 .memo-editor-preview { flex: 1; padding: 24px; overflow-y: auto; }
-.memo-editor-preview.hidden, .memo-editor-textarea.hidden { display: none; }
-.memo-editor-body.split .memo-editor-textarea { border-right: 1px solid rgba(255,255,255,0.06); }
-.memo-editor-body.split .memo-editor-preview { border-left: none; }
-.memo-editor-body.preview .memo-editor-textarea { display: none; }
-.memo-editor-body.preview .memo-editor-preview { display: block; border-left: none; }
-.memo-editor-body.edit .memo-editor-textarea { display: block; border-right: none; }
-.memo-editor-body.edit .memo-editor-preview { display: none; }
+.memo-editor-textarea { border-right: 1px solid rgba(255,255,255,0.06); }
 .memo-editor-footer {
   display: flex; align-items: center; justify-content: space-between;
   padding: 6px 24px; border-top: 1px solid rgba(255,255,255,0.04);
@@ -857,6 +847,46 @@ body::after {
   cursor: pointer; font-size: 18px; transition: background .1s;
 }
 .memo-emoji-grid span:hover { background: rgba(255,255,255,0.08); }
+
+/* --- Extended Emoji Picker --- */
+.memo-emoji-tabs { display: flex; gap: 4px; margin-bottom: 8px; flex-wrap: wrap; }
+.memo-emoji-tab { font-size: 11px; padding: 3px 8px; border-radius: 6px; background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.5); cursor: pointer; transition: all .15s; border: none; font-family: 'DM Sans',sans-serif; }
+.memo-emoji-tab:hover { background: rgba(255,255,255,0.08); color: #fff; }
+.memo-emoji-tab.active { background: rgba(251,191,36,0.15); color: #fbbf24; }
+.memo-emoji-search { width: 100%; padding: 6px 8px; border-radius: 6px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08); color: #fff; font-size: 12px; margin-bottom: 8px; font-family: 'DM Sans',sans-serif; }
+.memo-emoji-search::placeholder { color: rgba(255,255,255,0.25); }
+.memo-emoji-picker { width: 280px; max-height: 320px; overflow-y: auto; }
+
+/* --- Mobile Preview Toggle --- */
+.memo-mobile-preview-btn {
+  display: none; position: fixed; bottom: 16px; right: 16px; z-index: 150;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  color: #000; border: none; cursor: pointer; font-size: 20px;
+  box-shadow: 0 4px 20px rgba(251,191,36,0.3); align-items: center; justify-content: center;
+  transition: transform .2s;
+}
+.memo-mobile-preview-btn:active { transform: scale(0.9); }
+
+/* --- Search Highlight --- */
+.memo-search-highlight { background: rgba(251,191,36,0.3); border-radius: 2px; padding: 0 2px; }
+.memo-search-highlight-current { background: #fbbf24; color: #000; border-radius: 2px; padding: 0 2px; }
+
+/* --- Drag & Drop --- */
+.memo-tree-item.dragging { opacity: 0.4; }
+.memo-tree-item.drag-over { border-left: 3px solid #fbbf24; background: rgba(251,191,36,0.08); }
+.memo-tree-category.drag-over-cat { background: rgba(251,191,36,0.08); border: 1px dashed #fbbf24; border-radius: 8px; }
+.memo-tree-item[draggable="true"] { cursor: grab; }
+.memo-tree-item[draggable="true"]:active { cursor: grabbing; }
+
+/* --- Word/Char Count --- */
+.memo-word-count { font-size: 11px; color: rgba(255,255,255,0.2); white-space: nowrap; margin-left: 8px; }
+
+/* --- Sort Controls --- */
+.memo-sort-controls { display: flex; align-items: center; gap: 4px; padding: 6px 12px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.memo-sort-btn { font-size: 10px; padding: 2px 6px; border-radius: 4px; color: rgba(255,255,255,0.35); cursor: pointer; transition: all .15s; background: transparent; border: none; font-family: 'DM Sans',sans-serif; }
+.memo-sort-btn:hover { color: rgba(255,255,255,0.6); background: rgba(255,255,255,0.04); }
+.memo-sort-btn.active { color: #fbbf24; background: rgba(251,191,36,0.12); }
 
 /* Memo Modals */
 .memo-modal-overlay {
@@ -1007,6 +1037,9 @@ body::after {
   .memo-editor-toolbar { padding: 8px 12px 8px 52px; flex-wrap: wrap; gap: 6px; }
   .memo-editor-title-input { font-size: 17px; }
   .memo-editor-textarea, .memo-editor-preview { padding: 16px; width: 100%; }
+  .memo-mobile-preview-btn { display: flex; }
+  .memo-editor-body.mobile-preview .memo-editor-textarea { display: none; }
+  .memo-editor-body.mobile-preview .memo-editor-preview { display: block; }
   .memo-breadcrumbs { padding: 6px 12px 6px 52px; font-size: 11px; }
   .memo-modal { padding: 24px; max-width: 95%; }
   .memo-template-grid { grid-template-columns: 1fr; }
@@ -1250,6 +1283,11 @@ body::after {
           </button>
         </div>
         <div class="memo-sidebar-content" id="memoSidebarContent">
+          <div class="memo-sort-controls" id="memoSortControls">
+            <button class="memo-sort-btn active" data-sort="updated" title="최근 수정순">🕐 수정</button>
+            <button class="memo-sort-btn" data-sort="created" title="생성순">📅 생성</button>
+            <button class="memo-sort-btn" data-sort="title" title="이름순">🔤 이름</button>
+          </div>
           <div class="memo-empty-tree" id="memoEmptyTree">메모가 없습니다.</div>
           <div class="memo-tree" id="memoTree"></div>
         </div>
@@ -1292,14 +1330,10 @@ body::after {
             </div>
             <div class="memo-editor-toolbar-right">
               <span class="memo-char-count" id="memoCharCount">0자</span>
+              <span class="memo-word-count" id="memoWordCount"></span>
               <span class="memo-save-status" id="memoSaveStatus"></span>
-              <div class="memo-view-toggle" id="memoViewToggle">
-                <button data-mode="edit">편집</button>
-                <button data-mode="split" class="active">분할</button>
-                <button data-mode="preview">미리보기</button>
-              </div>
               <div class="memo-shortcut-hint">
-                <kbd>Ctrl+N</kbd> <kbd>Ctrl+S</kbd>
+                <kbd>Ctrl+N</kbd> <kbd>Ctrl+S</kbd> <kbd>Ctrl+B</kbd> <kbd>Ctrl+I</kbd>
               </div>
               <div class="memo-export-wrap">
                 <button class="memo-export-btn" id="memoExportMdBtn" title="Markdown 내보내기">📄</button>
@@ -1314,10 +1348,13 @@ body::after {
           </div>
 
           <!-- Editor body -->
-          <div class="memo-editor-body split" id="memoEditorBody">
+          <div class="memo-editor-body" id="memoEditorBody">
             <textarea class="memo-editor-textarea" id="memoEditorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." spellcheck="false"></textarea>
             <div class="memo-editor-preview" id="memoEditorPreview"></div>
           </div>
+
+          <!-- Mobile preview toggle -->
+          <button class="memo-mobile-preview-btn" id="memoMobilePreviewBtn" title="미리보기">👁️</button>
 
           <!-- Footer -->
           <div class="memo-editor-footer">
@@ -1333,6 +1370,15 @@ body::after {
 
     <!-- Emoji Picker -->
     <div class="memo-emoji-picker" id="memoEmojiPicker">
+      <div class="memo-emoji-tabs" id="memoEmojiTabs">
+        <button class="memo-emoji-tab active" data-category="recent">🕐</button>
+        <button class="memo-emoji-tab" data-category="people">😀</button>
+        <button class="memo-emoji-tab" data-category="nature">🌿</button>
+        <button class="memo-emoji-tab" data-category="objects">📦</button>
+        <button class="memo-emoji-tab" data-category="places">🌍</button>
+        <button class="memo-emoji-tab" data-category="symbols">💎</button>
+      </div>
+      <input type="text" class="memo-emoji-search" id="memoEmojiSearch" placeholder="이모지 검색...">
       <div class="memo-emoji-grid" id="memoEmojiGrid"></div>
     </div>
 
@@ -1934,7 +1980,8 @@ var memoState = {
   saveStatus: '',
   templateChoice: 'blank',
   expandedParents: {},     // { parentId: true } for collapsed state
-  editingCategoryId: null  // for category modal
+  editingCategoryId: null,  // for category modal
+  sortMode: 'updated'       // 'updated', 'created', 'title'
 };
 
 // --- Emojis for picker ---
@@ -1963,9 +2010,9 @@ function memoInitDom() {
   memoEl.editorPreview = id('memoEditorPreview');
   memoEl.editorBody = id('memoEditorBody');
   memoEl.charCount = id('memoCharCount');
+  memoEl.wordCount = id('memoWordCount');
   memoEl.saveStatus = id('memoSaveStatus');
   memoEl.lastEdited = id('memoLastEdited');
-  memoEl.viewToggle = id('memoViewToggle');
   memoEl.tagsRow = id('memoTagsRow');
   memoEl.tagsContainer = id('memoTagsContainer');
   memoEl.tagsInput = id('memoTagsInput');
@@ -1996,10 +2043,14 @@ function memoInitDom() {
   memoEl.categoryCancel = id('memoCategoryCancel');
   memoEl.emojiPicker = id('memoEmojiPicker');
   memoEl.emojiGrid = id('memoEmojiGrid');
+  memoEl.emojiTabs = id('memoEmojiTabs');
+  memoEl.emojiSearch = id('memoEmojiSearch');
   memoEl.contextMenu = id('memoContextMenu');
   memoEl.loadingOverlay = id('memoLoadingOverlay');
   memoEl.toast = id('memoToast');
   memoEl.backdrop = id('memoSidebarBackdrop');
+  memoEl.mobilePreviewBtn = id('memoMobilePreviewBtn');
+  memoEl.sortControls = id('memoSortControls');
 }
 
 // --- Helpers ---
@@ -2195,11 +2246,18 @@ function memoGetNote(id) {
 }
 
 function memoGetChildren(parentId) {
-  return memoState.data.notes.filter(function(n) { return n.parentId === parentId; }).sort(function(a,b) { return a.order - b.order; });
+  return memoState.data.notes.filter(function(n) { return n.parentId === parentId; }).sort(function(a,b) { return memoSortNotes(a, b); });
 }
 
 function memoGetCategoryNotes(catId) {
-  return memoState.data.notes.filter(function(n) { return n.categoryId === catId && !n.parentId; }).sort(function(a,b) { return (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || a.order - b.order; });
+  return memoState.data.notes.filter(function(n) { return n.categoryId === catId && !n.parentId; }).sort(function(a,b) { return (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || memoSortNotes(a, b); });
+}
+
+function memoSortNotes(a, b) {
+  var mode = memoState.sortMode || 'updated';
+  if (mode === 'title') return (a.title || '').localeCompare(b.title || '');
+  if (mode === 'created') return (a.createdAt || '') < (b.createdAt || '') ? 1 : -1;
+  return (a.updatedAt || '') < (b.updatedAt || '') ? 1 : -1;
 }
 
 function memoGetDescendantCount(noteId) {
@@ -2351,7 +2409,7 @@ function memoRenderTree() {
   var hasNotes = false;
   var treeHtml = '';
   data.categories.sort(function(a,b) { return (a.order || 0) - (b.order || 0); }).forEach(function(cat) {
-    var catNotes = data.notes.filter(function(n) { return n.categoryId === cat.id && !n.parentId; }).sort(function(a,b) { return (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || (a.order || 0) - (b.order || 0); });
+    var catNotes = memoGetCategoryNotes(cat.id);
     if (q && filteredNoteIds) catNotes = catNotes.filter(function(n) { return filteredNoteIds[n.id]; });
     if (q && !catNotes.length) return;
     var total = memoGetCategoryNoteCount(cat.id);
@@ -2385,7 +2443,7 @@ function memoRenderTree() {
 }
 
 function memoRenderTreeItemRecursive(html, note, depth, q, filteredNoteIds) {
-  var children = memoGetChildren(note.id).sort(function(a,b) { return (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) || (a.order || 0) - (b.order || 0); });
+  var children = memoGetChildren(note.id);
   if (q && filteredNoteIds) children = children.filter(function(c) { return filteredNoteIds[c.id]; });
   var hasChildren = children.length > 0;
   var isExpanded = memoState.expandedParents[note.id] !== false; // default expanded
@@ -2393,7 +2451,7 @@ function memoRenderTreeItemRecursive(html, note, depth, q, filteredNoteIds) {
   var indent = depth * 16;
   var icon = note.icon || '📝';
 
-  html += '<li class="memo-tree-item' + (isActive ? ' active' : '') + '" data-id="' + note.id + '" style="padding-left:' + (10 + indent) + 'px">';
+  html += '<li class="memo-tree-item' + (isActive ? ' active' : '') + '" data-id="' + note.id + '" draggable="true" style="padding-left:' + (10 + indent) + 'px">';
   html += '<span class="memo-tree-toggle' + (hasChildren ? ' has-children' : '') + (isExpanded ? ' expanded' : '') + '" data-id="' + note.id + '">▶</span>';
   if (note.pinned) html += '<span class="memo-tree-pin">📌</span>';
   html += '<span class="memo-tree-icon">' + icon + '</span>';
@@ -2508,6 +2566,7 @@ function memoShowContextMenu(x, y, noteId) {
     });
   }
   items.push({ icon: '📌', label: note.pinned ? '고정 해제' : '고정', action: function() { note.pinned = !note.pinned; memoLocalSave(memoState.data); memoRenderTree(); memoPersistToGist().catch(function(){}); memoCloseContextMenu(); } });
+  items.push({ icon: '📋', label: '복제', action: function() { memoDuplicateNote(noteId); memoCloseContextMenu(); } });
   items.push({ icon: '🗑️', label: '삭제', action: function() { memoCloseContextMenu(); var childCount = memoGetDescendantCount(noteId); var msg = note ? '"' + escapeHtml(note.title) + '"' : '이 메모'; if (childCount > 0) msg += ' (하위 ' + childCount + '개 포함)'; msg += '를 삭제하시겠습니까?'; memoEl.deleteMsg.textContent = msg; memoEl.deleteModal.dataset.targetId = noteId; memoEl.deleteModal.classList.add('open'); }, danger: true });
   var html = items.map(function(item) {
     return '<div class="memo-context-item' + (item.danger ? ' danger' : '') + '"><span class="ctx-icon">' + item.icon + '</span>' + escapeHtml(item.label) + '</div>';
@@ -2576,36 +2635,76 @@ function memoExportAll() {
 // --- Editor ---
 function memoUpdateCharCount() {
   memoEl.charCount.textContent = memoEl.editorTextarea.value.length.toLocaleString() + '자';
+  var text = memoEl.editorTextarea.value.trim();
+  var words = text ? text.split(/\s+/).length : 0;
+  memoEl.wordCount.textContent = words.toLocaleString() + '단어';
 }
 function memoUpdatePreview() {
   var raw = memoEl.editorTextarea.value;
+  var searchQ = (memoState.searchQuery || '').toLowerCase().trim();
   try {
-    memoEl.editorPreview.innerHTML = raw
+    var html = raw
       ? marked.parse(escapeHtml(raw), {breaks: true})
       : '<p style="color:rgba(255,255,255,0.15)">내용을 입력하면 미리보기가 표시됩니다.</p>';
-    memoEl.editorPreview.querySelectorAll('input[type="checkbox"]').forEach(function(cb) {
-      cb.addEventListener('change', function() {
-        var li = this.closest('li');
-        if (!li) return;
-        var items = Array.from(li.parentElement.children);
-        var idx = items.indexOf(li);
-        var lines = memoEl.editorTextarea.value.split('\n');
-        var found = -1;
-        for (var i = 0; i < lines.length; i++) {
-          if (/^\s*[-*+]\s+\[[\sx]\]/i.test(lines[i])) {
-            found++;
-            if (found === idx) {
-              lines[i] = lines[i].replace(/\[[\sx]\]/i, this.checked ? '[x]' : '[ ]');
-              memoEl.editorTextarea.value = lines.join('\n');
-              memoUpdatePreview();
-              memoScheduleSave();
-              break;
+    // Search highlighting
+    if (searchQ && raw) {
+      var tempDiv = document.createElement('div');
+      tempDiv.innerHTML = html;
+      var walker = document.createTreeWalker(tempDiv, 4, null, false);
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      for (var i = 0; i < nodes.length; i++) {
+        var node = nodes[i];
+        if (node.nodeType === 3) {
+          var txt = node.textContent;
+          var lower = txt.toLowerCase();
+          var idx = lower.indexOf(searchQ);
+          if (idx >= 0) {
+            var span = document.createElement('span');
+            var prev = 0;
+            while (idx >= 0) {
+              if (idx > prev) span.appendChild(document.createTextNode(txt.substring(prev, idx)));
+              var mark = document.createElement('mark');
+              mark.className = 'memo-search-highlight';
+              mark.textContent = txt.substring(idx, idx + searchQ.length);
+              span.appendChild(mark);
+              prev = idx + searchQ.length;
+              idx = lower.indexOf(searchQ, prev);
             }
+            if (prev < txt.length) span.appendChild(document.createTextNode(txt.substring(prev)));
+            node.parentNode.replaceChild(span, node);
           }
         }
-      });
-    });
+      }
+      html = tempDiv.innerHTML;
+    }
+    memoEl.editorPreview.innerHTML = html;
+    memoBindPreviewCheckboxes();
   } catch(e) { memoEl.editorPreview.innerHTML = '<p style="color:#f87171">⚠️ 렌더링 오류</p>'; }
+}
+function memoBindPreviewCheckboxes() {
+  memoEl.editorPreview.querySelectorAll('input[type="checkbox"]').forEach(function(cb) {
+    cb.addEventListener('change', function() {
+      var li = this.closest('li');
+      if (!li) return;
+      var items = Array.from(li.parentElement.children);
+      var idx = items.indexOf(li);
+      var lines = memoEl.editorTextarea.value.split('\n');
+      var found = -1;
+      for (var i = 0; i < lines.length; i++) {
+        if (/^\s*[-*+]\s+\[[\sx]\]/i.test(lines[i])) {
+          found++;
+          if (found === idx) {
+            lines[i] = lines[i].replace(/\[[\sx]\]/i, this.checked ? '[x]' : '[ ]');
+            memoEl.editorTextarea.value = lines.join('\n');
+            memoUpdatePreview();
+            memoScheduleSave();
+            break;
+          }
+        }
+      }
+    });
+  });
 }
 function memoUpdateLastEdited(iso) {
   memoEl.lastEdited.textContent = iso ? '마지막 수정: ' + memoFormatDate(iso) : '';
@@ -2614,6 +2713,345 @@ function memoSetSaveStatus(s, msg) {
   memoState.saveStatus = s;
   memoEl.saveStatus.textContent = msg || '';
   memoEl.saveStatus.className = 'memo-save-status' + (s ? ' ' + s : '');
+}
+
+// --- Sort ---
+function memoSetSortMode(mode) {
+  memoState.sortMode = mode;
+  memoEl.sortControls.querySelectorAll('.memo-sort-btn').forEach(function(b) {
+    b.classList.toggle('active', b.dataset.sort === mode);
+  });
+  memoRenderTree();
+}
+
+// --- Duplicate Note ---
+function memoDuplicateNote(id) {
+  var note = memoGetNote(id);
+  if (!note) return;
+  var newNote = JSON.parse(JSON.stringify(note));
+  newNote.id = memoGenId();
+  newNote.title = note.title + ' (복사)';
+  newNote.createdAt = new Date().toISOString();
+  newNote.updatedAt = new Date().toISOString();
+  newNote.order = memoState.data.notes.filter(function(n) { return n.categoryId === note.categoryId && n.parentId === note.parentId; }).length;
+  memoState.data.notes.push(newNote);
+  memoLocalSave(memoState.data);
+  memoRenderTree();
+  memoSelectNote(newNote.id);
+  memoPersistToGist().catch(function(){});
+  memoShowToast('메모 복제됨', 'success');
+}
+
+// --- Textarea Indentation ---
+function memoHandleTextareaKeydown(e) {
+  var ta = memoEl.editorTextarea;
+  var start = ta.selectionStart;
+  var end = ta.selectionEnd;
+  var val = ta.value;
+  var lines = val.split('\n');
+
+  // Tab / Shift+Tab
+  if (e.key === 'Tab') {
+    e.preventDefault();
+    if (start !== end) {
+      // Multi-line indent
+      var startLine = val.substring(0, start).split('\n').length - 1;
+      var endLine = val.substring(0, end).split('\n').length - 1;
+      var isShift = e.shiftKey;
+      for (var i = startLine; i <= endLine; i++) {
+        if (isShift) {
+          if (lines[i].startsWith('    ')) lines[i] = lines[i].substring(4);
+          else if (lines[i].startsWith('\t')) lines[i] = lines[i].substring(1);
+        } else {
+          lines[i] = '    ' + lines[i];
+        }
+      }
+      ta.value = lines.join('\n');
+      // Adjust selection
+      var newStart = start + (isShift ? -4 : 4);
+      var newEnd = end + (isShift ? -4 * (endLine - startLine + 1) : 4 * (endLine - startLine + 1));
+      ta.selectionStart = Math.max(0, newStart);
+      ta.selectionEnd = Math.max(0, newEnd);
+    } else {
+      if (e.shiftKey) {
+        // Unindent current line
+        if (lines[startLine].startsWith('    ')) lines[startLine] = lines[startLine].substring(4);
+        else if (lines[startLine].startsWith('\t')) lines[startLine] = lines[startLine].substring(1);
+        ta.value = lines.join('\n');
+        ta.selectionStart = ta.selectionEnd = Math.max(0, start - 4);
+      } else {
+        // Insert 4 spaces
+        ta.value = val.substring(0, start) + '    ' + val.substring(end);
+        ta.selectionStart = ta.selectionEnd = start + 4;
+      }
+    }
+    memoUpdateCharCount();
+    memoUpdatePreview();
+    memoScheduleSave();
+    return;
+  }
+
+  // Enter key - auto list continuation
+  if (e.key === 'Enter' && !e.shiftKey) {
+    var cursorLine = val.substring(0, start).split('\n').length - 1;
+    var currentLine = lines[cursorLine] || '';
+    var indent = currentLine.match(/^(\s*)/)[1];
+
+    // Checkbox list (- [ ])
+    var cbMatch = currentLine.match(/^(\s*)[-*+]\s+\[[\sx]\]\s*/);
+    if (cbMatch) {
+      e.preventDefault();
+      var rest = currentLine.substring(cbMatch[0].length).trim();
+      if (!rest) {
+        // Empty checkbox - remove it
+        lines.splice(cursorLine, 1);
+        ta.value = lines.join('\n');
+        var pos = val.substring(0, start).length - currentLine.length;
+        ta.selectionStart = ta.selectionEnd = pos;
+      } else {
+        var ins = indent + '- [ ] ';
+        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
+        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
+      }
+      memoUpdateCharCount();
+      memoUpdatePreview();
+      memoScheduleSave();
+      return;
+    }
+
+    // Bullet list (- or *)
+    var bulletMatch = currentLine.match(/^(\s*)([-*+])\s+/);
+    if (bulletMatch && !currentLine.match(/^\s*[-*+]\s+\[[\sx]\]/)) {
+      e.preventDefault();
+      var rest = currentLine.substring(bulletMatch[0].length).trim();
+      if (!rest) {
+        // Empty bullet - remove it
+        lines.splice(cursorLine, 1);
+        ta.value = lines.join('\n');
+        var pos = val.substring(0, start).length - currentLine.length;
+        ta.selectionStart = ta.selectionEnd = pos;
+      } else {
+        var ins = indent + bulletMatch[2] + ' ';
+        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
+        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
+      }
+      memoUpdateCharCount();
+      memoUpdatePreview();
+      memoScheduleSave();
+      return;
+    }
+
+    // Numbered list (1. 2. etc.)
+    var numMatch = currentLine.match(/^(\s*)(\d+)\.\s+/);
+    if (numMatch) {
+      e.preventDefault();
+      var rest = currentLine.substring(numMatch[0].length).trim();
+      if (!rest) {
+        lines.splice(cursorLine, 1);
+        ta.value = lines.join('\n');
+        var pos = val.substring(0, start).length - currentLine.length;
+        ta.selectionStart = ta.selectionEnd = pos;
+      } else {
+        var nextNum = parseInt(numMatch[2], 10) + 1;
+        var ins = indent + nextNum + '. ';
+        ta.value = val.substring(0, start) + '\n' + ins + val.substring(end);
+        ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
+      }
+      memoUpdateCharCount();
+      memoUpdatePreview();
+      memoScheduleSave();
+      return;
+    }
+  }
+}
+
+// --- Markdown Auto-Conversion (Notion-style) ---
+function memoHandleTextareaInput() {
+  var ta = memoEl.editorTextarea;
+  var val = ta.value;
+  var selStart = ta.selectionStart;
+  var cursorLineStart = val.lastIndexOf('\n', selStart - 1) + 1;
+  var lineStartToCursor = val.substring(cursorLineStart, selStart);
+
+  // Check for auto-conversion patterns (line starts with pattern + space)
+  var converted = null;
+  // #, ##, ### headers
+  if (/^# $/.test(lineStartToCursor)) converted = '# ';
+  else if (/^## $/.test(lineStartToCursor)) converted = '## ';
+  else if (/^### $/.test(lineStartToCursor)) converted = '### ';
+  // bullet list
+  else if (/^- $/.test(lineStartToCursor)) converted = '- ';
+  else if (/^\* $/.test(lineStartToCursor)) converted = '* ';
+  // blockquote
+  else if (/^> $/.test(lineStartToCursor)) converted = '> ';
+  // checkbox
+  else if (/^\[ ?\] $/.test(lineStartToCursor)) converted = '- [ ] ';
+  // numbered list (keep as-is, e.g. "1. ")
+  else if (/^\d+\. $/.test(lineStartToCursor)) converted = lineStartToCursor;
+
+  if (converted !== null) {
+    ta.value = val.substring(0, cursorLineStart) + converted + val.substring(selStart);
+    ta.selectionStart = ta.selectionEnd = cursorLineStart + converted.length;
+    memoUpdateCharCount();
+    memoUpdatePreview();
+    memoScheduleSave();
+    return;
+  }
+
+  memoUpdateCharCount();
+  memoUpdatePreview();
+  memoScheduleSave();
+}
+
+// --- Extended Emoji Picker ---
+var MEMO_EMOJI_CATEGORIES = {
+  recent: [],
+  people: ['😀','😃','😄','😁','😆','😅','🤣','😂','🙂','🙃','😉','😊','😇','🥰','😍','🤩','😘','😗','😚','😙','🥲','😋','😛','😜','🤪','😝','🤑','🤗','🤭','🫢','🫣','🤫','🤔','🫡','🤐','🤨','😐','😑','😶','🫥','😏','😒','🙄','😬','😮','💨','😯','😲','😳','🥺','😢','😭','😤','😠','😡','🤬','💀','☠️','💩','🤡','👹','👺','👻','👽','👾','🤖','😺','😸','😹','😻','😼','😽','🙀','😿','😾','🙈','🙉','🙊','👋','🤚','🖐','✋','🖖','🫱','🫲','🫳','🫴','👌','🤌','🤏','✌️','🤞','🫰','🤟','🤘','🤙','👈','👉','👆','🖕','👇','👍','👎','✊','👊','🤛','🤜','👏','🙌','🫶','👐','🤲','🤝','🙏','✍️','💅','🤳','💪','🦵','🦶','👂','🦻','👃','🧠','🫀','🫁','🦷','🦴','👀','👁','👅','👄'],
+  nature: ['🐶','🐱','🐭','🐹','🐰','🦊','🦝','🐻','🐼','🦇','🐸','🐵','🙈','🙉','🙊','🐒','🐔','🐧','🐦','🐤','🐣','🐥','🦆','🦅','🦉','🦇','🐺','🐗','🐴','🦄','🐝','🐛','🦋','🐌','🐞','🐜','🦟','🦗','🦂','🐢','🐍','🦎','🦖','🦕','🐙','🦑','🦐','🦞','🦀','🐡','🐠','🐟','🐬','🐳','🐋','🦈','🐊','🐅','🐆','🦓','🦍','🦧','🐘','🦛','🦏','🐪','🐫','🦒','🦘','🐃','🐂','🐄','🐎','🐖','🐏','🐑','🦙','🐐','🦌','🐕','🐩','🦮','🐕‍🦺','🐈','🐈‍⬛','🦜','🦩','🦚','🦃','🐓','🦤','🦡','🦫','🦦','🦥','🐁','🐀','🐿','🦔','🐾','🐉','🐲','🌵','🎄','🌲','🌳','🌴','🪵','🌱','🌿','☘️','🍀','🎍','🪴','🎋','🍃','🍂','🍁','🍄','🌾','💐','🌷','🌹','🥀','🌺','🌸','🌼','🌻','🌞','🌝','🌛','🌜','🌚','🌕','🌖','🌗','🌘','🌑','🌒','🌓','🌔','🌙','🌎','🌍','🌏','🪐','💫','⭐','🌟','✨','⚡','☄️','💥','🔥','🌪','🌈','☀️','🌤','⛅','🌥','☁️','🌦','🌧','⛈','🌩','🌨','❄️','☃️','⛄','🌬','💨','💧','💦','🫧','☔','☂️','🌊','🌫'],
+  objects: ['📝','📄','📑','📃','📜','📋','📉','📊','📈','📌','📍','✂️','📏','📐','🔍','🔎','🔏','🔐','🔒','🔓','🖊','🖋','✒️','🖌','🖍','✏️','🖇','📎','🧷','📁','📂','🗂','📔','📕','📖','📗','📘','📙','📚','📓','🗒','🗓','📆','📅','📇','📈','📉','📊','📋','📌','📍','📎','🖇','📏','📐','✂️','🔑','🔧','🔨','🪛','🔩','⚙️','🗜','⚖️','🦯','🔗','⛓','🪝','🧰','🧲','🪜','🔦','🕯','🪔','💡','🔦','🏮','🪔','📔','📕','📖','📗','📘','📙','📚','📓','📃','📜','📄','📰','🗞','📑','🔖','🏷','💰','🪙','💴','💵','💶','💷','💸','💳','🧾','✉️','📧','📨','📩','📤','📥','📦','📫','📪','📬','📭','📮','🗳','✏️','🖊','🖋','✒️','🖌','🖍','📝','💻','🖥','🖨','⌨️','🖱','🖲','💾','💿','📀','🧮','📷','📸','📹','🎥','📽','🎞','📞','☎️','📟','📠','📺','📻','🎙','🎚','🎛','🧭','⏱','⏲','⏰','🕰','⌛️','⏳','📡','🔋','🪫','🔌','💡','🔦','🕯','🪔','🗑','🔪','🪓','⚔️','🛡','💣','🏹','🪃','🪄','🧨','🎯','🎲','♟','🎭','🎨','🧵','🧶','🎼','🎤','🎧','📻','🎷','🪗','🎸','🎺','🎻','🪕','🥁','🪘','📯','🎹','🎵','🎶','🎙','📻','📱','📲','☎️','📞','📟','📠','🔋','🪫','🔌','💻','🖥','🖨','⌨️','🖱','🖲','💾','💿','📀','🧮','🎥','🎞','📽','🎬','📺','📷','📸','📹','🎥'],
+  places: ['🌍','🌎','🌏','🌐','🗺','🗾','🧭','🏔','⛰','🌋','🗻','🏕','🏖','🏜','🏝','🏞','🏟','🏛','🏗','🧱','🪨','🪵','🛖','🏘','🏚','🏠','🏡','🏢','🏣','🏤','🏥','🏦','🏨','🏩','🏪','🏫','🏬','🏭','🏯','🏰','💒','🗼','🗽','⛪','🕌','🛕','🕍','⛩','🕋','⛲','⛺','🌁','🌃','🏙','🌄','🌅','🌆','🌇','🌉','🗾','🎠','🎡','🎢','💈','🎪','🚂','🚃','🚄','🚅','🚆','🚇','🚈','🚉','🚊','🚝','🚞','🚋','🚌','🚍','🚎','🚐','🚑','🚒','🚓','🚔','🚕','🚖','🚗','🚘','🚙','🚚','🚛','🚜','🏎','🏍','🛵','🛺','🛴','🛹','🛼','🚲','🛴','🚏','🛣','🛤','⛽','🛳','⛴','🛥','🚢','✈️','🛩','🛫','🛬','🪂','💺','🚁','🚟','🚠','🚡','🛰','🚀','🛸','🏠','🏡','🏘','🏚','🏗','🏢','🏭','🏣','🏤','🏥','🏦','🏨','🏩','🏪','🏫','🏬','🏯','🏰','💒','🗼','🗽'],
+  symbols: ['❤️','🧡','💛','💚','💙','💜','🖤','🤍','🤎','💔','❣️','💕','💞','💓','💗','💖','💘','💝','💟','☮️','✝️','☪️','🕉','☸️','✡️','🔯','🕎','☯️','☦️','🛐','⛎','♈️','♉️','♊️','♋️','♌️','♍️','♎️','♏️','♐️','♑️','♒️','♓️','🆔','⚕️','♿️','🈳','🈹','🈴','🈺','🈶','🈚','🈷','🈸','🈵','🉐','🉑','㊗','㊙','🈲','🈯','🈳','🔞','💯','✅','❌','❎','➕','➖','➗','✖️','♾','💲','💱','〽️','❗','❕','❓','❔','‼️','⁉️','🔟','🔢','🔤','🔡','🔠','ℹ️','📵','🔞','🚫','🚳','🚭','🚯','🚱','🚷','📵','🔞','☢','☣','⚠️','🚸','⛔','🚫','🚳','🚭','🚯','🚱','🚷','📵','🔞','☢','☣','⚠️','🚸','⛔','🔴','🟠','🟡','🟢','🔵','🟣','🟤','⚫','⚪','🟥','🟧','🟨','🟩','🟦','🟪','🟫','⬛','⬜','🔶','🔷','🔸','🔹','🔺','🔻','💠','🔘','🔲','🔳','🏁','🚩','🎌','🏴','🏳','🏳️‍🌈','🏳️‍⚧️','🏴‍☠️']
+};
+var memoEmojiRecent = [];
+
+function memoInitEmojiPicker() {
+  memoRenderEmojiGrid('people');
+  memoBindEmojiTabs();
+  memoBindEmojiSearch();
+}
+function memoRenderEmojiGrid(category) {
+  var emojis = category === 'recent' ? memoEmojiRecent : (MEMO_EMOJI_CATEGORIES[category] || MEMO_EMOJI_CATEGORIES.people);
+  var html = emojis.map(function(e) { return '<span>' + e + '</span>'; }).join('');
+  memoEl.emojiGrid.innerHTML = html || '<span style="color:rgba(255,255,255,0.3);font-size:12px;grid-column:span 7">최근 사용한 이모지가 없습니다.</span>';
+  memoEl.emojiGrid.querySelectorAll('span').forEach(function(el) {
+    el.addEventListener('click', function() {
+      var emoji = this.textContent;
+      var note = memoGetNote(memoState.currentId);
+      if (note) {
+        note.icon = emoji;
+        memoEl.emojiBtn.textContent = emoji;
+        memoLocalSave(memoState.data);
+        memoRenderTree();
+        memoScheduleSave();
+        // Add to recent
+        memoEmojiRecent = [emoji].concat(memoEmojiRecent.filter(function(e) { return e !== emoji; })).slice(0, 20);
+      }
+      memoEl.emojiPicker.classList.remove('open');
+    });
+  });
+}
+function memoBindEmojiTabs() {
+  if (!memoEl.emojiTabs) return;
+  memoEl.emojiTabs.querySelectorAll('.memo-emoji-tab').forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      memoEl.emojiTabs.querySelectorAll('.memo-emoji-tab').forEach(function(t) { t.classList.remove('active'); });
+      this.classList.add('active');
+      var cat = this.dataset.category;
+      memoRenderEmojiGrid(cat);
+    });
+  });
+}
+function memoBindEmojiSearch() {
+  if (!memoEl.emojiSearch) return;
+  memoEl.emojiSearch.addEventListener('input', function() {
+    var q = this.value.toLowerCase().trim();
+    if (!q) { 
+      var activeTab = (memoEl.emojiTabs ? memoEl.emojiTabs.querySelector('.memo-emoji-tab.active') : null);
+      memoRenderEmojiGrid(activeTab ? activeTab.dataset.category : 'people');
+      return;
+    }
+    // Search all categories
+    var results = [];
+    for (var cat in MEMO_EMOJI_CATEGORIES) {
+      if (cat === 'recent') continue;
+      MEMO_EMOJI_CATEGORIES[cat].forEach(function(e) {
+        if (results.indexOf(e) < 0) results.push(e);
+      });
+    }
+    var filtered = results.filter(function(e) { return e.toLowerCase().includes(q); });
+    var html = filtered.map(function(e) { return '<span>' + e + '</span>'; }).join('');
+    memoEl.emojiGrid.innerHTML = html || '<span style="color:rgba(255,255,255,0.3);font-size:12px;grid-column:span 7">검색 결과 없음</span>';
+    memoEl.emojiGrid.querySelectorAll('span').forEach(function(el) {
+      el.addEventListener('click', function() {
+        var emoji = this.textContent;
+        var note = memoGetNote(memoState.currentId);
+        if (note) { note.icon = emoji; memoEl.emojiBtn.textContent = emoji; memoLocalSave(memoState.data); memoRenderTree(); memoScheduleSave();
+          memoEmojiRecent = [emoji].concat(memoEmojiRecent.filter(function(e) { return e !== emoji; })).slice(0, 20);
+        }
+        memoEl.emojiPicker.classList.remove('open');
+      });
+    });
+  });
+}
+
+// --- Drag and Drop ---
+var memoDragData = null;
+function memoInitDrag() {
+  memoEl.tree.addEventListener('dragstart', function(e) {
+    var item = e.target.closest('.memo-tree-item');
+    if (!item) { e.preventDefault(); return; }
+    memoDragData = { id: item.dataset.id };
+    item.classList.add('dragging');
+    e.dataTransfer.effectAllowed = 'move';
+    e.dataTransfer.setData('text/plain', item.dataset.id);
+  });
+  memoEl.tree.addEventListener('dragend', function(e) {
+    var item = e.target.closest('.memo-tree-item');
+    if (item) item.classList.remove('dragging');
+    memoEl.tree.querySelectorAll('.drag-over, .drag-over-cat').forEach(function(el) {
+      el.classList.remove('drag-over', 'drag-over-cat');
+    });
+  });
+  memoEl.tree.addEventListener('dragover', function(e) {
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+    var item = e.target.closest('.memo-tree-item');
+    var cat = e.target.closest('.memo-tree-category');
+    memoEl.tree.querySelectorAll('.drag-over, .drag-over-cat').forEach(function(el) {
+      el.classList.remove('drag-over', 'drag-over-cat');
+    });
+    if (item) item.classList.add('drag-over');
+    else if (cat) cat.classList.add('drag-over-cat');
+  });
+  memoEl.tree.addEventListener('drop', function(e) {
+    e.preventDefault();
+    var targetItem = e.target.closest('.memo-tree-item');
+    var targetCat = e.target.closest('.memo-tree-category');
+    if (!memoDragData) return;
+    var srcNote = memoGetNote(memoDragData.id);
+    if (!srcNote) return;
+    if (targetItem) {
+      var targetNote = memoGetNote(targetItem.dataset.id);
+      if (targetNote && targetNote.id !== srcNote.id) {
+        // Move as child or sibling
+        srcNote.categoryId = targetNote.categoryId;
+        srcNote.parentId = targetNote.id;
+        srcNote.order = memoGetChildren(targetNote.id).length;
+        memoLocalSave(memoState.data);
+        memoRenderTree();
+        memoPersistToGist().catch(function(){});
+        memoShowToast('메모 이동됨', 'success');
+      }
+    } else if (targetCat) {
+      var catId = targetCat.querySelector('[data-catid]');
+      if (catId) {
+        var cid = catId.dataset.catid;
+        if (cid !== srcNote.categoryId) {
+          srcNote.categoryId = cid;
+          srcNote.parentId = null;
+          srcNote.order = memoGetCategoryNotes(cid).length;
+          memoLocalSave(memoState.data);
+          memoRenderTree();
+          memoPersistToGist().catch(function(){});
+          memoShowToast('메모 이동됨', 'success');
+        }
+      }
+    }
+    memoDragData = null;
+    memoEl.tree.querySelectorAll('.drag-over, .drag-over-cat').forEach(function(el) {
+      el.classList.remove('drag-over', 'drag-over-cat');
+    });
+  });
 }
 
 // --- Save ---
@@ -2777,12 +3215,54 @@ function memoBindEvents() {
 
   // Editor title
   memoEl.editorTitle.addEventListener('input', function() { memoScheduleSave(); });
-  memoEl.editorTextarea.addEventListener('input', function() { memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); });
+
+  // Textarea events - indentation, auto-convert, keyboard shortcuts
+  memoEl.editorTextarea.addEventListener('keydown', function(e) {
+    var c = e.ctrlKey || e.metaKey;
+    if (c && (e.key === 'b' || e.key === 'B')) {
+      e.preventDefault();
+      var ta = this;
+      var start = ta.selectionStart, end = ta.selectionEnd;
+      if (start === end) { ta.value = ta.value.substring(0, start) + '****' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 2; }
+      else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '**' + sel + '**' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 4; }
+      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+    }
+    if (c && (e.key === 'i' || e.key === 'I')) {
+      e.preventDefault();
+      var ta = this;
+      var start = ta.selectionStart, end = ta.selectionEnd;
+      if (start === end) { ta.value = ta.value.substring(0, start) + '*' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 1; }
+      else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '*' + sel + '*' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 2; }
+      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+    }
+    if (c && (e.key === 'k' || e.key === 'K')) {
+      e.preventDefault();
+      var ta = this;
+      var start = ta.selectionStart, end = ta.selectionEnd;
+      var sel = ta.value.substring(start, end) || 'link text';
+      var url = prompt('Enter link URL:', 'https://');
+      if (url) { ta.value = ta.value.substring(0, start) + '[' + sel + '](' + url + ')' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = start + sel.length + url.length + 3; }
+      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+    }
+    memoHandleTextareaKeydown(e);
+  });
+  memoEl.editorTextarea.addEventListener('input', function(e) {
+    memoHandleTextareaInput(e);
+  });
+
+  // Mobile preview toggle
+  memoEl.mobilePreviewBtn.addEventListener('click', function() {
+    if (window.innerWidth <= 768) {
+      var body = memoEl.editorBody;
+      body.classList.toggle('mobile-preview');
+      this.textContent = body.classList.contains('mobile-preview') ? '\u270f\ufe0f' : '\ud83d\udc41\ufe0f';
+    }
+  });
 
   // Emoji button
   memoEl.emojiBtn.addEventListener('click', function(e) {
     var rect = this.getBoundingClientRect();
-    memoEl.emojiPicker.style.left = Math.min(rect.left, window.innerWidth - 270) + 'px';
+    memoEl.emojiPicker.style.left = Math.min(rect.left, window.innerWidth - 290) + 'px';
     memoEl.emojiPicker.style.top = (rect.bottom + 4) + 'px';
     memoEl.emojiPicker.classList.toggle('open');
   });
@@ -2802,16 +3282,6 @@ function memoBindEvents() {
     }
   });
 
-  // View toggle
-  memoEl.viewToggle.addEventListener('click', function(e) {
-    var b = e.target.closest('button');
-    if (!b || !b.dataset.mode) return;
-    var mode = b.dataset.mode;
-    memoState.viewMode = mode;
-    this.querySelectorAll('button').forEach(function(x) { x.classList.toggle('active', x.dataset.mode === mode); });
-    memoEl.editorBody.className = 'memo-editor-body ' + mode;
-  });
-
   // Subpage button
   memoEl.subpageBtn.addEventListener('click', function() {
     var curNote = memoGetNote(memoState.currentId);
@@ -2827,10 +3297,10 @@ function memoBindEvents() {
   memoEl.settingsBtn.addEventListener('click', function() { memoEl.patInput.value = memoState.token || ''; memoEl.settingsModal.classList.add('open'); });
   memoEl.settingsSave.addEventListener('click', function() {
     var t = memoEl.patInput.value.trim();
-    if (!t) { memoShowToast('토큰을 입력하세요.', 'error'); return; }
+    if (!t) { memoShowToast('token is required', 'error'); return; }
     memoTokenSave(t);
     memoEl.settingsModal.classList.remove('open');
-    memoShowToast('토큰 저장됨', 'success');
+    memoShowToast('Token saved', 'success');
     memoEl.badge.textContent = 'Gist';
     memoEl.badge.style.background = 'rgba(59,130,246,0.15)';
     memoEl.badge.style.color = '#3b82f6';
@@ -2890,7 +3360,7 @@ function memoBindEvents() {
     else if (c && e.key === 's') {
       e.preventDefault();
       if (memoState.currentId) {
-        memoSetSaveStatus('saving', '저장 중...');
+        memoSetSaveStatus('saving', 'saving...');
         memoScheduleSave.cancel();
         memoPerformSave();
       }
@@ -2901,27 +3371,29 @@ function memoBindEvents() {
       if (om) { om.classList.remove('open'); return; }
       if (memoEl.contextMenu.classList.contains('open')) { memoEl.contextMenu.classList.remove('open'); return; }
       if (memoEl.emojiPicker.classList.contains('open')) { memoEl.emojiPicker.classList.remove('open'); return; }
-      var modes = ['edit', 'split', 'preview'];
-      var idx = modes.indexOf(memoState.viewMode);
-      var next = modes[(idx + 1) % modes.length];
-      memoState.viewMode = next;
-      memoEl.viewToggle.querySelectorAll('button').forEach(function(b) { b.classList.toggle('active', b.dataset.mode === next); });
-      memoEl.editorBody.className = 'memo-editor-body ' + next;
+      if (window.innerWidth <= 768) {
+        var body = memoEl.editorBody;
+        body.classList.toggle('mobile-preview');
+        memoEl.mobilePreviewBtn.textContent = body.classList.contains('mobile-preview') ? '\u270f\ufe0f' : '\ud83d\udc41\ufe0f';
+      }
     }
     else if (c && e.key === 'Delete') {
       e.preventDefault();
       if (memoState.currentId) {
         var m = memoGetNote(memoState.currentId);
         var childCount = m ? memoGetDescendantCount(m.id) : 0;
-        var msg = m ? '"' + escapeHtml(m.title) + '"' : '이 메모';
-        if (childCount > 0) msg += ' (하위 ' + childCount + '개 포함)';
-        msg += '를 삭제하시겠습니까?';
+        var msg = m ? '"' + escapeHtml(m.title) + '"' : 'this note';
+        if (childCount > 0) msg += ' (' + childCount + ' subpages included)';
+        msg += ' - delete?';
         memoEl.deleteMsg.textContent = msg;
         memoEl.deleteModal.dataset.targetId = memoState.currentId;
         memoEl.deleteModal.classList.add('open');
       }
     }
   });
+
+  // Init drag and drop
+  memoInitDrag();
 }
 
 // ===== TAB CLICK HANDLING =====
