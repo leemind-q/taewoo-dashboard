@@ -780,8 +780,6 @@ body::after {
   font-family: 'DM Sans',sans-serif; tab-size: 2; overflow-y: auto;
 }
 .memo-editor-textarea::placeholder { color: rgba(255,255,255,0.12); }
-.memo-editor-preview { flex: 1; padding: 24px; overflow-y: auto; }
-.memo-editor-textarea { border-right: 1px solid rgba(255,255,255,0.06); }
 .memo-editor-footer {
   display: flex; align-items: center; justify-content: space-between;
   padding: 6px 24px; border-top: 1px solid rgba(255,255,255,0.04);
@@ -1350,11 +1348,7 @@ body::after {
           <!-- Editor body -->
           <div class="memo-editor-body" id="memoEditorBody">
             <textarea class="memo-editor-textarea" id="memoEditorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." spellcheck="false"></textarea>
-            <div class="memo-editor-preview" id="memoEditorPreview"></div>
           </div>
-
-          <!-- Mobile preview toggle -->
-          <button class="memo-mobile-preview-btn" id="memoMobilePreviewBtn" title="미리보기">👁️</button>
 
           <!-- Footer -->
           <div class="memo-editor-footer">
@@ -2049,7 +2043,7 @@ function memoInitDom() {
   memoEl.loadingOverlay = id('memoLoadingOverlay');
   memoEl.toast = id('memoToast');
   memoEl.backdrop = id('memoSidebarBackdrop');
-  memoEl.mobilePreviewBtn = id('memoMobilePreviewBtn');
+  // memoEl.mobilePreviewBtn = id('memoMobilePreviewBtn'); // removed
   memoEl.sortControls = id('memoSortControls');
 }
 
@@ -2315,7 +2309,7 @@ function memoSelectNote(id) {
   memoEl.editorTitle.value = note.title;
   memoEl.editorTextarea.value = note.content;
   memoUpdateCharCount();
-  memoUpdatePreview();
+  
   memoUpdateLastEdited(note.updatedAt);
   memoSetSaveStatus('', '');
   memoRenderBreadcrumbs(note);
@@ -2639,73 +2633,8 @@ function memoUpdateCharCount() {
   var words = text ? text.split(/\s+/).length : 0;
   memoEl.wordCount.textContent = words.toLocaleString() + '단어';
 }
-function memoUpdatePreview() {
-  var raw = memoEl.editorTextarea.value;
-  var searchQ = (memoState.searchQuery || '').toLowerCase().trim();
-  try {
-    var html = raw
-      ? marked.parse(escapeHtml(raw), {breaks: true})
-      : '<p style="color:rgba(255,255,255,0.15)">내용을 입력하면 미리보기가 표시됩니다.</p>';
-    // Search highlighting
-    if (searchQ && raw) {
-      var tempDiv = document.createElement('div');
-      tempDiv.innerHTML = html;
-      var walker = document.createTreeWalker(tempDiv, 4, null, false);
-      var nodes = [];
-      while (walker.nextNode()) nodes.push(walker.currentNode);
-      for (var i = 0; i < nodes.length; i++) {
-        var node = nodes[i];
-        if (node.nodeType === 3) {
-          var txt = node.textContent;
-          var lower = txt.toLowerCase();
-          var idx = lower.indexOf(searchQ);
-          if (idx >= 0) {
-            var span = document.createElement('span');
-            var prev = 0;
-            while (idx >= 0) {
-              if (idx > prev) span.appendChild(document.createTextNode(txt.substring(prev, idx)));
-              var mark = document.createElement('mark');
-              mark.className = 'memo-search-highlight';
-              mark.textContent = txt.substring(idx, idx + searchQ.length);
-              span.appendChild(mark);
-              prev = idx + searchQ.length;
-              idx = lower.indexOf(searchQ, prev);
-            }
-            if (prev < txt.length) span.appendChild(document.createTextNode(txt.substring(prev)));
-            node.parentNode.replaceChild(span, node);
-          }
-        }
-      }
-      html = tempDiv.innerHTML;
-    }
-    memoEl.editorPreview.innerHTML = html;
-    memoBindPreviewCheckboxes();
-  } catch(e) { memoEl.editorPreview.innerHTML = '<p style="color:#f87171">⚠️ 렌더링 오류</p>'; }
-}
-function memoBindPreviewCheckboxes() {
-  memoEl.editorPreview.querySelectorAll('input[type="checkbox"]').forEach(function(cb) {
-    cb.addEventListener('change', function() {
-      var li = this.closest('li');
-      if (!li) return;
-      var items = Array.from(li.parentElement.children);
-      var idx = items.indexOf(li);
-      var lines = memoEl.editorTextarea.value.split('\n');
-      var found = -1;
-      for (var i = 0; i < lines.length; i++) {
-        if (/^\s*[-*+]\s+\[[\sx]\]/i.test(lines[i])) {
-          found++;
-          if (found === idx) {
-            lines[i] = lines[i].replace(/\[[\sx]\]/i, this.checked ? '[x]' : '[ ]');
-            memoEl.editorTextarea.value = lines.join('\n');
-            memoUpdatePreview();
-            memoScheduleSave();
-            break;
-          }
-        }
-      }
-    });
-  });
-}
+function memoUpdatePreview() { /* preview removed — no-op */ }
+function memoBindPreviewCheckboxes() { /* no preview — no-op */ }
 function memoUpdateLastEdited(iso) {
   memoEl.lastEdited.textContent = iso ? '마지막 수정: ' + memoFormatDate(iso) : '';
 }
@@ -2750,43 +2679,45 @@ function memoHandleTextareaKeydown(e) {
   var val = ta.value;
   var lines = val.split('\n');
 
-  // Tab / Shift+Tab
+  // Tab / Shift+Tab — list-aware indentation
   if (e.key === 'Tab') {
     e.preventDefault();
-    if (start !== end) {
-      // Multi-line indent
+    var cursorLine = val.substring(0, start).split('\n').length - 1;
+    var currentLine = lines[cursorLine] || '';
+    var isListItem = /^(\s*)([-*+]|\d+\.)\s/.test(currentLine);
+    var indentSize = 2; // markdown sub-list indent
+
+    if (start !== end && !isListItem) {
+      // Multi-line indent (non-list)
       var startLine = val.substring(0, start).split('\n').length - 1;
       var endLine = val.substring(0, end).split('\n').length - 1;
-      var isShift = e.shiftKey;
       for (var i = startLine; i <= endLine; i++) {
-        if (isShift) {
-          if (lines[i].startsWith('    ')) lines[i] = lines[i].substring(4);
-          else if (lines[i].startsWith('\t')) lines[i] = lines[i].substring(1);
+        if (e.shiftKey) {
+          if (lines[i].startsWith('  ')) lines[i] = lines[i].substring(2);
         } else {
-          lines[i] = '    ' + lines[i];
+          lines[i] = '  ' + lines[i];
         }
       }
       ta.value = lines.join('\n');
-      // Adjust selection
-      var newStart = start + (isShift ? -4 : 4);
-      var newEnd = end + (isShift ? -4 * (endLine - startLine + 1) : 4 * (endLine - startLine + 1));
-      ta.selectionStart = Math.max(0, newStart);
-      ta.selectionEnd = Math.max(0, newEnd);
-    } else {
+      ta.selectionStart = start + (e.shiftKey ? -2 : 2);
+      ta.selectionEnd = end + (e.shiftKey ? -2 * (endLine - startLine + 1) : 2 * (endLine - startLine + 1));
+    } else if (isListItem) {
+      // List item: indent/dedent the whole line
       if (e.shiftKey) {
-        // Unindent current line
-        if (lines[startLine].startsWith('    ')) lines[startLine] = lines[startLine].substring(4);
-        else if (lines[startLine].startsWith('\t')) lines[startLine] = lines[startLine].substring(1);
-        ta.value = lines.join('\n');
-        ta.selectionStart = ta.selectionEnd = Math.max(0, start - 4);
+        if (currentLine.startsWith('  ')) {
+          lines[cursorLine] = currentLine.substring(2);
+        }
       } else {
-        // Insert 4 spaces
-        ta.value = val.substring(0, start) + '    ' + val.substring(end);
-        ta.selectionStart = ta.selectionEnd = start + 4;
+        lines[cursorLine] = '  ' + currentLine;
       }
+      ta.value = lines.join('\n');
+      ta.selectionStart = ta.selectionEnd = start + (e.shiftKey ? -2 : 2);
+    } else {
+      // Plain text: insert 2 spaces
+      ta.value = val.substring(0, start) + '  ' + val.substring(end);
+      ta.selectionStart = ta.selectionEnd = start + 2;
     }
     memoUpdateCharCount();
-    memoUpdatePreview();
     memoScheduleSave();
     return;
   }
@@ -2814,7 +2745,7 @@ function memoHandleTextareaKeydown(e) {
         ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
       }
       memoUpdateCharCount();
-      memoUpdatePreview();
+      
       memoScheduleSave();
       return;
     }
@@ -2836,7 +2767,7 @@ function memoHandleTextareaKeydown(e) {
         ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
       }
       memoUpdateCharCount();
-      memoUpdatePreview();
+      
       memoScheduleSave();
       return;
     }
@@ -2858,7 +2789,7 @@ function memoHandleTextareaKeydown(e) {
         ta.selectionStart = ta.selectionEnd = start + 1 + ins.length;
       }
       memoUpdateCharCount();
-      memoUpdatePreview();
+      
       memoScheduleSave();
       return;
     }
@@ -2893,13 +2824,13 @@ function memoHandleTextareaInput() {
     ta.value = val.substring(0, cursorLineStart) + converted + val.substring(selStart);
     ta.selectionStart = ta.selectionEnd = cursorLineStart + converted.length;
     memoUpdateCharCount();
-    memoUpdatePreview();
+    
     memoScheduleSave();
     return;
   }
 
   memoUpdateCharCount();
-  memoUpdatePreview();
+  
   memoScheduleSave();
 }
 
@@ -3099,7 +3030,7 @@ async function memoSyncFromGist() {
         memoLocalSave(memoState.data);
         if (memoState.currentId) {
           var cur = memoGetNote(memoState.currentId);
-          if (cur) { memoEl.editorTitle.value = cur.title; memoEl.editorTextarea.value = cur.content; memoEl.emojiBtn.textContent = cur.icon || '📝'; memoUpdatePreview(); memoUpdateCharCount(); memoUpdateLastEdited(cur.updatedAt); memoRenderTags(cur); }
+          if (cur) { memoEl.editorTitle.value = cur.title; memoEl.editorTextarea.value = cur.content; memoEl.emojiBtn.textContent = cur.icon || '📝';  memoUpdateCharCount(); memoUpdateLastEdited(cur.updatedAt); memoRenderTags(cur); }
         }
         memoRenderTree();
         memoShowToast('Gist에서 동기화됨', 'success');
@@ -3225,7 +3156,7 @@ function memoBindEvents() {
       var start = ta.selectionStart, end = ta.selectionEnd;
       if (start === end) { ta.value = ta.value.substring(0, start) + '****' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 2; }
       else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '**' + sel + '**' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 4; }
-      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+      memoUpdateCharCount();  memoScheduleSave(); return;
     }
     if (c && (e.key === 'i' || e.key === 'I')) {
       e.preventDefault();
@@ -3233,7 +3164,7 @@ function memoBindEvents() {
       var start = ta.selectionStart, end = ta.selectionEnd;
       if (start === end) { ta.value = ta.value.substring(0, start) + '*' + ta.value.substring(end); ta.selectionStart = ta.selectionEnd = start + 1; }
       else { var sel = ta.value.substring(start, end); ta.value = ta.value.substring(0, start) + '*' + sel + '*' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = end + 2; }
-      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+      memoUpdateCharCount();  memoScheduleSave(); return;
     }
     if (c && (e.key === 'k' || e.key === 'K')) {
       e.preventDefault();
@@ -3242,7 +3173,7 @@ function memoBindEvents() {
       var sel = ta.value.substring(start, end) || 'link text';
       var url = prompt('Enter link URL:', 'https://');
       if (url) { ta.value = ta.value.substring(0, start) + '[' + sel + '](' + url + ')' + ta.value.substring(end); ta.selectionStart = start; ta.selectionEnd = start + sel.length + url.length + 3; }
-      memoUpdateCharCount(); memoUpdatePreview(); memoScheduleSave(); return;
+      memoUpdateCharCount();  memoScheduleSave(); return;
     }
     memoHandleTextareaKeydown(e);
   });
