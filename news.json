@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "\"내가 원하는 스킨 원픽은\"…우본, '페이커' 기념우표 선호도 조사",
-        "link": "https://n.news.naver.com/mnews/article/003/0014019695",
+        "title": "AI 빅테크 인재전쟁…노벨화학상 받은 구글 직원 앤트로픽으로",
+        "link": "https://n.news.naver.com/mnews/article/009/0005696563",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 고객 AX 함께할 'AI 스타트업' 발굴 나선다",
-        "link": "https://n.news.naver.com/mnews/article/comment/003/0014019695",
+        "title": "KT, AX 인재 키운다…'K-뉴딜 아카데미' 1기 모집",
+        "link": "https://n.news.naver.com/mnews/article/comment/009/0005696563",
         "source": "네이버 뉴스"
       },
       {
-        "title": "디토닉, 천안·아산시에 'AI 시티' 건설 나선다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014019072",
+        "title": "삼성전자에 날개를…오픈AI, 챗GPT·코덱스 대규모 공급",
+        "link": "https://n.news.naver.com/mnews/article/092/0002427523",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스마일게이트 퓨처랩, 어린이 창의학습 앱 '아하오호' 출시",
-        "link": "https://n.news.naver.com/mnews/article/comment/003/0014019072",
+        "title": "AI 데이터 장벽 낮추고 나노팹 통합…과기부 우수사례",
+        "link": "https://n.news.naver.com/mnews/article/comment/092/0002427523",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 삼성전자 임직원 대상 기업용 챗GPT 공급",
-        "link": "https://n.news.naver.com/mnews/article/421/0009015801",
+        "title": "스마일게이트 퓨처랩, MIT·스탠퍼드 석학과 \"AI시대 교육\" 논의",
+        "link": "https://n.news.naver.com/mnews/article/001/0016149775",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "‘수억 보너스’ 반도체 원청 직원은 “집 사볼까”…하청은 “생계 불안” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TVJ5aXVMb0JSQzlpODI5RkoxQzF0NGtwc3pwb0RNcnY4V1ZFeTM5NVE1YndDNzBBVC1vdWllUHVHY2ViOGFZOWZCMTI0VFBYWER0VUJIMVFnaUhNWWJoQVFSNmI?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "삼전 반도체 공장 부지 ‘광주군공항’ 유력 - 세계일보",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rX244M1BfZWhESExDMS10Y2ZCQ1hkejNLOTI4dDUzWTgzVHNWNk9SaGV2V0xkc0NzeWc0eVkxYV81ZVFUT0M5UmZHVHdnTjBrb3h5c0d0QkjSAVRBVV95cUxQaWI3WWRQMElzQnBWQjJ3V2NPNDNPSUdFWi1IX2lpdTNadHMzUmNINUNBZ0pOV1Z0cXY5YmQ2ZDdJOFZyUncxTFNRZFpZRC1vcnhDbkU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'반도체 훈풍'에 광주 첨단3지구 부동산 시장 들썩 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbE1jd0syV0RQMllsdTZGVWhBQWs5ZEhLbG9CT25ORE1KZ0Y1RF93cHFGMzlGeWk1elVRSjRBX3RYbDJKak5ERER3M2tYS1hPb01kb0ZDRVByQVdRc3Zn?oc=5",
+        "title": "반도체 원청 “동탄 임장 3팀씩 다녀요”…하청은 “임금 그대론데 집값 올라” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TVJ5aXVMb0JSQzlpODI5RkoxQzF0NGtwc3pwb0RNcnY4V1ZFeTM5NVE1YndDNzBBVC1vdWllUHVHY2ViOGFZOWZCMTI0VFBYWER0VUJIMVFnaUhNWWJoQVFSNmI?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자, 평택캠퍼스 '마지막 반도체 공장' 본격 착공 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SGU2VzlPeUs2QUFSeXNEUDc3TVZUaktETWJ5NFpLUkpyZS1Odml0MS1MUzBMeWNJVmNjeDZLZDZScldFcXVhaWROa19HQXlDdVJaYWtWSFhoUdIBVEFVX3lxTE1nTUt0MzluTXpFdC00TWJObXN1UFRnVDNhQ3dQbjVkU2xUMUg0V2JoWlFta1Bub2hmdkxkWnF5ZjJpSTdLMnV5ZnpmdHJuQnNSUXRJYg?oc=5",
+        "title": "반도체 성과급발 인플레 현실화하나…저소득층 '삼중고' 우려 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yb0pkQ2NMVlZTdmF4Skg2am5kYXkybUFoaV9BRjZVRzljME5hOWhRTmF2YVZtQ1ZGWm9XWEhSaExDRXN5WDA5WFp1T0VPM0ZPU3Fpc2JIc0RhT2vSAWBBVV95cUxPVWs5SUhfT1hKcVIwZldVc3o1bG96RGR3SU8yNDhzX0FfLXNDZ0hEZjJxTEo5V0VaQ0taN1Znb3BKdWdya1JaTlJiRHM1TDlLWnVSdTJ4QWllaEZ4UmlUWV8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "26년 '삼성 천하' 끝났다…SK하이닉스, 코스피 새 대장주 등극 [종합] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3J6MGpXaGd6WE5yclVFUnRPdXRDM3FKYWlYUnh4VmVKSEtYZHBlbG95Rzh3UXFhUEtXSTdfb3haOE55cjJadWdkaEtCdXVpcUc1UEM2ZU0td9IBVEFVX3lxTE9WNkhLM1pseS1EaWlfQVlUV0pxdmMtTElITUNfMFVyRW1aS2N6WW11QktZY0RJRzhSNUNaYVRuUGExTU5DaUd2dXdVbDRCQWJISlBqcQ?oc=5",
+        "title": "반도체 성과급의 역습…금리·세금 올리는 방아쇠 - 스트레이트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQWnUzZmhKWmRfVTc4aDBsRk1VNFpnZ3Z5NVZsVjFKOWdKNDFQaU5uS1A0WjBfbDFqWHVBSjVrU1pseW9xVjFIMXVSM05ndzlqcEVjMDZNN0tMZXdyU2RVNkJTeFNPV0IyN3lJNjUxMjFpOFHSAXdBVV95cUxObnp2V0dpakRpdHFTTkhjYXJHUjdwX3J0c3poendvV1Y4UUxhOWw1cmozaDV5QnA3UEdVZWY1QnZINWdWTTdsY211ZzhQc1Z3VW1VeGpNQUJzREk2bE13bXlVdnQ5dUt6LWJ4ZDFRMkdaOWNqVWZHQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[속보]‘삼전닉스’ 반도체학과 점수, 서울대 공대 추월…의대 턱밑 - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55Z3lVZG9VckNRZE16RGZOazVvZjVEYzN2a3ZmNjRtemIzcGtWendYRVN6OGlEbzJ5M2RBcmRiZGRaeWdNeWhIaVR0SzFYWm41?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "AI시대 사이버 위협 대응…서울시 개인정보보호 포럼 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NeW0zWGxQYk14SU9LNXQycmhLNjVhTTE1M09qMTZwRUhZeVEwZWtMbFhtRzFGRVZ2Z2dzRkFDV0JtWjl6WHZtU205aHFHNVdkT1ExNmNNaGVOcmfSAWBBVV95cUxOQ2ZSRWlnNjNnaF90b0wyVldDZlNKeU1ZcDY5eFFoLVo5c29fMUJGRDhTei0yLXFiVlRjekQyWUlFMTNwOHZNay1TRU9OZlRZU0RONUJhelNkcUtQakttYkg?oc=5",
+        "title": "하정우 전 AI미래기획수석, 24일 전주서 인공지능 특강 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oRW5uUHpueE14aHlXZV95OU9CeGR3b2NOZDZPdENfTGtMZS0tSUVKclJZRm9JdVNoNVVLZzBRaEFPWEFKU2lOZWM0SjB6cnJLX0o0dU1zZEhidFlzX254atIBYEFVX3lxTE1oRW5uUHpueE14aHlXZV95OU9CeGR3b2NOZDZPdENfTGtMZS0tSUVKclJZRm9JdVNoNVVLZzBRaEFPWEFKU2lOZWM0SjB6cnJLX0o0dU1zZEhidFlzX254ag?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[화보] ‘인공지능(AI) 융합, 농업혁신의 날개를 달다’...농진청, 2026농업기술박람회 - 푸드아이콘",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b21lRUhudVFNT01tajVqSVRXRDdiUTVKMVgya0s3anhMSEVTbTA3ME5Eb0xyTDJrb21aZzM2OVFHX09qMmJXNG9GOEpLVWh1Wk43UHhHTUIzWm8wNTN2WWJtUUkzdDlhaHhmMw?oc=5",
+        "title": "\"인공지능 활용해 산재 예방\"…산업안전법 개정안 첫 발의 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rbk5lV2ZtbUV2RzlhWVFHU1pMY28ydHdZUGpHaXU2SkRNVWFqYzhzWHhxRzN5UXVIdGRudUxZeWs0OENTZnZweGhZWkQ2VFFnM2JGenVsZjBwd9IBVEFVX3lxTE5yODlHaW9JODZ1OUdRQTAwSF9yUHpzbF9FOEd0RlVEMFl3VFNGY202akY3Wm11N0VmcXRmc2dqOFB1aDE4akFyVVhNUTFMSVZXd2xGcg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[교육자의 책] '인공지능 학습혁명' 정제영 \"AI, 위협 아닌 본질을 비추는 거울로\" - 더에듀",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQkZ5T2hxa2dHb0JPY0xlOUpJQ0pUb2pSY3B6WUJyMGJMWU16UUxoYjNrUFNsQ2R3SlNlVTFERHYydURlRnd1OVdsb1pnOGlZbEExWkxSTXJ2Qjg?oc=5",
+        "title": "\"공장도 AI 시대\"…경북도, 무인·무재해 '물리 인공지능'으로 제조혁신 나선다 - 이로운넷",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiWlc1UDdqS2FoNFlZT2dxTWl2NnBNZnQzZ2FTcV9WM3JaV2xSVzFjZU16RWhBSFdXRVN5MzU0QWZUZnY5TWliMjdmMGVNSDR0WERTeHhlQUtESGwySnd5OEVQTmR2UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "금융위원회 인공지능 가이드라인 발표에 따른 기업지배구조 변화 - 법률신문",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GYmluTUJTQnNrb3ZBZFhENGdqM1RZYlZiVEc3QWl4WEFXX0tvS1pRNFp2MjFZQ2ZEejJCNU5qR1ZyWlFMY3JvN3ozT1d6OWFiam91U19zeEx3VVJjNXdZUkhVcnRpXzZ0T3NHUjlR0gFyQVVfeXFMTXlpRjZRZFhUX3czeVdOcjZ4RHVxRTIxdDNFWldYSVc2ZWZwaW5LRDdjTWZ6VndZR3RGeDBmeXBaa3pxRUVkdkZpSmJXcXB0T2NuSmN0N3JnS2hxdFFTcDRNcmVmeVlpVVM0dHhGUkdUelF3?oc=5",
+        "title": "경북도, 대한민국 제조업 인공지능(AI) 전환과 자율제조 혁신 선도 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oaHAzaGRSQ0dmendiN1R2ZnhaTHFmN0N4MVZoNmR3eXlMTThLWF9kR2NiVWhoVkJrc2MwX1ktYU01RlViTm9HWEVhbFI1dXRkQm02Tm9tTkRVdlZWaW9LWTBEMjB3dw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI는 인류 공동 자산”…샌더스, 7조 달러 AI 국부펀드법 발의 - itworld.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNks1M3ptQ1A5NzFuSjhmZGhPbGMtREx3eV9oN2t0ck9lZUF3aEp4WjJkYWxOQzVSNktIaTZ3dmZ3bWFOeUNFUWNDcm85dmNVTDBpNm1yQllGVmVxVF9vaGNFMzBKQnlVaWQ5M1hzbEdlaVBLOFV2WUI0TERMcnB5TkxqRFc3RmFKd3Jjck9EMlM0ZnZ4Q0c5SVhudzd0R3diZ1Vvd1NybmZuZWxmNVZTLVNWdU9FV2ZiMm14UnFycGMtcmtRdGF6SlhnOFdLX2hkNXEyaVZSaEVpMUhtWXFpbzExdVg1TXltOFN0Q0Z3LXN3YklpX3NWSDZaOGd2UEVVeTJVdXlYZUpwQUNUUElQSVFMVWtHdENVZnJBTmFfT0RMdmU1a0RnQi12eC1STGxGeTd2TDJXSTJhSFhRNXkxTFlFUlZ0dmlQckdYSTRqTkk?oc=5",
+        "title": "\"에이전틱 AI 시대, 현장은 어떻게 바뀌나\" AI프렌즈학회, 25~26일 컨퍼런스 - 헬로디디",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tb3VWVTZpOEloanVZU2RaMWVrLU50MUdzYjZqZXI2SzE2dWZUa0dBSzJOajQ2RG5GblNtdWlnVzY0MjVkYUEwY0hHUzNoajREdW1jMHdwZC04dUVvcU14LXhabGlISXYxcWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"자타공인 경주는 SMR 건설 적지\"…도전은 계속된다",
-        "link": "https://n.news.naver.com/mnews/article/088/0001015491",
+        "title": "난임병원서 숨진 연구원 부검 1차 소견…국과수 “질식사 추정”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003532241",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법무법인 광장, 개인정보보호법 개정 쟁점 세미나 개최",
-        "link": "https://n.news.naver.com/mnews/article/comment/088/0001015491",
+        "title": "택시가 신호대기 차량 7대 추돌…10명 부상",
+        "link": "https://n.news.naver.com/mnews/article/comment/025/0003532241",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스마트워치 충돌감지 신고, 도랑 빠진 차량서 2명 구조",
-        "link": "https://n.news.naver.com/mnews/article/055/0001366237",
+        "title": "\"인권위 존재가치 저버린 장본인은 안창호\"‥줄 잇는 '보직 반납'",
+        "link": "https://n.news.naver.com/mnews/article/014/0005538043",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"초등생 형제, 물에 빠져 숨져\"...곡성 테마파크서 참변",
-        "link": "https://n.news.naver.com/mnews/article/comment/055/0001366237",
+        "title": "연인 살해한 20대 남성 현행범 체포…구속영장 신청",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005538043",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘개표소 봉쇄시위’ 36건 수사…“불법 행위 엄정 대응”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001173385",
+        "title": "경찰, '개표소 시위' 해산 요건 있지만 \"판단 신중하게\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000877170",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-22 04:58"
+  "updated": "2026-06-22 10:45"
 }
