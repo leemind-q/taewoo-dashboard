@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "상온에서 원유 정제 성공... 정유 공정 운영비 36% 줄이는 기술 나왔다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000938449",
+        "title": "KT, KT클라우드 다시 품나…재합병 검토",
+        "link": "https://n.news.naver.com/mnews/article/029/0003033561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김창한 대표, 이번엔 AWS CEO 만났다…게임 넘어 ‘AI·로봇 기업’ 변신 가속",
-        "link": "https://n.news.naver.com/mnews/article/comment/469/0000938449",
+        "title": "AI 공격 대응 나선 정부…SW 공급망 보안 로드맵 공개",
+        "link": "https://n.news.naver.com/mnews/article/comment/029/0003033561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI발 공급망 공격 막는다…정부, SW 보안 로드맵 발표[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/092/0002427908",
+        "title": "네이버클라우드 승부수…정부 전용 AI 인프라 제안[만나보니]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004634656",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'사상 최대 제작비' GTA 6, 예약 판매 시작…11월 19일 출시",
-        "link": "https://n.news.naver.com/mnews/article/comment/092/0002427908",
+        "title": "‘어닝 서프라이즈’ 마이크론, 사상 최대 실적…4분기 전망도 시장 예상 상회",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004634656",
         "source": "네이버 뉴스"
       },
       {
-        "title": "100년 된 정유 패러다임 바꿀까...“끓이지 말고 거름망에 걸러요”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006313741",
+        "title": "\"K-줄기세포, 더 많은 돈 물론 산업화 기반과 규제혁신 절실\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005376451",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "어쨌든 AI·반도체…부자들의 주식 포트폴리오 열어보니 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFU3Z6V3dJVG80Y0t4MHVaVVFKTS1XNWYyTzR3aUNoVVQwOEhfakJYRmZ1VWx0V2JRT3NPT1JuaGVEaEFQU09BSlhZdU1FaDk4cFFsVg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 공장 24시간 돌려야하는데… “호남 전력 인프라로는 쉽지 않아” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50U0lNV2J3SEF5b2ZqWGxUNS1jM3VDM0dHS1ZFYkgxVFdySk1HSWJpTUd1OTU2M1B5TUdxWjdVb0NUaGNHNWNOM3ZvWW94clU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"전남광주 반도체 패키징, '유리급 기판'도 선택지\" - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYnU3SlQ4bFdnRlNaOVg3TXg1SzJLTnNDbzZ1ckNWeE5zR285V3hjVnF3YVh1U2IyLXNYMm9Yb05xa3RocDhPMkd4SDV4ak45ek16NHF3?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[속보] 뉴욕증시, 반도체 매도세 속 혼조 마감…나스닥 0.43%↓ - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmY1NQUjNNV1YxajFLUnQxQXFpaGpCcTdKcDNTX212STVpQTRsT0o2ZmFseFZsSkZudDZVU0otUEh5akxSSnMyZ0FZXzRMLWYxUmtBNkRaclQ0VFVuTVFyR9IBeEFVX3lxTFBhNTZZaHJ6MGpnQW45N0oxSFJ5Qk0zTndSN2Z4TDFLdHJxWlU0S3QtMncybDZPVkVSSTlGcUZxUkY0Q1hlN0lpY1JuREVVWXpkakM3cmI5eXQwUWVTTktEZUtYckw0UTl0Q1NlSVNTSlhzMGN4TElaQw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "하루 새 '910포인트' 폭락한 코스피‥반도체 반등 가능할까? - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEUDVoRnF1clRzbmVOcUh6N21oWURDanpFb25aUnJVa2RaREIzNGJhYTlEOEtHZFlBQndJS29tOEY0NklmRml2MGRIOXdCTUM5clR6MkpVa2pOdERIUjdNYm44dmhCbHFoci00SGpDakk3RkkwQk9IaQ?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "한국식품안전관리인증원, AI 인공지능 기반 식품안전 혁신 성과로 대통령 표창 화제 - 한국농촌경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uSTYxaDM0bkE4d2dreHNTQlMwX01Pb1ZDdVJsRmd4N1NFOUhoNXk5a0lock5QaFNla0N6dVBKQXkyY3hxaXkyc3dheGswS1BZRzdRMkF5Tldtb2pUS2dTaA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "데이터이쿠, “인공지능 내재화가 핵심”…엔터프라이즈 AI 플랫폼 전략 공개 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rX0c0NS0tbk11SUJnbHJqV3Z0OVlTSThiMzdZU0pEN1ZhRE03MDYtdHZoRDBCOHVkcGlscGtrZVk5NndwdGpQY1NnbU1nSm4yeWRqb3NoR1ZlRzRnQndGNlNRemVMZEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능사업단, 광주에 ‘AI 특화 공동훈련센터’ 개소 - 진일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OaC0zMk5zczg5X1FsckRhamQxNWw5eG10UnB6WjViQ2pBQnV6cGRoSmRMb05maWxlT1VBdjN6enU5M1Y3UV8zdjBqYXZMZGJWT1J1S0p0UzJTU1JRSTU1Rm5HamF0c0FMU1AtdU1lTQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "양평군,인공지능(AI)돌봄로봇 \"실제상황 생명천사\" - 헬스경향",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SnNYVGRoMm5sTlVaeklKQkxoZzNFdERzRGN5NXl2bnlvX2NKU2xGcU1SeXV5Sy1XcFU0MWVfZkpydmdPSHVPbDZSTFp4d1lwejRNVjZIUnA4X05pTERSNFJFY1M?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "의료가 인공지능(AI) 시대에 던지는 질문과 과제는? > 뉴스 - 한의신문",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUWw0OW1oa0pJZ0s4cFZOcllET1JiRFRYckdaSXBQOVdGMDBIYWhscGFHa3RNSmpCMFdyb0lqdGgtTGNJZWpmRnRGMklJN2pUSWRrOUpFM3NxcDNldHdrZHNZRDdhd3FhSllwbnVZWWk2QQ?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "‘청소 알바’로 속이고 여성 집 들어가 흉기 위협…30대男 체포",
-        "link": "https://n.news.naver.com/mnews/article/025/0003532903",
+        "title": "투표지 부족 수사 속도…송파·서울 선관위 관계자 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/422/0000878013",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'러브버그 민원' 하루 26건꼴…의왕시 '친환경 방제 체계' 가동",
-        "link": "https://n.news.naver.com/mnews/article/comment/025/0003532903",
+        "title": "'국민의힘 입당 지시'…95세 이만희 신천지 총회장 구속",
+        "link": "https://n.news.naver.com/mnews/article/comment/422/0000878013",
         "source": "네이버 뉴스"
       },
       {
-        "title": "잠실 개표소 ‘봉쇄시위’ 현장에 나타난 모스 탄…“미국 개입 가능성” 주장",
-        "link": "https://n.news.naver.com/mnews/article/052/0002370644",
+        "title": "법원 \"檢, 내란 가담 의심\"‥특검, 심우정 정조준",
+        "link": "https://n.news.naver.com/mnews/article/056/0012205552",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헌재, 권경애 '학폭 불출석 패소' 피해 유족 측 재판소원 각하",
-        "link": "https://n.news.naver.com/mnews/article/comment/052/0002370644",
+        "title": "서울시, '글로벌 문화 특파원' 첫 운영…영국·헝가리 13명 선발",
+        "link": "https://n.news.naver.com/mnews/article/comment/056/0012205552",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한양대, ‘THE 세계대학 영향력 평가’ 세계 6위",
-        "link": "https://n.news.naver.com/mnews/article/421/0009021444",
+        "title": "\"자식은 쫄쫄 굶는데\"…술집·PC방서 긁힌 '아동 급식카드'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005302518",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-24 20:18"
+  "updated": "2026-06-24 21:54"
 }
