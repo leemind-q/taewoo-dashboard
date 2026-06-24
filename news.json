@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "KT, KT클라우드 다시 품나…재합병 검토",
-        "link": "https://n.news.naver.com/mnews/article/029/0003033561",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "AI 공격 대응 나선 정부…SW 공급망 보안 로드맵 공개",
-        "link": "https://n.news.naver.com/mnews/article/comment/029/0003033561",
+        "title": "“끓이지 않고도 원유 걸러냈다”…비결은 발상의 전환",
+        "link": "https://n.news.naver.com/mnews/article/023/0003983899",
         "source": "네이버 뉴스"
       },
       {
         "title": "네이버클라우드 승부수…정부 전용 AI 인프라 제안[만나보니]",
-        "link": "https://n.news.naver.com/mnews/article/011/0004634656",
+        "link": "https://n.news.naver.com/mnews/article/comment/023/0003983899",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘어닝 서프라이즈’ 마이크론, 사상 최대 실적…4분기 전망도 시장 예상 상회",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004634656",
+        "title": "마이크론 \"1000억달러 규모 장기 전략 고객 계약 체결\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006313452",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"K-줄기세포, 더 많은 돈 물론 산업화 기반과 규제혁신 절실\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005376451",
+        "title": "“배그 원툴 잊어라” 크래프톤의 신사업…거물 CEO와 회동했다는데",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006313452",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "마이크론 \"선수금만 220억달러\"…메모리 물량 확보 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/001/0016157021",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "호남·충청 반도체클러스터 가시화‥부동산은 \"닥치고 공급\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zTFZITU53TlJvLWxaLUhVckV1MUhNN0loWUpnRVlIQndpLXVLdWFwUTFVMUZrYWpKdklvQVVWNUVacGR5RVQ4RThqTjc2VDZNcV9GazJrc3FrdmdhU3Q3M05TVHBTVDhTbDlkYW5ib2pSNF9CaWRmcA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "어쨌든 AI·반도체…부자들의 주식 포트폴리오 열어보니 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFU3Z6V3dJVG80Y0t4MHVaVVFKTS1XNWYyTzR3aUNoVVQwOEhfakJYRmZ1VWx0V2JRT3NPT1JuaGVEaEFQU09BSlhZdU1FaDk4cFFsVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[윤영숙의 시선] 사막·시골로 간 반도체, '정치'가 그린 팹 지도 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMl9ZeU5vWEZfTlI2OHpMalZyYi1JZXEtSWJFclBSWkt2RWFmOW9Yd0Z0dG9Mb1dsRXNTZnI2bHNTSmlidEtVUEdlWjAzcFNvWjBycVNrU01JdlgxRkZTY053RGNZY1VrSnV2MWRsUm8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 좋아도 건설업 부진에...기업 체감 경기 석 달 만에 하락 [Pick코노미] - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQ2Radkc3SGljY2RIQVVSd2QtT2NTdm1zbkgwRWN4MTN2dVk0OE5ycDdERGVyTkpHaGFjTnFQTlhoMkt5NkY2YWVCZFZqWjFLR2fSAVNBVV95cUxQV2o1czNzQkRvUHlrUy10Mm5tSFV3RjlMQk16Y05VV1NPbkJJazFkUGE3SVRYS2VkaXI0dWZ1RGpESDhUa01tYlB5ZVpTR2hUZkFnYw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“반도체-의약품만 호황” 기업 경기전망 4개월 연속 ‘부정적’ - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYUNoNHg2MjBsczlic2hkNFhqNXpSV0JPOFpSeHpWVHpyNXdwX0hFckNNUHdIbzJJLTNLRXNiaU5BRTAzU2Qwb1NGUjNTNkhoUFBYcFEybzlyMElTbTlCSDhidFotUVAwSXFxRFlQcHdIaTNmOXfSAWZBVV95cUxNWmQ5U1p0T3JLS2VGZWhyMGlPejU2bG81ZXctT3FiVlRvMDN1WXFhQmtWUnZiZU1NeEktWEp0UVBXQkxyd1pLWDRGa0NMekl0THZ3Rmg1VS1TRG9iNVRhRTJRYVcyUnc?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "한국식품안전관리인증원, AI 인공지능 기반 식품안전 혁신 성과로 대통령 표창 화제 - 한국농촌경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uSTYxaDM0bkE4d2dreHNTQlMwX01Pb1ZDdVJsRmd4N1NFOUhoNXk5a0lock5QaFNla0N6dVBKQXkyY3hxaXkyc3dheGswS1BZRzdRMkF5Tldtb2pUS2dTaA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "데이터이쿠, “인공지능 내재화가 핵심”…엔터프라이즈 AI 플랫폼 전략 공개 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rX0c0NS0tbk11SUJnbHJqV3Z0OVlTSThiMzdZU0pEN1ZhRE03MDYtdHZoRDBCOHVkcGlscGtrZVk5NndwdGpQY1NnbU1nSm4yeWRqb3NoR1ZlRzRnQndGNlNRemVMZEE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능사업단, 광주에 ‘AI 특화 공동훈련센터’ 개소 - 진일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OaC0zMk5zczg5X1FsckRhamQxNWw5eG10UnB6WjViQ2pBQnV6cGRoSmRMb05maWxlT1VBdjN6enU5M1Y3UV8zdjBqYXZMZGJWT1J1S0p0UzJTU1JRSTU1Rm5HamF0c0FMU1AtdU1lTQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"월가 거대한 돈, AI 다음 여기로\"...'300조' 판 커지는 로봇시장 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWmFKLUpBbDdQZ0lORExwYi1JVXJ5UnpaQVo1TDBBd184Z0ZUTjJqSk5Ob0hXMVFucnFnLWVXOHdEUnJZVzRpQm4xQTJHUG82UVMzVHAyNmlPYVE4Y2FGZWRBaUdHVkZDQk50VNIBckFVX3lxTE1UbE5JcXJRc0N0QWVkRUI3MXJOLTNvQmlKalB3bmM4NHJOMWhYY0tjRi0xMDhkX2NFRFgzU3hPN2dLV3Q5UWtaeEFXcDlhSktoRFRKemRpZGQ0NnZJcGFKNDc1NnBlSXdrUTBpaUk5RTdiUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "양평군,인공지능(AI)돌봄로봇 \"실제상황 생명천사\" - 헬스경향",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SnNYVGRoMm5sTlVaeklKQkxoZzNFdERzRGN5NXl2bnlvX2NKU2xGcU1SeXV5Sy1XcFU0MWVfZkpydmdPSHVPbDZSTFp4d1lwejRNVjZIUnA4X05pTERSNFJFY1M?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "투표지 부족 수사 속도…송파·서울 선관위 관계자 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/422/0000878013",
+        "title": "헌재, “조카는 국가 폭력 재심 청구권 없다는 현행법은 위헌”…헌법불합치",
+        "link": "https://n.news.naver.com/mnews/article/032/0003454083",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'국민의힘 입당 지시'…95세 이만희 신천지 총회장 구속",
-        "link": "https://n.news.naver.com/mnews/article/comment/422/0000878013",
+        "title": "인천·부산해사법원 임시청사 부지 선정…2028년 3월 개원 목표",
+        "link": "https://n.news.naver.com/mnews/article/comment/032/0003454083",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법원 \"檢, 내란 가담 의심\"‥특검, 심우정 정조준",
-        "link": "https://n.news.naver.com/mnews/article/056/0012205552",
+        "title": "개표소 진입 막은 ‘성조기 여성’… 경찰, 업무방해 혐의 출석 요구",
+        "link": "https://n.news.naver.com/mnews/article/056/0012205579",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울시, '글로벌 문화 특파원' 첫 운영…영국·헝가리 13명 선발",
-        "link": "https://n.news.naver.com/mnews/article/comment/056/0012205552",
+        "title": "서울 70살 이상 어르신 무료 버스 타나…시의회 조례 통과·공론화 시동",
+        "link": "https://n.news.naver.com/mnews/article/comment/056/0012205579",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"자식은 쫄쫄 굶는데\"…술집·PC방서 긁힌 '아동 급식카드'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005302518",
+        "title": "이상일 용인특례시장 “삼성 최고위층 ‘용인반도체 지방 안간다’ 확답”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004634621",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-24 21:54"
+  "updated": "2026-06-24 23:06"
 }
