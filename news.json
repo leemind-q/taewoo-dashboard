@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "메타, 자체 브랜드 AI 안경 첫 출시…299달러부터[모닝폰]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006313418",
+        "title": "100년 묵은 정유 공정 상식 바꿨다···'분자 정유' 가능성 열어",
+        "link": "https://n.news.naver.com/mnews/article/018/0006314165",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“공공 AI를 잡아라”…IT 업계 주도권 각축",
-        "link": "https://n.news.naver.com/mnews/article/comment/018/0006313418",
+        "title": "AWS 맷 가먼 CEO와 만난 크래프톤 김창한…'로봇 두뇌' 동맹",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006314165",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "네이버 \"정부 전용 AI 인프라 짓겠다\"…공공시장 승부수",
+        "link": "https://n.news.naver.com/mnews/article/029/0003033533",
         "source": "네이버 뉴스"
       },
       {
         "title": "100년 된 정유 패러다임 바꿀까...“끓이지 말고 거름망에 걸러요”",
-        "link": "https://n.news.naver.com/mnews/article/009/0005697981",
+        "link": "https://n.news.naver.com/mnews/article/comment/029/0003033533",
         "source": "네이버 뉴스"
       },
       {
-        "title": "끓이던 원유, 값싼 막으로 분리…에너지·탄소 30% 넘게 줄인다",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005697981",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "100년 묵은 정유 공정 상식 바꿨다···'분자 정유' 가능성 열어",
-        "link": "https://n.news.naver.com/mnews/article/029/0003033519",
+        "title": "두부 비지·치즈 유청, 단백질 구슬 만들어 공기중 CO₂제거한다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014024748",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "호남·충청 반도체클러스터 가시화‥부동산은 \"닥치고 공급\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zTFZITU53TlJvLWxaLUhVckV1MUhNN0loWUpnRVlIQndpLXVLdWFwUTFVMUZrYWpKdklvQVVWNUVacGR5RVQ4RThqTjc2VDZNcV9GazJrc3FrdmdhU3Q3M05TVHBTVDhTbDlkYW5ib2pSNF9CaWRmcA?oc=5",
+        "title": "전남광주 반도체 新공장 투자, 업계는 당혹스럽다 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdkZiM09oU1lRdmNFODRlZ0h1ODk5OElITXZoX1ZaZGp1UkZHa1RsOTQ3MGpRVE1XdWFiMC1LblJ0Y2FXSGdTMXZkNktSZW54UTJyVGpB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"이게 다 삼전닉스 때문\"…전세계 반도체 1조달러 증발 '뜻밖의 이유' - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NnBsdG1BUm9sRE5SdkZCQmNtZGlVbGpRaW9XV1p5Z1oyc01vbG1QZklxS2owM19leWI2TGtFcUtvT1JJV2xoUUF2aFZ1TEhFeVdDTFZhejZveDBXWGh2NDNYZ3FPLWRO0gFuQVVfeXFMTXB6dGE3eDFMc0Y0dHdLXzJkX0FYajd3N3d6S0YwY19ZZE4xRE9zZWstZWpqZVNIYUl3a1cyQzBOV2NwWUdYSkNrZTFtR2tEaVJIV0RwQTdRMXd4SjdHMDFDa2NWUHVVUzNKQXZub1E?oc=5",
+        "title": "어쨌든 AI·반도체…부자들의 주식 포트폴리오 열어보니 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFU3Z6V3dJVG80Y0t4MHVaVVFKTS1XNWYyTzR3aUNoVVQwOEhfakJYRmZ1VWx0V2JRT3NPT1JuaGVEaEFQU09BSlhZdU1FaDk4cFFsVg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "하루 새 '910포인트' 폭락한 코스피‥반도체 반등 가능할까? - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEUDVoRnF1clRzbmVOcUh6N21oWURDanpFb25aUnJVa2RaREIzNGJhYTlEOEtHZFlBQndJS29tOEY0NklmRml2MGRIOXdCTUM5clR6MkpVa2pOdERIUjdNYm44dmhCbHFoci00SGpDakk3RkkwQk9IaQ?oc=5",
+        "title": "\"반도체 유리기판, '유리급 기판'도 선택지\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYnU3SlQ4bFdnRlNaOVg3TXg1SzJLTnNDbzZ1ckNWeE5zR285V3hjVnF3YVh1U2IyLXNYMm9Yb05xa3RocDhPMkd4SDV4ak45ek16NHF3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 극한 쏠림의 결말?…닷컴버블 돌아보면 미래가 보인다[머니닥터 긴급 진단] - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XTk9QZnJXNWdwbnE1UXVlYnVHc2ZwVmMxMEswdnM2WnVyb3N6ZG9mU3YydDR6bE13OXg0UGZpeTRiZG1OWmNHQVVOdnNZUnJBNnc?oc=5",
+        "title": "[단독]\"반도체 다음은 로봇\"…이재명 정부, K로보틱스 육성 청사진 내놓는다 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGMFFOWUMzTVBobzBDWXRJZzVoT3ozSHg3Zjh2MjZXSTQxcVFtNGJJUTYyR1AzT19CaDlsa2ZpRHhfdjVabUNTSFdIWnQwSTcyb2tpTGp1OVE0V0FDTWk2bA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "김용범 “부동산 대책? 닥치고 지어야”…반도체 클러스터는 “수도권 포화” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YM2pFUzVzRDMzQ09QZDZocHMtcmpMZkNRUjZ3SmU4a1N3T0lCZm02b21fRV8wNzVNQVp6TmZwUllWYmxTRi1sdFViSFkwd0g5d1hsQjAwT2pYd9IBX0FVX3lxTFBwTTZubDVaREM2MjV1R2tRd2VDZXhLYlVad3pGeTBfdjlQblFCVHh1WWR2T29jNk5SMUFuZk5EUFRVXzk4SC15eG1kX0wtUm9CdC1tTE5mOWhsYlhQU3Aw?oc=5",
+        "title": "반도체법 '수도권 배제' 삭제…경기도 정치권 환영 목소리 - 인천일보",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMkpmcVJuRF9TRFNyZFltcnV6bEt1cGNEczlOQV9KODgwRWZfTGUtVVkxMnNxU1NoUFZ5aEJHSmoydUcwVHZGb2FLaUdwMjRZV0MxM1pILTNyUkNRbmZQTy1vRlhVd0RYZGRBTkNFWVU?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "부모가 쓰거나 술·담배 구매까지…결식아동 급식카드 관리 허술",
-        "link": "https://n.news.naver.com/mnews/article/028/0002811078",
+        "title": "올해 고속도로 사망자 52% 늘었다…2차 사고는 5배 급증",
+        "link": "https://n.news.naver.com/mnews/article/014/0005538975",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최교진 “시도교육청 교권보호 전담조직 신설은 바람직”",
-        "link": "https://n.news.naver.com/mnews/article/comment/028/0002811078",
+        "title": "‘투표지 부족 사태’ 합동수사본부, 선관위 직원 12명 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005538975",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'이 대통령 명예훼손' 모스 탄 교수, 오늘 경찰 조사",
-        "link": "https://n.news.naver.com/mnews/article/022/0004138027",
+        "title": "학부모 98% \"미성년자 스마트폰 제한해야…유해물 노출 우려\"",
+        "link": "https://n.news.naver.com/mnews/article/056/0012205665",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'학폭 재판 노쇼' 피해자 유족 재판 재개 요청에 법원 \"소송 종료\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/022/0004138027",
+        "title": "최교진 \"시도교육청 교권보호 전담조직 신설은 매우 바람직\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/056/0012205665",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘당근’서 구한 청소 알바, 현관문 열자 흉기 꺼내들었다",
-        "link": "https://n.news.naver.com/mnews/article/056/0012205610",
+        "title": "특검, '내란 가담·수사 무마' 심우정 전 검찰총장 피의자 조사",
+        "link": "https://n.news.naver.com/mnews/article/032/0003453999",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-24 16:24"
+  "updated": "2026-06-24 18:18"
 }
