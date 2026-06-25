@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 독자 AI 첫 제조 현장 적용… AI 에이전트 실증한다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000938530",
+        "title": "IBM, 세계 최초 0.7나노 칩 기술 내놨다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004635075",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위 “JTBC에 월드컵 시청 차질·비정규직 피해 없도록 당부”",
-        "link": "https://n.news.naver.com/mnews/article/comment/469/0000938530",
+        "title": "오픈AI, 첫 자체 AI칩 ‘할라페뇨’ 공개…“블랙웰·TPU와 대등”",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004635075",
         "source": "네이버 뉴스"
       },
       {
-        "title": "IBM, 0.7나노 반도체 기술 첫 공개",
-        "link": "https://n.news.naver.com/mnews/article/023/0003984014",
+        "title": "SK텔레콤 '독자 AI 모델' 첫 제조업 현장 투입…AX 상용화 초읽기",
+        "link": "https://n.news.naver.com/mnews/article/030/0003441247",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"에이전틱 AI 시대\"…AX 국가전략 서둘러야(종합)[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/comment/023/0003984014",
+        "title": "‘그린닷’ 대신 ‘AI탭’... 네이버, 8년 만에 검색창 교체",
+        "link": "https://n.news.naver.com/mnews/article/comment/030/0003441247",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 대화형 검색 'AI탭' 정식 출시…모바일 검색창도 바꿨다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002811397",
+        "title": "대통령 자문기구들 공동 심포지엄‥AI 국가 전략 모색",
+        "link": "https://n.news.naver.com/mnews/article/016/0002661214",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "이 대통령 “전략사업 다극화”…이재용과 ‘호남 반도체’ 최종 논의 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUVItd2dnY2RqOWtnaUgzZ0tEQjgxeTI4cHJYNEJrQzJBVlUwem1RQVBtcnlYVXRhZGhVSlFkLU1lYU1QQ3pUV3JyVWh2aHp6YjM2cUxwOTJPNWc2WkVtQU9XZjFDX01LSDBnX0NXeHFqbDJM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"SK하이닉스 ADR 상장은 단기 이슈…하반기에 반도체 쏠림 완화 전망\" - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UY2RzZGlXYVA4WkVLRWZTNV9ibGJ2NWxWcVZyN1hoakpBa0psMDdOcThEY05VZ2VNRHJhYlhNLUVJUTQyS1RuRURydGt2LW9QSGgwaEIwRVpmM09vRzZSctIBeEFVX3lxTE5Wc0wtX1Mwenk5WWp6M054RG15WWpxYUFrN2hQWEgxM0hhbWdqZnl0VlluQ3czRExHeWVOSDFpUGRxQVdBemFJZ3JDc2k2NmVMVXJzaFhoQ3NHTnlvcmotSE1wNjl5Rmd5NVNvSTZJem4zaXRzaDdlRg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "美국무차관 “세계 최고 반도체 메이커 있는 한국과 협력 기대” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5MXBQQjRKZWd3UGRaVU1fcGIzWVdMRXZ5WXRHLTc1TTkxcFlZdVM3X0FnR01zcW5jYU1zZkxsOG16QjlfT2lna0N6MmZjWUU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "구미시 “반도체 공장 우리에게 달라” 평당 1000원에 땅 내놓는다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tTTlJWVBaRjBXM2d1UTROVDlRdF93RlBzYkd2ejJ0SDlWYUlGRGl0MGdGNWhJR3hfVS0xaGRFYXJkeThSRlp2TzUwMWxaNW8?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“평당 1000원에 싸게 내놓을테니 ‘여기’로”···반도체 부지 유치 파격 제안한 구미시 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpWW1lOXRzYTYwMjFneWpubmhYaWlLTGh1T2h5cUxZQnFYRlRSd1VHMDgxVzRKX3UyQzFnTlUzT094QnduejZkdWx5clZvY1RUTEFFaFJGcDZBd9IBX0FVX3lxTE55SV9QTzVqOWlZOWY3SFIyV1I4XzFab0k5UTdtMmtDbDVoRzR4UWhYM2pVNEFUcHJZTUduWVo4WENPcFdtd0U4SVJ0SjIyWTBWbEFyd1hyWFo2VUpvUFJj?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "데이터에도 '직관'이 필요···저비용 고품질 AI '비결'AI프렌즈, 실용인공지능 컨퍼런스 산학연 '북적' - 헬로디디",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoNS10bUNFUkN2MDVNWDFrWE1ZZmRZSmhiaEJqdEFFVERfUDVNZHFzZldtcnBhM19QOFVvQTFHbVFXclhHRHZIeF8xU1Y0dXBKbHA0MzV6NGlzRG0xaVdxZVRTSU5PcHFQZmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "농진청, 인공지능·로봇 활용 축산 기술 상용화 시동...‘AI 응용 제품 신속 상용화 지원사업’ 과제 선정 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HcElWYUdHZVZNaURvTXpiZlpjS2VrRG55TzdVVS1McDgwUWJLb014UEJLLWhqWmh6LVFDdDNYR3VqRDY2T3p2UXo3UHhwTXVNOEFjeDVsTDdNNjhnT0w0Zng3OS1tazg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 전환, 울산경제 영향과 대응력은…한은·울산상의 세미나 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LckR2WUs3SG4wWDlFclBDSjRlOUF0Tk1WOXZiUUdzMTNNVlJVWmZ3bXFoY18yd0VFRmNLUk1VZF80dVFNNUItWm5ManRpSXFlZnhSMGVlYjN4WWPSAWBBVV95cUxOS3o2V0VaanJHVXB5MFpHeUExOU5US0VfSFZiUmlfWERJWTNuRU16d05DeW5rWGdhTWZaT01KX2FyX0d0aTAtc3d5Y2t5cklsZVJnRVNxcG5RYlhuaENiYVA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국가통계를 AI 학습자산으로…데이터처 심포지엄 개최 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yWE5pNF9hdU80b19vSE4ySklvRlJnQlRmRlZZSi1BNkZrV3RUVUhEV1Vid2RjV0RJLVFXLXN4ZHBOSU9wZUFIR3pvekppZDZOXzViLUtBOXJXYmpz?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성의 AI 성과 측정이 놓친 것 [슬기로운 기자생활] - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BTU04bVczUEo4WktTNGE2bEZIZmJMOThlcHgydThRMGY5ZHRpVVJhYU1tM0ZycnY4Sm9vQUE1bUtZQlNmUWZDdy0zQ3BFSlZlVEJmbWZDcnA3OG41N2NRUVBfMHZLZw?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "수도권 최대 60㎜ 소나기, 곳곳에 우박...\"우산 챙기세요\" [날씨]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000112610",
+        "title": "안개·운무 없는 한낮에 어선·LPG 운반선 충돌…1명 사망·2명 실종",
+        "link": "https://n.news.naver.com/mnews/article/437/0000497988",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[9] 교사가 참아내기 힘든 ‘참교육’[서아람의 법스타그램]",
-        "link": "https://n.news.naver.com/mnews/article/comment/666/0000112610",
+        "title": "경기신보, 고객자문위 개최…중소기업 지원 방안 모색",
+        "link": "https://n.news.naver.com/mnews/article/comment/437/0000497988",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'신도 5만명 입당 지시' 이만희 신천지 총회장 구속",
-        "link": "https://n.news.naver.com/mnews/article/028/0002811427",
+        "title": "尹 내란 우두머리 항소심 재개…특검 \"사형 선고해달라\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016159946",
         "source": "네이버 뉴스"
       },
       {
-        "title": "학생 줄어도 중고교 교사는 늘린다…\"고교학점제 뒷받침\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/028/0002811427",
+        "title": "서울시, ‘러브버그’ 발생 대응에 드론·미생물 총동원",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016159946",
         "source": "네이버 뉴스"
       },
       {
-        "title": "기장 앞바다 어선 충돌…60대 어선 선장 사망",
-        "link": "https://n.news.naver.com/mnews/article/023/0003983889",
+        "title": "영주 SK스페셜티 화학물질 누출 오인 소동… 20분간 흰 연기, 확인 결과 수증기",
+        "link": "https://n.news.naver.com/mnews/article/003/0014028956",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-25 15:24"
+  "updated": "2026-06-25 17:31"
 }
