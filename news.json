@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "IBM, 세계 최초 0.7나노 칩 기술 내놨다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004635075",
+        "title": "[단독] SKT 보유 AI 지분 3억弗 인수…美 AI컴퍼니 속도낸다[시그널]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004634547",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 첫 자체 AI칩 ‘할라페뇨’ 공개…“블랙웰·TPU와 대등”",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004635075",
+        "title": "SKT, 제조 현장에 독자 AI 파운데이션 모델 적용",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004634547",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SK텔레콤 '독자 AI 모델' 첫 제조업 현장 투입…AX 상용화 초읽기",
-        "link": "https://n.news.naver.com/mnews/article/030/0003441247",
+        "title": "우주청 “누리호 5차 다음 주 총조립·제2우주센터 10월 확정”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003033610",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘그린닷’ 대신 ‘AI탭’... 네이버, 8년 만에 검색창 교체",
-        "link": "https://n.news.naver.com/mnews/article/comment/030/0003441247",
+        "title": "산불, 한 달 전에 잡는다… UNIST, 산불 예측 AI개발, 재난 대응 혁신",
+        "link": "https://n.news.naver.com/mnews/article/comment/029/0003033610",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대통령 자문기구들 공동 심포지엄‥AI 국가 전략 모색",
-        "link": "https://n.news.naver.com/mnews/article/016/0002661214",
+        "title": "네이버, 검색창에 AI 심었다…'AI탭' 정식 출시",
+        "link": "https://n.news.naver.com/mnews/article/029/0003033646",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "이 대통령 “전략사업 다극화”…이재용과 ‘호남 반도체’ 최종 논의 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUVItd2dnY2RqOWtnaUgzZ0tEQjgxeTI4cHJYNEJrQzJBVlUwem1RQVBtcnlYVXRhZGhVSlFkLU1lYU1QQ3pUV3JyVWh2aHp6YjM2cUxwOTJPNWc2WkVtQU9XZjFDX01LSDBnX0NXeHFqbDJM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독]美 “韓, 반도체-핵심광물 등 공급망 안정화의 핵심 파트너” - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbkhEYkE5Sy1PM1BUMU5LRm8yNlFqaVpYS09yeVVPeElaNl8yLW1BWkd6aS0zajFZQzdyYk1qZWEwYk9TQWhWVTZvZmI5Z3BaNC1WbktCalhNRDZuUnk0R1N3WjF2bUFxNFotVDF1T09ZSVHSAWZBVV95cUxNZzB3SUZBMzdWR3UtaHo1bHp2Sy1hMURkN0l0TDh2ZTZZZzBmbFlfTkd3cHlhOUdNLTVreUozQU5la3FZYkJUZUtmaEdRZC1VZmVsbDVSdmxKLWR0Q2NtVGFQeFNET1E?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "아이펄스, 반도체 개발 위해 CHIPS 프로그램서 2.5억 달러 지원받아 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weWNadjFaRUdWN0thLVI3bnZTT0xNd1A3U2M1RXNGU0lta0MtbV9vaFFVVG1laE0zWHRPbHpURTh4SzFVaGg0Q3BLWTFEc3pUSWVzRnU5a2NCLWQ0c1dHZ3NkNVRVbzhrX3NxZ0dxcFc5RDRuRVRF?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjNTh4Qm1abDVFc05aZzVwN3g0SnJlMHBvcVFsRFB3Y1lmMEkxWDBVZ1NQam5PMXI1bkhjZ0ZWVHI4eWd3LUpQWlU1Ym1rVVE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "구미시 “반도체 공장 우리에게 달라” 평당 1000원에 땅 내놓는다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tTTlJWVBaRjBXM2d1UTROVDlRdF93RlBzYkd2ejJ0SDlWYUlGRGl0MGdGNWhJR3hfVS0xaGRFYXJkeThSRlp2TzUwMWxaNW8?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "데이터에도 '직관' 필요···저비용 고품질 AI '비결'AI프렌즈, 실용인공지능 컨퍼런스 산학연 '북적' - 헬로디디",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoNS10bUNFUkN2MDVNWDFrWE1ZZmRZSmhiaEJqdEFFVERfUDVNZHFzZldtcnBhM19QOFVvQTFHbVFXclhHRHZIeF8xU1Y0dXBKbHA0MzV6NGlzRG0xaVdxZVRTSU5PcHFQZmc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"인공지능 경쟁, 국가 대항전 양상… 칩·인프라·모델·플랫폼 아울러야\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0REdXJUNDJ2SkpiVlQtRng5bTVVMm1jSjRCQmZpS3pPYlk4bkh1VGJ6ckZ0QVpibi1GS0ZVb1N5ZUlFSGlTb09Ud2ZBc0VjWlN1YWpISFlfVGRxRWF3bVMyb0JZMWhnbS1TczB3c1l6TU1TWUg1R2lHVkdfVzhiWWVvNTFqd3BmOWk2VUZ3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“GPU만 늘린다고 될 일 아니다” … AI 데이터센터 좌우할 ‘빛의 경제학’ - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udUNjYVExU3A5czlPaUJvV01VYnZyb2gwWmNtdE5pS0hwWGNGX1gyNjNsYWdoWTEtOTdnTFlHUHAwb1BMWm1SYnU5bTJjWWNhX25yMm5R?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "농진청, 인공지능·로봇 활용 축산 기술 상용화 시동...‘AI 응용 제품 신속 상용화 지원사업’ 과제 선정 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HcElWYUdHZVZNaURvTXpiZlpjS2VrRG55TzdVVS1McDgwUWJLb014UEJLLWhqWmh6LVFDdDNYR3VqRDY2T3p2UXo3UHhwTXVNOEFjeDVsTDdNNjhnT0w0Zng3OS1tazg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 전환, 울산경제 영향과 대응력은…한은·울산상의 세미나 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LckR2WUs3SG4wWDlFclBDSjRlOUF0Tk1WOXZiUUdzMTNNVlJVWmZ3bXFoY18yd0VFRmNLUk1VZF80dVFNNUItWm5ManRpSXFlZnhSMGVlYjN4WWPSAWBBVV95cUxOS3o2V0VaanJHVXB5MFpHeUExOU5US0VfSFZiUmlfWERJWTNuRU16d05DeW5rWGdhTWZaT01KX2FyX0d0aTAtc3d5Y2t5cklsZVJnRVNxcG5RYlhuaENiYVA?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "안개·운무 없는 한낮에 어선·LPG 운반선 충돌…1명 사망·2명 실종",
-        "link": "https://n.news.naver.com/mnews/article/437/0000497988",
+        "title": "25일 오후부터 강원도 전역 ‘소나기’[날씨]",
+        "link": "https://n.news.naver.com/mnews/article/087/0001201303",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기신보, 고객자문위 개최…중소기업 지원 방안 모색",
-        "link": "https://n.news.naver.com/mnews/article/comment/437/0000497988",
+        "title": "교육부, '교권보호국' 대신 교권보호'과' 신설 추진",
+        "link": "https://n.news.naver.com/mnews/article/comment/087/0001201303",
         "source": "네이버 뉴스"
       },
       {
-        "title": "尹 내란 우두머리 항소심 재개…특검 \"사형 선고해달라\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016159946",
+        "title": "어선 침몰사고 실종자 야간수색…해수부 장관 \"가용자원 총동원\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000187430",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울시, ‘러브버그’ 발생 대응에 드론·미생물 총동원",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016159946",
+        "title": "포항시, 6·25전쟁 제76주년 행사 개최 '숭고한 희생' 기려",
+        "link": "https://n.news.naver.com/mnews/article/comment/654/0000187430",
         "source": "네이버 뉴스"
       },
       {
-        "title": "영주 SK스페셜티 화학물질 누출 오인 소동… 20분간 흰 연기, 확인 결과 수증기",
-        "link": "https://n.news.naver.com/mnews/article/003/0014028956",
+        "title": "김문희 평가원장 재산 98.8억…반포 아파트 보유",
+        "link": "https://n.news.naver.com/mnews/article/214/0001507812",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-25 17:31"
+  "updated": "2026-06-25 20:04"
 }
