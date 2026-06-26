@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오 노조, 29일 2차 파업 계획대로 진행…\"합의할 수준 아냐\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006315944",
+        "title": "국가 R&D 예산안 일단 비공개로",
+        "link": "https://n.news.naver.com/mnews/article/374/0000518468",
         "source": "네이버 뉴스"
       },
       {
-        "title": "포시에스, 배당성향 40% 목표…\"주가 저평가\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/018/0006315944",
+        "title": "\"알뜰폰 요금 더 낮아지나\"…정부, 전파사용료 감면 50→90% 확대",
+        "link": "https://n.news.naver.com/mnews/article/comment/374/0000518468",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"'연구하려면 지방 가야 한다'는 말 나와야\"…최상위 계획에 지적 쏟아져",
-        "link": "https://n.news.naver.com/mnews/article/138/0002232232",
+        "title": "\"채팅·앱으로 요금제 해지\"…방미통위, 통신 해지 절차 개선안 발표",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232242",
         "source": "네이버 뉴스"
       },
       {
-        "title": "송경희 개보위원장, G7 개인정보 감독기구 회의 참석…협력강화",
-        "link": "https://n.news.naver.com/mnews/article/comment/138/0002232232",
+        "title": "전자문서·전자계약 1위 포시에스, 기업가치 제고 계획 공시",
+        "link": "https://n.news.naver.com/mnews/article/comment/138/0002232242",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'배그' 세계대회 'PNC 인 서울' 개최…28일까지 16개팀 격돌",
-        "link": "https://n.news.naver.com/mnews/article/003/0014031056",
+        "title": "네이버, 대화형 검색 'AI탭' 정식 출시…모바일 검색창 개편",
+        "link": "https://n.news.naver.com/mnews/article/003/0014029929",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,25 +39,35 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“한국에서 가장 핫한 고교”…美 NYT가 집중 조명한 곳 어디 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tV3JwRDhTLUZfRF9PNFQ4eFRIaTNsbUlVME9ESloxS2tuTjF6OXJJbVhXbHY2cm9PcWFRdDZ5ZlNEU1hEandEUDNJZU80Qlk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“다이소 가격으로 땅 팝니다”…구미시, 반도체 공장에 평당 ‘1000원’ 땅 분양 - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iaUhSRUtHMTMzUU9fMEt3MExlY3p0cEdVajFRa1ctR3BnS1FIV3NEOHZULXNqa3JIS2xfdzdDc2U5S3dOSlkxMEs3clZJZEpkZHBCWg?oc=5",
+        "title": "[단독] 정부, 반도체 물 부족 대책 있나… 호남 농업용 저수지서 끌어올 판 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yYkdDMm5PYXR2blByNkVVM19sbndfTk5lM0t3VmlTVk1JS1RMNEFIanYtLXZlTXZtZUlBNDV2NkpUeXhPMkdxYUF3RXM0Wmc?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "“I♡최태원” 했던 구미, 이번엔 “1000원 부지”…반도체 유치 잔혹사 끊어낼까 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00VGk2ckZKdl83ZHBCajF5NnNBZ3AyZVYtRzVZLVo2UTlsdEpGbXhxMkM3bzlPWkptX1BBOHZEZDBLMGdxYTBVTDFSVmNzdUU?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "“다이소 가격으로 땅 팝니다”…구미시, 반도체 공장에 평당 ‘1000원’ 땅 분양 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iaUhSRUtHMTMzUU9fMEt3MExlY3p0cEdVajFRa1ctR3BnS1FIV3NEOHZULXNqa3JIS2xfdzdDc2U5S3dOSlkxMEs3clZJZEpkZHBCWg?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "방사청, 방산기업과 AI 경쟁력 강화 해법 논의 - 굿모닝충청",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzeVhuSlB5WE5YQ3pLY2pyT1YtYTBUa2xUbFZpbVl6eVVna2tiaGZWOFRWb3l5cl9wbnJrWFZTSVVpUWs1VGZJb2N4anoxZGtpdFNlS1ZWR2dWV3QtUW1veDYxbTFGMVFSMm14Z2szb3g0UQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "환자 1만명 진료에 AI 활용했더니…진료 질 높였지만, 치료 효과는 미지수 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2ZFMHFKMEtxdGNwb0s5MGxQUTkzSm8xQXI0aU1jY0hORTVPZS1tTTVHWkstYTdyRVZSSnIyTjc1VGVRdnlVZC10RC11Wnc2X2M2V2Q4U3lfNml3MXF3Ti13b0FZY2RtbUVkSDhqemtsa2tpNzBUTHVmRmVuZTJXRVlpbw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능이 '디지털 동료'가 될 때: 직장 내 새로운 경쟁 구도. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHJPUjQwYVZRQWJHZVlfN0VGa25ZT2VsMDBaVmZ2ZndvaHlELU1fS1VWcG5Nek1Ic3owZnBvTzRaVjZYS1Z6VU1WUXBoTERYeTdReFgwN2J2WlFjU25rQUZZeGNJa1B5TmdmeHpGQXk4NnFEY1lYbE1uaHdXUXNJQlRuY0ota2NFNVYtVmZycmVkYXM?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "\"AI에이전트 시대, 기존 인간 중심 보안 체계론 ‘파국’ 불가피\" - 시사저널e",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JVjNxYU10MERkQVpUX3RiWkJEU3pQNlpHQ3N4RnpZeV9GVTR0T0tJSjJSejRXWXlwNkU2T1pyRHZwY3gwNzRpa1NOOUtLejJES0lpalpPNk9wQ2ROWXNyd1YyOGlfanBGZE9jSkJLeDljQQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "“호국보훈의 달 맞아 AI 로봇이 임시정부 역사 해설사로” - 로봇신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01N2FOaGNNa2t0WTJLT0l6bDdBOHJWaGYzdl9NYmotejN4ZjNIckxDT3hVMWcxczJETTRVWDF1Wmx4U2lxWnNvdlB2WHNubWRaN1V6N2QzanF4bkoyQkhQM3lGd2tRbzRZajR1RQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "관세청, ′인공지능(AI) 정부 발전 유공′ 대통령상 수상 - fnewstv.com",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tVXlhRDNFSXlSajBtbzRPYlBMTWg2cjEwYlY0bVJFTy1NOEhfcURpOWNLOGRFa3Q1RnFZWF85NkliNUpibVhGSVY2SGpzaS0xWGxDRmlYRlc5X0p1UkNvYTdxbm04a3kwRDdfTkdlM1E?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "AI로 딥페이크 성범죄물 찾고 지운다…정부 ,삭제·차단 공동대응",
-        "link": "https://n.news.naver.com/mnews/article/014/0005539771",
+        "title": "'참교육' 인기에 교권 힘실리나‥'교권과' 추진",
+        "link": "https://n.news.naver.com/mnews/article/214/0001507905",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최태원·노소영, 파기환송심 2차 변론 출석…재산분할 공방 재개[뉴스1PICK]",
-        "link": "https://n.news.naver.com/mnews/article/comment/014/0005539771",
+        "title": "'이재명 명예훼손 혐의' 모스 탄, 비공개 경찰 조사",
+        "link": "https://n.news.naver.com/mnews/article/comment/214/0001507905",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 모스탄 비공개 소환조사…변호인단, 출국정지 연장대비(종합)",
-        "link": "https://n.news.naver.com/mnews/article/666/0000112852",
+        "title": "“선관위 직원, 경찰복 입고 탈출”... 허위 영상 올린 40대 검거",
+        "link": "https://n.news.naver.com/mnews/article/088/0001016403",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광주서 중앙지방정책협의회, 통합 출범 상황 공유",
-        "link": "https://n.news.naver.com/mnews/article/comment/666/0000112852",
+        "title": "‘평택 제빵공장 끼임 사망’ 항소심… 법인 벌금 20배 늘어 20억원",
+        "link": "https://n.news.naver.com/mnews/article/comment/088/0001016403",
         "source": "네이버 뉴스"
       },
       {
-        "title": "사기 재판 중 미국 재무부 문서 위조해 법원 제출한 일당 기소",
-        "link": "https://n.news.naver.com/mnews/article/421/0009025328",
+        "title": "'기업유치·꿈이룸바우처'…원강수 민선 8기 원주시장 퇴임",
+        "link": "https://n.news.naver.com/mnews/article/277/0005782048",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-26 18:10"
+  "updated": "2026-06-26 20:18"
 }
