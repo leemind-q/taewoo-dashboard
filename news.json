@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "IBM, 반도체 '1나노 벽' 깼다…파운드리 패권경쟁 지각변동 올까",
-        "link": "https://n.news.naver.com/mnews/article/055/0001367427",
+        "title": "중소 알뜰폰 숨통 틔운다…전파사용료 감면 90%로 확대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016160935",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’ 공개…엔비디아 의존도 낮춘다",
-        "link": "https://n.news.naver.com/mnews/article/comment/055/0001367427",
+        "title": "나라스페이스 등 韓 우주기업, EU '우주 외교 사절단' 간다",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016160935",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, SK하이닉스 美 'AI 컴퍼니'에 7384억원 투자…“신규 사업 기회 발굴”",
-        "link": "https://n.news.naver.com/mnews/article/119/0003104807",
+        "title": "개인정보위, 프랑스 G7 감독기구 회의 참석… AI 시대 글로벌 공조 강화",
+        "link": "https://n.news.naver.com/mnews/article/023/0003984244",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독]“이제 검색을 대화로”… 네이버 ‘AI탭’ 오늘 정식 출시",
-        "link": "https://n.news.naver.com/mnews/article/comment/119/0003104807",
+        "title": "‘배틀그라운드’, ‘PNC 2026 in Seoul’ 그랜드 파이널 개최",
+        "link": "https://n.news.naver.com/mnews/article/comment/023/0003984244",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT ‘새 먹거리’…피지컬 AI로 공장 노린다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002811334",
+        "title": "카카오-KT클라우드, AI 안전 생태계 구축 협력",
+        "link": "https://n.news.naver.com/mnews/article/008/0005377585",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"영남 역차별\" \"광주 몰빵 안 돼\"… 호남 반도체 놓고 전국이 갈등 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3cxU3QzUXFIQVFxVzB3SlRvakhzbHNSVzJ0YWhDWUdrWVVOT3dUR19NRkNkZ1ZBbnVMRl9sTFhiYXBkNEpJSmZzYXc3bHpSYnV3czdDV0xqZ2MyQW1wMk9Yd0NLMDRaRDZ3SDg4UGEwOEx1SmtkU3V3Mk5SMlVGa28wcklHdw?oc=5",
+        "title": "호남에 초대형 팹, 충청은 패키징 허브… 반도체 클러스터 확대 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WeHE4T0ZiaEtuY0FOUTlPOHhJc05wdll4Sjl0VzlfMW91UVM4RDNKSHdZYTZXQkgzQjZNVC1KTXpHREd1OGlhTXBsZXhEdkpsbi1VejQtMFdoMFd6TVg0TGZRS18wblB2ZFJiUUNrVWdUSkpkSVHSAWZBVV95cUxOVk0tRUIwaGpqbkhpRldkT1NvTVByaTNscHZTNFN1dXMycFByOVhqcTl6OUFNclpraGpEMjFIdk1yR0FXWGdmbmxXOGt1ak9NSEE4SXlNbGpVTGFSOHpCUVlBSEprRkE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 미세화 한계, '3D 적층'으로 뚫었다…IBM, 0.7나노 시대 개막 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03YjMxZGtTb0VhZklWNVVPTUdGVmxNNzFGVlo2R2t4dkYyZjhteExmVXI3clQ0cTdaWXRqRnhTVFFLWUpLd3NOYTZhR3JIbnphYlpTODNB?oc=5",
+        "title": "코스피 장 초반 2% 넘게 하락…반도체 가격 '양날의 검' - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSzlKYXRJUGZEV2lFR0dOaDVzWTVQMjZ3UHNLbXpPc3RlNzhHcXZtRlJhbThIazMtUWhoN0lCWUtFb0dhXzBZRmFTV3cwRnkzMHVVZlNQNEhUWVk2a04yb1oyX2oxMUhZVmNISnVkcmQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "IBM, 반도체 '1나노의 벽' 깼다…0.7나노 칩 기술 공개 - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Lb3AtZV9KZHc5REhGLWZ5R2xNU0owSURiVWMtMnNFR0Rsdldub3hCaUhRSW1ZSVJnQkQtLS1NMGVHZ1JJUDd4dVROMk8xN2x1ZUZXeUNDcjFiR3lPRmhFTg?oc=5",
+        "title": "어느새 59%…반도체 쏠림에 변동성 세계 최고 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvWlozcjgxR0Z2b3NzQjRSLXRYZ21yeUgtaXkwYjN4OFVReEhlcXVlbGo0RmRJYmdJLVQ2WktVZldXWC1uSU5RcXB3bW1qUDg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "IBM, 반도체 '1나노 벽' 깼다…파운드리 패권경쟁 지각변동 올까 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QX0NyVGhFT0FORXdqblg2WUtPdVJzTk15WTNYanRXd1A3bDhFN2lwbGEzWTJURWpkQ21jeXM3TEphdUl5WU9QMTZuTmdvejQ?oc=5",
+        "title": "반도체 던지는 외국인에…코스피, 3거래일만에 '또' 서킷브레이커 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9odTI5SnQ5WFg0enNBenRkbmJFeVZEak02OWpSS2t5RU53NGNfUTB5aEVwUnBDTHMxUHd4c19ueHJHQWFZTFMyNkJNX2U2N0Fud2NBVmVCZ1dxQ196WENaNWc1OHVBTHBO0gFuQVVfeXFMTkdGSmJaZ3A3WjdSN05nY3hkbnZiS1RrUlFsTmRmMDg4Q3hDQmdPeW5qamNtRUVvMVdMWS1tcS05UnlZeHBvaDhjZXBQYjlUVWF5NU1tOGJjT2xEaWZfU1BCOWFjVmU5NmpEWllQREE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "동학개미 8조 베팅했는데…\"언제까지 반도체만 가나요\" - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jaG54Zzc4UlpQOXBxZjZsM0duVVFHZkYwbjEzNWt5QTFYUTlYMXZ5OVBFU1g5RVd3YUpFR3hObWh3UVFKRmZlbmhIbF82TzAtSzBDdXpudTk0QQ?oc=5",
+        "title": "반도체·데이터센터 투자에 1분기 건설공사 계약 23.4%↑ - SBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYjZpd2owdUs4U0szVklTUlhlV2JOWkRHeXdmdzd1UE4taklYaFEwVFhJWnV6Q0g4ZlFZNEpOVnBRQUhRazdLdjZla3YzZGlTRW1mMlRVV21HS1hta1RBQlUtYlBYNDRNcmc?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,8 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"인공지능 경쟁, 국가 대항전 양상… 칩·인프라·모델·플랫폼 아울러야\" - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0REdXJUNDJ2SkpiVlQtRng5bTVVMm1jSjRCQmZpS3pPYlk4bkh1VGJ6ckZ0QVpibi1GS0ZVb1N5ZUlFSGlTb09Ud2ZBc0VjWlN1YWpISFlfVGRxRWF3bVMyb0JZMWhnbS1TczB3c1l6TU1TWUg1R2lHVkdfVzhiWWVvNTFqd3BmOWk2VUZ3?oc=5",
+        "title": "AI 적극 도입했더니 비용 폭증…기업들 ‘가성비 숙제’ 푸느라 골머리 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91N05pZW16UFJRM051Vi1IUnFEWFk5c2pIV2ZDSU9vMkVnOVlVTzlFM0VmdUdZU3k3NThDaDJRVzE1UFRtLVd1V0R5RkhUUHh6XzR2Ykt5Nkwwd3NqR2g3Uw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 디지털의료기기 변경관리 계획서 심사기준 마련 - 의학신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80d2ljdEtfQWUxbTl5VzZ3TUlTV3A2aXY1VjJMbndBOExiNWxZVzR2UXJWZFF1UWxKOWJoWXd0UUZHVEJ2M2FDMGpUN3BxR2FzUXNUVlJuRkUxNk5CU1RZckZDSUZBLWNKSEE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 적극 도입했더니 비용 폭증…기업들 ‘가성비 숙제’ 푸느라 골머리 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91N05pZW16UFJRM051Vi1IUnFEWFk5c2pIV2ZDSU9vMkVnOVlVTzlFM0VmdUdZU3k3NThDaDJRVzE1UFRtLVd1V0R5RkhUUHh6XzR2Ykt5Nkwwd3NqR2g3Uw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"로봇 열어보면 일본산\"...일할 사람 없는 日 '피지컬 AI'로 채운다 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TRXh2QXllcWR5QXdSM2FjLTB6R1pxRFZjR3hWTnJKa2hoVVJKeXpWNVRIOFotYVdJLWMxMWFpYk1aZWtVOXFTY0JrYUp6RWh5elBaTkpKcHo5YkwxSVNjeFBaZkNscWw4R0JBSdIBckFVX3lxTE14WE9DRWl6N1dzY1FXR1MyYWo4MkppWk0yUXVYRXhpQnU3Wnp2NGVQQmxQWllBVS0xSFdDMGFxSDNsUjVPZjI3bzNpNXdDR3pqMkZ1QVhxR0d6emktTEFCczc4RS1XZzRxdzVuVGtWZ3M4Zw?oc=5",
+        "title": "강원특별자치도, ‘제28회 정보화 연찬회’ 개최... 인공지능 행정 역량 강화 - 강릉넷TV",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZ2lrWlJoWUdTR1hHNF9JdGd0U19pQW5EeHB5VTdhc1FHdTA3UV9PNi1WZldzOEYwcXJQcElMSTZ6SlZLOUZQbkFWOXlIeUZxZk0wWlRSV1A3OHFRbWtmNGwzWU14b1RCMVE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'경찰에 침 뱉고 욕설' 개표소 시위 40대 여성 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/421/0009022793",
+        "title": "합수본, 송파 선관위 연이틀 조사…투표용지 부족 대응 확인",
+        "link": "https://n.news.naver.com/mnews/article/448/0000622410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "7월부터 서울 지하철 전동 킥보드·대용량 배터리 반입 금지",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009022793",
+        "title": "부산 앞바다서 어선 침몰…선장 사망·인니 선원 2명 실종(종합2보)",
+        "link": "https://n.news.naver.com/mnews/article/comment/448/0000622410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서산 농가서 탈출한 늑대개 11마리 모두 귀환",
-        "link": "https://n.news.naver.com/mnews/article/001/0016158303",
+        "title": "[속보] 최태원·노소영 ‘재산분할’ 파기환송심 내달 24일 선고",
+        "link": "https://n.news.naver.com/mnews/article/001/0016159484",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부 'AI 딥페이크 분석 모델' 성범죄 대응 활용…관계기관 간 MOU",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016158303",
+        "title": "전동킥보드 들고 서울 지하철 못 탄다…내달부터 '제한'",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016159484",
         "source": "네이버 뉴스"
       },
       {
-        "title": "건보 재정 3.6조 투입…'중증·분만·응급실' 살린다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000938535",
+        "title": "“평당 1천원에 공장 부지 제공합니다”…반도체 팹 유치 위해 파격제안한 도시",
+        "link": "https://n.news.naver.com/mnews/article/009/0005699117",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-25 23:53"
+  "updated": "2026-06-26 03:59"
 }
