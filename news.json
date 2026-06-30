@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
+        "title": "카카오, 로앤컴퍼니·하나금융티아이와 법률 분야 전자문서 확대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016166505",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "\"참여만 해도 선물이\"…KT, 통신 멤버십 수상 기념 이벤트 진행",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016166505",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "이통3사 ‘정보보호’ 투자 22%↑…SKT 증가폭 가장 컸다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006319162",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "네이버·구글·카카오, 지난해 불법 성착취물 14만건 삭제·차단…전년보다 22% 감소",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006319162",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"케이블TV, 지역 발전에 필수…법적 지위·비용 분담 뒷받침돼야\"",
         "link": "https://n.news.naver.com/mnews/article/421/0009030755",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "휴대전화 개통에 안면인증 단계 도입...대포폰 고위험군은 개통 제한",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009030755",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"지역 발전에 꼭 필요\"…케이블TV 지역채널 역할 재조명",
-        "link": "https://n.news.naver.com/mnews/article/003/0014037998",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"김밥 보고 한국 왔어요\"...넷플릭스가 말하는 'K콘텐츠' 흥행 비결",
-        "link": "https://n.news.naver.com/mnews/article/comment/003/0014037998",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "불법촬영물 삭제·차단 14만건…딥페이크 대응 성과",
-        "link": "https://n.news.naver.com/mnews/article/437/0000498741",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "호남 800조 투자 발표에 삼성 반도체는 ‘어수선’… 중장기 청사진에 변수될 듯 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZW1xbnFxenBpRnV3UmViWlV3cG1taTJJcWxNd3Y2RzhqSDZqbk9OUUh4N2tOMzZnLUUtbzFiZzZ0NUZTMFpzckdPb0tINVh2cGxROC1NRFpJSkhEeWt5WDBnTlJsQkFGLU9UdFpQTEIzQUdEX0hhLXczc3VPTk4tS1d30gGWAUFVX3lxTE1oMUdkRW05dkhiXzMzaUVISTBOUktkZ2RZZHBNeDZRSEdwQkRpRTJnbFdfU29YR1JwMlZqREluQXowYmYwVlpyNldKYVVlby1hQ0JkaXVON2xRNHRNd2pBMWR2WnBXSllKclFvbkZiQkhSZEFoMTVIZFplczA5cXJzc0lsUlJVekNLZ3VIenFZZG9MVkJuUQ?oc=5",
+        "title": "호남 반도체 복합단지, 재생에너지라서 안 된다? [알고보니] - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veWhJWkdKRHhrX2Y0THhJaXVmcWRMcldadXgxbUg1ekdNNzIxUDRPS2I3akNPNjc4X1VVWVhJUHp5MVFsdkxRamxybk4taWFHRTVFSlplTlZQRmc5d2Vld2Vpa2xTcGxDN0dOOWdlUi1oRUhILXdtVQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체가 키운 곳간…화성·평택·용인 '세수 3조 시대' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5waW9UN05KSDk0QXZRWGxsZHc3SUNxcGZrbUp3R0NaUjUzMHl4UkhaQkFzUVN1empSSXA5enMzVEp5M1QzbWJyb2ZRUGxZNXM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "외국계 반도체 기업들, 한국 인재 ‘빼가기’ 혈안 - 이데일리TV",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pZU9oQmhHR1VnZEtDbEM0VVJESEY3YnppT3NMRFlhUGhIeTJTdWxXVVVFWldCdW9kWTMzMXVQbnc5RFpoOE5ISmh3RHI3amtvRjU5ZjFETGkyZndtWDhhT1g2RmxKOWZwRDVFVzFySk9GeXE3R25MbXA2aw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "민형배 전남광주통합특별시장, 첫 지시로 반도체·안전·민생 챙겼다 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fS0xvT0QzNkdQQnJwaldFdVF4WXNKSFhJakdORUF2VW9NQkkyT0pKR1EzZTJyTXhkSUNpRF9BZzAzaEk3VjZ4VHJwU2c4Qm5aTWtOdGx4aGhqeFlNZXJmZtIBeEFVX3lxTE04U25nNVpmOS1rX2c2YXZjdWZIU3ByZEttTUVqUkhWd0NvTVlraFZRcmFqYlZyQ3ZSY2paTjM3NGRFV1NYelVwNkg0RjViZDgzZmh1ZFZFdkxqY3lYei1Zd2NhREFQTzN4RFhtaXo4N1M1bi1hWmh6dA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인구 320만·800조 반도체 품은 ‘전남광주통합특별시’ 역사적 출범 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwNHpDLXBlaS1xeEQzalJtLTh1dDdMT2pGZ2VQR05Fc0Y5bWdJZ1oxRHk3MUhHNWU1ci1oYmR4SV80U044TlBUVEE0NkZkRG8?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“다음 대선후보 전부 李광주반도체 재검토 공약할 것” 유승민의 말 - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EYUtVeXNxSVFBTm9QdC1PcFIteGk4SmFhbl83amNMdUo3TVc5cmQxeTVnLVQzSGlGbXlzNmNMUUhHYnBfT3BWeHhtTWdZbjdF?oc=5",
+        "title": "전남광주통합시의회 1호 조례는 ‘반도체 투자 지원’ - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KbWpxc0dWc1VNWk5wTlkwTG8zUVQwU0NlQUczSFotQlZDS3FsOG5jT3VvUmhaTzlUUzNyTzR1ZUVOQjRuVEVBdExybmZKcG9pSnJCWU1NWWtBUdIBX0FVX3lxTE56elc0T1JWSmdOdm9uZXhNbXJweEg3UjBRRWFxazRENW14Rk9wcHlPVVk0aFZlZHhEaTROUzRLNVdia3Z3Uzc2aWVQRno5cFdSZEFBbmtYZjFzMEpjd1g0?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI 정책과 산업현장 연결”...NIA ‘인공지능정책센터’ 개소 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SW9SYU4yNjRQX2dZdENaWDVZUVhBVmszNUhxSkktNE1IMTFVQmhwU3FwdGx2WE9QajdHRUFzSWJJM05ITWF0SzZzQXMydzA?oc=5",
+        "title": "서부발전, 차세대 생성형 인공지능(AI) '위피봇' 본격 가동 - BBS불교방송",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoX1dGVTNocExMb19XTjVXNmxDWjZ6RXlWUEcwVzhjWndZdFBCcnpQei1QZThibVFiYkJvWFJuZ3NvbUlEdmRQVnhXLWxpYXRpY0l1TzZwQV9jd3N3SUJVUS0ydFM4UUZqMTJj?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "데이터와 인공지능이 만든 창업 혁신, 충남에서 현실로 - 금산중앙신문방송",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnRjBHV1JOU2tHMFNaeVQxY2Uxa1dpWkd3U0taY2pqSEhpVlpzY2VFdW9Pa194S1l0dThTdU5mN2NIYXZfWGhFckNEMXNRSVBtcHhqU1RTeGlxRWJ0Z01vRVlsU0dFb2RQQ05YcFRR?oc=5",
+        "title": "“AI 정책과 산업현장 연결”...NIA ‘인공지능정책센터’ 개소 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SW9SYU4yNjRQX2dZdENaWDVZUVhBVmszNUhxSkktNE1IMTFVQmhwU3FwdGx2WE9QajdHRUFzSWJJM05ITWF0SzZzQXMydzA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "배 타고 온 중국인 1500명 내리더니…서산에서 벌어진 일 [트렌드+]",
-        "link": "https://n.news.naver.com/mnews/article/015/0005304765",
+        "title": "'잠실 시위'서 경찰관에 침 뱉고 욕설한 40대, 구속 송치",
+        "link": "https://n.news.naver.com/mnews/article/008/0005379469",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한동훈 깜짝 등장...\"SMR은 미래 국가전략산업\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/015/0005304765",
+        "title": "배재고 야구부, 경기 중 “스타벅스 가야지” 조롱…광주제일고 항의",
+        "link": "https://n.news.naver.com/mnews/article/comment/008/0005379469",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'음주 뺑소니' 김호중 가석방 출소...팬들 환호에도 '침묵'",
-        "link": "https://n.news.naver.com/mnews/article/005/0001858100",
+        "title": "“폭염에 구민들 건강 해치지 않도록”…은평구, 긴급 대책회의",
+        "link": "https://n.news.naver.com/mnews/article/055/0001368332",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“칼이 아플까, 망치가 아플까”…AI에 묻고 친모 살해 시도한 20대 아들",
-        "link": "https://n.news.naver.com/mnews/article/comment/005/0001858100",
+        "title": "경찰 '투톱' 공백…대행제체 장기화 우려",
+        "link": "https://n.news.naver.com/mnews/article/comment/055/0001368332",
         "source": "네이버 뉴스"
       },
       {
-        "title": "바퀴에 다리 깔린 8세 여아…경찰관·시민이 차량 들어 구조",
-        "link": "https://n.news.naver.com/mnews/article/014/0005541667",
+        "title": "공수처, ‘뇌물 혐의’ 김영환 충북지사 압색",
+        "link": "https://n.news.naver.com/mnews/article/029/0003034314",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-30 19:19"
+  "updated": "2026-06-30 21:15"
 }
