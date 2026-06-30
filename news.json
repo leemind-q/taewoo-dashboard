@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "휴대폰 개통·번호이동 시 ‘안면인증’ 도입...통신3사·알뜰폰 전 채널로 확대 [Q&A]",
-        "link": "https://n.news.naver.com/mnews/article/009/0005700732",
+        "title": "네카오·구글, 불법 촬영물 14만건 삭제·차단…100만건은 사전 차단",
+        "link": "https://n.news.naver.com/mnews/article/014/0005541784",
         "source": "네이버 뉴스"
       },
       {
-        "title": "위메이드, 중국 투자사 품으로…박관호 의장 지분 전량 매각",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005700732",
+        "title": "위메이드, 중국 투자회사에 팔렸다",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005541784",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI기본법 첫 정책 거점 떴다…NIA 인공지능정책센터 출범",
-        "link": "https://n.news.naver.com/mnews/article/366/0001175613",
+        "title": "KT, 2026 ESG보고서 발간…AI 신뢰·탄소중립 등 담아",
+        "link": "https://n.news.naver.com/mnews/article/001/0016167125",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"500만달러 이상 협약 논의\"…벤처블릭, K-헬스 베트남 PoC 성료",
-        "link": "https://n.news.naver.com/mnews/article/comment/366/0001175613",
+        "title": "과기정통부, 안면인증 단계적 도입…모바일 신분증으로 대체 가능",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016167125",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT '2026 국가서비스대상' 2관왕…기념 이벤트 진행",
-        "link": "https://n.news.naver.com/mnews/article/011/0004636634",
+        "title": "우주항공청 ‘차세대발사체’ 산학연 간담회…2032년 달 착륙 논의",
+        "link": "https://n.news.naver.com/mnews/article/009/0005700829",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "삼성 \"광주에 400조 투자 반도체 팹 건설‥미래 성장에 2,655조 투자\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42UVY3WHJ5dGZzbTRxZWNfb1c1T3BxdkZvemVPZGZGVTROWWh3R1dYYXFLQ3BBYlV5Sk85bUhDQ3pjTUVjeG5iaW1BcmJEaEtXR1kxU3JhTXN6MnZCdGluMFAzdWt5VmdoUTBuYV9RYXh1Yk1wUWtmZA?oc=5",
+        "title": "삼성·SK, 서남권 반도체 등에 895조원 투자…정부 \"파격 지원\" 약속 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VMHlTUUxqOGdjX0s0azFDQXJjcTQ1ZE1qNnJwUkh0LWV0YUk0Z19wZmw0OFdVYWlleWJvdTI5UTloZDVIQkJ4MF9JdGJsVmhWaDN2aWln?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘HBM보다 집적도 4배’ 초박형 반도체 칩 적층 기술 개발 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Q3lxd0Zac3d0c0M1MUFYT1c3Y1pIVHAwaG9RalFkcmZhMDJWSU5fdnBkZVJuV0MyMmRoRnl1ODhNMS1EWm5aNzNDbWZPbi1id2JzbGUwREJxZ9IBX0FVX3lxTE9LRGk4Zms2UHpVdlFrNVRDcnJoMUhEdnJlU25SdU1vX0tZaXdHaUc0YzdtVGE4VzJ6OVpuTXFLUWw3VTczc2pKaTFsTTctTFk5SGZGZUN0YTRpZlNPa0c0?oc=5",
+        "title": "40년 만에 다시 합친 전남·광주…반도체 발판 균형발전 실험 성공할까 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LREsxdVFFU0ttMk52NDh4d0ZoNjl5RHVSTV9EU2xPU3otUVJCelg2bklCRkQ2LVBFNndxVk03bjVjY2ZDVGlVSVRiQzh5SjVkc0xzcWYtYlNaQmkzMFN0bkVuMC1adEFGU3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도 5월 건설수주 증가 ‘수도권 유일’…반도체 공사 영향 - 중부일보",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVU5TREkxRXNBSllzYkNYQWdKR0RFUkxta2tEMGs4VVd5RnBWNkp3X0Y0Z3lMSjFVeEEzaC1kWVQ5b1hlZDFMMUxEdU5jZXEzWXNqRmlxZ2xmdjZ2X1RFMGh1MVBpdjJ2cUtxQkhB?oc=5",
+        "title": "서남권에 반도체 800조 투자...용수·전력 확보에 박차 - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UekFFTVdXVkp2Qzk4NmMwZ1k3TXZHd3R0YVByd0p0ZG90VlZLbDRjbFc1UjRmcENMR296emZuUEVWb21uajNHYW54VnlxdENUTnN0ZGc4NTV1T081cXc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 생산 조정에 5월 산업생산 0.3%↓ '두 달 연속 감소'(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNcGc5eHA4NE04WEVSVGpJWFUwNnFtY1NPZUw4MlNMUnpnQnJhUDc2cWxCZVBJODRUMk5oTk9NQmdBaHNPS3JMUXFZc3RqZDA?oc=5",
+        "title": "“한국에 인재 다 뺏긴다” 삼전닉스 성과급 대란에 日 반도체 업계 술렁 - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KeDNxZUhnNFo4QXNkdzJuMlJpbS1ieU9vVnFoeEZJRkw3SXVOaXB1T0hJQUptMkVoeGNkeUpDMXNoQ0hlQllabmdHOGhEaThr?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 증설 효과…건설수주 7개월 연속 늘었다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuYWVwNDV2UDNQcU5zMzhfM0pOZlJKUUYxTE5IdzBKWFJtNV9rNjJpVE1CSlFaWmxiSTl0UkpLeDRPYWRpdFpSaWhaQVlZN3M0WVlEeW9BTHJXUdIBVEFVX3lxTFBNVkE3N0ZVZWd0UUhLWTl0OEJQV0x4NklJTVF6M0c3TnE5ZTZYc2JxVUZ0VVJrOENXcGRBQkFjRXdIcG1WU0laWk9RNFQyWWZHVnZpNA?oc=5",
+        "title": "서남권 반도체 전력·용수 총력전…원전 수명 늘리고 하수 재처리까지 총동원 [Pick코노미] - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zZE5hQUxTamw5RWw1ZXN5Y2VOTVdwdDRwbFprSS1RT1V4bU1rS2lSSld6dlBpUjZNeTRkandhMzhQRmdMSTRNc3BWWkd3d2hIUEHSAVNBVV95cUxNdGk0ZFlSVC16dktyWUR3ZFNBUGliblhoY1lSejdqYXNBN3hVc2tUZURYWVB2OXFkbUpNYmZ5NnBJc25pVHViSzZJMDF2SGt4VElvWQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,8 +71,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'인공지능정책센터' 공식 개소...NIA, 공공기관 최초 단독 지정 '국가AI정책·법제도' 전문기관으로 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUk1hYk95dnQ0YlJuOUY0QU96M0ZtcmRzOXNEcG16eFZBd2dCakZFNzRLRHVYTXFzZWw1bkRuUGVhN3JiVzR4TGN5YnhhSDdWRC1fd3hzTzhwcDQwSzh4X2Z5T1Z1aGs?oc=5",
+        "title": "데이터와 인공지능이 만든 창업 혁신, 충남에서 현실로 - 금산중앙신문방송",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnRjBHV1JOU2tHMFNaeVQxY2Uxa1dpWkd3U0taY2pqSEhpVlpzY2VFdW9Pa194S1l0dThTdU5mN2NIYXZfWGhFckNEMXNRSVBtcHhqU1RTeGlxRWJ0Z01vRVlsU0dFb2RQQ05YcFRR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "학생건강검진, 국가검진과 통합한다…AI 판독 체계 도입",
-        "link": "https://n.news.naver.com/mnews/article/008/0005379309",
+        "title": "공무원 노조 \"내년 임금 7.1% 인상해야\".. 9급 초임 '월 300만원' 현실화 관심",
+        "link": "https://n.news.naver.com/mnews/article/661/0000079023",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'울산공업축제 폐지·트램 재검토'…인수위, 민선 9기 정책방향 제시",
-        "link": "https://n.news.naver.com/mnews/article/comment/008/0005379309",
+        "title": "김호중, 2년 1개월 만에 가석방 출소",
+        "link": "https://n.news.naver.com/mnews/article/comment/661/0000079023",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충북대·교통대 특성화 대학 취소 절차...통합 위기",
-        "link": "https://n.news.naver.com/mnews/article/021/0002801429",
+        "title": "김영환 지사 이임식 직후 압수수색…충북도 공무원들 '술렁'",
+        "link": "https://n.news.naver.com/mnews/article/001/0016167357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "도박 빚 숨기려고 친모 살해 시도한 20대 아들… ‘징역 5년’",
-        "link": "https://n.news.naver.com/mnews/article/comment/021/0002801429",
+        "title": "올 수능은 '11월 19일' … 가채점표 첫 제공",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016167357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김영환 충북지사 퇴임일에…공수처, 사무실 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/079/0004163333",
+        "title": "전남광주통합특별시, 1일 '반도체 투자 환영 시민대회' 개최",
+        "link": "https://n.news.naver.com/mnews/article/366/0001175437",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-30 12:29"
+  "updated": "2026-06-30 15:15"
 }
