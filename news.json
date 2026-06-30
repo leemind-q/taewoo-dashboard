@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "\"국산 NPU 풀스택 AI 인프라로\"…리벨리온, 스퀴즈비츠 인수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009030969",
+        "title": "네이버·카카오·구글 등, 지난해 불법 성착취물 14만건 삭제·차단",
+        "link": "https://n.news.naver.com/mnews/article/009/0005700769",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과기정통부, 양자내성암호 전문인력양성...교육생 모집",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009030969",
+        "title": "위메이드, 중국 자본 품으로…박관호 회장 지분 전량 매각",
+        "link": "https://n.news.naver.com/mnews/article/comment/009/0005700769",
         "source": "네이버 뉴스"
       },
       {
-        "title": "희귀질환 치료제 '100일 이내' 건보 등재… 복지부 시범사업 공모",
-        "link": "https://n.news.naver.com/mnews/article/009/0005700721",
+        "title": "AI G3 이끌 싱크탱크 첫발…NIA '인공지능정책센터' 출범[현장]",
+        "link": "https://n.news.naver.com/mnews/article/030/0003442836",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KIST, 정상 시각신호 78% 재현…인공시각 한발 더 다가섰다[과학을읽다]",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005700721",
+        "title": "K-헬스 해외 진출 본격화…베트남서 수출 성과",
+        "link": "https://n.news.naver.com/mnews/article/comment/030/0003442836",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우리도 재사용 발사체 개발 시동…“2032년에 달 착륙”",
-        "link": "https://n.news.naver.com/mnews/article/014/0005541565",
+        "title": "7월부터 휴대폰 개통 안면인증…모바일신분증·초본 등 대체인증 병행",
+        "link": "https://n.news.naver.com/mnews/article/417/0001149692",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "SK \"서남권 포함 반도체 생산 벨트 구축‥AI데이터센터에도 1천조 원 투입\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51ckc3MkthUF9LbFpUNG5UNDZuQUVmR1M0MXoyS0pEcVRZR25GcnFpMFVveHU2MjRhVEpleFhETThVVkpNeWFvNU9TTE1NcHVyeGYtUFZnb1pWMkNnOWsyalcwc2JrZWVxWmRaMWdpamVaRFZuY3JvQw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "삼전·닉스, 반도체 투자 발표에 주가 하락…외국인 7조원 팔아치워 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82c09vWl90MjhTVUJwbDRTeHozalUzbEN2cDY0SkVONjJ6b2hEcGR1aFFxLVF0d2JfdDdmTV93YUdYZ2FIT1g5amxNUjVnVlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성 \"광주에 400조 투자 반도체 팹 건설‥미래 성장에 2,655조 투자\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42UVY3WHJ5dGZzbTRxZWNfb1c1T3BxdkZvemVPZGZGVTROWWh3R1dYYXFLQ3BBYlV5Sk85bUhDQ3pjTUVjeG5iaW1BcmJEaEtXR1kxU3JhTXN6MnZCdGluMFAzdWt5VmdoUTBuYV9RYXh1Yk1wUWtmZA?oc=5",
+        "title": "염승환 \"지금은 반도체 매수할 절호 기회, 코스피 1만 의심 여지 없어\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9abFc5MDVnOU9KbjlwSHcyUGx3My03MzBuR2VDMGphcnJZUGw4ZVpqR0IzWlFNdklJeHpTYUdjRi1VSUJWSmVRUnIyQ2xMZXBITS11cDAtNVZnbGNVM2dvNWhQMGl2aWZBLXR1R2RtclNuUk9CRmlvNWU1amYzYw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "대만 검찰, 엔비디아 반도체 중국 밀수출 기업 압수수색 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOekwxT0ZoUnRTVlNqREdzeDJaRjNrdkhmdThYN0FvTWozQktfNWQ3VG1JU1l2bE0zb1BXbzhiVHhQX0hjb19GR1BxdmdJWl9tN3FhQzFHa0Zqbm9xN2V4WnJfVGZ5YWpNaVJNNktqX0J3TS1LQWFhM0ZhREQtWnpFdXYyVE9jZzhhSVZMcldQa3k1TGZYOXZlRG5KYTU4VGJnOUZxWldlSdIBX0FVX3lxTE1Ka0hrVmxPQlZYSFlLYzN0TXdzY3pmcXJMZUlMZHBaYUx3cW5EbVd3VjRsTl9RbFJMWERvaDNVX2UxTlBLUEE2TTJxSU8yOEVtM3hfSjFUbXhKc3N0cmo0?oc=5",
+        "title": "'2000조 반도체 메가프로젝트'에도 삼전·하닉 주가는 하락 … 外人 차익실현 매도세 지속 - 뉴데일리",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OLTFHbEpNcHkwRWo0aVJMR1doX09UYTkwMEd2RXJoOUt4bVlSaWw1WDVtazczMDlMN1N2Y2dlV3pVWnI0aUdMYndLWm4xNjdsZlpXeC12SkFrUnk1VE9kNW9pOWhubktVc1I1WVFxbFpkOUl3RG05Z2Zjb9IBgAFBVV95cUxNUF9Vby1IUGdCcXg5U2dCNEdjTEhMV2NtcDB1VE9FbUFEVm5JelhRTE9sanM2YjZmRVpmeTJvOGpNREMzN3hta09KQVFWMXUwT2x1VUZicVlBTFR4SnhfWmJkMklPU2JHVlloem8xdUxyWGpmZ0lUSEV6SW13ekt6VQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "엠엑스로보틱스, 다임리서치와 반도체 OHT 시장 공략 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ITXBfWTA3X1M3UHdlNUNBalpJMTZaTlEzeEhTVVpTOFpmZEo1LU11cHJvS1dwSk5SVFRfcC1QYm41YnpuX0R3c2ZpdjhTblRzQUJxdXo1c2c3UWZVRjZlMVdZaWlVQl9DajN6bFJqeWlwSVE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "서남권 반도체 산단에 ‘용수 65만톤‘ 공급…동복댐 증고·여유수량 활용 - 에너지경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kbUtUb1ZVU0lTTHk0cXBieTBCS1FTbjFGWTkxT0VmQ3p6TW9oRTl4REs3RTgydWRxTWxwWXAxWEphS3d5U29ncmdHYmVrNmJfUzRuc3pYb0hTT1FWQ1RBLU1WQQ?oc=5",
+        "title": "[지금 반도체 가격] D램 16GB 현물가 전년 동기 대비 668.9% 급등 - 주간동아",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iNnRSQ1FzOXh2NFJXUVJ4XzlYLUpPYllGNkFzMzZOd1pZcFRmQklGSFNoLUdZVnM4RDN3Ty1EOVh2OXdyVDg0R1FIeTV1VVA3Sm1oWnVxZTh6Z1RGWTV6cHFnQzI?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "인공지능정책센터 출범…AI 정책·기술 지원 맡는다 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1idVdIbXFNMTA1bVNIMEViRklvQnJLWUk2WV84WmxGbDFYeUxoVTFhLVJpQldReGdPSXJaQm5tZk1zZ2x0TXU0STZ4ZVFnZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI 정책과 산업현장 연결”...NIA ‘인공지능정책센터’ 개소 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SW9SYU4yNjRQX2dZdENaWDVZUVhBVmszNUhxSkktNE1IMTFVQmhwU3FwdGx2WE9QajdHRUFzSWJJM05ITWF0SzZzQXMydzA?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "달걀도 인공지능(AI)으로 품질 평가한다 - 농민신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyRDJrUjdYam1zOVM1Yk5LYkE5VVpZY2xvOEI1dHZFS3NFUFM5bUF5UFRGVTBUdFY3Q0VLMjhFZVVpZmdicWZzOXFIQXFaS1pORkpxLUdDanBKdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "축산물품질평가원, 인공지능 AI '계란' 품질평가 시대 - 한국농촌경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcDd0X014Q1J3bTJ0Q0w3RU5TR1lRYlh2N2wwUW9temdGWVVsZjF2VWMzZFY5OWtqNXVJY0dqVFFfckFURDFaVHZBTzNkR0FHSmpyV1M5Rlh1Uk94SjJOeg?oc=5",
+        "title": "'인공지능정책센터' 공식 개소...NIA, 공공기관 최초 단독 지정 '국가AI정책·법제도' 전문기관으로 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUk1hYk95dnQ0YlJuOUY0QU96M0ZtcmRzOXNEcG16eFZBd2dCakZFNzRLRHVYTXFzZWw1bkRuUGVhN3JiVzR4TGN5YnhhSDdWRC1fd3hzTzhwcDQwSzh4X2Z5T1Z1aGs?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "아르헨 ‘비인간 AI기업’ 허용 추진…“그런 기업 범죄 처벌 어떻게?” - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wV3JSeXh5OWhmcFFvTWc4dzhMM0tqajl5WkZJeDBpVDBNalNmalFCMjlCTGtXcGt3OHZDUnpYbUtfMjZTdE9vSlp0MlllQ01sSUkyVndMRUNrNUZWeUs0YTA4OVoxaGlQYVlMRXkzSQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "광주 방문한 산업장관…\"제조업의 인공지능 전환은 선택 아닌 필수\" - 진일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0takRQZmtJczF5WXpnQ09RckI3UjFJTnRVa3BtWDlnMmlNdmNhSV9zNzE4Zjdlc2lTd2h4a19NN1FjYTZ0NkpKMFlyVHBtTXEyOEtmTk1BbjlSLTdqRy1PY2NPdW5Bb3B3VVZtcDI4QQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI) 전력 수혜주는 누구…글로벌 ‘핵연료 독립’ 경쟁 시작됐다 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlE5cUxVUi1oenUzQWItRWVEa2h4bzRDR016TUlVcHEwclJTaFFVMXIxSmpuLXVNUzl0UmQxQUUydVhOaDEyOElyTUo4Y3p0cHRiWWhhQ2MzcGVaLTN2WVJkQVQ2TEZiYVRXQ3hwREtSZE95MTlta2hXVWtEUnZLUG81bFQtR1Mz?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
+        "title": "공수처, '수십억대 뇌물 의혹' 김영환 충북도지사 사무실 등 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/055/0001368474",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "서울시교육청, 고교야구 '혐오 구호' 파문에 엄정 대응… 전수 교육 착수",
+        "link": "https://n.news.naver.com/mnews/article/comment/055/0001368474",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "법원, JTBC 회생 개시여부 한 달 보류…채권단 자율협의 돌입",
-        "link": "https://n.news.naver.com/mnews/article/018/0006318784",
+        "link": "https://n.news.naver.com/mnews/article/003/0014036804",
         "source": "네이버 뉴스"
       },
       {
-        "title": "올림픽공원 ‘연습용 수류탄’ 소지 20대 조사",
-        "link": "https://n.news.naver.com/mnews/article/comment/018/0006318784",
+        "title": "음료 3잔 가져간 알바생 고소 빽다방 점주, 결국 '강제 폐업'",
+        "link": "https://n.news.naver.com/mnews/article/comment/003/0014036804",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국토부, 무주 항공·우주산업 투자선도지구 선정",
-        "link": "https://n.news.naver.com/mnews/article/469/0000939469",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'음주 뺑소니' 김호중-'성매매' 지나 복귀?…전과 가수 활동, 문제없나",
-        "link": "https://n.news.naver.com/mnews/article/comment/469/0000939469",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "‘뇌물 수수’ 혐의 심규언 동해시장에 9년 6개월 선고…법정 구속",
-        "link": "https://n.news.naver.com/mnews/article/056/0012208772",
+        "title": "공무원 노조, 임금 7.1% 인상 요구…\"삼전닉스 초과 세수 많다\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005541518",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-30 06:15"
+  "updated": "2026-06-30 10:10"
 }
