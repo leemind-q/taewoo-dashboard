@@ -2,47 +2,32 @@
   "categories": {
     "IT": [
       {
-        "title": "SK텔레콤 \"900조 AIDC, 부지 선정에 다양한 요소 고려\"[메가프로젝트]",
-        "link": "https://n.news.naver.com/mnews/article/119/0003105938",
+        "title": "내년 주5일 근무 직장인 119일 쉰다…3일 이상 연휴 10번",
+        "link": "https://n.news.naver.com/mnews/article/032/0003454895",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 \"2029년까지 AIDC 550조 투자…2035년엔 1천조 넘길 것\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/119/0003105938",
+        "title": "삼성SDS 성과급 개편 투표 논란…투표 기간 연장도",
+        "link": "https://n.news.naver.com/mnews/article/comment/032/0003454895",
         "source": "네이버 뉴스"
       },
       {
-        "title": "내년 공휴일 72일...3일이상 연휴는 10번",
-        "link": "https://n.news.naver.com/mnews/article/056/0012208416",
+        "title": "스마트폰으로 내용증명 보낸다…KISA, 모바일 전자증명 연내 확산",
+        "link": "https://n.news.naver.com/mnews/article/421/0009030949",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, 장애인방송 대상 확대…OTT에도 제공 노력의무",
-        "link": "https://n.news.naver.com/mnews/article/comment/056/0012208416",
+        "title": "“스마트폰, 도저히 못 바꾸겠다” 아이폰, 하루 아침에 ‘30만원’ 오른다?…역대급 가격 ‘쇼크’ 온다",
+        "link": "https://n.news.naver.com/mnews/article/comment/421/0009030949",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST 거위·결혼식 신랑 모습도 선명···'주머니속 카메라' 써보니",
-        "link": "https://n.news.naver.com/mnews/article/055/0001368158",
+        "title": "카카오, 로앤컴퍼니·하나금융티아이와 법률 분야 전자문서 확대",
+        "link": "https://n.news.naver.com/mnews/article/055/0001368302",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "전남광주 “환영” 대구·경북 “홀대”… ‘반도체 메카’ 용인은 일단 안도감 [3대 메가프로젝트] - 세계일보",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0eWdfUDVoZDBWNXRDZHB4LWZHdHdEeDltTXVjQV8wRldXcDBxUjZTaTdLVEpDbVc5VUVWRDdtN3dvTzhhUnNLMTk5Z2dVS2xtTldldkJ5anXSAVRBVV95cUxPZzM2RUQwVzFWTGFWdUlLMEhXN2VzMU5nVVhmSU1ha1J2QjhYRTA0R3ZFcDlyU1RPcXlrVXZnRzAtODNfR1dfSEhwMGtUVzgxT1FZTTY?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "4,755조 메가 프로젝트‥삼성 \"광주에 반도체\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Zb3J4RzVvRzM1cUVTbVVOZXV5a1JFZU9Lc1JmNmN4Qk9acmxaMkRUYnN0ZnhyRU9XUVQwQnZjS3RJektIY2FEM3d5UE9ZYnJIMEhTcVpwckhKS1N2WVVlTmg2WXlGem5mZndlNXgyWHNReGJEWVR0RXZR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "4,755조 메가 프로젝트‥삼성 \"광주에 반도체\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5V19UVUlWal95Rk1ycjRpeUl1SXpDMWE1akdJOWZ3Z0FXdi15dkhieHVmdjdYWS1LX2xwZENzMXpiWmJ1dkllWVZGWlowN3M?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "삼전·닉스, 반도체 투자 발표에 주가 하락…외국인 7조원 팔아치워 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82c09vWl90MjhTVUJwbDRTeHozalUzbEN2cDY0SkVONjJ6b2hEcGR1aFFxLVF0d2JfdDdmTV93YUdYZ2FIT1g5amxNUjVnVlE?oc=5",
@@ -52,12 +37,27 @@
         "title": "염승환 \"지금은 반도체 매수할 절호 기회, 코스피 1만 의심 여지 없어\" - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9abFc5MDVnOU9KbjlwSHcyUGx3My03MzBuR2VDMGphcnJZUGw4ZVpqR0IzWlFNdklJeHpTYUdjRi1VSUJWSmVRUnIyQ2xMZXBITS11cDAtNVZnbGNVM2dvNWhQMGl2aWZBLXR1R2RtclNuUk9CRmlvNWU1amYzYw?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 투자도 자금줄 끊기면 끝…반도체 시장 흔들 핵심 변수는 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tdm81bC1FSWRnYS1YNTZ5TURqUEJ6X21oSUVuM1VJNEdvZk1uVnI3TmN0emRSRXNsZklqR1BQLTZVb2thYlZ5MDJYcF8zc0QwM1HSAVNBVV95cUxNRDJ0Ty1udjBPMmR5OEhhYVB4LTNMUWpoSjZTWlpubFVsOHJ3VXVyamVBd3Itc0JNSW9lcE9kZmM4aFE2bk9kMW5JUFRrZ2xRQTdvaw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[속보]이 대통령 “서남권 대규모 투자로 압도적 반도체 공급…메가프로젝트, 직접 챙기겠다” - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yM0NDTVBlV1BfUzVuVXQtNmVReGJwVTBPTUpXRF9lZE5ldjJVOTFZeTBOUDZNNEFhTnVXV2p3Ump4MlNHb040WUxqNXZIYmhFcUd5ZndkS1paZ9IBX0FVX3lxTE5pYTNoN2NVR1VycnBtS0hsdUNBNk1helBXY2pjVW83ckViT01sY1gzYTBNZnhPQVNReEE2WVBINXhxQXI1WFREeWFqNkNKcHNDd1Q0STVpdnBQNXQ5bXdr?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "기후부장관, 서남권 반도체 산단 전력망 건설 현장 방문 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VQnc3TnJxT3lEZVZhbHNjYWZrNktsWEVTX2VYd0N4TzZpMHpoRmdFTEZnX01nMHJ5djdfLURyeDlaVXdSRU1xSG56bmJlZDFFdjdyZlNMcVpvemg2RFBhRQ?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "아르헨 ‘비인간 AI기업’ 실험 설계…위험은 누가 책임지나 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wV3JSeXh5OWhmcFFvTWc4dzhMM0tqajl5WkZJeDBpVDBNalNmalFCMjlCTGtXcGt3OHZDUnpYbUtfMjZTdE9vSlp0MlllQ01sSUkyVndMRUNrNUZWeUs0YTA4OVoxaGlQYVlMRXkzSQ?oc=5",
+        "title": "시흥시, 24시간 깨어 있는 인공지능(AI) 행정 Ai흥온 본격 개시 - 오토투데이",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjBLMU9adlVCWWtCZ2xZX1l2eGxmNmFLbFlMTHRyY3ZWYUJLY21Za25uQjF0UFFwMTFzUlJNcUZPdUxQR21WUXRJd2JyOFc3NEYtLWcxejFGMmVYaVR2V0RBYjdJQ1BQaURibkFwQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "｢금융분야 인공지능 가이드라인｣의 주요 내용 및 시사점 - 법률신문",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvZEU4Wkg3djNLaGo2VDJFMUxlTzR3akh3c295VDBwb19WQUQ4YWJlRGpCY0JOLWJ3R3hVY1lXTGJKRENqNDRoc3JGOTVZWFo4bU05TjhPd3A1OUFoLUhxakpFQ1NxS24xcUV6QnZPUGgxZ9IBckFVX3lxTFBvZEU4Wkg3djNLaGo2VDJFMUxlTzR3akh3c295VDBwb19WQUQ4YWJlRGpCY0JOLWJ3R3hVY1lXTGJKRENqNDRoc3JGOTVZWFo4bU05TjhPd3A1OUFoLUhxakpFQ1NxS24xcUV6QnZPUGgxZw?oc=5",
+        "title": "축산물품질평가원, 인공지능 AI '계란' 품질평가 시대 - 한국농촌경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcDd0X014Q1J3bTJ0Q0w3RU5TR1lRYlh2N2wwUW9temdGWVVsZjF2VWMzZFY5OWtqNXVJY0dqVFFfckFURDFaVHZBTzNkR0FHSmpyV1M5Rlh1Uk94SjJOeg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "제조업 인공지능 전환, 2030년까지 20조 원 투입한다 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzMlZpdEtaUkprbUo3YUp1S3ZGRks2Vzl2aFVsenI5eXpWLXhSNlZvZEJYZ1lZZG8zcG5WSFI0dGEzNFlLRkRJMTlwVld0cUFiSnFDZTVMWmtiXzZKN1RYcHFxOENJZVdmNUk5Wg?oc=5",
+        "title": "크리스탈신소재, 칭화 투링인공지능연구원 방문…AI 인프라 구축 가속화 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJOGxReXpYb2ZLQUljQm4wU3BTblR1eFF0emtqODBGQmswSGtDbW5wSmJmUU9tZjlxUHpIUG9FdDRoNm9iOHQ5UXFjOUxONU51SmJmaXc4dFJ4ZmFM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "이재명 대통령 \"반도체·AI·인공지능 데이터센터 삼각 축으로 초격차 산업 강국 도약\" - 대구MBC",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xRnhFbnNEc0VpMzNwMTlyREdJcFo4RENTajVvZUo3WXhTZk5qYkFwcjFCSWtCNGZhU2NvRWZ5RWxtV2FhY2VDOHZyWUg?oc=5",
+        "title": "아르헨 ‘비인간 AI기업’ 허용 추진…“그런 기업 범죄 처벌 어떻게?” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wV3JSeXh5OWhmcFFvTWc4dzhMM0tqajl5WkZJeDBpVDBNalNmalFCMjlCTGtXcGt3OHZDUnpYbUtfMjZTdE9vSlp0MlllQ01sSUkyVndMRUNrNUZWeUs0YTA4OVoxaGlQYVlMRXkzSQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'벌목 사망사고' 오태완 의령군수 검찰 송치…중대재해법 위반",
-        "link": "https://n.news.naver.com/mnews/article/421/0009030299",
+        "title": "건보 우선순위 논란에…탈모 건보 적용 토론회 취소",
+        "link": "https://n.news.naver.com/mnews/article/018/0006318179",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헌재 \"사기업 복지포인트도 근로소득에 포함\"‥전원일치 합헌",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009030299",
+        "title": "‘국힘 당원가입 강요’ 신천지 이만희 총회장 구속기소…“시효 고려”",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006318179",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산시의회 상임위원장 후보 확정…원 구성 난항",
-        "link": "https://n.news.naver.com/mnews/article/056/0012208130",
+        "title": "'스타벅스 가야지'…배재고, 광주일고 경기 중 선 넘은 응원 논란",
+        "link": "https://n.news.naver.com/mnews/article/028/0002811945",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, '윤석열 체포방해' 김기현·권영진·윤상현 추가 입건...출석 요구",
-        "link": "https://n.news.naver.com/mnews/article/comment/056/0012208130",
+        "title": "종합특검, 김기현·권영진·윤상현 의원 입건…‘윤석열 체포 방해’",
+        "link": "https://n.news.naver.com/mnews/article/comment/028/0002811945",
         "source": "네이버 뉴스"
       },
       {
-        "title": "복지부, ‘탈모 급여’ 토론회 취소…“시간 두고 재검토”",
-        "link": "https://n.news.naver.com/mnews/article/214/0001508541",
+        "title": "독서 인증하고 '책력' 쌓아보세요…전국 북클럽 리그도 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0012208144",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-06-29 23:01"
+  "updated": "2026-06-30 01:31"
 }
