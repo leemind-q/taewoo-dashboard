@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "폴드·플립 넘어 와이드형…삼성 폴더블 선택지 넓힌다",
-        "link": "https://n.news.naver.com/mnews/article/030/0003443096",
+        "title": "\"한국만으론 못 산다\"…박관호, 9200억 지분 매각 이유 직접 밝혔다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006319629",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 첫 정보보호백서 발간…\"정보보호에 지속 투자할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/030/0003443096",
+        "title": "피지컬AI 1강 도약 청사진 제시…韓 새 먹거리로",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006319629",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "회의비·출장비 칸막이 없앤다…정부, 연구비 자율성 대폭 확대",
+        "link": "https://n.news.naver.com/mnews/article/028/0002812204",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "“소는 잃었지만 외양간은 잘 고치자”…SK텔레콤, 보안 강화에 1434억원 투자",
+        "link": "https://n.news.naver.com/mnews/article/comment/028/0002812204",
         "source": "네이버 뉴스"
       },
       {
         "title": "포스텍 연구팀, 공기 닿으면 성능 떨어지던 차세대 반도체 소자 안정화",
-        "link": "https://n.news.naver.com/mnews/article/214/0001508851",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "과기정통부 ‘피지컬 AI 1강’ 승부수…3년 내 주도권 확보",
-        "link": "https://n.news.naver.com/mnews/article/comment/214/0001508851",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'몸짓도 언어'…KAIST, 동물 행동의 의미 읽는 AI 개발",
-        "link": "https://n.news.naver.com/mnews/article/421/0009033763",
+        "link": "https://n.news.naver.com/mnews/article/029/0003034783",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "삼성·SK, 서남권 반도체 등에 895조원 투자…정부 \"파격 지원\" 약속 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VMHlTUUxqOGdjX0s0azFDQXJjcTQ1ZE1qNnJwUkh0LWV0YUk0Z19wZmw0OFdVYWlleWJvdTI5UTloZDVIQkJ4MF9JdGJsVmhWaDN2aWln?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[단독]삼성, 반도체 공정에 양자컴 심는다 - 서울경제",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05SDdiMlA1NWxwcHVOS09objVqSnBVeWhPZ1QxNmd6cHgwRngzTUppYXJGRVZ2WE95SFlYdFA1NmlEa1hSRFFIMzhESURuQVRxcHfSAVNBVV95cUxNMWNLd3Flb3BjWUg3Q25YWkdiRUt5ZzRJR0l5b05xeFExSnZrdDNPVUNabUFLeEFkMU1MM3lsQ0xKSVpSZW5uWWdWUGtBVVE3Z2djUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“용인 챙겼으니, 업황 꺾이면 투자 미룰 수도”…호남 반도체 ‘모호성’ 숙제 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01MGVZS0djV0lYR19NV2xTV2ZXSUVkNHpHUjEzclVxblBWMXZzZy00bHpjQTQxSFA1WFR4eFE1NEpFYU1mbFVvLTBJd1RVWkJPczBMVmt2UHRWUmxIbHhUNWxpVWFHSU5IUEZBdzRrOXVCQQ?oc=5",
+        "title": "반도체 이어 회로판 소재값도 뛴다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXbWNuaHMxQ3dhUGpBUHhYNmFKekM4emV3ZWItRm8zQ1FiMWNGY3BFUVhDNE1kUEtkSnZWVWt6ek5VbWxvTWNKcWxGV085SG8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "공기에 약한 차세대 반도체, ‘보호막’으로 성능·안전성 높였다 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGlGMHQ2bHdfaExrSURpNER2UEJyMDZURUt4Wk1rV3Q4Ui1xYmwzS2h6aTAtZWJ3OHR1dW11eDNUTHBhRDlJWW1QaGJKWlFPbVBPX2lXMjE5WXpPdndIUGlyMDNMcUI4MkRRUDI4cmp5bGFWelh4WkluNWpMSGh6X0ozOFY1OXBIeVpLc9IBoAFBVV95cUxNSmJfUjlxWEdoTUFPa2tuNmZwcWpSVThlWDdBTVdlM2FNVGlHLWppZWY5c1FSbWh0Szk5N0F0S0NZRGFFSjVDVFBLNElQNjhxelB4TW5EczVseklsWGl0WUlkcVlxWDY0WmFsa1paTEFwazAtTWxjRUtJRGFMUzRFMXBsR25WdThydlRKWDkwbFlDWDFubW5GYk0xNVJLNllu?oc=5",
+        "title": "전남광주특별시 출범식…\"반도체 메카로 도약\" 청사진 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oeXZFSDh5Nm0weU1POWVEb2dzRENVSG1ObGRtWkVaZkMtUkdiamZsNHB5eGt2VVpmQ1ZDczdwMVV5NFNUUVRCNkVjUE1fUUJ1TC1VbzNXUi1YYlXSAWBBVV95cUxQOHVndDFDYUY5bGxnS2NRV2l3UF9TcGNSWGZtYUZZOVZiYUZ4WXZpcl9TQUZveDJmVXZxV0NqbWdfYVhmbXVfNHRhenNucV8wb3dEQm1EWko5eFRBdF9Ed0g?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "韓 연구진 “반도체 미래 난제 해결”…세계 최고 ‘페로브스카이트 트랜지스터’ 개발 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRamI1bTlTdWlFdDJpSkUzb3ltVHhiTUJfRHNfV1VIV2JKUFNnd21LS2FvQWRWV0ZReWhEVWdwaE01SEM2WXprcTBGZWRIVGs?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "포스텍 연구팀, 공기 닿으면 성능 떨어지던 차세대 반도체 소자 안정화 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCYVJfN2sxNjhIamEtMld3Y19CTnhQYTRwMy1jNVdISUNabFdTc1owNmhrbURpTDNCNkdoR080bm5FUFJNX25DbUdkMnlxdU42Q0c5aXJ1dVZCbTVKN2g0?oc=5",
+        "title": "전남광주통합특별시 출범‥0시 첫 안건도 '반도체' - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4VGJLQXRqVmg1TThCYm5FMTI4RzdEQ0ZZM3JLcXBHQkRMbzdnbHZ0ZjVTYllBNmw5ZHpXbXZ4VjVjcVdxOFVFNjB6LUNTblFSZlpqX3prQjVlZkxEUDVzRmFiZG1fcGd4QVFoVUpneG1GeUtLYTBuXw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,13 +66,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능(AI) 융합, 농업혁신의 날개를 달다 - 영농자재신문",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUVdZVVZCcjRwSWxXdm9WX24wczlVTDlCVUtuNGVyZ096anpfTkxHYktXUVFwN0dqM25ZSDdQNm1fZGhfbmc4R3h0b3lTVkxfQ1JQc195MGRuTFMw?oc=5",
+        "title": "韓총리, 첫 일정은 AI 간담회…인공지능 생태계 '속도' 주문 - 더팩트",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WVU5VEJBWFlZWmRJd0NDLXJpY0J6aTE1SzAydWdjODNRbDJDWTVMYXBJMy1DWElhTHlJME5lRFVEVmJqMHhMTmgtcFBBNDdoY3hXODhVakfSAVNBVV95cUxOTTg1RTQ3Tnpvd19BRUc4aW1sWVVjeVhPMjhLLWFLMVhuUjFkMXF6aDJQOEllZTloZ00zcnZzc3BXQUsyaUI0SFBLQndFN3E2TTRkOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "韓총리, 첫 일정은 AI 간담회…인공지능 생태계 '속도' 주문 - 더팩트",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WVU5VEJBWFlZWmRJd0NDLXJpY0J6aTE1SzAydWdjODNRbDJDWTVMYXBJMy1DWElhTHlJME5lRFVEVmJqMHhMTmgtcFBBNDdoY3hXODhVakfSAVNBVV95cUxOTTg1RTQ3Tnpvd19BRUc4aW1sWVVjeVhPMjhLLWFLMVhuUjFkMXF6aDJQOEllZTloZ00zcnZzc3BXQUsyaUI0SFBLQndFN3E2TTRkOA?oc=5",
+        "title": "인공지능(AI) 융합, 농업혁신의 날개를 달다 - 영농자재신문",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUVdZVVZCcjRwSWxXdm9WX24wczlVTDlCVUtuNGVyZ096anpfTkxHYktXUVFwN0dqM25ZSDdQNm1fZGhfbmc4R3h0b3lTVkxfQ1JQc195MGRuTFMw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "정성호 \"현직 경찰 증거인멸 참담…친족특례 개선 검토 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005305297",
+        "title": "종합특검, ‘내란부화 수행’ 김종욱·안성식 구속영장 청구",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637031",
         "source": "네이버 뉴스"
       },
       {
-        "title": "3선 이철우 경북도지사 공식 취임, 신공항·행정통합 속도 낸다",
-        "link": "https://n.news.naver.com/mnews/article/comment/015/0005305297",
+        "title": "안민석 경기도교육감, 취임 첫날 '폰프리 스쿨' 추진 계획 1호 결재",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004637031",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지방세 시스템 장애로 업무 중단…행안부 “납부 시한 연장”",
-        "link": "https://n.news.naver.com/mnews/article/001/0016169177",
+        "title": "조용식 울산교육감 취임…첫 결재 ‘공동체 신뢰회복’",
+        "link": "https://n.news.naver.com/mnews/article/001/0016171287",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'한덕수 재판 위증' 윤석열 항소심 시작…1심 무죄",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016169177",
+        "title": "최현덕 남양주시장, 1호 결재…'헌법친화도시 조례안'제정 추진",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016171287",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"폰 내려놓고 배움 속으로\"…안민석 경기교육감 '1호 결재'로 스마트폰 퇴출 선언",
-        "link": "https://n.news.naver.com/mnews/article/022/0004139734",
+        "title": "이재준 수원시장, 청년벤처 간담회로 민선 9기 출발",
+        "link": "https://n.news.naver.com/mnews/article/629/0000512102",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-01 15:20"
+  "updated": "2026-07-01 17:28"
 }
