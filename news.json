@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "쿠팡, 정보보호에 1349억 투자…전담인력 75% 늘려",
-        "link": "https://n.news.naver.com/mnews/article/215/0001257112",
+        "title": "SKT, 첫 ‘정보보호백서 2025’ 발간...신뢰회복 활동 총정리",
+        "link": "https://n.news.naver.com/mnews/article/011/0004636796",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG유플러스 ‘ESG 보고서’ 발간",
-        "link": "https://n.news.naver.com/mnews/article/comment/215/0001257112",
+        "title": "\"한국만으론 못 산다\"…박관호, 9200억 지분 매각 이유 직접 밝혔다",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004636796",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'몸짓도 언어'…KAIST, 동물 행동의 의미 읽는 AI 개발",
-        "link": "https://n.news.naver.com/mnews/article/001/0016168279",
+        "title": "美정부, 앤트로픽 AI '미토스' 수출통제 해제…내일 서비스 재개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320165",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국립부경대, ‘산업 데이터 양자컴퓨팅 전환’ 사업 참여기관 선정",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016168279",
+        "title": "삼성, 넓은 화면·깊은 AI…베일 벗은 8세대 폴더블[모바일 온에어]",
+        "link": "https://n.news.naver.com/mnews/article/comment/018/0006320165",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"피지컬 AI, 3년이 골든타임\"…정부, 데이터·기술·확산·생태계 키운다 [종합]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002664188",
+        "title": "KT, 5G·LTE 통합요금제 출시…'요금 단순화'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006319629",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "삼성·SK, 서남권 반도체 등에 895조원 투자…정부 \"파격 지원\" 약속 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VMHlTUUxqOGdjX0s0azFDQXJjcTQ1ZE1qNnJwUkh0LWV0YUk0Z19wZmw0OFdVYWlleWJvdTI5UTloZDVIQkJ4MF9JdGJsVmhWaDN2aWln?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'빅쇼트 버리' \"한국 반도체 지출로 인한 랠리, 종말의 시작\" - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZb1dFMndsUmlRS3ZVeTEwdUpIQ2Y1bVJEekFDYy1keFh2UkNibXYwSUtTZHVaY2c5UFkySWlybEVod19HR3BUU2ZPX3J6bkhpOTZsY2djMWwtV1lnZXJpX2JxaE1VWUMxOTBOQ1NMUGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "전남광주특별시 1호 결재·업무지시·조례 '반도체와 민생'(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZUEktbmJXX2dTTFEyTmJTZEw3WFZrWEdRM0FqblRNcHpqcElzb0xQRG84emRqbjNTeHU3M2EyeHFZVkxmbHNPQ2NFd3N1QWhPeFhuMWRxYk9aRU3SAWBBVV95cUxOUlktZWhFVTI1bDRSekJLUDdQNlVmWDBwRm9VeGF5LU1mVTA0MnRJdC1aVFdrRTBoa2h2RkFzQ1VXN2NfYWkwMmVxUFFPMmJCX3dhd3Q3ZVI3VEtiak5xd1k?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "전남광주통합특별시 출범…1호 안건 ‘반도체 조례’ 처리 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3dl9Zd1RNZlRCU3F3Um94T0s4VEVkVWpRVFpIY1cyRFphemttUGJpTlpPc1ZOazFBV01xaXZ4TUxGRzN6ZGdicmlmUW9nNnByZ0V2VTNRSXZ0alU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "전남광주특별시 출범식…\"반도체 메카로 도약\" 청사진 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLNTJJaS1jOUh1d19rY0lKdGU5aGcyTHJwOGd0b1JfdTVXUUFBSFVKUm50aVUzaThrZkoyNHljUXZ2UjM1NzItVE93Sko4Mkk?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "韓총리 첫 일정은 'AI 간담회'…\"인공지능 전환 속도감 있게\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WRXFPblpLNmtZeEpCZjQzd21xN25Uekp2M0publR4Z0ZleVZaeHlybjczcTRRQS0ybWdoOXVndjNDaXU4aHl6UFo5WEJ4RF9ad1NKYVFBeHNpYTFybEUzWtIBYEFVX3lxTE1WRXFPblpLNmtZeEpCZjQzd21xN25Uekp2M0publR4Z0ZleVZaeHlybjczcTRRQS0ybWdoOXVndjNDaXU4aHl6UFo5WEJ4RF9ad1NKYVFBeHNpYTFybEUzWg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "NIA, 인공지능정책센터 공식 출범...AI 정책·법제도 전담 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nVERBNS1rdDRPb0h1UndFYmR5MWZKMnV5SFQ0amZOalN2WWJLUW5oWk1UUklFalpISXlkOVFUUGxZUFBJR25IYzdFcFgxSW9QX1hxZjB4dS1ZcXZaSllicU55RG1jcTZwNXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "韓총리, 첫 일정은 AI 간담회…인공지능 생태계 '속도' 주문 - 더팩트",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WVU5VEJBWFlZWmRJd0NDLXJpY0J6aTE1SzAydWdjODNRbDJDWTVMYXBJMy1DWElhTHlJME5lRFVEVmJqMHhMTmgtcFBBNDdoY3hXODhVakfSAVNBVV95cUxOTTg1RTQ3Tnpvd19BRUc4aW1sWVVjeVhPMjhLLWFLMVhuUjFkMXF6aDJQOEllZTloZ00zcnZzc3BXQUsyaUI0SFBLQndFN3E2TTRkOA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능(AI) 융합, 농업혁신의 날개를 달다 - 영농자재신문",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUVdZVVZCcjRwSWxXdm9WX24wczlVTDlCVUtuNGVyZ096anpfTkxHYktXUVFwN0dqM25ZSDdQNm1fZGhfbmc4R3h0b3lTVkxfQ1JQc195MGRuTFMw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한성숙 총리 첫 일정은 AI 회의… “인공지능 전환 속도 높여야” - 경북매일",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sRnhyS29jWmZVWUJVQ2JTRWlvWmx4QXVjMTFHNk1adjB4R2N3dVA4YURmdHJJS18xSGRWRkpIdWZkUXhsRmpBY0dnNzFHNExZMS1zS2liS05fUQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "[속보]“스벅 가야지” 지역 비하 구호 배재고 결국···전국대회 6개월 출전 정지 ‘중징계’",
-        "link": "https://n.news.naver.com/mnews/article/032/0003455494",
+        "title": "‘청년 과로사 의혹’ 삼정회계법인, 6억원대 임금체불 확인",
+        "link": "https://n.news.naver.com/mnews/article/005/0001858292",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오늘부터 도수치료 4만원대로 통일…'풍선효과' 우려도",
-        "link": "https://n.news.naver.com/mnews/article/comment/032/0003455494",
+        "title": "광주 오월길 표지판에 '군화' 대롱대롱…또 5·18 조롱인가?",
+        "link": "https://n.news.naver.com/mnews/article/comment/005/0001858292",
         "source": "네이버 뉴스"
       },
       {
-        "title": "회의실 문 여는 전북도···간부회의 생중계 도입",
-        "link": "https://n.news.naver.com/mnews/article/421/0009034975",
+        "title": "'경제' 화두 꺼낸 추경호…'변화와 성장, 더 나은 내일'(종합)",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637167",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'홍명보 선임' 축구협회 고발 사건, 서울청이 맡는다",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009034975",
+        "title": "‘스벅 가야지’ 배재고, 전국대회 6개월 출전정지…감독·선수 징계는 추가 논의",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004637167",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“불요불급한 사업 정리할 것”... 허태정 대전시장 취임",
-        "link": "https://n.news.naver.com/mnews/article/018/0006319837",
+        "title": "행안부 \"지방세시스템 장애…지방세 납부기한 3일까지 연장\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014041278",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-01 09:03"
+  "updated": "2026-07-01 12:20"
 }
