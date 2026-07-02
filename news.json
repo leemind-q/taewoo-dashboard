@@ -2,67 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 첫 ‘정보보호백서 2025’ 발간...신뢰회복 활동 총정리",
-        "link": "https://n.news.naver.com/mnews/article/011/0004636796",
+        "title": "한울소재과학, KISTI 양자보안 기술 이전받아…\"상용화 속도\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0001149815",
         "source": "네이버 뉴스"
       },
       {
-        "title": "中 자본, 위메이드 품었다…박관호 9200억 엑시트",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004636796",
+        "title": "삼성은 왜 ‘초콜릿’ 부러뜨렸나…애플과 ‘북 타입 폴더블폰 전쟁’",
+        "link": "https://n.news.naver.com/mnews/article/comment/417/0001149815",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 22일 언팩서 8세대 폴더블 공개…새 라인업 예고",
-        "link": "https://n.news.naver.com/mnews/article/008/0005380208",
+        "title": "SK AX, 한국전력기술과 AX 협력… 발전·에너지 산업 혁신 나선다",
+        "link": "https://n.news.naver.com/mnews/article/629/0000512286",
         "source": "네이버 뉴스"
       },
       {
-        "title": "세계 양자기업 서울 집결…'퀀텀 코리아 2026' 2일 개막",
-        "link": "https://n.news.naver.com/mnews/article/comment/008/0005380208",
+        "title": "마이크론, 또 애플 저격... “칩플레이션은 불황기 때 메모리값 후려친 탓”",
+        "link": "https://n.news.naver.com/mnews/article/comment/629/0000512286",
         "source": "네이버 뉴스"
       },
       {
-        "title": "포스텍 '고성능·고안정성 페로브스카이트 트랜지스터 세계 최초' 네이처 발표",
-        "link": "https://n.news.naver.com/mnews/article/018/0006320168",
+        "title": "위메이드, 中 알리바바 계열 투자플랫폼으로 피인수 소식에 '上'",
+        "link": "https://n.news.naver.com/mnews/article/025/0003534739",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“용인 챙겼으니, 업황 꺾이면 투자 미룰 수도”…호남 반도체 ‘모호성’ 숙제 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01MGVZS0djV0lYR19NV2xTV2ZXSUVkNHpHUjEzclVxblBWMXZzZy00bHpjQTQxSFA1WFR4eFE1NEpFYU1mbFVvLTBJd1RVWkJPczBMVmt2UHRWUmxIbHhUNWxpVWFHSU5IUEZBdzRrOXVCQQ?oc=5",
+        "title": "[단독]삼성, 반도체 공정에 양자컴 심는다 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05SDdiMlA1NWxwcHVOS09objVqSnBVeWhPZ1QxNmd6cHgwRngzTUppYXJGRVZ2WE95SFlYdFA1NmlEa1hSRFFIMzhESURuQVRxcHfSAVNBVV95cUxNMWNLd3Flb3BjWUg3Q25YWkdiRUt5ZzRJR0l5b05xeFExSnZrdDNPVUNabUFLeEFkMU1MM3lsQ0xKSVpSZW5uWWdWUGtBVVE3Z2djUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "마이클 버리 \"한국 반도체 지출로 인한 랠리, 종말의 시작\"…메모리 수퍼 사이클 언제까지? - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1N5VnBKbkNFUDZRVW43NENEaXJQSDUtdHFiQWxCdEJGYlFUQUdFNVFqd0pfVEhxaTlrelFsSlJxWTViWEhiVHlaeGx0b3g5RlZHVHRFWjNVWEZHUHV4SmtnbEROdDhDbndfalg4RkJpVm9DRWVkUUlaT3Z1UkpwNA?oc=5",
+        "title": "“호남 반도체, 기반 조성에만 5년”…이 대통령 “1개월도 지연 없게” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dlFKVkkyd04yVzBJeko4UzBXN25qVWRoaU84Wm9qZm1jcWV5ODZ2Q1UtUDNOWjhzTlJzcmpJR2xoczV2d2RUVnlIN0w2T1pBajlnRVZRalJnZnlveDRTeXNHd2J1bGNiU3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘빅쇼트’ 마이클 버리 “韓 반도체 투자 발표가 ‘정점 신호’...반도체주 공매도 했다” - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uUFRGNmN5OFBuWWZmMlo5U1pDVjJCSWZwamtFMW5MakU1YUNnY3B2YWRvaXhxTHZ6QlJQelNmemZxUkNoTE1PVjBlQ0gxRk1hamfSAVNBVV95cUxNY2xNMXA1dzRMQUZvRmd3Q3dleDVfeFc4MmFyb0hOVXczUWo5Sk8tUHE1MzlNajNWQWd4SlVYSnAtS28tVldabVVpT3NRVzdlLUJ1NA?oc=5",
+        "title": "반도체 거품?… 해외서 쏟아지는 경계령 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVlVWc2tLN3VfclVoRXladFdPSEZWUDlTeTFQNUdoUU53a3NrME4zQmwyR0pOYmF3S196QlB4dENhbEpWek4tc0RSSFZOLXFmcU0zcXgya2F4bkRGOC1Ic2ZxTGNXaUppR0RWNy1yaGN4UmxCMERNcWh6cG12blA3MQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'빅쇼트' 마이클 버리, 반도체 숏 들어갔다…\"韓 대규모 투자, 끝의 시작\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDM3dkcXp6MXJ0b0FZdzJteGt3UFU0dEJhQW9yem1KNXNFX212M0VXSTBKR2xDbTRvemo4WWNDa1VIcVFDV3RNZHo5MlFmMlk?oc=5",
+        "title": "[특징주] 삼전, 반도체 가격우려에 5%대 급락 마감…하닉도 3%↓(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXOFpjUlBVMlhhLUMyYWF3UTVJVTVmekNlQ0d3QUxiNXJrZkZ6Y3BOdUhxU1otaWdhSG52NDJIc2ZRU1l2WTFvdlFSRHhSQjQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "메타 AI 클라우드 승부수…마이클 버리는 반도체 랠리 경고 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Rdk9zVXlOUk5BMmRoWWlDdUI0eDZUbGJnX1hubWFRNTl6MTVoZ1dRa2pCa1RQSkp1OWs5cGlEU19NNVo2R1dDN1p2VmFQSnJwQjNUVEVJcm9meWVoZFRLVGQyb2w3ZDkxM1Y3NEF6cWVrUkE?oc=5",
+        "title": "[속보] 코스피, 미국발 반도체 한파에 4%대↓…8,000선 하회 출발 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Rlo5enN5NTF0S0NVbWwxVFZVU1BvVW40LTFZamZGYWN4QXM2YzhfbXBhaUR1U1kzZVI4SU9EREduWERnMkpkaXMxd1VNdFlETUE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
         "title": "[인공지능 줌인] 세계 금융수장들의 경고 “AI는 잘돼도, 못돼도...경제 시한폭탄” - 뉴시안",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tcjB0dnFYdnBmSi1SdkVWcEQ3XzFkemFoUzJLandzMmZMMk5UNjV3MlY1LS1IcXFPZVBQanBoUW1jZXhINUtjSVd2MDVfVWFHQWw3dGNBa0E5eXFfdmhoZldGSGFkM25pcnZ30gFuQVVfeXFMUEZWZ1AzbTktLWVCNWs5RXlUOW1KMHYydU1FRUItN19KTmYwOEdrazVFOWQybWMtLWgzX21aWkhkdVZUempLdWx1dEJ4NVA3OFNJeDFPWER0MlctVU5xcy1RRnI5bUdtLUtSZlpXd1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiN0dNN3M1NnVvQXl0Q2VpMnRoVkstVFBhRmcybjMzdzZTaDNpWkhQc3BDLU42TG5ZMXl5ckFwaDMtME9ybDRReTVnSHE3T3doWDFjUE1oYUZaazJXYmZCZUpCcWJSUF9JeXfSAW5BVV95cUxQRlZnUDNtOS0tZUI1azlFeVQ5bUowdjJ1TUVFQi03X0pOZjA4R2trNUU5ZDJtYy0taDNfbVpaSGR1VlR6akt1bHV0Qng1UDc4U0l4MU9YRHQyVy1VTnFzLVFGcjltR20tS1JmWld3UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "韓총리 첫 일정은 'AI 간담회'…\"인공지능 전환 속도감 있게\" - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WRXFPblpLNmtZeEpCZjQzd21xN25Uekp2M0publR4Z0ZleVZaeHlybjczcTRRQS0ybWdoOXVndjNDaXU4aHl6UFo5WEJ4RF9ad1NKYVFBeHNpYTFybEUzWtIBYEFVX3lxTE1WRXFPblpLNmtZeEpCZjQzd21xN25Uekp2M0publR4Z0ZleVZaeHlybjczcTRRQS0ybWdoOXVndjNDaXU4aHl6UFo5WEJ4RF9ad1NKYVFBeHNpYTFybEUzWg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "정부, 빅데이터·AI 기반 개인맞춤형 초정밀 헬스케어 ‘드라이브’ - 에너지경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UUkVzcHhxeVlpUnBjSjZzQ2h2NVR1d1ZDRWpzTlRKQUkwRTRuNGJuU1J0emdrUjh4UWtRRzZzTXhNV2xRVDdmLUhKR1AyaENjX09LNGRlNkJhWDJZUUpxb2lCTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "NIA, 인공지능정책센터 공식 출범...AI 정책·법제도 전담 - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nVERBNS1rdDRPb0h1UndFYmR5MWZKMnV5SFQ0amZOalN2WWJLUW5oWk1UUklFalpISXlkOVFUUGxZUFBJR25IYzdFcFgxSW9QX1hxZjB4dS1ZcXZaSllicU55RG1jcTZwNXc?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "[인공지능 줌인] \"챗GPT가 해고 대상도 결정했다\"…AI 맹신 경영에 직원들 줄줄이 퇴사 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UFNla1J3MUcydnoyV0VjQWN5YzdrZ19yNkp2Nk5wdFJBcHFrMWl4c0xnajZITnpZX0dhS1FDS1NOLVNoVlFPSUo0YWE0WXd3dnpXcG5iLUc5dlZkbjdvczMxRDk1eWVmX0t2cmhSZw?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "지방세시스템 장애 복구 완료...정부 \"기한 더 연장\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002373623",
+        "title": "류삼영 동작구청장 1호 결재…'재개발·재건축 등 사업 촉진 방안'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005379815",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보]폐모텔서 2명 숨진 채 발견…공포체험하던 중학생이 신고",
-        "link": "https://n.news.naver.com/mnews/article/comment/052/0002373623",
+        "title": "구조견 대회서 4번 우승한 충성…16명 구하고 명예로운 은퇴",
+        "link": "https://n.news.naver.com/mnews/article/comment/008/0005379815",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추미애, 1호 결재로 'K-반도체 혁신'…. 민선 9기 성장 드라이브 시동",
-        "link": "https://n.news.naver.com/mnews/article/421/0009035119",
+        "title": "최현덕 남양주 시장, 1호 결재 ‘헌법친화도시’",
+        "link": "https://n.news.naver.com/mnews/article/437/0000498975",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김대중 전남광주교육감, 취임식 대신 학교현장서 첫발",
-        "link": "https://n.news.naver.com/mnews/article/comment/421/0009035119",
+        "title": "전장연 버스 시위 재개…출근하던 승객들 전부 내리기도",
+        "link": "https://n.news.naver.com/mnews/article/comment/437/0000498975",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“마네킹 같은 것 떠 있다”…‘30대男 두물머리 유기’ 시신 6개월 만에 발견",
-        "link": "https://n.news.naver.com/mnews/article/021/0002801698",
+        "title": "비닐하우스 화재 현장서 화재로 숨진 60대 남성 뒤늦게 발견…경위 파악 중",
+        "link": "https://n.news.naver.com/mnews/article/025/0003534607",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-01 22:47"
+  "updated": "2026-07-02 00:11"
 }
