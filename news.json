@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "KT 양자암호기술, 무선 QKD 4.8km 실증·확장 추진",
-        "link": "https://n.news.naver.com/mnews/article/138/0002232844",
+        "title": "SKT, '퀀텀코리아 2026' 참가…6G 드론·CCTV용 보안칩 공개",
+        "link": "https://n.news.naver.com/mnews/article/003/0014042010",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"적외선 군집위성으로 우주산업 활성화·안보 두 토끼 잡아야\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/138/0002232844",
+        "title": "노키아 \"韓 디지털 전환 지원…AI혁신 네트워크 기반 강화\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/003/0014042010",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 5년 내 美·中 기술력 90%까지 추격 목표 세웠다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006320394",
+        "title": "게임 CD 역사 속으로…소니, 2028년 디스크 생산 종료",
+        "link": "https://n.news.naver.com/mnews/article/003/0014043319",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "[단독] 1분1초가 급하다…\"빅테크에 더 뒤처지면 AI 종속국 전락\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/003/0014043319",
         "source": "네이버 뉴스"
       },
       {
         "title": "방미통위, '통일TV 등록취소' 취소소송 상고 포기…PP 지위 회복",
-        "link": "https://n.news.naver.com/mnews/article/comment/018/0006320394",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "세계 한인 과학기술인 1000명 서울 집결…AI·양자·로봇 협력 논의",
-        "link": "https://n.news.naver.com/mnews/article/584/0000038333",
+        "link": "https://n.news.naver.com/mnews/article/018/0006321000",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "삼성전기, AI 반도체용 유리기판 소재 만든다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObURFX2dFTkJ0ZmNOZVBLS2NyOFlBcFBHRFQzSVBKMy1lUERlS3VZWGRlNW42M1RqX3FZZWRCeUJybTVkTlpqUkZ6Vml6QlNFMFhkbUtjdGFYNHFlNlo3a1NxbjJNVDVPb2pqbENBSVJmdnl1eEJaVkpoek5sWWVodk5Wbw?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "광주 반도체 단지에 주52시간 완화 검토 - 동아일보",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZDAzUTIxanNfZ2tQZVRaWEw3b3hib0FUcmZmcGgxYkhkRmtseTV4bWYxc3Y2MUhRb0hibDNLbGNXeTEwQ0dsRjdYckNNVS1jMDc3a21aUnhzZlQ4V0ctSmdDVEJodm1COG5ZTmpkM0tpcmt0QlHSAWZBVV95cUxNSU5WaDFUeHZLSlZzU284dXVJbU8zeVdfRWRGOEtjbEZqd0VYS2d1Yjl0bmxPOVhqQ3loLUZjQ2Jfa3VSSXZndUJCVk1pTXAtOVViOERvMDRKUEtTMjVsUmhhYzdxZEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "서울 집값 숨고르기 속 경기남부 반도체벨트는 ‘후끈’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBual90ZkNaLWFjZnFkOWZyZTJmS2RBMnNUb1cyRjh4Q05HOTJkb0oyLWl6bUI3ek9idERUV0owU21SMWUtM0poQlR5QlRhRUU?oc=5",
+        "title": "시민단체 “용인 취소해야 서남권 가능…반도체공장 동시 건설 현실성 없어” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53SHVvZThWeFpYeTM3OXM1ZkNaRng4cHJweHVpUlN4NTlXZmRQWHNSSEdELVpvLWh1OGtNZ1U3Zm50aWcwRXlJc1NnWDctNC1RLXVVaVNuQ2hOakRMMTBDUWtOcDBOQ1I3cldBYw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "세메스, AI 포럼 2026 개최…\"반도체 장비 패러다임 전환\" - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qSGJiTlJITEF0OU43Z2o3eFN1Y0pmSGtqSEhHcmJRVngyUzhnbGZlamNDVV9Cbnh1YXZQTG1RNllRQ2lfWHpoSVNwZlRLeGx5RGVJZGtuUmZCZ9IBVEFVX3lxTE45X3VOb3ZGbnJkTG9ucU9kVjZMTUtzN3JqaWltMm80UkxMaVBIZzdYWmxxUFlUUEVVeVAwcWVMVXA0VUZWZDRsYmwtNGRHUkU3eG9vUg?oc=5",
+        "title": "'반도체株 직격탄' 코스피 7600선 마감…코스닥도 휘청 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tVUtFVmVDVGFGU2Fpem9CY3ROUzFUUER1aDIyYVp4aE94OWhNeDlaYXczZVJWN0ZPVkZFR1RvVHgyRV9xM0pTWmllaGU0cTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[사설] 호남 반도체 계기로 진영 아닌 국익 우선 정책 추진해야 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ob0g4SHhDbkFYVHBsYS1JOXVYdVZIZ2s2bmc1UmVCLUhUa0NtUktaR3lKTm9Xamlmd1VITG56a2ctcWJaRGFvR0piaVJRTWc?oc=5",
+        "title": "미국發 반도체 숨고르기… 8천피 붕괴, 저가매수 기회? - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlTFZxTEhuVHFrWnNIMmgzbHRWdW9zQzNidDU0NllaRXJ6Sm5lLV9ZbERoSU9feENmakVJZDlrN3B4bzBPSWd2X08wcVBlVXVmRzM3YWJLaW5SakQybEF5eTUzRGprRUdr0gFuQVVfeXFMTl9pNDFUdDBqa2p3MTJhajNFQjFNS2dmc0VWU1BiQjI5Y1c1RmNiaW12WUU0MGRSWW5SdTVrMFlTNnBWSkhwUVFReV9Iblo4TGw0WWwzVER6Ylh6TGp3Uy1OaFpKclpWNVRfczQ4VWc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"반도체 급락하면 여기로 피신하라\"…'이곳'은 일제히 강세 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQ2dTQjExWkZOVmxNcDhUczdLZlJUUEttd09ZVDQzczRzX1NpdTVzVGltM1llYk1VaFRQdUZwSU1zWGl0MFV5ejRHSE1fQ0x0SWxMVFdfQmVYQdIBVEFVX3lxTE1VMnB4ZmtyTG1yVXVyY2tZZG5xWk14cVlPejBlZ2duZ2FQbHNSODNUSUR5R1NpNHhUa1h4aGFKbVFxZjZrMlpkbWNWR2JMM3daZHNCVw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI·로봇 혁신으로 글로벌 선도... 경남, 피지컬AI 적극 지원” 박완수 지사, 민선 9기 첫 산업행보도 ‘피지컬 AI’ - 세계환경신문",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeHczdnFWTUtxQXJlQ2hQeEZhMlhuSmtjMTlGckFDX2twZkFiN1Z2NUFjNGxjeF9JUDdicFdLa3JhaFVUdUVNNnBad3JCdEplaWdRbDJxRzB5eko1S3hB?oc=5",
+        "title": "과기정통부, 비수도권 ‘AI중심대학’ 8개교 추가 선정 추진 - 대학지성 In&Out",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yTXNlUzZsVXZsckpPYVpfRFFrSnR2WHQycm9JMXJrVXBEVHA5QXFKVW5xc3YzZHI3aEh0Z3I1b3c5TlVpN1cyaU5DWS1lclNKempyRU9FS2RQcXcwbmd1amdBc2VRcUtqWEZ0Sw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "과기정통부, 비수도권 ‘AI중심대학’ 8개교 추가 선정 추진 - 대학지성 In&Out",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yTXNlUzZsVXZsckpPYVpfRFFrSnR2WHQycm9JMXJrVXBEVHA5QXFKVW5xc3YzZHI3aEh0Z3I1b3c5TlVpN1cyaU5DWS1lclNKempyRU9FS2RQcXcwbmd1amdBc2VRcUtqWEZ0Sw?oc=5",
+        "title": "인천주안도서관, 구글 인공지능 기반 AI 챗봇 서비스 본격 운영 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tUnRUMWN5WUxLV01SWEltT2dUNHhuRXFxQnh2d0pFa1JSa0JhaG5JM3JrODhmUVFPWEtEbzQzb3JsNV9BT3hFZy1Vdjk4aklCZDc4azF2dnZIcG9Lc2lUUDkwZVJsWHBWZzFCV25Wc3Y?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "배재고 징계 놓고… 與 “야구부 없애라” 野 “애들 앞길 막아”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003985484",
+        "title": "“손흥민 아이 임신했다”…3억 뜯어낸 20대 협박녀, 징역 4년 확정",
+        "link": "https://n.news.naver.com/mnews/article/009/0005702000",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'여고생 살해' 장윤기의 물품들, 현직 경찰관 아버지가 폐기",
-        "link": "https://n.news.naver.com/mnews/article/comment/023/0003985484",
+        "title": "박수현 첫 정무부지사, 구본영 전 천안시장 내정",
+        "link": "https://n.news.naver.com/mnews/article/comment/009/0005702000",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"국민 혈세로 받은 연봉 회수해야\"…홍명보 감독 고발당해",
-        "link": "https://n.news.naver.com/mnews/article/214/0001509233",
+        "title": "봉쇄 27일 만에 현장검증…\"247만개 투표지 그대로 보존\"",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637647",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전국 흐리고 내륙 곳곳 소나기…수도권·강원 최대 60㎜",
-        "link": "https://n.news.naver.com/mnews/article/comment/214/0001509233",
+        "title": "전국 곳곳 소나기… 낮 최고 31도",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004637647",
         "source": "네이버 뉴스"
       },
       {
-        "title": "장세일 영광군수, 민선9기 1호 결재 '통합돌봄특구' 추진",
-        "link": "https://n.news.naver.com/mnews/article/001/0016171476",
+        "title": "대법원, 9일 윤석열 비상계엄 첫 선고…'체포방해·국무회의' 쟁점",
+        "link": "https://n.news.naver.com/mnews/article/081/0003657924",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-02 17:51"
+  "updated": "2026-07-02 19:28"
 }
