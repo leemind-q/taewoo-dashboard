@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 한국서비스품질지수 이동통신 부문 '27년 연속 1위'",
-        "link": "https://n.news.naver.com/mnews/article/014/0005542743",
+        "title": "KT, 양자암호통신 시장 선점…전 구간 보안 구현",
+        "link": "https://n.news.naver.com/mnews/article/001/0016171846",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI중심대학 전국 확대…비수도권 8개교 추가 선정한다[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/comment/014/0005542743",
+        "title": "한글과컴퓨터, '한컴'으로 사명 변경…\"에이전틱 OS 기업으로\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016171846",
         "source": "네이버 뉴스"
       },
       {
-        "title": "36년 ‘한글과컴퓨터’ 역사 접고 ‘한컴’으로…AI 넘어 ‘에이전틱 OS’ 승부수",
-        "link": "https://n.news.naver.com/mnews/article/009/0005701335",
+        "title": "\"명령어 치던 시대 끝났다\"… 에이전틱 AI가 이끄는 '자율 주행 네트워크'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009037308",
         "source": "네이버 뉴스"
       },
       {
-        "title": "트웰브랩스, 1500억 시리즈B 투자유치…영상 초지능 개발 본격화",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005701335",
+        "title": "노키아 \"AI 슈퍼사이클 핵심은 네트워크\"[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/comment/421/0009037308",
         "source": "네이버 뉴스"
       },
       {
-        "title": "K-문샷 미션 이끌 PD, 사업 기획·조정의견 제시 권한 준다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016172414",
+        "title": "정부, 총지출 5% R&D 투자…AI·반도체 승부수",
+        "link": "https://n.news.naver.com/mnews/article/421/0009037547",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "하이닉스 투자 늘수록 실적 뛴다…AI 반도체 랠리 진짜 수혜주 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oSERIYlEwZ1Bmdm1wMWhveWlJaHJQMGZFQ3k5bGJSQ041c18zZEhxZWJ1cWJJdFQwdkIxQWp3czM3QjJaeFdxRzhNWjhjMnBvZEVYZnpVOXpxUdIBVEFVX3lxTE5wVXhtOUQ0Sm5LbEtEOEZLWmltal9VdTJjb3VCNGs4N2dzYmxMSkJfcHQwZWlLV1lBMzItckppelBBaXQ3OGV0U1h4MzNFcFFzT2VuNA?oc=5",
+        "title": "반도체 거품?… 해외서 쏟아지는 경계령 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVlVWc2tLN3VfclVoRXladFdPSEZWUDlTeTFQNUdoUU53a3NrME4zQmwyR0pOYmF3S196QlB4dENhbEpWek4tc0RSSFZOLXFmcU0zcXgya2F4bkRGOC1Ic2ZxTGNXaUppR0RWNy1yaGN4UmxCMERNcWh6cG12blA3MQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“용인 챙겼으니, 업황 꺾이면 투자 미룰 수도”…호남 반도체 ‘모호성’ 숙제 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01MGVZS0djV0lYR19NV2xTV2ZXSUVkNHpHUjEzclVxblBWMXZzZy00bHpjQTQxSFA1WFR4eFE1NEpFYU1mbFVvLTBJd1RVWkJPczBMVmt2UHRWUmxIbHhUNWxpVWFHSU5IUEZBdzRrOXVCQQ?oc=5",
+        "title": "마이크론 급락에 반도체株 ‘출렁’…다음주 삼성전자 실적에 쏠린 눈 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ZDFrWlppOUY2bU5HN1lZNmpETWVqT0Y1cWR2VzlGcEc3RDlOODh5LXdOQ3J3MzZ3ZDktVWluU1p0b1dpZHpfSDBaZkJITTNXY0E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[특별기획-서남권 반도체] 대한민국 산업지도가 바뀐다 ① ‘소외의 땅’에서 ‘첨단산업의 심장’으로 - 에너지경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3Z19WWHNMLXZra2V2dm1vOVhFQmtBSnEyVmFUQ1VxSTA1SlJibU5TOGx5N0FCbDE3SDlSSUU2cnM0alJkT0pLOWY1VlMzcm0yTFp2VC1JOTItY293Y3JyeDY5dw?oc=5",
+        "title": "메타發 쇼크에 반도체주 '와르르'…코스피, 8000선 깨졌다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMEtiTGRVa1hQSExkbnhoSHVVQi1EM1FzSEFEMG4wazJ0STh2NEpxdFcydFBYU2VkTFE2S05wZ0Z4OW0zSE5tX216U2s3OTdVQndmWXlXWk1OQdIBVEFVX3lxTE1DWjllS191clh5cEhqS1ctMElrY3hrdlA1ZUVpS0JXajNXLXBjckVCUk41bS1GZmNRNnk4dEJoYThkZE9sYXZqUk1XNWJzTWU2Vnloag?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "블룸버그 통신 \"애플, 중국 반도체 업체 두 곳과 구매 협상\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zeXpERzJpSk9MLXVrZFJKV0RJemV5Zk11emdBenpBMG9qTTNobHJ6ZWF3MUZlWHRpUzRfenhkYkhFYXhUU0YtWnJKbkJ6THNZX25RZ2dNQ0pnMFF5MVUyWGpEeXcyVHNKWWNzZEFvSEdsWVBx0gF0QVVfeXFMUG1HM0MwejFPRnEtNjA4dWw1NEhoZHFwWVNxMXdmcXZCaDJ6ejVpeV9OTGlibG94c2tlaTVPN2NFbDNVUGhBdEhUUXJnREQ0dDc3WUZqTWhUMFlqSmxWNWtRenJLQUFiV1ZxcWdGYUt3elJSSTM?oc=5",
+        "title": "성수석 이천시장, 제1호 공약 '반도체 연구단지 조성' 추진계획 결재 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2WUdBaENjUVQ2NTVDY242LXpzYVQ1bHZTaXJBczNhV3VCWlNuSU1kTG03Tm85WU0yYkpoZnBubzBpdXNUQ0tMWVRGcG95dFhmd2ZTVnBxWmdlRWc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "애플, '美 블랙리스트' 中 반도체 칩 구매 추진 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KRzJBcGl6OVQ3Q1pHMnYzU0hwdlVKT0pVVERZaHdodVZSLTVOU3NoUGJ6SG9vdmtqYTdMMWN2cGNtaVBmek9RbmloYWlUMmQ5cF9HZVlB?oc=5",
+        "title": "서남권 반도체 인력 키운다…노동부·지자체·기업 머리 맞대 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUXVwa2RmbzlDZ1ZhaXNHU2JIdDNQRkRFWjBSeTU2WWk4X1gzekJLYTRLTEVvaUxlN0FiZENUeUtablNiZmEzZC1rQ3BxSkU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "\"인공지능, 자연어만으로 영상 속 객체 추적한다\"… 인하대 배승환 교수팀,차세대 비전 AI 기술 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QUR4RjFmOFJaR3Q4NktrRWFaTkVLUERPSVFFVjItTDg0RXo3TlpvRmt6MFpiU0cySk9VRHZlb0tob05IY09TZkpJMjZaOUU0bll2bHM0aW5QRGNGcmlQMzBPVTNvbzQ?oc=5",
+        "title": "한국인공지능협회, 인공지능 최고위과정... \"AI 시대, 대표의 역할이 바뀐다\" - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUXdqdUxkakVxQkZZcVJMVzhjd0NxNktHUUhSTlIxaFU3VG5fU2V5bnV3MUh6M25xNm1BTjNBMWFLWjV3dGY3N2xiX0dBQS1aRzJ4VjF5VHNpOE1jTFNxLWFxU1B2Y0U?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "제1회 해병대 인공지능(AI) 아이디어 시제품 개발 공모전 개최 - 베이비타임즈",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5X2ptakxWeVo5dmJwWDVaSmZHWWNKOFZ2S2NkQ1ZVZW9iWTh4cE1pZ3NwbG1hclJzZzVXVW5OenR3SEFid0p2SUdXS2ZHejVNdnBieS1CYzRSX2paazl2RDJjR1ROd2UxRXVIdA?oc=5",
+        "title": "축평원, AI(인공지능) 기반 ‘축산유통 디지털 전환’ 속도 낸다 - 전업농신문",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nWC1QV0ZFb2lWbTJSNHR2eUZVblgtNzBhY1lXVllrQnkyTmQzZmZrVW1sa1lFM1dzZDVjRDVRZThoX0VXNWtSU1l6alk1QzRNMkNUd3Vnbno4ZGFiRm5ESUF3WmM1VE8wWWtFTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반랑대학교 학생들은 인공지능 분야에서 성공할 수 있는 역량을 갖추게 되었습니다. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnV0aDdid3loN0V2aVR2VmRqTkhocW93RkN3WVpnY0ZVWjZROUUxMENDYlZNQjBHVFZKWmhjd1BsNndid2R3TTNfa3IxSDZ6SnY0bkFVakJNWFZldzRYQnZIVFFSamkwbEVhdHNWbGxHOTQ3N2ZiV25pM3A0eDlCUVBkSThXWFNEeDk0WVJObDh3Zw?oc=5",
+        "title": "해남군, 행안부 공공안전AI서비스 연계 지방정부 선정 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mdUw1TWF1TTZCeENHUGJMV0E4bHN4SXV0MVYxbkJaRTNDTm1SNi1xLWw5bzFHTWY5SENFT2tBUXFkSkxCaDk2dk5ZUlJnTmZkZ0hJNm9PcWRUcmM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한국기술교육대 변해원 교수, 차세대 유방암 AI 진단 모델 개발 - 사이언스타임즈",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0dpenoxQy1TVV9vTUlSaktOQllLMWliOEhsaWN2QmtBeWdSX0R3RnRsczNfdWxLTWd3UDdEZVdyTFl5d3Y5MmdUU2NGa3RLZ2FiaWdEWjdNb09HTENyVk1mWTI1Q09wWk9icTVDVkNfZ25UWFhHSEM2dUxNcUlXb3dLVkxPOGw5VGRrR3hJZw?oc=5",
+        "title": "과기정통부, 비수도권 ‘AI중심대학’ 8개교 추가 선정 추진 - 대학지성 In&Out",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yTXNlUzZsVXZsckpPYVpfRFFrSnR2WHQycm9JMXJrVXBEVHA5QXFKVW5xc3YzZHI3aEh0Z3I1b3c5TlVpN1cyaU5DWS1lclNKempyRU9FS2RQcXcwbmd1amdBc2VRcUtqWEZ0Sw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 세계 금융수장들의 경고 “AI는 잘돼도, 못돼도...경제 시한폭탄” - 뉴시안",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiN0dNN3M1NnVvQXl0Q2VpMnRoVkstVFBhRmcybjMzdzZTaDNpWkhQc3BDLU42TG5ZMXl5ckFwaDMtME9ybDRReTVnSHE3T3doWDFjUE1oYUZaazJXYmZCZUpCcWJSUF9JeXfSAW5BVV95cUxQRlZnUDNtOS0tZUI1azlFeVQ5bUowdjJ1TUVFQi03X0pOZjA4R2trNUU5ZDJtYy0taDNfbVpaSGR1VlR6akt1bHV0Qng1UDc4U0l4MU9YRHQyVy1VTnFzLVFGcjltR20tS1JmWld3UQ?oc=5",
+        "title": "광진구, 생성형 인공지능(AI)으로 구민 작가 8명 배출․․․글쓰기부터 실제 출판까지 성공 - 성광일보",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oOHFZOU83LTNINnV5N0tWZlZ3ejQ4SmxFLWtzM3lyemowdE1UaWxRTm55dWhzemw5ODFHQzdHcDlJcV9Fb015X0NBVUY3ZVItSV9wMg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'여고생 살해' 장윤기 범행 증거, 경찰 아버지가 인멸",
-        "link": "https://n.news.naver.com/mnews/article/660/0000112327",
+        "title": "현직 경찰관 장윤기 부친, ‘리얼돌 증거인멸’ 관련 감찰 받는다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005305614",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘5명 사망’ 한화에어로 폭발 사고… “세척 기계서 발화” 진술 확보",
-        "link": "https://n.news.naver.com/mnews/article/comment/660/0000112327",
+        "title": "경찰 \"한화에어로 폭발, 세척기에서 발화 가능성 높아\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/015/0005305614",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전장연, 6개월 만에 출근길 지하철 시위 재개…“장애인 권리예산 보장하라”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003731027",
+        "title": "최저임금 노사 격차 1410원으로…인상폭 줄이기 팽팽",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이준석 \"배재고 6개월 출전 정지는 가혹…철회해야\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/020/0003731027",
+        "title": "‘홍명보 선임 논란’ 축구협회 고발 사건, 서울경찰청이 수사",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004637503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울시, 서울런 이용 청소년 17만명으로 확대…\"다자녀·소득기준 완화\"",
-        "link": "https://n.news.naver.com/mnews/article/021/0002801877",
+        "title": "손흥민에 “임신 사실 밝히겠다”…3억 뜯은 여성 징역 4년·남성 공범 2년 확정",
+        "link": "https://n.news.naver.com/mnews/article/052/0002373853",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-02 04:41"
+  "updated": "2026-07-02 08:13"
 }
