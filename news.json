@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "정부, 총지출 5% R&D 투자…AI·반도체 승부수",
-        "link": "https://n.news.naver.com/mnews/article/001/0016173309",
+        "title": "최고 AI 로봇 가린다…로보컵 인천서 개막",
+        "link": "https://n.news.naver.com/mnews/article/056/0012210752",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"오래 앉아 있을수록 암 위험↑…가벼운 움직임 늘리면 위험↓\"[건강포커스]",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016173309",
+        "title": "\"AI 시대 승부처는 네트워크\"…노키아, AI·6G 혁신 기술 공개",
+        "link": "https://n.news.naver.com/mnews/article/comment/056/0012210752",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"40대 초반에 세계적 연구자 키운다\"…장석복 IBS 원장의 승부수",
-        "link": "https://n.news.naver.com/mnews/article/003/0014042014",
+        "title": "“논문 수보다 ‘돌파형 연구’ 가 중요…새 영역 창출해야”",
+        "link": "https://n.news.naver.com/mnews/article/421/0009036508",
         "source": "네이버 뉴스"
       },
       {
-        "title": "M.AX 시대 이끌 미래 인재 집결…'2026 국제로보컵' 인천 송도서 개막",
-        "link": "https://n.news.naver.com/mnews/article/comment/003/0014042014",
+        "title": "메타-구글은 안경, 머스크는 단말기? 달아오른 AI 기기 경쟁[IT팀의 테크워치]",
+        "link": "https://n.news.naver.com/mnews/article/comment/421/0009036508",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“스페이스X, 머스크의 새로운 AI 기기 시제품 공개”",
-        "link": "https://n.news.naver.com/mnews/article/001/0016173831",
+        "title": "세계 한인 과학기술인 1000명 서울 집결…AI·양자·로봇 협력 논의",
+        "link": "https://n.news.naver.com/mnews/article/008/0005380615",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“韓 반도체 대규모 투자, 종말의 시작”…'빅쇼트' 마이클 버리, 삼전닉스 800조 투자에 찬물 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nd041Y09XRUJ5aXdTclNvUWtkamVZYXgxdkhTUUV2cm9ZTU5wWlRRVG1LODlxcXdTOHJfaEo2dzRNMm80bUlkTlZkajlEUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "마이클 버리 “한국 대규모 반도체 투자, 종말의 시작”… 美·韓 반도체주 동반 하락 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmNMVE1XQk5DWFJjcElDYUFXU2N3RTZGSUdreFEwQ2xVVmZldDJZc3Jld1hLUkhFTHdSSEt0OG81UnRkSlpfSnItYkRWRmpCSUVaRkltb0tENWtRWGR3WEhFYU03X1lqTUc5N19MM042QmZOQklnblotajEydkY5ZmhydEp0U2w10gGcAUFVX3lxTE9FcUFRSlUwcWNicll1MU96X0dLUktRR1FzSEpVTWVTeUhTbEhFWkc0cDduMUZMUUlnRDN4bjRGMHdlZ3REdmlEanR4djRwX0RGQ04wVlBVZDR0WjdVN3pKLUN0OXpFSWdzOXNzZnIwRDZMRG1yYi13X0RjQlBqOEZtUkl1MXN3cU9SeU5fbVkxUHA3UEltM05YcU5hRQ?oc=5",
+        "title": "그때는 틀리고 지금은 맞다? 호남 반도체 앞에 선 與 딜레마 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yVVNPT1VrTWJ1ekVIanlWamF0U2NzQkR2eDdHNnJLWnc0eGtMTGdIMi1kZUVTRXpLdVd5bzdKMkUwQkRQSlZpOThNUVIyOXdvOHZfTUFR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,17 +39,27 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "안철수“100조 반도체 초과세수, 호남 무제한 투입” - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10VW1LRE1HbU1BdGZQQTNKVVY4RjRjWS1XaldhOEpidHctSm1fZ1Fyc1lRc0RfcGFOU24wbGt2WUFTWEZrcEgydXZIbmlZUWpj?oc=5",
+        "title": "마이클 버리 “한국 대규모 반도체 투자, 종말의 시작”… 美·韓 반도체주 동반 하락 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmNMVE1XQk5DWFJjcElDYUFXU2N3RTZGSUdreFEwQ2xVVmZldDJZc3Jld1hLUkhFTHdSSEt0OG81UnRkSlpfSnItYkRWRmpCSUVaRkltb0tENWtRWGR3WEhFYU03X1lqTUc5N19MM042QmZOQklnblotajEydkY5ZmhydEp0U2w10gGcAUFVX3lxTE9FcUFRSlUwcWNicll1MU96X0dLUktRR1FzSEpVTWVTeUhTbEhFWkc0cDduMUZMUUlnRDN4bjRGMHdlZ3REdmlEanR4djRwX0RGQ04wVlBVZDR0WjdVN3pKLUN0OXpFSWdzOXNzZnIwRDZMRG1yYi13X0RjQlBqOEZtUkl1MXN3cU9SeU5fbVkxUHA3UEltM05YcU5hRQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독] 800조 호남 반도체 클러스터에 '주52시간 예외' 검토 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Z2hKUUtKN2xET0RaSG5pajdENGdfdUctMnI5TG5oTEtyTnhYTFJJWTFnLTRxRElWak95YjlBSzNPVmhsMmw5d2gtWVdob3NhTWZYUTZTQWFUODM0MmcwWXdia05DcFdTZnpKYdIBckFVX3lxTFAyVmlxNzZXaEp6X1NEdjlIT2Q1YWF0NUpQRDJNUEg5TEk3VHVNdkpqTlVnQ3V2RWpNMjMwVDBqTFdPemdUTEI2TEdQVTZxcUllZXhIV1FoczMyam9kMVN5NUctTFpiSGdHX0t4Z0I4dlUwdw?oc=5",
+        "title": "'빅쇼트' 마이클 버리, 반도체 숏 들어갔다…\"韓 대규모 투자, 끝의 시작\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDM3dkcXp6MXJ0b0FZdzJteGt3UFU0dEJhQW9yem1KNXNFX212M0VXSTBKR2xDbTRvemo4WWNDa1VIcVFDV3RNZHo5MlFmMlk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 수요 위축 우려에 코스피 또 경보 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VZzByY1BxYTVCZWJvRWJCWmY2SEl3WnBac0VBR19IMXZJRjZGdkNDX053d1daZ0pGbUFqaHhjVGdiUkhrMkh3M3NGQlFDWHBBdGRXWEJXWGN4dUk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "[AI 프리즘] 샘 올트먼의 '인공지능 규제론'...美 빅테크 독점 위한 덫인가 - 뉴시안",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13ckFtNW9IVU1ELTI3c2ZIbzRjVW9vb0otLWtwNlNCc09kQjFLUGsxalhQeF9HNnl4eDVjOU5kaGNMM0NDV0pmZG4xT1dDNVVNVm5NMUJQcEpuaDBSNzdMZUVCVzk2TnQwYzBB0gFuQVVfeXFMUGZfbmViYUxfTVZ5VjU5Ql90QnhRNUNFc3hTcW13VTU0Q01NU2hyX0JPRmpEM040Vkw4WG1uSzJVb3FPMWlhdnllaUg1aG5SWjY0OHBKdHY2SDAyY1Q1cTBBcHBGLWFQZm96QXlCWHc?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "한국인공지능협회, 인공지능 최고위과정... \"AI 시대, 대표의 역할이 바뀐다\" - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUXdqdUxkakVxQkZZcVJMVzhjd0NxNktHUUhSTlIxaFU3VG5fU2V5bnV3MUh6M25xNm1BTjNBMWFLWjV3dGY3N2xiX0dBQS1aRzJ4VjF5VHNpOE1jTFNxLWFxU1B2Y0U?oc=5",
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "국가건강검진에 인공지능 전격 도입…의료계 긴장 - 데일리메디",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VV2Nxd2NJdmlvRzJTRzJDOFg1VmpDLTFCeUZJbk9OZHdxZ0cwNFl4LXZzUVhUNnJ5QXBrLVlqUDZhTUE5aE4ycHhubi1jdFdISFU5WHMtQ3JoNVd4LS1rRURRa0d6bWIxTVVwVlNVTm5vb0FB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "축평원, AI(인공지능) 기반 ‘축산유통 디지털 전환’ 속도 낸다 - 전업농신문",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nWC1QV0ZFb2lWbTJSNHR2eUZVblgtNzBhY1lXVllrQnkyTmQzZmZrVW1sa1lFM1dzZDVjRDVRZThoX0VXNWtSU1l6alk1QzRNMkNUd3Vnbno4ZGFiRm5ESUF3WmM1VE8wWWtFTQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광진구, 인공지능(AI) 활용 글쓰기 교육...주민 8명 작가 데뷔 - 시정일보",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZWxIVHdMYUV0bkVxTV9HOEVXUTlKRUM5RjJxWFZmdXhlT3A3Y1N4WTNSbVFTSGNBeFJpczFWMjVxV19KeUVNSElwMVJPaXlQakloNlRfYmdGN0ZsSzJ2Q1V0ZTdnLVV6OEM4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광진구, 생성형 인공지능(AI)으로 구민 작가 8명 배출 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oV1BsVTJ6dU9ZLVpiMWppUHRqSVFKeGswaEN2V2E1MWhpbXV6bVBrYkE2X0E2TEtnNnR1Y2JGM3ZnTW15Q2hKR2RBY2J0NWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘여고생 살인’ 장윤기 부친 증거인멸 감찰 착수",
-        "link": "https://n.news.naver.com/mnews/article/056/0012210520",
+        "title": "초3·4, 중1, 고1 '독서교육 집중학년'…매일 아침 10분 책읽기",
+        "link": "https://n.news.naver.com/mnews/article/001/0016172423",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“손흥민 아이 임신했다”…3억 뜯어낸 20대 협박녀, 징역 4년 확정",
-        "link": "https://n.news.naver.com/mnews/article/comment/056/0012210520",
+        "title": "시민단체, 홍명보·정몽규 등 고발…\"능력 없는데 기만해 돈 받아\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016172423",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 前대통령 '체포방해 의혹' 9일 첫 대법 확정 판결",
-        "link": "https://n.news.naver.com/mnews/article/660/0000112362",
+        "title": "‘여고생 살해’ 장윤기 아버지가 현직 경찰...성인용품 등 증거인멸",
+        "link": "https://n.news.naver.com/mnews/article/055/0001369073",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘경남 홀대론’ 정면 돌파…박완수, 피지컬 AI로 반격 나섰다",
-        "link": "https://n.news.naver.com/mnews/article/comment/660/0000112362",
+        "title": "제13대 경북도의회, 전반기 의장에 최다선 김희수 의원 선출",
+        "link": "https://n.news.naver.com/mnews/article/comment/055/0001369073",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북도의회 전반기 의장 김희수, 부의장 이춘우·박순범 각각 선출",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702000",
+        "title": "권창영 특검, 김명수 전 합참의장 불구속기소…“계엄 가담 의혹”",
+        "link": "https://n.news.naver.com/mnews/article/421/0009037121",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-02 20:43"
+  "updated": "2026-07-02 22:10"
 }
