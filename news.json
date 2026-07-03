@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "ISMS-P 인증에 AI 기술 접목…'개인정보 보호 기본계획' 추진",
-        "link": "https://n.news.naver.com/mnews/article/138/0002233016",
+        "title": "‘한국판 스타링크’ 저궤도 위성 통신망 2035년까지 만든다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003731480",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“구름·야간 뚫는 ‘적외선 위성’ 우주안보 핵심...K-군집위성 구축해야”",
-        "link": "https://n.news.naver.com/mnews/article/comment/138/0002233016",
+        "title": "광운대 로빛, 로보컵 2026 휴머노이드 축구 리그 참가",
+        "link": "https://n.news.naver.com/mnews/article/comment/020/0003731480",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'공포의 외인구단' 이현세, 멘토로 나섰다…네이버웹툰, 만화창작캠프 후원",
-        "link": "https://n.news.naver.com/mnews/article/366/0001176574",
+        "title": "'이현세 만화 창작캠프' 성료…예비 작가 91명 단편 완성",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543364",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "루카스바이오, 한국파스퇴르연구소와 SFTS 기억 T세포치료제 공동개발",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005543364",
         "source": "네이버 뉴스"
       },
       {
         "title": "토큰 비용이 ‘10분의 1’…중국 AI 모델 무시 못할 이유",
-        "link": "https://n.news.naver.com/mnews/article/comment/366/0001176574",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'남해안 벨트'...달 착륙 2년 당기고 '한국판 스타링크' 만든다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702047",
+        "link": "https://n.news.naver.com/mnews/article/018/0006321594",
         "source": "네이버 뉴스"
       }
     ],
@@ -31,6 +31,16 @@
       {
         "title": "\"종말의 시작에 불과\" 경고까지‥반도체 수요 정말 꺾일까? - MBC 뉴스",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80d3ljS2tNeVVMSms1NHFGTWU3VWNMcnplS044a1BDLVlqMS1GeEctTndJTjlEMEVnS2xLWGswUlJUalhEa01lOV9BWFJUS19hQkNISENDTi1VV1B3b1hieV9vemUtbGFVUnRwMkw5TW5JeVVkX1BPVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "잊을 만하면 고개 드는 ‘AI 거품론’…반도체 투자 흔드나 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJZldlZWZGQWtyMnFFVmU3UDQtN3Y2bms1dE9xM1lOV2dDVFFzWm1UcXlDeWRwT1hlRzk3MTZpZmx2TWZFOGxKOHhDcXRFRlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 거품?… 해외서 쏟아지는 경계령 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVlVWc2tLN3VfclVoRXladFdPSEZWUDlTeTFQNUdoUU53a3NrME4zQmwyR0pOYmF3S196QlB4dENhbEpWek4tc0RSSFZOLXFmcU0zcXgya2F4bkRGOC1Ic2ZxTGNXaUppR0RWNy1yaGN4UmxCMERNcWh6cG12blA3MQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -42,19 +52,14 @@
         "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1%↓(종합) - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13ZDIzUldyeVJZcGhOd1ZLVUhsdDRROUFyRi1CM0ZOSmV2RjJ6dHAwT2puR1Vfc005NFJlYXhhVE5PWGxrWGphQVJxOEhmTUE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "미국 반도체 이틀간 11% 하락‥국제유가 소폭 상승 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55dVB3V096OGFHYVBrX1VXUVlGcEk2OERpZENxMTBYMW1uc0FFVXkwQmk0Qm81clRRLVQwaWFFMmpuak5Ia1JibXhmM3Vva3g0c1Y1ay1JM2pYZ3pfWXZhZXdVS2daUTAzOHZHVHlPdDFPNk9J0gF0QVVfeXFMUF9EdWJESUFQYURNbHpuVkR4Mm42M1FIV3lIcmQ3SDZoQkdDV2R6TTFocnVvMmhoWElmcXFTcmpBVExoSlZibTUyWWtzdC1fd1J4SHlDZGJMUnVlOGh0bjEzVWp0S0Q1alRhXzZBVjdLOEI5ejE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[선데이 칼럼] 반도체 공화국의 재정정책 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUUU0MXk0RTEwTUpzY3JsWVhMQ2JpVVM3TWVOMVB6N2hRNzZpeTUxenhTdW43Wk5fdGJXazQ3cHE4aFJuY1lsSUVsVXNVSE5oaDhYYUdB?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "[금융권 인공지능 활용①] KB금융, ‘KB with AI’ 본격화 - 바이라인네트워크",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbllVN0k2Y255MlBJRkdzTTg5dnUzUUE0V3ZYaWxxWlJXejV5OEVhTVpxUlI2ellCV2pTdGh6ekstQXNVZFJfUHlzbk5DaFk?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "디지털 기술 향상 및 공공 서비스 분야에서 인공지능(AI) 활용을 위한 교육. - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWo5YnpXY3l0MENaNWRrN01PekZkVkgxSEloWUktU1doOUw2UjhxUEd6R1BKd0UxTjFHaEVxNm1xRklTd1BtcHZTSWxNM2p0QnVpS2tqd1djZ1A3V0xZbVE0UkJIZFliclR0bjBYS01CbjZhVGFha0xBTnJxdG9YZHM0NG1ZcFNkUmp6NEtONWROUzJaR1otdDViQlBVak5zRVFOdVEyS05lOHhuOGlZcQ?oc=5",
@@ -63,11 +68,6 @@
       {
         "title": "한국수력원자력, 인공지능 스타트업 육성 거점 ʻKHNP AI누리ʼ 개소 - CBN뉴스",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SaVNpc3E3dm84ZEotQU9adVZoX0lGTFZnZm1Yc3dFRFRpTmotekJPelA0SFhycE1sYS1Vd1FDRG5ubmJoSFpyYnRsNTNsczI1WGUw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[금융권 인공지능 활용①] KB금융, ‘KB with AI’ 본격화 - 바이라인네트워크",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbllVN0k2Y255MlBJRkdzTTg5dnUzUUE0V3ZYaWxxWlJXejV5OEVhTVpxUlI2ellCV2pTdGh6ekstQXNVZFJfUHlzbk5DaFk?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "광주 서중·일고 동문회 “배재고 사태, 진상규명·책임 선행”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002665275",
+        "title": "경찰, '파란대문 장미' 잘라간 60대 조사...\"꺾꽂이하려고\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002374420",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"사람 쓰러졌다\" 신고에 출동해…순찰차로 밟아 숨지게 한 경찰[자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/comment/016/0002665275",
+        "title": "박성재 ‘수사무마 청탁’ 공소기각에 항소했지만 법원서 기각",
+        "link": "https://n.news.naver.com/mnews/article/comment/052/0002374420",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주공항서 실탄 소지 적발 경찰 ‘입건’",
-        "link": "https://n.news.naver.com/mnews/article/081/0003658237",
+        "title": "특검, 계엄 목적 묻자…尹 \"그냥 선포만…후속 조치 없었다\"",
+        "link": "https://n.news.naver.com/mnews/article/023/0003985584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 ‘공수처 체포방해’ 상고심 9일 선고… 첫 대법원 판단",
-        "link": "https://n.news.naver.com/mnews/article/comment/081/0003658237",
+        "title": "종합특검, '내란 가담 의혹' 김명수 전 합참의장 등 4명 기소",
+        "link": "https://n.news.naver.com/mnews/article/comment/023/0003985584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘이재명 쪼개기 후원’ 혐의 김성태, 1심서 벌금 500만원",
-        "link": "https://n.news.naver.com/mnews/article/055/0001369412",
+        "title": "'쪼개기 후원' 김성태 전 쌍방울 회장 1심 벌금형",
+        "link": "https://n.news.naver.com/mnews/article/015/0005306100",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-03 17:59"
+  "updated": "2026-07-03 19:42"
 }
