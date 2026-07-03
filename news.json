@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "‘한국판 스타링크’ 저궤도 위성 통신망 2035년까지 만든다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003731480",
+        "title": "AI 환경에 맞춰 개인정보 보호한다…정부 3차 기본계획 발표",
+        "link": "https://n.news.naver.com/mnews/article/079/0004164502",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광운대 로빛, 로보컵 2026 휴머노이드 축구 리그 참가",
-        "link": "https://n.news.naver.com/mnews/article/comment/020/0003731480",
+        "title": "로봇 두뇌 2879명 인천 집결…세계 최대 AI 경연",
+        "link": "https://n.news.naver.com/mnews/article/comment/079/0004164502",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'이현세 만화 창작캠프' 성료…예비 작가 91명 단편 완성",
-        "link": "https://n.news.naver.com/mnews/article/014/0005543364",
+        "title": "네이버웹툰 후원 ‘이현세 만화 창작캠프’ 성료…“차세대 작가 발굴 지원”",
+        "link": "https://n.news.naver.com/mnews/article/277/0005785098",
         "source": "네이버 뉴스"
       },
       {
-        "title": "루카스바이오, 한국파스퇴르연구소와 SFTS 기억 T세포치료제 공동개발",
-        "link": "https://n.news.naver.com/mnews/article/comment/014/0005543364",
+        "title": "오는 7일 '농림위성' 우주로...누리호 5차 발사 준비 '착착'",
+        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785098",
         "source": "네이버 뉴스"
       },
       {
         "title": "토큰 비용이 ‘10분의 1’…중국 AI 모델 무시 못할 이유",
-        "link": "https://n.news.naver.com/mnews/article/018/0006321594",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637728",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,13 +34,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "잊을 만하면 고개 드는 ‘AI 거품론’…반도체 투자 흔드나 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJZldlZWZGQWtyMnFFVmU3UDQtN3Y2bms1dE9xM1lOV2dDVFFzWm1UcXlDeWRwT1hlRzk3MTZpZmx2TWZFOGxKOHhDcXRFRlE?oc=5",
+        "title": "메타發 반도체 공급과잉 신호…하닉 14%-삼전 9% 급락 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zLTFrXzdaUWMwRHpWNDkwc2lRanlKUy1RcUozWUxTeFYwTU56N0xQcURVUVR5V3NIMVFSSjV1dUxfc21DRVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 거품?… 해외서 쏟아지는 경계령 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVlVWc2tLN3VfclVoRXladFdPSEZWUDlTeTFQNUdoUU53a3NrME4zQmwyR0pOYmF3S196QlB4dENhbEpWek4tc0RSSFZOLXFmcU0zcXgya2F4bkRGOC1Ic2ZxTGNXaUppR0RWNy1yaGN4UmxCMERNcWh6cG12blA3MQ?oc=5",
+        "title": "잊을 만하면 고개 드는 ‘AI 거품론’…반도체 투자 흔드나 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KTlVKWmtaSU5FczNwRVdWWXFRV3VpbzlWakJuandTTTB6dFRoTGVUbzlFMG1mWlpDa2Z2YV9XUUM3U2RvOUZFRlN2aE1fMXUtVUg0VDNoekdTUVk?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -56,6 +56,11 @@
     ],
     "AI": [
       {
+        "title": "한국수력원자력, 인공지능 스타트업 육성 거점 ʻKHNP AI누리ʼ 개소 - 서울경제TV",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYUlRdnMwZGowbVBIVFIwY2RpQ3ExNUdhNi1PSnZsQXRuZjZadFdvTjc2U1RWVWw2Q3FMZXpFNFRXajZCWE9jalB5dDhxclFBNUQ1YjhpU2xFeHZNSExZdjlUZHY?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[금융권 인공지능 활용①] KB금융, ‘KB with AI’ 본격화 - 바이라인네트워크",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbllVN0k2Y255MlBJRkdzTTg5dnUzUUE0V3ZYaWxxWlJXejV5OEVhTVpxUlI2ellCV2pTdGh6ekstQXNVZFJfUHlzbk5DaFk?oc=5",
         "source": "구글 뉴스"
@@ -63,11 +68,6 @@
       {
         "title": "디지털 기술 향상 및 공공 서비스 분야에서 인공지능(AI) 활용을 위한 교육. - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWo5YnpXY3l0MENaNWRrN01PekZkVkgxSEloWUktU1doOUw2UjhxUEd6R1BKd0UxTjFHaEVxNm1xRklTd1BtcHZTSWxNM2p0QnVpS2tqd1djZ1A3V0xZbVE0UkJIZFliclR0bjBYS01CbjZhVGFha0xBTnJxdG9YZHM0NG1ZcFNkUmp6NEtONWROUzJaR1otdDViQlBVak5zRVFOdVEyS05lOHhuOGlZcQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한국수력원자력, 인공지능 스타트업 육성 거점 ʻKHNP AI누리ʼ 개소 - CBN뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SaVNpc3E3dm84ZEotQU9adVZoX0lGTFZnZm1Yc3dFRFRpTmotekJPelA0SFhycE1sYS1Vd1FDRG5ubmJoSFpyYnRsNTNsczI1WGUw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "경찰, '파란대문 장미' 잘라간 60대 조사...\"꺾꽂이하려고\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002374420",
+        "title": "식당서 기르던 반려견에 비비탄총 난사 20대들 징역혁 구형",
+        "link": "https://n.news.naver.com/mnews/article/005/0001858828",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박성재 ‘수사무마 청탁’ 공소기각에 항소했지만 법원서 기각",
-        "link": "https://n.news.naver.com/mnews/article/comment/052/0002374420",
+        "title": "주말 장맛비 북상, 전국에 퍼붓는다…제주 산지엔 150㎜ 물폭탄",
+        "link": "https://n.news.naver.com/mnews/article/comment/005/0001858828",
         "source": "네이버 뉴스"
       },
       {
-        "title": "특검, 계엄 목적 묻자…尹 \"그냥 선포만…후속 조치 없었다\"",
-        "link": "https://n.news.naver.com/mnews/article/023/0003985584",
+        "title": "간호사 숨진 그 병원, '태움' 처음 아니었다...\"최악은 '시선 태움'\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543522",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, '내란 가담 의혹' 김명수 전 합참의장 등 4명 기소",
-        "link": "https://n.news.naver.com/mnews/article/comment/023/0003985584",
+        "title": "[단독] 박성재 '수사무마 청탁' 공소기각에 \"무죄 선고\" 항소했지만…법원은 기각",
+        "link": "https://n.news.naver.com/mnews/article/comment/014/0005543522",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'쪼개기 후원' 김성태 전 쌍방울 회장 1심 벌금형",
-        "link": "https://n.news.naver.com/mnews/article/015/0005306100",
+        "title": "경찰청 \"'삼전닉스 성과급 백지화 공문설' 가짜뉴스 내사 착수\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009040176",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-03 19:42"
+  "updated": "2026-07-03 21:10"
 }
