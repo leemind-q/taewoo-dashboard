@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "KIST 스쿨 25주년 기념 '홈커밍데이' 개최[과학스냅]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016174751",
+        "title": "루카스바이오, SFTS 기억 T세포치료제 개발…임상 진입 추진",
+        "link": "https://n.news.naver.com/mnews/article/421/0009038928",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, T우주서 '구글 AI 플랜' 출시…AI 구독 서비스 확대",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016174751",
+        "title": "\"AI 다음은 양자\"…'퀀텀 코리아 2026' 미래기술 무대 가보니",
+        "link": "https://n.news.naver.com/mnews/article/comment/421/0009038928",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버 치지직, 세계 최대 e스포츠 EWC 단독 생중계",
-        "link": "https://n.news.naver.com/mnews/article/018/0006321606",
+        "title": "이상철 항우연 원장 “독자 군집위성 체계 구축해 우주경제 대비해야\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0005305906",
         "source": "네이버 뉴스"
       },
       {
-        "title": "개인정보위, AI 시대 개인정보 보호 체계 혁신…유출·침해 사전 예방",
-        "link": "https://n.news.naver.com/mnews/article/comment/018/0006321606",
+        "title": "SKT, T 우주에서 '구글 AI 플러스' 월 6900원에 출시",
+        "link": "https://n.news.naver.com/mnews/article/comment/015/0005305906",
         "source": "네이버 뉴스"
       },
       {
-        "title": "통신사들, AI·6G 시대 필수 '양자암호 기술' 공개",
-        "link": "https://n.news.naver.com/mnews/article/119/0003107797",
+        "title": "디지털경제연합 \"한성숙 신임 국무총리 임명 환영...민관 소통 가교 기대\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320920",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1%↓(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13ZDIzUldyeVJZcGhOd1ZLVUhsdDRROUFyRi1CM0ZOSmV2RjJ6dHAwT2puR1Vfc005NFJlYXhhVE5PWGxrWGphQVJxOEhmTUE?oc=5",
+        "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1%↓(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UVHloel9RZVBqSTZqSkdwS1NCbUNUVlkxdkx0NGJsOEhLNHlCOGpLd0dSNVdnZ2h4d05fQnFaTVZqU2ZodHJKazBBZm1IYlhVbzg3WHFRTUYxcUXSAWBBVV95cUxPMThGSmtWZVhxd2cxLXZ4aVdyeEgtaVpER2FLcFVrV05FY2lMb0U2VnZxS1FFUGVGSWx3Q0FMRWFPWTdjVW5mbFhaTmtkNXBkLTZBTk1lQUtDZFNfZ3REYmY?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[속보]반도체 팔고 ‘이것’ 사는 순환매 흐름…뉴욕증시 혼조 마감 - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TZ0NPTFNhSEhuTTJxcFdUX1dLd3gyUDVrUk80SkMwdThIMG4tYjhyNjUyYnZCSHk2UUlQR29TbUV1OFZJdGtvdmRBZ3FleVJC?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[굿모닝 증시]美나스닥 하락 지속…\"한국증시, 반도체 중심 변동성 확대\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyQ1lLMmVSRDA1UENRTVZ1VjRaRWdsZHM1d2tDUWh0TFR4WmtQNDA4T2lRRV9EenpUWU1FQzRLWEhYUlh5UTRDbkpqaEQ3S2s?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "한화·현대차·삼성·SK 등 영남권에 312조 투자…AI·반도체·로봇 거점 육성 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rdEJ3cFRkS2t0WVVTT3JSZFRyTlBLUjBBbXpYNVA5LUQwbFZYS0E0TVhTQUd0bG1RenZ0bFM0YWRPbWlhal9oWFJOZlRGWFMyQUFIYw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[국민보고회] 영남, 전력·용수·공항 다 갖추고도 반도체 투자 '제로'…'님비' 우려 데이터센터만 잔뜩 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBybTI0elhENm1UZ2xTdG9pTi1Pb2V3b0VHbUEyelNkc0FQeklVNnlnbXI3RklPTWtCOEEydDRWbmdwbVdLbUU3STcydUNtaG8?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한화·현대차·삼성·SK 등 영남권에 312조 투자…AI·반도체·로봇 거점 육성 - 채널A",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TbVZVX19PNGdNZkZ5YUxvQ1RxeEVudEVkUHZTT0dOV2gxVDE2NnMyazlUZ095ZURDTkVodVhqVF9CYUlmUmh1QXEzTmlocWsxYTViaWtZZ0NGaWZrVFHSAWNBVV95cUxONFJlQmJjalB0TUxTaXBKN2V5SThNaTU0QVdrcHhnN3RKWnNvWGNfM0xfdjA5eHQza29uQUJ3OVl6U0lhMmxuaU5uLW55WjJmYUxDbnBVbXFGQ1ZONlVXUXU3LXM?oc=5",
+        "title": "“반도체 38.7% 착시…수출 호황에 가려진 내수의 비명” - 스트레이트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13ZndoTThVWFpmR2pkSjFrMzJieGdzbXN2dFpITFNZY2ZnU0FOZE42TjROVjJxTU5iNk1jU1pFR0N2WXlQZUxqb2hTN1FXS3ZIZ3NwN3JfblpxZHJBSWxqVEFZdnItOWY5eW5Ja0ZyNExnRzTSAXdBVV95cUxPSTNHNENEekR1eUpaLURLcEhRRGpuUHRtRDF3am43dXRXLTQ3SGROcks1RF9MbjBwRzUzWGRMUmxfODBNd3pSYzJnSjBqQjV0cl8zb20xSFdQLW95eUUyOE9qUUNuYWRoNndDQWhabUFvNlZybTlxYw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[금융권 인공지능 활용①] KB금융, ‘KB with AI’ 본격화 - 바이라인네트워크",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbllVN0k2Y255MlBJRkdzTTg5dnUzUUE0V3ZYaWxxWlJXejV5OEVhTVpxUlI2ellCV2pTdGh6ekstQXNVZFJfUHlzbk5DaFk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "교육훈련부는 교육 및 과학 연구에서 인공지능(AI) 활용에 관한 규정을 발표했습니다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDFXblRPWWpvanBzYUpBREVySXlqVGtkWUwyNTVGdkN3MmxFMUN3ejVxbkFla1ZDUm83T1JIYmVpR0dxUVQ3aFZMck0tVkh4NmxoQVpMYmtyWHl4dmhVVkRycmpNNS1MNkFaMzFyb285MmVfZXdjM1NybmlzT3U4WUZETEF1ekZwVFRiM0tUVFdreVdFWUNtOXNzbFRNd1NPTFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "SK, 140조 승부수…영남에 '아시아 최대 AI허브' 만든다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uTDRIcHFvUnItTDItWUpiakxONUs4TnBubkh2ZnBrT2Q1VXQ5SkNBSFlGUDlnVGFXclhiM01KY3owMjFKMVdiY1dhQmpDMDk0NDhZajdUaE5QV2_SAWBBVV95cUxNN3BvWTFsbG9DclU2eWpxNEEwVm1RN0VKV1gzNTBnRElRYlpMTExRNl9tSFJvLS0wNWdPQWdYRTNiY0ZCYjc3bkdCUUFjLXZCM3JoZFJ6WTZuTEkwVFNJc3Q?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "AI 투자 증가=감원?…은퇴한 엔지니어 재고용하기도 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXNqaEhBU3dYeW1VVnBBSE1rNXRRRHdDeG43MEJpYWVwb2Q4MnlOVFV6VnMxSzNvUlg1QlVYblFZVE8tWU0ycWVNTkwtbi12TFF2bUhJZHF1a2lmVFZIZlJWcktOLVhRcDcyNzVBUHk2WnBrb3E3Qzg2aWdMSkp2VWxQeWsxdm5nRU03SlJB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "‘소형 데이터센터 기반 인공지능(AI) 산업 성장 지원사업’ 선정 - 서울뉴스통신",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xSWI0bGc2emxvdnJyV2ZwaG5pbEpmYXhVc1c1QjJYZkVPaXVfZ2JBU0tyMGtGRTRRbGRyUURWMGlaeU5Db1p3RHFPM1hHQTFuR1VYSGZ4OXJVUEFZWTBfdU5zWW00UTRaejRr?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[기후부] 인공지능(AI)과 국민의 아이디어가 만나 기후·환경·에너지 문제 해결한다 - 워터저널",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5V18zeW56b0JnUERTdG4xQlJWc1E5TnZROVloMUNWY29PTVAwc2l3RF9JeVhTRWQ0ajJHdmVibE9RdkR5eU0yRGp1LVZlZ19vVWFOUGtybFN3Qm9uc3IxZ3FGYkNDWEhMSFdFenBCRl9qd9IBdkFVX3lxTE1ya1l0bURPbm9BenpIRUNWRURVS1FsNXlZM1NaOFUxZ2hYZ01kZ1FpTVl2Wl96UDNiM2JEb0F5TVBTNV90SktXNHdMaVV5UkRwSHFwTmN0MTlyU3gzSWZ1UUtWODNFdUxlMjl4bmw3YWIyYk81cHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI로 흉부 X선 영상 분석···골다공증과 질환 병변 찾는다 - 메디칼업저버",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iUVJDN21UdDg0Y0NoR1ktam1xS2VoQVQ4WHROTFBHVXBEX3FYYWxmcGt5OExwVWZYdjc3bUZhckM4THNIcjd6NXp4di1fNEg4Y08yNjZDNzNOYXVRT19mVVFtNGZQOXRiWUI4?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[단독]종합특검, ‘30일 3차 연장’ 국회에 요청···공소유지 변호사 요구도",
-        "link": "https://n.news.naver.com/mnews/article/032/0003455933",
+        "title": "홍석기 신임 국수본부장, 첫 수사지휘부 회의…\"개편기 수사 공백 없어야\"",
+        "link": "https://n.news.naver.com/mnews/article/469/0000940210",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대한신생아학회 \"신생아중환자실 운영 비상 상황, 특정 병원만의 문제 아냐\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/032/0003455933",
+        "title": "경찰청, '여고생 살해범' 장윤기 친부 증거인멸 직접 감찰",
+        "link": "https://n.news.naver.com/mnews/article/comment/469/0000940210",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“사람 쓰러졌다” 신고 받고 출동한 순찰차, 구조대상자 밟아 숨지게 해",
-        "link": "https://n.news.naver.com/mnews/article/022/0004140279",
+        "title": "\"장당 3만원\"…예비군 300명에게 허위진단서 발급한 한의사, 구속기소",
+        "link": "https://n.news.naver.com/mnews/article/052/0002374322",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 첫 '유죄 확정' 판결 나오나…'체포방해' 9일 선고",
-        "link": "https://n.news.naver.com/mnews/article/comment/022/0004140279",
+        "title": "\"정용진 결자해지\" 피켓도 등장... 총동창회 '6개월 징계' 선처 호소",
+        "link": "https://n.news.naver.com/mnews/article/comment/052/0002374322",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“배재고, 5·18 폄훼 논란 학생 2명 징계 절차…동조 학생도 추가 검토”",
-        "link": "https://n.news.naver.com/mnews/article/448/0000624072",
+        "title": "광주 서중·일고 동문회 “배재고 사태, 진상규명·책임 선행”",
+        "link": "https://n.news.naver.com/mnews/article/277/0005784888",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-03 07:23"
+  "updated": "2026-07-03 10:14"
 }
