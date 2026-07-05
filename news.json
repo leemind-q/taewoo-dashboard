@@ -2,59 +2,64 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버 \"AI 검색, 이제 ‘눈’으로 찾고 실행한다\"",
-        "link": "https://n.news.naver.com/mnews/article/138/0002233153",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
-        "link": "https://n.news.naver.com/mnews/article/comment/138/0002233153",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "여름철 안티에이징 필수품 ‘선크림’",
-        "link": "https://n.news.naver.com/mnews/article/052/0002374575",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "이통3사 2분기 실적 희비…SKT·LGU+ 선방, KT는 역기저",
-        "link": "https://n.news.naver.com/mnews/article/comment/052/0002374575",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "네이버, AI 차세대 3대 기술 공개…'눈' 스마트렌즈로 검색",
-        "link": "https://n.news.naver.com/mnews/article/018/0006322502",
+        "link": "https://n.news.naver.com/mnews/article/079/0004164880",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"3일마다 한반도 찍는다\"…차세대중형위성 4호, 7일 발사",
+        "link": "https://n.news.naver.com/mnews/article/comment/079/0004164880",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "카카오·기상청, 폭염 등 위험기상 대응 협력",
+        "link": "https://n.news.naver.com/mnews/article/030/0003444402",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
+        "link": "https://n.news.naver.com/mnews/article/comment/030/0003444402",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "메모리 품귀에 가격 4.6배 폭등…삼성 ‘갤럭시Z 폴드8’ 가격 인상 유력",
+        "link": "https://n.news.naver.com/mnews/article/138/0002233170",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "인텔도 2조3000억 쏟아부었다…반도체 판 뒤흔드는 나라 [테크로그] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQURpRnZGaU44SkZUY1M1TjVRTEg2XzlvQkg2eURxc2tLV0pEZHc4QUpkR3VnYV95dl9uZmJtdVU4Q1B5bHZlLUNadXUzRXlVM1dHNmZGcmJ4UdIBVEFVX3lxTE9mXzRTV041emZNaUM4Z2pRLTNMR1Y0V3ZiOVVCNWxOWm84bU5RcXBGRTd4ZjM4Y3k2T3RlQ2ktTEpRYnFTTHY4NlVKRzhiUHh0V1lZdg?oc=5",
+        "title": "반도체 10% 달릴 때, 18% 날아 올랐다...수익률 치솟은 업종 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUkxSYW1QRjZBRzJuQ00wcGdxaHlOenVrTjhPaUlPTEJwUXlNRnJ5OW1HTkVEQ2dtS1BQS2RTTGxYdHQwNjgzRko0NmZzYTJQMU05elA3dzRMOTBGRDhGWk1RbkFWWXpN0gFuQVVfeXFMUFo5bUFySzcyV2JaT0QxTzBocmp1Zl9YQ0txazJhSmxyQXJmWmRTRkE0SkZzaUw5OFU0QUR4eHRfRVhsVGJuMHR5MGtNTW5EY1k1S2VYVGZ1V1Vnb1N6bDdxRURjM3J6UE5JdEotQUE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 슈퍼사이클 정점?...빅테크 손에 달렸다 - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLTzc1R0lIOHYwcm5zMzFEby1ueVI2VUVmVm5hU0dPSXZIb2s3a29PeFhsZXNfMWVKM0xqUFpJQVZvLXNSdFNpcUY3Q0k0QzBpTXBWc19ZVGEtVTZhTVE?oc=5",
+        "title": "호남반도체에 800조 투자한 삼성·SK…미국 압박 시험대 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSjdRS2lQUC1IcDZpZEtQYllNazVOWUcyR294TDdIVnc3aWpFQ2x5eDQxNGpHT3FJSFpKTDB1WW9JbENlU2VrRUdGc0hxSEY5Skd4d3BzNDZPZG_SAWBBVV95cUxQSktLRnBLRlFDd3lXVkxvWkl1Q0xBcnZUWnBEdFdqaTNqRGRDREhVM3Z3ZnYyVjYtb0xCWENNM01lYjkxWUlleGZ1b0Z5Q3VBVENOc2hURnZ4VWJXMHA2bUI?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“호남 반도체팹 유력 후보지”…이 동네 부동산 벌써 뛰고있다 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQMEduMWpoUW85VzdDblIxR1czRnpYTldFNjBob0hkTGtPeE9jdjkyRHNmbjVyWEhPeG1Hek1yTmNieG5DQmEwSUJmaGlkV3A0N1l6Yld3?oc=5",
+        "title": "LG화학, 美 앰코에 반도체용 스트리퍼 공급…소재 사업 확대 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYk10NzRzc3puSDZVaHdSWXg5eHpvM0VzR1MyOGFVcjJZQzE0aHVmWTByd3ZKTklRWGR3WDN6OXdZUkJ1VFV5eVVfQzk5a2NadlZCcDhOZ1Z6aVlGcnp6X2dZRzBZQVEwYUVTZGk2U0k?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"호남이란 단어로 묶지 말라\"... 전북, 반도체 소외 뿔났다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTTm0yR3NYV09BVDBfQ193bHQtRmJVRXhpWVg1MDhfM01HZVJzbC15YkljUzk5cWRuTkk5RmhUWXVyNzNJT0NScHloOVUyQVZZQk9IY2dsbTRUWDlnMVdYUndSZE9fRmJNNnZDNEczQWVLa3BVbDBCMDhR?oc=5",
+        "title": "AI 열기 청년고용 그늘…반도체 호황도 수혜 없다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tQzVDbUNPNUw1NHYwV1c2clJET2ZaTlZaaXpXSnNfdHN5M1hmdkQyalJHODkzaDhQT3pZQ1NqZTdfaXg0Zkh4RHM5YWJPd1U?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남 반도체 팹·영남 피지컬AI·충청 후공정…전국 첨단 밸류체인 시동[3대 메가 산업지도④] - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWW5mMjdYM2hTN2llaTNPdldyQm81SkRrdnA4aTVpMXJCMk9lOWJvNDUzZGRWWkM1Zy1LaVB2SHNGcVNobVVIS1ZWLTh3TlJNd3ZGeFBlTmIxSWxYT1o3S9IBeEFVX3lxTFBnbnFfZGo4WGVuM2o4eDRNdnBvSHlkaUw3dVhTbmFEUU8yWG5NTGttTk1FSVl0SFVVMmlfZ2ZlNy1ERXZ0dlQ3UUdRcEI1ZTEtLUo4c29XaTVwOXV4dTZNNERHZU9MX2M2QUhOV0Y2M3ZNSEN3c1paOQ?oc=5",
+        "title": "\"반도체만 잘 나가\"…한국 수출 급증의 아이러니 [주末머니] - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PaUthbVhObmgtRXExMTFxQnpnNEpsRGFpc0VIbGs2Tk5tWjZSbUVfdWVpUGZCdlNudlV3dWM1ZmxXTkh2ekF1aVF6aWVLUlFjbXgzcjF2d2FJNmNMbU9pMw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "인공지능은 더 이상 대기업만의 전유물이 아닙니다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90UkRMR192ZS1OeVdFOGZseU5BbF9FLXZIVUF3bHlZSThUR2duN0h1UFNkSkUyZ1RNd19ZRVlKZWs0MS1qZzRZZ0ZZZXgyMngxZ0w2R1Z1V0N1V1lRMFRWYW5Mamo2Zl8ybzRKdk9qWGwzZnVjUzNKQkwtN2o?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[짤막상식] 움직이는 인공지능, 피지컬 AI - YTN",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdlNZYWdKQzNkVU9WX0diaWgzSmRyTl9aTVI2SVVETmt4OEs1Y0dFdHJ3S1QwcDlKMEpVc0RoWkdCRHhBSkk3SHF6M3pnQ0NYR0JWbGxBYXpseGpJY0E?oc=5",
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능(AI) 90% 암호화폐 골랐다...비트코인(BTC), 결제시장 장악하나? - 코인리더스",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mTy01NVJhbWQzeGxjOV8zZTVDdnhEM25oV2loX1ZBSEdjNHprRnVQNnRQbDRDbkxudm5uYTMtMktVTThjRm5OWHFn?oc=5",
+        "title": "산재한 경찰 AI사업 한곳서 관리한다…첫 운영훈령 시행 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNWU4YThWeWNRSWNhRFV1ZWwzMm5sMmJkQ0JkejdrTl81VnpBdU9fS2toRjdXaGs1MnZVQlY4b09qakI3TFRzdnUxdkNHMDNMZ3o3eFJ1M0IzYmppR1FabdIBeEFVX3lxTFB2QThvZ1JWVjg5NEZuVUlXU2VHb2s1ZXpsTUFGbzVsa0N2OENpUTFwY3h2WlN4bUlJTmotLTRUaEJRNlQyd2dTMWFoTk9BZXhFRm1QWGg3Y0ZsVkk3SUp5Sk5TTkF6aHhDWGQ1Ny1XWDlWdzRtSU1BUA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI의 경고 - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01eEs5U0ZVMk0wbXoyV0FHTm9LS3Nic0FJQzAwUzhsZUZ2b3B6dHpOVWV4SHRmQlJWTU02WlAtb2gtTEE0UUhtX2Qyb1d1a3VMdWNUZTZ1cw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "‘AI, 지능을 넘어 현실 세계로’ ... ｢글로벌 AI 프론티어 심포지엄 2026｣ 개최 - 대학지성 In&Out",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2ZHVDNVUwT3RUaTg4eTZmMTMwWXZBTWMzUFhjb1JqY2RFc211N3hZZ1VVSVFKT2RfU01QSm55ajg3Qmhwa1ozQktjdkZxZkhJWUhfQ0tLbjdpVFpCY1NPa0d6djZKU2xST2NCXw?oc=5",
+        "title": "진옥동 신한금융 회장, '인공지능 전환' 강조…\"리더급부터 AI 써라\" - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BeWoxZDhBTENNbkV3Zm5WZnhKQXNkMjJZaThjblIxTHZ6RnNWY3BVcGV0dGxnSTVJLUdPLXpsM2xQQXFqTDZhQW9CVldPeDd1X0g4?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "“N번방급” 김수현 협박한 김세의…협박 혐의로 재판행",
-        "link": "https://n.news.naver.com/mnews/article/011/0004638127",
+        "title": "'신생아 모텔 사망' 비정한 친부…친모에 의사 소개 빌미 돈뜯어",
+        "link": "https://n.news.naver.com/mnews/article/001/0016176168",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보]강남 도로에 누워있던 40대 남성, 택시에 깔려 숨져",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004638127",
+        "title": "'신속 수사' 권고도 무시...경찰, '축구협회 홍명보 선임 의혹' 뒷북 이첩",
+        "link": "https://n.news.naver.com/mnews/article/comment/001/0016176168",
         "source": "네이버 뉴스"
       },
       {
-        "title": "늦은 장마 본격 시작…주말 전국 비, 다음 주 초까지 이어져",
-        "link": "https://n.news.naver.com/mnews/article/011/0004638137",
+        "title": "\"상어가 나타났다\" 강릉 경포·안목해변서 신고 잇따라…\"안전 주의\" 당부(종합)",
+        "link": "https://n.news.naver.com/mnews/article/032/0003456081",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“왜 어지럽혀” 에어컨 설치기사 흉기피습…50대 세입자 긴급체포",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004638137",
+        "title": "토요일 전국 흐리고 남부지방 곳곳 비…낮 기온 최대 32도",
+        "link": "https://n.news.naver.com/mnews/article/comment/032/0003456081",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'고교 규모'가 경쟁력?…300명 이상 일반고 입학생 30%↑",
-        "link": "https://n.news.naver.com/mnews/article/021/0002802338",
+        "title": "50대男, 헤어진 60대女 흉기 살해…‘교제 폭력’ 신고 한달만",
+        "link": "https://n.news.naver.com/mnews/article/660/0000112535",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-04 23:35"
+  "updated": "2026-07-05 03:41"
 }
