@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "\"생성형 AI의 최대 136배\" AI 에이전트 '전력 비용' 정량화",
-        "link": "https://n.news.naver.com/mnews/article/277/0005785541",
+        "title": "네이버, AI 기술 대거 공개…\"검색 서비스 혁신\"",
+        "link": "https://n.news.naver.com/mnews/article/215/0001257614",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 70조 투자해 15GW AIDC 구축…\"아시아 AI 허브 목표\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785541",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카톡방 공유글은 규제 안하지만 오픈채팅 허위글은 처벌 대상",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702760",
+        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
+        "link": "https://n.news.naver.com/mnews/article/comment/215/0001257614",
         "source": "네이버 뉴스"
       },
       {
         "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005702760",
+        "link": "https://n.news.naver.com/mnews/article/092/0002429313",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, AI 검색 승부수…속도 2배 높이고 비용 3배 낮췄다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003107998",
+        "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+        "link": "https://n.news.naver.com/mnews/article/comment/092/0002429313",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
+        "link": "https://n.news.naver.com/mnews/article/056/0012211880",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,23 +34,23 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "HBM·낸드·팹리스 동시 추격…中, 반도체 위협 빨라진다 [중국 반도체 굴기 2026 上] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BSWZFMEt6OU5kOWJDVDA5X3ZMZ1JaMFJJV2RzV2IwNVNtQ3RsMzVwblNyUXVUSGRrR2JDS19jUWlFQWl6bDRnaGp5WVZyVDQ?oc=5",
+        "title": "호남 반도체 공장이 안 되면 용인·구미라고 되겠는가 [아침햇발] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNzBGWXZmMUFWWDNEblo0TE5VNURKaXpDa0FaZVd6V252R2RnS3hoT0dJczJJbFdwcEp2ZF93bGJnNUJXOXFlOTlvN1pBRFhyMkhvdE1ueDhtbTQyWHM5NkljZmVPZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "EUV 막혀도 D램 만든다…장비 자립 속도 내는 中 [중국 반도체 굴기 2026 上] - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UY3pTVU56cDUyc3BfYXdkbnl6UnRlcnUwbi0wODZWWS1xeWFEcktmUl84VnRJeWt1MkdTN0Y5V2dqVUl6R2pOWXhtSGF1QXB3V0NwMA?oc=5",
+        "title": "메모리 피크아웃? 반도체 업계 '최소 2년 뒤에나'…과거 사례 보니 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NeC1TUjZzdnZ6TnpxcW5pRGlpelhjbjRiSTQ4MmlUSEN0REh0RE9ZVDVSRkV2bHpBdXRSb0IxZFpEc0x0aWFRUW92YVREQjg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Cc2ZvbkxhdzI1UDNLNW1mbFlRY3BZUUJiWkRJTXlpSG1sc01fdUdUYmFZTTNlcWxZc1AzUW1qVjZCc2tQYkFJelZpSmRSMFU?oc=5",
+        "title": "李대통령, 반도체 클러스터 점검회의 주재…3대 메가 프로젝트 ‘속도전’ - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodFk3NlBTbTlyUHNRSHh4RzZGcW5wU1VMR3FwOTlGWE9tSlRRN2t6Mmk4WHo0cHBRaEFoUWJnOGVURmpuOGxTRmx6bnZvVkRROEwwVnBzaERmQzg1bFRqMWQ0RXU2cXVfRGl2TF9makJpeDBiN2dV0gFmQVVfeXFMTi11SVpYRlk4bXJNb1hxc3QzM1hGVlctb2otVnFaRVU0d29FVVdnTVBOQS0tSU9yX3Jjem1PWEtYZGhxTTlaTkV5eDNESE90aHpoZ2xVV3lyMXBuSmJ2U2N5V3V2Q1F3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "홍준표 “호남 반도체, 국가에 굉장한 이득…반대 말고 도와야” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBad1ZPUXR0dVF4OXFKcXN5bV8tNjd2WFpiMTduWGxxNjVGU2pyczI1TnRvT1VzNGtRcVlEUUN6bGhwTWRqWkxMamZoLTFSclpjbmhJNnNua25Yb1pqYno5a0g2Q0pONWZIeGtRTGtrUFhxbWlq?oc=5",
+        "title": "\"호남이란 단어로 묶지 말라\"... 전북, 반도체 소외 뿔났다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTTm0yR3NYV09BVDBfQ193bHQtRmJVRXhpWVg1MDhfM01HZVJzbC15YkljUzk5cWRuTkk5RmhUWXVyNzNJT0NScHloOVUyQVZZQk9IY2dsbTRUWDlnMVdYUndSZE9fRmJNNnZDNEczQWVLa3BVbDBCMDhR?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[인공지능 줌인] 농업을 바꾸는 AI 데이터…\"좋은 데이터 없으면 오히려 독\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdUM0SmlLYW5nRkZ6MXYtbFcwMjJaUm10R0RqVmhyMnJBd2FxcG5wSjl0UGJxSVN4cFhMUU1Sd2NMN0tvMXFPaVl1S2VCMk42alZsX01CT2lTc1RZTHBKSDN1QmFvdFEyeTRjVktnaWo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "“AI가 다 해준다”는 착각…기업 인공지능 전환이 더딘 이유 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRTFPd0xEZEpCLVBIalRFZ3gya1E1aFo3WWZEc3FfZUFISFQ1b0U3V2NPSVUzdnZPU0ctQ000OEVaTGJjSC1CMGJIb09Wc3luR1liVFpucmtRaXB0eWhuVg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 농업을 바꾸는 AI 데이터…\"좋은 데이터 없으면 오히려 독\" - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdUM0SmlLYW5nRkZ6MXYtbFcwMjJaUm10R0RqVmhyMnJBd2FxcG5wSjl0UGJxSVN4cFhMUU1Sd2NMN0tvMXFPaVl1S2VCMk42alZsX01CT2lTc1RZTHBKSDN1QmFvdFEyeTRjVktnaWo?oc=5",
+        "title": "AI 토큰 경제의 역설… 사용량 늘수록 수익성 흔들린다 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2RzNFFPVmlpbEk5ekQ1bFRWbWNCMUMtaDFMUldET0daMEtrX2lUV0ZtMXVHYjEtWTBfaVhiU2lfTDJiRVlXbTRfZFNuY2pVa0p3cXcyelY2dWM5bmd2RHlpRmVBakpjMzQwdUNvRXB1NS1pWGttZFBZQnByV0VBbGdSSFlzSnJF?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "인공지능은 건설 업계가 수십억 달러를 절약하는 데 어떻게 도움을 주고 있을까요? - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTI2MzFza2p6NXA5cDlCcUhTazhsbmswajNfek9GZy1YWlpfXzMtR2RULXdFS2dmTER4cVVHNXlIYnQ5Z2daWlY5SzNqTnhUVE5LTlZRb2ZPM0JQM1VlU1ZBNXJCSnNPYkZtRDNiRTdTTVM4SVB4cnh0dDh2ODdwbVAxZkJuUE1xaVNiNjFsWjA?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 대전환 시대, 정보보안의 답을 찾다 - 충청메시지",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZVM3YlF0WHY4aV9VbTU5bklSMElralg5ZmpHelhORl9mY2tvU0tZTkN3T0hIbWI3cDB6VHhId0t4cXd3TEU0cmhsb2dBRl9ZYU5xMnFOUUVfNG51M2JpX3VXc3IxLVUzYW44?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "고유가 피해지원금 948억 지급 마감…지급률 98.5%",
-        "link": "https://n.news.naver.com/mnews/article/056/0012212007",
+        "title": "“20년 살고 나와도 40대”…‘여고생 살해’ 장윤기 재범 위험 경고 나오는 이유",
+        "link": "https://n.news.naver.com/mnews/article/009/0005702933",
         "source": "네이버 뉴스"
       },
       {
-        "title": "통합돌봄 서비스 신청 100일간 541% 증가",
-        "link": "https://n.news.naver.com/mnews/article/comment/056/0012212007",
+        "title": "'폭파 협박 글' 수사 착수…배재고, 오늘 광주 찾아 사과",
+        "link": "https://n.news.naver.com/mnews/article/comment/009/0005702933",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 살인범 父와 수십차례 통화... 혈흔 묻은 차도 돌려줘",
-        "link": "https://n.news.naver.com/mnews/article/448/0000624381",
+        "title": "'홍명보 선임 고발' 방치한 경찰…'신속 수사' 권고도 묵살",
+        "link": "https://n.news.naver.com/mnews/article/015/0005306327",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1년에 1833시간 일하는 한국인…OECD 평균보다 100시간 더 많다",
-        "link": "https://n.news.naver.com/mnews/article/comment/448/0000624381",
+        "title": "합수본, 지방선거 투표용지 부족 사태…지역 선관위 부실 대응 정황 포착",
+        "link": "https://n.news.naver.com/mnews/article/comment/015/0005306327",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘가상자산 사기’ 태영호 전 의원 장남, 8억원대 배상 판결",
-        "link": "https://n.news.naver.com/mnews/article/087/0001203126",
+        "title": "‘잠실 개표소 봉쇄 시위’ 31일째…2030 이탈에 시위대 반토막",
+        "link": "https://n.news.naver.com/mnews/article/055/0001369874",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-05 21:04"
+  "updated": "2026-07-05 22:31"
 }
