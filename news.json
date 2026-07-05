@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
-        "link": "https://n.news.naver.com/mnews/article/011/0004638300",
+        "title": "\"생성형 AI의 최대 136배\" AI 에이전트 '전력 비용' 정량화",
+        "link": "https://n.news.naver.com/mnews/article/277/0005785541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국산 첫 농림위성 우주로 간다 … 7일 美서 발사",
-        "link": "https://n.news.naver.com/mnews/article/comment/011/0004638300",
+        "title": "SKT, 70조 투자해 15GW AIDC 구축…\"아시아 AI 허브 목표\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+, 국제 통화 별도 과금 없는 ‘익시오 로밍콜’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/277/0005785496",
+        "title": "카톡방 공유글은 규제 안하지만 오픈채팅 허위글은 처벌 대상",
+        "link": "https://n.news.naver.com/mnews/article/009/0005702760",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
-        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785496",
+        "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
+        "link": "https://n.news.naver.com/mnews/article/comment/009/0005702760",
         "source": "네이버 뉴스"
       },
       {
-        "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702929",
+        "title": "네이버, AI 검색 승부수…속도 2배 높이고 비용 3배 낮췄다",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107998",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "中 반도체 무시했는데…'삼전닉스 압도' 충격 결과에 초긴장 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ejc3Y2o5a1pndHlscG5SYTVHM2FUVGpDTkZ0VXhCMEdUS040MFp0a2U3aVJlZXdISnlvUE9lNGU4T3FwT1pJRlNDSmVYVzFzZDByS3B1UlVpQdIBVEFVX3lxTE9vQ3lGUFh0d3BhVE9mbGdBcVQyT25lSm9SemVqeUkxZHpuckEzUzhjQnhPN3FIU2VnUWxtc21HSGVGZFA0N0I2dEJTX3Z5aDRyRU5pMg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "HBM·낸드·팹리스 동시 추격…中, 반도체 위협 빨라진다 [중국 반도체 굴기 2026 上] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BSWZFMEt6OU5kOWJDVDA5X3ZMZ1JaMFJJV2RzV2IwNVNtQ3RsMzVwblNyUXVUSGRrR2JDS19jUWlFQWl6bDRnaGp5WVZyVDQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "EUV 막혀도 D램 만든다…장비 자립 속도 내는 中 [중국 반도체 굴기 2026 上] - 이투데이",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UY3pTVU56cDUyc3BfYXdkbnl6UnRlcnUwbi0wODZWWS1xeWFEcktmUl84VnRJeWt1MkdTN0Y5V2dqVUl6R2pOWXhtSGF1QXB3V0NwMA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Cc2ZvbkxhdzI1UDNLNW1mbFlRY3BZUUJiWkRJTXlpSG1sc01fdUdUYmFZTTNlcWxZc1AzUW1qVjZCc2tQYkFJelZpSmRSMFU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "홍준표 “호남 반도체, 국가에 굉장한 이득…반대 말고 도와야” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBad1ZPUXR0dVF4OXFKcXN5bV8tNjd2WFpiMTduWGxxNjVGU2pyczI1TnRvT1VzNGtRcVlEUUN6bGhwTWRqWkxMamZoLTFSclpjbmhJNnNua25Yb1pqYno5a0g2Q0pONWZIeGtRTGtrUFhxbWlq?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "경마가 아직도 ‘베테랑의 촉’이라고?…AI가 바꾸는 ‘승부의 공식’ [권준영의 머니볼] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnRzZBUV9heTloVWhHVmV1RGxYaFFDOHYwVUlKU0JhcVV0WmxKU3o2dV8tbkV2ckhBYl9SdVZlY1VPVG1rQkYzTGZnSXA5dFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI가 다 해준다”는 착각…기업 인공지능 전환이 더딘 이유 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRTFPd0xEZEpCLVBIalRFZ3gya1E1aFo3WWZEc3FfZUFISFQ1b0U3V2NPSVUzdnZPU0ctQ000OEVaTGJjSC1CMGJIb09Wc3luR1liVFpucmtRaXB0eWhuVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] 농업을 바꾸는 AI 데이터…\"좋은 데이터 없으면 오히려 독\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdUM0SmlLYW5nRkZ6MXYtbFcwMjJaUm10R0RqVmhyMnJBd2FxcG5wSjl0UGJxSVN4cFhMUU1Sd2NMN0tvMXFPaVl1S2VCMk42alZsX01CT2lTc1RZTHBKSDN1QmFvdFEyeTRjVktnaWo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능은 건설 업계가 수십억 달러를 절약하는 데 어떻게 도움을 주고 있을까요? - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTI2MzFza2p6NXA5cDlCcUhTazhsbmswajNfek9GZy1YWlpfXzMtR2RULXdFS2dmTER4cVVHNXlIYnQ5Z2daWlY5SzNqTnhUVE5LTlZRb2ZPM0JQM1VlU1ZBNXJCSnNPYkZtRDNiRTdTTVM4SVB4cnh0dDh2ODdwbVAxZkJuUE1xaVNiNjFsWjA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능 대전환 시대, 정보보안의 답을 찾다 - 충청메시지",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZVM3YlF0WHY4aV9VbTU5bklSMElralg5ZmpHelhORl9mY2tvU0tZTkN3T0hIbWI3cDB6VHhId0t4cXd3TEU0cmhsb2dBRl9ZYU5xMnFOUUVfNG51M2JpX3VXc3IxLVUzYW44?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "강원도, 미래차 순환경제 산업 거점 도약…산업부 공모 선정 국비 100억 확보",
-        "link": "https://n.news.naver.com/mnews/article/087/0001203130",
+        "title": "고유가 피해지원금 948억 지급 마감…지급률 98.5%",
+        "link": "https://n.news.naver.com/mnews/article/056/0012212007",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘스타벅스 가야지’ 배재고 사죄 방문 앞둔 광주일고…경찰에 시설보호 요청",
-        "link": "https://n.news.naver.com/mnews/article/comment/087/0001203130",
+        "title": "통합돌봄 서비스 신청 100일간 541% 증가",
+        "link": "https://n.news.naver.com/mnews/article/comment/056/0012212007",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“‘이것’ 하나 없이 리얼돌만…” 평범하지 않았던 장윤기 원룸 내부",
-        "link": "https://n.news.naver.com/mnews/article/656/0000180728",
+        "title": "경찰, 살인범 父와 수십차례 통화... 혈흔 묻은 차도 돌려줘",
+        "link": "https://n.news.naver.com/mnews/article/448/0000624381",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"이병태·나경원·김민전 입 닫아야\"…허지웅, 배재고 옹호론 직격",
-        "link": "https://n.news.naver.com/mnews/article/comment/656/0000180728",
+        "title": "1년에 1833시간 일하는 한국인…OECD 평균보다 100시간 더 많다",
+        "link": "https://n.news.naver.com/mnews/article/comment/448/0000624381",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박용선 포항시장 첫 행보는 죽도시장…민생경제 챙긴다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003035392",
+        "title": "‘가상자산 사기’ 태영호 전 의원 장남, 8억원대 배상 판결",
+        "link": "https://n.news.naver.com/mnews/article/087/0001203126",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-05 19:52"
+  "updated": "2026-07-05 21:04"
 }
