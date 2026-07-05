@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "허위조작정보 규제 7일 시행…플랫폼 업계, 자율규제 체계 정비 마쳐",
-        "link": "https://n.news.naver.com/mnews/article/030/0003444462",
+        "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
+        "link": "https://n.news.naver.com/mnews/article/011/0004638300",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+, '익시오 로밍콜' 출시…해외서도 별도 과금 없이 통화",
-        "link": "https://n.news.naver.com/mnews/article/comment/030/0003444462",
+        "title": "국산 첫 농림위성 우주로 간다 … 7일 美서 발사",
+        "link": "https://n.news.naver.com/mnews/article/comment/011/0004638300",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
-        "link": "https://n.news.naver.com/mnews/article/001/0016176153",
+        "title": "LGU+, 국제 통화 별도 과금 없는 ‘익시오 로밍콜’ 출시",
+        "link": "https://n.news.naver.com/mnews/article/277/0005785496",
         "source": "네이버 뉴스"
       },
       {
-        "title": "드라마는 대박 났는데 만화 시장은 '성장통'…제2 '나혼렙' 키워라[웹툰 원작 전성시대③]",
-        "link": "https://n.news.naver.com/mnews/article/comment/001/0016176153",
+        "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
+        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785496",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
-        "link": "https://n.news.naver.com/mnews/article/001/0016176203",
+        "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
+        "link": "https://n.news.naver.com/mnews/article/009/0005702929",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "삼전 잠정 실적, 하이닉스 나스닥行… ‘반도체 투톱’ 운명의 한 주 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Cc2ZvbkxhdzI1UDNLNW1mbFlRY3BZUUJiWkRJTXlpSG1sc01fdUdUYmFZTTNlcWxZc1AzUW1qVjZCc2tQYkFJelZpSmRSMFU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "홍준표 “호남 반도체, 국가에 굉장한 이득…반대 말고 도와야” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBad1ZPUXR0dVF4OXFKcXN5bV8tNjd2WFpiMTduWGxxNjVGU2pyczI1TnRvT1VzNGtRcVlEUUN6bGhwTWRqWkxMamZoLTFSclpjbmhJNnNua25Yb1pqYno5a0g2Q0pONWZIeGtRTGtrUFhxbWlq?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이정현 \"호남 반도체 클러스터, 특혜 아닌 하나의 대한민국 위한 준비\" - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Tl9qZ0ZyZUZwbTlTdDNfRndwQ1pmcVBWMVNzMEM2NW1fX3pSYWFtTWRLLU8zM09NUnRDVy1HSDc1bmhXa2NrVDRIQ1JZTl9ITlBZQ1FuSWU5Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "불붙은 반도체 공장 증설 경쟁… 마이크론, 히로시마에 14조 투자 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mS2F2NlpxUUpaNHRMMmwyR1AyWlh4T0NfOFhRWGwxZnFPZjdKZzBUWi0yMnRNMlF4cThxMTNLWlR5ZFJCUkpVSjJrdkVEbEk?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "“AI가 다 해준다”는 착각…기업 인공지능 전환이 더딘 이유 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRTFPd0xEZEpCLVBIalRFZ3gya1E1aFo3WWZEc3FfZUFISFQ1b0U3V2NPSVUzdnZPU0ctQ000OEVaTGJjSC1CMGJIb09Wc3luR1liVFpucmtRaXB0eWhuVg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[일상의 벗 AI 빛과 그림자] 下. AI 시대 어떻게 대응할 것인가 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUWdnNnRPemE3RWxzenNmaGwtWjJlSnhCSW5ia3E0RWJjSm9ZeWJJcWZmR1lob3JtRW82UlVGQWRBNVhEdTlEQmdsZU1seEhBMW9GeTRTejduQnBUVmJ4Z0V6anVocEUyZWdIdUxzVQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "교육훈련부는 대학 내 인공지능(AI) 사용 시 위반 사항 6가지를 처음으로 명시했다. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlI3cm9MSlBPcFE4QnM2UjNwT1JFVk5ZUFc3Z2kzQXdLOWVqM05ESFFBQ3hzOVNfU2dWNG1lcGFGZEdvX25Eb0Rzd1FpSEtVRUVrcEt1b2hDem9ZQUt5V2U2N2ZzY2FHUGNYYXJ1dFkyQkwwS244bzltR19IQUhCMW5uemp1UmdwN2g4UUpvOFJwRGF6WVRPR0JxOFlUTUE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 대전환 시대, 정보보안의 답을 찾다 - 충청메시지",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZVM3YlF0WHY4aV9VbTU5bklSMElralg5ZmpHelhORl9mY2tvU0tZTkN3T0hIbWI3cDB6VHhId0t4cXd3TEU0cmhsb2dBRl9ZYU5xMnFOUUVfNG51M2JpX3VXc3IxLVUzYW44?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[칼럼] AI(Artificial Intelligence / 인공지능) 2년 후 세상은 어디까지 달라질까 ? - gukjenews.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPMHdhT2FNNmo1d0hhUnJWZHd4WTVrVEZhQUk3VE5ZS2dPaEhsOGVWb3FJaFNNM1NWTUNmQ0tIT3VVM0tuRVEwMnVwQXRWSVNndDNQWGRBeTY2b0dVeTI4MUhBNXFrblROXzIxdkRB?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "장윤기 자취방엔 노트북도 PC도 없었다…남은 건 리얼돌 뿐",
-        "link": "https://n.news.naver.com/mnews/article/025/0003535361",
+        "title": "강원도, 미래차 순환경제 산업 거점 도약…산업부 공모 선정 국비 100억 확보",
+        "link": "https://n.news.naver.com/mnews/article/087/0001203130",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'가상자산 사기' 태영호 장남, 9억 손해배상 판결",
-        "link": "https://n.news.naver.com/mnews/article/comment/025/0003535361",
+        "title": "‘스타벅스 가야지’ 배재고 사죄 방문 앞둔 광주일고…경찰에 시설보호 요청",
+        "link": "https://n.news.naver.com/mnews/article/comment/087/0001203130",
         "source": "네이버 뉴스"
       },
       {
-        "title": "노동 시간 줄고 있지만…한국, OECD 중 6번째로 길게 일해",
-        "link": "https://n.news.naver.com/mnews/article/422/0000881575",
+        "title": "“‘이것’ 하나 없이 리얼돌만…” 평범하지 않았던 장윤기 원룸 내부",
+        "link": "https://n.news.naver.com/mnews/article/656/0000180728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'교제 폭력' 50대 남성, 60대 옛 연인 살해",
-        "link": "https://n.news.naver.com/mnews/article/comment/422/0000881575",
+        "title": "\"이병태·나경원·김민전 입 닫아야\"…허지웅, 배재고 옹호론 직격",
+        "link": "https://n.news.naver.com/mnews/article/comment/656/0000180728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"전교생 많을수록 내신 유리\"…300명 이상 고교로 몰린다",
-        "link": "https://n.news.naver.com/mnews/article/422/0000881747",
+        "title": "박용선 포항시장 첫 행보는 죽도시장…민생경제 챙긴다",
+        "link": "https://n.news.naver.com/mnews/article/029/0003035392",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-05 18:05"
+  "updated": "2026-07-05 19:52"
 }
