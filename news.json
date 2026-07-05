@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버, 'AI탭'에 숨긴 기술 3가지…\"작지만 똑똑한 모델로 비용 효율화\"",
-        "link": "https://n.news.naver.com/mnews/article/629/0000513192",
+        "title": "예약·구매까지…네이버, AI 검색 승부수",
+        "link": "https://n.news.naver.com/mnews/article/015/0005306346",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-        "link": "https://n.news.naver.com/mnews/article/comment/629/0000513192",
+        "title": "SKT, ‘15GW급 AIDC’ 추진…“아시아 AI 인프라 허브될 것”",
+        "link": "https://n.news.naver.com/mnews/article/comment/015/0005306346",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG U+, 100개국서 '익시오 로밍콜'…일본 첫 출시",
-        "link": "https://n.news.naver.com/mnews/article/469/0000940466",
+        "title": "알고 봤더니 AI에이전트, ‘전력 먹는 하마’…생성형 AI보다 137배 더 소모",
+        "link": "https://n.news.naver.com/mnews/article/003/0014047035",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
-        "link": "https://n.news.naver.com/mnews/article/comment/469/0000940466",
+        "title": "국산 농림위성 우주로…차중 4호 7일 발사",
+        "link": "https://n.news.naver.com/mnews/article/comment/003/0014047035",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-        "link": "https://n.news.naver.com/mnews/article/056/0012211880",
+        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+        "link": "https://n.news.naver.com/mnews/article/011/0004638176",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
+        "title": "中반도체 무시했는데…'삼전닉스 압도' 충격 결과에 초긴장 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ejc3Y2o5a1pndHlscG5SYTVHM2FUVGpDTkZ0VXhCMEdUS040MFp0a2U3aVJlZXdISnlvUE9lNGU4T3FwT1pJRlNDSmVYVzFzZDByS3B1UlVpQdIBVEFVX3lxTE9vQ3lGUFh0d3BhVE9mbGdBcVQyT25lSm9SemVqeUkxZHpuckEzUzhjQnhPN3FIU2VnUWxtc21HSGVGZFA0N0I2dEJTX3Z5aDRyRU5pMg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "홍준표 “호남 반도체, 국가에 굉장한 이득…반대 말고 도와야” - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBad1ZPUXR0dVF4OXFKcXN5bV8tNjd2WFpiMTduWGxxNjVGU2pyczI1TnRvT1VzNGtRcVlEUUN6bGhwTWRqWkxMamZoLTFSclpjbmhJNnNua25Yb1pqYno5a0g2Q0pONWZIeGtRTGtrUFhxbWlq?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "호남반도체에 800조 투자한 삼성·SK…미국 압박 시험대 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSjdRS2lQUC1IcDZpZEtQYllNazVOWUcyR294TDdIVnc3aWpFQ2x5eDQxNGpHT3FJSFpKTDB1WW9JbENlU2VrRUdGc0hxSEY5Skd4d3BzNDZPZG_SAWBBVV95cUxQSktLRnBLRlFDd3lXVkxvWkl1Q0xBcnZUWnBEdFdqaTNqRGRDREhVM3Z3ZnYyVjYtb0xCWENNM01lYjkxWUlleGZ1b0Z5Q3VBVENOc2hURnZ4VWJXMHA2bUI?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "홍준표 “호남 반도체, 국가에 굉장한 이득 될 것” - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHemlQRENqM0RYdzJuM0hnMF90QmZuSmdHY0dXUlJkdGFfeUJ1THk2OHdXVndiaHJnN280a3B1dlB1WHdZNG1pdG04VU9QZk5Mc0pIbTNKVnc0WFU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 10% 달릴 때, 18% 날아 올랐다...수익률 치솟은 업종 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUkxSYW1QRjZBRzJuQ00wcGdxaHlOenVrTjhPaUlPTEJwUXlNRnJ5OW1HTkVEQ2dtS1BQS2RTTGxYdHQwNjgzRko0NmZzYTJQMU05elA3dzRMOTBGRDhGWk1RbkFWWXpN0gFuQVVfeXFMUFo5bUFySzcyV2JaT0QxTzBocmp1Zl9YQ0txazJhSmxyQXJmWmRTRkE0SkZzaUw5OFU0QUR4eHRfRVhsVGJuMHR5MGtNTW5EY1k1S2VYVGZ1V1Vnb1N6bDdxRURjM3J6UE5JdEotQUE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 교실도 바글바글‥\"반도체 인재도 지역에서\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KS2xfTkZWdU9IcWlQTlUzVzJiT0VvQS1MQkNlVjRfekNUaklqLTN0U2RHR3doSy1qd3hjcE84OHIycjJfTWtaTDNRblYxT2c?oc=5",
+        "title": "강훈식 \"반도체 추가 세수로 기금 신설…미래 대응에 과감 투자\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLUZjR3FhSFMybHBoZ2V4SUhkRTBqYnNQSmQwMTVITmNzSnJKTFUzYm8wYl9GdHlNci1RNTVHVTNnclFhMFkwOXpkZTUzT2thSENGX0NwLXo0Y2vSAWBBVV95cUxPamxvZlNQRXZXMXN3bE9HTHY0U1lpV3U2QW1WcUFnYTFfa0lUd2VYVWFMeGVCWkRvVHlIejBpY0ZadENmcW5wakZMM0N0NEhSLWUtTklCYWEyMWc5bTdyd3M?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,13 +66,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[칼럼] AI(Artificial Intelligence / 인공지능) 2년 후 세상은 어디까지 달라질까 ? - gukjenews.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPMHdhT2FNNmo1d0hhUnJWZHd4WTVrVEZhQUk3VE5ZS2dPaEhsOGVWb3FJaFNNM1NWTUNmQ0tIT3VVM0tuRVEwMnVwQXRWSVNndDNQWGRBeTY2b0dVeTI4MUhBNXFrblROXzIxdkRB?oc=5",
+        "title": "인공지능 대전환 시대, 정보보안의 답을 찾다 - 충청메시지",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZVM3YlF0WHY4aV9VbTU5bklSMElralg5ZmpHelhORl9mY2tvU0tZTkN3T0hIbWI3cDB6VHhId0t4cXd3TEU0cmhsb2dBRl9ZYU5xMnFOUUVfNG51M2JpX3VXc3IxLVUzYW44?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[짤막상식] 움직이는 인공지능, 피지컬 AI - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdlNZYWdKQzNkVU9WX0diaWgzSmRyTl9aTVI2SVVETmt4OEs1Y0dFdHJ3S1QwcDlKMEpVc0RoWkdCRHhBSkk3SHF6M3pnQ0NYR0JWbGxBYXpseGpJY0E?oc=5",
+        "title": "[칼럼] AI(Artificial Intelligence / 인공지능) 2년 후 세상은 어디까지 달라질까 ? - gukjenews.com",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPMHdhT2FNNmo1d0hhUnJWZHd4WTVrVEZhQUk3VE5ZS2dPaEhsOGVWb3FJaFNNM1NWTUNmQ0tIT3VVM0tuRVEwMnVwQXRWSVNndDNQWGRBeTY2b0dVeTI4MUhBNXFrblROXzIxdkRB?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "경기도, 고유가 피해지원금 지급률 97.5%…\"8월31일까지 사용\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005785579",
+        "title": "'김수현 협박' 김세의 \"N번방 비교 안 돼\"...하체사진 공개도",
+        "link": "https://n.news.naver.com/mnews/article/052/0002374990",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰청, 광주일고 폭발물 설치 협박글 수사…엄정 대응 방침",
-        "link": "https://n.news.naver.com/mnews/article/comment/277/0005785579",
+        "title": "한 달 전 경찰 신고...스마트워치·접근금지도 무용",
+        "link": "https://n.news.naver.com/mnews/article/comment/052/0002374990",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국 연평균 노동시간 1833시간…32시간 줄었지만 OECD 6번째 장시간 노동",
-        "link": "https://n.news.naver.com/mnews/article/028/0002812659",
+        "title": "'고혈압' 청년, 1천명당 10.7명→18.0명…\"1인가구 특히 위험\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002375016",
         "source": "네이버 뉴스"
       },
       {
-        "title": "성남 길거리서 50대 남성이 흉기 휘둘러 지인 살해",
-        "link": "https://n.news.naver.com/mnews/article/comment/028/0002812659",
+        "title": "사과한다는데…이진숙 “배재고에 응원 화환” 인증샷",
+        "link": "https://n.news.naver.com/mnews/article/comment/052/0002375016",
         "source": "네이버 뉴스"
       },
       {
-        "title": "끊이질 않는 '스토킹' 살인...법무부·경찰 \"합동 대응\"",
-        "link": "https://n.news.naver.com/mnews/article/022/0004140553",
+        "title": "11억 상당 현금·가상자산 편취한 태영호 전 의원 장남, 피해자에 8억여원 배상 판결",
+        "link": "https://n.news.naver.com/mnews/article/001/0016176044",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-05 11:36"
+  "updated": "2026-07-05 13:45"
 }
