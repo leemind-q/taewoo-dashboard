@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버, AI 기술 대거 공개…\"검색 서비스 혁신\"",
-        "link": "https://n.news.naver.com/mnews/article/215/0001257614",
+        "title": "삼성, '와이드 폴드' 승부수…애플 폴더블폰 선제 대응",
+        "link": "https://n.news.naver.com/mnews/article/421/0009041755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-        "link": "https://n.news.naver.com/mnews/article/comment/215/0001257614",
+        "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+        "link": "https://n.news.naver.com/mnews/article/comment/421/0009041755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
-        "link": "https://n.news.naver.com/mnews/article/092/0002429313",
+        "title": "“AI 에이전트, 질문 한 번에 전력 136배 더 쓴다”…KAIST, 세계 첫 정량 분석",
+        "link": "https://n.news.naver.com/mnews/article/008/0005381563",
         "source": "네이버 뉴스"
       },
       {
-        "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
-        "link": "https://n.news.naver.com/mnews/article/comment/092/0002429313",
+        "title": "SKT, 15GW AI 데이터센터 구축 추진…'아시아 AI 허브' 정조준",
+        "link": "https://n.news.naver.com/mnews/article/comment/008/0005381563",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
-        "link": "https://n.news.naver.com/mnews/article/056/0012211880",
+        "title": "네이버, AI 검색 승부수 ‘그린닷’ 채운 AI탭 기술 공개…속도 2배 높이고 비용 3배 낮췄다",
+        "link": "https://n.news.naver.com/mnews/article/001/0016176266",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,23 +34,23 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "호남 반도체 공장이 안 되면 용인·구미라고 되겠는가 [아침햇발] - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNzBGWXZmMUFWWDNEblo0TE5VNURKaXpDa0FaZVd6V252R2RnS3hoT0dJczJJbFdwcEp2ZF93bGJnNUJXOXFlOTlvN1pBRFhyMkhvdE1ueDhtbTQyWHM5NkljZmVPZw?oc=5",
+        "title": "中 거리두는 韓반도체, 소부장 공급망 재편 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IOGlJaHNWSDE3eDc3eWVGVHh5cVViN0ZWZUNKVVBPUnhTdHBIa1ZScHUxYVZLcm5tN3k1b2N1NG93TmFQdVpJSFJoREFDQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "메모리 피크아웃? 반도체 업계 '최소 2년 뒤에나'…과거 사례 보니 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NeC1TUjZzdnZ6TnpxcW5pRGlpelhjbjRiSTQ4MmlUSEN0REh0RE9ZVDVSRkV2bHpBdXRSb0IxZFpEc0x0aWFRUW92YVREQjg?oc=5",
+        "title": "\"중국 반도체 써야\" vs \"애플, 공급부족 자초\" [뉴스 속 경제] - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4dm05cHNCN1BRWGlPT2Uza3FVWUtQRlNPVlF5VzBxT0w3V0UwMThXNjJOVzF0dlJMUEJ5MFJqbVBHWUJpYWlDb0JjbWVzVC1HME0xZkRPWDFHR1luaWFYNTFUUWw2RnZNUGpNV1F3T0RmeXE1anM4WUtR?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "李대통령, 반도체 클러스터 점검회의 주재…3대 메가 프로젝트 ‘속도전’ - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodFk3NlBTbTlyUHNRSHh4RzZGcW5wU1VMR3FwOTlGWE9tSlRRN2t6Mmk4WHo0cHBRaEFoUWJnOGVURmpuOGxTRmx6bnZvVkRROEwwVnBzaERmQzg1bFRqMWQ0RXU2cXVfRGl2TF9makJpeDBiN2dV0gFmQVVfeXFMTi11SVpYRlk4bXJNb1hxc3QzM1hGVlctb2otVnFaRVU0d29FVVdnTVBOQS0tSU9yX3Jjem1PWEtYZGhxTTlaTkV5eDNESE90aHpoZ2xVV3lyMXBuSmJ2U2N5V3V2Q1F3?oc=5",
+        "title": "강훈식 \"반도체 추가 세수로 기금 신설…미래 대응에 과감 투자\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySENwdldBTnRLM0s2MWEyalRCd2pHcWdKUTl6UkhJaXpzSUg3YXp0SnFnZENaYjkwOUZUcHhZWHFKbllyS0xUQU9VaXZsZ3M?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"호남이란 단어로 묶지 말라\"... 전북, 반도체 소외 뿔났다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTTm0yR3NYV09BVDBfQ193bHQtRmJVRXhpWVg1MDhfM01HZVJzbC15YkljUzk5cWRuTkk5RmhUWXVyNzNJT0NScHloOVUyQVZZQk9IY2dsbTRUWDlnMVdYUndSZE9fRmJNNnZDNEczQWVLa3BVbDBCMDhR?oc=5",
+        "title": "강훈식 \"반도체 추가세수 활용 위해 '미래대응기금' 신설\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwaEhBOWFSVWROS1ZMd0dBTlhmV0xTdjJlUFdESllXWGt1eFM1akl1T2pISWVQVXcyUVh0WmhVU1N4MXByWDJqODRqa0pCcTVtNEtnRkpHR2NWYXhhbzZ5NTFpQlFXbEpXcDJEeGNUNkxDR2xveEh3NtIBeEFVX3lxTE5DaEUzdmZHOVZIVkJyblRTQjRXQ0tRenVIQ0FrQTFQUkJIaXg4OEF3UjBINzU3Q1l4R2NvWWFPYUZiVkpHdjJoN0xOc0x4cmhFMktZVkJtOWpZZU9aMUhua2NDQm5zUEk4cUtkVk9LeDFKNTJNcExOUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 농업을 바꾸는 AI 데이터…\"좋은 데이터 없으면 오히려 독\" - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdUM0SmlLYW5nRkZ6MXYtbFcwMjJaUm10R0RqVmhyMnJBd2FxcG5wSjl0UGJxSVN4cFhMUU1Sd2NMN0tvMXFPaVl1S2VCMk42alZsX01CT2lTc1RZTHBKSDN1QmFvdFEyeTRjVktnaWo?oc=5",
+        "title": "“AI가 다 해준다”는 착각…기업 인공지능 전환이 더딘 이유 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRTFPd0xEZEpCLVBIalRFZ3gya1E1aFo3WWZEc3FfZUFISFQ1b0U3V2NPSVUzdnZPU0ctQ000OEVaTGJjSC1CMGJIb09Wc3luR1liVFpucmtRaXB0eWhuVg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI가 다 해준다”는 착각…기업 인공지능 전환이 더딘 이유 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRTFPd0xEZEpCLVBIalRFZ3gya1E1aFo3WWZEc3FfZUFISFQ1b0U3V2NPSVUzdnZPU0ctQ000OEVaTGJjSC1CMGJIb09Wc3luR1liVFpucmtRaXB0eWhuVg?oc=5",
+        "title": "[인공지능 줌인] 농업을 바꾸는 AI 데이터…\"좋은 데이터 없으면 오히려 독\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdUM0SmlLYW5nRkZ6MXYtbFcwMjJaUm10R0RqVmhyMnJBd2FxcG5wSjl0UGJxSVN4cFhMUU1Sd2NMN0tvMXFPaVl1S2VCMk42alZsX01CT2lTc1RZTHBKSDN1QmFvdFEyeTRjVktnaWo?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능은 건설 업계가 수십억 달러를 절약하는 데 어떻게 도움을 주고 있을까요? - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTI2MzFza2p6NXA5cDlCcUhTazhsbmswajNfek9GZy1YWlpfXzMtR2RULXdFS2dmTER4cVVHNXlIYnQ5Z2daWlY5SzNqTnhUVE5LTlZRb2ZPM0JQM1VlU1ZBNXJCSnNPYkZtRDNiRTdTTVM4SVB4cnh0dDh2ODdwbVAxZkJuUE1xaVNiNjFsWjA?oc=5",
+        "title": "경북농업기술원,‘인공지능(AI) 응용제품 신속상용화’지원사업 선정 - 글로벌뉴스통신GNA",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qd2FGRVRjQjFWWkZrS1dQWU43YXZOLWh5M1NhYzVNX29VcFpUSnk4OThOM0dXbjl2bW1sT2FSRlExYWRkLUkzbHI3ZWUya01waVVPejVaa1JwVnNER0hjanVhZTdJck9seVN0eTcwY0pobmx3?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "“20년 살고 나와도 40대”…‘여고생 살해’ 장윤기 재범 위험 경고 나오는 이유",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702933",
+        "title": "장윤기, 차량 문 열어두고 범행...\"여성 성폭행 목적 증거\" [앵커리포트]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002375108",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'폭파 협박 글' 수사 착수…배재고, 오늘 광주 찾아 사과",
-        "link": "https://n.news.naver.com/mnews/article/comment/009/0005702933",
+        "title": "전국 곳에 따라 비...습도 높고 기온 올라 '무더운' 날씨",
+        "link": "https://n.news.naver.com/mnews/article/comment/052/0002375108",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'홍명보 선임 고발' 방치한 경찰…'신속 수사' 권고도 묵살",
-        "link": "https://n.news.naver.com/mnews/article/015/0005306327",
+        "title": "법원 \"'가상자산 사기' 태영호 전 의원 장남, 피해자에 8억 배상하라\"",
+        "link": "https://n.news.naver.com/mnews/article/021/0002802371",
         "source": "네이버 뉴스"
       },
       {
-        "title": "합수본, 지방선거 투표용지 부족 사태…지역 선관위 부실 대응 정황 포착",
-        "link": "https://n.news.naver.com/mnews/article/comment/015/0005306327",
+        "title": "집행유예 중 또 숙취운전… 출근길 적발된 30대 벌금 2000만 원",
+        "link": "https://n.news.naver.com/mnews/article/comment/021/0002802371",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘잠실 개표소 봉쇄 시위’ 31일째…2030 이탈에 시위대 반토막",
-        "link": "https://n.news.naver.com/mnews/article/055/0001369874",
+        "title": "법원 \"대검 비공개 내규 목록, 수사 지장 우려 없어…공개해야\"",
+        "link": "https://n.news.naver.com/mnews/article/660/0000112580",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-05 22:31"
+  "updated": "2026-07-06 00:09"
 }
