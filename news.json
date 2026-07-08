@@ -2,45 +2,40 @@
   "categories": {
     "IT": [
       {
-        "title": "허위조작정보 대응 플랫폼 9곳…'다음' 운영사 누락 정정",
-        "link": "https://n.news.naver.com/mnews/article/055/0001370790",
+        "title": "‘가짜뉴스’ 대응 의무화…네이버·구글 등 9대 플랫폼 지정",
+        "link": "https://n.news.naver.com/mnews/article/056/0012214359",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스텔스솔루션·법무법인 린, AI 해킹 대응 서비스 협력",
-        "link": "https://n.news.naver.com/mnews/article/015/0005307715",
+        "title": "삼성전자, 22일 런던서 ‘갤럭시 언팩 2026’ 개최…노태문 사장 “나를 가장 잘 아는 AI 시대 열 것”",
+        "link": "https://n.news.naver.com/mnews/article/023/0003986412",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 22일 런던서 갤럭시 언팩…\"똑똑한 AI보다 나를 아는 AI\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016182749",
+        "title": "李 대통령 \"정보보호 중요성 커져…AI 보안 기술·산업 적극 육성\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009047173",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI가 공격도 방어도 바꾼다…정부 “선제 대응·산업 육성 두 축으로”",
-        "link": "https://n.news.naver.com/mnews/article/009/0005704387",
+        "title": "\"불가능을 가능으로 바꾸는 나노\"…나노코리아 2026 개최",
+        "link": "https://n.news.naver.com/mnews/article/277/0005787305",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우주청, 9개 기업과 달 경제 영토 확장 방안 논의",
-        "link": "https://n.news.naver.com/mnews/article/018/0006325359",
+        "title": "동서발전, '부울경 사이버보안교육센터' 개소…인력 양성",
+        "link": "https://n.news.naver.com/mnews/article/003/0014054740",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
+        "title": "엔비디아의 나라에 없는 반도체 공장… 美 반도체 부활 가로막은 ‘30년 공백’ - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2JNWkRsRnJ6MWdMVWJybFpGUkliSnlINXhXNVdqMFk5QWlnYXlkbTY3M1JnUlVjanBsZ1h4Njl5cE52NmdrUWRRMFlDR2lSMjlRTFNZYjdleHpQcGdla0syczVSTlV4TkRhVzhZeDBpWUJ4MzBCX3dodUdFTjY3NFZObURhRzdYaF9NMGZ1Nk1PWnJ1UTE4RjczUENtd9IBsgFBVV95cUxORWNYUVctTkdLQ3ZQc1d5UFJ0X1BDOHEzZFNGX0FqQnpIMDZXY2Z3anJyMWFXWGd4SnNVemVOODJudXNSeU1vYVBRSXlENXVJOWw5QjVYMGhZTzltaEdMZHlDN29oLTJVWlZPS3piSHBITWZNVTV2SEtNUUR0WUQ3dDJoSUU1UkdqbjBnSUNrNGJHZEJucDRBa0pWUkxuQm56dms5SUdzYUJLdUItNUpxOS1B?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "경상흑자 이끈 반도체 ‘급락 왜 이래’…‘금요일 밤’ 주목? - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRFdGQXBNbS1ZeWh2WkZTckRyTmVEdjhLOVAtZklyeHF5YmJCaTFnSl9ha1ZaQ0FSaHFMMXNjY1czTmpaZlBPOVpDS0w0b0pKVjZydA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "온통 파란 주식창 \"안 보려고 해요\"‥'반도체 비중 축소' 권고 나왔다 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zdU1KSW9qaHBRWkRlUjBSeE9Oa1llMHBrX19yQTI2RWk0ODhPSTNUdVBORDlmUTNmZU4wc29ONGU1NGthSkJwRV8yeHJNYlBTblNnZTIyTEhhOWVRZlZhMHJvNlNPM3JWTWJ5RDlfUmFiWERGbzZlNA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "속도내는 中 반도체 자립… 딥시크·즈푸도 AI 칩 개발 뛰어들어 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYTTlWS0c0ZGhDbEQxc21DNzhyQkc0UDFqOFJ5VzlKY3ViRVl6UVhjTFFrUVpETXU2M2pPVmZTQUU0RG5TQy1QVElNbU1RdUk?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "ADB도 “韓 올해 2.6% 성장”…반도체가 유가 충격 막았다 - 서울경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUVDVzUxSVJnTURhVDlxQ2VVUW1NbUlhWDR2NzVKY201MnAtbmlVMFhLODI2LVlKYkJRblMtSEZxU1BHRFdEdnpPVkFLMDV3YUHSAVNBVV95cUxNWjZxZUhnWkhoUDlLbXB4R0tNZlVoenVacW9pbHV2T2ZPeThMbWpJNlJVTnV0Vlo0anhSRV85djRkMDc2YTZrcEtkMlZsU2Vkcm1DOA?oc=5",
+        "title": "반도체가 끌고간다…IMF, 韓 올해 성장률 1.9%→2.6% 상향 조정 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02b3BjUkRWX1BNbjNmY0E5SmpYTEJJeEItY1lHbF9OeVFMSVBLZnJpaDhtRUw2cDhNUWs3RDRZWDRSVWV0WWU3TmFjcDQtcU0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "전쟁 압도한 반도체… 한국만 승승장구 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSUlKRWlwbUJ3RWRtOUIxYVlLb0ZtY0NNR0VpVjllUmlhYVN1alVOTXQ4QlE3OVlLb3M0aWJEbU8tSUlCdkh5cHIwLXpSY1d5b3ZXbFFINElmb01BTUpkZ2Jodjc0NkJuYUtv0gFwQVVfeXFMT3p1WXlzd2NoSVY0YUZaaktQR18xaHRJSmd6Z0NXT25YR2ZCeW5Rbk5mem1xV0ZyV1VPZTNkMEFueUtody0wV3A2bWQtUnV4OUtETUNIZ203cURJVUo5NTZLVElvU3k2TWFWNVE2R2xpNw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "바당에서 만나는 인공지능(AI) 미래교육 - 뉴스라인제주",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVngxdnI5WkpVcXVrTkpGdVQ1V1ZjSFBZWC0yRGpGYjl1QUkxRjJFOHJvT3I4U3ZnZGh6c3lTTEJMUms4bEs1TDJuUUVDNm5IQzdYcExTbjJVOHl5RXAxYmQwV1JsQUhoMmQ1R3VQaw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "천주교도 AI 시대 준비…주교회의, '인공지능 TF' 출범 - 경기신문",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXb3BTdExDc1BsOTFoVnZlaGdldlVQUE55U3pyMnBSbzBHN3kyazZvUUVaYlBNVHhac2pKSWpYRlJUXzBBdGlPNzhoLTBBSlNIQWk5bTlBWk9oRmFmZFdvYzV3?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "인공지능(AI) 시대 청년 일자리, 직업훈련 확대로 돌파구 찾는다 - 뉴스데일리",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ycGs2V0hzU2tlYVhhVFhFY0hlMFhqTXRiMmdmSVk1QmRjY1ZUQjJBNExqYUplUFM0djlOemJWUjZpaVJGNHBPaEpxZGptdWFLZVBTaWRLbDRmWktNUUVjbEFxUWFDbzF0bnVZ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "바당에서 만나는 인공지능(AI) 미래교육 - 뉴스라인제주",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVngxdnI5WkpVcXVrTkpGdVQ1V1ZjSFBZWC0yRGpGYjl1QUkxRjJFOHJvT3I4U3ZnZGh6c3lTTEJMUms4bEs1TDJuUUVDNm5IQzdYcExTbjJVOHl5RXAxYmQwV1JsQUhoMmQ1R3VQaw?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "한양대, 대학원생 대상 ‘2026 하계방학 생성형 AI 및 인공지능 비교과 프로그램’ 운영 - 뉴스H",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wME5HajhGdmtYUlhROWhjZS11R2Npc1ZPbmdEMjlWUF9McVY0aXZ3UUMxXy1XZDZ4am9GaTBOMkJFQlNIc3RaTTh5dVgxOUdibTd5WTNoanBsaE9LSXdRczMwM29kbzlBeWc?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "천주교도 AI 시대 준비…주교회의, '인공지능 TF' 출범 - 경기신문",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXb3BTdExDc1BsOTFoVnZlaGdldlVQUE55U3pyMnBSbzBHN3kyazZvUUVaYlBNVHhac2pKSWpYRlJUXzBBdGlPNzhoLTBBSlNIQWk5bTlBWk9oRmFmZFdvYzV3?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "민주노총 “원청 사용자, 교섭 나와라”…15일 총파업 투쟁 선포",
-        "link": "https://n.news.naver.com/mnews/article/025/0003536221",
+        "title": "내일도 곳곳에 많은 비…최대 200mm 퍼붓는다",
+        "link": "https://n.news.naver.com/mnews/article/215/0001258070",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"죄송합니다\"…'피습 자작극 의혹' 정이한, 영장심사 출석",
-        "link": "https://n.news.naver.com/mnews/article/215/0001258035",
+        "title": "박완수 지사 “민선 9기, 경남 미래 먹거리 만드는 4년”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005704535",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰 은폐 의혹 ‘50㎝ 케이블 타이’... 장윤기 아버지 집에서 발견",
-        "link": "https://n.news.naver.com/mnews/article/023/0003986422",
+        "title": "'장윤기 증거 인멸' 경찰관, 손 묶인 채 빠른 걸음...영장심사 출석",
+        "link": "https://n.news.naver.com/mnews/article/008/0005383094",
         "source": "네이버 뉴스"
       },
       {
-        "title": "양대노총, 배달라이더 노동자성 인정에 \"제도로 보호해야\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016183326",
+        "title": "“인구 준다고 국가예산 깎나” 강삼영 교육감 교육교부금 개편 반대",
+        "link": "https://n.news.naver.com/mnews/article/087/0001203894",
         "source": "네이버 뉴스"
       },
       {
-        "title": "장윤기 父 첫 경찰 조사… 장윤기는 반성문 제출해",
-        "link": "https://n.news.naver.com/mnews/article/005/0001859818",
+        "title": "충청권 등 6개 시도 산사태 위기 경보 ‘주의→경계’ 상향",
+        "link": "https://n.news.naver.com/mnews/article/081/0003659496",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-08 17:39"
+  "updated": "2026-07-08 19:36"
 }
