@@ -2,67 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "“삼성 반도체는 ‘6억’이라는데” 성과급 논란 확산…삼성SDS, 초유의 단체교섭 ‘눈앞’",
-        "link": "https://n.news.naver.com/mnews/article/016/0002667104",
+        "title": "국내 첫 농업·산림위성 ‘차중 4호’ 성공 발사…항우연 지상국과 교신 성공",
+        "link": "https://n.news.naver.com/mnews/article/029/0003035835",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국내 첫 농림 위성 발사…하늘에서 농업 살핀다",
-        "link": "https://n.news.naver.com/mnews/article/422/0000882578",
+        "title": "갤럭시Z폴드8, 화면 주름 개선되나…새 힌지 적용 전망",
+        "link": "https://n.news.naver.com/mnews/article/031/0001040519",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 전국 T 월드 매장 'AI 전환' 시동…고객 서비스 혁신",
-        "link": "https://n.news.naver.com/mnews/article/079/0004166082",
+        "title": "KT, '정보보호 투자·내부 인력' 국내 통신사 최대",
+        "link": "https://n.news.naver.com/mnews/article/079/0004166294",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"AI시대, 중요해진 정보보호\"…정보보호의 날 기념식",
-        "link": "https://n.news.naver.com/mnews/article/277/0005787140",
+        "title": "삼성SDS, 성과급 개편 없던 일로…창사 첫 과반노조 탄생(종합)",
+        "link": "https://n.news.naver.com/mnews/article/277/0005786914",
         "source": "네이버 뉴스"
       },
       {
-        "title": "개보위 \"API 통한 개인정보 유출 주의…최소화 원칙 지켜야\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016181917",
+        "title": "KISA, 세계은행과 사이버보안 협력회의…54개국 역량 강화 논의",
+        "link": "https://n.news.naver.com/mnews/article/421/0009047476",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"삼전닉스 팔아라\" 경고한 모건스탠리, 진짜 '반도체 겨울' 올까? - 한국경제",
+        "title": "삼성전자 역대급 실적에도 급락…“반도체 조정 예상” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNW5GaGtXVEFySDNrQV8wbXgzbVl2STFVQy1lOHpIMVlUZlBxMHdYS2J4aWVyeGMyV1ZHa3hXZXlRRkFrSUtiLTBvZ2RUUEUtZHVCVzB2Vi1RaW8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"삼전닉스 너무 잘나가서 미국이…\" 한국 덮친 '칩워' 경고 [도쿄나우] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13OGFiXy0xOUxEd1dGRDlOZ2NZRlhpNWxrQ2ZSbEVKazROS1ZzbmpfT2tBdjljV00yTGo2eVJSbGo4ZTBrcDJKOU1pTFRlRXU0UWlNQ1B5VEtXd9IBVEFVX3lxTE1QY0RSZ1FqbHVQSVhWV0pHZjdPRXZic3BydWJaVkhUUUtXRHp1aFZLbk90WHBOc05waXZ6by1weklyU2l4THlGNUwzWVZrVGRqc1ViMA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성, 엔비디아도 이긴 '반도체 황제' 등극…영업이익 세계 1위 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BQmhqN3M5YlFST0lrQUswNE13cV9sMTNMcVJvYnJfYl9TVTM0WllSeHUxTElJeHplSDZJYWI1ZEFnbEhuU2JtWk1KdlRfRnhkTjRvTHo4d3lFcWRMLVRBQVUyRWdhcHJpSWYtX9IBckFVX3lxTE9MVkhHd3lWeXFOUjdnWWxYc0ItUUJVUGpLY0Q0NTRKOG42YUpnRWhCNGcwdkZKbGpiZTNJYTBzZ2VjbmptTlJEWWdmYlhLMXRIdmhGNjhua3JvUHRhUlBTMWFZd282dnZ2ck45YnY3QTFDUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"삼전닉스 끝물이라고?\"…'반도체 저승사자' 경고의 진짜 의미 - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCMkdLWXhXb2FoeHNxNGVkaE92UU0yODlxaUNUMlhLT2ZROHAyOTIyWE9oOGlneXZHQmtOVWwxZDJHN0YyeGFrYUZPZE1ja0RCTnNueDF1WnZxZ9IBVEFVX3lxTE55UkViZ19xQng4ZDFFNmdWaFdhNFdJRlE5a3hhMmFVandNQWgzMWxmUmMtbjYtR2NBZEhmdUJNLWhEcFRnN1htRDBtVEI2SndGTC1RRA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독] 호남 반도체 산단, 올해 말 첫 삽 뜬다…2030년 양산 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaVZUVndyeTIxcFZiajZObjl0a0ZWWTBidUxFRE8zNFJxOTJfTG0xTFFRaXp6bnR6Vlh3aGVlVWlJaWtjbExza2hmckZNY3VRTVhKcVVuTWdhRjRabFM4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[단독]국토부, 반도체 산단 예정지 '광주 군공항' 인근 토허제 검토 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83Yzg1cFJRMDZ4UXRYNmJpVXgwX3pqcnVibUplY2FySWxfZFhTSEpQeGJuMHZfNFNoWnhJMUkwU1d2RGVQZjIyRjh6d0lEdU14T01Ha0YzRnE3VUx5U2RLaUNRRXJEanZxQVHSAW9BVV95cUxNV0JMR05EamU1cW9JUEVrZWVHRHVuVHo4QnlTSHd1bWVXTmJWY2dFcXZhOF85MF9FdXdaSHBPX1FzWUJRTWtxYjR5QlZDUVVOUHZzV2ktSWpMUDBsYzc0dzUwY0VucHowXzJKZTdycEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“호남 반도체 산단, 일본 ‘속도전’·용인 ‘교훈’ 배워야…인허가 패키지 처리 필요” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wM2t0X1NaczhiQlhNOGtGYU04Q25ISk1PcDE4ZF9wVl9OUkFaejNjT1p3SG9ZMHFQdmpuU3hTbTBqZmdRZ2dvZUNMNVl4Mnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "KDI \"제조업 조정…반도체·서비스업 호조에 韓경제 완만한 개선\" - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oc3doSFFmSWp1S2xqMTNuWFJnY1ZNWlNsbHZmSm1TaGNfLUR1eTlnYlg4SkkyakV1V25qdDFwYWtsWlpaRHZNcy04LUtfZ1JFRjRzdQ?oc=5",
+        "title": "“청년 유출 막는다”는 전남광주···‘AI·반도체’ 첨단일자리 효과는 ‘글쎄’ - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGQUMxSXczbTBaNktXdkk0Q25wcEowdXFUT2NXdXpWb09sVFhVdWV5TGxFWFdRVDZJcDhmR1UzcGtWUEZENkZseU5HWUk4NlE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "[AI픽] 네이버, AI 안전 기준 넓힌다…이용자·서비스 전 과정 점검 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwbGJEa1E3ME1JbWh1Q1hDaWhydDFtZ1REbWk2NENhQUM0OFRqanhYc2dMNGVfSE1CQTkzVVA4X2JjVVRnZ21SWnMtU0xvYTFrbmdDUkhhWm5oV0HSAWBBVV95cUxNeEg0NFdwa1Jha21tUmx0Q3ZSbWVTNDVySndkOU9zODZ6V0Zid3FDeElVQnFkUEEyUkJ2dm9zV1FuNWx0XzJlMFF4ZHIzajBBd3VCQ3JqSWVxb25KVkZMcVc?oc=5",
+        "title": "호남권생물자원관, AI 기반 생물자원 활용 심포지엄 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42d0NBb3FzRXlUX0pKV3lfQ1dwVXhjYXJGcDRWOWUzSFBzNDlxS2FzX1IxNVNGRUlEd2IxNFhjdFJoaEs5N19YdEZxci16Q2VJQURkVEJlOVdsWVHSAWBBVV95cUxOUDkwNmdGS3k4VUQ4M2RuMFp3VDFGczl6VVNDa2NmY0ZNeDM3TnVTZkJ2OWRoWDBJZG1ZcnNTZDEtTms4d3c4THhxTERhS1k5NXFSMEdsMzNqLTV2NXNXSjg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남권생물자원관, AI 기반 생물자원 활용 심포지엄 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OYjgyQUpHMGlCeVkxS1U5WU9SOFM1UXZraFFZRVd3T0REWEp3b3I1aFRJSDZSOU90a1RCVUIybFV5MkVfUXBwa2x6cEJwV3JGdXc?oc=5",
+        "title": "경기도미술관 인공지능 기술 접목 'AI 미술 도슨트' 서비스 본격 운영 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HS2RRWTNpaGpaX1VncnNPNXRVZEZqY1F2LUZTNXhMMVlZMllxMHNvR1hKcnRxdjRoRlRubTNEczE3LUE4eXdqZWFBVWNsMUFDTjMzd0lpN0FFOUFj?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "생성형 AI 시대, 기대·우려 교차…\"생각의 외주화 경계해야\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JTkV1U0M0TE04RktoSGp0Q3BnYXhyZzh1MHVoSTFTaExTamtyWVdnUmFHbXlhbkhoTGRJZmFzV2ZHOUt3a0FNaFF0dnZtZDA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "인공지능 목소리 복제, 사회적 조작 위험 현실화되나 - 2news.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XVEh0cVNEa2Jsb2NTMlJjWDRKRWVjOHRuZHNvcmpzSGRFZFl6SGNfcjFUd1dNU3Q3cElVd29sUkEwd212RUdWTmIxbXptS1pLRm05TlczOXJmX1M4eXFyNHdvNHpHVS1T?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "민주노총 \"경남 스마트제조 AX 민관협의체에 노동자 참여시켜야\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVVRQZk53OU5WV0hVUW9mQXV3ak8zWTBoSGU3Q3N6b09TdHpfd3hzYWtPc2JmMkhTV01ZRkxfbURVWk5WNmlRVlIyTzhrSFE?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "오산 아파트서 50대 부부·20대 아들 사망…경찰 수사",
-        "link": "https://n.news.naver.com/mnews/article/057/0001957447",
+        "title": "\"신이 되살릴 줄\"…모친 흉기 잔혹살해 30대, 징역 18년",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109141",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최교진 교육부 장관, 내일 '교육교부금 개편' 공개 토론 참석",
-        "link": "https://n.news.naver.com/mnews/article/448/0000624981",
+        "title": "배재고, ‘6개월 출전 정지’ 재심 청구… 탄원서도 함께 제출",
+        "link": "https://n.news.naver.com/mnews/article/023/0003986415",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울 지하철 1호선 일부 구간 단전…출근길 운행 지연",
-        "link": "https://n.news.naver.com/mnews/article/079/0004165994",
+        "title": "'매크로 예매'로 암표 장사한 35명 적발… 공무원·주부도 포함",
+        "link": "https://n.news.naver.com/mnews/article/469/0000941049",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 측 “체포방해 상고심 중계방송 반대…인격권 침해”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002666968",
+        "title": "교육부-기획예산처 장관, 내일 '교육교부금 개편' 공개토론",
+        "link": "https://n.news.naver.com/mnews/article/079/0004165884",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'장윤기 사건' 케이블타이 증거인멸 수사팀장 영장심사 출석",
-        "link": "https://n.news.naver.com/mnews/article/001/0016182151",
+        "title": "방사선 종사자 건강진단 항목 통일...중복검사 없앤다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005545332",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-08 03:36"
+  "updated": "2026-07-08 06:30"
 }
