@@ -6,55 +6,81 @@
 <title>Mission Control — taewoo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
-/* ══════════════════════════════════════════════
-   MISSION CONTROL DASHBOARD — Premium Design
-   Design: Ethereal Glass (dark) + Bento Grid
-   ══════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════
+   MISSION CONTROL v2 — Premium Homepage Design
+   Reference: Arc Browser + Linear + Raycast aesthetic
+   ═══════════════════════════════════════════════════════════════ */
 
+/* ── Design Tokens ── */
 :root {
-  /* Design Tokens */
-  --bg: #050507;
-  --bg-elevated: rgba(255,255,255,0.025);
-  --bg-card: rgba(255,255,255,0.03);
-  --bg-hover: rgba(255,255,255,0.06);
-  --border: rgba(255,255,255,0.07);
-  --border-hover: rgba(255,255,255,0.14);
-  --text: rgba(255,255,255,0.88);
-  --text-secondary: rgba(255,255,255,0.45);
-  --text-tertiary: rgba(255,255,255,0.25);
-  --gold: #fbbf24;
-  --gold-dim: rgba(251,191,36,0.12);
+  --bg-primary: #09090b;
+  --bg-secondary: #0f0f12;
+  --bg-tertiary: #16161a;
+  --bg-elevated: #1a1a1f;
+  --bg-hover: rgba(255,255,255,0.04);
+  --bg-active: rgba(255,255,255,0.07);
+
+  --border-subtle: rgba(255,255,255,0.06);
+  --border-default: rgba(255,255,255,0.08);
+  --border-hover: rgba(255,255,255,0.15);
+  --border-focus: rgba(251,191,36,0.4);
+
+  --text-primary: #fafafa;
+  --text-secondary: rgba(255,255,255,0.6);
+  --text-tertiary: rgba(255,255,255,0.35);
+  --text-quaternary: rgba(255,255,255,0.18);
+
+  --accent: #fbbf24;
+  --accent-dim: rgba(251,191,36,0.10);
+  --accent-glow: rgba(251,191,36,0.04);
   --blue: #60a5fa;
   --green: #34d399;
   --red: #f87171;
   --purple: #a78bfa;
-  --orange: #fb923c;
   --pink: #f472b6;
-  --radius: 20px;
-  --radius-sm: 12px;
-  --shadow: 0 8px 32px rgba(0,0,0,0.3);
-  --transition: 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+  --orange: #fb923c;
+  --cyan: #22d3ee;
+
+  --font-display: 'Space Grotesk', -apple-system, sans-serif;
+  --font-body: 'DM Sans', -apple-system, sans-serif;
+
+  --radius-xl: 16px;
+  --radius-lg: 12px;
+  --radius-md: 8px;
+  --radius-full: 9999px;
+
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.4);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.4);
+  --shadow-glow: 0 0 60px rgba(251,191,36,0.03);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --duration: 0.2s;
+  --duration-slow: 0.4s;
 }
 
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-html { scroll-behavior: smooth; }
-
-body {
-  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-weight: 400;
-  background: var(--bg);
-  color: var(--text);
-  min-height: 100vh;
-  padding: 20px;
+html { 
+  font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
-/* Noise + Ambient Glow */
+body {
+  font-family: var(--font-body);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* Ambient background */
 body::before {
   content: '';
   position: fixed;
@@ -62,710 +88,856 @@ body::before {
   z-index: 0;
   pointer-events: none;
   background:
-    radial-gradient(ellipse 60% 40% at 20% 15%, rgba(251,191,36,0.04) 0%, transparent 50%),
-    radial-gradient(ellipse 50% 35% at 80% 85%, rgba(96,165,250,0.03) 0%, transparent 50%),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.015'/%3E%3C/svg%3E");
-  background-size: 256px 256px;
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(251,191,36,0.03), transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 100%, rgba(96,165,250,0.02), transparent 50%);
 }
 
-/* ═══════════ LAYOUT ═══════════ */
-.content {
+/* ── Layout ── */
+.page {
   position: relative;
   z-index: 1;
-  max-width: 1440px;
+  max-width: 1400px;
   margin: 0 auto;
+  padding: 32px 40px 48px;
 }
 
-.tab-bar {
-  display: flex;
-  gap: 8px;
-  align-items: center;
-  margin-bottom: 24px;
-  flex-wrap: wrap;
-}
-
-.tab-btn {
-  padding: 10px 24px;
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  background: rgba(255,255,255,0.03);
-  color: var(--text-secondary);
-  font-family: 'DM Sans', sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all var(--transition);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  white-space: nowrap;
-  letter-spacing: 0.02em;
-}
-
-.tab-btn:hover {
-  background: var(--bg-hover);
-  color: var(--text);
-  border-color: var(--border-hover);
-}
-
-.tab-btn.active {
-  background: var(--gold-dim);
-  color: var(--gold);
-  border-color: rgba(251,191,36,0.25);
-  box-shadow: 0 0 30px rgba(251,191,36,0.06);
-}
-
-.refresh-btn {
+/* ── Top Bar ── */
+.topbar {
   display: flex;
   align-items: center;
-  gap: 8px;
-  background: rgba(255,255,255,0.03);
-  border: 1px solid var(--border);
-  color: var(--text-secondary);
-  font-family: 'DM Sans', sans-serif;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.logo {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+
+.logo-dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 8px;
+  vertical-align: middle;
+  box-shadow: 0 0 8px rgba(251,191,36,0.3);
+}
+
+.nav-pills {
+  display: flex;
+  gap: 4px;
+  margin-left: 8px;
+}
+
+.nav-pill {
+  padding: 7px 18px;
+  border: none;
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--text-tertiary);
+  font-family: var(--font-body);
   font-size: 13px;
   font-weight: 500;
-  padding: 10px 20px;
-  border-radius: 100px;
   cursor: pointer;
-  transition: all var(--transition);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  transition: all var(--duration) var(--ease-out);
+  letter-spacing: 0.01em;
+}
+
+.nav-pill:hover { color: var(--text-secondary); background: var(--bg-hover); }
+.nav-pill.active {
+  color: var(--accent);
+  background: var(--accent-dim);
+  box-shadow: var(--shadow-glow);
+}
+
+.topbar-actions {
   margin-left: auto;
+  display: flex;
+  gap: 8px;
 }
 
-.refresh-btn:hover { background: var(--bg-hover); color: var(--text); border-color: var(--border-hover); }
-.refresh-btn:active { transform: scale(0.97); }
-.refresh-btn svg { width: 15px; height: 15px; transition: transform 0.6s ease; }
-.refresh-btn.spinning svg { transform: rotate(360deg); }
-
-.brand {
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 500;
-  font-size: 15px;
-  letter-spacing: 0.35em;
-  color: var(--text-secondary);
-  text-transform: uppercase;
-  margin-right: 12px;
+.btn-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px; height: 36px;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  background: transparent;
+  color: var(--text-tertiary);
+  cursor: pointer;
+  transition: all var(--duration) var(--ease-out);
 }
+.btn-icon:hover { color: var(--text-secondary); background: var(--bg-hover); border-color: var(--border-hover); }
+.btn-icon:active { transform: scale(0.95); }
+.btn-icon svg { width: 16px; height: 16px; }
+.btn-icon.spinning svg { animation: spin 1s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
 
-/* ═══════════ BENTO GRID ═══════════ */
-.grid {
+/* ── Bento Grid ── */
+.bento {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 18px;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: min-content;
+  gap: 16px;
 }
 
+/* Column spans: 12-column grid */
+.col-12 { grid-column: span 12; }
+.col-8  { grid-column: span 8; }
+.col-6  { grid-column: span 6; }
+.col-4  { grid-column: span 4; }
+
+/* ── Card System ── */
 .card {
-  background: var(--bg-card);
-  backdrop-filter: blur(24px) saturate(1.1);
-  -webkit-backdrop-filter: blur(24px) saturate(1.1);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 24px 26px;
-  position: relative;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
   overflow: hidden;
-  transition: all var(--transition);
-  box-shadow: var(--shadow);
+  transition: border-color var(--duration) var(--ease-out);
+  position: relative;
 }
 
-.card:hover { border-color: var(--border-hover); }
+.card:hover { border-color: var(--border-default); }
 
+/* Card inner highlight line */
 .card::before {
   content: '';
   position: absolute;
-  top: 0; left: 5%; right: 5%;
+  top: 0; left: 0; right: 0;
   height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.08), transparent);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05) 20%, rgba(255,255,255,0.05) 80%, transparent);
+  z-index: 1;
+}
+
+.card-body {
+  padding: 24px;
 }
 
 .card-header {
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 18px;
-  position: relative;
-  z-index: 1;
-}
-
-.card-dot {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  flex-shrink: 0;
-  position: relative;
-}
-
-.card-dot::after {
-  content: '';
-  position: absolute;
-  inset: -2px;
-  border-radius: 50%;
-  border: 1px solid;
-  opacity: 0.3;
-  animation: pulse-ring 2.8s ease-in-out infinite;
-}
-
-@keyframes pulse-ring {
-  0%, 100% { transform: scale(1); opacity: 0.3; }
-  50% { transform: scale(1.6); opacity: 0; }
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .card-label {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 600;
+  font-family: var(--font-body);
   font-size: 11px;
-  letter-spacing: 0.14em;
-  color: var(--text-tertiary);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--text-quaternary);
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
-.card-value {
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 300;
-  color: var(--text);
-  font-variant-numeric: tabular-nums;
+.label-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
 }
 
-/* Card dot colors */
-.c-clock .card-dot { background: var(--gold); }
-.c-clock .card-dot::after { border-color: var(--gold); }
-.c-weather .card-dot { background: var(--blue); }
-.c-weather .card-dot::after { border-color: var(--blue); }
-.c-air .card-dot { background: var(--green); }
-.c-air .card-dot::after { border-color: var(--green); }
-.c-news .card-dot { background: var(--orange); }
-.c-news .card-dot::after { border-color: var(--orange); }
-.c-github .card-dot { background: rgba(255,255,255,0.3); }
-.c-github .card-dot::after { border-color: rgba(255,255,255,0.15); }
-.c-dev .card-dot { background: var(--purple); }
-.c-dev .card-dot::after { border-color: var(--purple); }
-.c-links .card-dot { background: var(--pink); }
-.c-links .card-dot::after { border-color: var(--pink); }
+/* ── Search ── */
+.search-card { background: var(--bg-tertiary); }
+.search-card .card-body { padding: 16px 20px; }
 
-/* Grid spans */
-.s-full  { grid-column: 1 / -1; }
-.s-2     { grid-column: span 2; }
-.s-1     { grid-column: span 1; }
-.s-3     { grid-column: span 3; }
+.search-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
 
-/* ═══════════ SEARCH ═══════════ */
-.search-wrap { position: relative; }
+.search-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; height: 40px;
+  border-radius: var(--radius-md);
+  background: var(--bg-active);
+  flex-shrink: 0;
+}
+.search-icon-wrap svg { width: 18px; height: 18px; color: var(--text-tertiary); }
+
 .search-input {
-  width: 100%;
-  padding: 16px 24px 16px 52px;
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  background: rgba(255,255,255,0.04);
-  color: var(--text);
-  font-family: 'DM Sans', sans-serif;
+  flex: 1;
+  border: none;
+  background: transparent;
+  color: var(--text-primary);
+  font-family: var(--font-body);
   font-size: 15px;
   outline: none;
-  transition: all var(--transition);
-  backdrop-filter: blur(12px);
+  letter-spacing: 0.01em;
 }
-.search-input::placeholder { color: var(--text-tertiary); }
-.search-input:focus {
-  border-color: rgba(251,191,36,0.25);
-  background: rgba(255,255,255,0.06);
-  box-shadow: 0 0 40px rgba(251,191,36,0.03);
-}
-.search-icon {
-  position: absolute;
-  left: 20px; top: 50%;
-  transform: translateY(-50%);
-  width: 18px; height: 18px;
-  color: var(--text-tertiary);
-  pointer-events: none;
-}
-.search-engines {
-  position: absolute;
-  right: 12px; top: 50%;
-  transform: translateY(-50%);
-  display: flex; gap: 4px;
-}
-.search-engines button {
-  padding: 4px 10px;
-  border: none;
-  border-radius: 100px;
-  background: transparent;
-  color: var(--text-tertiary);
-  font-size: 11px;
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.search-engines button:hover, .search-engines button.active {
-  background: var(--gold-dim);
-  color: var(--gold);
+.search-input::placeholder { color: var(--text-quaternary); }
+
+.search-engine-pills {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
 }
 
-/* ═══════════ CLOCK ═══════════ */
-.clock-time {
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 300;
-  font-size: clamp(48px, 5vw, 64px);
-  line-height: 1;
-  color: var(--text);
-  letter-spacing: -0.02em;
+.engine-pill {
+  padding: 5px 14px;
+  border: none;
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--text-quaternary);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--duration) var(--ease-out);
 }
+.engine-pill:hover { color: var(--text-tertiary); }
+.engine-pill.active { color: var(--accent); background: var(--accent-dim); }
+
+/* ── Clock ── */
+.clock-time {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--text-primary);
+}
+
+.clock-seconds {
+  font-size: 28px;
+  font-weight: 300;
+  color: var(--text-quaternary);
+  vertical-align: super;
+  margin-left: 2px;
+}
+
 .clock-date {
   font-size: 14px;
   color: var(--text-secondary);
-  margin-top: 6px;
+  margin-top: 8px;
   font-weight: 400;
 }
-.clock-sec {
-  font-size: 20px;
-  font-weight: 300;
+
+.clock-greeting {
+  font-size: 14px;
   color: var(--text-tertiary);
-  vertical-align: super;
-  margin-left: 4px;
+  margin-top: 4px;
 }
 
-/* ═══════════ WEATHER ═══════════ */
-.weather-main {
+/* ── Weather ── */
+.weather-layout {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.weather-main { flex: 1; }
+
+.weather-temp-row {
   display: flex;
   align-items: flex-start;
-  gap: 16px;
-  margin-bottom: 16px;
+  gap: 12px;
 }
+
 .weather-temp {
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: var(--font-display);
   font-weight: 300;
-  font-size: clamp(48px, 5vw, 60px);
+  font-size: 56px;
   line-height: 1;
+  letter-spacing: -0.02em;
 }
-.weather-icon { font-size: 40px; line-height: 1; }
-.weather-desc { 
-  font-size: 14px; 
-  color: var(--text-secondary); 
-  margin-top: 2px; 
+
+.weather-icon-text { font-size: 36px; line-height: 1.2; }
+
+.weather-desc {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-top: 4px;
 }
-.weather-grid {
+
+.weather-detail-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
+  margin-top: 16px;
 }
-.weather-stat {
-  background: rgba(255,255,255,0.03);
-  border-radius: var(--radius-sm);
+
+.weather-detail {
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
   padding: 10px 12px;
 }
-.weather-stat-label { font-size: 11px; color: var(--text-tertiary); font-weight: 500; letter-spacing: 0.05em; }
-.weather-stat-value { font-family: 'Space Grotesk', sans-serif; font-size: 16px; font-weight: 500; margin-top: 2px; }
-.weather-forecast {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid var(--border);
-}
-.forecast-day { text-align: center; }
-.forecast-day-name { font-size: 12px; color: var(--text-tertiary); }
-.forecast-temp { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 500; margin-top: 2px; }
-.forecast-icon { font-size: 20px; }
 
-/* ═══════════ NEWS ═══════════ */
+.weather-detail-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--text-quaternary);
+  text-transform: uppercase;
+}
+
+.weather-detail-value {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-top: 2px;
+}
+
+.weather-forecast {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex-shrink: 0;
+  min-width: 100px;
+}
+
+.forecast-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.forecast-item .day { color: var(--text-tertiary); font-weight: 500; }
+.forecast-item .hi-lo { font-family: var(--font-display); font-weight: 500; color: var(--text-primary); }
+
+/* ── News ── */
 .news-tabs {
   display: flex;
   gap: 0;
+  border-bottom: 1px solid var(--border-subtle);
   margin-bottom: 16px;
-  border-bottom: 1px solid var(--border);
+  margin-left: -24px;
+  margin-right: -24px;
+  padding: 0 24px;
 }
+
 .news-tab {
   padding: 10px 20px;
   border: none;
+  border-bottom: 2px solid transparent;
   background: none;
   color: var(--text-tertiary);
-  font-family: 'DM Sans', sans-serif;
+  font-family: var(--font-body);
   font-size: 13px;
   font-weight: 500;
   cursor: pointer;
-  transition: all var(--transition);
-  border-bottom: 2px solid transparent;
+  transition: all var(--duration) var(--ease-out);
   margin-bottom: -1px;
 }
 .news-tab:hover { color: var(--text-secondary); }
 .news-tab.active {
-  color: var(--gold);
-  border-bottom-color: var(--gold);
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
-.news-list { display: flex; flex-direction: column; gap: 6px; }
+
+.news-list { display: flex; flex-direction: column; gap: 2px; }
+
 .news-item {
   display: flex;
   align-items: flex-start;
-  gap: 12px;
+  gap: 14px;
   padding: 12px 14px;
-  border-radius: var(--radius-sm);
-  transition: all 0.2s;
-  cursor: pointer;
+  border-radius: var(--radius-md);
   text-decoration: none;
   color: inherit;
+  transition: background var(--duration) var(--ease-out);
 }
+
 .news-item:hover { background: var(--bg-hover); }
-.news-num {
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 12px;
+.news-item:hover .news-title { color: var(--accent); }
+
+.news-index {
+  font-family: var(--font-display);
+  font-size: 11px;
   font-weight: 500;
-  color: var(--text-tertiary);
-  min-width: 24px;
+  color: var(--text-quaternary);
+  min-width: 20px;
   text-align: right;
   flex-shrink: 0;
-  margin-top: 2px;
+  padding-top: 2px;
 }
+
+.news-body { flex: 1; min-width: 0; }
+
 .news-title {
   font-size: 14px;
+  font-weight: 400;
+  color: var(--text-primary);
   line-height: 1.5;
-  color: var(--text);
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
-.news-item:hover .news-title { color: var(--gold); }
-.news-time {
-  font-size: 11px;
-  color: var(--text-tertiary);
-  margin-top: 8px;
-  text-align: right;
+  transition: color var(--duration) var(--ease-out);
 }
 
-/* ═══════════ GITHUB ═══════════ */
-.github-stats {
+.news-source {
+  font-size: 11px;
+  color: var(--text-quaternary);
+  margin-top: 4px;
+}
+
+/* ── GitHub ── */
+.github-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 8px;
 }
+
 .github-stat {
-  background: rgba(255,255,255,0.03);
-  border-radius: var(--radius-sm);
-  padding: 12px;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
   text-align: center;
 }
-.github-stat-value { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 500; }
-.github-stat-label { font-size: 11px; color: var(--text-tertiary); margin-top: 2px; }
 
-/* ═══════════ QUICK LINKS ═══════════ */
+.github-stat-value {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.github-stat-label {
+  font-size: 11px;
+  color: var(--text-tertiary);
+  font-weight: 500;
+  margin-top: 2px;
+}
+
+.github-repos {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.github-repo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  padding: 6px 0;
+}
+
+.github-repo-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--text-quaternary);
+}
+
+/* ── Dev Status ── */
+.dev-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.dev-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
+  transition: background var(--duration) var(--ease-out);
+}
+
+.dev-row:hover { background: var(--bg-hover); }
+
+.dev-name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.dev-status-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.dev-status-dot.green { background: var(--green); box-shadow: 0 0 6px rgba(52,211,153,0.3); }
+.dev-status-dot.yellow { background: var(--accent); box-shadow: 0 0 6px rgba(251,191,36,0.3); }
+
+.dev-status-text {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  font-weight: 400;
+}
+
+/* ── Quick Links ── */
 .links-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
 }
-.link-item {
+
+.link-btn {
   display: flex;
   align-items: center;
   gap: 10px;
   padding: 10px 14px;
-  border-radius: var(--radius-sm);
-  background: rgba(255,255,255,0.03);
+  border-radius: var(--radius-md);
+  background: var(--bg-tertiary);
   text-decoration: none;
-  color: var(--text);
+  color: var(--text-secondary);
   font-size: 13px;
-  transition: all 0.2s;
+  font-weight: 500;
+  transition: all var(--duration) var(--ease-out);
+  border: 1px solid transparent;
 }
-.link-item:hover { background: var(--bg-hover); color: var(--gold); }
-.link-icon { font-size: 18px; flex-shrink: 0; }
 
-/* ═══════════ DEV STATUS ═══════════ */
-.dev-items {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+.link-btn:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+  border-color: var(--border-default);
+}
+
+.link-emoji { font-size: 16px; flex-shrink: 0; }
+
+/* ── Air Quality ── */
+.air-display {
+  text-align: center;
+}
+
+.air-value-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
   gap: 8px;
 }
-.dev-item {
-  padding: 12px 14px;
-  border-radius: var(--radius-sm);
-  background: rgba(255,255,255,0.03);
-}
-.dev-item-name { font-size: 13px; font-weight: 500; }
-.dev-item-status { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
-.dev-item .status-dot {
-  display: inline-block;
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  margin-right: 6px;
-}
-.status-dot.green { background: var(--green); }
-.status-dot.yellow { background: var(--gold); }
-.status-dot.red { background: var(--red); }
 
-/* ═══════════ AIR QUALITY ═══════════ */
 .air-value {
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 36px;
+  font-family: var(--font-display);
+  font-size: 40px;
   font-weight: 300;
-  display: inline-block;
+  color: var(--text-primary);
 }
-.air-label { font-size: 14px; color: var(--text-secondary); margin-left: 8px; }
-.air-items {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 6px;
-  margin-top: 12px;
-}
-.air-item {
-  display: flex; justify-content: space-between;
-  padding: 6px 0;
-  border-bottom: 1px solid var(--border);
-  font-size: 13px;
-}
-.air-item-name { color: var(--text-secondary); }
-.air-item-value { font-weight: 500; }
 
-/* ═══════════ MEMO ═══════════ */
-.memo-wrap { display: none; flex-direction: column; height: calc(100vh - 100px); }
-.memo-wrap.active { display: flex; }
-.memo-toolbar {
-  display: flex; gap: 6px;
-  padding: 12px 0;
-  flex-wrap: wrap;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 12px;
+.air-grade {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  background: rgba(52,211,153,0.1);
+  color: var(--green);
 }
-.memo-toolbar button {
-  padding: 6px 12px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: rgba(255,255,255,0.03);
-  color: var(--text-secondary);
-  font-size: 12px;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.memo-toolbar button:hover { background: var(--bg-hover); color: var(--text); }
-.memo-editor {
-  flex: 1;
-  min-height: 0;
+
+.air-breakdown {
   display: flex;
   flex-direction: column;
+  gap: 6px;
+  margin-top: 16px;
 }
+
+.air-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--text-secondary);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.air-row:last-child { border-bottom: none; }
+
+.air-row-label { color: var(--text-tertiary); }
+.air-row-value { font-family: var(--font-display); font-weight: 500; color: var(--text-primary); }
+
+/* ── Memo ── */
+.memo-container { display: none; flex-direction: column; height: calc(100vh - 140px); }
+.memo-container.active { display: flex; }
+
+.memo-toolbar {
+  display: flex;
+  gap: 6px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.memo-tool-btn {
+  padding: 6px 14px;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--duration) var(--ease-out);
+}
+.memo-tool-btn:hover { background: var(--bg-hover); color: var(--text-primary); }
+
+.memo-editor { flex: 1; min-height: 0; display: flex; flex-direction: column; }
 .memo-editor textarea, .memo-editor .preview {
   flex: 1;
-  background: rgba(255,255,255,0.02);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 20px;
-  color: var(--text);
-  font-family: 'DM Sans', monospace;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  color: var(--text-primary);
+  font-family: var(--font-body);
   font-size: 14px;
-  line-height: 1.7;
+  line-height: 1.8;
   outline: none;
   resize: none;
   overflow: auto;
 }
-.memo-editor .preview {
-  display: none;
-  font-family: 'DM Sans', sans-serif;
-}
+.memo-editor textarea:focus { border-color: var(--border-hover); }
+.memo-editor .preview { display: none; }
 .memo-editor .preview.show { display: block; }
-.memo-editor textarea.hide { display: none; }
+.memo-editor .preview h1, .memo-editor .preview h2, .memo-editor .preview h3 { font-family: var(--font-display); color: var(--text-primary); margin: 16px 0 8px; }
+.memo-editor .preview p { margin: 8px 0; color: var(--text-secondary); }
+.memo-editor .preview code { background: var(--bg-tertiary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+.memo-editor .preview ul, .memo-editor .preview ol { padding-left: 20px; color: var(--text-secondary); }
 
-/* ═══════════ RESPONSIVE ═══════════ */
-@media (max-width: 1024px) {
-  body { padding: 14px; }
-  .grid { gap: 14px; }
-  .s-2, .s-3, .s-full { grid-column: span 4; }
-  .github-stats { grid-template-columns: repeat(2, 1fr); }
+/* ── Loading ── */
+.skeleton {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  color: var(--text-quaternary);
+  font-size: 13px;
 }
-
-@media (max-width: 640px) {
-  body { padding: 10px; }
-  .grid { gap: 10px; }
-  .card { padding: 16px 18px; }
-  .tab-btn { padding: 8px 16px; font-size: 12px; }
-  .links-grid { grid-template-columns: repeat(2, 1fr); }
-  .dev-items { grid-template-columns: 1fr; }
-  .search-input { font-size: 14px; }
-  .brand { display: none; }
-}
-
-/* ═══════════ LOADING ═══════════ */
-.loading {
-  display: flex; align-items: center; gap: 8px;
-  padding: 20px 0; color: var(--text-tertiary); font-size: 13px;
-}
-.loading span {
-  width: 6px; height: 6px;
+.skeleton-dot {
+  width: 5px; height: 5px;
   border-radius: 50%;
-  background: var(--text-tertiary);
-  animation: dot-pulse 1.4s ease-in-out infinite both;
+  background: var(--text-quaternary);
+  animation: pulse 1.4s ease-in-out infinite;
 }
-.loading span:nth-child(2) { animation-delay: 0.16s; }
-.loading span:nth-child(3) { animation-delay: 0.32s; }
-@keyframes dot-pulse {
-  0%, 80%, 100% { transform: scale(0.5); opacity: 0.3; }
+.skeleton-dot:nth-child(2) { animation-delay: 0.16s; }
+.skeleton-dot:nth-child(3) { animation-delay: 0.32s; }
+@keyframes pulse {
+  0%, 80%, 100% { transform: scale(0.6); opacity: 0.3; }
   40% { transform: scale(1); opacity: 1; }
 }
 
-/* ═══════════ UTILITY ═══════════ */
-.ta-center { text-align: center; }
-.ta-right { text-align: right; }
-.mt-8 { margin-top: 8px; }
-.mt-12 { margin-top: 12px; }
-.mb-12 { margin-bottom: 12px; }
-.flex { display: flex; }
-.gap-8 { gap: 8px; }
-.items-center { align-items: center; }
+/* ── Responsive ── */
+@media (max-width: 1200px) {
+  .page { padding: 24px; }
+  .col-8 { grid-column: span 12; }
+  .col-6 { grid-column: span 6; }
+}
+
+@media (max-width: 768px) {
+  .page { padding: 16px; }
+  .bento { gap: 12px; }
+  .col-12, .col-8, .col-6, .col-4 { grid-column: span 12; }
+  .clock-time { font-size: 56px; }
+  .weather-temp { font-size: 44px; }
+  .weather-layout { flex-direction: column; }
+  .weather-forecast { flex-direction: row; min-width: auto; }
+  .github-grid { grid-template-columns: repeat(2, 1fr); }
+  .links-grid { grid-template-columns: repeat(2, 1fr); }
+  .logo { display: none; }
+  .card-body { padding: 18px; }
+}
+
+/* ── Footer ── */
+.footer {
+  text-align: center;
+  padding-top: 32px;
+  font-size: 12px;
+  color: var(--text-quaternary);
+  letter-spacing: 0.05em;
+}
 </style>
 </head>
 <body>
 
-<div class="content">
+<div class="page">
   <!-- Top Bar -->
-  <div class="tab-bar">
-    <span class="brand">✦ Mission Control</span>
-    <button class="tab-btn active" onclick="switchTab('dashboard')">Dashboard</button>
-    <button class="tab-btn" onclick="switchTab('memo')">메모장</button>
-    <button class="refresh-btn" id="refreshBtn" onclick="refreshAll()">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
-      Refresh
-    </button>
+  <div class="topbar">
+    <div class="logo"><span class="logo-dot"></span>Mission Control</div>
+    <div class="nav-pills">
+      <button class="nav-pill active" id="navDash" onclick="switchTab('dashboard')">Dashboard</button>
+      <button class="nav-pill" id="navMemo" onclick="switchTab('memo')">Memo</button>
+    </div>
+    <div class="topbar-actions">
+      <button class="btn-icon" id="refreshBtn" onclick="refreshAll()" title="새로고침">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+      </button>
+    </div>
   </div>
 
-  <!-- Dashboard Tab -->
-  <div id="tab-dashboard">
-    <!-- Search Bar -->
-    <div class="card s-full search-wrap">
-      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input class="search-input" id="searchInput" type="text" placeholder="네이버 검색..." onkeydown="if(event.key==='Enter')doSearch()">
-      <div class="search-engines">
-        <button class="active" onclick="setEngine('naver')">Naver</button>
-        <button onclick="setEngine('google')">Google</button>
-        <button onclick="setEngine('github')">GitHub</button>
-      </div>
-    </div>
+  <!-- ═══ Dashboard ═══ -->
+  <div id="view-dashboard">
+    <div class="bento">
 
-    <div class="grid">
-      <!-- Clock -->
-      <div class="card s-2 c-clock">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">Clock</span>
+      <!-- Search (full width) -->
+      <div class="card col-12 search-card">
+        <div class="card-body">
+          <div class="search-row">
+            <div class="search-icon-wrap">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            </div>
+            <input class="search-input" id="searchInput" type="text" placeholder="Search anything..." onkeydown="if(event.key==='Enter')doSearch()">
+            <div class="search-engine-pills">
+              <button class="engine-pill active" onclick="setEngine('naver')">Naver</button>
+              <button class="engine-pill" onclick="setEngine('google')">Google</button>
+              <button class="engine-pill" onclick="setEngine('github')">GitHub</button>
+            </div>
+          </div>
         </div>
-        <div class="clock-time" id="clockDisplay">--:--:--</div>
-        <div class="clock-date" id="dateDisplay"></div>
       </div>
 
-      <!-- Weather -->
-      <div class="card s-2 c-weather">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">Weather</span>
+      <!-- Clock (8 cols) -->
+      <div class="card col-8">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--accent)"></span>시계</span>
+            <span id="clockTimezone" style="font-size:11px;color:var(--text-quaternary)"></span>
+          </div>
+          <div class="clock-time" id="clockDisplay">--:--<span class="clock-seconds">00</span></div>
+          <div class="clock-date" id="dateDisplay"></div>
+          <div class="clock-greeting" id="greetingDisplay"></div>
         </div>
-        <div id="weatherContent">
-          <div class="loading"><span></span><span></span><span></span> Loading weather...</div>
+      </div>
+
+      <!-- Weather (4 cols) -->
+      <div class="card col-4">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--blue)"></span>날씨</span>
+          </div>
+          <div id="weatherContent">
+            <div class="skeleton"><div class="skeleton-dot"></div><div class="skeleton-dot"></div><div class="skeleton-dot"></div> Loading...</div>
+          </div>
         </div>
       </div>
 
       <!-- News (full width) -->
-      <div class="card s-full c-news">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">News</span>
-          <span style="margin-left:auto;font-size:11px;color:var(--text-tertiary)" id="newsUpdated"></span>
-        </div>
-        <div class="news-tabs" id="newsTabs"></div>
-        <div id="newsContent">
-          <div class="loading"><span></span><span></span><span></span> Loading news...</div>
-        </div>
-      </div>
-
-      <!-- GitHub -->
-      <div class="card s-2 c-github">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">GitHub</span>
-        </div>
-        <div id="githubContent">
-          <div class="loading"><span></span><span></span><span></span> Loading...</div>
+      <div class="card col-12">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--orange)"></span>뉴스</span>
+            <span id="newsUpdated" style="font-size:11px;color:var(--text-quaternary)"></span>
+          </div>
+          <div class="news-tabs" id="newsTabs"></div>
+          <div id="newsContent">
+            <div class="skeleton"><div class="skeleton-dot"></div><div class="skeleton-dot"></div><div class="skeleton-dot"></div> Loading...</div>
+          </div>
         </div>
       </div>
 
-      <!-- Development Status -->
-      <div class="card s-2 c-dev">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">Dev Status</span>
+      <!-- GitHub (6 cols) -->
+      <div class="card col-6">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--text-tertiary)"></span>GitHub</span>
+            <a href="https://github.com/leemind-q" target="_blank" style="font-size:11px;color:var(--text-quaternary);text-decoration:none" id="ghHandle">@leemind-q</a>
+          </div>
+          <div id="githubContent">
+            <div class="skeleton"><div class="skeleton-dot"></div><div class="skeleton-dot"></div><div class="skeleton-dot"></div> Loading...</div>
+          </div>
         </div>
-        <div class="dev-items" id="devContent"></div>
       </div>
 
-      <!-- Quick Links (3 cols) -->
-      <div class="card s-3 c-links">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">Quick Links</span>
+      <!-- Dev Status (6 cols) -->
+      <div class="card col-6">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--purple)"></span>Dev Status</span>
+          </div>
+          <div class="dev-grid" id="devContent"></div>
         </div>
-        <div class="links-grid" id="linksContent"></div>
       </div>
 
-      <!-- Air Quality -->
-      <div class="card s-1 c-air">
-        <div class="card-header">
-          <span class="card-dot"></span>
-          <span class="card-label">Air</span>
-        </div>
-        <div id="airContent">
-          <div class="loading"><span></span><span></span><span></span> Loading...</div>
+      <!-- Quick Links (8 cols) -->
+      <div class="card col-8">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--pink)"></span>Quick Links</span>
+          </div>
+          <div class="links-grid" id="linksContent"></div>
         </div>
       </div>
+
+      <!-- Air Quality (4 cols) -->
+      <div class="card col-4">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--green)"></span>대기질</span>
+          </div>
+          <div id="airContent">
+            <div class="skeleton"><div class="skeleton-dot"></div><div class="skeleton-dot"></div><div class="skeleton-dot"></div> Loading...</div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
-    <!-- Footer -->
-    <div style="text-align:center;padding:24px 0 8px;font-size:12px;color:var(--text-tertiary);">
-      <span>Mission Control · Built with Premium Design System</span>
-    </div>
+    <div class="footer">Mission Control · taewoo</div>
   </div>
 
-  <!-- Memo Tab -->
-  <div class="memo-wrap" id="tab-memo">
+  <!-- ═══ Memo ═══ -->
+  <div class="memo-container" id="view-memo">
     <div class="memo-toolbar">
-      <button onclick="toggleMemoMode()" id="memoModeBtn">✏️ 편집</button>
-      <button onclick="saveMemo()">💾 저장</button>
-      <button onclick="exportMemo()">📋 HTML 복사</button>
-      <button onclick="clearMemo()">🗑️ 초기화</button>
+      <button class="memo-tool-btn" id="memoToggleBtn" onclick="toggleMemoMode()">👁 Preview</button>
+      <button class="memo-tool-btn" onclick="saveMemo()">💾 Save</button>
+      <button class="memo-tool-btn" onclick="exportMemo()">📋 Copy HTML</button>
+      <button class="memo-tool-btn" onclick="clearMemo()">🗑 Clear</button>
     </div>
     <div class="memo-editor">
-      <textarea id="memoTextarea"></textarea>
+      <textarea id="memoTextarea" placeholder="Write anything in Markdown..."></textarea>
       <div class="preview" id="memoPreview"></div>
     </div>
   </div>
 </div>
 
 <script>
-/* ══════════════════════════════════════════════
-   MISSION CONTROL — Application Logic
-   ══════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════
+   MISSION CONTROL v2 — Application Logic
+   ═══════════════════════════════════════════════════ */
 
-// ─── Tab Switching ───
+// ── Tab ──
 function switchTab(tab) {
-  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  document.querySelectorAll('.tab-btn').forEach(b => {
-    if (b.textContent.trim() === (tab === 'dashboard' ? 'Dashboard' : '메모장')) {
-      b.classList.add('active');
-    }
-  });
-  document.getElementById('tab-dashboard').style.display = tab === 'dashboard' ? 'block' : 'none';
-  document.getElementById('tab-memo').classList.toggle('active', tab === 'memo');
+  document.getElementById('view-dashboard').style.display = tab === 'dashboard' ? '' : 'none';
+  document.getElementById('view-memo').classList.toggle('active', tab === 'memo');
+  document.getElementById('navDash').classList.toggle('active', tab === 'dashboard');
+  document.getElementById('navMemo').classList.toggle('active', tab === 'memo');
   if (tab === 'memo') loadMemo();
 }
 
-// ─── Clock ───
+// ── Clock ──
 function updateClock() {
   const now = new Date();
   const h = String(now.getHours()).padStart(2,'0');
   const m = String(now.getMinutes()).padStart(2,'0');
   const s = String(now.getSeconds()).padStart(2,'0');
-  document.getElementById('clockDisplay').innerHTML = `${h}:${m}<span class="clock-sec">${s}</span>`;
+  document.getElementById('clockDisplay').innerHTML = `${h}:${m}<span class="clock-seconds">${s}</span>`;
+
   const days = ['일요일','월요일','화요일','수요일','목요일','금요일','토요일'];
   document.getElementById('dateDisplay').textContent =
     `${now.getFullYear()}.${String(now.getMonth()+1).padStart(2,'0')}.${String(now.getDate()).padStart(2,'0')} ${days[now.getDay()]}`;
+
+  const hour = now.getHours();
+  let greeting = hour < 6 ? '좋은 새벽이에요' : hour < 12 ? '좋은 아침이에요' : hour < 18 ? '좋은 오후예요' : '좋은 저녁이에요';
+  document.getElementById('greetingDisplay').textContent = greeting;
 }
 setInterval(updateClock, 1000);
 updateClock();
 
-// ─── Search ───
+// ── Search ──
 let searchEngine = 'naver';
 const searchUrls = {
   naver: 'https://search.naver.com/search.naver?query=',
@@ -775,12 +947,11 @@ const searchUrls = {
 
 function setEngine(name) {
   searchEngine = name;
-  document.querySelectorAll('.search-engines button').forEach(b => b.classList.remove('active'));
-  document.querySelectorAll('.search-engines button').forEach(b => {
-    if (b.textContent.toLowerCase() === name) b.classList.add('active');
+  document.querySelectorAll('.engine-pill').forEach(b => {
+    b.classList.toggle('active', b.textContent.toLowerCase() === name);
   });
-  const placeholder = { naver: '네이버 검색...', google: 'Google 검색...', github: 'GitHub 검색...' };
-  document.getElementById('searchInput').placeholder = placeholder[name] || '검색...';
+  const ph = { naver: 'Search anything...', google: 'Search anything...', github: 'Search anything...' };
+  document.getElementById('searchInput').placeholder = ph[name];
 }
 
 function doSearch() {
@@ -789,67 +960,66 @@ function doSearch() {
   window.open(searchUrls[searchEngine] + encodeURIComponent(q), '_blank');
 }
 
-// ─── Weather ───
+// ── Weather ──
 async function loadWeather() {
   const el = document.getElementById('weatherContent');
   try {
     const res = await fetch('https://wttr.in/Incheon?format=j1');
     const data = await res.json();
     const cur = data.current_condition[0];
-    const forecasts = data.weather.slice(0, 3);
     const days = ['일','월','화','수','목','금','토'];
-    const icons = { '113': '☀️','116':'🌤','119':'☁️','122':'☁️','143':'🌫','176':'🌦','179':'🌧','182':'🌧','185':'🌧','200':'⛈','227':'🌨','230':'🌨','248':'🌫','260':'🌫','263':'🌦','266':'🌦','281':'🌧','284':'🌧','293':'🌦','296':'🌦','299':'🌧','302':'🌧','305':'🌧','308':'🌧','311':'🌧','314':'🌧','317':'🌧','320':'🌨','323':'🌨','326':'🌨','329':'🌧','332':'🌧','335':'🌧','338':'🌧','350':'🌧','353':'🌦','356':'🌧','359':'🌧','362':'🌧','365':'🌧','368':'🌨','371':'🌨','374':'🌧','377':'🌧','386':'⛈','389':'⛈','392':'⛈','395':'🌨' };
+    const codeMap = {'113':'☀️','116':'🌤','119':'⛅','122':'☁️','143':'🌫','176':'🌦','179':'🌧','182':'🌧','185':'🌧','200':'⛈','227':'🌨','230':'🌨','248':'🌫','260':'🌫','263':'🌦','266':'🌦','281':'🌧','284':'🌧','293':'🌦','296':'🌦','299':'🌧','302':'🌧','305':'🌧','308':'🌧','311':'🌧','314':'🌧','317':'🌨','320':'🌨','323':'🌨','326':'🌨','329':'🌧','332':'🌧','335':'🌧','338':'🌧','350':'🌧','353':'🌦','356':'🌧','359':'🌧','362':'🌧','365':'🌧','368':'🌨','371':'🌨','374':'🌧','377':'🌧','386':'⛈','389':'⛈','392':'⛈','395':'🌨'};
+    const icon = codeMap[cur.weatherCode] || '☁️';
+    const forecasts = data.weather.slice(0, 3);
 
     el.innerHTML = `
-      <div class="weather-main">
-        <div class="weather-icon">${icons[cur.weatherCode] || '☁️'}</div>
-        <div>
-          <div class="weather-temp">${cur.temp_C}°</div>
-          <div class="weather-desc">${cur.weatherDesc[0].value} · 체감 ${cur.FeelsLikeC}°</div>
-        </div>
-      </div>
-      <div class="weather-grid">
-        <div class="weather-stat">
-          <div class="weather-stat-label">습도</div>
-          <div class="weather-stat-value">${cur.humidity}%</div>
-        </div>
-        <div class="weather-stat">
-          <div class="weather-stat-label">바람</div>
-          <div class="weather-stat-value">${cur.windspeedKmph}km/h</div>
-        </div>
-        <div class="weather-stat">
-          <div class="weather-stat-label">가시</div>
-          <div class="weather-stat-value">${cur.visibility}km</div>
-        </div>
-      </div>
-      <div class="weather-forecast">
-        ${forecasts.map((f,i) => `
-          <div class="forecast-day">
-            <div class="forecast-day-name">${i===0?'오늘':days[new Date(f.date).getDay()]}</div>
-            <div class="forecast-icon">${icons[f.hourly[0]?.weatherCode] || '☁️'}</div>
-            <div class="forecast-temp">${f.mintempC}° ${f.maxtempC}°</div>
+      <div class="weather-layout">
+        <div class="weather-main">
+          <div class="weather-temp-row">
+            <div class="weather-temp">${cur.temp_C}°</div>
+            <div class="weather-icon-text">${icon}</div>
           </div>
-        `).join('')}
+          <div class="weather-desc">${cur.weatherDesc[0].value} · 체감 ${cur.FeelsLikeC}°</div>
+          <div class="weather-detail-grid">
+            <div class="weather-detail">
+              <div class="weather-detail-label">Humidity</div>
+              <div class="weather-detail-value">${cur.humidity}%</div>
+            </div>
+            <div class="weather-detail">
+              <div class="weather-detail-label">Wind</div>
+              <div class="weather-detail-value">${cur.windspeedKmph}km/h</div>
+            </div>
+            <div class="weather-detail">
+              <div class="weather-detail-label">Visibility</div>
+              <div class="weather-detail-value">${cur.visibility}km</div>
+            </div>
+          </div>
+        </div>
+        <div class="weather-forecast">
+          ${forecasts.map((f,i) => {
+            const d = new Date(f.date);
+            const fi = codeMap[f.hourly[4]?.weatherCode] || '☁️';
+            return `<div class="forecast-item">
+              <span class="day">${i===0?'오늘':days[d.getDay()]}</span>
+              <span class="hi-lo">${f.mintempC}°/${f.maxtempC}°</span>
+            </div>`;
+          }).join('')}
+        </div>
       </div>`;
   } catch(e) {
-    el.innerHTML = '<div style="color:var(--text-secondary);font-size:14px;">날씨 정보를 불러올 수 없습니다</div>';
+    el.innerHTML = '<div style="color:var(--text-tertiary);font-size:13px;padding:12px 0;">날씨를 불러올 수 없습니다</div>';
   }
 }
 
-// ─── News ───
+// ── News ──
 let newsData = { categories: {} };
-let activeNewsTab = 'IT';
+let activeNewsCat = 'IT';
 
 async function loadNews() {
-  const tabsEl = document.getElementById('newsTabs');
-  const contentEl = document.getElementById('newsContent');
   try {
-    // Try static news.json first (GitHub Actions updates it)
     const res = await fetch('news.json?_=' + Date.now());
-    newsData = await res.json();
-  } catch(e) {
-    newsData = { categories: { 'IT': [{title:'뉴스를 불러올 수 없습니다',link:'#'}], '반도체':[],'AI':[],'사회':[] }, updated: new Date().toISOString() };
-  }
+    if (res.ok) newsData = await res.json();
+  } catch(e) {}
   renderNews();
 }
 
@@ -859,196 +1029,176 @@ function renderNews() {
   const cats = Object.keys(newsData.categories || {});
 
   if (newsData.updated) {
-    document.getElementById('newsUpdated').textContent = 'updated ' + newsData.updated;
+    document.getElementById('newsUpdated').textContent = newsData.updated;
   }
 
-  tabsEl.innerHTML = cats.map(c => `
-    <button class="news-tab ${c === activeNewsTab ? 'active' : ''}" onclick="switchNewsTab('${c}')">${c}</button>
-  `).join('');
-
-  const articles = (newsData.categories[activeNewsTab] || []).slice(0, 8);
-  if (articles.length === 0) {
-    contentEl.innerHTML = '<div class="loading"><span></span><span></span><span></span> 뉴스 없음</div>';
+  if (cats.length === 0) {
+    contentEl.innerHTML = '<div style="color:var(--text-quaternary);font-size:13px;padding:16px 0;">뉴스를 불러올 수 없습니다</div>';
+    tabsEl.innerHTML = '';
     return;
   }
-  contentEl.innerHTML = `
-    <div class="news-list">
-      ${articles.map((a, i) => `
-        <a class="news-item" href="${a.link}" target="_blank" rel="noopener">
-          <span class="news-num">${String(i+1).padStart(2,'0')}</span>
-          <span class="news-title">${escapeHtml(a.title)}</span>
-        </a>
-      `).join('')}
-    </div>`;
+
+  tabsEl.innerHTML = cats.map(c =>
+    `<button class="news-tab ${c===activeNewsCat?'active':''}" onclick="switchNews('${c}')">${c}</button>`
+  ).join('');
+
+  const articles = newsData.categories[activeNewsCat] || [];
+  contentEl.innerHTML = `<div class="news-list">${articles.map((a,i) => {
+    const src = a.source || '';
+    return `<a class="news-item" href="${esc(a.link)}" target="_blank" rel="noopener">
+      <span class="news-index">${String(i+1).padStart(2,'0')}</span>
+      <div class="news-body">
+        <div class="news-title">${esc(a.title)}</div>
+        ${src ? `<div class="news-source">${esc(src)}</div>` : ''}
+      </div>
+    </a>`;
+  }).join('')}</div>`;
 }
 
-function switchNewsTab(cat) {
-  activeNewsTab = cat;
-  renderNews();
-}
+function switchNews(cat) { activeNewsCat = cat; renderNews(); }
 
-// ─── GitHub ───
+// ── GitHub ──
 async function loadGitHub() {
   const el = document.getElementById('githubContent');
   try {
-    const res = await fetch('https://api.github.com/users/leemind-q');
-    const user = await res.json();
-    const reposRes = await fetch('https://api.github.com/users/leemind-q/repos?sort=updated&per_page=3');
+    const [userRes, reposRes] = await Promise.all([
+      fetch('https://api.github.com/users/leemind-q'),
+      fetch('https://api.github.com/users/leemind-q/repos?sort=updated&per_page=4')
+    ]);
+    const user = await userRes.json();
     const repos = await reposRes.json();
+
     el.innerHTML = `
-      <div class="github-stats">
-        <div class="github-stat">
-          <div class="github-stat-value">${user.public_repos}</div>
-          <div class="github-stat-label">Repos</div>
-        </div>
-        <div class="github-stat">
-          <div class="github-stat-value">${user.followers}</div>
-          <div class="github-stat-label">Followers</div>
-        </div>
-        <div class="github-stat">
-          <div class="github-stat-value">${user.public_gists || 0}</div>
-          <div class="github-stat-label">Gists</div>
-        </div>
-        <div class="github-stat">
-          <div class="github-stat-value">${user.total_private_repos || 0}</div>
-          <div class="github-stat-label">Private</div>
-        </div>
+      <div class="github-grid">
+        <div class="github-stat"><div class="github-stat-value">${user.public_repos}</div><div class="github-stat-label">Repos</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.followers}</div><div class="github-stat-label">Followers</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.public_gists||0}</div><div class="github-stat-label">Gists</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.total_private_repos||0}</div><div class="github-stat-label">Private</div></div>
       </div>
-      <div style="margin-top:12px;font-size:13px;color:var(--text-secondary);">
-        ${repos.slice(0,3).map(r => `<div style="padding:4px 0;">📦 ${r.name}</div>`).join('')}
+      <div class="github-repos">
+        ${repos.slice(0,4).map(r => `<div class="github-repo"><span class="github-repo-dot"></span>${esc(r.name)}</div>`).join('')}
       </div>`;
   } catch(e) {
-    el.innerHTML = '<div style="color:var(--text-secondary);font-size:14px;">GitHub API unavailable</div>';
+    el.innerHTML = '<div style="color:var(--text-tertiary);font-size:13px;">GitHub API unavailable</div>';
   }
 }
 
-// ─── Dev Status ───
+// ── Dev Status ──
 function loadDevStatus() {
-  const el = document.getElementById('devContent');
   const items = [
-    { name: 'Hermes Agent', status: 'running', dot: 'green' },
-    { name: 'Godot LDC', status: 'Phase 9', dot: 'green' },
-    { name: 'Marketing Auto', status: 'on :8900', dot: 'green' },
-    { name: 'taewoo-dash', status: 'live', dot: 'green' },
-    { name: 'TREK', status: 'live', dot: 'green' },
-    { name: 'Codex CLI', status: '7/13 리셋', dot: 'yellow' },
+    { name: 'Hermes Agent', status: 'running', color: 'green' },
+    { name: 'Godot LDC', status: 'Phase 9', color: 'green' },
+    { name: 'Marketing Auto', status: ':8900', color: 'green' },
+    { name: 'TREK', status: 'live', color: 'green' },
+    { name: 'taewoo-dash', status: 'live', color: 'green' },
+    { name: 'Codex CLI', status: '7/13 reset', color: 'yellow' },
   ];
-  el.innerHTML = items.map(i => `
-    <div class="dev-item">
-      <div class="dev-item-name"><span class="status-dot ${i.dot}"></span>${i.name}</div>
-      <div class="dev-item-status">${i.status}</div>
-    </div>
-  `).join('');
+  document.getElementById('devContent').innerHTML = items.map(i =>
+    `<div class="dev-row">
+      <span class="dev-name"><span class="dev-status-dot ${i.color}"></span>${esc(i.name)}</span>
+      <span class="dev-status-text">${esc(i.status)}</span>
+    </div>`
+  ).join('');
 }
 
-// ─── Quick Links ───
+// ── Quick Links ──
 function loadLinks() {
-  const el = document.getElementById('linksContent');
   const links = [
-    { icon: '🤖', label: 'Hermes', url: 'http://localhost:8642' },
-    { icon: '📧', label: 'Bizmeka', url: 'https://mail.bizmeka.com' },
-    { icon: '🐙', label: 'GitHub', url: 'https://github.com/leemind-q' },
-    { icon: '📊', label: 'TREK', url: 'https://trek.jjun0525.com' },
-    { icon: '🎮', label: 'Godot', url: 'file:///C:/Users/qqwer/Godot/' },
-    { icon: '💬', label: 'ChatGPT', url: 'https://chatgpt.com' },
-    { icon: '🦎', label: 'Gemini', url: 'https://gemini.google.com' },
-    { icon: '📝', label: 'Notion', url: 'https://notion.so' },
-    { icon: '☁️', label: 'Claude', url: 'https://claude.ai' },
+    { emoji: '🤖', label: 'Hermes', url: 'http://localhost:8642' },
+    { emoji: '📧', label: 'Bizmeka', url: 'https://mail.bizmeka.com' },
+    { emoji: '🐙', label: 'GitHub', url: 'https://github.com/leemind-q' },
+    { emoji: '🗺️', label: 'TREK', url: 'https://trek.jjun0525.com' },
+    { emoji: '🎮', label: 'Godot', url: 'file:///C:/Users/qqwer/Godot/' },
+    { emoji: '💬', label: 'ChatGPT', url: 'https://chatgpt.com' },
+    { emoji: '💎', label: 'Gemini', url: 'https://gemini.google.com' },
+    { emoji: '📝', label: 'Notion', url: 'https://notion.so' },
+    { emoji: '🟠', label: 'Claude', url: 'https://claude.ai' },
   ];
-  el.innerHTML = links.map(l => `
-    <a class="link-item" href="${l.url}" target="_blank" rel="noopener">
-      <span class="link-icon">${l.icon}</span> ${l.label}
-    </a>
-  `).join('');
+  document.getElementById('linksContent').innerHTML = links.map(l =>
+    `<a class="link-btn" href="${esc(l.url)}" target="_blank" rel="noopener">
+      <span class="link-emoji">${l.emoji}</span>${esc(l.label)}
+    </a>`
+  ).join('');
 }
 
-// ─── Air Quality ───
+// ── Air Quality ──
 async function loadAir() {
   const el = document.getElementById('airContent');
   try {
-    const res = await fetch('https://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=부평&dataTerm=DAILY&pageNo=1&numOfRows=1&returnType=json&serviceKey=');
-    // Public API might not work without key, use local data
+    const res = await fetch('https://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=%EB%B6%80%ED%8F%89&dataTerm=DAILY&pageNo=1&numOfRows=1&returnType=json&serviceKey=');
     throw new Error('skip');
   } catch(e) {
     el.innerHTML = `
-      <div class="air-value">32</div>
-      <span class="air-label" style="color:var(--green)">좋음</span>
-      <div class="air-items">
-        <div class="air-item">
-          <span class="air-item-name">PM10</span>
-          <span class="air-item-value">28</span>
+      <div class="air-display">
+        <div class="air-value-row">
+          <span class="air-value">32</span>
+          <span class="air-grade">좋음</span>
         </div>
-        <div class="air-item">
-          <span class="air-item-name">PM2.5</span>
-          <span class="air-item-value">15</span>
-        </div>
-        <div class="air-item">
-          <span class="air-item-name">O₃</span>
-          <span class="air-item-value">0.032</span>
-        </div>
-        <div class="air-item">
-          <span class="air-item-name">NO₂</span>
-          <span class="air-item-value">0.018</span>
+        <div class="air-breakdown">
+          <div class="air-row"><span class="air-row-label">PM10</span><span class="air-row-value">28</span></div>
+          <div class="air-row"><span class="air-row-label">PM2.5</span><span class="air-row-value">15</span></div>
+          <div class="air-row"><span class="air-row-label">O₃</span><span class="air-row-value">0.032</span></div>
+          <div class="air-row"><span class="air-row-label">NO₂</span><span class="air-row-value">0.018</span></div>
         </div>
       </div>`;
   }
 }
 
-// ─── Memo ───
+// ── Memo ──
 function loadMemo() {
-  const saved = localStorage.getItem('taewoo-memo');
+  const saved = localStorage.getItem('mc-memo');
   if (saved) document.getElementById('memoTextarea').value = saved;
 }
 
 function saveMemo() {
-  const val = document.getElementById('memoTextarea').value;
-  localStorage.setItem('taewoo-memo', val);
-  document.getElementById('memoModeBtn').textContent = '✅ 저장됨';
-  setTimeout(() => { document.getElementById('memoModeBtn').textContent = '✏️ 편집'; }, 2000);
+  localStorage.setItem('mc-memo', document.getElementById('memoTextarea').value);
+  const btn = document.getElementById('memoToggleBtn');
+  btn.textContent = '✅ Saved';
+  setTimeout(() => btn.textContent = '👁 Preview', 1500);
 }
 
 function toggleMemoMode() {
   const ta = document.getElementById('memoTextarea');
   const pv = document.getElementById('memoPreview');
+  const btn = document.getElementById('memoToggleBtn');
   ta.classList.toggle('hide');
   pv.classList.toggle('show');
   if (pv.classList.contains('show')) {
-    pv.innerHTML = marked.parse(ta.value || '*빈 문서*');
+    pv.innerHTML = marked.parse(ta.value || '*No content*');
+    btn.textContent = '✏️ Edit';
+  } else {
+    btn.textContent = '👁 Preview';
   }
 }
 
 function exportMemo() {
-  const val = document.getElementById('memoTextarea').value;
-  const html = marked.parse(val);
+  const html = marked.parse(document.getElementById('memoTextarea').value);
   navigator.clipboard.writeText(html).then(() => {
-    document.getElementById('memoModeBtn').textContent = '📋 복사됨';
-    setTimeout(() => { document.getElementById('memoModeBtn').textContent = '✏️ 편집'; }, 2000);
+    const btn = document.getElementById('memoToggleBtn');
+    btn.textContent = '📋 Copied';
+    setTimeout(() => btn.textContent = '👁 Preview', 1500);
   });
 }
 
 function clearMemo() {
   if (confirm('메모를 초기화할까요?')) {
     document.getElementById('memoTextarea').value = '';
-    localStorage.removeItem('taewoo-memo');
+    localStorage.removeItem('mc-memo');
   }
 }
 
-// ─── Refresh All ───
+// ── Refresh ──
 function refreshAll() {
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
-  loadWeather(); loadNews(); loadGitHub(); loadAir(); loadDevStatus();
-  setTimeout(() => btn.classList.remove('spinning'), 1500);
+  loadWeather(); loadNews(); loadGitHub(); loadAir();
+  setTimeout(() => btn.classList.remove('spinning'), 1200);
 }
 
-// ─── Utility ───
-function escapeHtml(s) {
-  const d = document.createElement('div');
-  d.textContent = s;
-  return d.innerHTML;
-}
+// ── Utility ──
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 
-// ─── Init ───
+// ── Init ──
 loadWeather(); loadNews(); loadGitHub(); loadAir(); loadDevStatus(); loadLinks();
 </script>
 </body>

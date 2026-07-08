@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-네이버 뉴스 스크래퍼 — IT/과학, 반도체, AI 3카테고리
+네이버 뉴스 스크래퍼 v2 — 제목-링크 매칭 버그 수정
 GitHub Actions에서 실행 → news.json 생성 → 자동 커밋
 의존성: 없음 (표준 라이브러리만 사용)
 """
@@ -8,7 +8,7 @@ import urllib.request, urllib.parse, re, json, sys, os
 from datetime import datetime
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml',
     'Accept-Language': 'ko-KR,ko;q=0.9',
 }
@@ -17,64 +17,82 @@ def fetch_html(url):
     req = urllib.request.Request(url, headers=HEADERS)
     return urllib.request.urlopen(req, timeout=15).read().decode('utf-8', errors='replace')
 
+def clean_text(text):
+    text = text.strip()
+    text = text.replace('&#x27;', "'").replace('&quot;', '"').replace('&amp;', '&')
+    text = text.replace('&#39;', "'").replace('&lt;', '<').replace('&gt;', '>')
+    return text
+
+def is_valid_article_url(url):
+    """기사 본문 URL만 허용, comment/talk/series 페이지 제외"""
+    invalid_patterns = ['/comment/', '/talk/', '/series/', '/press/', '/reporter/']
+    return all(p not in url for p in invalid_patterns)
+
 def scrape_section(section_id):
-    """네이버 뉴스 섹션 페이지 스크래핑 (section_id: 105=IT/과학)"""
+    """네이버 뉴스 섹션 페이지 스크래핑 (section_id: 105=IT/과학, 102=사회 등)"""
     url = f'https://news.naver.com/section/{section_id}'
     html = fetch_html(url)
 
-    # sa_item 블록에서 제목과 링크 쌍 추출
-    pattern = r'<a href="(https://n\.news\.naver\.com/mnews/article/[^"]+)"[^>]*class="sa_text_title"[^>]*>.*?<strong class="sa_text_strong"[^>]*>([^<]+)</strong>'
+    # sa_item 컨테이너 내부에서 기사 링크+제목을 쌍으로 추출
+    # 핵심: <a href="기사URL"> 안에 <strong>제목</strong>이 함께 있는 구조를 매칭
+    pattern = r'<a\s[^>]*href="(https://n\.news\.naver\.com/mnews/article/\d+/\d+)"[^>]*>.*?<strong[^>]*class="[^"]*sa_text_strong[^"]*"[^>]*>([^<]+)</strong>'
     matches = re.findall(pattern, html, re.DOTALL)
 
-    if not matches:
-        # 폴백 패턴
-        titles = re.findall(r'<strong class="sa_text_strong"[^>]*>([^<]+)</strong>', html)
-        links = re.findall(r'href="(https://n\.news\.naver\.com/mnews/article/[^"]+)"', html)
-        matches = list(zip(links, titles))
+    # comment 링크 필터
+    matches = [(l, t) for l, t in matches if is_valid_article_url(l)]
 
-    # 중복 제거
+    if not matches:
+        # 폴백: 더 넓은 패턴 — 같은 <a> 태그 내에 strong 제목이 있는 경우
+        pattern2 = r'href="(https://n\.news\.naver\.com/mnews/article/\d+/\d+)"[^>]*>.*?<strong[^>]*>([^<]+)</strong>'
+        matches = re.findall(pattern2, html, re.DOTALL)
+        matches = [(l, t) for l, t in matches if is_valid_article_url(l)]
+
+    # 중복 제거 (URL 기준)
     seen = set()
     articles = []
     for link, title in matches:
-        if link not in seen:
-            seen.add(link)
-            title = title.strip()
-            # HTML 엔티티 정리
-            title = title.replace('&#x27;', "'").replace('&quot;', '"').replace('&amp;', '&')
-            articles.append({'title': title, 'link': link, 'source': '네이버 뉴스'})
+        # URL 정규화 (쿼리 파라미터 제거)
+        normalized = link.split('?')[0].split('#')[0]
+        if normalized not in seen:
+            seen.add(normalized)
+            articles.append({'title': clean_text(title), 'link': link, 'source': '네이버 뉴스'})
+
     return articles[:5]
 
 def scrape_search(query):
-    """네이버 뉴스 검색 결과 스크래핑"""
-    url = f'https://search.naver.com/search.naver?where=news&query={urllib.parse.quote(query)}&sort=1&nso=so:dd,p:all'
+    """네이버 뉴스 검색 결과 스크래핑 — 제목-링크를 단일 정규식으로 쌍 추출"""
+    url = f'https://search.naver.com/search.naver?where=news&query={urllib.parse.quote(query)}&sort=1&nso=so:dd,p:all&sm=tab_opt'
     html = fetch_html(url)
 
-    # 검색 결과의 뉴스 타이틀과 링크 추출
-    pattern = r'<a class="news_t"[^>]*href="([^"]+)"[^>]*>([^<]+)</a>'
-    matches = re.findall(pattern, html)
+    # 패턴1: news_tit 클래스의 <a> 태그 (제목이 텍스트 노드로 직접 들어있는 구조)
+    pattern = r'<a[^>]*class="[^"]*news_tit[^"]*"[^>]*href="(https://n\.news\.naver\.com/mnews/article/\d+/\d+)[^"]*"[^>]*>([^<]+)</a>'
+    matches = re.findall(pattern, html, re.DOTALL)
+    matches = [(l, t) for l, t in matches if is_valid_article_url(l)]
 
     if not matches:
-        # 대체 패턴
-        pattern2 = r'href="(https://n\.news\.naver\.com[^"]+)"[^>]*class="[^"]*title[^"]*"[^>]*>([^<]+)'
-        matches = re.findall(pattern2, html)
-
-    if not matches:
-        # 또 다른 패턴
-        pattern3 = r'title="([^"]+)"[^>]*href="(https://n\.news\.naver\.com[^"]+)"'
-        matches2 = re.findall(pattern3, html)
-        matches = [(link, title) for title, link in matches2]
+        # 패턴2: 일반 기사 링크 + 제목 텍스트
+        pattern2 = r'href="(https://n\.news\.naver\.com/mnews/article/\d+/\d+[^"]*)"[^>]*>\s*([^<]+(?:</[^>]+>[^<]*)*)'
+        matches = re.findall(pattern2, html, re.DOTALL)
+        # HTML 태그 제거 후 정리
+        cleaned = []
+        for link, raw_title in matches:
+            if is_valid_article_url(link):
+                title = re.sub(r'<[^>]+>', '', raw_title).strip()
+                if len(title) > 10:  # 의미 있는 제목만
+                    cleaned.append((link, title))
+        matches = cleaned
 
     seen = set()
     articles = []
     for link, title in matches:
-        if 'n.news.naver.com' in link and link not in seen:
-            seen.add(link)
-            title = title.strip()
-            title = title.replace('&#x27;', "'").replace('&quot;', '"').replace('&amp;', '&')
-            articles.append({'title': title, 'link': link, 'source': '네이버 뉴스'})
+        normalized = link.split('?')[0].split('#')[0]
+        if normalized not in seen:
+            seen.add(normalized)
+            articles.append({'title': clean_text(title), 'link': link, 'source': '네이버 뉴스'})
+
     return articles[:5]
 
-def scrape_google_news(query):
+def scrape_google_news_rss(query):
     """Google News RSS 폴백 (네이버 스크래핑 실패 시)"""
     import xml.etree.ElementTree as ET
     url = f'https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=ko&gl=KR&ceid=KR:ko'
@@ -86,71 +104,47 @@ def scrape_google_news(query):
     for item in items:
         title = item.find('title')
         link = item.find('link')
-        articles.append({
-            'title': title.text if title is not None else '',
-            'link': link.text.strip() if link is not None else '#',
-            'source': '구글 뉴스'
-        })
+        if title is not None and link is not None:
+            articles.append({
+                'title': title.text.strip() if title.text else '',
+                'link': link.text.strip() if link.text else '#',
+                'source': '구글 뉴스'
+            })
     return articles
+
+def fetch_category(name, fetcher_fn, fallback_query):
+    """카테고리별 뉴스 수집 — fetcher 실패 시 Google RSS 폴백"""
+    try:
+        articles = fetcher_fn()
+        if len(articles) >= 3:
+            print(f'{name}: {len(articles)}개')
+            return articles
+        print(f'{name}: 스크래핑 {len(articles)}개 → RSS 폴백')
+    except Exception as e:
+        print(f'{name} 스크래핑 실패: {e}', file=sys.stderr)
+
+    try:
+        articles = scrape_google_news_rss(fallback_query)
+        print(f'{name} (RSS): {len(articles)}개')
+        return articles
+    except Exception as e:
+        print(f'{name} RSS 실패: {e}', file=sys.stderr)
+        return []
 
 def main():
     categories = {}
 
-    # 1. IT/과학 (네이버 섹션 105)
-    try:
-        articles = scrape_section(105)
-        if not articles:
-            articles = scrape_google_news('IT 기술')
-        categories['IT'] = articles
-        print(f'IT: {len(articles)}개')
-    except Exception as e:
-        print(f'IT 스크래핑 실패: {e}', file=sys.stderr)
-        try:
-            categories['IT'] = scrape_google_news('IT 기술')
-        except:
-            categories['IT'] = []
+    categories['IT'] = fetch_category('IT',
+        lambda: scrape_section(105), 'IT 기술 뉴스')
 
-    # 2. 반도체 (네이버 검색)
-    try:
-        articles = scrape_search('반도체')
-        if not articles:
-            articles = scrape_google_news('반도체')
-        categories['반도체'] = articles
-        print(f'반도체: {len(articles)}개')
-    except Exception as e:
-        print(f'반도체 스크래핑 실패: {e}', file=sys.stderr)
-        try:
-            categories['반도체'] = scrape_google_news('반도체')
-        except:
-            categories['반도체'] = []
+    categories['반도체'] = fetch_category('반도체',
+        lambda: scrape_search('반도체'), '반도체 뉴스')
 
-    # 3. AI (네이버 검색)
-    try:
-        articles = scrape_search('AI 인공지능')
-        if not articles:
-            articles = scrape_google_news('AI 인공지능')
-        categories['AI'] = articles
-        print(f'AI: {len(articles)}개')
-    except Exception as e:
-        print(f'AI 스크래핑 실패: {e}', file=sys.stderr)
-        try:
-            categories['AI'] = scrape_google_news('AI 인공지능')
-        except:
-            categories['AI'] = []
+    categories['AI'] = fetch_category('AI',
+        lambda: scrape_search('AI 인공지능'), 'AI 인공지능 뉴스')
 
-    # 4. 사회 (네이버 섹션 102 = 사회)
-    try:
-        articles = scrape_section(102)
-        if not articles:
-            articles = scrape_google_news('사회')
-        categories['사회'] = articles
-        print(f'사회: {len(articles)}개')
-    except Exception as e:
-        print(f'사회 스크래핑 실패: {e}', file=sys.stderr)
-        try:
-            categories['사회'] = scrape_google_news('사회 뉴스')
-        except:
-            categories['사회'] = []
+    categories['사회'] = fetch_category('사회',
+        lambda: scrape_section(102), '사회 뉴스')
 
     output = {
         'categories': categories,
@@ -159,7 +153,6 @@ def main():
 
     out_path = os.path.join(os.path.dirname(__file__), '..', 'news.json')
     out_path = os.path.normpath(out_path)
-    # GitHub Actions용 경로
     if not os.path.exists(out_path):
         out_path = 'news.json'
 
