@@ -1929,16 +1929,31 @@ async function loadGitHub() {
     try { localStorage.setItem(GH_KEY, JSON.stringify({ html, updatedAt: githubCtx.updatedAt })); } catch (e) {}
     el.innerHTML = html;
   } catch(e) {
-    // Graceful fallback — show last successful HTML (within 24h) with disclaimer
+    // Graceful fallback — show last successful HTML (within 24h) with disclaimer.
+    // Distinguish "rate limited" (transient, retry next refresh) from "never loaded" (genuine error).
     const fb = githubCtx.data;
     if (fb) {
       el.innerHTML = fb.html
-        + `<div style="font-size:11px;color:var(--text-quat);margin-top:14px;text-align:right">⚠ GitHub API 일시 장애 (rate limit) — 마지막 데이터 표시 중</div>`;
+        + `<div style="font-size:11px;color:var(--text-quat);margin-top:14px;text-align:right">⚠ GitHub API rate limit — 마지막 데이터 표시 중 (${elapsedSince(githubCtx.updatedAt)})</div>`;
       githubCtx.rateLimited = true;
     } else {
-      el.innerHTML = '<div style="color:var(--text-tertiary);font-size:13px;padding:14px 0;">GitHub API unavailable — initial load</div>';
+      // First-load failure: show neutral empty state, retry on next refresh
+      el.innerHTML = `<div style="color:var(--text-tertiary);font-size:13px;padding:24px 0;text-align:center">
+        <div style="font-size:32px;margin-bottom:8px;opacity:0.4">⌛</div>
+        <div>GitHub 데이터를 불러오는 중…</div>
+        <div style="font-size:11px;margin-top:6px;opacity:0.6">rate limit 또는 일시 장애 — 새로고침 시 재시도</div>
+      </div>`;
     }
   }
+}
+
+function elapsedSince(ts) {
+  if (!ts) return '방금';
+  const diff = Math.floor((Date.now() - ts) / 60000);
+  if (diff < 1)   return '방금';
+  if (diff < 60)  return diff + '분 전';
+  if (diff < 1440) return Math.floor(diff/60) + '시간 전';
+  return Math.floor(diff/1440) + '일 전';
 }
 
 /* ── Dev Status ── */
