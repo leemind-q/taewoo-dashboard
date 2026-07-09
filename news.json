@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "스페이스XAI, 새 AI모델 출시…머스크 “클로드 오퍼스보다 속도 빨라”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012214576",
+        "title": "애플, '제재 대상' 中 D램까지 테스트?…삼성·SK 압박카드 될까",
+        "link": "https://n.news.naver.com/mnews/article/003/0014055863",
         "source": "네이버 뉴스"
       },
       {
-        "title": "티맵이 이런 것도 해?…맛집 탐방부터 길안내까지 한꺼번에",
-        "link": "https://n.news.naver.com/mnews/article/015/0005308190",
+        "title": "내비 앱 넘어선 티맵의 '변신'…\"맛집까지 추천한다\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0005308196",
         "source": "네이버 뉴스"
       },
       {
-        "title": "샤오미코리아, 스마트워치 ‘REDMI 워치 6’ 국내 출시",
-        "link": "https://n.news.naver.com/mnews/article/029/0003036144",
+        "title": "개보위, ‘130만명 개인정보 유출’ 락앤락에 과징금 5억300만원 부과",
+        "link": "https://n.news.naver.com/mnews/article/032/0003457068",
         "source": "네이버 뉴스"
       },
       {
-        "title": "락앤락, 130만명 회원 개인정보 유출",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860128",
+        "title": "\"보이스피싱 막고 재난 대비\" SKT, AI가 만드는 사회적 가치 측정한다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005383541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SK AX, 로봇 도입부터 자율형 공장 구축까지 돕는다",
-        "link": "https://n.news.naver.com/mnews/article/215/0001258128",
+        "title": "스페이스XAI, 그록4.5 출시…머스크 “클로드 오퍼스급”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003036111",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "반도체 끝물? 줍줍 기회?…월가마저 헷갈린다 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZGtGcmR6UmtoZm1EVXQ2NDRqYlNpbTRXSDFEWElTem5ESmptLS01czV2bWdiWldiZnk5YmV1OV82YVIwcnFYVlJTUk5uY3ZfQ3FwWklR?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "애플, 브로드컴과 45조원 계약… 美서 반도체 150억개 생산 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWI0eTMxZ2o3Y1E5dUNaTVVRcXFVMUFHRTZ3akRMZElKMmpmdGRHaHlLNTZEaVJEck12UjAtcnBqeXBJRkxjUzdWVERYeVdWWERRdC1ocVBKTi1ZWEFXRFEtaXZsZmVrS0VNOEN6N2VvQmVvd0RwNGJnX29oSDkzTU1YTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "계속되는 반도체 고점론 공포에 사흘째 급락‥\"저가 매수 기회?\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WRGpXbTV2U3F2QzFsREJ4UF9VVS1odzdpbTJjLUtzOTVEM1k5RkxnYWt5V2JyTkRyNkF5d0xXb3JScFZKUVZ2OTZfeExoUkQ2TzVvT1RkTnphREI2Wnp4VjhoVFNteHJoc2N1QmJwUkc3NE1lc3BqRA?oc=5",
+        "title": "반도체 랠리에 뉴욕증시 상승…나스닥 1.3%↑ - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvYkF4UG5kUWFkR2szM2c0cWV6X1c5RGdobzhwbnBVQkFIVGNQajUzQUdtUHdhQTAwMnlTamQydDF6R0JMbkNBYVF0Uy0ydDZERF9rQnN4c0NSRUdKTXFPM1AzdTdRTEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "마이크론, 30억달러 미국 반도체 공급망 투자·업황 강세에 주가 5%↑ - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ORzlZNm5oUnBmRUxYMkVqNVZMQnpfZUoxZUppUGNkZGdKWFVaTXlXTzl3TjQ2MW1PanBydi1INHlrUUtOaVgwVnRHWkY5c1VselhfVFlXWGE4X296UWxrRU5XNXVwemZQQzV5R3VUOHF1V2s?oc=5",
+        "title": "중동 불안에도 뉴욕증시 상승…반도체 랠리에 나스닥 1.3%↑(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQ2lXLThFZ0NwaEtUSWVhUlpEX0lNdDJNZmE3UnVnRkFTdWFPNUExNXdST0RlcVJoVFprd19NTWxQYklSOUItc2ZUM2huRXc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "마이크론, 美 반도체 공급망에 30억달러 투자 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQU1GZDZSY0V0UElOemR4TTkzWThjWUNlcVZXSVhDSDZTWUZPOTdIZW9pVnRUWVRmVDNJVXVRREhoaEx0TXA1TDBJS1lCd1k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "마이크론, 美에 2500억달러 투자…AI 메모리 승부수 - 파이낸셜뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTXk3SnNJWEpBTGprVkdqNzN5WXhoQjVaM0ppUzZrcUlUR3JLWFptVDRtV19KVjB3VFExMEppSDE2cFhIdlRrSUpsd3F4aUVNMlhJZFBqdXNNdw?oc=5",
+        "title": "미·이란 긴장 고조, 반도체 저가 매수에 뉴욕증시 혼조세 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qU2tydDZCTDJMT294Z2hTMF9MREdRWG1La2VrcTZxNjU4ZU8tUE50YjZ6aHUtSmdSVUotTnFyQkpCMDZLQmxzMVdNcTdVTmZ6cXVUaFFrN0x5R0RJWkpBNlZEM0Y1bzNYNGFRVVdjMEE3TGg2SS1pS2xR?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "고객사 AI 도입, 현장에서 돕는다… 빅테크·컨설팅사 전담 조직 신설 붐 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0NFbmtaNHhMYUltYW1rQ0ZyYWxldmhJWGFBcXduVVBHalJiRVhwVVVaNS1CRXFKcHZPQ09UZnFDV3dibjJ5MDVoZktyU2NyYWlhTUxFWEZZT2trbXhHY01kSHNDV29tWXA5OFk3aF9aYXhubDRTQm5Zdm4yejRVbkxZVQ?oc=5",
+        "title": "“AI는 숙련기술의 끝 아닌 새로운 시작” [인공지능 시대, 명장의 기로②] - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9paWgxTzNTWUl1LW5GamxKemJ2SHhjVDZ5a1ZFNVNnQWlPSWI1WnNXdjZWOVJzVktSNU9wZ3lta0RyczZ2ckFPQVVPdDUzOFg1bnJRcm9LX2E3NTQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "똑똑해진 인공지능, 진짜 믿어도 될까?…한국, 글로벌 AI 안전망 구축 앞장선다 - 에너지안전신문",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPekx4UnNJQzhIU0hEcTBRaEMyNmUzZ1dYMndIaVVleFItNjdDX2NiVzZDNjBoYTFfRmYxZ2IzcFliSnpHSEpHVnR4ckplUndBcXdMdXVFblEzNFgxbWc1Wm9zNVo?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "심버스랩스·AI융합연구소, 양자내성 블록체인으로 AI 신뢰 기반 만든다 - 양자신문",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCR1Fzek5LeVhtNzJPSmdkTURVQW53SHlSTlFxeUlST3JqZUZOcjc1MUhzTVBKanRnbGw3Q0pHRlh1WHVHc1BSUkF2Zzd1OGw0WFE0OHBNMHROS0lKZ3RPeUJudXR4YzZYSjMyYnM4UQ?oc=5",
+        "title": "고객사 AI 도입, 현장에서 돕는다… 빅테크·컨설팅사 전담 조직 신설 붐 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0NFbmtaNHhMYUltYW1rQ0ZyYWxldmhJWGFBcXduVVBHalJiRVhwVVVaNS1CRXFKcHZPQ09UZnFDV3dibjJ5MDVoZktyU2NyYWlhTUxFWEZZT2trbXhHY01kSHNDV29tWXA5OFk3aF9aYXhubDRTQm5Zdm4yejRVbkxZVQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한수원, 인공지능 기반 산업안전 기술로 ʻ고용노동부 장관상ʼ 수상 - 데일리대구경북뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02TmI3MHQ4aXFhU2tUa0FUYURBRWtQT1BKVjllZ2ViQU9xUVl1OFppcHRVUmJwU2dySTUzQTBLODIxQ0pFZUlWbjNUdVd2bWpBR1lIeml4Skx3cXBuX3hfVzA4UDVrUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "지식재산처, '인공지능(AI)을 활용하여 창작한 디자인에 대한 출원가이드' 배포 - 케이에스피뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlbmpadU5pS2hPaWVBZXRrN1huOTN3Qlo3X0FjUmUwaTJVcjcyVEMyVkxTT1luS3pxaTkxSUl2ZlFqbFZK?oc=5",
+        "title": "한국수력원자력, 인공지능 기반 산업안전 기술로 ʻ고용노동부 장관상ʼ 쾌거 - 서울경제TV",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55dWpQNVo0ZlF4dEI0TUZJQVRzZGJlZVhFY2k1UjZmbWc5aUdmcnBIUVZuM1lmejRHT3h5bTJOQlczMVpMMHVObWJQemliWndWby02YlJaMTNUY0ZsemthSU1mT3c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[속보] '여고생 살해범' 장윤기, 경찰 수사 열흘간 3차례 부모 접견",
-        "link": "https://n.news.naver.com/mnews/article/082/0001389151",
+        "title": "한동훈, ‘검언유착 의혹 보도’ KBS 손배 소송 패소",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546234",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교사 5명 중 1명 \"정상적인 교육에도 '좌파사상 주입' 항의 받았다\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005788006",
+        "title": "윤영호 전 통일교 세계본부장 ‘금품 청탁’ 대법서 징역 1년 6개월 확정",
+        "link": "https://n.news.naver.com/mnews/article/277/0005787885",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'尹 체포' 막은 경호처 수뇌부…모조리 징역형에 법정구속까지",
-        "link": "https://n.news.naver.com/mnews/article/079/0004166806",
+        "title": "‘한국형 AI 노출지수’ 개발해 산업전환 선제 대응…정부, 기본계획 발표",
+        "link": "https://n.news.naver.com/mnews/article/022/0004141747",
         "source": "네이버 뉴스"
       },
       {
-        "title": "583일 만에 첫 실형 확정 윤석열, 남은 재판 7개…4개 1심 중",
-        "link": "https://n.news.naver.com/mnews/article/658/0000149089",
+        "title": "아침까지 수도권 장맛비…오후부터 '무더위'[내일 날씨]",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384031",
         "source": "네이버 뉴스"
       },
       {
-        "title": "사건 전 버젓이 남았다…'자작극' 덜미 잡힌 정이한 행적",
-        "link": "https://n.news.naver.com/mnews/article/055/0001371139",
+        "title": "'배터리 아저씨' 박순혁, 최태원 동거인 中 간첩설 유포 1심 벌금형",
+        "link": "https://n.news.naver.com/mnews/article/214/0001510649",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-09 19:58"
+  "updated": "2026-07-09 21:37"
 }
