@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "\"한번 충전에 최대 24일 쓴다\"…샤오미, 10만원대 '레드미 워치6' 출시",
-        "link": "https://n.news.naver.com/mnews/article/003/0014057413",
+        "title": "스페이스XAI, 그록4.5 출시…머스크 “클로드 오퍼스급”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003036111",
         "source": "네이버 뉴스"
       },
       {
-        "title": "내비 넘어 숏폼까지 품은 티맵…장소 탐색 경쟁력 키운다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016185194",
+        "title": "챗GPT에 실시간 음성 기능 적용",
+        "link": "https://n.news.naver.com/mnews/article/015/0005308236",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, 강원 지역 식음료 소상공인에 판로·마케팅 지원",
-        "link": "https://n.news.naver.com/mnews/article/087/0001204194",
+        "title": "“로봇 1000대 관제솔루션으로 ‘K무인공장’ 수출할 것” [스케일업리포트]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004639618",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"애플, 中 판매용 아이폰에 창신 메모리칩 테스트 시작\"",
-        "link": "https://n.news.naver.com/mnews/article/374/0000520679",
+        "title": "바닷속 2천ｍ에도 미세 플라스틱…\"심해 생물 92%서 검출\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000883292",
         "source": "네이버 뉴스"
       },
       {
-        "title": "말 끊겨도 듣기상태 유지…'GPT-라이브' 출시",
-        "link": "https://n.news.naver.com/mnews/article/374/0000520698",
+        "title": "과기정통부, 몽골과 과학기술·디지털 분야 상호 협력체계 구축",
+        "link": "https://n.news.naver.com/mnews/article/001/0016186258",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "애플, 브로드컴과 45조원 계약… 美서 반도체 150억개 생산 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWI0eTMxZ2o3Y1E5dUNaTVVRcXFVMUFHRTZ3akRMZElKMmpmdGRHaHlLNTZEaVJEck12UjAtcnBqeXBJRkxjUzdWVERYeVdWWERRdC1ocVBKTi1ZWEFXRFEtaXZsZmVrS0VNOEN6N2VvQmVvd0RwNGJnX29oSDkzTU1YTQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "네이버1/“삼전닉스 변동폭 하루 10%”…코스피 멱살 쥔 반도체 피크는 언제 [김태홍의 투자 포트폴리오] - 매일경제 마켓",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LeWtlR1dibjZyLVBBdFdaSHYzVk5KUjBfT3hGZ1JjSWQ0ZUEwWFRkaDZfaW1fWUoxSUYwS3B4YUp2alBoX0VyaEhsbnhOSWVyVWc?oc=5",
@@ -44,35 +49,30 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자 역대급 실적에도 급락…“반도체 조정 예상” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNW5GaGtXVEFySDNrQV8wbXgzbVl2STFVQy1lOHpIMVlUZlBxMHdYS2J4aWVyeGMyV1ZHa3hXZXlRRkFrSUtiLTBvZ2RUUEUtZHVCVzB2Vi1RaW8?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 '피크아웃' 무색…삼성전자, 2Q에 메모리만 90조 벌었다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RktoWG5wT1hJZW9HMll1NHlTa0lkZjhLdjhGOWVVRW1mUWNuSEg4RUZsQURBQUN5NkFMTWdwdTM1NHlDaUdGU3J1MlNOVFE?oc=5",
+        "title": "‘의치한약수반’…의대 대신 반도체, ‘신 샐러리맨 신화’ 탄생 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XREgzMjdEdUFWMTNHMEI1RHFGVmJBWnhYTmpIVVFuUnhrWHh1X3NjTWd4Z2ZoWlJFd05MNmFtWVRjMVZDdERxT3pJVl80STJmcEJEdjlfSG5rTmM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "[2026 행정 AX 포럼] ‘인공지능 넘어 국가지능으로’… 공공 AI 담당자 100여명 참석 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzlCcmprd2Z0NXUzOG15dzloUk9qUWpERGxnSFRrS3B5U0djRVpWNXhNeU42b3VuOXBQRXAweEFqai1WZjBQWU5ELUFiRnhwSW12QUlaT2VJMWd0ZjhDd3NHSjRaT2J3a2VaWHFyNHNxZWdwMDFZaGhJeGRELXFRcnpxcHU4U0pnVXfSAZ4BQVVfeXFMTXJPVHNEZV82Qkd4bWktMzFjR29QdVFoRl9KblkxRmw1OWptVnBKTlZLeFE2bnA3NF9sNHN0ZXByRUE1NkpMYmRLRXZVb1JEcUZKTHRSWHptTDdwVFo1cVRlMnd5QzF4c05KdWNuOGdib0o3V09La0Z0REVaam90R3FxQnZmMTRlR1BhbTNDUGZWci14TV9KcnA2d2FobXc?oc=5",
+        "title": "“소설 속 문제를 AI(인공지능)와 함께 풀다”대구소프트웨어마이스터고, 지역 중학생과 함께하는 ‘AI(인공지능) 바이브 코딩 해커톤’ 개최 - 시사뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rbnRHVUk4NzRlRjNQOGhhYW00NU5BTUx5c2l3anhBbmpQaGhXNkZ0dlg3QmdabGZxN1A3QXI3ZF9KQ0tENVVUbjY0WWJ0UmJzWlBGeU9oY2FDWC00?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "논문·연구비 신청서에 AI 흔적 지우는 '휴머나이저' - 동아사이언스",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ZTFSal9BeDdQckdDTWJKbVl0M3A0elpXb3dIM1M0LTZlNks4bVVWdUJkVU5kejZiYTFFOHRuQjVIQ3lWLWFwdlFmdnVqdTlWRUdXeg?oc=5",
+        "title": "고객사 AI 도입, 현장에서 돕는다… 빅테크·컨설팅사 전담 조직 신설 붐 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0NFbmtaNHhMYUltYW1rQ0ZyYWxldmhJWGFBcXduVVBHalJiRVhwVVVaNS1CRXFKcHZPQ09UZnFDV3dibjJ5MDVoZktyU2NyYWlhTUxFWEZZT2trbXhHY01kSHNDV29tWXA5OFk3aF9aYXhubDRTQm5Zdm4yejRVbkxZVQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"AI, 편의도구로만 쓰면 사고력↓…지능확장 방향으로 활용해야\" - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3a3Qyd201VzFFaGQ0a3ctYnpqbS1KQThMejJYTWNKUHBvWldsb3lTVkxUS0ZGMFA5WHNzdTlNQkRSUGVjQzdQbU8xTlNOU1hvYVNTZEVlazU0Rk9ER3I4NkRic0JyNE1ua25Gcmw2eVplMlRQ?oc=5",
+        "title": "심버스랩스·AI융합연구소, 양자내성 블록체인으로 AI 신뢰 기반 만든다 - 양자신문",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCR1Fzek5LeVhtNzJPSmdkTURVQW53SHlSTlFxeUlST3JqZUZOcjc1MUhzTVBKanRnbGw3Q0pHRlh1WHVHc1BSUkF2Zzd1OGw0WFE0OHBNMHROS0lKZ3RPeUJudXR4YzZYSjMyYnM4UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시, 제조기업 인공지능(AI) 활용 돕는다… 13일 기업혁신 포럼 개최 - 경기경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQ2Y3NnpYM2VYTm9PZ3lXeUt4Mll6UEZZaTFvbkhteU12UXBpWm9CdkRhZkM0ZFdqdFFHbUItOTlkbml1RXgxbmpZRWt5TVkwZGp0WHI0WDUtY2Rib1BBOQ?oc=5",
+        "title": "지식재산처, '인공지능(AI)을 활용하여 창작한 디자인에 대한 출원가이드' 배포 - 케이에스피뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlbmpadU5pS2hPaWVBZXRrN1huOTN3Qlo3X0FjUmUwaTJVcjcyVEMyVkxTT1luS3pxaTkxSUl2ZlFqbFZK?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "울산시, 제조산업 ‘인공지능 전환(AX)’ 본격 시동… 13개 기관 맞손",
-        "link": "https://n.news.naver.com/mnews/article/005/0001859964",
+        "title": "서울 은평구 빌라 화재…초등학생 남매 2명 숨져",
+        "link": "https://n.news.naver.com/mnews/article/087/0001204052",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"장윤기 사건 재발 막겠다\"…경찰, 쇄신TF 구성·내부비리수사대 신설",
-        "link": "https://n.news.naver.com/mnews/article/437/0000500285",
+        "title": "'장윤기 케이블타이 증거인멸 혐의'…광산서 수사팀장 구속",
+        "link": "https://n.news.naver.com/mnews/article/277/0005787441",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대법원, 검찰 미래위 조사단 재판기록 열람 불허…“재신청 예정”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012215036",
+        "title": "오세훈 \"민주, 보완수사권 폐지 폭주…대통령이 막아야\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001957752",
         "source": "네이버 뉴스"
       },
       {
-        "title": "尹 징역 7년 확정…대법 “공수처 내란 수사권 인정”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004640028",
+        "title": "[속보]‘최태원 동거인 간첩설’ 유튜버, 1심 벌금 700만원",
+        "link": "https://n.news.naver.com/mnews/article/081/0003659802",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'통일교 청탁' 건진법사 전성배, 징역 5년 확정",
-        "link": "https://n.news.naver.com/mnews/article/008/0005383705",
+        "title": "尹측, 징역 7년 확정에 \"재판소원으로 위헌성 다투겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016185690",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-09 12:12"
+  "updated": "2026-07-09 15:41"
 }
