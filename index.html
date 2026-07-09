@@ -1337,7 +1337,7 @@ body::after {
         <div class="card-body">
           <div class="card-header">
             <span class="card-label"><span class="label-dot" style="background:var(--accent-sky);box-shadow:0 0 8px var(--accent-sky-glow)"></span>날씨</span>
-            <span id="weatherLoc" style="font-size:12px;color:var(--text-quat)">Incheon</span>
+            <span id="weatherLoc" style="font-size:12px;color:var(--text-quat)">—</span>
           </div>
           <div id="weatherContent">
             <div class="skeleton">
@@ -1702,6 +1702,7 @@ async function loadWeather() {
           ${forecasts.map(f => `<div class="forecast-item"><span class="day">${f.label}</span><span class="hi-lo">${f.icon} ${f.lo}°/${f.hi}°</span></div>`).join('')}
         </div>
       </div>`;
+    document.getElementById('weatherLoc').textContent = LOC.name;
     weatherCtx.desc = wmo.desc;
     weatherCtx.temp = String(Math.round(cur.temperature_2m));
     weatherCtx.feels = String(Math.round(cur.apparent_temperature));
