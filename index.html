@@ -1542,7 +1542,7 @@ const CATEGORY_PILL_MAP = {
 const getPillClass = (cat) => 'news-pill news-pill--' + (CATEGORY_PILL_MAP[cat] || 'default');
 
 /* ── Context-aware briefing state (declared before clock which references it) ── */
-const weatherCtx  = { desc: '맑음', temp: '25', feels: '27' };
+const weatherCtx  = { desc: '맑음', temp: '25', feels: '27', updatedAt: 0, source: 'init' };
 const scheduleCtx = { urgent: '', urgentMeta: '', next: '', nextMeta: '', rest: [] };
 const newsCtx     = { categories: {}, updated: '' };
 
@@ -1627,6 +1627,7 @@ function doSearch() {
    Open-Meteo WMO weather codes: https://open-meteo.com/en/docs
    Location: 부평구 (37.4563, 126.7052) */
 const LOC = { lat: 37.4563, lon: 126.7052, name: '부평구' };
+// (weatherCtx + scheduleCtx already declared at top of script with reset values)
 const wmoMap = {
   0:  { desc: '맑음',      icon: '☀️' },
   1:  { desc: '대체로 맑음', icon: '🌤' },
@@ -1734,7 +1735,9 @@ async function loadWeather() {
           <div class="forecast-item"><span class="day">모레</span><span class="hi-lo">—</span></div>
         </div>
       </div>
-      <div style="font-size:11px;color:var(--text-quat);margin-top:10px;text-align:right">⚠ 날씨 API 일시 장애 — 마지막 데이터 표시 중</div>`;
+      ${(weatherCtx.source !== 'open-meteo')
+        ? `<div style="font-size:11px;color:var(--text-quat);margin-top:10px;text-align:right">⚠ 날씨 API 일시 장애 — 마지막 데이터 표시 중</div>`
+        : ''}`;
     buildBriefing(new Date(), weatherCtx, scheduleCtx, newsCtx);
   }
 }
