@@ -1846,8 +1846,19 @@ function toggleRest() {
 }
 
 /* ── GitHub (4 metrics + recent activity)
-   Graceful fallback — when rate-limited (403) or down, show last successful data. */
+   Graceful fallback — when rate-limited (403) or down, show last successful data.
+   Persists last good data to localStorage so reload recovers from rate-limit cleanly. */
+const GH_KEY = 'mc-github-cache';
 const githubCtx = { data: null, updatedAt: 0, rateLimited: false };
+
+// Restore last successful payload from localStorage on page load
+try {
+  const cached = JSON.parse(localStorage.getItem(GH_KEY) || 'null');
+  if (cached && cached.html) {
+    githubCtx.data = { html: cached.html };
+    githubCtx.updatedAt = cached.updatedAt || 0;
+  }
+} catch (e) { /* corrupt cache, ignore */ }
 
 async function loadGitHub() {
   const el = document.getElementById('githubContent');
@@ -1911,10 +1922,11 @@ async function loadGitHub() {
         </a>`).join('')}
       </div>` : ''}`;
 
-    // Save for fallback
+    // Save for fallback (in-memory + localStorage so reload recovers from rate-limit)
     githubCtx.data = { html };
     githubCtx.updatedAt = Date.now();
     githubCtx.rateLimited = false;
+    try { localStorage.setItem(GH_KEY, JSON.stringify({ html, updatedAt: githubCtx.updatedAt })); } catch (e) {}
     el.innerHTML = html;
   } catch(e) {
     // Graceful fallback — show last successful HTML (within 24h) with disclaimer
@@ -2150,6 +2162,14 @@ function refreshAll() {
 
 loadWeather(); loadNews(); loadGitHub(); loadAir(); loadSummary();
 loadDevStatus(); loadLinks(); loadLife(); loadTasks();
+
+// Show cached GitHub data immediately on page load (before fetch completes or if it fails)
+if (githubCtx.data) {
+  const el = document.getElementById('githubContent');
+  if (el && !el.querySelector('.github-stat')) {
+    el.innerHTML = githubCtx.data.html;
+  }
+}
 
 // Auto-refresh weather + news + summary every 5 min (weather can stale, news updates)
 setInterval(() => {
