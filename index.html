@@ -107,7 +107,7 @@ body {
     radial-gradient(800px 600px at 100% 100%, rgba(242,166,166,0.10), transparent 60%),
     /* Base gradient */
     linear-gradient(180deg, var(--bg-base-1) 0%, var(--bg-base-2) 45%, var(--bg-base-3) 100%);
-  background-attachment: fixed;
+  background-attachment: scroll;
   position: relative;
   overflow-x: hidden;
 }
@@ -132,12 +132,12 @@ body::after {
   background: radial-gradient(ellipse 110% 80% at 50% 50%, transparent 55%, rgba(0,0,0,0.20) 100%);
 }
 
-/* ── Page Layout ── */
+/* ── Page Layout (wider to fill 1920px) ── */
 .page {
   position: relative; z-index: 1;
-  max-width: 1480px;
+  max-width: 1760px;
   margin: 0 auto;
-  padding: 48px 56px 64px;
+  padding: 40px 48px 64px;
 }
 
 /* ── Top Bar ── */
@@ -205,15 +205,16 @@ body::after {
 .bento {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-auto-rows: min-content;
+  grid-auto-rows: auto;
   gap: 24px;
 }
 
-/* Section header (zone divider) */
+/* Section header (zone divider — spans full width, no col consumption) */
 .zone-header {
   display: flex; align-items: center; gap: 14px;
   margin: 8px 0 -4px;
   padding: 0 4px;
+  grid-column: 1 / -1;
 }
 .zone-header:first-child { margin-top: 0; }
 .zone-title {
@@ -238,6 +239,7 @@ body::after {
 }
 .col-12 { grid-column: span 12; }
 .col-8  { grid-column: span 8; }
+.col-7  { grid-column: span 7; }
 .col-6  { grid-column: span 6; }
 .col-5  { grid-column: span 5; }
 .col-4  { grid-column: span 4; }
@@ -437,12 +439,64 @@ body::after {
 .greet-meta-item { display: flex; align-items: center; gap: 6px; }
 .greet-meta-dot { width: 4px; height: 4px; border-radius: 50%; background: var(--text-quat); }
 
-/* ── Clock (AMBER) — hero size ── */
-.clock-card.card--amber .card-body { padding: 40px 40px; }
+/* ── Clock (AMBER) — hero size, 2-column with daily brief ── */
+.clock-card.card--amber .card-body { padding: 40px 44px; }
+.clock-layout {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  flex-wrap: nowrap;
+}
+.clock-main { flex: 0 0 auto; min-width: 0; }
+.clock-brief {
+  flex: 1 1 0;
+  min-width: 0;
+  padding-left: 28px;
+  border-left: 1px solid rgba(255,255,255,0.08);
+}
+.brief-label {
+  font-family: var(--font-display);
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.20em;
+  text-transform: uppercase;
+  color: var(--accent-amber);
+  margin-bottom: 12px;
+}
+.brief-text {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 1.55;
+  letter-spacing: -0.005em;
+  color: var(--text-primary);
+}
+.brief-text em {
+  font-style: normal;
+  color: var(--accent-amber);
+  font-weight: 400;
+}
+.brief-text .sky { color: var(--accent-sky); font-weight: 400; }
+.brief-text .lav { color: var(--accent-lavender); font-weight: 400; }
+.brief-meta {
+  display: flex; align-items: center; flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 16px;
+  font-size: 12px;
+  color: var(--text-quat);
+  font-variant-numeric: tabular-nums;
+}
+.brief-meta-item { display: flex; align-items: center; gap: 6px; }
+.brief-meta-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-quat); }
+
+@media (max-width: 1280px) {
+  .clock-layout { grid-template-columns: 1fr; gap: 28px; }
+  .clock-brief { padding-left: 0; border-left: none; padding-top: 24px; border-top: 1px solid rgba(255,255,255,0.08); }
+}
+
 .clock-time {
   font-family: var(--font-display);
   font-weight: 200;          /* thin per request */
-  font-size: 116px;          /* ↑ hero size (was 92) */
+  font-size: 104px;          /* hero size tuned for 2-col */
   line-height: 1;
   letter-spacing: -0.035em;
   color: var(--text-primary);
@@ -548,7 +602,7 @@ body::after {
 .summary-card.card--lav .card-body { padding: 32px 36px; }
 .summary-tiers {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr 1.2fr;
   gap: 14px;
 }
 @media (max-width: 1280px) { .summary-tiers { grid-template-columns: 1fr; } }
@@ -1015,30 +1069,38 @@ body::after {
         <span class="zone-count" id="zoneNowCount">—</span>
       </div>
 
-      <!-- Clock (8 cols hero, AMBER) -->
-      <div class="card col-8 clock-card card--amber">
-        <div class="card-body">
-          <div class="card-header">
-            <span class="card-label"><span class="label-dot" style="background:var(--accent-amber);box-shadow:0 0 8px var(--accent-amber-glow)"></span>시계 · Mission Control</span>
-            <span id="clockTz" class="clock-tz" style="margin:0">KST · UTC+9</span>
+      <!-- Clock (7 cols hero, AMBER) -->
+      <div class="card col-7 clock-card card--amber">
+        <div class="card-body clock-layout">
+          <div class="clock-main">
+            <div class="card-header">
+              <span class="card-label"><span class="label-dot" style="background:var(--accent-amber);box-shadow:0 0 8px var(--accent-amber-glow)"></span>시계 · Mission Control</span>
+            </div>
+            <div class="clock-time">
+              <span class="clock-hm" id="clockHM">--:--</span><span class="clock-secs" id="clockSecs">00</span>
+            </div>
+            <div class="clock-date" id="dateDisplay">—</div>
+            <div class="clock-tz" style="margin-top:14px">
+              <span class="label-dot"></span>
+              <span id="clockTz">KST · UTC+9</span>
+            </div>
           </div>
-          <div class="clock-time">
-            <span class="clock-hm" id="clockHM">--:--</span><span class="clock-secs" id="clockSecs">00</span>
-          </div>
-          <div class="clock-date" id="dateDisplay">—</div>
-          <div class="greet-briefing" id="greetBriefing" style="margin-top:18px;font-size:18px;line-height:1.5;max-width:780px">잠시만요, 오늘의 브리핑을 준비하고 있어요.</div>
-          <div class="greet-meta" id="greetMeta" style="margin-top:12px">
-            <span class="greet-meta-item">오늘 5건</span>
-            <span class="greet-meta-dot"></span>
-            <span class="greet-meta-item">다음 일정 오후 2시</span>
-            <span class="greet-meta-dot"></span>
-            <span class="greet-meta-item">부평구 · 맑음 25°</span>
+          <div class="clock-brief">
+            <div class="brief-label">DAILY BRIEFING</div>
+            <div class="brief-text" id="greetBriefing">잠시만요, 오늘의 브리핑을 준비하고 있어요.</div>
+            <div class="brief-meta" id="greetMeta">
+              <span class="brief-meta-item">오늘 5건</span>
+              <span class="brief-meta-dot"></span>
+              <span class="brief-meta-item">다음 일정 오후 2시</span>
+              <span class="brief-meta-dot"></span>
+              <span class="brief-meta-item">부평구 · 맑음 25°</span>
+            </div>
           </div>
         </div>
       </div>
 
-      <!-- Weather (4 cols, SKY) -->
-      <div class="card col-4 weather-card card--sky">
+      <!-- Weather (5 cols, SKY) -->
+      <div class="card col-5 weather-card card--sky">
         <div class="card-body">
           <div class="card-header">
             <span class="card-label"><span class="label-dot" style="background:var(--accent-sky);box-shadow:0 0 8px var(--accent-sky-glow)"></span>날씨</span>
@@ -1169,8 +1231,8 @@ body::after {
         </div>
       </div>
 
-      <!-- Quick Links (8 cols) -->
-      <div class="card col-8 links-card">
+      <!-- Quick Links (12 cols, full width) -->
+      <div class="card col-12 links-card">
         <div class="card-body">
           <div class="card-header">
             <span class="card-label"><span class="label-dot" style="background:var(--accent-amber);box-shadow:0 0 8px var(--accent-amber-glow)"></span>Quick Links</span>
