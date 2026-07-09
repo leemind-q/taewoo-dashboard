@@ -17,16 +17,23 @@
 
 :root {
   /* ── Base (no pure black) ── */
-  --bg-base-1: #1c1f2e;   /* top of gradient */
-  --bg-base-2: #232740;   /* mid */
-  --bg-base-3: #1a1d2c;   /* bottom (slightly darker) */
+  --bg-base-1: #181b2a;   /* deeper so glass contrast pops */
+  --bg-base-2: #1f2340;
+  --bg-base-3: #161a28;
 
-  /* ── Card surfaces (one tone above base) ── */
-  --card-bg:        #2a2e42;
-  --card-bg-hi:     #2f3450;
-  --card-bg-deep:   #262a3c;
-  --card-border-top:rgba(255,255,255,0.10);
-  --card-border:    rgba(255,255,255,0.06);
+  /* ── Card surfaces (REAL glass: translucent + frosted) ── */
+  --glass-bg:        rgba(255, 255, 255, 0.04);
+  --glass-bg-hi:     rgba(255, 255, 255, 0.07);
+  --glass-bg-deep:   rgba(20, 22, 36, 0.55);
+  --glass-border:    rgba(255, 255, 255, 0.09);
+  --glass-border-hi: rgba(255, 255, 255, 0.18);
+
+  /* legacy aliases (kept so old classes don't break) */
+  --card-bg:        rgba(255, 255, 255, 0.04);
+  --card-bg-hi:     rgba(255, 255, 255, 0.07);
+  --card-bg-deep:   rgba(20, 22, 36, 0.55);
+  --card-border-top:rgba(255,255,255,0.18);
+  --card-border:    rgba(255,255,255,0.09);
 
   /* ── Text (raised contrast vs v4: +25%) ── */
   --text-primary:   #f3f4fa;  /* brighter than f5f5f7 */
@@ -90,9 +97,15 @@ body {
   min-height: 100vh;
   line-height: 1.55;
   background:
-    radial-gradient(1200px 600px at 20% -10%, rgba(138,180,248,0.10), transparent 55%),
-    radial-gradient(900px 500px at 90% 10%,  rgba(242,166,90,0.08), transparent 50%),
-    radial-gradient(800px 500px at 50% 100%, rgba(179,157,219,0.07), transparent 55%),
+    /* Orb 1: amber top-left (primary brand) */
+    radial-gradient(900px 600px at 8% 0%, rgba(242,166,90,0.22), transparent 60%),
+    /* Orb 2: sky top-right (weather/window) */
+    radial-gradient(800px 600px at 95% 5%, rgba(138,180,248,0.18), transparent 55%),
+    /* Orb 3: lavender mid (today's summary) */
+    radial-gradient(700px 500px at 50% 60%, rgba(179,157,219,0.16), transparent 60%),
+    /* Orb 4: rose bottom-right (depth) */
+    radial-gradient(800px 600px at 100% 100%, rgba(242,166,166,0.10), transparent 60%),
+    /* Base gradient */
     linear-gradient(180deg, var(--bg-base-1) 0%, var(--bg-base-2) 45%, var(--bg-base-3) 100%);
   background-attachment: fixed;
   position: relative;
@@ -188,12 +201,40 @@ body::after {
 .btn-icon.spin svg { animation: spin 1.1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* ── Bento Grid ── */
+/* ── Bento Grid (uniform gap, 4-zone structure) ── */
 .bento {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: min-content;
-  gap: 22px;
+  gap: 24px;
+}
+
+/* Section header (zone divider) */
+.zone-header {
+  display: flex; align-items: center; gap: 14px;
+  margin: 8px 0 -4px;
+  padding: 0 4px;
+}
+.zone-header:first-child { margin-top: 0; }
+.zone-title {
+  font-family: var(--font-display);
+  font-size: 11px; font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+}
+.zone-line {
+  flex: 1; height: 1px;
+  background: linear-gradient(90deg,
+    rgba(255,255,255,0.10) 0%,
+    rgba(255,255,255,0.02) 100%);
+}
+.zone-count {
+  font-family: var(--font-display);
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.10em;
+  color: var(--text-quat);
+  font-variant-numeric: tabular-nums;
 }
 .col-12 { grid-column: span 12; }
 .col-8  { grid-column: span 8; }
@@ -202,13 +243,17 @@ body::after {
 .col-4  { grid-column: span 4; }
 .col-3  { grid-column: span 3; }
 
-/* ── Card system (wider padding, soft gradient border) ── */
+/* ── Card system (REAL glassmorphism: frosted + translucent) ── */
 .card {
   position: relative;
-  background: var(--card-bg);
+  background: var(--glass-bg);
   border-radius: var(--r-card);
   overflow: hidden;
-  box-shadow: var(--sh-2);
+  backdrop-filter: blur(24px) saturate(140%);
+  -webkit-backdrop-filter: blur(24px) saturate(140%);
+  box-shadow:
+    0 1px 0 rgba(255,255,255,0.08) inset,   /* inner top highlight */
+    0 12px 40px rgba(8,10,20,0.45);
   transition: transform 350ms var(--ease), box-shadow 350ms var(--ease), background 220ms var(--ease);
   animation: cardIn 600ms var(--ease) both;
 }
@@ -220,9 +265,9 @@ body::after {
   border-radius: inherit;
   padding: 1px;
   background: linear-gradient(180deg,
-    var(--card-border-top) 0%,
+    var(--glass-border-hi) 0%,
     rgba(255,255,255,0.04) 30%,
-    var(--card-border) 100%);
+    var(--glass-border) 100%);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   -webkit-mask-composite: xor;
           mask-composite: exclude;
@@ -230,26 +275,30 @@ body::after {
   z-index: 2;
 }
 
-/* Subtle inner highlight for material feel */
+/* Subtle inner highlight for material feel (glossy top edge) */
 .card::after {
   content: '';
   position: absolute; inset: 0;
   border-radius: inherit;
-  background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, transparent 30%);
+  background:
+    radial-gradient(120% 60% at 50% 0%, rgba(255,255,255,0.06) 0%, transparent 60%),
+    linear-gradient(180deg, rgba(255,255,255,0.03) 0%, transparent 25%);
   pointer-events: none;
   z-index: 1;
 }
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: var(--sh-3);
-  background: var(--card-bg-hi);
+  background: var(--glass-bg-hi);
+  box-shadow:
+    0 1px 0 rgba(255,255,255,0.14) inset,
+    0 20px 50px rgba(8,10,20,0.55);
 }
 .card:hover::before {
   background: linear-gradient(180deg,
-    rgba(255,255,255,0.18) 0%,
-    rgba(255,255,255,0.06) 30%,
-    rgba(255,255,255,0.10) 100%);
+    rgba(255,255,255,0.28) 0%,
+    rgba(255,255,255,0.08) 30%,
+    rgba(255,255,255,0.14) 100%);
 }
 
 /* Card variants by accent */
@@ -388,14 +437,14 @@ body::after {
 .greet-meta-item { display: flex; align-items: center; gap: 6px; }
 .greet-meta-dot { width: 4px; height: 4px; border-radius: 50%; background: var(--text-quat); }
 
-/* ── Clock (AMBER) ── */
+/* ── Clock (AMBER) — hero size ── */
 .clock-card.card--amber .card-body { padding: 40px 40px; }
 .clock-time {
   font-family: var(--font-display);
   font-weight: 200;          /* thin per request */
-  font-size: 92px;
+  font-size: 116px;          /* ↑ hero size (was 92) */
   line-height: 1;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.035em;
   color: var(--text-primary);
   font-variant-numeric: tabular-nums;
   display: flex; align-items: baseline;
@@ -495,9 +544,14 @@ body::after {
   font-variant-numeric: tabular-nums;
 }
 
-/* ── Today's Summary (LAVENDER) — 3-tier structure ── */
+/* ── Today's Summary (LAVENDER) — 3-tier structure (full width = horizontal) ── */
 .summary-card.card--lav .card-body { padding: 32px 36px; }
-.summary-tiers { display: flex; flex-direction: column; gap: 14px; }
+.summary-tiers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+@media (max-width: 1280px) { .summary-tiers { grid-template-columns: 1fr; } }
 
 .tier {
   position: relative;
@@ -739,9 +793,11 @@ body::after {
   font-variant-numeric: tabular-nums;
 }
 
-/* ── Quick Links ── */
+/* ── Quick Links — SVG icons (no emoji) ── */
 .links-card .card-body { padding: 28px 32px; }
-.links-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.links-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+@media (max-width: 1280px) { .links-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 768px)  { .links-grid { grid-template-columns: repeat(2, 1fr); } }
 .link-btn {
   display: flex; align-items: center; gap: 12px;
   padding: 16px 20px;
@@ -751,15 +807,29 @@ body::after {
   color: var(--text-secondary);
   font-size: 13px; font-weight: 500;
   border: 1px solid rgba(255,255,255,0.05);
-  transition: opacity, transform 220ms var(--ease);
+  transition: background 220ms var(--ease), transform 220ms var(--ease), border-color 220ms var(--ease), color 220ms var(--ease);
 }
 .link-btn:hover {
-  background: rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.07);
   color: var(--text-primary);
-  border-color: rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.14);
   transform: translateY(-2px);
 }
-.link-emoji { font-size: 18px; flex-shrink: 0; }
+.link-icon {
+  width: 32px; height: 32px;
+  border-radius: 9px;
+  background: rgba(255,255,255,0.05);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid rgba(255,255,255,0.06);
+  transition: background 220ms var(--ease), border-color 220ms var(--ease);
+}
+.link-btn:hover .link-icon {
+  background: rgba(242,166,90,0.12);
+  border-color: rgba(242,166,90,0.25);
+}
+.link-icon svg { width: 16px; height: 16px; color: var(--text-tertiary); transition: color 220ms var(--ease); }
+.link-btn:hover .link-icon svg { color: var(--accent-amber); }
 
 /* ── Air Quality ── */
 .air-card .card-body { padding: 32px 36px; }
@@ -938,44 +1008,31 @@ body::after {
         </div>
       </div>
 
-      <!-- Contextual Greeting (full width hero) -->
-      <div class="card col-12 greet-card">
-        <div class="card-body">
-          <div class="greet-row">
-            <div class="greet-avatar">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M12 2a4 4 0 0 1 4 4v2a4 4 0 0 1-8 0V6a4 4 0 0 1 4-4z"/>
-                <path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/>
-              </svg>
-            </div>
-            <div class="greet-text">
-              <div class="greet-hi">Daily Briefing</div>
-              <div class="greet-briefing" id="greetBriefing">잠시만요, 오늘의 브리핑을 준비하고 있어요.</div>
-              <div class="greet-meta" id="greetMeta">
-                <span class="greet-meta-item">오늘 5건</span>
-                <span class="greet-meta-dot"></span>
-                <span class="greet-meta-item">다음 일정 오후 2시</span>
-                <span class="greet-meta-dot"></span>
-                <span class="greet-meta-item">부평구 · 맑음 25°</span>
-              </div>
-            </div>
-          </div>
-        </div>
+      <!-- ═══ ZONE 1: PRIMARY (clock hero + weather) ═══ -->
+      <div class="zone-header">
+        <span class="zone-title">Now</span>
+        <span class="zone-line"></span>
+        <span class="zone-count" id="zoneNowCount">—</span>
       </div>
 
-      <!-- Clock (5 cols, AMBER) -->
-      <div class="card col-5 clock-card card--amber">
+      <!-- Clock (8 cols hero, AMBER) -->
+      <div class="card col-8 clock-card card--amber">
         <div class="card-body">
           <div class="card-header">
-            <span class="card-label"><span class="label-dot" style="background:var(--accent-amber);box-shadow:0 0 8px var(--accent-amber-glow)"></span>시계</span>
+            <span class="card-label"><span class="label-dot" style="background:var(--accent-amber);box-shadow:0 0 8px var(--accent-amber-glow)"></span>시계 · Mission Control</span>
+            <span id="clockTz" class="clock-tz" style="margin:0">KST · UTC+9</span>
           </div>
           <div class="clock-time">
             <span class="clock-hm" id="clockHM">--:--</span><span class="clock-secs" id="clockSecs">00</span>
           </div>
           <div class="clock-date" id="dateDisplay">—</div>
-          <div class="clock-tz">
-            <span class="label-dot"></span>
-            <span id="clockTz">KST · UTC+9</span>
+          <div class="greet-briefing" id="greetBriefing" style="margin-top:18px;font-size:18px;line-height:1.5;max-width:780px">잠시만요, 오늘의 브리핑을 준비하고 있어요.</div>
+          <div class="greet-meta" id="greetMeta" style="margin-top:12px">
+            <span class="greet-meta-item">오늘 5건</span>
+            <span class="greet-meta-dot"></span>
+            <span class="greet-meta-item">다음 일정 오후 2시</span>
+            <span class="greet-meta-dot"></span>
+            <span class="greet-meta-item">부평구 · 맑음 25°</span>
           </div>
         </div>
       </div>
@@ -996,8 +1053,15 @@ body::after {
         </div>
       </div>
 
-      <!-- Today's Summary (3 cols, LAVENDER) — 3-tier -->
-      <div class="card col-3 summary-card card--lav">
+      <!-- ═══ ZONE 2: AGENDA (today's summary) ═══ -->
+      <div class="zone-header">
+        <span class="zone-title">Agenda</span>
+        <span class="zone-line"></span>
+        <span class="zone-count" id="zoneAgendaCount">3</span>
+      </div>
+
+      <!-- Today's Summary (12 cols, LAVENDER) — 3-tier full width -->
+      <div class="card col-12 summary-card card--lav">
         <div class="card-body">
           <div class="card-header">
             <span class="card-label"><span class="label-dot" style="background:var(--accent-lavender);box-shadow:0 0 8px var(--accent-lav-glow)"></span>오늘의 요약</span>
@@ -1034,6 +1098,13 @@ body::after {
         </div>
       </div>
 
+      <!-- ═══ ZONE 3: PULSE (news + air) ═══ -->
+      <div class="zone-header">
+        <span class="zone-title">Pulse</span>
+        <span class="zone-line"></span>
+        <span class="zone-count" id="zonePulseCount">5+</span>
+      </div>
+
       <!-- News (8 cols) -->
       <div class="card col-8 news-card">
         <div class="card-body">
@@ -1063,6 +1134,13 @@ body::after {
             </div>
           </div>
         </div>
+      </div>
+
+      <!-- ═══ ZONE 4: WORKSPACE (github + dev + quick links) ═══ -->
+      <div class="zone-header">
+        <span class="zone-title">Workspace</span>
+        <span class="zone-line"></span>
+        <span class="zone-count" id="zoneWorkCount">6</span>
       </div>
 
       <!-- GitHub (6 cols) -->
@@ -1434,20 +1512,36 @@ function loadDevStatus() {
   ].map(i => `<div class="dev-row"><span class="dev-name"><span class="dev-status-dot ${i.color}"></span>${esc(i.name)}</span><span class="dev-status-text">${esc(i.status)}</span></div>`).join('');
 }
 
-/* ── Quick Links ── */
+/* ── Quick Links (SVG icons, premium) ── */
 function loadLinks() {
-  document.getElementById('linksContent').innerHTML = [
-    { emoji: '🤖', label: 'Hermes',  url: 'http://localhost:8642' },
-    { emoji: '📧', label: 'Bizmeka', url: 'https://mail.bizmeka.com' },
-    { emoji: '🐙', label: 'GitHub',  url: 'https://github.com/leemind-q' },
-    { emoji: '🔧', label: 'Gerber',  url: 'https://gerber.jjun0525.com' },
-    { emoji: '🗺️', label: 'TREK',    url: 'https://trek.jjun0525.com' },
-    { emoji: '🎮', label: 'Godot',   url: 'file:///C:/Users/qqwer/Godot/' },
-    { emoji: '💬', label: 'ChatGPT', url: 'https://chatgpt.com' },
-    { emoji: '💎', label: 'Gemini',  url: 'https://gemini.google.com' },
-    { emoji: '📝', label: 'Notion',  url: 'https://notion.so' },
-    { emoji: '🟠', label: 'Claude',  url: 'https://claude.ai' },
-  ].map(l => `<a class="link-btn" href="${esc(l.url)}" target="_blank" rel="noopener"><span class="link-emoji">${l.emoji}</span>${esc(l.label)}</a>`).join('');
+  // 16x16 stroke icons, currentColor for theme
+  const I = {
+    hermes:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 L4 7 L12 12 L20 7 Z"/><path d="M4 12 L12 17 L20 12"/><path d="M4 17 L12 22 L20 17"/></svg>',
+    mail:    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><polyline points="3 7 12 13 21 7"/></svg>',
+    github:  '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.2c-3.3.7-4-1.4-4-1.4-.6-1.4-1.4-1.8-1.4-1.8-1.1-.7.1-.7.1-.7 1.2.1 1.9 1.3 1.9 1.3 1.1 1.9 2.9 1.3 3.6 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.3.5-2.4 1.3-3.2-.1-.3-.6-1.6.1-3.3 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.7 1.7.2 3 .1 3.3.8.8 1.3 1.9 1.3 3.2 0 4.7-2.8 5.7-5.5 6 .4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .3"/></svg>',
+    gerber:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="9" x2="9" y2="21"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="12" cy="6" r="0.8" fill="currentColor"/><circle cx="18" cy="6" r="0.8" fill="currentColor"/><circle cx="6" cy="15" r="0.8" fill="currentColor"/><circle cx="15" cy="15" r="0.8" fill="currentColor"/><circle cx="18" cy="15" r="0.8" fill="currentColor"/></svg>',
+    trek:    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12 L21 12"/><path d="M3 6 L21 6"/><path d="M3 18 L15 18"/><circle cx="20" cy="18" r="1.5" fill="currentColor"/></svg>',
+    godot:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 9 L16 12 L8 15 Z" fill="currentColor" stroke="none"/></svg>',
+    chatgpt: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8 a4 4 0 0 1 4-4 h8 a4 4 0 0 1 4 4 v8 a4 4 0 0 1-4 4 h-8 a4 4 0 0 1-4-4 z"/><line x1="8" y1="12" x2="16" y2="12"/></svg>',
+    gemini:  '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0 L14 9 L23 12 L14 15 L12 24 L10 15 L1 12 L10 9 Z"/></svg>',
+    notion:  '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 3 L20 3 L20 21 L4 21 Z M4 3 L8 6 L8 21 M8 6 L16 6 L16 21 M20 3 L16 6" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>',
+    claude:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 C9 2 6 4 6 7 C6 10 9 12 12 12 C15 12 18 10 18 7 C18 4 15 2 12 2 Z"/><path d="M12 12 C9 12 6 14 6 17 C6 20 9 22 12 22 C15 22 18 20 18 17 C18 14 15 12 12 12 Z"/></svg>',
+  };
+  const LINKS = [
+    { icon: I.hermes,  label: 'Hermes',  url: 'http://localhost:8642' },
+    { icon: I.mail,    label: 'Bizmeka', url: 'https://mail.bizmeka.com' },
+    { icon: I.github,  label: 'GitHub',  url: 'https://github.com/leemind-q' },
+    { icon: I.gerber,  label: 'Gerber',  url: 'https://gerber.jjun0525.com' },
+    { icon: I.trek,    label: 'TREK',    url: 'https://trek.jjun0525.com' },
+    { icon: I.godot,   label: 'Godot',   url: 'file:///C:/Users/qqwer/Godot/' },
+    { icon: I.chatgpt, label: 'ChatGPT', url: 'https://chatgpt.com' },
+    { icon: I.gemini,  label: 'Gemini',  url: 'https://gemini.google.com' },
+    { icon: I.notion,  label: 'Notion',  url: 'https://notion.so' },
+    { icon: I.claude,  label: 'Claude',  url: 'https://claude.ai' },
+  ];
+  document.getElementById('linksContent').innerHTML = LINKS.map(l =>
+    `<a class="link-btn" href="${esc(l.url)}" target="_blank" rel="noopener"><span class="link-icon">${l.icon}</span>${esc(l.label)}</a>`
+  ).join('');
 }
 
 /* ── Air Quality ── */
