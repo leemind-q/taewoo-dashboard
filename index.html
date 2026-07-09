@@ -769,11 +769,11 @@ body::after {
   font-size: 11px; color: var(--text-quat); margin-top: 4px;
 }
 
-/* ── GitHub ── */
-.github-card .card-body { padding: 32px 36px; }
+/* ── GitHub (col-6, 2-col layout) ── */
+.github-card .card-body { padding: 28px 32px; }
 .github-grid {
   display: grid; grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
+  gap: 10px;
 }
 .github-stat {
   background: rgba(255,255,255,0.03);
@@ -806,6 +806,53 @@ body::after {
   background: var(--accent-mint);
   flex-shrink: 0;
   box-shadow: 0 0 6px var(--accent-mint-soft);
+}
+
+.github-activity {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+.github-activity-label {
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--text-quat);
+  margin-bottom: 10px;
+}
+.github-commit {
+  display: grid;
+  grid-template-columns: 80px 1fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+  font-size: 12px;
+  text-decoration: none;
+  color: var(--text-secondary);
+  transition: color 200ms var(--ease), background 200ms var(--ease);
+  border-radius: 8px;
+}
+.github-commit:hover { color: var(--text-primary); }
+.github-commit:hover .github-commit-msg { color: var(--accent-amber); }
+.github-commit-repo {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--text-tertiary);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.github-commit:hover .github-commit-repo { color: var(--accent-sky); }
+.github-commit-msg {
+  font-size: 13px;
+  color: var(--text-secondary);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  transition: color 200ms var(--ease);
+}
+.github-commit-time {
+  font-family: var(--font-display);
+  font-size: 11px;
+  color: var(--text-quat);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 /* ── Dev Status ── */
@@ -884,6 +931,182 @@ body::after {
 }
 .link-icon svg { width: 16px; height: 16px; color: var(--text-tertiary); transition: color 220ms var(--ease); }
 .link-btn:hover .link-icon svg { color: var(--accent-amber); }
+
+/* ── Life (D-days) — 4-col glass tiles ── */
+.life-card .card-body { padding: 28px 32px; }
+.life-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+@media (max-width: 1280px) { .life-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 768px)  { .life-grid { grid-template-columns: 1fr; } }
+.life-tile {
+  position: relative;
+  padding: 20px 22px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: var(--r-inner);
+  display: flex; align-items: center; gap: 16px;
+  transition: background 220ms var(--ease), border-color 220ms var(--ease), transform 220ms var(--ease);
+  overflow: hidden;
+}
+.life-tile:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.14);
+  transform: translateY(-2px);
+}
+.life-tile.soon {
+  background: linear-gradient(135deg, rgba(242,166,166,0.10) 0%, rgba(242,166,90,0.06) 100%);
+  border-color: rgba(242,166,166,0.25);
+}
+.life-icon {
+  width: 44px; height: 44px;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.05);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+.life-tile.rose  .life-icon { background: rgba(242,166,166,0.12); border-color: rgba(242,166,166,0.22); }
+.life-tile.amber .life-icon { background: rgba(242,166,90,0.12);  border-color: rgba(242,166,90,0.22); }
+.life-tile.sky   .life-icon { background: rgba(138,180,248,0.12); border-color: rgba(138,180,248,0.22); }
+.life-tile.lav   .life-icon { background: rgba(179,157,219,0.12); border-color: rgba(179,157,219,0.22); }
+.life-icon svg { width: 22px; height: 22px; color: var(--text-secondary); }
+.life-tile.rose  .life-icon svg { color: var(--accent-rose); }
+.life-tile.amber .life-icon svg { color: var(--accent-amber); }
+.life-tile.sky   .life-icon svg { color: var(--accent-sky); }
+.life-tile.lav   .life-icon svg { color: var(--accent-lavender); }
+.life-body { flex: 1; min-width: 0; }
+.life-label {
+  font-size: 11px; font-weight: 500;
+  letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-bottom: 2px;
+}
+.life-title {
+  font-family: var(--font-display);
+  font-size: 14px; font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.3;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.life-dday {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+  text-align: right;
+  line-height: 1;
+}
+.life-dday .num { font-size: 24px; }
+.life-dday .unit {
+  display: block;
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.10em;
+  color: var(--text-quat);
+  margin-top: 4px;
+}
+.life-tile.sky.soon .life-dday .num { color: var(--accent-rose); }
+.life-tile.amber.soon .life-dday .num { color: var(--accent-rose); }
+.life-tile.rose.soon .life-dday .num { color: var(--accent-rose); }
+.life-tile.lav.soon .life-dday .num { color: var(--accent-rose); }
+.life-tile.sky.today .life-dday .num { color: var(--accent-amber); }
+.life-tile.amber.today .life-dday .num { color: var(--accent-amber); }
+.life-tile.rose.today .life-dday .num { color: var(--accent-amber); }
+.life-tile.lav.today .life-dday .num { color: var(--accent-amber); }
+
+/* ── Tasks (interactive checklist) ── */
+.tasks-card .card-body { padding: 28px 32px; }
+.tasks-add {
+  margin: 0 0 14px;
+  padding: 0 4px;
+}
+#taskInput {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 400;
+  padding: 10px 0;
+  transition: border-color 200ms var(--ease);
+}
+#taskInput::placeholder { color: var(--text-quat); }
+#taskInput:focus {
+  outline: none;
+  border-bottom-color: var(--accent-lavender);
+}
+.tasks-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.task-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid transparent;
+  transition: background 200ms var(--ease), border-color 200ms var(--ease);
+}
+.task-item:hover {
+  background: rgba(255,255,255,0.04);
+  border-color: rgba(255,255,255,0.06);
+}
+.task-check {
+  width: 18px; height: 18px;
+  border-radius: 6px;
+  border: 1.5px solid rgba(255,255,255,0.18);
+  background: transparent;
+  flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  transition: all 200ms var(--ease);
+}
+.task-item.done .task-check {
+  background: var(--accent-lavender);
+  border-color: var(--accent-lavender);
+}
+.task-check svg { width: 12px; height: 12px; color: #1c1f2e; opacity: 0; transition: opacity 200ms var(--ease); }
+.task-item.done .task-check svg { opacity: 1; }
+.task-text {
+  flex: 1;
+  font-size: 14px;
+  color: var(--text-primary);
+  cursor: pointer;
+  user-select: none;
+  transition: color 200ms var(--ease);
+}
+.task-item.done .task-text {
+  color: var(--text-quat);
+  text-decoration: line-through;
+  text-decoration-color: var(--text-quat);
+}
+.task-del {
+  background: none; border: none;
+  color: var(--text-quat);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 6px;
+  display: flex;
+  transition: color 200ms var(--ease), background 200ms var(--ease);
+  opacity: 0;
+}
+.task-item:hover .task-del { opacity: 1; }
+.task-del:hover { color: var(--accent-rose); background: rgba(242,166,166,0.08); }
+.task-del svg { width: 14px; height: 14px; }
+.tasks-empty {
+  padding: 24px 12px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-quat);
+}
 
 /* ── Air Quality ── */
 .air-card .card-body { padding: 32px 36px; }
@@ -1195,6 +1418,40 @@ body::after {
               <div class="skeleton-bar" style="flex:0 0 70%"></div>
             </div>
           </div>
+        </div>
+      </div>
+
+      <!-- ═══ ZONE 3.5: LIFE (family D-days + travel) ═══ -->
+      <div class="zone-header">
+        <span class="zone-title">Life</span>
+        <span class="zone-line"></span>
+        <span class="zone-count" id="zoneLifeCount">4</span>
+      </div>
+
+      <!-- Life D-days (12 cols) -->
+      <div class="card col-12 life-card">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--accent-rose);box-shadow:0 0 8px var(--accent-rose-soft)"></span>Family & Travel</span>
+            <span id="lifeToday" style="font-size:12px;color:var(--text-quat);font-variant-numeric:tabular-nums">—</span>
+          </div>
+          <div class="life-grid" id="lifeGrid">
+            <div class="skeleton"><div class="skeleton-bar"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tasks (12 cols, interactive checklist) -->
+      <div class="card col-12 tasks-card">
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-label"><span class="label-dot" style="background:var(--accent-lavender);box-shadow:0 0 8px var(--accent-lav-glow)"></span>Today's Tasks</span>
+            <span id="tasksCount" style="font-size:12px;color:var(--text-quat);font-variant-numeric:tabular-nums">0/0</span>
+          </div>
+          <div class="tasks-add">
+            <input id="taskInput" type="text" placeholder="+ Add a task for today…" maxlength="120" autocomplete="off">
+          </div>
+          <ul class="tasks-list" id="tasksList"></ul>
         </div>
       </div>
 
@@ -1540,23 +1797,53 @@ function toggleRest() {
   document.getElementById('restTier').classList.toggle('expanded');
 }
 
-/* ── GitHub ── */
+/* ── GitHub (4 metrics + recent activity) ── */
 async function loadGitHub() {
   const el = document.getElementById('githubContent');
   try {
-    const [userRes, reposRes] = await Promise.all([
+    const [userRes, reposRes, eventsRes] = await Promise.all([
       fetch('https://api.github.com/users/leemind-q'),
-      fetch('https://api.github.com/users/leemind-q/repos?sort=updated&per_page=4')
+      fetch('https://api.github.com/users/leemind-q/repos?sort=updated&per_page=4'),
+      fetch('https://api.github.com/users/leemind-q/events/public?per_page=10')
     ]);
-    const user = await userRes.json();
+    const user  = await userRes.json();
     const repos = await reposRes.json();
+    const events = await eventsRes.json();
+
+    // Recent activity (last 3 commits only)
+    const recentCommits = (events || [])
+      .filter(ev => ev.type === 'PushEvent')
+      .slice(0, 3)
+      .map(ev => ({
+        repo: ev.repo.name.replace('leemind-q/', ''),
+        msg:  ev.payload.commits?.[0]?.message?.split('\n')[0] || '(no message)',
+        date: ev.created_at,
+      }));
+
+    const relTime = (iso) => {
+      const d = new Date(iso);
+      const diff = Math.floor((Date.now() - d) / 3600000);
+      if (diff < 1)   return '방금';
+      if (diff < 24)  return diff + '시간 전';
+      if (diff < 168) return Math.floor(diff/24) + '일 전';
+      return Math.floor(diff/168) + '주 전';
+    };
+
     el.innerHTML = `<div class="github-grid">
         <div class="github-stat"><div class="github-stat-value">${user.public_repos}</div><div class="github-stat-label">Repos</div></div>
         <div class="github-stat"><div class="github-stat-value">${user.followers}</div><div class="github-stat-label">Followers</div></div>
         <div class="github-stat"><div class="github-stat-value">${user.public_gists||0}</div><div class="github-stat-label">Gists</div></div>
         <div class="github-stat"><div class="github-stat-value">${user.total_private_repos||0}</div><div class="github-stat-label">Private</div></div>
       </div>
-      <div class="github-repos">${repos.slice(0,4).map(r => `<div class="github-repo"><span class="github-repo-dot"></span>${esc(r.name)}</div>`).join('')}</div>`;
+      <div class="github-repos">${repos.slice(0,4).map(r => `<div class="github-repo"><span class="github-repo-dot"></span>${esc(r.name)}</div>`).join('')}</div>
+      ${recentCommits.length ? `<div class="github-activity">
+        <div class="github-activity-label">RECENT ACTIVITY</div>
+        ${recentCommits.map(c => `<a class="github-commit" href="https://github.com/${esc(c.repo)}" target="_blank" rel="noopener">
+          <div class="github-commit-repo">${esc(c.repo)}</div>
+          <div class="github-commit-msg">${esc(c.msg.slice(0, 60))}${c.msg.length > 60 ? '…' : ''}</div>
+          <div class="github-commit-time">${relTime(c.date)}</div>
+        </a>`).join('')}
+      </div>` : ''}`;
   } catch(e) {
     el.innerHTML = '<div style="color:var(--text-tertiary);font-size:13px;padding:14px 0;">GitHub API unavailable</div>';
   }
@@ -1604,6 +1891,120 @@ function loadLinks() {
   document.getElementById('linksContent').innerHTML = LINKS.map(l =>
     `<a class="link-btn" href="${esc(l.url)}" target="_blank" rel="noopener"><span class="link-icon">${l.icon}</span>${esc(l.label)}</a>`
   ).join('');
+}
+
+/* ── Life / D-days (family + travel) ── */
+function loadLife() {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const y = today.getFullYear();
+
+  // Each event: title, label, date (Date obj), color
+  const EVENTS = [
+    { title: '후쿠오카 가족 여행', label: 'TRAVEL', date: new Date(2026, 7, 4),  color: 'sky',   icon: 'plane' },
+    { title: '결혼기념일',         label: 'ANNIV.',  date: new Date(2026, 8, 27), color: 'rose',  icon: 'heart' },
+    { title: '아내 생일',          label: 'WIFE',    date: new Date(2026, 11, 26),color: 'lav',   icon: 'gift' },
+    { title: '딸 생일',            label: 'BABY',    date: new Date(2026, 11, 5), color: 'amber', icon: 'star'  },
+  ];
+
+  // Today label
+  const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
+  const todayLabel = `${y}.${String(today.getMonth()+1).padStart(2,'0')}.${String(today.getDate()).padStart(2,'0')} (${weekdays[today.getDay()]})`;
+  document.getElementById('lifeToday').textContent = todayLabel;
+
+  // Compute D-day (target - today, in days)
+  const tiles = EVENTS.map(e => {
+    const target = new Date(e.date);
+    target.setHours(0, 0, 0, 0);
+    const diff = Math.round((target - today) / 86400000);
+    return { ...e, diff };
+  }).sort((a, b) => a.diff - b.diff);  // nearest first
+
+  // SVG icons
+  const ICONS = {
+    plane: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/></svg>',
+    heart: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>',
+    gift:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7zM12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg>',
+    star:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>',
+  };
+
+  const html = tiles.map(t => {
+    let numLabel, unitLabel, cls = '';
+    if (t.diff === 0)      { numLabel = 'TODAY'; unitLabel = '오늘'; cls = 'today'; }
+    else if (t.diff < 0)   { numLabel = 'D+' + (-t.diff); unitLabel = '지남'; }
+    else if (t.diff <= 30) { numLabel = 'D-' + t.diff; unitLabel = '일'; cls = 'soon'; }
+    else if (t.diff < 365) { numLabel = 'D-' + t.diff; unitLabel = '일'; }
+    else                   { numLabel = 'D-' + t.diff; unitLabel = '일'; }
+    return `<div class="life-tile ${t.color} ${cls}">
+      <div class="life-icon">${ICONS[t.icon]}</div>
+      <div class="life-body">
+        <div class="life-label">${esc(t.label)}</div>
+        <div class="life-title">${esc(t.title)}</div>
+      </div>
+      <div class="life-dday"><span class="num">${numLabel}</span><span class="unit">${unitLabel}</span></div>
+    </div>`;
+  }).join('');
+
+  document.getElementById('lifeGrid').innerHTML = html;
+  document.getElementById('zoneLifeCount').textContent = tiles.length;
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+/* ── Today's Tasks (interactive checklist, localStorage) ── */
+const TASKS_KEY = 'mc-tasks';
+function loadTasks() {
+  const tasks = JSON.parse(localStorage.getItem(TASKS_KEY) || '[]');
+  renderTasks(tasks);
+
+  const input = document.getElementById('taskInput');
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && input.value.trim()) {
+      const newTask = { id: Date.now(), text: input.value.trim(), done: false };
+      const updated = [...tasks, newTask];
+      localStorage.setItem(TASKS_KEY, JSON.stringify(updated));
+      input.value = '';
+      renderTasks(updated);
+    }
+  });
+}
+function renderTasks(tasks) {
+  const list = document.getElementById('tasksList');
+  if (!tasks.length) {
+    list.innerHTML = '<li class="tasks-empty">No tasks yet — type above and press Enter to add.</li>';
+    document.getElementById('tasksCount').textContent = '0/0';
+    return;
+  }
+  const checkSvg = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
+  const delSvg   = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
+  list.innerHTML = tasks.map(t => `
+    <li class="task-item ${t.done ? 'done' : ''}" data-id="${t.id}">
+      <div class="task-check" data-action="toggle">${checkSvg}</div>
+      <div class="task-text" data-action="toggle">${esc(t.text)}</div>
+      <button class="task-del" data-action="del" aria-label="삭제">${delSvg}</button>
+    </li>
+  `).join('');
+
+  const done = tasks.filter(t => t.done).length;
+  document.getElementById('tasksCount').textContent = `${done}/${tasks.length}`;
+
+  // Wire events
+  list.querySelectorAll('[data-action="toggle"]').forEach(el => {
+    el.addEventListener('click', () => {
+      const id = Number(el.closest('.task-item').dataset.id);
+      const updated = tasks.map(t => t.id === id ? { ...t, done: !t.done } : t);
+      localStorage.setItem(TASKS_KEY, JSON.stringify(updated));
+      renderTasks(updated);
+    });
+  });
+  list.querySelectorAll('[data-action="del"]').forEach(el => {
+    el.addEventListener('click', () => {
+      const id = Number(el.closest('.task-item').dataset.id);
+      const updated = tasks.filter(t => t.id !== id);
+      localStorage.setItem(TASKS_KEY, JSON.stringify(updated));
+      renderTasks(updated);
+    });
+  });
 }
 
 /* ── Air Quality ── */
@@ -1667,10 +2068,8 @@ function refreshAll() {
   setTimeout(() => btn.classList.remove('spin'), 1200);
 }
 
-function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
-
 loadWeather(); loadNews(); loadGitHub(); loadAir(); loadSummary();
-loadDevStatus(); loadLinks();
+loadDevStatus(); loadLinks(); loadLife(); loadTasks();
 </script>
 </body>
 </html>
