@@ -83,6 +83,7 @@
 
 *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
 html { font-size:16px; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 body {
   font-family: var(--font-body);
   color: var(--text-primary);
@@ -161,7 +162,7 @@ body::after {
   color: var(--text-tertiary);
   font-family: var(--font-body); font-size: 13px; font-weight: 500;
   letter-spacing: 0.01em;
-  cursor: pointer; transition: all 220ms var(--ease);
+  cursor: pointer; transition: opacity, transform 220ms var(--ease);
 }
 .nav-pill:hover { color: var(--text-secondary); background: rgba(255,255,255,0.04); }
 .nav-pill.active {
@@ -178,7 +179,7 @@ body::after {
   border-radius: 14px;
   background: var(--card-bg);
   color: var(--text-tertiary);
-  cursor: pointer; transition: all 220ms var(--ease);
+  cursor: pointer; transition: opacity, transform 220ms var(--ease);
   backdrop-filter: blur(12px);
 }
 .btn-icon:hover { color: var(--text-primary); background: var(--card-bg-hi); border-color: rgba(255,255,255,0.14); }
@@ -308,12 +309,17 @@ body::after {
 }
 .search-icon-wrap svg { width: 16px; height: 16px; color: var(--text-tertiary); }
 .search-input {
-  flex: 1; border: none; background: transparent; outline: none;
+  flex: 1; border: none; background: transparent;
   color: var(--text-primary);
   font-family: var(--font-body);
   font-size: 15px;
   font-weight: 400;
   letter-spacing: 0.005em;
+}
+.search-input:focus-visible {
+  outline: 2px solid var(--accent-amber, #f2a65a);
+  outline-offset: 4px;
+  border-radius: 6px;
 }
 .search-input::placeholder { color: var(--text-quat); }
 .search-engine-pills { display: flex; gap: 4px; flex-shrink: 0; }
@@ -322,7 +328,7 @@ body::after {
   background: transparent;
   color: var(--text-tertiary);
   font-family: var(--font-body); font-size: 12px; font-weight: 500;
-  cursor: pointer; transition: all 200ms var(--ease);
+  cursor: pointer; transition: opacity, transform 200ms var(--ease);
 }
 .engine-pill:hover { color: var(--text-secondary); background: rgba(255,255,255,0.04); }
 .engine-pill.active {
@@ -745,7 +751,7 @@ body::after {
   color: var(--text-secondary);
   font-size: 13px; font-weight: 500;
   border: 1px solid rgba(255,255,255,0.05);
-  transition: all 220ms var(--ease);
+  transition: opacity, transform 220ms var(--ease);
 }
 .link-btn:hover {
   background: rgba(255,255,255,0.06);
@@ -827,7 +833,7 @@ body::after {
   background: var(--card-bg);
   color: var(--text-secondary);
   font-family: var(--font-body); font-size: 12px; font-weight: 500;
-  cursor: pointer; transition: all 200ms var(--ease);
+  cursor: pointer; transition: opacity, transform 200ms var(--ease);
 }
 .memo-tool-btn:hover { background: var(--card-bg-hi); color: var(--text-primary); border-color: rgba(255,255,255,0.14); }
 .memo-editor { flex: 1; min-height: 0; display: flex; flex-direction: column; }
@@ -839,7 +845,12 @@ body::after {
   padding: 32px;
   color: var(--text-primary);
   font-family: var(--font-body); font-size: 14px; line-height: 1.85;
-  outline: none; resize: none; overflow: auto;
+  resize: none; overflow: auto;
+}
+.memo-editor textarea:focus-visible {
+  outline: 2px solid var(--accent-amber, #f2a65a);
+  outline-offset: 4px;
+  border-radius: 8px;
 }
 .memo-editor .preview { display: none; }
 .memo-editor .preview.show { display: block; }
@@ -916,7 +927,8 @@ body::after {
             <div class="search-icon-wrap">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             </div>
-            <input class="search-input" id="searchInput" type="text" placeholder="Search anything..." onkeydown="if(event.key==='Enter')doSearch()">
+            <label for="searchInput" class="sr-only">검색어 입력</label>
+            <input class="search-input" id="searchInput" type="text" placeholder="Search anything..." aria-label="Search anything" onkeydown="if(event.key==='Enter')doSearch()">
             <div class="search-engine-pills">
               <button class="engine-pill active" onclick="setEngine('naver')">Naver</button>
               <button class="engine-pill" onclick="setEngine('google')">Google</button>
@@ -1103,7 +1115,8 @@ body::after {
       <button class="memo-tool-btn" onclick="clearMemo()">🗑 Clear</button>
     </div>
     <div class="memo-editor">
-      <textarea id="memoTextarea" placeholder="Write anything in Markdown..."></textarea>
+      <label for="memoTextarea" class="sr-only">메모 내용 입력</label>
+      <textarea id="memoTextarea" placeholder="Write anything in Markdown..." aria-label="메모 내용 입력"></textarea>
       <div class="preview" id="memoPreview"></div>
     </div>
   </div>

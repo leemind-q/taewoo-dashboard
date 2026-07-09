@@ -25,9 +25,11 @@ body::before{
 }
 a{color:#fbbf24;text-decoration:none}
 a:hover{text-decoration:underline}
-button{cursor:pointer;font-family:inherit;border:none;outline:none;background:none;color:inherit}
-input,textarea{font-family:inherit;outline:none;border:none;background:none;color:inherit}
+button{cursor:pointer;font-family:inherit;border:none;background:none;color:inherit}
+button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid #fbbf24;outline-offset:2px;border-radius:4px}
+input,textarea{font-family:inherit;border:none;background:none;color:inherit}
 ::selection{background:rgba(251,191,36,0.3)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 ::-webkit-scrollbar{width:6px}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:3px}
@@ -81,7 +83,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
   border:1px solid rgba(251,191,36,0.2);
   border-radius:10px;
   color:#fbbf24;font-size:13px;font-weight:600;
-  transition:all .2s;
+  transition: opacity, transform .2s;
 }
 .new-memo-btn:hover{
   background:linear-gradient(135deg,rgba(251,191,36,0.25),rgba(251,191,36,0.1));
@@ -94,7 +96,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 .memo-item{
   display:flex;align-items:center;gap:8px;
   padding:10px 12px;border-radius:8px;
-  cursor:pointer;transition:all .15s;
+  cursor:pointer;transition: opacity, transform .15s;
   border-left:3px solid transparent;margin-bottom:2px;
 }
 .memo-item:hover{background:rgba(255,255,255,0.05)}
@@ -126,13 +128,17 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 .empty-state svg{width:48px;height:48px;opacity:0.3}
 .empty-state p{font-size:15px;font-weight:400}
 
-/* Loading */
-.loading-overlay{
-  position:fixed;inset:0;background:#050507;
+/* Loading dialog */
+dialog.loading-overlay{
+  position:fixed;inset:0;width:100vw;height:100vh;max-width:100vw;max-height:100vh;
+  margin:0;padding:0;border:0;background:transparent;
   display:flex;align-items:center;justify-content:center;
-  z-index:10000;transition:opacity .4s;
+  background:#050507;
+  transition:opacity .4s;
 }
-.loading-overlay.hidden{opacity:0;pointer-events:none}
+dialog.loading-overlay[open]{display:flex}
+dialog.loading-overlay.hidden{opacity:0;pointer-events:none}
+dialog.loading-overlay::backdrop{background:transparent}
 .loading-dots{display:flex;gap:8px}
 .loading-dots span{
   width:10px;height:10px;border-radius:50%;background:#fbbf24;
@@ -163,13 +169,13 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 .editor-toolbar-right{
   display:flex;align-items:center;gap:10px;flex-shrink:0;
 }
-.save-status{font-size:12px;padding:4px 10px;border-radius:6px;transition:all .3s}
+.save-status{font-size:12px;padding:4px 10px;border-radius:6px;transition: opacity, transform .3s}
 .save-status.saved{color:#34d399;background:rgba(52,211,153,0.1)}
 .save-status.saving{color:#fbbf24;background:rgba(251,191,36,0.1)}
 .save-status.error{color:#f87171;background:rgba(248,113,113,0.1)}
 .char-count{font-size:12px;color:rgba(255,255,255,0.25)}
 .view-toggle{display:flex;gap:2px;background:rgba(255,255,255,0.05);border-radius:8px;padding:2px}
-.view-toggle button{padding:5px 10px;font-size:11px;font-weight:500;border-radius:6px;color:rgba(255,255,255,0.4);transition:all .15s}
+.view-toggle button{padding:5px 10px;font-size:11px;font-weight:500;border-radius:6px;color:rgba(255,255,255,0.4);transition: opacity, transform .15s}
 .view-toggle button.active{background:rgba(251,191,36,0.15);color:#fbbf24}
 .view-toggle button:hover:not(.active){color:rgba(255,255,255,0.6)}
 .shortcut-hint{font-size:11px;color:rgba(255,255,255,0.2);display:flex;align-items:center;gap:4px}
@@ -235,7 +241,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
   -webkit-appearance:none;appearance:none;
   width:16px;height:16px;border:2px solid rgba(255,255,255,0.2);
   border-radius:4px;cursor:pointer;vertical-align:middle;
-  margin-right:6px;position:relative;transition:all .15s;
+  margin-right:6px;position:relative;transition: opacity, transform .15s;
 }
 .editor-preview input[type="checkbox"]:checked{background:#fbbf24;border-color:#fbbf24}
 .editor-preview input[type="checkbox"]:checked::after{
@@ -277,7 +283,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
   transition:border-color .2s;font-family:'DM Sans',sans-serif;
 }
 .modal input:focus,.modal select:focus,.modal textarea:focus{border-color:rgba(251,191,36,0.4)}
-.modal-btn{padding:10px 20px;border-radius:10px;font-size:14px;font-weight:600;transition:all .2s}
+.modal-btn{padding:10px 20px;border-radius:10px;font-size:14px;font-weight:600;transition: opacity, transform .2s}
 .modal-btn.primary{background:linear-gradient(135deg,#fbbf24,#f59e0b);color:#000}
 .modal-btn.primary:hover{transform:translateY(-1px);box-shadow:0 4px 20px rgba(251,191,36,0.3)}
 .modal-btn.secondary{background:rgba(255,255,255,0.06);color:rgba(255,255,255,0.6)}
@@ -289,7 +295,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 .template-card{
   padding:12px 14px;background:rgba(255,255,255,0.03);
   border:1px solid rgba(255,255,255,0.06);border-radius:12px;
-  cursor:pointer;transition:all .15s;text-align:left;
+  cursor:pointer;transition: opacity, transform .15s;text-align:left;
 }
 .template-card:hover{background:rgba(251,191,36,0.08);border-color:rgba(251,191,36,0.2)}
 .template-card.active{background:rgba(251,191,36,0.12);border-color:#fbbf24}
@@ -305,7 +311,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
   display:flex;align-items:center;gap:6px;
   padding:8px 12px;border-radius:8px;
   font-size:12px;color:rgba(255,255,255,0.4);
-  transition:all .15s;
+  transition: opacity, transform .15s;
 }
 .sidebar-footer button:hover{background:rgba(255,255,255,0.04);color:rgba(255,255,255,0.6)}
 .sidebar-footer button svg{width:14px;height:14px}
@@ -327,7 +333,7 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
   padding:10px 20px;border-radius:10px;font-size:13px;
   background:rgba(20,20,24,0.95);border:1px solid rgba(255,255,255,0.1);
   backdrop-filter:blur(12px);color:rgba(255,255,255,0.8);
-  z-index:5000;opacity:0;transition:all .3s;pointer-events:none;
+  z-index:5000;opacity:0;transition: opacity, transform .3s;pointer-events:none;
 }
 .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 .toast.success{border-color:rgba(52,211,153,0.3)}
@@ -353,9 +359,9 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 </head>
 <body>
 
-<div class="loading-overlay" id="loadingOverlay">
-  <div class="loading-dots"><span></span><span></span><span></span></div>
-</div>
+<dialog class="loading-overlay" id="loadingOverlay" aria-label="로딩 중" aria-live="polite">
+  <div class="loading-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+</dialog>
 
 <div class="toast" id="toast"></div>
 
@@ -373,10 +379,11 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
       </div>
       <div class="search-wrap">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input type="text" id="searchInput" placeholder="메모 검색..." autocomplete="off">
+        <label for="searchInput" class="sr-only">메모 검색</label>
+        <input type="text" id="searchInput" placeholder="메모 검색..." aria-label="메모 검색" autocomplete="off">
       </div>
-      <button class="new-memo-btn" id="newMemoBtn">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+      <button class="new-memo-btn" id="newMemoBtn" aria-label="새 메모 만들기">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
         새 메모
       </button>
     </div>
@@ -404,7 +411,8 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
 
     <div class="editor-container" id="editorContainer" style="display:none">
       <div class="editor-toolbar">
-        <input type="text" class="editor-title-input" id="editorTitle" placeholder="제목 없음" autocomplete="off">
+        <label for="editorTitle" class="sr-only">메모 제목</label>
+        <input type="text" class="editor-title-input" id="editorTitle" placeholder="제목 없음" aria-label="메모 제목" autocomplete="off">
         <div class="editor-toolbar-right">
           <span class="char-count" id="charCount">0자</span>
           <span class="save-status" id="saveStatus"></span>
@@ -419,7 +427,8 @@ input,textarea{font-family:inherit;outline:none;border:none;background:none;colo
         </div>
       </div>
       <div class="editor-body split" id="editorBody">
-        <textarea class="editor-textarea" id="editorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." spellcheck="false"></textarea>
+        <label for="editorTextarea" class="sr-only">메모 본문 (Markdown)</label>
+        <textarea class="editor-textarea" id="editorTextarea" placeholder="# 내용을 입력하세요&#10;&#10;Markdown을 지원합니다." aria-label="메모 본문 입력 (Markdown 지원)" spellcheck="false"></textarea>
         <div class="editor-preview" id="editorPreview"></div>
       </div>
       <div class="last-edited" id="lastEdited"></div>
@@ -913,6 +922,7 @@ function startSyncTimer(){
 
 // --- Init ---
 async function init(){
+  loadingOverlay.showModal();
   loadingOverlay.classList.remove('hidden');
   tokenLoad();
   const local=localLoad();
@@ -938,6 +948,7 @@ async function init(){
   else showEditor(false);
   startSyncTimer();
   loadingOverlay.classList.add('hidden');
+  setTimeout(() => loadingOverlay.close(), 400);
 }
 
 // --- Event Listeners ---
