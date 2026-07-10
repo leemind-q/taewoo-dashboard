@@ -2,45 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "오픈AI, GPT-5.6 일반에 공개...\"미국 정부와 논의해 대폭 변경\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002377473",
+        "title": "KT클라우드, 여의도 데이터센터 증설",
+        "link": "https://n.news.naver.com/mnews/article/018/0006326903",
         "source": "네이버 뉴스"
       },
       {
-        "title": "문체부, 매출 1조 이상 해외 게임사 국내대리인과 첫 간담회",
-        "link": "https://n.news.naver.com/mnews/article/003/0014058376",
+        "title": "30년 만에 노조 만든 신세계아이앤씨...대기업 SI ‘노조 바람’ 거세진다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705754",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT클라우드, 금융특화 여의도 DC 증설…내년 6월 준공 목표",
-        "link": "https://n.news.naver.com/mnews/article/003/0014059386",
+        "title": "정부, 해외 한인 기술인재 20개팀 국내 복귀 지원",
+        "link": "https://n.news.naver.com/mnews/article/421/0009052506",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신세계 I&C에 노조 첫 설립 \"고용안정과 공정한 보상 체계 마련\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546512",
+        "title": "경북교육청, 행정심판 국선대리인 지원 대상 구체화",
+        "link": "https://n.news.naver.com/mnews/article/421/0009051873",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 해외 한인 AI·첨단기술 인재 20개 팀 국내 복귀 지원",
-        "link": "https://n.news.naver.com/mnews/article/055/0001371448",
+        "title": "오픈AI, 챗GPT 워크 선보여…\"질답 AI 넘어 업무 파트너로\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009052073",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "中, 헬륨 수출 돌연 금지…‘반도체 핵심 소재’ 공급 불안 가중 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nN1kwcjA4SUhpdmRYajk1Yy1GQ3JBZHRmM2JCcGxkV1Zxbnk1a3FoZzEzbmlkaTVKaktQZ2xBVEhzTkJKSy1UYy0xZ1pSNkk?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "중국, 이번엔 ‘헬륨’ 막았다... 반도체 핵심소재 수출 금지 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtlbVYzM0xVQ29vLWxxaGlGcWNjTVZjZ3lVZmoyUWhXNWdpMGJjNFR3d2tnLXd2LWZqVmczRHNnamNPcEYzWHpMNmROallDelBFSGdnc1RHeEkzZmhmSWd1VWNmVVFxNTh0YTlKTmRGUEVreFpoZ3BEV0stZFgyT2xOQTVISnpGa21QRVM3cFJ0U1d4T2tjYkV5WkF4dw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중국, 반도체 생산 핵심 소재 '헬륨' 수출 금지…\"즉시 시행\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YmVWQ0xxNkpfaWl3WjNnZ0JMcDlLUVRfOXRnODFPNFhJQnIwVURvejg1RldDaG5KdGFYRXhmZ1l6TzJ5a1hnVTZOLUFrS1dwbGFITE1VSlMxb2vSAWBBVV95cUxQak1rQmIzSDR0WUFJaC1PSURkTGZTZVhIT0hfWUNLVTVHRXd2bWV5WG9HSUFWU0VETkxQeE90c1F6MXNiZnN5OE1lVGhWVHRLTG9aY0N3U2duRTg4cmxCU00?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "中, 헬륨 수출 돌연 금지…‘반도체 핵심 소재’ 공급 불안 가중 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nN1kwcjA4SUhpdmRYajk1Yy1GQ3JBZHRmM2JCcGxkV1Zxbnk1a3FoZzEzbmlkaTVKaktQZ2xBVEhzTkJKSy1UYy0xZ1pSNkk?oc=5",
+        "title": "[속보]중국, 반도체 생산 핵심 소재 ‘헬륨’ 수출 일시 금지···“후속조치 발표 예정” - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRkZhdzN5Yk13LVc2QldFa3BycXJKaUVsenBKQzFhM0s4U3NXT1RzcWx1UkZMQnF4N3M2WG9aVzJ1ZDFBWkZJaDgxSk81TWZqSHdKUXJieVVoUdIBX0FVX3lxTE9QeFYwejIwUVA5ek5qVGJBMVJaT3V6SzNwbmpiejRIRTZVMlF3VEdzcnpuVG9rRzU3OFdIRUdTbXdMVkZyMzQ1VnEyN0NOblpQVm5lNS15WnBEb2RjUjJJ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "알파앤오메가 반도체, 조슈아 치엔 독립이사 선임 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92aURja3NHTHM0MGdYREIxVncwYU1zTFk0cVZWMGl4Q0JJX045VWMzSUJZU0x5RUd1RlZPWWRXdnRiXzRQNEZMbTBlbEFtYXZNd3c?oc=5",
+        "title": "무안 “군공항 이전 협력하겠다”…19년 난제 뚫은 ‘광주 반도체’ - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdEZaYlFjbzV3cl9hWWNrY2NwMy1heE14V1BWMzdHSDZDaGczVE9ydUYxSkJZOU9nSkdPY3ZZUGF4VkpObE5KRTBvSzhyY2IzN3RfWnZB?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,11 @@
       {
         "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Cb21TZWpxeDB3Rko3Wi0wTHlRZU9MOHQwVjJwZjNhXzdnYUlJMmlFeXZpaEZ3NWZhdmNlTl8tTnFDX2tkX1ZWNDhMalFkazhkOVo1UHBwRTczQ0XSAWBBVV95cUxPUTVQMF9xd3Bqa255NVU4NG9pV0djZDBGa0FWNktBcmY5Rm5qS0JkYXNUam1EOHlkbXBqbWNpTDRLMDVMWWN5R0MyckpCZ3RhV1RPVzRMQXY4dk45NUlheGI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI 프리즘] 인공지능이 교실로…전문가 \"비판적 사고 교육 더 중요해져\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY0t5dk9NTjh5Mm4zTk82NE9lYU95QU1qR2V2SS0ycDBTYjVzSXBtbFVsOS12Y2M3NmpqMVJ2LUdsSkdueG9rVGJhWEIxcTlmOWpvNVZFeXE4WmhBQ05DRVF1MzJQeW1fR2RrY2MwbEU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,11 +76,6 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "2026 스마트농업 인공지능(AI) 경진대회 개막 - 농수축산신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTFFnOHJ1QUgyYnpKZXlPc0tkT0c4TlNkVWVNYTdMc0RLc2dRZE9TODlyVEtzTUF6cUhUeU16LWF1SDBacEVlM0hiNlFiWlg0aDVBM0l0UUJfaWxidWh2RmFSNXVwQ3h4M1dTUw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "[농진청] 인공지능(AI) 기반 스마트팜·수확 후 관리 고도화 - 월간친환경",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OSHhTX2J6dkRoaFBoblVsSENLclBSMEtrbHZaXzJZd2tucWo2RlQ2TlhiRW8yN29NZGltXzQzUk52YjVpVmpOYUNoWGdJd2NKcnVnb2xCSS12TEZXNGpvdG8wVXE5VzlJSGNtT0dGZWg2Zw?oc=5",
         "source": "구글 뉴스"
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "특검, ‘채해병 수사 비밀누설’ 이시원 前비서관 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/016/0002668791",
+        "title": "경찰청장 대행 \"광주 여고생 유족에 깊이 사죄…책임자 최대 엄벌\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371361",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한학자 \"돈으로 권력 탐하지 않아\" 혐의 부인…檢, 총 징역 13년 구형(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0009053119",
+        "title": "‘장윤기 사건’ 광주광산서…2년전엔 ‘불법 증거’ 인권위 지적",
+        "link": "https://n.news.naver.com/mnews/article/025/0003536802",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'서강대교 대기 지시' 조성현 대령, 특검에 피의자 신분 출석…\"당황스럽다\"",
-        "link": "https://n.news.naver.com/mnews/article/586/0000133510",
+        "title": "“무섭노” ‘일베 논쟁’에 거제시까지 불똥…“입장 내달라” 민원 접수",
+        "link": "https://n.news.naver.com/mnews/article/081/0003660259",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김성태 '제3자 뇌물' 2심서 공소기각 파기…\"이중기소 아냐\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000883904",
+        "title": "변협 \"장윤기 사건 실체 묻힐 뻔...보완수사권 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002377813",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 경찰청장 대행 “장윤기사건 유족에 깊이 사죄…관계자 최대한 엄벌”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003536701",
+        "title": "조희대, 신임 법원행정처장에 노경필 대법관 임명",
+        "link": "https://n.news.naver.com/mnews/article/088/0001018498",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-10 20:50"
+  "updated": "2026-07-10 22:06"
 }
