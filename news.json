@@ -2,62 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "휴대폰 300만원시대?…아이폰18, 부품 원가만 45만원 오른다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000941520",
+        "title": "kt cloud, 금융 특화 여의도 데이터센터 증설",
+        "link": "https://n.news.naver.com/mnews/article/016/0002668619",
         "source": "네이버 뉴스"
       },
       {
-        "title": "메타, 자체 AI칩 9월 양산…첫 유료 AI 모델도 출시",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860223",
+        "title": "'협력사 한 곳 뚫리면 끝'…KISA, 공급망 보안 모델 공유",
+        "link": "https://n.news.naver.com/mnews/article/001/0016187505",
         "source": "네이버 뉴스"
       },
       {
-        "title": "무역안보, 산업안보로 재편…수출통제 피해 기업에 바우처 지원",
-        "link": "https://n.news.naver.com/mnews/article/030/0003446153",
+        "title": "신세계아이앤씨 첫 노조 출범 \"고용안정·공정보상\" 요구",
+        "link": "https://n.news.naver.com/mnews/article/003/0014059226",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT클라우드, 여의도 DC 증설…\"금융 인프라 허브 도약\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005788290",
+        "title": "\"클로드 나와\" 오픈AI, 비개발자용 에이전트 '챗GPT 워크' 출시",
+        "link": "https://n.news.naver.com/mnews/article/421/0009051886",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 갤럭시Z8 시리즈 렌더링 유출…스펙 보니 [1일IT템]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546335",
+        "title": "\"지원 방식 다양화 필요\"…콘진원, 게임산업 간담회",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788102",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "미 상무장관, \"삼성·하이닉스 美 내 반도체 팹 확대해라\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmR4X19xY2taTEs5ay11c0dxa2tTUHRzd3NtMG5hQlZQTWJIQXRGc09CWngybVduZVJVRWNOdDlhb1V3bWVFbkYxcUFKZ3lCWm5LSjF6dWJ3N2gtSjhsaTZqcko2SzM5Zk00WFZIVnZwR3hZV2ZfMEVrbVRVMV9IMUNHQQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "반도체 끝물? 줍줍 기회?…월가마저 헷갈린다 - 중앙일보",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZGtGcmR6UmtoZm1EVXQ2NDRqYlNpbTRXSDFEWElTem5ESmptLS01czV2bWdiWldiZnk5YmV1OV82YVIwcnFYVlJTUk5uY3ZfQ3FwWklR?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"메타, 9월부터 AI칩 생산…삼성전자와 메모리 반도체 장기 계약도\" - KB Think",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMlBrejNRUzd1Mk9IMzlwbzVXRmpMeVFoUVF0REU5c2hGNFgzUU9FcHJXQldYZE96b1B2a3REcDNyUGh3WWhkWEhxLTVmMVgxdm02blZhMWQzcWFsNlotNnJZQmZSc0pXNWFmM010SWFuUQ?oc=5",
+        "title": "\"고점인 줄 알았는데 아니었나\"…들썩이는 반도체株 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XbV9nTmpxaUxuT3FaR0RLQ3d2Q3k3a19qOHR6c2d3UVpYR2V1SFpvLXFTUEpxaEduOVh4eVdjN0hURTkyX3RzR0FUSEc4ams?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "KB운용 ‘RISE 차이나AI반도체TOP4Plus ETF’, 3개월 수익률 75% - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lbjFydjFmU1MxbkFCYUJJckNDRzV1Vk11TERqeDlYMjltNEZVeVlFMjVOaUwzRVRpckE1a09EN1ZnR1ZyNldOTDNDS3lsMzBObHYwYy04Zjk1ajRjNURaUHRUUVRfV0VXMkM1OTFjaVRLSVU?oc=5",
+        "title": "중국, 반도체 생산 핵심 소재 '헬륨' 수출 금지…\"즉시 시행\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YmVWQ0xxNkpfaWl3WjNnZ0JMcDlLUVRfOXRnODFPNFhJQnIwVURvejg1RldDaG5KdGFYRXhmZ1l6TzJ5a1hnVTZOLUFrS1dwbGFITE1VSlMxb2vSAWBBVV95cUxQak1rQmIzSDR0WUFJaC1PSURkTGZTZVhIT0hfWUNLVTVHRXd2bWV5WG9HSUFWU0VETkxQeE90c1F6MXNiZnN5OE1lVGhWVHRLTG9aY0N3U2duRTg4cmxCU00?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "KB운용, 'RISE 차이나AI반도체TOP4Plus ETF' 주목…\"중국 AI 반도체 투자 기회\" - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13eFROYlI5YWw1dGwtcGtPREpVdnVGMjNiNllLTzB6ZXZqVFlIb1pfcS10emRBWXZyNl9NTFJmeDNEZ3VESmlaQXdRQnZvZFdNUHdRMw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "KB자산운용, 中 반도체 밸류체인 투자 '차이나AI반도체TOP4Plus' 주목 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83a0xFbDI5c0FUb3BuZVlxdEdOXzN3cWt1ZWg3UE1hbDZrQ0N0cFdLUUhNOUk3QXNFX1BvMWRyYmRyejk1Rkk3QTRNUThIZGlJc2dEcHRWUXBpMFdZ?oc=5",
+        "title": "[1보] 반도체클러스터 광주 군공항 인근 토지거래허가구역 지정 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcC0xejJDNjZuZFBGX09mODNuTVdXVDRPU0xnOS1tT2tiY3BueG16b1pVS3A2My16VzQyNm9ZUWYxNk41WTh2S3VpWVlvYUc4NWNOMVVfMDFvbDjSAWBBVV95cUxQTzgyQ29HdWlfTlRGYi0xenpYbVA4NHMwbVE3bElrRVBtcUJxVWtVbnYtRDZOaHJWNTJNcTNZWmFKMGdUNE9oYXd2U3gxQWk2ckh2UU1oNi1QTmtrZERCR2c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "韓총리, 총리실 직원들과 AI 열공…\"선택아닌 공직 기본 역량\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xdnczeHNiZnkxRVBveGpCSzVzZElEdnRnOEpTUk5wa0NxeFgtLXFQdUpXaEhzRENEMlZ3WWhGUUhEb2xxZlFaNmlYMzhJUjg0cS1RLWhlTHc3a2pzWjI2eNIBYEFVX3lxTE5xdnczeHNiZnkxRVBveGpCSzVzZElEdnRnOEpTUk5wa0NxeFgtLXFQdUpXaEhzRENEMlZ3WWhGUUhEb2xxZlFaNmlYMzhJUjg0cS1RLWhlTHc3a2pzWjI2eA?oc=5",
+        "title": "인공지능이 인간보다 모든 걸 더 잘한다면...인간이 고민할 문제는[BOOK] - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZWpGclgzOEF5REJPVm92eHAwTTljYlFjUW5lUlUwZmtlWDJjRVZjM0RVbWRwSW44WTJ3eTJOWFNIQ0hzdHB6aEhjemtGVFk3d2plamN3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "수원특례시, 전국 최초로 인공지능(AI) 활용해 문화유산 안전관리한다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LYlF0LVVFVkdLb1ZXNl9pODFfS0tCR1ZyMmtDMGxfa01qaEd3dXg3MC1YTE1zWXp2LS1zVGZ3WnlaYnlRRjVaaWUzVlFMeHNHX3FnT3gyTzZ0YmM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[농진청] 인공지능(AI) 기반 스마트팜·수확 후 관리 고도화 - 월간친환경",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OSHhTX2J6dkRoaFBoblVsSENLclBSMEtrbHZaXzJZd2tucWo2RlQ2TlhiRW8yN29NZGltXzQzUk52YjVpVmpOYUNoWGdJd2NKcnVnb2xCSS12TEZXNGpvdG8wVXE5VzlJSGNtT0dGZWg2Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "오케스트로 인공지능연구소, 과기정통부 ‘2026년 우수 기업부설연구소’ 지정 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYzF6cDQta1pkYnREU2RYT3lnS0JHSnpHY1lneUhhSURJczJGaUhXckVGM1J4ZG1MTmhGeTcxWnY3cmtfcGZJUHBZZWV1bHFaWlFqV3o3ZjZXUC1SMVJTb2J3RUNrZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 권고 따랐다가 투자 실패하면 보상은 어디서? - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEhTc3RlZ0YwN0ltSXMwY1k3X2N4ekNnMWpfeVg4QjducmZDWHlLRFJoZVAwZHdCaEI4cnQzQlhsdlprQ2dKalNzYnlmdk9VZWZsSTk1QWltSGtoUldjQXhva2J4aU42WTJOUFFraXBqMldzWDdJUWdnM1dOdVJhalJZOW5MTWw4d2wxY1V3?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“AI는 숙련기술의 끝 아닌 새로운 시작” [인공지능 시대, 명장의 기로②] - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9paWgxTzNTWUl1LW5GamxKemJ2SHhjVDZ5a1ZFNVNnQWlPSWI1WnNXdjZWOVJzVktSNU9wZ3lta0RyczZ2ckFPQVVPdDUzOFg1bnJRcm9LX2E3NTQ?oc=5",
+        "title": "2026 스마트농업 인공지능(AI) 경진대회 개막 - 농수축산신문",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTFFnOHJ1QUgyYnpKZXlPc0tkT0c4TlNkVWVNYTdMc0RLc2dRZE9TODlyVEtzTUF6cUhUeU16LWF1SDBacEVlM0hiNlFiWlg0aDVBM0l0UUJfaWxidWh2RmFSNXVwQ3h4M1dTUw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "현대차 대표이사 “해고자 복직·정년연장 요구 파업에 유감”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003986879",
+        "title": "산림청, 더욱더 스마트한 ‘산사태 대응체계’ 마련",
+        "link": "https://n.news.naver.com/mnews/article/016/0002668225",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"지방소멸 대응 핵심, 교육\"…조용식 울산교육감, 교육교부금 축소 비판",
-        "link": "https://n.news.naver.com/mnews/article/079/0004166818",
+        "title": "대법, 김건희 ‘주가조작·통일교 금품’ 16일 선고…권성동도 결론",
+        "link": "https://n.news.naver.com/mnews/article/056/0012215790",
         "source": "네이버 뉴스"
       },
       {
-        "title": "유재성 경찰청장 대행 “장윤기 사건, 국민 여러분께 송구”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003986845",
+        "title": "민형배, 국립의대 갈등 '최후통첩'…\"13일까지 합의 안되면 손 뗀다\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005787966",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“국회의원이 성매매·살인”…허위사실 유포 50대 女 구속 송치",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860203",
+        "title": "법원, 'TBS 서울시 출연기관 지정 해제 취소 소송' 각하",
+        "link": "https://n.news.naver.com/mnews/article/052/0002377699",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경총, CJ대한통운 '원청 교섭 의무 없음' 판결에 \"노란봉투법 보완 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014059011",
+        "title": "마약 정보원에 수사 정보 유출…광진서 소속 경찰관 직위해제",
+        "link": "https://n.news.naver.com/mnews/article/586/0000133533",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-10 05:37"
+  "updated": "2026-07-10 09:40"
 }
