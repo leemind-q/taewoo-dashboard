@@ -1,0 +1,71 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # 1시간마다 실행 (KST 기준, GitHub Actions GITHUB_TOKEN 1000/h 한도 내)
+    - cron: '0 * * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  update-gh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitHub stats via gh CLI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          USER=leemind-q
+
+          # User profile
+          gh api "users/$USER" --jq '{
+            public_repos: .public_repos,
+            followers: .followers,
+            public_gists: .public_gists,
+            total_private_repos: .total_private_repos,
+            fetched_at: now | strftime("%Y-%m-%dT%H:%M:%SZ")
+          }' > data/_user.json
+
+          # Top 4 repos by updated
+          gh api "users/$USER/repos?sort=updated&per_page=4" --jq '[.[] | {name: .name, updated_at: .updated_at}]' > data/_repos.json
+
+          # Recent public events (PushEvent only, last 3)
+          gh api "users/$USER/events/public?per_page=30" --jq '[.[] | select(.type=="PushEvent")] | .[0:3] | [.[] | {
+            repo: .repo.name | split("/") | .[1],
+            msg:  (.payload.commits[0].message | split("\n")[0] // "(no message)"),
+            date: .created_at
+          }]' > data/_commits.json
+
+          # Combine into single stats.json
+          python3 -c "
+          import json, datetime
+          user    = json.load(open('data/_user.json'))
+          repos   = json.load(open('data/_repos.json'))
+          commits = json.load(open('data/_commits.json'))
+          stats = {
+            'user': user,
+            'repos': repos,
+            'commits': commits,
+            'updated_at': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+          }
+          with open('data/gh-stats.json', 'w') as f:
+            json.dump(stats, f, indent=2, ensure_ascii=False)
+          print('Stats updated at', stats['updated_at'])
+          print('Repos:', user['public_repos'], '| Commits:', len(commits))
+          "
+
+          # Clean up temp files
+          rm -f data/_user.json data/_repos.json data/_commits.json
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/gh-stats.json
+          git diff --staged --quiet || git commit -m "gh-stats: auto-update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

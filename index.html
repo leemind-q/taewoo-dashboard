@@ -1846,8 +1846,9 @@ function toggleRest() {
 }
 
 /* ── GitHub (4 metrics + recent activity)
-   Graceful fallback — when rate-limited (403) or down, show last successful data.
-   Persists last good data to localStorage so reload recovers from rate-limit cleanly. */
+   Reads pre-computed stats from data/gh-stats.json (updated every 1h by GitHub Actions).
+   This bypasses the 60/h unauthenticated rate limit entirely. */
+const GH_STATS_URL = './data/gh-stats.json';
 const GH_KEY = 'mc-github-cache';
 const githubCtx = { data: null, updatedAt: 0, rateLimited: false };
 
@@ -1862,44 +1863,20 @@ try {
 
 async function loadGitHub() {
   const el = document.getElementById('githubContent');
-  const fetchOnce = async () => {
-    const [userRes, reposRes, eventsRes] = await Promise.all([
-      fetch('https://api.github.com/users/leemind-q', { cache: 'no-store' }),
-      fetch('https://api.github.com/users/leemind-q/repos?sort=updated&per_page=4', { cache: 'no-store' }),
-      fetch('https://api.github.com/users/leemind-q/events/public?per_page=10', { cache: 'no-store' }),
-    ]);
-    return [userRes, reposRes, eventsRes];
-  };
   try {
-    let [userRes, reposRes, eventsRes] = await fetchOnce();
-    // Rate-limit / auth: one retry after 2s (transient)
-    if (userRes.status === 403 || reposRes.status === 403 || eventsRes.status === 403) {
-      await new Promise(r => setTimeout(r, 2000));
-      [userRes, reposRes, eventsRes] = await fetchOnce();
-    }
-    // Still rate-limited → graceful fallback
-    if (userRes.status === 403 || reposRes.status === 403 || eventsRes.status === 403
-        || userRes.status === 401 || reposRes.status === 401 || eventsRes.status === 401) {
-      throw new Error('rate-limited');
-    }
-    if (!userRes.ok || !reposRes.ok) throw new Error('gh ' + userRes.status);
-    const user  = await userRes.json();
-    const repos = await reposRes.json();
-    const events = eventsRes.ok ? await eventsRes.json() : [];
+    const res = await fetch(GH_STATS_URL + '?_=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('gh-stats ' + res.status);
+    const stats = await res.json();
 
-    // Recent activity (last 3 commits only)
-    const recentCommits = (events || [])
-      .filter(ev => ev.type === 'PushEvent')
-      .slice(0, 3)
-      .map(ev => ({
-        repo: ev.repo.name.replace('leemind-q/', ''),
-        msg:  ev.payload.commits?.[0]?.message?.split('\n')[0] || '(no message)',
-        date: ev.created_at,
-      }));
+    const user    = stats.user    || {};
+    const repos   = stats.repos   || [];
+    const commits = stats.commits || [];
+    const statUpdated = stats.updated_at || '';
 
     const relTime = (iso) => {
+      if (!iso) return '—';
       const d = new Date(iso);
-      const diff = Math.floor((Date.now() - d) / 3600000);
+      const diff = Math.floor((Date.now() - d.getTime()) / 3600000);
       if (diff < 1)   return '방금';
       if (diff < 24)  return diff + '시간 전';
       if (diff < 168) return Math.floor(diff/24) + '일 전';
@@ -1907,41 +1884,39 @@ async function loadGitHub() {
     };
 
     const html = `<div class="github-grid">
-        <div class="github-stat"><div class="github-stat-value">${user.public_repos}</div><div class="github-stat-label">Repos</div></div>
-        <div class="github-stat"><div class="github-stat-value">${user.followers}</div><div class="github-stat-label">Followers</div></div>
-        <div class="github-stat"><div class="github-stat-value">${user.public_gists||0}</div><div class="github-stat-label">Gists</div></div>
-        <div class="github-stat"><div class="github-stat-value">${user.total_private_repos||0}</div><div class="github-stat-label">Private</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.public_repos ?? 0}</div><div class="github-stat-label">Repos</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.followers ?? 0}</div><div class="github-stat-label">Followers</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.public_gists ?? 0}</div><div class="github-stat-label">Gists</div></div>
+        <div class="github-stat"><div class="github-stat-value">${user.total_private_repos ?? 0}</div><div class="github-stat-label">Private</div></div>
       </div>
-      <div class="github-repos">${repos.slice(0,4).map(r => `<div class="github-repo"><span class="github-repo-dot"></span>${esc(r.name)}</div>`).join('')}</div>
-      ${recentCommits.length ? `<div class="github-activity">
+      <div class="github-repos">${repos.slice(0, 4).map(r => `<div class="github-repo"><span class="github-repo-dot"></span>${esc(r.name)}</div>`).join('')}</div>
+      ${commits.length ? `<div class="github-activity">
         <div class="github-activity-label">RECENT ACTIVITY</div>
-        ${recentCommits.map(c => `<a class="github-commit" href="https://github.com/${esc(c.repo)}" target="_blank" rel="noopener">
+        ${commits.slice(0, 3).map(c => `<a class="github-commit" href="https://github.com/${esc(c.repo)}" target="_blank" rel="noopener">
           <div class="github-commit-repo">${esc(c.repo)}</div>
-          <div class="github-commit-msg">${esc(c.msg.slice(0, 60))}${c.msg.length > 60 ? '…' : ''}</div>
+          <div class="github-commit-msg">${esc((c.msg || '').slice(0, 60))}${(c.msg || '').length > 60 ? '…' : ''}</div>
           <div class="github-commit-time">${relTime(c.date)}</div>
         </a>`).join('')}
-      </div>` : ''}`;
+      </div>` : ''}
+      <div style="font-size:10px;color:var(--text-quat);margin-top:10px;text-align:right;opacity:0.5">⏱ GitHub Actions · ${relTime(statUpdated)}</div>`;
 
-    // Save for fallback (in-memory + localStorage so reload recovers from rate-limit)
+    // Save for fallback
     githubCtx.data = { html };
     githubCtx.updatedAt = Date.now();
     githubCtx.rateLimited = false;
     try { localStorage.setItem(GH_KEY, JSON.stringify({ html, updatedAt: githubCtx.updatedAt })); } catch (e) {}
     el.innerHTML = html;
   } catch(e) {
-    // Graceful fallback — show last successful HTML (within 24h) with disclaimer.
-    // Distinguish "rate limited" (transient, retry next refresh) from "never loaded" (genuine error).
+    // Graceful fallback — show last successful HTML with disclaimer
     const fb = githubCtx.data;
     if (fb) {
       el.innerHTML = fb.html
-        + `<div style="font-size:11px;color:var(--text-quat);margin-top:14px;text-align:right">⚠ GitHub API rate limit — 마지막 데이터 표시 중 (${elapsedSince(githubCtx.updatedAt)})</div>`;
-      githubCtx.rateLimited = true;
+        + `<div style="font-size:11px;color:var(--text-quat);margin-top:14px;text-align:right">⚠ gh-stats.json 일시 장애 — 마지막 데이터 표시 중 (${elapsedSince(githubCtx.updatedAt)})</div>`;
     } else {
-      // First-load failure: show neutral empty state, retry on next refresh
       el.innerHTML = `<div style="color:var(--text-tertiary);font-size:13px;padding:24px 0;text-align:center">
         <div style="font-size:32px;margin-bottom:8px;opacity:0.4">⌛</div>
         <div>GitHub 데이터를 불러오는 중…</div>
-        <div style="font-size:11px;margin-top:6px;opacity:0.6">rate limit 또는 일시 장애 — 새로고침 시 재시도</div>
+        <div style="font-size:11px;margin-top:6px;opacity:0.6">GitHub Actions cron이 1시간마다 stats 갱신 — 새로고침 시 재시도</div>
       </div>`;
     }
   }

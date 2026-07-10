@@ -1,0 +1,44 @@
+{
+  "user": {
+    "followers": 0,
+    "public_gists": 0,
+    "public_repos": 4,
+    "total_private_repos": 0
+  },
+  "repos": [
+    {
+      "name": "taewoo-dashboard",
+      "updated_at": "2026-07-09T23:52:02Z"
+    },
+    {
+      "name": "dungeon-crusader",
+      "updated_at": "2026-06-21T13:25:56Z"
+    },
+    {
+      "name": "babylog1",
+      "updated_at": "2026-05-21T15:29:28Z"
+    },
+    {
+      "name": "babylog",
+      "updated_at": "2026-05-21T14:35:59Z"
+    }
+  ],
+  "commits": [
+    {
+      "repo": "taewoo-dashboard",
+      "msg": "(no message)",
+      "date": "2026-07-09T23:51:59Z"
+    },
+    {
+      "repo": "taewoo-dashboard",
+      "msg": "(no message)",
+      "date": "2026-07-09T23:50:28Z"
+    },
+    {
+      "repo": "taewoo-dashboard",
+      "msg": "(no message)",
+      "date": "2026-07-09T23:48:54Z"
+    }
+  ],
+  "updated_at": "2026-07-10T00:02:06Z"
+}
