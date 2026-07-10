@@ -2,8 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "KT클라우드, 여의도 데이터센터 증설",
-        "link": "https://n.news.naver.com/mnews/article/018/0006326903",
+        "title": "아이폰18 프로 맥스, 부품 값만 300달러↑…AI 때문에 또 오르나",
+        "link": "https://n.news.naver.com/mnews/article/022/0004142061",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "클로드 독주 막아라…기업용 AI 시장 잡기 나선 오픈AI·메타",
+        "link": "https://n.news.naver.com/mnews/article/025/0003536755",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "과기정통부, 해외 한인 기술인재 20개팀 국내 유치 추진",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384317",
         "source": "네이버 뉴스"
       },
       {
@@ -12,35 +22,25 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 해외 한인 기술인재 20개팀 국내 복귀 지원",
-        "link": "https://n.news.naver.com/mnews/article/421/0009052506",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "경북교육청, 행정심판 국선대리인 지원 대상 구체화",
-        "link": "https://n.news.naver.com/mnews/article/421/0009051873",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "오픈AI, 챗GPT 워크 선보여…\"질답 AI 넘어 업무 파트너로\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009052073",
+        "title": "SK하이닉스, 나스닥 상장 첫날 13% 상승…168달러 마감",
+        "link": "https://n.news.naver.com/mnews/article/092/0002430130",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "中, 헬륨 수출 돌연 금지…‘반도체 핵심 소재’ 공급 불안 가중 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nN1kwcjA4SUhpdmRYajk1Yy1GQ3JBZHRmM2JCcGxkV1Zxbnk1a3FoZzEzbmlkaTVKaktQZ2xBVEhzTkJKSy1UYy0xZ1pSNkk?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "중국, 이번엔 ‘헬륨’ 막았다... 반도체 핵심소재 수출 금지 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtlbVYzM0xVQ29vLWxxaGlGcWNjTVZjZ3lVZmoyUWhXNWdpMGJjNFR3d2tnLXd2LWZqVmczRHNnamNPcEYzWHpMNmROallDelBFSGdnc1RHeEkzZmhmSWd1VWNmVVFxNTh0YTlKTmRGUEVreFpoZ3BEV0stZFgyT2xOQTVISnpGa21QRVM3cFJ0U1d4T2tjYkV5WkF4dw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[속보]중국, 반도체 생산 핵심 소재 ‘헬륨’ 수출 일시 금지···“후속조치 발표 예정” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRkZhdzN5Yk13LVc2QldFa3BycXJKaUVsenBKQzFhM0s4U3NXT1RzcWx1UkZMQnF4N3M2WG9aVzJ1ZDFBWkZJaDgxSk81TWZqSHdKUXJieVVoUdIBX0FVX3lxTE9QeFYwejIwUVA5ek5qVGJBMVJaT3V6SzNwbmpiejRIRTZVMlF3VEdzcnpuVG9rRzU3OFdIRUdTbXdMVkZyMzQ1VnEyN0NOblpQVm5lNS15WnBEb2RjUjJJ?oc=5",
+        "title": "중국, 반도체 생산 핵심 소재 '헬륨' 수출 금지…\"즉시 시행\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YmVWQ0xxNkpfaWl3WjNnZ0JMcDlLUVRfOXRnODFPNFhJQnIwVURvejg1RldDaG5KdGFYRXhmZ1l6TzJ5a1hnVTZOLUFrS1dwbGFITE1VSlMxb2vSAWBBVV95cUxQak1rQmIzSDR0WUFJaC1PSURkTGZTZVhIT0hfWUNLVTVHRXd2bWV5WG9HSUFWU0VETkxQeE90c1F6MXNiZnN5OE1lVGhWVHRLTG9aY0N3U2duRTg4cmxCU00?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "中, 헬륨 수출 돌연 금지…‘반도체 핵심 소재’ 공급 불안 가중 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nN1kwcjA4SUhpdmRYajk1Yy1GQ3JBZHRmM2JCcGxkV1Zxbnk1a3FoZzEzbmlkaTVKaktQZ2xBVEhzTkJKSy1UYy0xZ1pSNkk?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,20 +49,20 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "무안 “군공항 이전 협력하겠다”…19년 난제 뚫은 ‘광주 반도체’ - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdEZaYlFjbzV3cl9hWWNrY2NwMy1heE14V1BWMzdHSDZDaGczVE9ydUYxSkJZOU9nSkdPY3ZZUGF4VkpObE5KRTBvSzhyY2IzN3RfWnZB?oc=5",
+        "title": "[르포] 백화점 아래 반도체 요람…카이스트 사이언스 허브 4주년 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dGs1RzQwcnR1MmREakstLXdGckd5S3dnd1VIRGpDcml3ZzIxWFBzTy0tRFo1a2lZSnRrbDhxSHRRS0NFc3hTSENuYl8tM1JjNnlSdWI5bTB1VWfSAWBBVV95cUxPRVZQSEVpaVBlcG5IbTZyVEc4MzBqdnd6Q253bmVWZWo4WDdaaHNBMEFYb1ZDQkQ3MU05eU1FWG9RaUhzUHBrdGlRcFVlcllucVQ0a210b0dRclg1VU5NcmY?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Cb21TZWpxeDB3Rko3Wi0wTHlRZU9MOHQwVjJwZjNhXzdnYUlJMmlFeXZpaEZ3NWZhdmNlTl8tTnFDX2tkX1ZWNDhMalFkazhkOVo1UHBwRTczQ0XSAWBBVV95cUxPUTVQMF9xd3Bqa255NVU4NG9pV0djZDBGa0FWNktBcmY5Rm5qS0JkYXNUam1EOHlkbXBqbWNpTDRLMDVMWWN5R0MyckpCZ3RhV1RPVzRMQXY4dk45NUlheGI?oc=5",
+        "title": "[AI 프리즘] 인공지능이 교실로…전문가 \"비판적 사고 교육 더 중요해져\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0TUxlVGdMcDJ4X1h2UFYzR3JlLU1nWm8tazNHcFJaX2FKVGF4WkpZZ0ZDcXBqQ3NtaXFZbnM4emphdGJ0Y1gtWUJqdnNuNXBtMEZvUXhFUUkwbFBta1Z4ai1ydm1BX1dmRmNDWExTQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI 프리즘] 인공지능이 교실로…전문가 \"비판적 사고 교육 더 중요해져\" - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY0t5dk9NTjh5Mm4zTk82NE9lYU95QU1qR2V2SS0ycDBTYjVzSXBtbFVsOS12Y2M3NmpqMVJ2LUdsSkdueG9rVGJhWEIxcTlmOWpvNVZFeXE4WmhBQ05DRVF1MzJQeW1fR2RrY2MwbEU?oc=5",
+        "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Cb21TZWpxeDB3Rko3Wi0wTHlRZU9MOHQwVjJwZjNhXzdnYUlJMmlFeXZpaEZ3NWZhdmNlTl8tTnFDX2tkX1ZWNDhMalFkazhkOVo1UHBwRTczQ0XSAWBBVV95cUxPUTVQMF9xd3Bqa255NVU4NG9pV0djZDBGa0FWNktBcmY5Rm5qS0JkYXNUam1EOHlkbXBqbWNpTDRLMDVMWWN5R0MyckpCZ3RhV1RPVzRMQXY4dk45NUlheGI?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "경찰청장 대행 \"광주 여고생 유족에 깊이 사죄…책임자 최대 엄벌\"",
-        "link": "https://n.news.naver.com/mnews/article/055/0001371361",
+        "title": "서소문로 통행 재개... 8월부터 고가 신설 공사 착수",
+        "link": "https://n.news.naver.com/mnews/article/023/0003986918",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘장윤기 사건’ 광주광산서…2년전엔 ‘불법 증거’ 인권위 지적",
-        "link": "https://n.news.naver.com/mnews/article/025/0003536802",
+        "title": "검찰, 광산경찰서장실 추가 압수수색…공무상비밀누설·증거인멸 혐의 수사",
+        "link": "https://n.news.naver.com/mnews/article/079/0004167317",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“무섭노” ‘일베 논쟁’에 거제시까지 불똥…“입장 내달라” 민원 접수",
-        "link": "https://n.news.naver.com/mnews/article/081/0003660259",
+        "title": "[단독] 배재고 중징계 회의록 보니…징계 근거는 “사회적 파장”",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860189",
         "source": "네이버 뉴스"
       },
       {
-        "title": "변협 \"장윤기 사건 실체 묻힐 뻔...보완수사권 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002377813",
+        "title": "어린 자매 태우고 음주 사망 사고 낸 30대 '징역 12년'",
+        "link": "https://n.news.naver.com/mnews/article/052/0002377746",
         "source": "네이버 뉴스"
       },
       {
-        "title": "조희대, 신임 법원행정처장에 노경필 대법관 임명",
-        "link": "https://n.news.naver.com/mnews/article/088/0001018498",
+        "title": "노무현재단 이사, 리센느에 사과 “일베식 표현 오해했다”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003732818",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-10 22:06"
+  "updated": "2026-07-10 23:30"
 }
