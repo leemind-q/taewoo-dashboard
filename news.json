@@ -2,35 +2,40 @@
   "categories": {
     "IT": [
       {
-        "title": "kt cloud, 금융 특화 여의도 데이터센터 증설",
-        "link": "https://n.news.naver.com/mnews/article/016/0002668619",
+        "title": "크래프톤, 세계 3대 AI 학회서 논문 20편…메인트랙 10편 \"역대 최대\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384331",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신세계아이앤씨에 창사 30년 만에 노조 출범",
-        "link": "https://n.news.naver.com/mnews/article/055/0001371487",
+        "title": "오픈AI, 일반 공개 미뤘던 GPT-5.6 정식 출시…“정부 논의 반영”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002813553",
         "source": "네이버 뉴스"
       },
       {
-        "title": "문체부, 매출 1조 이상 해외 게임사 국내대리인과 첫 간담회",
-        "link": "https://n.news.naver.com/mnews/article/003/0014058376",
+        "title": "해외 기술 인재 국내 복귀 시동…‘K-테크 파이오니어즈’ 본격",
+        "link": "https://n.news.naver.com/mnews/article/119/0003110159",
         "source": "네이버 뉴스"
       },
       {
-        "title": "크래프톤, 세계 최고 권위 AI 학회 ‘ICML’서 논문 10편 채택",
-        "link": "https://n.news.naver.com/mnews/article/011/0004640402",
+        "title": "KT클라우드, 초저지연 금융특화…서울 여의도 데이터센터 증설",
+        "link": "https://n.news.naver.com/mnews/article/015/0005308657",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 해외 한인 AI·첨단기술 인재 20개팀 국내 복귀 지원",
-        "link": "https://n.news.naver.com/mnews/article/001/0016187501",
+        "title": "30년 만에 노조 만든 신세계아이앤씨...대기업 SI ‘노조 바람’ 거세진다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705754",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "중국, 반도체 생산 핵심 소재 '헬륨' 수출 금지…\"즉시 시행\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YmVWQ0xxNkpfaWl3WjNnZ0JMcDlLUVRfOXRnODFPNFhJQnIwVURvejg1RldDaG5KdGFYRXhmZ1l6TzJ5a1hnVTZOLUFrS1dwbGFITE1VSlMxb2vSAWBBVV95cUxQak1rQmIzSDR0WUFJaC1PSURkTGZTZVhIT0hfWUNLVTVHRXd2bWV5WG9HSUFWU0VETkxQeE90c1F6MXNiZnN5OE1lVGhWVHRLTG9aY0N3U2duRTg4cmxCU00?oc=5",
+        "title": "중국, 이번엔 ‘헬륨’ 막았다... 반도체 핵심소재 수출 금지 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtlbVYzM0xVQ29vLWxxaGlGcWNjTVZjZ3lVZmoyUWhXNWdpMGJjNFR3d2tnLXd2LWZqVmczRHNnamNPcEYzWHpMNmROallDelBFSGdnc1RHeEkzZmhmSWd1VWNmVVFxNTh0YTlKTmRGUEVreFpoZ3BEV0stZFgyT2xOQTVISnpGa21QRVM3cFJ0U1d4T2tjYkV5WkF4dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"한국 반도체 타격 받나\" 중국, 헬륨 수출 금지 단행 - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ST20wT1RORmlLd19Jb014QnRvUUFSeENIVzBQNjdjcHJJWUFhajNlelBHNmwxV3JQOF9XZjZ4NUctOFZqY01GVldEUFpSemRkLUJLbDdFcFFHQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "청와대, 중국 '헬륨 수출 금지'에 \"우리 반도체 업계 영향 없어\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NX25KRTJ3QUNubUtHQVB0ZDBoVzF5ckpnZHBFV2Z1NlR0QmFIWHprYWFraW1ZQmRZRXNNQTZYM2s1bExCQVF2MTlFS0s4MnM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "\"메타, 9월부터 AI칩 생산…삼성전자와 메모리 반도체 장기 계약도\" - KB Think",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMlBrejNRUzd1Mk9IMzlwbzVXRmpMeVFoUVF0REU5c2hGNFgzUU9FcHJXQldYZE96b1B2a3REcDNyUGh3WWhkWEhxLTVmMVgxdm02blZhMWQzcWFsNlotNnJZQmZSc0pXNWFmM010SWFuUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "마이크론, 美 반도체 공급망에 30억달러 투자 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQU1GZDZSY0V0UElOemR4TTkzWThjWUNlcVZXSVhDSDZTWUZPOTdIZW9pVnRUWVRmVDNJVXVRREhoaEx0TXA1TDBJS1lCd1k?oc=5",
+        "title": "최태원 \"반도체 옛날같은 사이클로 움직이지 않아…구조적 변화\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KejBNLTFCdWFveVl6RUxYSEFLTkh1dEI5M2NVMi01V3g1WExhcDdiRlREUklDOWVxSTlFZjlPT3ljYlExLXhWTE42LWtZMWFVSGFvdnhDQVpTVmfSAWBBVV95cUxQa3NoTEhjZHRhbndKRHQ5OXVlYjRVT3BnTXpTdEZhZm9oWndITFhxUWJBVHpDLXpEdDNJNTloRmxVLVBBTXlob2p0M2NCRWt4bXlVQjVHWXltV1ZnVmVRZ2o?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "中 AI 미니맥스 CEO, 주가 급락에 \"AGI 달성 때까지 무급 근무\" - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqb0RUcjhnaURvZzcwcmtnamdYUnJwaGYyenI4SnozTkpiWGJoN0lCOHJ1Nm9KTVF2YU9SeHRwMWxyVkdRSXEzNS1ONVdtbE1ZQ3c?oc=5",
+        "title": "[농진청] 인공지능(AI) 기반 스마트팜·수확 후 관리 고도화 - 월간친환경",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OSHhTX2J6dkRoaFBoblVsSENLclBSMEtrbHZaXzJZd2tucWo2RlQ2TlhiRW8yN29NZGltXzQzUk52YjVpVmpOYUNoWGdJd2NKcnVnb2xCSS12TEZXNGpvdG8wVXE5VzlJSGNtT0dGZWg2Zw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이제 체감 38도면 ‘폭염중대경보’…온열질환 피하는 방법은?",
-        "link": "https://n.news.naver.com/mnews/article/022/0004141993",
+        "title": "경주월드서 또 사고…인명피해 없어 처벌 못 한다?",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371428",
         "source": "네이버 뉴스"
       },
       {
-        "title": "마약 정보원과 ‘수사 정보 거래’ 현직 경찰관 직위해제",
-        "link": "https://n.news.naver.com/mnews/article/011/0004640363",
+        "title": "조희대 대법원장, 새 법원행정처장에 노경필 대법관 임명",
+        "link": "https://n.news.naver.com/mnews/article/654/0000189907",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남광주특별시장 후보자, 1인당 평균 4억여 원 선거비용 지출",
-        "link": "https://n.news.naver.com/mnews/article/079/0004167260",
+        "title": "사망사고로 벌금형 받았는데...또 음주 뺑소니 사망사고 낸 70대",
+        "link": "https://n.news.naver.com/mnews/article/052/0002377742",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 개표소 출입 막은 ‘올다르크’ 업무방해 혐의 소환 조사",
-        "link": "https://n.news.naver.com/mnews/article/056/0012215819",
+        "title": "\"'무섭노' 일베 표현\" 지적한 盧재단 이사 조수진 \"제 이해 부족\" 사과",
+        "link": "https://n.news.naver.com/mnews/article/421/0009051783",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[2보] 김성태 '제3자뇌물' 2심 공소기각 파기…\"이중기소 아냐\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016187685",
+        "title": "특검, '채상병 수사 비밀누설' 이시원 前비서관 구속영장 청구",
+        "link": "https://n.news.naver.com/mnews/article/001/0016188311",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-10 15:14"
+  "updated": "2026-07-10 17:19"
 }
