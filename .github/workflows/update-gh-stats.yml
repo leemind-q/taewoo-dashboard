@@ -35,11 +35,17 @@ jobs:
           gh api "users/$USER/repos?sort=updated&per_page=4" --jq '[.[] | {name: .name, updated_at: .updated_at}]' > data/_repos.json
 
           # Recent public events (PushEvent only, last 3)
-          gh api "users/$USER/events/public?per_page=30" --jq '[.[] | select(.type=="PushEvent")] | .[0:3] | [.[] | {
-            repo: .repo.name | split("/") | .[1],
-            msg:  (.payload.commits[0].message | split("\n")[0] // "(no message)"),
-            date: .created_at
-          }]' > data/_commits.json
+          # - filter out events with empty/null payload.commits (merge commits, force-pushes, deleted branches)
+          # - guard msg split() against missing message
+          gh api "users/$USER/events/public?per_page=30" --jq '
+            [.[] | select(.type=="PushEvent" and (.payload.commits | type == "array") and (.payload.commits | length > 0))]
+            | .[0:3]
+            | [.[] | {
+                repo: .repo.name | split("/") | .[1],
+                msg:  ((.payload.commits[0].message // "(no message)") | split("\n")[0]),
+                date: .created_at
+              }]
+          ' > data/_commits.json
 
           # Combine into single stats.json
           python3 -c "
