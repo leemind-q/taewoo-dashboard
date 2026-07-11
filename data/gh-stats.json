@@ -1,6 +1,6 @@
 {
   "user": {
-    "fetched_at": "2026-07-11T07:14:25Z",
+    "fetched_at": "2026-07-11T09:42:25Z",
     "followers": 0,
     "public_gists": 0,
     "public_repos": 5,
@@ -8,12 +8,12 @@
   },
   "repos": [
     {
-      "name": "taewoo-dashboard",
-      "updated_at": "2026-07-11T05:43:33Z"
+      "name": "hermes-browser",
+      "updated_at": "2026-07-11T08:06:32Z"
     },
     {
-      "name": "hermes-browser",
-      "updated_at": "2026-07-11T00:13:20Z"
+      "name": "taewoo-dashboard",
+      "updated_at": "2026-07-11T08:00:39Z"
     },
     {
       "name": "dungeon-crusader",
@@ -25,5 +25,5 @@
     }
   ],
   "commits": [],
-  "updated_at": "2026-07-11T07:14:26Z"
+  "updated_at": "2026-07-11T09:42:25Z"
 }
