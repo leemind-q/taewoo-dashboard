@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "크래프톤, 세계 최고 권위 AI 학회서 논문 10편 채택",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546622",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "이용자보호센터·게임위, 웹보드게임 이용자 보호 정책 간담회 개최",
-        "link": "https://n.news.naver.com/mnews/article/009/0005705662",
+        "title": "김윤지 콘진원장, 게임 업계와 첫 현장 간담회…지원 방안 논의",
+        "link": "https://n.news.naver.com/mnews/article/003/0014058538",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "“극한 폭우 오기전 약상자부터 채우세요”…장마철 필수 약국템 8가지 [MK약국 x 약들약]",
-        "link": "https://n.news.naver.com/mnews/article/009/0005706012",
+        "title": "갤폴드8 울트라 시작가 2099달러…300만원 폴더블폰 시대 눈앞",
+        "link": "https://n.news.naver.com/mnews/article/003/0014059415",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한컴위드 1조원대 그룹?...한컴 지분 4.47% 추가 매수",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430145",
+        "title": "AI기술력 입증한 크래프톤, 세계 최고 학회 ICML서 논문 10편 채택",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705674",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "펄어비스 ‘검은사막 모바일’, 리마스터 이어 콘텐츠 개편 돌입",
+        "link": "https://n.news.naver.com/mnews/article/009/0005706021",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,8 +39,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "중국 반도체 원료 '헬륨' 수출금지…청와대 \"우린 영향없어\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5keGs3VEhSNDFsck5CM1JFeXR0SUdhcGVmQU1zWXFiVS02NzVtYUhpWU9tLUJnZFFaX1lpbGNzMkxneThtWHdlX2FxZGhpWkU?oc=5",
+        "title": "中, 반도체 생산 핵심소재 ‘헬륨’ 수출 금지…“오늘부터 시행” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOMFkyQy14N2g3YmEwV2VYM0labjRjajVvUVhVYlR3UzdBS05jUFFPdXVVTkwxZzFrUklFMFFzZkpmY0V1MU9UZEVWMHhGcHVVVkF4R2R3?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,20 +49,25 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "최태원 \"반도체, 옛날같은 사이클로 안움직인다…공급 늘려야\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0U01mWHkxLWZ1bkc3MU04TmxmLWZPT3V2RWRqLUtUYllaQXNYaTR6OGo0Ry1iWjdUYllKdWIyVUhQT0gtMjJfbllfSjdVTFU?oc=5",
+        "title": "주가는 빠졌지만…'반도체 사이클' 아직 안 끝났다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SODBoQ3dnOGhkN1d3ZVZsS2lBWHlqeGYtWUhLenhuUFJ6c1BqYUNLNXdycTVLbVk5LXlDWTF0RFZxX0Y3MnN6bk1rZ0I0MDNiWkVWRXFXalZOUdIBVEFVX3lxTE1JVEt2V3Vka2U1bkxSdnNfNjdPQXZqdWhIbm1LeFM3U0Jzc1BYYl83YmhQR1RJdzRXa0g0d0hhaUg1aDdlU1NndnRHUkZBdmlFQjVKdQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "[공식] '김부장' AI 연출 화제인데…김종국도 뛰어들었다, 인공지능 다큐 '라이프 오브 AI' 출연 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZ3pUZW1PVXZpTDItaGoyUkdPSlR6OWk3YnZvV1BnMGRObmJKbDRyM0c2dWN1N3ZWNlBQbjZaODFoTlh6YnYwYTNSekhDak0?oc=5",
+        "title": "[칼럼] 인공지능(AI) 기반 포트홀 탐지·관제·조치 시스템 구축, 도로 안전의 새로운 표준 - 케이에스피뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Qa1BLVmZGVG1iRGd3SWNRSnhXa0hNQ2VtU0Z4OVl2Y3lKd01qX3oyNkYyRUROcGh5TWM5SVR1UnZaR0xi?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "패션산업 AI 활용 확대… 섬개연, 인공지능 전환 지원 본격화 - 매일신문",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMVC1rakVKVE1CQmp5cl9ZVlVLR1pLNEM5SkR3WFJ0RmdYV0hrai1mVS1fZE5uMVhNWURSSk1wdHBfQlFSRVI5V0tDYkR3MWR4djhod2pXYWZFbEtyQlVDclZ3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[공식] '김부장' AI 연출 화제인데…김종국도 뛰어들었다, 인공지능 다큐 '라이프 오브 AI' 출연 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZ3pUZW1PVXZpTDItaGoyUkdPSlR6OWk3YnZvV1BnMGRObmJKbDRyM0c2dWN1N3ZWNlBQbjZaODFoTlh6YnYwYTNSekhDak0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다 - 연합뉴스 한민족센터",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYVljQ0d6UGZmaXhCRmxicHNETlB2NFItTV9DVGRwTXFmZUEwaXREREl3d1VkUDNsUVZlaVpSZG1vcURKQlNjeDhySWtzcGNuQ28xbFc0dk5BU1RGTFVNLXJlbGE0cEY2X0F6V3BDcl9IcjdL?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "[AI 프리즘] 인공지능이 교실로…전문가 \"비판적 사고 교육 더 중요해져\" - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0TUxlVGdMcDJ4X1h2UFYzR3JlLU1nWm8tazNHcFJaX2FKVGF4WkpZZ0ZDcXBqQ3NtaXFZbnM4emphdGJ0Y1gtWUJqdnNuNXBtMEZvUXhFUUkwbFBta1Z4ai1ydm1BX1dmRmNDWExTQQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[속보] 경찰청장 대행 “장윤기사건 유족에 깊이 사죄…관계자 최대한 엄벌”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003536701",
+        "title": "'파산문턱' 내몰린 홈플러스, 현장 취재 나갔더니…\"기자님!!\"[자막뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371342",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'계엄 정당화 메시지' 김태효 구속…\"증거인멸 우려\"",
-        "link": "https://n.news.naver.com/mnews/article/437/0000500605",
+        "title": "광주경찰청 지휘부도 수사...경찰서장·과장 피의자로 입건",
+        "link": "https://n.news.naver.com/mnews/article/052/0002378105",
         "source": "네이버 뉴스"
       },
       {
-        "title": "영주 남원천 실종 70대 수색재개…인력 368명·드론 14대",
-        "link": "https://n.news.naver.com/mnews/article/003/0014058158",
+        "title": "\"친구 남편이 성추행\" 증거는 진술뿐...30대 남성 '실형', 왜?",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384582",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, 장윤기 부친·수사팀 통화 녹취 확보…수사 상황 공유 의혹",
-        "link": "https://n.news.naver.com/mnews/article/469/0000941550",
+        "title": "인천 고가도로 충돌사고로 3명 숨져...분당 아파트에 불",
+        "link": "https://n.news.naver.com/mnews/article/052/0002378070",
         "source": "네이버 뉴스"
       },
       {
-        "title": "세종포천고속도로 터널에서 차량 5대 추돌사고…1명 심정지",
-        "link": "https://n.news.naver.com/mnews/article/032/0003457479",
+        "title": "당분간 ‘밤낮없는 무더위’…주말 낮 최고 37도·체감온도 35도",
+        "link": "https://n.news.naver.com/mnews/article/016/0002668771",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-11 09:59"
+  "updated": "2026-07-11 11:14"
 }
