@@ -2,8 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "美연구진, 中 휴머노이드 로봇으로 '돼지 복강경 원격수술' 성공",
-        "link": "https://n.news.naver.com/mnews/article/277/0005788553",
+        "title": "\"새 아이폰 얼마나 비싸지려고\"…아이폰18 프맥, 원가만 45만원 '껑충'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014058036",
         "source": "네이버 뉴스"
       },
       {
@@ -12,50 +12,102 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"그냥 17 살까\" 아이폰18, 300만원 넘는다?...원가만 45만원 ↑[IT썰]",
-        "link": "https://n.news.naver.com/mnews/article/008/0005384121",
+        "title": "사라지는 게임 소유권…소외되는 이용자 권리[게임위드인]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016188633",
         "source": "네이버 뉴스"
       },
       {
-        "title": "콘진원 김윤지 원장, K-게임 현장에서 업계 소통 첫발",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546531",
+        "title": "AI 비용 부담 커지자…아마존 CTO \"저렴한 오픈소스 모델로 이동 중\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006327751",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"이 광고 모델, 가짜입니다\"…구글·메타 'AI 꼬리표' 단다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014060456",
+        "title": "“AI가 일자리 없앤다더니”…서울에 몰린 빅테크, 인재 쟁탈전 벌였다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705996",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "중국, 이번엔 ‘헬륨’ 막았다... 반도체 핵심소재 수출 금지 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtlbVYzM0xVQ29vLWxxaGlGcWNjTVZjZ3lVZmoyUWhXNWdpMGJjNFR3d2tnLXd2LWZqVmczRHNnamNPcEYzWHpMNmROallDelBFSGdnc1RHeEkzZmhmSWd1VWNmVVFxNTh0YTlKTmRGUEVreFpoZ3BEV0stZFgyT2xOQTVISnpGa21QRVM3cFJ0U1d4T2tjYkV5WkF4dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "중국, 반도체 생산 핵심 소재 '헬륨' 수출 금지…\"즉시 시행\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YmVWQ0xxNkpfaWl3WjNnZ0JMcDlLUVRfOXRnODFPNFhJQnIwVURvejg1RldDaG5KdGFYRXhmZ1l6TzJ5a1hnVTZOLUFrS1dwbGFITE1VSlMxb2vSAWBBVV95cUxQak1rQmIzSDR0WUFJaC1PSURkTGZTZVhIT0hfWUNLVTVHRXd2bWV5WG9HSUFWU0VETkxQeE90c1F6MXNiZnN5OE1lVGhWVHRLTG9aY0N3U2duRTg4cmxCU00?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "청와대, 중국 '헬륨 수출 금지'에 \"우리 반도체 업계 영향 없어\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NX25KRTJ3QUNubUtHQVB0ZDBoVzF5ckpnZHBFV2Z1NlR0QmFIWHprYWFraW1ZQmRZRXNNQTZYM2s1bExCQVF2MTlFS0s4MnM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 상승 사이클 지속되나…소부장株 일제히 주가 급등 [줍줍리포트] - 서울경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWmpaZnUyNnlGWHpoOHdFRmR2ZE5vcy04MTNVNE5vT2dROV9JZENiZnBhSkZjb0h3SVl3QmZMdUEwdnVQRGZtU2R1QmJyV2tTOVHSAVNBVV95cUxQNkpqRGFBMElER0FCSVZzYV9yVU9CVFlESmJia2VpNmFoYXF6V0ZkeU16REdrYzM2Mm9NaTZtdFp6ZFdGNnVoNjlvRUFmUVl4LU1pbw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 전기, 수도권만 보낼 수 없다…전문가들 전력정책 전환 제언 - 이투데이",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41Z2Q1SGV2ZnhudFc1RW5OcWlseG1lMURtbWFQZ2EyLXQyX0EwbFpjRVUxcGtJYjJVREpxb3pXSVg0U0dBckVWUUtwY1FJODZtLUtIRA?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "패션산업 AI 활용 확대… 섬개연, 인공지능 전환 지원 본격화 - 매일신문",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMVC1rakVKVE1CQmp5cl9ZVlVLR1pLNEM5SkR3WFJ0RmdYV0hrai1mVS1fZE5uMVhNWURSSk1wdHBfQlFSRVI5V0tDYkR3MWR4djhod2pXYWZFbEtyQlVDclZ3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[공식] '김부장' AI 연출 화제인데…김종국도 뛰어들었다, 인공지능 다큐 '라이프 오브 AI' 출연 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZ3pUZW1PVXZpTDItaGoyUkdPSlR6OWk3YnZvV1BnMGRObmJKbDRyM0c2dWN1N3ZWNlBQbjZaODFoTlh6YnYwYTNSekhDak0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "최태원 SK그룹 회장 \"SK하이닉스, 인공지능(AI) 분야에 수백억달러 투자\" - 한국NGO신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QkFCcHZ1V2d5d0pZaFk3V29yWklQUjhFZDMtdVd1TmVHU2o0eEZVSFhGM2llOFA3ZGpWVWNfUFlrd2xja1ZrSGJfYm41b3pHOFctR1E4RG9VMlFXYW9JTVhyNWttem5u?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYVljQ0d6UGZmaXhCRmxicHNETlB2NFItTV9DVGRwTXFmZUEwaXREREl3d1VkUDNsUVZlaVpSZG1vcURKQlNjeDhySWtzcGNuQ28xbFc0dk5BU1RGTFVNLXJlbGE0cEY2X0F6V3BDcl9IcjdL?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI 프리즘] 인공지능이 교실로…전문가 \"비판적 사고 교육 더 중요해져\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0TUxlVGdMcDJ4X1h2UFYzR3JlLU1nWm8tazNHcFJaX2FKVGF4WkpZZ0ZDcXBqQ3NtaXFZbnM4emphdGJ0Y1gtWUJqdnNuNXBtMEZvUXhFUUkwbFBta1Z4ai1ydm1BX1dmRmNDWExTQQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "고용보험 기준 '시간' 아닌 '소득'으로…'전국민 고용보험' 목표",
-        "link": "https://n.news.naver.com/mnews/article/001/0016186855",
+        "title": "PC방 다니느라 생후 7개월 아들 방치 숨지게 한 부부 구속",
+        "link": "https://n.news.naver.com/mnews/article/001/0016188151",
         "source": "네이버 뉴스"
       },
       {
-        "title": "반도체로 늘어난 80조 교육교부금 못바꾼다…17개 시도교육감 “학생 줄어도 교육은 줄지 않아” [세상&]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002668659",
+        "title": "추미애 \"검찰개혁 마지막 고비... 검사의 직접수사 예외 허용해선 안 된다\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002522224",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'올다르크' 변호인 황교안 \"돌아서 서 있었던 것…조사 이유 없어\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014059880",
+        "title": "특검 \"서강대교 넘지말라\" 조성현 前수방사 경비단장 피의자조사",
+        "link": "https://n.news.naver.com/mnews/article/001/0016186885",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 왕길동서 다중 추돌 교통사고…3명 사망·1명 부상",
-        "link": "https://n.news.naver.com/mnews/article/056/0012216168",
+        "title": "중앙선 넘어 정면충돌 뒤 잇단 추돌…3명 사망",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371646",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공중서 빈 객차 ‘쿵’…경주월드 관람차 사고, 처벌 못 한다? [잇슈#태그]",
-        "link": "https://n.news.naver.com/mnews/article/056/0012215723",
+        "title": "공무원·교원들 대규모 도심 집회...임금 인상 촉구",
+        "link": "https://n.news.naver.com/mnews/article/052/0002378074",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-11 05:43"
+  "updated": "2026-07-11 08:00"
 }
