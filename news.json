@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "KT, AI 스테이션으로 'WSIS 프라이즈 2026' 챔피언상 수상",
-        "link": "https://n.news.naver.com/mnews/article/277/0005788651",
+        "title": "5세트 접전 결실…한화생명, 창단 첫 MSI '우승'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003110557",
         "source": "네이버 뉴스"
       },
       {
-        "title": "페이커에 감탄했던 강훈식, 대전 MSI 결승전 찾아 “게임 현장 목소리 듣겠다”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001178641",
+        "title": "KT 이동식 AI 교육 플랫폼, 정보사회 세계정상회의서 수상",
+        "link": "https://n.news.naver.com/mnews/article/001/0016189534",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘사기꾼’ vs ‘집착남’…머스크·올트먼, 애플 소송에 X서 디스전",
-        "link": "https://n.news.naver.com/mnews/article/018/0006328508",
+        "title": "인스타 사진으로 AI 이미지 만든다더니…메타, 사흘 만에 '백기'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014061448",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'한화생명에 역전패' BLG 양대인 감독 \"너무 조급했다\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016189952",
+        "title": "LG유플러스, 버스 와이파이 사업 수주…600억 규모",
+        "link": "https://n.news.naver.com/mnews/article/421/0009054854",
         "source": "네이버 뉴스"
       },
       {
-        "title": "메타, 인스타 AI 이미지 생성 기능 사흘 만에 중단",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987197",
+        "title": "여름방학 '어린이 전파교실' 참가 모집…전국 9곳서 운영",
+        "link": "https://n.news.naver.com/mnews/article/001/0016189495",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "삼성전자 용인 반도체 공장 양산 1~2년 당긴다… 2029년 첫 가동 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFpMDlDbE50UV94TnVieXNZN0ZaU0pEWWVhUUdJc0FfelFONTFZdWYtZVRJaU82VkVGZTFxWTBDTEE4dmFkVkNpejY3LXFRR085cGs3cjBKUE12SkxDdUdHOHJPbU9KY1JBTVg4M0wtek5sQ0lLeXctNTNWUHFEUlpB0gGWAUFVX3lxTE1pR05OS2RhZkNmdkEwS0lVWDVyd29sekIyOG05YXpsd2s5Y3lOQXdlUk5HNkZwdWZyclB5RFRGT0U5SHl3YUdKRm1hZHRON1Z0SEg1ZWM0UjdzQXZTVDNJQ3NLYjk3MnhPXzh6RnY0RWJBeVZFZzhoT2pUNGZ0ZFZXUlV1cFo2bUliZDhCM3VXTHhmbWRFdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "외신 \"SK하이닉스, 화려한 美데뷔\"…월가 \"반도체 랠리 가능성\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RVHFwclBIeGpFc3pmaklrbG5mRDJxbkJqa1o1THBENFFzM2hXR3EwRnZYSmFZSTVRVl9PcTZaczlnRjMxVU14a3RGNEczSXRXSHBsaGxJT0RvOHfSAWBBVV95cUxORHhSSm0wdVJTNHk4UTVrNncwaXhtM0wzN3pVY3Zrc0tOTF9rVURfaUR0ZzE3M3hMNGpVeUZ5Sk9FVDJjOEk4a2taMDhWNGdNdWN0NXMtX0Y0LVBURl91cnU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“과거와는 다르다” 한국은행, 반도체 고점론 ‘일축’ - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DdDJDT1JsdUhPM19keWYzN1ZNazUwdXppeFkwdHhVVFFKMEU3dHpaaWs2VWFSSlppSF8yT1JLU2twaW52bGxfcGdHUW1FcVZJ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'반도체 고점론?'…내주 빅테크 실적 발표 랠리에 달렸다 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pWFhaOXFUZWNGWG5XOXoxQzhfMXpxZ2gxQks5WnNGc0VVYU9uNHRjVEFiOUVoSnhwRnJSMEZtbkRjd2Y1X0V4QUFRVURGYm9rTWtR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"반도체 끝물이라고?\"...삼성·SK하이닉스 주주들 가슴 쓸어내릴 한은의 '한마디' - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zaWI2cmZ0bHBQcnJlM1l3SElhZllCSzFBanZvZFF1NHc5NlFtLWlxLXJFWWcyMUk1NGo5ck5uc3dCLWNla1FSdG5pNnp1MEhrQVRGMGdhbDgyUQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "미국 정부의 오픈AI 지분 참여 검토… 인공지능 투자 지형 흔들리나 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVRLcFlqSXRQT1lOMVBBZFRPRDIzajV3ZVBMYTJXMk1jdmE4OEdaZUZHOXRVeXVoRXZqaHB2VDd1YXJqUnhqNEVES00tWlY1Zy1OZ0ZkeWJJcEpHUXRYeDhpV084TmFxSHMyOVJON1prVWNvVDRpZ2xOQVJlb0tqV3ZuSXVRZjZH?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] 중국, 공공 데이터 활용한 'AI 모델 학습 효율' 극대화 전략 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNFU1T0VnM2thY1FaeVB2N0hRTlRQdml5Vlo1US11UkRLbXpsZUJVR1lQdkktSjE1Rk1ROTZhRWlzWWhrdm5ETTJ4bC13bHNpbnNjal9hc2cydFFzcW4wTjhNUEx2SUE0N3RzMjBVSmQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "2026 시흥시, ‘인공지능(AI) 숏폼 서포터즈’ 모집 - 수도권지역뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxLVJDY3dSS1oxV3YzTEJnYk5lNzI3N196cmVZLURQamtaajQ4TklydWl4aHZkNXhBYXZNZzZweVRhaVQyZ3Y5b3BIYWk1Y19hbGhFZUI2NmlWSFpIZzNLZGRDeENlcXpD?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[ET시론] 인공지능을 비용 절감보다는 수익 창출의 도구로 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hLUxDVTZidW1yejNfOTRvOXl6QnBTS2t3cjNRUTFua05pemk4aGtaZjlCQ3NTN0lnMjJmajY0dU5nT3RRVWVCc29jajY3UQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능 기반 만성질환 관리체계 혁신 본격화 - 재활뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zZ3lDMURad3RfWjF4Ti0zRnUzdHAwMm5jQ1pkQnRoVDlTRlhzdVBsaGtWLVpQOVdvZXd2Uk1nTlh4LWtuT1FaeDhqMEJqZG55UmxZYnMtNVUzci1OZUpaWjhEYlZzdzZtQVlZ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
+      {
+        "title": "장윤기 오늘 2차 공판…'성폭행 의도' 인정하나？",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371870",
+        "source": "네이버 뉴스"
+      },
       {
         "title": "사상 첫 '폭염 중대경보' 발효…포항·경산 비상대응 강화",
         "link": "https://n.news.naver.com/mnews/article/018/0006328672",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 ‘명태균 무상 여론조사 수수’ 오늘 선고",
-        "link": "https://n.news.naver.com/mnews/article/056/0012216543",
+        "title": "8살 딸 태우고 순찰차 ‘쾅쾅’…1시간 대치 끝 유리 깨고 체포",
+        "link": "https://n.news.naver.com/mnews/article/666/0000114941",
         "source": "네이버 뉴스"
       },
       {
-        "title": "초속 20m 강풍에 제주 ‘휘청’… 항공기 81편 결항",
-        "link": "https://n.news.naver.com/mnews/article/366/0001178580",
+        "title": "'10년 뚝심' 지방분권 진심 통할까…박승원 광명시장, 민주당 지도부 도전장",
+        "link": "https://n.news.naver.com/mnews/article/014/0005546968",
         "source": "네이버 뉴스"
       },
       {
-        "title": "케이블타이·블박 영상 보고도…경찰 “성범죄 입증 어렵다” 덮었다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733282",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "찜통더위 이어진 대구경북, 온열질환자도 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/081/0003660432",
+        "title": "제주, 무더위 속 강풍에 항공편 결항하고 가로수 쓰려져(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016189785",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-12 21:54"
+  "updated": "2026-07-12 22:52"
 }
