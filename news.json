@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "한니발은 알프스 횡단 어떻게 했나…과학이 푼 2200년 미스터리 [달콤한 사이언스]",
-        "link": "https://n.news.naver.com/mnews/article/081/0003660297",
+        "title": "집배원이 도시락 배달하고 폐업 확인…복지·행정 전달망으로",
+        "link": "https://n.news.naver.com/mnews/article/421/0009054437",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리보세라닙 발목 잡은 ‘제네릭 실사’…HLB도 몰랐다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006327354",
+        "title": "LG유플러스, 차세대 보안 통신 품질 관리 기술 국제표준화 추진",
+        "link": "https://n.news.naver.com/mnews/article/366/0001178561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“中 파워 실감한 한 주”...‘젠슨 황 예측’ 현실 된 코엑스 [허진의 테크토닉]",
-        "link": "https://n.news.naver.com/mnews/article/015/0005308904",
+        "title": "정부, 박사후연구원에 5억8000만원 지원…기업과 공동연구 나서",
+        "link": "https://n.news.naver.com/mnews/article/003/0014061370",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"뿌리부터 썩었다\" 오픈AI 직격한 애플…전면전 선포한 이유",
-        "link": "https://n.news.naver.com/mnews/article/015/0005308902",
+        "title": "엔비디아·SK하닉 한자리에…반도체 R&D 성과 공유",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384715",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'반도체 클러스터 부지' 광주 군 공항 이전도 속도전",
-        "link": "https://n.news.naver.com/mnews/article/001/0016189203",
+        "title": "‘95% 정확도’, 고령자 뇌혈관질환 위험 알리는 ‘AI’ 등장",
+        "link": "https://n.news.naver.com/mnews/article/029/0003036541",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "외신 \"SK하이닉스, 화려한 美데뷔\"…월가 \"반도체 랠리 가능성\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RVHFwclBIeGpFc3pmaklrbG5mRDJxbkJqa1o1THBENFFzM2hXR3EwRnZYSmFZSTVRVl9PcTZaczlnRjMxVU14a3RGNEczSXRXSHBsaGxJT0RvOHfSAWBBVV95cUxORHhSSm0wdVJTNHk4UTVrNncwaXhtM0wzN3pVY3Zrc0tOTF9rVURfaUR0ZzE3M3hMNGpVeUZ5Sk9FVDJjOEk4a2taMDhWNGdNdWN0NXMtX0Y0LVBURl91cnU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"한국 반도체 타격 받나\" 중국, 헬륨 수출 금지 단행 - 파이낸셜뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ST20wT1RORmlLd19Jb014QnRvUUFSeENIVzBQNjdjcHJJWUFhajNlelBHNmwxV3JQOF9XZjZ4NUctOFZqY01GVldEUFpSemRkLUJLbDdFcFFHQQ?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "삼성전자 용인 반도체 공장 1∼2년 당긴다…2029년 첫 가동 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LR1FuZkVfOVd1SHpoQmh1RlN6bmhvWW1najlXOGZyelJENm1qVUxKUGxnQjZQQWFzY09WOGNIRjhpaUJFX2VxMGNzMDNqX28?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자 승부수…용인 첫 반도체 공장 1~2년 앞당긴다 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNW9xdWlKWHVsWFdyeHp0T0NKd19MOXhVNkE1NGZid09JSDJuY2RiOXVjeEV2X0Rzb0pCdTBYSThmRHVrYmhWMkJrb1VIZHNHQjZJXzRwSXRHc0U?oc=5",
+        "title": "외신 \"SK하이닉스, 화려한 美데뷔\"…월가 \"반도체 랠리 가능성\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RVHFwclBIeGpFc3pmaklrbG5mRDJxbkJqa1o1THBENFFzM2hXR3EwRnZYSmFZSTVRVl9PcTZaczlnRjMxVU14a3RGNEczSXRXSHBsaGxJT0RvOHfSAWBBVV95cUxORHhSSm0wdVJTNHk4UTVrNncwaXhtM0wzN3pVY3Zrc0tOTF9rVURfaUR0ZzE3M3hMNGpVeUZ5Sk9FVDJjOEk4a2taMDhWNGdNdWN0NXMtX0Y0LVBURl91cnU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독]삼성전자, '용인 1호팹' 양산 2년 더 빨리…SK, 미국 신규 투자 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNWJGYWxxLWVBRUtTdDBBa1k0Tk9YZzhGd2RmT3IzeEFGd1NxTEZJbWJ1U1hVRmhxOWVWT1V0OERNUjZ3WEVIS1p3V3F1Q3d2TUl6NXZRYjVoZ3VXd1FHY1pSZHN1Ukp0d0pDc9IBckFVX3lxTE1RZmF2YWxFaDZWM0hJaEZwSlZ5UXFYMUxnZ1JQbTdKMlk0SlloOVNIY0tsTU5oTzRGRTZIU1hHNjVmVzlKY0xQeDVGQW53ZjNHNXFsamN5WThHQlpReW0wQVV4alVrV2lpek1jcXZzUE9Pdw?oc=5",
+        "title": "반도체 사업 성과 공유위해 산학연 모인다…엔비디아코리아 기조연설 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EMjVDM3ZEaWZCOWRZT2hoWnN4dmJndzA5cm4yX2ZYRFhsZ3R1Y1F0ald1SFp6bDNHLThCZUJfNkJtQ2I5QWl1R3FuRnBuTDBRTUExb2hkRzU5dGxsdkxVTlpmZ2xMZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "김용범 \"반도체 생산능력이 새로운 국력…국가가 공급할 건 시간\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WnE2TWlVM2dkLXZULTh6TjE5SVJWS1RVN1BZc3hVX0dibXNfM3VwaW5KSnFxVElOd3RtOGpaTUU4c0t2cnlGR2lMV2p4dWM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "과기정통부, 부산서 반도체 사업 성과교류회 개최 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0SkpLc3FKdm1DSHp1VV91THdTNE5WMGU5QmJEQ1BqbkNfQlpwM1RPQWJWMF9hZmRNWFkyVU9obVgtZUpmOU5kUzRYYzJtVy01anV6RzJGZFJ2QzdwdFBEZQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI 프리즘] \"인공지능 배우가 영화 주연까지\"…'틸리 노우드' 논란, 엔터테인먼트의 미래인가 기술홍보인가 - 뉴시안",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6dFdPWlF2SUxLTlRpaWdtYzF4RklJNlJ3SjM2MDQyZ1ExTEpUNGw4M1dpRHZJQ2Qtd05mN0lZdHFSNGlack50UkVrM3pqZ0o5U0J4ajB4MnRYQUxxa2dpNmd2bmtteng5RG5N?oc=5",
+        "title": "[인공지능 줌인] 데이터센터 건설 프로젝트들 난관 봉착…'AI 혁명' 가속화에 브레이크 걸리나 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pQnlZRGtxb2c5MTg5ZlBpckotQ20wRmowcVV1ME1nNkZLZ1k5Q19YbWhvZ2c2OWhqRE9LSTBoZ2tXQnAyLUNzQzJ3YzdxVktFVTJKLXRiYmowZXJDSm5MMUJmOVdQMHJlMThJUFlucw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 데이터센터 건설 프로젝트들 난관 봉착…'AI 혁명' 가속화에 브레이크 걸리나 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pQnlZRGtxb2c5MTg5ZlBpckotQ20wRmowcVV1ME1nNkZLZ1k5Q19YbWhvZ2c2OWhqRE9LSTBoZ2tXQnAyLUNzQzJ3YzdxVktFVTJKLXRiYmowZXJDSm5MMUJmOVdQMHJlMThJUFlucw?oc=5",
+        "title": "中, 인공지능發 소득 불평등 막기 위해 ‘임금 인상’ 카드 꺼냈다 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXg2a1c4Z3ZobXpMSmJfcklyZEZGWW5OekpzVE9YSi0zZ3J6N2dZeWlSMmN5a0hGNndYUzNNeTBmVDZJRG5sMV9haGpoS1NMTEFxWlgyZ0dYQUp0ckstekNMUWZmRXF5c0ZvQ1E1MS04UGIyNVhpXzhHRmt6ZjktWkN1Q3JHMkFF?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "中, 인공지능發 소득 불평등 막기 위해 ‘임금 인상’ 카드 꺼냈다 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXg2a1c4Z3ZobXpMSmJfcklyZEZGWW5OekpzVE9YSi0zZ3J6N2dZeWlSMmN5a0hGNndYUzNNeTBmVDZJRG5sMV9haGpoS1NMTEFxWlgyZ0dYQUp0ckstekNMUWZmRXF5c0ZvQ1E1MS04UGIyNVhpXzhHRmt6ZjktWkN1Q3JHMkFF?oc=5",
+        "title": "AI 전략자산 시대…WAIC서 드러날 중국의 'AI 생태계' - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5paFhpNXR4MzlXMm9KNXVJOFo3ODJFTGVHYURlREl4Uy1ueVBmWHZTUmYwVGx5c0EzRm00Yl9VeS1TQlVVY0pGbi1XNFhBVml0TmZFVURGakRvRUc0UnVN?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "리센느 원이 “무섭노” 논란…거제시 “정치적 해석 부적절”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860293",
+        "title": "장윤기 내일 2차 공판…성범죄 목적 자백 주목",
+        "link": "https://n.news.naver.com/mnews/article/055/0001371729",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 낮부터 산지·남부 비…체감 33도 안팎 무더위 계속",
-        "link": "https://n.news.naver.com/mnews/article/001/0016188466",
+        "title": "“1천억대 투자금 편취”…서정아트센터 대표 징역 18년",
+        "link": "https://n.news.naver.com/mnews/article/029/0003036512",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 경찰 특별수사팀, 광주경찰청장 등 장윤기 수사 지휘부 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/009/0005705956",
+        "title": "관람차 추락 이틀 만에 롤러코스터 멈춰… 경주월드 닷새간 휴장",
+        "link": "https://n.news.naver.com/mnews/article/469/0000941732",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산 중·서부, 창원 등 열대야주의보…경남 대부분 폭염주의보",
-        "link": "https://n.news.naver.com/mnews/article/421/0009053822",
+        "title": "경산·포항 첫 폭염중대경보…\"사망 등 중대 피해 위험\"(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014061290",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"시승 좀 해볼게요\"…오토바이 몰고 그대로 달아난 50대 실형",
-        "link": "https://n.news.naver.com/mnews/article/421/0009054144",
+        "title": "낮 최고 37도, 전국 '폭염특보'…남부 비 소식[오늘 날씨]",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384604",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-11 23:57"
+  "updated": "2026-07-12 03:44"
 }
