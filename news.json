@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "‘사기꾼’ vs ‘집착남’…머스크·올트먼, 애플 소송에 X서 디스전",
-        "link": "https://n.news.naver.com/mnews/article/018/0006328508",
+        "title": "KT, AI 스테이션으로 'WSIS 프라이즈 2026' 챔피언상 수상",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788651",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, AI 스테이션으로 'WSIS 프라이즈 2026' 챔피언상 수상",
-        "link": "https://n.news.naver.com/mnews/article/277/0005788651",
+        "title": "페이커에 감탄했던 강훈식, 대전 MSI 결승전 찾아 “게임 현장 목소리 듣겠다”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001178641",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "‘사기꾼’ vs ‘집착남’…머스크·올트먼, 애플 소송에 X서 디스전",
+        "link": "https://n.news.naver.com/mnews/article/018/0006328508",
         "source": "네이버 뉴스"
       },
       {
@@ -17,97 +22,40 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "민감해지는 AI프라이버시… 메타, 인스타서 사흘 만에 백기",
-        "link": "https://n.news.naver.com/mnews/article/029/0003036579",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "9월부터 시내버스 와이파이 빨라진다…LGU+ 사실상 수주",
-        "link": "https://n.news.naver.com/mnews/article/001/0016189876",
+        "title": "메타, 인스타 AI 이미지 생성 기능 사흘 만에 중단",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987197",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "삼성전자 용인 반도체 공장 양산 1~2년 당긴다… 2029년 첫 가동 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFpMDlDbE50UV94TnVieXNZN0ZaU0pEWWVhUUdJc0FfelFONTFZdWYtZVRJaU82VkVGZTFxWTBDTEE4dmFkVkNpejY3LXFRR085cGs3cjBKUE12SkxDdUdHOHJPbU9KY1JBTVg4M0wtek5sQ0lLeXctNTNWUHFEUlpB0gGWAUFVX3lxTE1pR05OS2RhZkNmdkEwS0lVWDVyd29sekIyOG05YXpsd2s5Y3lOQXdlUk5HNkZwdWZyclB5RFRGT0U5SHl3YUdKRm1hZHRON1Z0SEg1ZWM0UjdzQXZTVDNJQ3NLYjk3MnhPXzh6RnY0RWJBeVZFZzhoT2pUNGZ0ZFZXUlV1cFo2bUliZDhCM3VXTHhmbWRFdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "김용범 \"반도체 생산능력이 새 국력… 국가, 산업 병목 제거 역할해야\" - 파이낸셜뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04N1pNVHFZUHJpMkowTGxGYXh4S3J5OTNXRVU1M3J4QnhOYUhWQTRFbFRYQnVScVZGT0hrTmhqZkNtclVrbXZaQ29WWVBXZS1jTUhreTRjRkE2Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "김용범 \"반도체 생산능력이 새로운 국력…국가가 공급할 건 시간\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WnE2TWlVM2dkLXZULTh6TjE5SVJWS1RVN1BZc3hVX0dibXNfM3VwaW5KSnFxVElOd3RtOGpaTUU4c0t2cnlGR2lMV2p4dWM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“반도체 호황 일회성 아냐” 사퇴 압박에도 김용범 ‘800조 자신감’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMDFqZW5HVGdIMENSMlRwR0o3UzNTaUkyYWV0YzRPaXhzM0x4aktRcThkZ0FTSjZtcV9UUTB1Y0FJQ1dudy1aTGJsLWJWWmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[자막뉴스] \"미국 빅테크마저 떨어지면...\" 반도체 슈퍼사이클 통째로 뒤흔들린다 - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44cWY2YXFOX2hIY3RqZDZodktMU2piYnAyQXRVQThjN1RmZ1pxVmktM1JIekdGYzFKamhEQmJpc2Z0SnN4cWk5MmxmMjg5bVQ4dFZmSW5aOXJCRFl6NXc?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "미국 정부의 오픈AI 지분 참여 검토… 인공지능 투자 지형 흔들리나 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVRLcFlqSXRQT1lOMVBBZFRPRDIzajV3ZVBMYTJXMk1jdmE4OEdaZUZHOXRVeXVoRXZqaHB2VDd1YXJqUnhqNEVES00tWlY1Zy1OZ0ZkeWJJcEpHUXRYeDhpV084TmFxSHMyOVJON1prVWNvVDRpZ2xOQVJlb0tqV3ZuSXVRZjZH?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[인공지능 줌인] 중국, 공공 데이터 활용한 'AI 모델 학습 효율' 극대화 전략 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNFU1T0VnM2thY1FaeVB2N0hRTlRQdml5Vlo1US11UkRLbXpsZUJVR1lQdkktSjE1Rk1ROTZhRWlzWWhrdm5ETTJ4bC13bHNpbnNjal9hc2cydFFzcW4wTjhNUEx2SUE0N3RzMjBVSmQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI) 기술은 차세대 백신 플랫폼 개발에 활용되고 있습니다. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXkyNjEtbXE2SXJ6SEhuWWM0TUlyOTFTS055UE9wb3BVcXZkQUY4ek9kRUVCMzE1VDhwRW5admRWUlAwQ0o5NnFHeDQ1MEhnRUhPRUdvbFkyU3dOaDhHaTdkTXlrcGNTS3pfT0VMLXdGS2J3LTdzVU91Z1p3Zy1ZV1VB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[ET시론] 인공지능을 비용 절감보다는 수익 창출의 도구로 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hLUxDVTZidW1yejNfOTRvOXl6QnBTS2t3cjNRUTFua05pemk4aGtaZjlCQ3NTN0lnMjJmajY0dU5nT3RRVWVCc29jajY3UQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 기반 만성질환 관리체계 혁신 본격화 - 재활뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zZ3lDMURad3RfWjF4Ti0zRnUzdHAwMm5jQ1pkQnRoVDlTRlhzdVBsaGtWLVpQOVdvZXd2Uk1nTlh4LWtuT1FaeDhqMEJqZG55UmxZYnMtNVUzci1OZUpaWjhEYlZzdzZtQVlZ?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "\"외모·피부색 달라서\"…아이 2명 보육원에 버린 부부 '집행유예'",
-        "link": "https://n.news.naver.com/mnews/article/448/0000626162",
+        "title": "사상 첫 '폭염 중대경보' 발효…포항·경산 비상대응 강화",
+        "link": "https://n.news.naver.com/mnews/article/018/0006328672",
         "source": "네이버 뉴스"
       },
       {
-        "title": "질병청 \"폭염 중대경보 시 야외활동 중단해야\"...온열질환 예방수칙 준수 당부",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546921",
+        "title": "윤석열 ‘명태균 무상 여론조사 수수’ 오늘 선고",
+        "link": "https://n.news.naver.com/mnews/article/056/0012216543",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 형사과장 소환 조사…수사정보 공유 집중 추궁",
-        "link": "https://n.news.naver.com/mnews/article/057/0001958170",
+        "title": "초속 20m 강풍에 제주 ‘휘청’… 항공기 81편 결항",
+        "link": "https://n.news.naver.com/mnews/article/366/0001178580",
         "source": "네이버 뉴스"
       },
       {
-        "title": "장윤기 '성범죄 목적' 자백할까…13일 재판 주목",
-        "link": "https://n.news.naver.com/mnews/article/001/0016189152",
+        "title": "케이블타이·블박 영상 보고도…경찰 “성범죄 입증 어렵다” 덮었다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003733282",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKY 합격자 중 특목·자사고 출신 계속 감소…그 이유는?",
-        "link": "https://n.news.naver.com/mnews/article/079/0004167433",
+        "title": "찜통더위 이어진 대구경북, 온열질환자도 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/081/0003660432",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-12 20:53"
+  "updated": "2026-07-12 21:54"
 }
