@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
+        "title": "그라비티, 한·일 공동대표 체제 전환… 모회사 겅호 분쟁 속 ‘지배구조 안정’ 강조",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860684",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "전 세계 삼성전자 직원들, 구글 '제미나이 엔터프라이즈' 쓴다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005309162",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "과기정통부, 대국민 AI 서비스 개발 착수",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987324",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "넥슨, ‘헬로메이플’ 대학생 크리에이터 제작 월드 6종 출시",
+        "link": "https://n.news.naver.com/mnews/article/009/0005706469",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "팀네이버, 국제 머신러닝 학회서 'AI 풀스택' 기술력 공개",
         "link": "https://n.news.naver.com/mnews/article/092/0002430287",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "밤잠·생활리듬이 위험 신호…뇌혈관질환 예측 AI 나왔다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004142402",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "삼성전자, 구글 AI로 전사 업무혁신 속도낸다[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016190303",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KT, 정보보호 자문위원회 출범…AI·제로트러스트 전략 고도화",
-        "link": "https://n.news.naver.com/mnews/article/014/0005546813",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "5년 된 게임인데 또 1위…카카오게임즈 '오딘' 정상 탈환",
-        "link": "https://n.news.naver.com/mnews/article/015/0005309302",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "반도체 테스터 업계, 수주 랠리 지속…삼성·SK 투자 수혜 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwN3R3empicTN4TVZBbnp0MjlHWnVKOTh1MVhTU0ozQWYyc0pGYmU3U0R0T2NFSTVIMWtzWjdZcmkyX1RxVFlNakN5czN6a1dLc0pUY3l3?oc=5",
+        "title": "삼성전자 노조 \"조합원 84%, 호남 반도체 반대…내년 임단협서 다룰 것\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IaE1MUFhyVm9jVG81YzM5SWxCT2YyQnF1R29UckltUVo5UmhCMXlxZm9KN1pPSnlVVU45MzdiSkRwSFg4SEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘용인 반도체 속도전’ 본격화… 정부, 실행계획 내놨다 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdEdvMzdKTWhmNHpRMTdTakdaM0M2bDNIc0dJS0tkMHVKbVR3SnhFWlVQV2hkcjQ5UXpOQ0tLYTBKUTFEcHdiTmRyUzhVMnJydGtKOXpjbEl3Tjg?oc=5",
+        "title": "삼전 노조 \"호남 반도체, 조합원 84%가 반대\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWZPTEYtZVZIcXNrZ2dieDF6eWROYUV2ZHVFSlRkUzctTXpRYmEzSFZETDBnRUJBeXJ1eS1oeGc2WWwxZjVOVEZUSzJKaS1wOXRzS3FmLW1PLU5CMHpzdHprcWtpSWlEa21vOE4tSEJubkJpRHY2ZkNiSGt3amZmQ1NsVQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자 용인 반도체 공장 1∼2년 당긴다…2029년 첫 가동 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LR1FuZkVfOVd1SHpoQmh1RlN6bmhvWW1najlXOGZyelJENm1qVUxKUGxnQjZQQWFzY09WOGNIRjhpaUJFX2VxMGNzMDNqX28?oc=5",
+        "title": "삼성전자 노조 “조합원 84% ‘호남 반도체’ 반대…내년 교섭의제” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04NnpiVU9BQXJLb2d4RWR3c29hcmhfS1lfV0hVS3lHZ2ltblkzcDhPS3VjeEFFYTQ0ZlV5OWtRZkxfUllGaTRYbmQwZGxWRkE0a0dHRXhuUWdaMnJCV1pfTjZpQk8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "국토장관 “용인 반도체 국가산단 연내 토지보상 마무리” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4TXJEdkE5Vmh0d19yMGFpNU44bWhXLVd2NmFCLXZReExlVnotZTJaZ0FuUjRhZ2RMOEw3ejdHbzhFcFY2NWUzQWdaemxDeFE?oc=5",
+        "title": "[증시 긴급진단] \"기술적 약세장 진입…반도체 실적 전 매수 기회\" - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QaC04elFuamJRMGlFY25MYUd5bTZlWm1TOVRNMzIzMGp6aGthU2U1TTRuYUtSMzBjRlJDSERhWkdqOU1NOWdzcXNQRmpIcUhHcTQ2a0FqOTJQMEVPdUU4ZXUtS3VHcG40T1BEQUFtYTY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "두원공과대학교 반도체부트캠프 사업, ‘AI 융합 혁신 교육’으로 반도체 실무인재 양성 강화 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhd1dEVXR6bnBpOUhGQW9DbUdZMmtyUHFiOUMxWTZ0UGZCQldiX2FEd0d2MVd5S2Zvc0t0Uk5MR1VnaTE1dnZTV1pWSmo2OFE?oc=5",
+        "title": "‘반도체 쏠림’이 부른 부메랑…코스피 6800선, 블랙 먼데이 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5V3hmMWhTZzVaUWYyUGZMTFlkM2ZfU0pnbHFUbHVwaWEzN0RyY1ZXUGtLUWh2SUlTbzktd2VNNGxvcEljc0hENjRadXF3S0k?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "자이 아파트에 인공지능 넣는다…LG전자·GS건설 AI홈 맞손 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNzhjdm5LNDlRUV81dEJQZktuN0M2RHViTVEySlAzQ1RkaEY0dUVjNG1MZkhzTjU2Tmc4MkFYZjM4Nk94bnNlazExQ2pMSjlvUHgxWUVmSmVvTDUyaEFrQ0lVd1V1TE1LZlBlNXhPZzc?oc=5",
+        "title": "\"대형언어모델 이용해 AI 간 소통 규칙 자동 설계\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNWR0X0h4OG9WMzdiZWxpbVo0elA2N3d6V2pnZkU3NVZtWU5pMXNJTEY1enZRMHZYMWM4czEzMU9GdWRndU1ZTHY5UmVYWEFySk1kQnVFMk1IaURwUEhRNNIBYEFVX3lxTFBQNWR0X0h4OG9WMzdiZWxpbVo0elA2N3d6V2pnZkU3NVZtWU5pMXNJTEY1enZRMHZYMWM4czEzMU9GdWRndU1ZTHY5UmVYWEFySk1kQnVFMk1IaURwUEhRNA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "미국은 ‘속도’ 중국은 ‘표준 선점’…미·중 다른 AI 전략 속 열리는 상하이 세계인공지능대회 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SFN6bW9CX0VtLXVLY2JYTjhsWkg0V1phZVVlOXZudEpGLWYtcU5VZzZCazliUkRkTGpPU3ktcmZxRGsxVHNaUnd2Wnd4NWtFWUsyaHZDRkt6Z9IBX0FVX3lxTE4tTndqQ0ZUU2RUZmRfOEpOckZUOVZQaml6OVM0Z2hWV3pxSVZlNzBJTGJCWE9OUU9nZm10aHgzbWtWcGJXWEZTLVp4Y2V2NVlJUEpNXzdpMzAxdUxZdWww?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "가천대 길병원, 디지털 혁신 기반의 AI(인공지능) 전환 위한 리더십 워크숍 성료 - 경인일보",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNnZ0UkpxTUQzdkdHUVhsbHdrUnZiSVc2alR6ajE5U2hDelRNakpld0U5bS1pbXBrU29TSGNub1FKaG5aVHFuUDR1Mmx1bEhqcEE?oc=5",
+        "title": "교육부, 2026년 대학 인공지능 기본교육 사업 출범식 개최 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xc2RYdnNNWHFvTXcyLTR1NHdmTjd4cF81VzBoVWc2aC00NUJ3MWRRMzZBZW5FSVNYaENtaFRrTGdSS2dBY2RETXBlUzJLb25Jd2lSMU56M3pNQ3A0TzVhRDNqTnhRazg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시, ‘인공지능(AI) 숏폼 서포터즈’ 모집… 총 1000만원 규모 활동료 지원 - 경기신문",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5dTUtMHA5WWZJcG9TVnpOTkh5dHdCT0EtMWhHVG1iRks1clB5cTh6N1h0TmM4cTFyLU15UVMtVGFsYTNUa2wwZmt3SG9nQ0wyZzBydnpSVzJEdDhKUmFWeWVn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한국, 아세안 AI인재 거점 말레이시아로 확대 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CMmE4RDF4SktXZXBuNjROdkxFbnpma1d4cDJKYU9XUFVRT0h5R3J1dXJvQXZPVERHRVZPNVFWczdlbnNzRUxaRVI2UHJITzlUaldfVUVyOGVnZknSAWBBVV95cUxPajdXc2tLRG5nU3VsUGhwVGtfTFdOVWJjUUU1aEJfYS03UHdnazVhMkdFcDZ0b3F2bENjSVM5b0IwaGZXZ3FiVGdTbUNKMFh0em9HeDVoZm5rcWh1VEszeDI?oc=5",
+        "title": "자이 아파트에 인공지능 넣는다…LG전자·GS건설 AI홈 맞손 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNzhjdm5LNDlRUV81dEJQZktuN0M2RHViTVEySlAzQ1RkaEY0dUVjNG1MZkhzTjU2Tmc4MkFYZjM4Nk94bnNlazExQ2pMSjlvUHgxWUVmSmVvTDUyaEFrQ0lVd1V1TE1LZlBlNXhPZzc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "고용보험 상시가입자 6개월 연속 20만명대 증가…서비스·제조 양극화",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385115",
+        "title": "[속보] 김하수 전 청도군수, 야산서 숨진 채 발견… '인사 비위' 수사 중",
+        "link": "https://n.news.naver.com/mnews/article/469/0000941874",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'주가조작' 김 여사 이주 대법 선고…윤 전 대통령 '무상 여론조사' 1심 선고도",
-        "link": "https://n.news.naver.com/mnews/article/008/0005384692",
+        "title": "인권위원 5명 ‘尹 방어권 보장’ 권고 폐기안 발의…“대국민 사과해야”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004640946",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기 온열질환자 하루 20명…올해 최다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016190798",
+        "title": "'명태균 여론조사' 尹 유죄·김건희 무죄…판단 가른 '묵시적 합의'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014064193",
         "source": "네이버 뉴스"
       },
       {
-        "title": "조선업 노사정 협의체 출범…AI·인력난 해법 찾는다",
-        "link": "https://n.news.naver.com/mnews/article/277/0005789138",
+        "title": "전남광주특별시의회 \"호남 향한 조직적 혐오 즉각 중단 촉구\" 성명",
+        "link": "https://n.news.naver.com/mnews/article/277/0005789245",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'대통령 관저 부실 감사' 유병호 특검 출석…\"허구 시나리오\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009055699",
+        "title": "'태권도장 물놀이' 갔다가... 고양 워터파크서 7세 여아 사망",
+        "link": "https://n.news.naver.com/mnews/article/469/0000941975",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-13 06:56"
+  "updated": "2026-07-13 10:31"
 }
