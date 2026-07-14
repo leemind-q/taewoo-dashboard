@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "인텔, 아일랜드 팹에 8.5조원 투자…유럽 생산거점 강화",
-        "link": "https://n.news.naver.com/mnews/article/277/0005789922",
+        "title": "IITP, ‘양자 플래그십’ R&D 기술 개발 공유",
+        "link": "https://n.news.naver.com/mnews/article/016/0002670278",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 애플 제치고 스마트폰 1위 탈환…2분기 점유율 24%",
-        "link": "https://n.news.naver.com/mnews/article/031/0001041999",
+        "title": "AI 이용료, 정부가 지원...‘AI 취약계층’에 구직자·경력보유여성도 포함",
+        "link": "https://n.news.naver.com/mnews/article/009/0005707315",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국산 AI 공짜로 쓴다…‘모두의 AI’ 공모",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537326",
+        "title": "삼성, 구글 ‘기업용 AI’ 전면 도입… 사장부터 사원까지 ‘AI 비서’ 둔다",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글 “韓, 글로벌 AI 격전지… 풀스택 전략으로 기업용 시장 공략”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001179149",
+        "title": "AI데이터센터 범부처 TF 운영, 전력·용수 전폭 지원 [국가재정전략회의]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005547562",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'2026 K-NPU 테크 웨이브' 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다",
-        "link": "https://n.news.naver.com/mnews/article/030/0003447771",
+        "title": "게임 제작·서비스에 AI 확산…정부 \"AI콘텐츠진흥법 연내 추진\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009059012",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "피에스케이홀딩스, 리플로우 장비 300대 수주 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jdHRFQXE1MXI2bjR1Rkw3ekY2NGRfTklJLXNCTXROUDQwLU9tTnRTdmhDU0liek1ydHlnRHFRdkxPb1JBX3lLU0NUTmk4THd6dHBHb2V0ZnhuWFdxQlczQVJaRjhWUQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"점심 먹고 왔더니 반도체 또 오르네\"…코스피 6900 재진입 - 머니투데이 - 머니투데이",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTlM1TmNXMWl2SDBhUlc3ZV83OWdSbnBJblVPd1VyRGx6b3dXRmxNLXNLSjVrM2F5REVibW9vRVZIQ25mZ2xyazlKb1FRRlY2MjI4M2dYMG1DY3pTSEIzODVveDVJY21H0gFuQVVfeXFMTXp6VlFzY0RwdDJNTGVNRkNXYUhaZW94dGxQeC1waWRfM2ZyOWY4VTdLdGlmU3NpMWVVa0M3Q2J5V3dEdi11b0c3bmZMeGlLM1pNdVFQUnduSFZqNFBrY3Rxa0JlR3FLLV9kSmRrOEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "외인 매도 다소 축소했지만…\"반도체 재평가 동행해야 수급개선\"(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dVB1dnl1UmVXeUxrSDZqR04yTTN0YVJIU1cwRjR2YVc5NUJCRXJoNzd0dENORm9WeWY0RUxaMy0yaWdMbVo1VVlWSl82aU0?oc=5",
+        "title": "반도체 훈풍에 성장률 3% 목표로 뛴다…\"경제대도약 원년 완성\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PeUJLamp5ckpKQmd2My1rSmNxZFhXRnIzVXY2bkZkaDBDNHB0T2JxNngxWDZJWEFYRHVKY0RQeUpzbFFsSW5LYUpaUUtWNzdjQy01VkttbWE5czDSAWBBVV95cUxNR3hfc1M1bndmaFVuV0JpVHAxdHhfSXFYTTZ0bnppeGx1VmkxYnNBQkU0UWY3djBqcHh6T29wLUtuRTVmN2h5WFQzOEtQV2s0Nlh0SnpUOUZQdmJRUXQ1Tzc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 휘청…코스피, 8.95% 급락, '7천피' 무너져(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yTzZMT3c0SVhlR3p6MV9wSEhYU0IwWnFTb2gxeFl1Unp0aFNfT0tQbGhpRUJpWEhZS0Q1ZFlCOG1CU3lKTmo0cFZMOTc0eGdQMXRZb0dBMXN3ajDSAWBBVV95cUxNY1pXV0VqVDNEU2RYWW1jczBUUUMyenhlWEU5dG8wc2pGY245R2pJMHpkYWVHTmVibTZ3bmx5azBwMjlIZFFmRl9yU2J0SThNOF9oZFhTTXdtUE01Z0tpbEk?oc=5",
+        "title": "타워 반도체 주가 오늘 급등한 이유는? - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWN3JjeDdXSXZLT25GVmthMWpYdGdjbDA5VjBOZkxtak9tc1VwS08yTkhWaFQ5bklla3U3TzBBeFlZQTM1VEFQQy0yRGxVOERNeHhycFJEVEs3ZGczT2F0dktXQW1LQjJOTTI5S0lPXzc2SU5KTGlZ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[증시 긴급진단]7천피마저 붕괴…'반도체 투톱' 삼전닉스 폭락 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTmFLalZaYnJMVGtsMUZBdk5LUE1tVkc5a2E4TkxEYkxFaGtmX3JEUkkyRkZKaDZrNzIxa1FvWG0zVEFvbnV4b3pwWjExTzZ1ZFYxQVV3RXgzdWlnVE1EVkJvSzBKcjRHaFZUSkN6MGo?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[뉴욕증시] 이란·반도체 양대 악재에 하락…SK하닉, 9.3% 폭락 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KaXBOeDBjcFhONVpHTXlkaUZTalhJbmt6Z25tdXVRLUVEZHJId2p6WDVvQUM0cUVjZmwzTG9QUTAwaGxuMGc?oc=5",
+        "title": "[광화문에서/이민아]우리는 ‘호황’, 그들은 ‘병목’인… 메모리 반도체 공급 부족 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jWk9NSGZHWmJEV09ZR0FscUNNY2lpY2NQR3VIclNOS09FZjBRNjdSQTgwWTIxaTN2MXpNdGIyRWFwdXpua0g4YURfcHE5a3BJUmhWRTJUZFRqM1FneC1fVW45V1ZlQ2tVMWlFdkJlMlpWektyY1HSAWZBVV95cUxPQ0h2d3NSd0d4dE9hYUMyb1BERWxCaDhCNXRDX1JEeldfdi1iTF91U002MVFOLVZic3hLc2FOQXZDcGFkOWxONlhfbngyNUxLUldGT0FxOHRjU3lWUVgxTjhlNERBOWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "인공지능(AI) 시대, 해양산업의 미래를 논하다 - 쉬핑뉴스넷",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWGQ3TmtfeFlWLWVfNkhvV3RWMC1feGtvLUc5MTRiN2NHXzZQaUlQVlAyZk1xN0toeUxVbllwaC1HbmhpRFllaGdzNGoxUUZJLWQ4V3l3VUF2cXJMM3JJQmxuT053dkZacXF4aVBnaHZoRG8?oc=5",
+        "title": "[기고] 인공지능(AI) 혁명, 인류 문명사적 대전환의 서막 - 미래경제뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VZno2bldnd3drZUtKSUlXOS1Kcm5zaFRFUFJ1VWpOdjNXQ2JWUHBTaHBRVllWSWthaUN0dm5JMXJhWmVFUzNjbUl1R2ZPQzJMblVwWUNQNjFSZGI0RmJSVEdqLW9CZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "금산군, 농업인 정보화교육 생성형 인공지능(AI) 과정 순항 - 금산중앙신문방송",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3QTgzYW80d04tazZiQkU3OUVtYVJUcFV1N29ORU5NSTdkdVBLWVAtYzV0dmpaaVc3XzJ2MTF6dXNoNGhpOWFsQVpaTUlwbnpETU83YVBwYWdILUFrV1VoREg0eE9HLXhqMzRYdlRR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'AI기본법' 국무회의 통과…인공지능 공공조달 구체화 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wS0sxdHRicG9MMHNLOEdOQlI0MG5zTTBCWmVUa2V2bUlpN0JEenpnZEpWaE5hMjg5TEJFVGpUd3pEZEUyVGI4WHczWXY2LVU?oc=5",
+        "title": "인공지능(AI) 시대, 해양산업의 미래를 논하다 - 쉬핑뉴스넷",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWGQ3TmtfeFlWLWVfNkhvV3RWMC1feGtvLUc5MTRiN2NHXzZQaUlQVlAyZk1xN0toeUxVbllwaC1HbmhpRFllaGdzNGoxUUZJLWQ4V3l3VUF2cXJMM3JJQmxuT053dkZacXF4aVBnaHZoRG8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한양대학교-한국경제신문 인공지능(AI) 역량 제고를 위한 AICE 자격인증 제휴대학 협약 체결 - 뉴스H",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtSTBWZmJpVkE1ZWdxRjY4TTRpXzRPMkhCVm5uOU56S3FOd21VY2FWWE4yb2ZHODFQQ0dpUmw0bUtLSTYxWmRqREdOZkJ3RTAzZXlDVmN6MHhJelJWbHg3LWlyMktaN2tVeGhn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "공공조달 시 AI 제품에 가점...인공지능 기본법 시행령 개정안 국무회의 통과 - 뉴스웍스",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSS2tnbS1VLUVqRWZTQk43akUxOTF5U052OUFob2FFaVZITkhoY3pqM3lzbV9zNkJlYkx5aW13NWp3RmtabmsxNFQtd1htQzNFNElsOHlwWk05VHlxdzNzaERfNlFOVllYbDNSS1lYMNIBc0FVX3lxTFBuWVVURF92X3NGWE11RWFJa3MzaWdBRHplMmtkNkNneTE2c1RLVDhwN0VSVTl1MFZGQWxwdFNEY1R1ZW55TWU3RnQwTk01bVp2bmF0anZsVWtENEhNNWg5XzNTR2ZaY19NTjVjeDFTZHlESkU?oc=5",
+        "title": "앤트로픽, 언어별 답변성향 분석했더니…\"한국어로 답하면 따뜻\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0RFYyc3Y0ZkZvZHQzaXZ3dHFJOUE5MnJwYXB6OXBMaGprQ1VrREdEYzd2THdJNUZWemlSRDlZUXJhbzgxT3ZEdDg4ZnphcXpiTGJ3N2k3V2I0amvSAWBBVV95cUxPYmV1aEVMUm1hYzNRR3d4QWJkNE50SE9XNWhsbnUzT0lrcG5DQkxhcWxDTzhIUE9qWnJFeGlTMExYWV9HR0lUYzRIU3BOazQ4bFJiLTI5cEd6RFZqMmZWamk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "취임 직후 '카지노 카드' 꺼낸 이원택 전북지사, 첫 시험대 올라",
-        "link": "https://n.news.naver.com/mnews/article/001/0016194216",
+        "title": "\"바닷물도 끓는다\"…해수부, 고수온 위기 경보 '주의' 발령",
+        "link": "https://n.news.naver.com/mnews/article/003/0014066721",
         "source": "네이버 뉴스"
       },
       {
-        "title": "춘천서 반려견 52마리 방치, 굶기고 일부는 폐사... 60대 구속 송치",
-        "link": "https://n.news.naver.com/mnews/article/654/0000190356",
+        "title": "내년도 최저임금 1만700원…노사 모두 “유감”",
+        "link": "https://n.news.naver.com/mnews/article/032/0003458183",
         "source": "네이버 뉴스"
       },
       {
-        "title": "尹-明 '의사 합치' 연결한 김건희…\"당선 목표로 중요역할 수행\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016193444",
+        "title": "커지는 카지노 반발.. 도박장이 투자 유치?",
+        "link": "https://n.news.naver.com/mnews/article/659/0000045171",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1500원짜리 아이스크림 나눠 먹은 중증장애인들이 특수절도범?…경찰 과잉 수사 논란",
-        "link": "https://n.news.naver.com/mnews/article/014/0005547686",
+        "title": "종합특검, '관저 이전 부실 감사' 유병호 감사위원 구속영장 청구",
+        "link": "https://n.news.naver.com/mnews/article/047/0002522544",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김건희 19일 종합특검 출석…'관저 이전' 조사",
-        "link": "https://n.news.naver.com/mnews/article/422/0000884681",
+        "title": "\"홍명보 선임 적절했나\" 수사 본격화…박주호 등 잇달아 소환(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006329851",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-14 12:48"
+  "updated": "2026-07-14 14:54"
 }
