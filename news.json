@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "구글, 국내 기업 겨냥 '풀스택 AI' 선보인다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005309875",
+        "title": "포스트 스마트폰 노린다…오픈AI, 화면없는 이동식 AI 스피커 개발",
+        "link": "https://n.news.naver.com/mnews/article/138/0002234224",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 애플 제치고 2분기 스마트폰 세계 1위 탈환",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733847",
+        "title": "KT, 삼성전자·HD현대삼호와 ‘조선소 피지컬 AI’ 실증…자율 운용 네트워크 구축",
+        "link": "https://n.news.naver.com/mnews/article/018/0006330059",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT 독파모팀, SK AX·테크노매트릭스 합류…'산업 AI 전환' 속도 낸다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006329687",
+        "title": "앤트로픽, 언어별 답변성향 분석했더니…\"한국어로 답하면 따뜻\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016194654",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 'AI-RAN 선도망' 구축 사업 착수…AI 고속도로 속도 낸다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005548015",
+        "title": "아이폰18, 원가만 45만원 뛰었다…'역대급' 가격 예고",
+        "link": "https://n.news.naver.com/mnews/article/015/0005309835",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국 대표단, 국제물리올림피아드 전원 금메달",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987636",
+        "title": "검색 넘어 실행까지…네이버 AI탭, '국내형 AI 에이전트' 승부수",
+        "link": "https://n.news.naver.com/mnews/article/008/0005386209",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "[증시 긴급진단]7천피마저 붕괴…'반도체 투톱' 삼전닉스 폭락 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTmFLalZaYnJMVGtsMUZBdk5LUE1tVkc5a2E4TkxEYkxFaGtmX3JEUkkyRkZKaDZrNzIxa1FvWG0zVEFvbnV4b3pwWjExTzZ1ZFYxQVV3RXgzdWlnVE1EVkJvSzBKcjRHaFZUSkN6MGo?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"점심 먹고 왔더니 반도체 또 오르네\"…코스피 6900 재진입 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTlM1TmNXMWl2SDBhUlc3ZV83OWdSbnBJblVPd1VyRGx6b3dXRmxNLXNLSjVrM2F5REVibW9vRVZIQ25mZ2xyazlKb1FRRlY2MjI4M2dYMG1DY3pTSEIzODVveDVJY21H0gFuQVVfeXFMTXp6VlFzY0RwdDJNTGVNRkNXYUhaZW94dGxQeC1waWRfM2ZyOWY4VTdLdGlmU3NpMWVVa0M3Q2J5V3dEdi11b0c3bmZMeGlLM1pNdVFQUnduSFZqNFBrY3Rxa0JlR3FLLV9kSmRrOEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[오늘의 증시]美 CPI 3.5% '예상 하회'…코스피, 반도체 훈풍에 상승 기대감↑ - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2MEstUm5pOXoxMEVHM3k3SElCa2hWclNqcnV1eTVHMFpOWktaOVVLRUlrRU9aQzlaU0wtNnRiNG8wbDRhNG1DUTFnR3oxWlAteERIVTVmU04wMnJtbW5YcdIBeEFVX3lxTFBwZ2YzdDhsMDZrLWRwY29idmNCRXN1UlB3TndvR0paNktFNWE2ektmTktrRW9DYVVUdkFjeEM3dW5pRnVzOGhycWJmZk5HU3NzZDBfYlpVN2JxdEQweFNmeVFBZzVFdUJsQloxcjRkSjc5Mzk2TzdSaA?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "4500조 쏟는데 또 …K-반도체 옥죄는 美 투자 압박 - IT조선",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVVpSMUpraTlZZ0dNY0pCYlBmNlZaZU5DNjJSUWtuS250Z0YwVHZ3Q1ZtYnJRdUVIT2ZtcC16TzY1TVRucXlkRlB4NHlESXZZekpMQXlsOWhYYXdYeUtmQll6ZlNRaGl0dzVPbWZzRlLSAXRBVV95cUxQcHV0VnlQbnZIRVdEZC04X2tac1k2QTMtMW4tb0NRT0pyallDUnMySVlPUy0xMzg1SU9mT0l3X1c4TlpOVE85U2RWcjFSdDZFX0hTR0NTYTVvd3pOVExaTDNkekVEcHY3bGJZak5Wb29DNVVfdQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체에 올라타 ‘3·4·5’…고용 전망은 축소 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUl9YOXpIZ3h6ZU1ZX2ZfeWhkTjlKM2ppN2JTd09keVd4WGtPX1pJS2NXMDk5SDhROGZTUjA4SkNZTHlVd3EyMGVBZk5EZ1FtTGJJM0NCTTFwUkk?oc=5",
+        "title": "\"없어서 못 판다\" 빨리, 더 빨리…반도체 팹 증설 전쟁 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YdEFZRkp6MUUtdlBuV3R5bkhqdXdOMVc5bEtFNVhzTGpiUFo1R1hZTzlDTEZxVzJNaWdkMjNpNHBraUJrTVo1SXBiblB4dURkSmIxdWVpNTM2YXA3NnpDekE4cDNZbC1ja1pnYdIBckFVX3lxTE0yNTdLNzJrTFNZSWNNMzFLZGgyem5RbllKbzJDbHNtai10blVFVVlEaTUzQlhXQkxhcWJtbExxY0JlZkFGSGVRbVJ0dVBRVVFFbGE1RldRVWhlVVBCWjFzX0ctdVVWa1NUMDNDdkhCdl9JUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "K-석화, ‘돈 안 되는’ 범용 넘어 반도체·AI 소재로 체질 개선 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13RWw0bk9XSXloM3BKeVduRFJyX3ozeW9UeG1GdHBXVzFuOVdCa1ozSWVzTUJuR1V6Yk9LaEZuaXJuN0Jaa2NlZGl5QXQ4X28?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서울시립대 김태완 교수 연구팀, 차세대 2D 반도체의 우주 방사선 열화 메커니즘 규명 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZRzRWcXExMjBlWTlmMUdMUFduNVJhdy1TSHlBYmwxbzlLaDJxZFlxVmx2aWNsZk82Wm51cUlaTVdTRjF0U0lHMEttQ2xsQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "에이루트 자회사, 대만 반도체 기업향 노광장비 수주 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaVBVRkNfWlFDTFY4R19xcUh2YndjZmdaTTR1TXdxWjNmZUVRakk5dEVXcktHRFJSdXBHcUd3WTFGcjJrbFZkZ044MjNfbEV3OEd6NWZsbVREYnItSnRWSNIBeEFVX3lxTE1SdWVvcUtNNjFMU295Ym4ySktNVGEzd0tQNnNJS3UtTzA4MGxPMTNqVHVrdEhXbkZFMmVBWVBHVVJsaWhRa0F1Tl9hR09Kdm9JV1c4cFl0Qm5zemV3Sl9qbFB0X2pJcnpmOWxnS2EzN2xQNTRaZlFpcQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "금산군, 미래형 인공지능(AI) 행정체계 도약 밑그림 - 금산중앙신문방송",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcExmempHT0wxQ0VidDJTVU5GRm5ZbW5HYllHaU04dG9oMExtY01fNGZCQ2Y2alVhTzI0VHAwTjFZZ2pRZl9xdmdMb3lucFlEeXJOZXl2dEc2Q1RNdDRFaG5ZSXJKTnB4T05OZUVn?oc=5",
+        "title": "파주시, '인공지능(AI) 콘텐츠 도시' 조성 본격화… 출판도시 대상 기본계획 수립 착수 - 뉴스후",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBIMGJldGJVN3JfWXBuZ1QzUVNvaWlVLWs3dkVFNy1OTGF5RjRRYXBYVEJMSWk3blBLSnc4a0o0b3liM1k?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "파주시, ‘인공지능(AI) 콘텐츠 도시’ 조성 본격화 - 수도권지역뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3MEJFSmRqc2hZRnRjdlFvVU5mbl9XNkYtZDZjX3RTZjNkN05vZnEycDFQWVkxWW9PeTZodWZqejYzQXU0MkJvcTVyRkludlFBeXpBMlVtMTVXbGdyMXRndndBeVV2Y2Jf?oc=5",
+        "title": "기계설비건설공제조합, 모바일·AI 서비스 전면 도입…\"보증 신청도 AI 시대“ - 건설이코노미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95dG10enhvM1dpVlBldHpuMkcwZUNTQTRhdVpZcUNqRnIxbFBVY1BweERpVGhydTdBc0xjV3lHWHlCXzVweTd3Qzk3VVJaQjRvRmowZm1ZR2swUTFSUjFnbHRnaUM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "구글 AI 책임자 \"AGI 도래 눈앞…美 주도 규제기관 신설해야\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41M2ZqbkpnVW4zSEs2dTVWM1Q5SXZrbmxrV0JjajNqOU51SV9jaHExMTVEVDhMTEpIM0ZTY3psM2dmOVh0NzdIT3BobENKdXI3LVhZeEJPZDdpb1nSAWBBVV95cUxQVWZfbUR0M0ZkRXNYOWhQVkFHMS1CMUdCVlBoOVF2RmhvMVdVWkRFem8zRVVZT1pYNkxCWWlWZjlNVmM2TV9zay1WY0U4UVZ2VGN4Q2JXRFpBVWlEbHg3d0s?oc=5",
+        "title": "AI 인재 양성 스칼라 울산캠퍼스 개소 \"청년 유출 방지 기대\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zRG1rb2J3WmcxUjhNSEpycUlBVnZFcWpjVmo3dmZscVg4OWZSenQ2aEZCa3JUU0VTb0xjd2tFLXNkX3hlVzNlNXFET0d6Yzk5b1N1UDU4MHg5NHPSAWBBVV95cUxPT1pJTVk2WjB4YlpRV2FjXzd3RW5DV0xzMXRvNk5FVFFDTFV1Rm12OUt6NWxpeE8xTTNDb0Y0NUpoQkhwRWhsSDM2Zi1QZUU5RWc0bVI5NDV4eURiU0Mwem4?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] AI 열풍에 가려진 중국의 침체 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YLWJRLXVLUVVGY0FwNW11UVg5elRlLVhrRHJuamxxZ1BwRXJCWUVFbXBfV2NidWFzSUNON3NIVVBMdWFsRV9NT0RLTXpnS0toVUdNRTdiQllzN0dZTVdEdXZvOWQyUUpUV19NVmVZOA?oc=5",
+        "title": "울산어린이청소년도서관 찾아가는 인공지능(AI) 랩 참가자 모집 - 더뉴스코리아",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iLTJXM0Z4Y0VXdzJrRFhPZkE2TlpuQXpqWG5EU19yZEhkcWpHeFp5U1pTczZDMGt1d2d6d3ZrTFFxSDFFODJIOFNB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
-      {
-        "title": "법원 \"쿠팡 '동일인' 김범석 지정한 공정위 처분 효력정지…손해 예방 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000181472",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "이 대통령 “촉법소년 연령, 낮추긴 낮춰야…최대는 2년”",
-        "link": "https://n.news.naver.com/mnews/article/057/0001958479",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "초과이윤 논의 시작...노동장관 \"AI시대 새 사회계약 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002379344",
-        "source": "네이버 뉴스"
-      },
       {
         "title": "송민호, “사회복무요원 근무 당시 임의 결근하고 미리 휴가낸 것처럼 꾸몄다” 시인",
         "link": "https://n.news.naver.com/mnews/article/087/0001205118",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김소영, 유족 손배소에 “평생 벌어도 못 갚아…감당 가능한 금액만 청구해달라”",
-        "link": "https://n.news.naver.com/mnews/article/087/0001205141",
+        "title": "50대女 몰던 벤츠 ‘쾅’…인도 돌진에 30대 행인 숨졌다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003537406",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "속초시, 7월 정기분 재산세127억원 부과",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205008",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "경제계 \"최저임금 결정으로 영세사업자 어려움 가중될 것\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004168495",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "중1도 강력범죄땐 형사처벌…촉법소년 기준 만 14→13세",
+        "link": "https://n.news.naver.com/mnews/article/015/0005309921",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-14 23:25"
+  "updated": "2026-07-15 00:51"
 }
