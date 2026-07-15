@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "황우석 최고과학기술인상 22년 만에 취소…대통령 재가(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014067302",
+        "title": "업스테이지, 퓨리오사AI와 다음 'AI 오버뷰' 협력...\"K-풀스택 AI 첫 사례\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005548535",
         "source": "네이버 뉴스"
       },
       {
-        "title": "업스테이지·AXZ·퓨리오사AI, 국내 첫 '풀스택 소버린 AI' 구축 추진",
-        "link": "https://n.news.naver.com/mnews/article/119/0003111841",
+        "title": "KT, 미래 AX 기술 총출동…AI·6G·데이터 한자리 공개",
+        "link": "https://n.news.naver.com/mnews/article/009/0005707861",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT 이사회, AI 인프라·통신망 점검…\"미래 경쟁력 확인\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005790520",
+        "title": "삼성전자, 폴더블 신제품 주름 개선한 ‘플렉스 티타늄’ 기술 공개",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987777",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 올해 폴더블폰 신제품에 '플렉스 티타늄' 적용",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430581",
+        "title": "‘논문 조작’ 황우석 최고과학기술인상 취소…수상 22년만",
+        "link": "https://n.news.naver.com/mnews/article/366/0001179312",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버 AI탭 1000만명 썼다…검색 넘어 실행형 에이전트로 확장",
-        "link": "https://n.news.naver.com/mnews/article/018/0006330823",
+        "title": "“AI는 검색보다 작업 OS, 게임보다 AI 채팅”… 잘파세대 일상 바꾼 ‘참여형 소비’",
+        "link": "https://n.news.naver.com/mnews/article/366/0001179467",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "검찰, '반도체 부품 담합' 삼성전자·하이닉스 납품 글로벌 업체 압수수색 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5teThGUlc0ZGc5QjZfUVVUYVRVd1NMU1FfSy0tRzE1NHVJa1p6SUE2THpRckJLWXltM3BCam1OZXJqRG0xT0VBc2RVNUsxVXY5Q1BaNXFid0VkVUFkZ0RqRFo2RUtKLUktaU9Ib1JMM283cHVfSVM00gF3QVVfeXFMTUUzeXVHZElaQV9FbHVONTNVMm9rckNSYkh6VDlkenhGSl8ydmlZVzFxVVplaFpydTEwYVZqNHVfLW5RZ2Q0aXViNmF1ZGJfQWplbWFGQ3dTMnZycmJFV0hiN3dIbUh1Y3JKWHJWQzBxZHhxbjVjV00?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "검찰, '반도체 부품 담합' 몬타지 테크놀로지 등 3곳 압수수색 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JTFNUc1AxcW5CUmR3NWZSMC12VnIzVHVTMGR2eEFBa2xuU1JzSVducV9objFUQThNWEhNTVVBTzlaSkdzdGwwcnJObnc2OFlKeUJPVW96SkU3WDDSAWBBVV95cUxNUmtsZXJDQVAtbl9qN2RMdkVGNVZDS3kxaFBHT0ZCaXlrMlpPeVR2NVc0U05UczNVcU1GMWVla0dVb2dyVmI5UWJ6UENBZnZRTHRfVFFLUTlmZTlKWEd3MWI?oc=5",
@@ -39,18 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "검찰, '반도체 부품 담합' 삼성전자·하이닉스 납품 글로벌 업체 압수수색 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5teThGUlc0ZGc5QjZfUVVUYVRVd1NMU1FfSy0tRzE1NHVJa1p6SUE2THpRckJLWXltM3BCam1OZXJqRG0xT0VBc2RVNUsxVXY5Q1BaNXFid0VkVUFkZ0RqRFo2RUtKLUktaU9Ib1JMM283cHVfSVM00gF3QVVfeXFMTUUzeXVHZElaQV9FbHVONTNVMm9rckNSYkh6VDlkenhGSl8ydmlZVzFxVVplaFpydTEwYVZqNHVfLW5RZ2Q0aXViNmF1ZGJfQWplbWFGQ3dTMnZycmJFV0hiN3dIbUh1Y3JKWHJWQzBxZHhxbjVjV00?oc=5",
+        "title": "금리인상 전망 꺾였다, 반도체 랠리…SK하닉 ADR 27% 급등[뉴욕마감] - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQS1iLUhLajNnNUE5UHdJYkpRWVMwUDVKaEdudjRBUVJ6UnB3UkNQQUF5ckQ3NG10MGpwME9TOTk3bDNkLWJPb2hOeHVXTktmZTJtaE1RbmVPaGE4anB5dEU4M2luUEJL0gFuQVVfeXFMT0xGSjhwdjA0VFdiczVDRjlLSDd6eHBSbnBqQTJ4VHFkeWdJSXh1UUZBcTlWbTZ1X3FxVElCT21UcEtwS3hJTEJ4Q0xLLWhDQklYLTFjdVRuYWk0TWZiZ1pYdVBXT25GcDloOUNad2c?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개…나스닥 1%↑(종합) - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQ1pESF9fdE1UTTdLUUlJNkxRRlRhM3M0LTk2ZVduYjJaN3NQS3dxZFdieHBYM1NjRkRFUkVkZDZSQ2pmQ2hEcFJ4Y1RYV0NZZzUtY1dSYXZKWXfSAWBBVV95cUxNemhaTElKSVpZazh4bVRlNjc4Rms0bUNlQmlVZ2tWYkhGdGxFLWVUVnQwQ0Q4TmNsVWNZVmhkWk9fNGNickhuTDJEbnVyV2R6V1E4cnVZdVBzQ3Y0STdONnY?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[경제포커스] 반도체 속도전 그 너머 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YYnpfRW53R0RxY2M1NGFPbkp6UVpZbFlfLUI4QnBveFRBOFBjZU4tM0FLdVVFMVMxZDgtdmpvUUZzak1PR0pVQ244Y1BkQlE?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,8 +66,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "파주시, ‘인공지능(AI) 콘텐츠 도시’ 조성 본격화 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VNUJNUTE2MDIyTGEyb3VXM1dGbWtZOGpzaXhKZGRsY1R1bDFRUjdnLXJZM2NsbHppdXBmR0NFWlhreTh2YnVXeTd3RUU0UVk?oc=5",
+        "title": "구글 AI 책임자 “범용인공지능시대 임박… 미국이 주도하는 AI 규제기관 신설해야” - 서울신문",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5TFhmTDVLV0NUTHFuenJ0dm5ZTDJfYmFleU5KNEM2alJZUmQ1NF9LamhNS056SUdHTjdhaHRCd3ZZZy1VVWtoWXBlZWNvZGNnLXRhdmQxQXVwcTdvUG9IQUVXWHg5Sk1mR0lHaG1kc3dCSFl6LUFDM3BOVQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"개인 생산성 끌어올린 AI, 팀워크 향상은 아직\"…피그마, AI 협업형 도구로 차별화 나서 - cio.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZzlkR2djWXo1UGN0Qzd2SVZkNjlZblJOY3JsUzU3RHRZbWtZdGk0OG5oM1d0TlplbGdRZjdGSVRsUDhvaXVwNS1KMlFfalhneUw1cEhFVzM4eTZWV2tnbkduMXg1aHZKUTZVd3ZjeEJGb1RfN3RseWozYllQVDZ5WUlJUFRmN0dRRHBUXzJfZ25ad0k4WW9NTlRpX09BUTd6Z29idE1iNTZQdDQ4b0hzS1laNlRYUjZmZEdzRGxCU05MWllrUnJLak9LdV93b0tIaFZGY0VWay1TQjlkS3llZGhxRGZ1Uks0YjRBbkE1M0xLT1pYMXRvdHNpeVplVWo1b3o1N1RqN0JkZW12Q3ZpTGtBekg2emUxTTk1b3Y4SzN5X3BJVGlJN2JfQk13WVRoRDFkTEVhQXNfaEFQSWFPdDFB?oc=5",
+        "title": "파주시, ‘인공지능(AI) 콘텐츠 도시’ 조성 본격화 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VNUJNUTE2MDIyTGEyb3VXM1dGbWtZOGpzaXhKZGRsY1R1bDFRUjdnLXJZM2NsbHppdXBmR0NFWlhreTh2YnVXeTd3RUU0UVk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "홀란 월드컵 8강 묶어준 머리끈... 알고보니 ‘메이드 인 강원도’",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987731",
+        "title": "'영호남 우주항공 동맹' 고흥군·사천시, 특별법 제정 토론회",
+        "link": "https://n.news.naver.com/mnews/article/001/0016196503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김건희 대법 선고 24일로 연기...실시간 생중계 결정",
-        "link": "https://n.news.naver.com/mnews/article/052/0002380097",
+        "title": "경찰, ‘법왜곡죄 1호’ 조희대 대법원장 사건 각하",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987754",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"성범죄로 몰아가지 마라\" 증거인멸 확인…고개 숙인 경찰",
-        "link": "https://n.news.naver.com/mnews/article/057/0001958752",
+        "title": "성수대교 단차 지점에 깜짝 엑스레이 등장… “정밀조사 결과 공개해야”",
+        "link": "https://n.news.naver.com/mnews/article/022/0004143214",
         "source": "네이버 뉴스"
       },
       {
-        "title": "민주노총 오늘 총파업…광화문서 1만 명 집회·청와대까지 행진",
-        "link": "https://n.news.naver.com/mnews/article/055/0001372539",
+        "title": "[속보] 민주노총 집회 후 청와대 방향 행진…도심 교통 혼잡",
+        "link": "https://n.news.naver.com/mnews/article/009/0005707919",
         "source": "네이버 뉴스"
       },
       {
-        "title": "李대통령, 산재 사망 역대 최저에 김영훈 장관 공개 격려…\"수백명 살린 노력\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005790466",
+        "title": "\"형 마치면 배달이라도\"...'모텔 연쇄살인' 김소영 계획 경악'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006330761",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-15 14:53"
+  "updated": "2026-07-15 16:24"
 }
