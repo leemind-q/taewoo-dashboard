@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "SMR 개발 가속에 규제도 채비…원안위, 법·기술 병행 검토",
-        "link": "https://n.news.naver.com/mnews/article/421/0009063211",
+        "title": "배경훈 \"소버린 AI 모델, 다국어 확대 전략 추진\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005549039",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 \"대한민국도 미토스급 AI 모델 만들 수 있다\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016198547",
+        "title": "누리호 5차 발사·민항기 '팀 코리아' 가동…우주기업 1200개 육성",
+        "link": "https://n.news.naver.com/mnews/article/421/0009063610",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 그로스 서밋 콘퍼런스…광고주에 AI 기반 광고 기술 소개",
-        "link": "https://n.news.naver.com/mnews/article/421/0009063183",
+        "title": "AI로 국가난제 푼다…'K-문샷' 프로젝트 본격 가동",
+        "link": "https://n.news.naver.com/mnews/article/001/0016198557",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+,  AI 보안 정보보호백서 발간",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671202",
+        "title": "SKT, AI로 휴가철 통신품질 관리…전국 1100곳 집중 점검",
+        "link": "https://n.news.naver.com/mnews/article/009/0005708283",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과기정통부, AIDC 구축·피지컬 AI 육성…국가전략산업으로",
-        "link": "https://n.news.naver.com/mnews/article/293/0000087708",
+        "title": "\"광고 등 유료방송 규제 푼다\"…청소년 SNS·플랫폼 규제도 속도 [방미통위 업무보고]",
+        "link": "https://n.news.naver.com/mnews/article/119/0003112135",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "애플, AI 서버칩 경쟁력 위해 반도체기업 인수 타진 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YZXlJMlVuNlM5YVMzWHI0d05kSV9UeXlzN0Z2UGloLVU4a05acDRYdUZMTnpRSUloUkJOeTFrRl9ocks2RWZ2U2ZMcHJCTEd6WGhxcDNhSWZiMEHSAWBBVV95cUxNVWFwS2hSaVV1NmdMUmxkX3ZaM2ctRjBNMVlhMHBQZTBKcGhtQUNqSXBsellMb1NPd1B0ZC1UM3NyVzFibUl1RjdqODAzM3VtaGhfTFI4WWxJazRqaU9UMEg?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "삼전닉스 당분간 걱정없다? 올해 세계 반도체 매출 사상 최초 1조달러 예상 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb3JBd1hYSkVndFg4STN0ZEhiNThLaTd3dWY1OXV3VTF5UXhXYXFZcjIwWWY0SXh2c1NmZE9BVnNGWkRzOG5DVnJZUnNVMEs3YmwxZWt2V2lGOF9ENk5HYi1xZ0JKdmtuM2dfSW5XSVpDSmpnbjlkNjFsWHJYaFVXSw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성 평택 5공장, 10조+α 반도체 장비 발주 임박 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0Y0JDRFNqNGcxNy1rMkJaWkt6VHItd1RZcXo1ZGNyRTh5VnUya3lBR1VYZFBqTXBXMl9vanVuQzgzWlRncVAwYTlMd2tkUQ?oc=5",
+        "title": "[마켓뷰] 다시 고개 든 반도체 업황불안…코스피, 또 출렁이나 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbjVpRE9MT3BxVWs0REZDOGRDZGd6OE9fOXdjR3A1T0tzX3poaThMQmRscUdiYTZ3aWhJSllMY21zdkNKbjEzanBEN2EzdFE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "애플, AI 서버칩 경쟁력 위해 반도체기업 인수 타진…엔비디아 의존 극복 시도 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nM2tabmc1c0ZaV2J6ajRZN3dpRXh4RnpXcmp3SU0zbDlFb3B6VXJQNXZTdVM2TElmLXBiZ0YzbDF1QmYtcldtMk9USFoyOE0?oc=5",
+        "title": "반도체 투심 악화에 삼전닉스 급락…\"이제는 중기 조정\" - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdWtKcWw3SVJaM09BZ3B5YjJSeFBhS1dBenl1TENWdGZHMkFaM1Y3Sk5VaEE0bVFHN0dZRUNyLXdKTzMyY2w0c0ZVeWMyZFBISGpoVDdJNjNIMndmVzU4dGZ4S0lmQTl40gFuQVVfeXFMT0lwWGZzMXMyeWV1SHdVUFlrbzlVbWF0N2d1WjZxTEVfa2xFbFp2M00tWFd3cWlwYjRfaEg4WFBtOEtVcWx0NXd1bzVIY1U1aktMQUxXc3Q5Y3p2LUkycWZkcjNXSWdxWmM2cmRyZ0E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중기부, 사우디와 AI·반도체 투자 공동펀드 조성 논의 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51cmhTOEgwLXhBMmdYUng3Wmc1aE1QYXpSTjFrMmdKWXN4cHNxdmswUmszZ0JHeVVCaTRkdXZ4ekQxQ2Q1UXdqTjVweU00T0NWUFRXc0FaWjNSdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "ADI·성균관대, AI 시대 실무형 반도체 인재 양성 - IT조선",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52cW5fcGJTal9wcHVHZVc4UlFibE0xemVNQmN5djY0dmRyTzRQNGkyTjUzcTVWZ2JYdDg0OXppb3NXOFFjWFZtUVdHeHBsa3RBMmxCWm5DU09NZ1lXdzkzUmtkbEVEM2lmd0dneDhybmvSAXRBVV95cUxPeXh1ejRHQXdFLXNMUk1aa2xQV3FUcUJlc25vX3F5b1ZxZ1lmQVZuOU1nRHhFWFVyb2JreVZnZXJLZ01XNnVudGNkcDFHUFdid1NkYmJ2NXpVOWxFQnBDN00wUXdCSTFmMllBR1RrcVpsampCVQ?oc=5",
+        "title": "반도체 약세에 증시 출렁…코스피·코스닥 잇달아 매도사이드카 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mT0x1Rkx0VXpmY25qVF9xMUZMbWYtaHA0VEtuRHZ6RFRncDdyakxudkNzcWFEWTg0U25UOVJ5Q1N6ZlFUcXZVVkRBNDNqb2lKOEJvVlp2UnRGU3c?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시, 청소년·청년과 함께 인공지능(AI) 시대 정책 방향 그려 - 세계환경신문",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZTkhNcDBIV25oaUdxVGFJcFNfYnVhSWx1Ri1oMmFSd1BUMnlhOF9zXzBmbWhwQzZSaDRHcDgySGdKelZDTDJObFY1blFLZEJCSDg5b01oZzRsUkxHWkhr?oc=5",
+        "title": "김천시보건소, 인공지능(AI) 구강검진 시스템 도입 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FcG1QcllMem1IRWZ3RnRRN2J1aXRXUGRFOVY1ZldZVEFzTUNiRGIwYzZFVHVaVVJTa2RiY1daMEMyY2wxWHRVSTJKMXR4Mk1sTXNwRkhBeGZRYURGQUtPMU1DWUJFUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "상하이서 세계인공지능대회 17일 개막…미중경쟁 속 AI자립 과시 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Jc2VKakFTNjR4SXpXZzJsVGJOOXdlejhueFpibTRqdFJSVmlzajlhZHBmamsxUFVmdFhPTzdPQ3p6MVhSRnhuZVVxRkFqSjA?oc=5",
+        "title": "[AI픽] 세일즈포스 \"사람·AI 함께 일한다\"…'헤드리스 360' 공개 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPTEp0amI4b2xPQkthTFVkeVktckhXdGVZLWNXdEtRamZEcWdUbHNSX2RhdDN3ZDlDdkVaalBjSkR2NzFXM0l3SGVQSE5DRHZuVVdFdXZRekxQNVHSAWBBVV95cUxQdDFLSnhqdTZlRnZWbU8zLVJFbVc4TUhQNmVrYmlMUnJCekdEZGlfVXVteDlMY1ZYczhDZlJ6RzZjQmlKbE9lbkdfbnNqdDEtLUFEakFJYTRzWFlPUVU3Wk4?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "글로벌 제약사들 루닛 인공지능 이용한다...타깃치료제 속도 - 메디칼타임즈",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOVZvM1Z5UndVa3k1N0cxd05GdUJxUENkVkxCSWJWT0NNT0Y3VGV5Z1FyNFNtMjdBMkNQVEQ0b2RHTWtmQnN3R2xDa0VKX2JRRy1XMHdnbDJFcE5SS0ZMaXFwVHVmYTFobFd1QjRZR0hSdjA?oc=5",
+        "title": "경북대 사범대학 국제인공지능윤리협회와 'AI 윤리 및 리터러시 교육 확산' 업무협약 - 베리타스알파",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95RElvRmI2Uk43dm1ycTBTa09iRWdLQ1NlRUh6SmpwQ1dSaEZRRlBVUW9ucDZRaUxFa1VKTEQtX3k3SGo0STRpdk9fX2FBSGJ1ZWp1ZFk3VlZPOVBxRmstdmhHTDJ5MDB1YnlDNg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "2026 김포 독서대전 ＜미래를 보는 눈＞ 인공지능（AI） 명사특강 임창환 교수 강연 - 경기평화신문",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EMFYtSEJWNVg4dGkzMWNOS01fTUlWTjRjb3RLbmJ3Z1RDWXVQWTZaVzFvREUydWJaTU94bWRaWWpZQ2k1ZXBfTTZB?oc=5",
+        "title": "이세돌의 AI 시대 복기, 인공지능과 파트너로 공존하라 - 2news.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsbTllMDlTWDMzcVk4WVREeXNuN1pjNnM1SERXS3NZQjFDN2llMFVMZ2JSZVZlLTlpUUJ6cklFSkh3RFhmWURYWFlUY2o2LVpsbUVpRUxrOTN0eXJFdXMyOWNZd2lENmtx?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "권성동 의원직 상실…‘통일교 1억 수수’ 징역 2년 확정",
-        "link": "https://n.news.naver.com/mnews/article/028/0002814357",
+        "title": "유네스코 세계유산위원회 19일 부산서 개막…피란수도 등 탐방",
+        "link": "https://n.news.naver.com/mnews/article/001/0016197487",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'미성년 성매매' 숨기고 당선…청주시의원 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/055/0001372877",
+        "title": "권성동, '통일교 사건' 징역 2년 확정으로 의원직 상실",
+        "link": "https://n.news.naver.com/mnews/article/088/0001019405",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘피습 자작극’ 정이한 전 부산시장 후보, 구속 송치",
-        "link": "https://n.news.naver.com/mnews/article/023/0003987959",
+        "title": "400명 살린 '충남 닥터헬기' 더 크고 세졌다…출범 기념식",
+        "link": "https://n.news.naver.com/mnews/article/422/0000885810",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'내란 가담 의혹' 심우정 전 검찰총장, 구속심사 출석…\"소상히 설명\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014070135",
+        "title": "'내란 가담·항고 포기' 심우정 전 검찰총장 구속심사 시작",
+        "link": "https://n.news.naver.com/mnews/article/001/0016197738",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대법 \"포스코 하청 노동자 직접 고용해야\"...재차 인정",
-        "link": "https://n.news.naver.com/mnews/article/052/0002380293",
+        "title": "‘경산 친구 살인사건’ 20대 피의자 구속 송치",
+        "link": "https://n.news.naver.com/mnews/article/056/0012218948",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-16 04:39"
+  "updated": "2026-07-16 07:23"
 }
