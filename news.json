@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승",
-        "link": "https://n.news.naver.com/mnews/article/001/0016200885",
+        "title": "승리 굶주린 언더독의 반란…DK, 젠지 꺾고 EWC 결승 진출",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201424",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'4강 진출' 젠지 \"힘든 상황에서도 계속 이어간 게 승리 비결\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016200927",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "10년 만에 열린 세기의 대결…접바둑도 AI에 패배",
-        "link": "https://n.news.naver.com/mnews/article/056/0012220342",
+        "title": "\"MSI는 잊었다\"…T1, 한화생명e스포츠 꺾고 EWC 4강행",
+        "link": "https://n.news.naver.com/mnews/article/119/0003112432",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "BLG도, 젠지도 상대 안됐다…디플러스 기아, EWC 결승 진출 '쾌거'",
-        "link": "https://n.news.naver.com/mnews/article/119/0003112528",
+        "title": "공개 임박 삼성전자 8세대 갤럭시 Z…비메모리 반등 이끌까",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201481",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "삼성, 22일 언팩…'폴드8 울트라'·AI 글래스 공개",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201480",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "뉴욕증시, 반도체 매도세 지속에 하락 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IbVpnWjBJQk8tSkh4RjBFMkpUZVJXM3lmZXAxdGdPSmRKNGRDcFhaQ1ktX3ExWXNiLUl3dDFSeGYyN29CY0UtM2VJNHQzR1Bwd3oyOGNvRXNuZ9IBX0FVX3lxTE50UjFsOXFsLXh1OEdZZC0xdERYeTk5NjAyXzFUalpSeUZIdmdZZENyVTloTXQ5Q3NicEJFeFFWMldGMWZlVzFmaHFEZkU4bkpFRG80VmtBbUw4LWg2RHVJ?oc=5",
+        "title": "SK하이닉스 ADR, 美반도체 약세에도 본주 대비 '25% 프리미엄' - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmtvV2YtekxpQXl6cmlHdHUzZzBxSlo5TjlCRzNPOVBoUlFEOVNOTS1kbUU5dFFGMENrS1FQX01jTEg2dFVVZkJ1cjVIbmFBNERCM0Etd1plaVnSAWBBVV95cUxQenhYSk1PRnBtUEpRNEo1UkRwcl9JcDNDOFk1cHVJM2FLWTlKdDBOVU9aM0ptTDlNSFRBM2YyTUI3R3VWei15ZThzSXp4LTZOUDZjVG9DQ1JNWUthUVdsTUc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[뉴욕증시] 반도체에 호재가 없네…필리 4.3% 급락 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UOWRSTWp4WDBkcUxxaTMzdlJUeTlmRVlXLUpySENSaTRKUEJzM0NOX3F4TWVaVVpia1EwbURlYldZQnFFajIyeW03UzZSMUZNN0VjT1JzRDJGR2ZkallxUEZ5QWRfTDRjdGtHOGYyM3A?oc=5",
+        "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVTl3ZEdBZjd6cGZwTEFFdWhJY1hCUEVXT2Z4MkJTbGxtSHBOb2R6dlRsbXJHdmVwTk9zSXkzbEpKcnlHa0I2Vk56elZMYlZKSnc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중국 공짜AI '문샷' 쇼크까지...반도체지수 한달새 20% 폭락[뉴욕마감] - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hR0JKTlhUM1QzT2YtaXJRU1NOS0xaU0FpcG9LZ1oyMW5SLWdNbHRhNFM0bGpCcVgzaElWVXlLRlQtWE5HOTJ0c2ZkOG5MYjdJMUhGOFdNODBUN1RScWxJVE1BajNYdlpP0gFuQVVfeXFMTWRZd0s5VVotbTFJcUc5czdyRy16Q3AxOHNEZmpGV0RGWGw1ZEZyNmFSdkFYa0F3b2tpcHRacWxqYWJSZ0U5a2h6aXNYY0FRUXVmQ1FVRHI0MnJFRVVXSEVTbFBfSjRLdFNWMlhsMmc?oc=5",
+        "title": "중국도 반도체 빅사이클 수혜...6월 수출 27% 급증 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUGZpcTJuLVdiQ2Fxd1FVd3ZqNmpaVk1IU2VLQ2ZjZENPdzRuVUlkVHlkWWllcVlUNG1FSHdGUktuTTVMWTk2bG9aRFZINk0?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[AI기본법] ① 개정안 21일 시행…한국 AI 법제, 준비 마쳤다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZN3R0WkFvdWVXcG5FV2FEOWhyVFJ3TEVlbVdrY3VGbzNWVzlBMklpTXplcTF2UkF5cUlKWlFpNWlEMk96ZVdKMnlJQVoyS2N1VnhwX2g4SGZWZDjSAWBBVV95cUxNQkR2UmNLaVFlNHRJeVRvTWxveFBsNXlSODBsX2RhY3BXWW9PeF91SVhDWlJiNTBsZ2ZGSzYwLTZZNjNUVFI3N2VxOUVpRmtUVER3TkhYd2loSlR5SF9kQU4?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "'오픈AI와 앤트로픽 넘어설 것' 중국 문샷, 차세대 인공지능AI 'Kimi K3' 발표... 제2의 '딥시크 사태' 재현될까? - BBC",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54UkRlMThUWHhCWmV5VkNIVGYtNkJITkJLZENTblNrcVM4aERMZEJxQnJTQjZ3a2VIUWgta2VVODAwZTU4Q01VX1Z1bHotVV9nVE8yaHZMRWZLX3o20gFiQVVfeXFMTjhMSUY2akY2WGg3dG9OQXFIbmNwMTBsZ0IyV1l5cFpyczN3OHVEeVJGZnZ4T0Y1T2pVakxsMWtfMUV5NFhGZFhEcE5Ubmdld1pSR1M3SHFrbWNuSzJVZEc1Tnc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZWVYZENJT0FIbmF0UGJMRjFjc0YtV1NIYVU0bno1U0I1RUFzTXdTQXJ1b1h0NUVlUU85OTZWNWh3dDFWMkNlMTYwMkt1dXE5YUp1blRUcEx5WkHSAWBBVV95cUxPdlVxeU5iNEtmb3ZPenVxZ1hLVEI5WERtc0hMMExmQ0F4QVlCb0NfajFJNnZ5SHl5QUlPdVJ2Yl9qU0JNRXhZbkpvSkMtOXhCZWxTMlMzQnc2aDQxazBQSmg?oc=5",
+        "title": "[인공지능 줌인] AI 패권 전쟁 가운데에 끼인 ASML - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QU2VUZDJpa21sZ1hSb1N2NXNRV0hyTnpaSC1pLUNwTHh0eVpOTXdlR2ZKWVc5Q3paSDMyQVEweF8wdERGNlVuX3JUYXBzZnpfdXZCMWxPSVNuWWRyR001UlNCV0R3VEc0MWRWNXBOYUg?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "예술과 인공지능: 논쟁에서 공존으로 - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CY2ZYNkFjOWk3YlVRSXR1NUJwbFZTRGE4b1FQUXBobE1DYWJ1NGFkcTJfN1V2akd6V0NyOE5HT3F3cXp2RDZlbnItdVNhU1p0YWl5aXBJZm9LNXhYR3VnRkVPTTl6Z0dRNWZWWmdpT2twQTJ3VXBIbDB2YUFmQQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "중국, 새로운 AI 동맹 ‘세계인공지능협력기구(WAICO)’ 출범 - 뉴스타운",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwVW1hYjdldjlBYmtnNF9jeFhlWDZTS2FWd3BjQWp4MG1CaEVyaUJvU3NFeG9meGtoZE9aNExSLWJvNEwzWUdpR2JxUWRjZmpXdl9LMEtWbS1rTXU3ekg2NU5FTy1DQndReXVjUWhR?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
-        "link": "https://n.news.naver.com/mnews/article/092/0002430921",
+        "title": "\"술은 손님이 직접 사오세요\"…제주 식당이 술 판매 멈춘 이유",
+        "link": "https://n.news.naver.com/mnews/article/015/0005311259",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산행 KTX 대전·김천구미역 구간서 고장…승객 2시간40분만에 환승",
-        "link": "https://n.news.naver.com/mnews/article/003/0014073247",
+        "title": "수도권 최대 300㎜ ‘물폭탄’…체감온도 31도까지 올라 [오늘날씨]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004143964",
         "source": "네이버 뉴스"
       },
       {
-        "title": "뉴스데스크 클로징",
-        "link": "https://n.news.naver.com/mnews/article/214/0001512437",
+        "title": "李대통령, 쿠팡 물류센터 화재에 “진압 총력…소방대원 안전 철저”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003538413",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"교사를 범죄자로 모는 아동복지법 개정하라\"… 서이초 교사 3주기 앞두고 대규모 집회",
-        "link": "https://n.news.naver.com/mnews/article/448/0000627552",
+        "title": "종합특검, '양평 특혜' 의혹 원희룡 전 장관 23일 첫 소환",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066055",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 쿠팡물류센터 화재 진화 난항…국가소방동원령 발령",
-        "link": "https://n.news.naver.com/mnews/article/028/0002814663",
+        "title": "로또 1등 8.3억씩 31명…전남 '대불로또판매점'서 수동 5명 당첨",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066167",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-18 20:12"
+  "updated": "2026-07-18 21:24"
 }
