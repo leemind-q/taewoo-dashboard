@@ -2,67 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "언팩 전 스파이더맨 티저…새로운 '갤럭시 Z폴드·Z플립' 선공개",
-        "link": "https://n.news.naver.com/mnews/article/417/0001152034",
+        "title": "\"300만원폰 나오나\"…삼성 '갤럭시 Z8' 역대급 가격표 달 듯[미리보는 언팩③]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014072910",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카타고 개발자 \"인간의 도전의지·성취 보여줄 대국\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005311138",
+        "title": "신진서 \"한 달 준비한 게 한 수에 날아가 2국은 후반 끝내기 바둑 둘 것\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0005311141",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"e스포츠 월드컵, 한국 개최 충분히 가능\"[만나보니]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016200155",
+        "title": "“청소년 SNS 중독 차단” 19세 미만 ‘무한 스크롤’ 제한 추진",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734556",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'EWC 4강 진출' T1 도란 \"부진 극복 완료, 컨디션 자신 있다\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016200928",
         "source": "네이버 뉴스"
       },
       {
         "title": "中 문샷, GPT 턱밑 추격…세계 최대 오픈소스 AI에 월가 '술렁'",
         "link": "https://n.news.naver.com/mnews/article/018/0006332270",
         "source": "네이버 뉴스"
-      },
-      {
-        "title": "“반도체 성과 국민과 나눈다”던 삼성전자 일냈다…4조 잭팟",
-        "link": "https://n.news.naver.com/mnews/article/011/0004642639",
-        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체 수장들 실적 낙관… 글로벌 반도체株는 하락 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1U5d0lhMUZzOEZnSHNLY185b2NvaFhIUVpZa3FIQWMwQXNiVldFUmdGRjJWNVczdDBqeW9PQjdqX1dUd3NjWGZCaF84QWRNZWJCaHVVN0lDNWZ3Qi16Y1dMam5xSW9jOVN4ek82X21yNWdLRHozZFVpTFBLOUtOTk1RQ3FNVUtvS0lpZXIzcw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "월요일이 두렵다… 日 반도체 대장 ‘키옥시아’ 급락 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16SHU5Z0QyR2k0TTdFVXAyaVpfNVc2dzl6Q0g4ZkRYdmRHYk1ZbWxuZEhOT0dGMGFENnoxM2tlX1oxbHZvZnc?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "亞 반도체 주가 급락…이유는 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6ZTAyMzZlS0hLbkNBRk9zNmFmcGF2SVRlMU5sMUpQeFR5VU84V1ZLb1hzd1Z5TUpvQWxjeXpwLThQX2RWYjhyQVcwMmE5Sm1feXZ5VmV6di1TeGh1cmlxRzhPcVlRX2d6TExvajU2c0I?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘피크아웃’ 공포 덮친 반도체, 주가 줄줄이 급락 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHU3R5SUtzR3JQaWxmTTYxLVdLaFV4M2tQdnB0Z1o2bWs2MXNIeDVhX0FNa2d2ak02UmRDTWFXN1FqUTJqVnFOaUtwS0dMOWNTdHBteTcycERBbWUycnJaVlNVOFpGaUwzZmUwY3JKQWFPcWVIZmfSAWZBVV95cUxPWjA0NTJUakJJLTlKYVBsYUJDNVdFRTZXSnRyOC1kMDIxRUxkT0Nuc3VyZFVEbWJxQTA3OWpzN3Z3WkU4SnRxbnh2eHJ0c1RpbjVNdEpmVHk0NEM5N2haQmFieU1IMnc?oc=5",
+        "title": "반도체 수장들 실적 낙관… 글로벌 반도체株는 하락 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1U5d0lhMUZzOEZnSHNLY185b2NvaFhIUVpZa3FIQWMwQXNiVldFUmdGRjJWNVczdDBqeW9PQjdqX1dUd3NjWGZCaF84QWRNZWJCaHVVN0lDNWZ3Qi16Y1dMam5xSW9jOVN4ek82X21yNWdLRHozZFVpTFBLOUtOTk1RQ3FNVUtvS0lpZXIzcw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“반도체 성과 국민과 나눈다”던 삼성전자 일냈다…4조 잭팟 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YaHhEenVXOGVUQUR3aklqemxtdktwX0RrU2FndUh3M1FpZW12dGljTDJLWDdqclF0amtSQTZXXzZuMUt3SVdpdnBLeVctNG1WUkHSAVNBVV95cUxNZlp3UXJVS3FfWGU4aVZRaG1RZ2VUZDNmd1gyVDdBbXpDVXlWYUdRNV9vU0pZMmNyYk00QTU1TldIRG9fQmQ3NWc2VllyS0twak8yQQ?oc=5",
+        "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLN0tmVlpPUHA1U2tFdlB0dVhHdTB2VFRwZEN5SXNPWnRhZHY1OFc4Y3NwV3h3RkZqU2k0NnR1d01KV3RUX2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "월가 덮친 '중국산 AI' 쇼크…반도체 부활 기회 남았나 [월가 백브리핑] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4WC1WSkcxU3k0VjdXSVZSR3dCNVhwS094VnlOb05qa3d0MXhqSHNaVl9iOEhxQUZIUVNGLXZIaUw4cXVTdUUtSG1Ia0NPSHB0cEd0WVpVYk1Udw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[이슈]반도체 성과급 받으면 수입차가 국룰? - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05Y3JMLVlNQ0pnRFU0S0NyX1IwTFgxVWZSeVIzaWVjMmhjSlBqLTRwTGFLRHBUOGRFc1FvdGp5aHFmRGZvVkpDTlQxaF9LX2Nq?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "'AI 파트너, 함께 만드는 미래', 2026 세계인공지능대회(WAIC) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONFpMdUFrUk4xWGFqQjZmeGpkYW51UUUzZHNCYnh4Nzg3SU1uWVFHUmlXRjA3R2p4RG5fQTdJRERhN0VrdlptTGt2X0VHTzZ3YVV5SnpNRDRFNVFyV0IzSW1JREJEYlVoMllXcEI5TXp2c2hTWU15cg?oc=5",
+        "title": "[테크톡노트] AI 팩토리, 데이터센터와 뭐가 다를까 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rOUFpOWstVFpTZzJaN2wzQ0F0QzJqYzE0bDVJLTlZWG1iTWxjcGdmWmNLZzN2WTJkWEpvYTRlaVZQTFBjZ3hVY0YzU0lSa0xwRUtoZ29Sd1IzdGx2Q0s4NdIBYEFVX3lxTE5rOUFpOWstVFpTZzJaN2wzQ0F0QzJqYzE0bDVJLTlZWG1iTWxjcGdmWmNLZzN2WTJkWEpvYTRlaVZQTFBjZ3hVY0YzU0lSa0xwRUtoZ29Sd1IzdGx2Q0s4NQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rTmtjNzRDNThFdEVMTGMxbV9zSmFHTzlTX25lcm9jRnJISFFHUkJkMkJTZFVuZEJIMkhGTlB5dFNFSkdreVk4VVNURUNjWFNlZ2JWU0xGTlhlTE5qQnlHQ290TG16TlV6OXY0SDZfRQ?oc=5",
+        "title": "'오픈AI와 앤트로픽 넘어설 것' 중국 문샷, 차세대 인공지능AI 'Kimi K3' 발표... 제2의 '딥시크 사태' 재현될까? - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54UkRlMThUWHhCWmV5VkNIVGYtNkJITkJLZENTblNrcVM4aERMZEJxQnJTQjZ3a2VIUWgta2VVODAwZTU4Q01VX1Z1bHotVV9nVE8yaHZMRWZLX3o20gFiQVVfeXFMTjhMSUY2akY2WGg3dG9OQXFIbmNwMTBsZ0IyV1l5cFpyczN3OHVEeVJGZnZ4T0Y1T2pVakxsMWtfMUV5NFhGZFhEcE5Ubmdld1pSR1M3SHFrbWNuSzJVZEc1Tnc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "중국, 새로운 AI 동맹 ‘세계인공지능협력기구(WAICO)’ 출범 - 뉴스타운",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwVW1hYjdldjlBYmtnNF9jeFhlWDZTS2FWd3BjQWp4MG1CaEVyaUJvU3NFeG9meGtoZE9aNExSLWJvNEwzWUdpR2JxUWRjZmpXdl9LMEtWbS1rTXU3ekg2NU5FTy1DQndReXVjUWhR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "[김대호 진단] 반도체 열전 ⑫ 구글 알파벳 \" 알파고 인공지능 AI 원조\" - 글로벌이코노믹",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHFOS05jWEsya29HVFNrQ3NTNXJiOFZIYjhmOTRERUR6XzZUVVZobmFlUmZMWjBYTVFlUG05d01lZTlqc2hjdnU2YVBkWldURGdSTktYWWVVem9NVTcyWUxaRU9objNyVDdDN0VCbDN5OGhwaHVLS0N0VG0tLUZndnljTQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시, AI 정책 자문단 출범… 인공지능 행정·산업 혁신 본격화 - 천지일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObUgxd3Y2XzY0ejlJNmtpa09Uc3I2c1JrdkwyWElUQmNPM2V4U2VLeXQ2SXJYV3FxMEVMY1NkR2Z4a3lPY1ZickRhSzF0Qms3MFlfT3dsSnVBYXVmMHBodG5tUGU2LXBocHc?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "서울 폭우에 강서·은평·마포구 침수경보…동부간선 통제",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259102",
+        "title": "서울·인천·경기·강원에 호우경보…중대본 2단계 가동",
+        "link": "https://n.news.naver.com/mnews/article/001/0016200940",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수도권 최대 300㎜ '물폭탄'…체감온도 31도 안팎[오늘 날씨]",
-        "link": "https://n.news.naver.com/mnews/article/417/0001152031",
+        "title": "서울 강서·은평·마포 '침수 경보'... 고립·정전 전국 호우 피해 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/469/0000942884",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울·인천·경기 산사태 위기경보 '경계' 단계로 상향",
-        "link": "https://n.news.naver.com/mnews/article/421/0009065790",
+        "title": "주말나들이 나갔다간 쫄딱 젖습니다…중부지방 300㎜ 이상 폭우",
+        "link": "https://n.news.naver.com/mnews/article/009/0005708731",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수도권 집중호우 잦아들지만…경기남부 시간당 50㎜ 강한 비",
-        "link": "https://n.news.naver.com/mnews/article/003/0014073304",
+        "title": "경북·대구 집중호우…구미·김천 등 피해 잇따라(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014073143",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대형 에어바운스 옆으로 '휙'…물놀이하던 어린이 5명 부상",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259085",
+        "title": "“정당한 지도도 아동학대”…서이초 3주기 앞두고 교사들 ‘아동복지법 개정’ 촉구",
+        "link": "https://n.news.naver.com/mnews/article/022/0004143880",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-18 00:56"
+  "updated": "2026-07-18 04:05"
 }
