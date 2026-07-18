@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승",
-        "link": "https://n.news.naver.com/mnews/article/001/0016200885",
+        "title": "언팩 전 스파이더맨 티저…새로운 '갤럭시 Z폴드·Z플립' 선공개",
+        "link": "https://n.news.naver.com/mnews/article/417/0001152034",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자 차기 폴더블폰 300만원 넘을 듯…부품값 급증 영향",
-        "link": "https://n.news.naver.com/mnews/article/022/0004143898",
+        "title": "카타고 개발자 \"인간의 도전의지·성취 보여줄 대국\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0005311138",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"e스포츠 월드컵, 한국 개최 충분히 가능\"[만나보니]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016200155",
         "source": "네이버 뉴스"
       },
       {
@@ -17,57 +22,47 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "신진서 \"한 달 준비한 게 한 수에 날아가 2국은 후반 끝내기 바둑 둘 것\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005311141",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "비가 와도, 안 와도 장마…달라진 장마의 비밀",
-        "link": "https://n.news.naver.com/mnews/article/584/0000038542",
+        "title": "“반도체 성과 국민과 나눈다”던 삼성전자 일냈다…4조 잭팟",
+        "link": "https://n.news.naver.com/mnews/article/011/0004642639",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "반도체 수장들 실적 낙관… 글로벌 반도체株는 하락 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1U5d0lhMUZzOEZnSHNLY185b2NvaFhIUVpZa3FIQWMwQXNiVldFUmdGRjJWNVczdDBqeW9PQjdqX1dUd3NjWGZCaF84QWRNZWJCaHVVN0lDNWZ3Qi16Y1dMam5xSW9jOVN4ek82X21yNWdLRHozZFVpTFBLOUtOTk1RQ3FNVUtvS0lpZXIzcw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "월요일이 두렵다… 日 반도체 대장 ‘키옥시아’ 급락 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16SHU5Z0QyR2k0TTdFVXAyaVpfNVc2dzl6Q0g4ZkRYdmRHYk1ZbWxuZEhOT0dGMGFENnoxM2tlX1oxbHZvZnc?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "亞 반도체 주가 급락…이유는 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6ZTAyMzZlS0hLbkNBRk9zNmFmcGF2SVRlMU5sMUpQeFR5VU84V1ZLb1hzd1Z5TUpvQWxjeXpwLThQX2RWYjhyQVcwMmE5Sm1feXZ5VmV6di1TeGh1cmlxRzhPcVlRX2d6TExvajU2c0I?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[뉴욕마켓워치] '늪에 빠진 반도체' 하닉 ADR 14% 급락…주식·채권↓달러↑ - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44WkxvQzlGRF81MXdPZ2tqeGJwX2VnZm9RbElyOEc4WDAtUFcyTGNUTHBicTcwVjhnNnhoOHoyVHMtVWRzaVlxRXp3TVh6d0tTOWRJM3hOREpGUXNyaXhkVmNHQnFWOWVsUGhLYWI2em0?oc=5",
+        "title": "‘피크아웃’ 공포 덮친 반도체, 주가 줄줄이 급락 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHU3R5SUtzR3JQaWxmTTYxLVdLaFV4M2tQdnB0Z1o2bWs2MXNIeDVhX0FNa2d2ak02UmRDTWFXN1FqUTJqVnFOaUtwS0dMOWNTdHBteTcycERBbWUycnJaVlNVOFpGaUwzZmUwY3JKQWFPcWVIZmfSAWZBVV95cUxPWjA0NTJUakJJLTlKYVBsYUJDNVdFRTZXSnRyOC1kMDIxRUxkT0Nuc3VyZFVEbWJxQTA3OWpzN3Z3WkU4SnRxbnh2eHJ0c1RpbjVNdEpmVHk0NEM5N2haQmFieU1IMnc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "엔비디아 제친 삼전, 월가 사로잡은 SK하닉… 반도체 랠리 향방은? - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPN0Z5dDVVOXdmblI3R2xmd01NXzVIM3FTU0tOT0YtNG42U3AwazFXdHBKVEtadUhzclByWm9MMGlYTDZWbnFfclF2bHNlX0U?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SK하이닉스 ADR 이틀 새 21% 급락…고개 드는 반도체 ‘피크아웃’ 우려 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW5BaXhoVnVzYndVZUgtVGRBNTJxMmhYLXdSNFczdzVRNGtpMGxyZ3dHQm1JS0J2Zy1pV3JaT29yNkEzWHgwR3F2WVJvaGFsM1diaG5zZFVMaFdnZUJKc3RCcE5NeDFieEs2dDFhQzhIQmZ2X2hhSjFoRkozVkVqeGloX0V3Q01iWWFj?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "쏙 들어간 1만피…반도체 정점론 vs. 매수 타이밍 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMkVnaU9oUVBVQUdodmFFYmMycmhrV3F3MFNpOGlIdW8wUGhDOVF2dVNLa0VSSDIzZG1LaGJUNUVNa2RIZ2YzSzAzbmhSV28?oc=5",
+        "title": "“반도체 성과 국민과 나눈다”던 삼성전자 일냈다…4조 잭팟 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YaHhEenVXOGVUQUR3aklqemxtdktwX0RrU2FndUh3M1FpZW12dGljTDJLWDdqclF0amtSQTZXXzZuMUt3SVdpdnBLeVctNG1WUkHSAVNBVV95cUxNZlp3UXJVS3FfWGU4aVZRaG1RZ2VUZDNmd1gyVDdBbXpDVXlWYUdRNV9vU0pZMmNyYk00QTU1TldIRG9fQmQ3NWc2VllyS0twak8yQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZWVYZENJT0FIbmF0UGJMRjFjc0YtV1NIYVU0bno1U0I1RUFzTXdTQXJ1b1h0NUVlUU85OTZWNWh3dDFWMkNlMTYwMkt1dXE5YUp1blRUcEx5WkHSAWBBVV95cUxPdlVxeU5iNEtmb3ZPenVxZ1hLVEI5WERtc0hMMExmQ0F4QVlCb0NfajFJNnZ5SHl5QUlPdVJ2Yl9qU0JNRXhZbkpvSkMtOXhCZWxTMlMzQnc2aDQxazBQSmg?oc=5",
+        "title": "'AI 파트너, 함께 만드는 미래', 2026 세계인공지능대회(WAIC) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONFpMdUFrUk4xWGFqQjZmeGpkYW51UUUzZHNCYnh4Nzg3SU1uWVFHUmlXRjA3R2p4RG5fQTdJRERhN0VrdlptTGt2X0VHTzZ3YVV5SnpNRDRFNVFyV0IzSW1JREJEYlVoMllXcEI5TXp2c2hTWU15cg?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌 - 위키리크스한국",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rTmtjNzRDNThFdEVMTGMxbV9zSmFHTzlTX25lcm9jRnJISFFHUkJkMkJTZFVuZEJIMkhGTlB5dFNFSkdreVk4VVNURUNjWFNlZ2JWU0xGTlhlTE5qQnlHQ290TG16TlV6OXY0SDZfRQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시, AI 정책 자문단 출범···인공지능 정책 추진 - 서울파이낸스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BTkp0UXc2WU9hc2tNQVZrVE53S1pWY2NrdEpYQTkyTXlxdzAxa2wzNGMtZ2NLZEt0QjFqM29TUkMzbXlXMktsUG5TaHhiX2dKSVB6dm14MXdZS3ZDR2lnOWtBNm92c3dMNnc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -79,35 +74,40 @@
         "title": "[김대호 진단] 반도체 열전 ⑫ 구글 알파벳 \" 알파고 인공지능 AI 원조\" - 글로벌이코노믹",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHFOS05jWEsya29HVFNrQ3NTNXJiOFZIYjhmOTRERUR6XzZUVVZobmFlUmZMWjBYTVFlUG05d01lZTlqc2hjdnU2YVBkWldURGdSTktYWWVVem9NVTcyWUxaRU9objNyVDdDN0VCbDN5OGhwaHVLS0N0VG0tLUZndnljTQ?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "안양시, AI 정책 자문단 출범… 인공지능 행정·산업 혁신 본격화 - 천지일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObUgxd3Y2XzY0ejlJNmtpa09Uc3I2c1JrdkwyWElUQmNPM2V4U2VLeXQ2SXJYV3FxMEVMY1NkR2Z4a3lPY1ZickRhSzF0Qms3MFlfT3dsSnVBYXVmMHBodG5tUGU2LXBocHc?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "덥고 흐린 제헌절…오후부터 충청·남부에 비",
-        "link": "https://n.news.naver.com/mnews/article/654/0000190842",
+        "title": "서울 폭우에 강서·은평·마포구 침수경보…동부간선 통제",
+        "link": "https://n.news.naver.com/mnews/article/215/0001259102",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검 구속영장 줄기각…‘수사기간 연장’ 안 되면 어떻게?",
-        "link": "https://n.news.naver.com/mnews/article/032/0003458799",
+        "title": "수도권 최대 300㎜ '물폭탄'…체감온도 31도 안팎[오늘 날씨]",
+        "link": "https://n.news.naver.com/mnews/article/417/0001152031",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울·경기 북부 '호우경보'‥주말 내내 강한 비",
-        "link": "https://n.news.naver.com/mnews/article/214/0001512364",
+        "title": "서울·인천·경기 산사태 위기경보 '경계' 단계로 상향",
+        "link": "https://n.news.naver.com/mnews/article/421/0009065790",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"공원서 과한 애정행각\" 시민 신고에 출동했더니…현직 경찰",
-        "link": "https://n.news.naver.com/mnews/article/666/0000115588",
+        "title": "수도권 집중호우 잦아들지만…경기남부 시간당 50㎜ 강한 비",
+        "link": "https://n.news.naver.com/mnews/article/003/0014073304",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘아동 성범죄 시의원 공천 논란’ 김진모 당협위원장 사퇴",
-        "link": "https://n.news.naver.com/mnews/article/056/0012220401",
+        "title": "대형 에어바운스 옆으로 '휙'…물놀이하던 어린이 5명 부상",
+        "link": "https://n.news.naver.com/mnews/article/215/0001259085",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-17 23:24"
+  "updated": "2026-07-18 00:56"
 }
