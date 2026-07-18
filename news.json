@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "'세계 최강' 신진서, 두 점 깔고도 넘지 못한 벽…AI 바둑 카타고에 불계패",
-        "link": "https://n.news.naver.com/mnews/article/030/0003448665",
+        "title": "카타고에 패한 바둑 세계1위 신진서 “한 달 동안 준비한 게 한 수에 날아갔다”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002805404",
         "source": "네이버 뉴스"
       },
       {
         "title": "'EWC 4강 진출' T1 도란 \"부진 극복 완료, 컨디션 자신 있다\"",
         "link": "https://n.news.naver.com/mnews/article/001/0016200928",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"티켓 뜯듯 넓어진다\"…삼성 '여권형 폴드' 베일 푼다[미리보는 언팩①]",
-        "link": "https://n.news.naver.com/mnews/article/003/0014072779",
         "source": "네이버 뉴스"
       },
       {
@@ -25,6 +20,11 @@
         "title": "대이변 EWC…T1, KC 일격에 4강서 '침몰'",
         "link": "https://n.news.naver.com/mnews/article/119/0003112527",
         "source": "네이버 뉴스"
+      },
+      {
+        "title": "“125만원→50만원” 삼성 역대급 ‘페이백’…품절 사태 난리더니, 결국 잭팟 터졌다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002671774",
+        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
@@ -34,8 +34,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 수장들 실적 낙관… 글로벌 반도체株는 하락 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1U5d0lhMUZzOEZnSHNLY185b2NvaFhIUVpZa3FIQWMwQXNiVldFUmdGRjJWNVczdDBqeW9PQjdqX1dUd3NjWGZCaF84QWRNZWJCaHVVN0lDNWZ3Qi16Y1dMam5xSW9jOVN4ek82X21yNWdLRHozZFVpTFBLOUtOTk1RQ3FNVUtvS0lpZXIzcw?oc=5",
+        "title": "[비즈차이나] AI 호황 올라탄 中 창신메모리… 역대급 몸값으로 ‘반도체 굴기’ 시험 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOam5UVXg5ZlphbHlLMXFfTEQxT0M0emR4cXh2U243OHFhNFA3SE5EWldSbnpZc0JVU2xFeEpyN3R4MFJLay0xc1EtdGxReUNBeGxYR203c2RFVnU4NlNOTFF1b1N5Mk9BaFdCQXNHaVdRa29GOUxxM0xQTnFNcW9rZUdGY0hxLWtlaWthWDdZWkNkVnJ3LW9acFIxaEpBUdIBsgFBVV95cUxPUjhjVm5OWVhQTXd1YmFrRXZIbklKN3dsR2xTRjVYck44eTdVamJmQTlFNXFHdVR6aDRqbmxhTm5QeHFuMXVQbEU2UkdzVEtKU0drTTFUdEp3bDZRX0x0djEtN3FiczdfYWt3RG5YNmF0Y3NQVGdaeDBwYXEyZW83bmU0RmVOaDZsTEdoZHBDcGpJUE83c2RYbXpzMEpoYlVYRmpHcWFTalF0UEhDTWc0aEdn?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'오픈AI와 앤트로픽 넘어설 것' 중국 문샷, 차세대 인공지능AI 'Kimi K3' 발표... 제2의 '딥시크 사태' 재현될까? - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54UkRlMThUWHhCWmV5VkNIVGYtNkJITkJLZENTblNrcVM4aERMZEJxQnJTQjZ3a2VIUWgta2VVODAwZTU4Q01VX1Z1bHotVV9nVE8yaHZMRWZLX3o20gFiQVVfeXFMTjhMSUY2akY2WGg3dG9OQXFIbmNwMTBsZ0IyV1l5cFpyczN3OHVEeVJGZnZ4T0Y1T2pVakxsMWtfMUV5NFhGZFhEcE5Ubmdld1pSR1M3SHFrbWNuSzJVZEc1Tnc?oc=5",
+        "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZWVYZENJT0FIbmF0UGJMRjFjc0YtV1NIYVU0bno1U0I1RUFzTXdTQXJ1b1h0NUVlUU85OTZWNWh3dDFWMkNlMTYwMkt1dXE5YUp1blRUcEx5WkHSAWBBVV95cUxPdlVxeU5iNEtmb3ZPenVxZ1hLVEI5WERtc0hMMExmQ0F4QVlCb0NfajFJNnZ5SHl5QUlPdVJ2Yl9qU0JNRXhZbkpvSkMtOXhCZWxTMlMzQnc2aDQxazBQSmg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "상하이서 '세계인공지능대회' 개막…中 AI·로봇 성과 한자리에(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZWVYZENJT0FIbmF0UGJMRjFjc0YtV1NIYVU0bno1U0I1RUFzTXdTQXJ1b1h0NUVlUU85OTZWNWh3dDFWMkNlMTYwMkt1dXE5YUp1blRUcEx5WkHSAWBBVV95cUxPdlVxeU5iNEtmb3ZPenVxZ1hLVEI5WERtc0hMMExmQ0F4QVlCb0NfajFJNnZ5SHl5QUlPdVJ2Yl9qU0JNRXhZbkpvSkMtOXhCZWxTMlMzQnc2aDQxazBQSmg?oc=5",
+        "title": "'오픈AI와 앤트로픽 넘어설 것' 중국 문샷, 차세대 인공지능AI 'Kimi K3' 발표... 제2의 '딥시크 사태' 재현될까? - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54UkRlMThUWHhCWmV5VkNIVGYtNkJITkJLZENTblNrcVM4aERMZEJxQnJTQjZ3a2VIUWgta2VVODAwZTU4Q01VX1Z1bHotVV9nVE8yaHZMRWZLX3o20gFiQVVfeXFMTjhMSUY2akY2WGg3dG9OQXFIbmNwMTBsZ0IyV1l5cFpyczN3OHVEeVJGZnZ4T0Y1T2pVakxsMWtfMUV5NFhGZFhEcE5Ubmdld1pSR1M3SHFrbWNuSzJVZEc1Tnc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "쿠팡물류센터 화재, 121명 자력 대피…국가소방동원령 발령",
-        "link": "https://n.news.naver.com/mnews/article/081/0003662234",
+        "title": "광주 어린이집서 낮잠 자던 1세 영아 숨져…경찰, 경위 조사 중",
+        "link": "https://n.news.naver.com/mnews/article/002/0002448821",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'151㎜ 물 폭탄' 인제서 주민 2명 급류 고립…1시간 만에 구조",
-        "link": "https://n.news.naver.com/mnews/article/421/0009065946",
+        "title": "인천 쿠팡물류센터 화재 밤샘 진화…전국 특수장비 총동원(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066198",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전국 정체전선 영향 비…강원·충청·남부 최고 120~150㎜ ‘물폭탄’[내일 날씨]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671759",
+        "title": "경기 북부 폭우에 주택 옹벽 '와르르'…이 시각 양주",
+        "link": "https://n.news.naver.com/mnews/article/422/0000886369",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"평생 면허 딴 적 없는데\"…상습 무면허·음주운전 50대 실형",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201016",
+        "title": "‘서이초 3주기’ 거리 나선 교사들…“아동복지법 즉각 개정하라”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002814620",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'전 충주맨' 김선태, 선관위 저격 \"공무원 시절 피해 많이 봐...\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005549581",
+        "title": "\"정치 문제 떠나 바뀌어야\"…선관위 저격한 전 '충주맨'",
+        "link": "https://n.news.naver.com/mnews/article/277/0005791353",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-18 15:05"
+  "updated": "2026-07-18 16:27"
 }
