@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "정부·홈쇼핑·중소기업 \"홈쇼핑 상생협력\" 공동선언",
-        "link": "https://n.news.naver.com/mnews/article/437/0000502067",
+        "title": "“비싼 GPU 대신 쓰세요”… 삼성SDS, ‘서비스형 NPU’ 출시",
+        "link": "https://n.news.naver.com/mnews/article/005/0001862081",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“덜 마셔도 더 좋은 커피로”…뜨는 원두커피, 지는 캡슐",
-        "link": "https://n.news.naver.com/mnews/article/018/0006333205",
+        "title": "中 '문샷 AI 쇼크'…오픈AI·앤트로픽 턱밑 추격",
+        "link": "https://n.news.naver.com/mnews/article/374/0000522372",
         "source": "네이버 뉴스"
       },
       {
-        "title": "딥시크·키미 다음은 큐원이다… 중국 AI, 美모델 바짝 추격",
-        "link": "https://n.news.naver.com/mnews/article/014/0005550374",
+        "title": "앱 설치 없이 앱마켓서 바로 게임한다…원스토어, '검투사 키우기' 출시",
+        "link": "https://n.news.naver.com/mnews/article/003/0014076827",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 \"미토스급 AI 못 만들면 美·中에 종속\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005311738",
+        "title": "국가AI전략위, AI 컴퓨팅 전략 세미나 개최…시스템 경쟁력 확대",
+        "link": "https://n.news.naver.com/mnews/article/119/0003113001",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 퓨리오사AI NPU 기반 구독 서비스 출시",
-        "link": "https://n.news.naver.com/mnews/article/011/0004642993",
+        "title": "배경훈 \"미중 AI 경쟁 시대…한국도 프론티어 AI 개발\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016204230",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,30 +34,40 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 독주의 그늘…‘한국판 네덜란드 병’ 경고 나선 한국은행 - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mcFFneHNmaUJ1VEh5WElYbGs3dUpOVDNud1Y1WUkzdUlvTXB3VWhjeTFzQXcxVEhKWm40VXk1dFBiU2t6RHdwcjRJNDl6S3F0UmhWVA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "[오늘과 내일/김현수]반도체 호황의 뒷면, 통상 갈등의 그림자 - 동아일보",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MMklXSTQ1LXhtV0FVUXZzc1h1bzUzckc5MDNuUkNHYkRJTjhmODc0Tm5NYzlIRVVPZW96WVdIdVczbG5mNk1fSlFrWlRNX1VJVFJEQ2hIT19YdUlYYkQ2elp6d2JqUW1oMERBQlh6QWU4X3FsZ0HSAWZBVV95cUxPYjdGcWFSX1ExVVlWbGJoRS1LTFA3eWFTQndvZzR2VmprNTZ6UksxTGVodjVFS1R3ZldUMEpySENDSENSWDV4NHY2NlhwcXB6amtYRXdoZ1BwV2hOYXhRMEU5dDNyTmc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[사설] 반도체 올라탄 GDP 4만 달러 ‘네덜란드병’ 경계해야 - 국제신문",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDE0OGhQSzdrWkpfSzhEdlAzRjJmNTlYM3gzQkZISXFxVk9IZkVlbWJWM0t6bVUzQ19TdHVFRUtFNXNERUhVLV9BczN6Ni01RWNvOUJiSlByTUZRWVdpbnY1NXFFRFppWS01NFJ4a1hIdUtMUTl6djdzT3h2VzlobnRhYzZ3UTlwa2h0VzdB?oc=5",
+        "title": "반도체 독주의 그늘…‘한국판 네덜란드 병’ 경고 나선 한국은행 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mcFFneHNmaUJ1VEh5WElYbGs3dUpOVDNud1Y1WUkzdUlvTXB3VWhjeTFzQXcxVEhKWm40VXk1dFBiU2t6RHdwcjRJNDl6S3F0UmhWVA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“인프라는 지으면 되지만 물 없인 반도체 못 만들어” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hUno1cUNNcXVDVl9ISmh3N09aZl9zM2YyYTlidy1DalRRTjVkeUtnNHBTN0p0ck45N0hWQjlVUnBMZ2N2ZGZHVHA1VWU5amM?oc=5",
+        "title": "한은 \"반도체 덕분 교역조건 개선‥내수 파급효과 과거보다 클 것\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wM2NRRHc4eWVrejVVaG5UZWJ0dXNkQXhkUlMwVk9GSjZERFduSU9iSFZPVTlJSjkyZGtheHFGa1lna0xiZnVMSEZ4SkhjVXU3WmZjaUJxdDFGVUhvUVdwWERHMDJMOXFFTlM2eGE5WjVzTmY00gF0QVVfeXFMUG05TzI4YmhkeWlkcldQeHROanp6LVVYWGpwam4zRUV4UXdyYWt6aHNZMVpJU2NGdmxaU010ekM1YXZWNDlJcG5SMWwxSlVrNVdZd0o2WEpScThfYW5RWXl4MUdNSDZzbVJQY1NaUmxzS0tndXY?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'없어서 못 판다'더니 진짜였네…재고 쌓일 틈 없는 반도체 물류 창고[르포] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93QlVpWHM0RkktVUpVZU5COVZjTkRjTTRReXc2Tl9QQ2o2ejVPcGxxOVNQSTRDYjBTUnlzRV9hZTlLd3lOb0E?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "인공지능(AI) 모델 '키미 K3' 홍보 부스 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yY2dQaVJkamhVQWtLT1dpWmVsS0FvUWlUcEs1UHFVMzF1UEo0TWV2Q1VWVDFnVkdPMVpjRkxWaFlVLV9LcTBuMnpKMEJGTVNxNk4ta2FOR3lwUEx5SlVvVNIBYEFVX3lxTE9yY2dQaVJkamhVQWtLT1dpWmVsS0FvUWlUcEs1UHFVMzF1UEo0TWV2Q1VWVDFnVkdPMVpjRkxWaFlVLV9LcTBuMnpKMEJGTVNxNk4ta2FOR3lwUEx5SlVvVA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "KTL, ‘산업 AI 국제인증’으로 제조기업 인공지능 전환 경쟁력 키운다 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kTGpSaUVxcm1yb1Zqck1Vc3h5QlNOVXp2Mkdvc0V3M3Q5eXFRdmFDWEtFcTloNFdyVWJuZVpBX0hpN3cxNVpmUGVWQ3EzVDg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "고용노동부, 인공지능(AI) 및 안전보건 분야 업무교류로 감사역량 강화한다 - 케이에스피뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zOVNUMm92STM1QVdYMXJ5NFk1NU9iN3NPanlYWDc3MG9sdmhRYkUwQVpnU2RPVDhMNGlQQ0U0Q1FxcmtN?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "조선업도 인공지능으로…HD현대-네이버클라우드 맞손 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URExEVVZNRU9odlVFS0FkNmRzcmxJRFFtaWMza1BGdFVsUEhrWVBVc0hCXzBlLWYtcXVzdTVzYVhwakxidkhZeWhJQUJPVEdQYnliWXBBSElFMXpJemNwWmxoUFhCTkU?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "생활 속 불편 AI로 푼다…경북도 아이디어 공모 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTWx0MzBibXd0eHgxME96MnlFSFBoT2t3RVFHMFBKMVhVWW9vMXdYNHhlZ1daek1XTDJsbDE1S3lPVlpTbmxiQ2hKTTBQcS1qb05MNlB6RDRJMERzV1owetIBYEFVX3lxTE1tTWx0MzBibXd0eHgxME96MnlFSFBoT2t3RVFHMFBKMVhVWW9vMXdYNHhlZ1daek1XTDJsbDE1S3lPVlpTbmxiQ2hKTTBQcS1qb05MNlB6RDRJMERzV1oweg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "지자체, 인공지능(AI) '실증도시 구축' 총력전… 행정·안전 패러다임 바꾼다 - 경인방송 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jVnRSVG95VW5KWjVVNlRVWXlZakxnZzM0M01Md2UzQkQwNkFIUnNrbk04UnB6S21acTloSjJ0TEVRbHhwWkVlUWRWZE1qTEt4NUlqUXRNUU5rRTVMZWs4WmVXYVPSAWhBVV95cUxOWUIzUGFEWUU3UVNMbkw4N3c3UlJMN2ZURHdReVNVUDVheEk1cndwV3Jub005cTYxZU1SZkZLWXptRWdodVZYLXJULVJfOUdWN1ZyRjQxSTRFTWMwcm1NQmZzMXNvQUpEcA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "배재고 야구부, 출전정지 1개월로 감경…봉황대기 출전 가능",
-        "link": "https://n.news.naver.com/mnews/article/277/0005792117",
+        "title": "[속보] 합수본, 중앙선관위 압수수색…노태악 부부 출장의혹",
+        "link": "https://n.news.naver.com/mnews/article/422/0000886722",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘의대 유치’ 대화 재개…순천 내 갈등은 격화",
-        "link": "https://n.news.naver.com/mnews/article/056/0012221582",
+        "title": "인천 서해구, 쿠팡 화재 관련 주민 대피령 오후 11시 해제 예정",
+        "link": "https://n.news.naver.com/mnews/article/003/0014077029",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보]사흘간 이어진 인천 쿠팡 물류센터 화재…61시간 만에 큰불 잡혀",
-        "link": "https://n.news.naver.com/mnews/article/087/0001205959",
+        "title": "기후부 \"북한 황강댐 일부 방류 추정\"…필승교 수위 상승 전망",
+        "link": "https://n.news.naver.com/mnews/article/437/0000502148",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헬스장 목눌림 사망…법원 \"예방 어려웠다\" 무죄",
-        "link": "https://n.news.naver.com/mnews/article/422/0000886781",
+        "title": "제주 남방큰돌고래 최소 5마리, 폐어구·낚시줄에 엉켜 수난",
+        "link": "https://n.news.naver.com/mnews/article/025/0003538686",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 한국남동발전 압수수색 … 선거 전 기부행위 의혹",
-        "link": "https://n.news.naver.com/mnews/article/277/0005792119",
+        "title": "\"빙수 만들던 파란 장갑 끼고 배수구 청소\" 설빙 알바생 영상에 위생논란",
+        "link": "https://n.news.naver.com/mnews/article/014/0005549891",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-20 17:03"
+  "updated": "2026-07-20 19:13"
 }
