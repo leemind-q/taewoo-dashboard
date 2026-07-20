@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버 조단위 투자유치 임박했나… 이해진 브룩필드 행",
-        "link": "https://n.news.naver.com/mnews/article/029/0003037789",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "갤럭시 폴더블폰 혁신 베일 벗는다…AI 안경도 출격",
-        "link": "https://n.news.naver.com/mnews/article/277/0005791569",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "미국과 격차 ‘몇 주’로 좁혔지만…中 AI, 전력·칩 벽에 막혔다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643203",
+        "title": "배경훈 “중국 AI 성과 부럽다…지난 1년은 기반, 이제 성과 낼 때”",
+        "link": "https://n.news.naver.com/mnews/article/374/0000522562",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, AI 추론 특화된 국산 NPU 구독 서비스 개시",
-        "link": "https://n.news.naver.com/mnews/article/028/0002814819",
+        "title": "월요일 삼전닉스 흔들 변수?…충격의 中 ‘키미 K3’ 공개에 美 반도체주 약세장",
+        "link": "https://n.news.naver.com/mnews/article/011/0004642902",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "이해진·최수연 캐나다行…네이버, AIDC '투자 세일즈'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006333351",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "22일 삼성전자 갤럭시 언팩...새로운 화면비 폴드 나온다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003988355",
         "source": "네이버 뉴스"
       }
     ],
@@ -31,11 +31,6 @@
       {
         "title": "\"메모리 반도체 공급과잉 아직 아니다…2035년까지 수요가 공급 앞서\" - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNS1Ta3VfalBpYzBGSmJzeHZVVUNlWi0xMUIwN2FtSEhiRUxHWlhZbVpfaXBoRmNyUVZUemhXUTA1NHU5VHpuSVhSeUdtZjdTZHlFQW05LXVCVndHM0FNTjRpVVNWX3BkNHN6T0YwNU0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“한국, 반도체 의존하다 ‘네덜란드병’ 걸릴수도” 한은의 경고 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84bmVuSGdYVEtfRU9xc2FZcUZHRENGSHU1SkV6eGFWWERwdmlzTU4wSXBxdnEtWll0dHdycDh0S2ZSd1JhNmc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도, '경기미래투자공사'에 반도체 거점 8개 시 출자 추진 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOXJ3RFhDQ2lpcV9wZk1uaWJvU1VDR1E4aEpKbmVKRnhJMFRKNkt5bFhibEw3UjNEQzFuZlk4OXV1T0FwczVQazJMZW5oU0RaVld0YlJ2b25QNmPSAWBBVV95cUxPcEVzRnFJa3lIbElucXlCZldKYWtwODMtTjBjeDR4N0FmQzFLQkpFbHg4YmxXVFAwMlJtYjh2QldVSUxlTTkwZEtNUDRkeGlEaHA1N3FVS3Y5V3F6TmJZTEM?oc=5",
+        "title": "한은 \"반도체發 교역조건 개선, 내수 파급효과 과거보다 클 것\"(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YV2NMM1NIZjVMSTdLOTBwdVhIaG1uN0twY2tTcS1TOWtHWnNXZHZKQUEtTTZnQTZXSHJoYVRrelNENGpGdEQ2c0VKYzJ1Wms?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'삼전닉스' 직행…취업률 96% 반도체 마이스터고 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NYXhDZDhpYVpCREVmaTBuM25FYmtya3dFbXdaXzcyMWFFWFh4WFNXV25kWWFZRDB6YTFvVG56MXc1VmJYZ2taVUc2T2FzUDNjMXhWOXVPd2M3MzZfcG8zLTBTdlNWNVYtSHhlcUNtUk1QZk0?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "인천 쿠팡물류센터 화재 50시간째 진화…대피령에 휴교까지",
-        "link": "https://n.news.naver.com/mnews/article/056/0012221020",
+        "title": "인천 쿠팡물류센터 화재 사흘째...진화 총력",
+        "link": "https://n.news.naver.com/mnews/article/018/0006333383",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안민석 경기도교육감 \"폰 프리 스쿨 넘어 SNS 규제도 논의할 때\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005388106",
+        "title": "장윤기, 자필 의견서보니 “꿈은 경찰…우리 가족에게 피해 없길”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003538488",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오세훈측 \"거대 여당의 사법부 겁박, 반헌법적 작태\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006333264",
+        "title": "순천대 총학생회 \"의대 설립, 정치적 전리품 아냐…정부 원칙으로 해야\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004170021",
         "source": "네이버 뉴스"
       },
       {
-        "title": "노태악 배우자 동반출장 의혹…선관위 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643017",
+        "title": "경찰, '김건희 명품가방 사건' 종결 처리한 권익위 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/001/0016203711",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남·광주 교육청 ‘5개 권역’ 체제 대수술 예고",
-        "link": "https://n.news.naver.com/mnews/article/081/0003662270",
+        "title": "투표지 합수본, '외유성 출장 의혹' 선관위 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/055/0001373740",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-20 10:54"
+  "updated": "2026-07-20 13:08"
 }
