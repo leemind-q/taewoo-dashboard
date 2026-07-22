@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "통신3사, AI 글라스 '레이밴 메타' 동시 출시…어디가 제일 저렴하나",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234979",
+        "title": "정부, ‘사이버 보안 특화 AI’ 개발 착수…GPU 256장 투입",
+        "link": "https://n.news.naver.com/mnews/article/018/0006334966",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "정부·플랫폼·글로벌 AI 기업 한자리에…생성형 AI 자율규제 논의 본격화",
+        "link": "https://n.news.naver.com/mnews/article/018/0006334739",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "방미통위, '李 캠프 논란' 오태규 방문진 이사 후보 자동임명 인정",
+        "link": "https://n.news.naver.com/mnews/article/006/0000136855",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "통신 3사, 메타 AI 글라스 '레이밴 메타' 출시",
+        "link": "https://n.news.naver.com/mnews/article/215/0001259526",
         "source": "네이버 뉴스"
       },
       {
         "title": "韓이 만든 핵융합 진공 용기, 조립 완료… 2034년 첫 연구 운전",
         "link": "https://n.news.naver.com/mnews/article/008/0005389432",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"토성비 17% 높였다\"…구글 '제미나이3.6 플래시' 공개",
-        "link": "https://n.news.naver.com/mnews/article/421/0009073201",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "오픈AI, 한국서 첫 브랜드 광고 캠페인",
-        "link": "https://n.news.naver.com/mnews/article/014/0005551532",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "엔비디아, '베라 루빈' 공급 본격화…AI 칩 주도권 굳히기",
-        "link": "https://n.news.naver.com/mnews/article/277/0005793123",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"원전 4기로 전력 부족… 4년내 호남 반도체 조성 어렵다\" [정책&인물] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwTGlNZkc5Y04wLVIwQ3pFanR6dkNhVmxUYjhqa1FBRm1zcnBCdzVwejY2V1FZX01WVlN6NUNNQ2xpOHZpY0xSb2d3ODIxcWc?oc=5",
+        "title": "반도체 경쟁 속 “TK 반도체 소부장 핵심 축 돼야” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RZmRrTEdVSWxuR200ejVCS3lFaWdlMm4yS091R0VSb2ZKTldUVVdHVVJCeE9fWXBIX2NXQXZWZmg2MEtHbGJMbGxpMUFoUzk2WHBHRXZQQTdaNU5jZzAyeUhpdFdZQmtWRWRF?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"반도체 최적지는 TK\"…국힘 대구·경북 의원들 유치 총력전 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWNkYzNW91Q1R2SS1XM1hHZnJnaEJNMU1IXzNSNlpJem5MVXRkdWdwd1hpTm4yUDZXWWJtN1NmOWZ3a2VLRWFNZzRSVDRwcWVLRzkwR1pUai0zdw?oc=5",
+        "title": "국힘 대구·경북 의원들, \"반도체 글로벌 경쟁력 강화\" 토론회 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNR1hZNHEyNG4telV2bVhZd0tJa0VmY0M1VFVvbUcybHVieHg5T29sQkRMWVplb205Q2M0RFdpVkh1VXowUmZfRTRVOXY1Tll1WG1KR3hkaVZUNjJRNjVF?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“TK, ‘설계부터 생산까지’ 반도체 생태계 구축 최적의 지역”…국내 최고 반도체 전문가들의 한결같은 평가 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtTW9vRkhhaEM2SWdKV2VzVzVHZVdhc0RzREhnTkNiZUFyVU9zbnRNTXB4aVkzdmJrOVA4NDBOS3lRSlRfUDRxaWZjaWlqaG8?oc=5",
+        "title": "“반도체 기업 경북 올 이유 만들겠다” TK의원·국힘 지도부 한 목소리로 “구미가 최적지” - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMHBpOUtkYkcwOGxMd3JKZVp5aEk5dGl2QzFBTG51OEkzNUYybnNQcGNGMjZ4MDN3NklVUUQ2cXRicjhsWGRGRWdEOUhrZkE?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,11 @@
       {
         "title": "오픈AI 최신작, 실험실 탈출해 외부 시스템 해킹…‘인공지능의 공격’ 현실로 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GZHd3b0s0amswNEJNcFpPZDlici1OeDg2UU5FczlXcERWMUpVUlF2NE91Q0FpenBoLVpLZ1V0OE1CVEZrYlZMUU9CMFBnSUZmNW1OQTUwaW56OG11dzNaSQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "오픈AI 인공지능 모델, 보안 통제망 뚫고 외부 서버 침투 사고 발생 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvUm52MFNJblprLWI3bUZ3VGV6eWRBQXNvOHQ5NlFfajBoem1iY0ltazBNNTdTRDk5VS13dzlhODQ4RUJGSndWcW9ScVZ4c0ZHREJvYWxFaUtYV3Q0aS1aZFlvZWFxd9IBZkFVX3lxTFBvUm52MFNJblprLWI3bUZ3VGV6eWRBQXNvOHQ5NlFfajBoem1iY0ltazBNNTdTRDk5VS13dzlhODQ4RUJGSndWcW9ScVZ4c0ZHREJvYWxFaUtYV3Q0aS1aZFlvZWFxdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "오픈AI 인공지능 모델, 보안 통제망 뚫고 외부 서버 침투 사고 발생 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EOVo1OHJsQjVPaTYyeUduMWJwakl3YmxyMV9WTVdyWDZjZU5BSzl4Y0dTZHhoSVZQRE1ON0lGUXM2ZllQREs3Y2NVM0xWRnRGdjN1QWg2b1VWclFRaFFFdnZLaDRjbFVuZE9uR1ZfbEVCU1FPbmfSAWZBVV95cUxQb1JudjBTSW5aay1iN21Gd1RlenlkQUFzbzh0OTZRX2owaHptYmNJbWswTTU3U0Q5OVUtd3c5YTg0OEVCRkp3VnFvUnFWeHNGR0RCb2FsRWlLWFd0NGktWmRZb2VhcXc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북도 인공지능(AI) 기반 주민돌봄 서비스 구축 추진 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ubkF5RXRVUXB0NW05TF9udmtTelhyTjdFaWpDRFlPQkhjZmxCWVh4eXdxcGVvMTQ2V0M3SVJQTXgtZmh3dHlXNmRrREFPOGM?oc=5",
+        "title": "경상북도. 포항시 `인공지능(AI) 제조혁신포럼 2026`개최 - CBN뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WXkybVB3Zmw2NkduY21xQ1BUbkc4REhNU2RBWG15RS1PbTZncU5FZi02MXRybE9BeFlwMXVuS1FXU3J6T0pxV21raXhQbUZhTkFZ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "주택가에서 타정총 발사하며 경찰 대치...50대 체포",
-        "link": "https://n.news.naver.com/mnews/article/052/0002383047",
+        "title": "우상호 지사, 박홍근 장관에 국가발전 위한 강원 5개 사업 지원 요청",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673629",
         "source": "네이버 뉴스"
       },
       {
-        "title": "쿠팡 물류센터 화재에…서울소방, 대규모 창고 37곳 긴급 조사",
-        "link": "https://n.news.naver.com/mnews/article/422/0000887625",
+        "title": "정근식 '기본교육' 선언…\"이르면 2학기 교통비·체험학습비 지원\"(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014081007",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최대호 안양시장, 민선 9기 경기도시장군수협의회장 선출",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643938",
+        "title": "국회 법사위, '최영중 통신영장 기각' 검찰 질타...정성호 \"필요 시 감찰\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002383083",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"불법도박 승률은 0%\" 카카오뱅크, 청소년 도박·금융피해 막는다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005551388",
+        "title": "정청래 탄 차량 발로 차고 파손…50대 남성 검거",
+        "link": "https://n.news.naver.com/mnews/article/057/0001959792",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해외 직구한 젤리서 ‘마약성분’…식약처, 국내 반입 차단",
-        "link": "https://n.news.naver.com/mnews/article/056/0012222778",
+        "title": "[단독]교육부, 기획처에 교육교부금 개편안 제시…'내국세 연동' 사수",
+        "link": "https://n.news.naver.com/mnews/article/079/0004170649",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-22 09:28"
+  "updated": "2026-07-22 11:26"
 }
