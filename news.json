@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "정부, ‘사이버 보안 특화 AI’ 개발 착수…GPU 256장 투입",
-        "link": "https://n.news.naver.com/mnews/article/018/0006334966",
+        "title": "메타 ‘AI 글래스’ 한국 상륙…통신3사, ‘레이밴 메타’ 공식 출시",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673204",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부·플랫폼·글로벌 AI 기업 한자리에…생성형 AI 자율규제 논의 본격화",
-        "link": "https://n.news.naver.com/mnews/article/018/0006334739",
+        "title": "\"토성비 17% 높였다\"…구글 '제미나이3.6 플래시' 공개",
+        "link": "https://n.news.naver.com/mnews/article/421/0009073201",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, '李 캠프 논란' 오태규 방문진 이사 후보 자동임명 인정",
-        "link": "https://n.news.naver.com/mnews/article/006/0000136855",
+        "title": "방미통위 방송평가 KBS1·MBN 1위…MBC·TV조선 약진",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171068",
         "source": "네이버 뉴스"
       },
       {
-        "title": "통신 3사, 메타 AI 글라스 '레이밴 메타' 출시",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259526",
+        "title": "정부, AI 모델 플랫폼 자율 원칙 만든다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005312645",
         "source": "네이버 뉴스"
       },
       {
-        "title": "韓이 만든 핵융합 진공 용기, 조립 완료… 2034년 첫 연구 운전",
-        "link": "https://n.news.naver.com/mnews/article/008/0005389432",
+        "title": "카카오엔터프라이즈, 이재한 신임 대표 내정",
+        "link": "https://n.news.naver.com/mnews/article/031/0001043906",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "반도체 업황 불확실성 지속…코스피 '전강후약' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LeVp0b0MwMW1SNUliVjd0MEdQd1lLQzNhRjFnOU9aM2VsV0t5QzN5c3J5eW1kYWFGcFVQWXZwZThsVDZFQ2RHdDJyVm92ckk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI DC에 메모리 얼마나 더 필요하려나…구글 실적 바라보는 반도체 투심 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXdXN6Q25QT1FpWHd4eHZEbktZc2JKclZQR0JhY1UxdTVnYVVySUp3SUpxSE5CSmdLYjdKVktOY2EtQWJfQUU1UGNFSTQ4M0Q0ZkVqMzJjRXd2aUhiaUdXT3AyVnh0MnJR0gFuQVVfeXFMTTBNR1V0eHJjdWg4aEYxTWpNeE1qbkNoSWt5SGFOSlNDZDNLVVVjSWtiS3FSOHBlUklJTFdQTUpBOThYOGFURmVUWGZFcVFjMllaOHdGM3VueGZSRWtjOG51bnNKaHd0WF9JOUU1c3c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "피크아웃 우려 씻은 반도체…코스피, 외국인 매수에 '또' 사이드카 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mV0JzbXF3ZjVTem4xaFppbHVNeUl1UXBFYkExQlV1VnVtU2NadnlxOW5sR2hUb2NOSFhOc0ZCWUhBSldMckQ1czhwWUxGUllFUkFZc0UzVjNjOFVmNXUyQWVFNElXRU5mbWJVVXlLOUXSAXRBVV95cUxOT2ltVjdCc0wwYlVlWW11SFNBQ1RQYkEyZkpRdmsxaFQ4SkUyU05CN251ci1TTW9KTXhOYzhhOXF0eXgzdWo1SDRiN0N3MUZMeWFuYkRnMHNSX2JLRnNrX2FCa2pUTmFfd01zbU1ScDUzdnV3Yw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "삼성, 평택에 하이브리드 본딩 50대 규모 양산 라인 만든다 - 디일렉",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43MWZ4ODN6NUFrdHRKMFBxeDF4QlRETXY2dUE0WWxuNTRWNk5RZElaMmJOcG1QUmQxYVhhckF6LUhNZEJCbjRFdXplc0NESzFOdUZZaENxd29XX1lHMXBCTzZuajdaQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "JP모건, 반도체 과매도 상태…'곧 바닥 다질 것' - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tb1RoRXVRallCdlNERU9udXhpM25pWS13WDM4ODF3VXh1d1lXMlk5QkNaYzZ1UjctZFZWdGRMelFSc3BPbEJqNUoxZldfZm5oMVQ1MlJ5aTZBMl9jMERBb1pUMjl4dE1DcDRXVXh5cGQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 경쟁 속 “TK 반도체 소부장 핵심 축 돼야” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RZmRrTEdVSWxuR200ejVCS3lFaWdlMm4yS091R0VSb2ZKTldUVVdHVVJCeE9fWXBIX2NXQXZWZmg2MEtHbGJMbGxpMUFoUzk2WHBHRXZQQTdaNU5jZzAyeUhpdFdZQmtWRWRF?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국힘 대구·경북 의원들, \"반도체 글로벌 경쟁력 강화\" 토론회 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNR1hZNHEyNG4telV2bVhZd0tJa0VmY0M1VFVvbUcybHVieHg5T29sQkRMWVplb205Q2M0RFdpVkh1VXowUmZfRTRVOXY1Tll1WG1KR3hkaVZUNjJRNjVF?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“반도체 기업 경북 올 이유 만들겠다” TK의원·국힘 지도부 한 목소리로 “구미가 최적지” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMHBpOUtkYkcwOGxMd3JKZVp5aEk5dGl2QzFBTG51OEkzNUYybnNQcGNGMjZ4MDN3NklVUUQ2cXRicjhsWGRGRWdEOUhrZkE?oc=5",
+        "title": "정부, 용인 반도체산단 전기공급 11년 앞당긴다…2042년 완료 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DNThGSGh1TWM1b29NUmpqa0JXZS1BbGVQWjZOUmloLTNnM3RkNG1uNkhENW9mVzA0M3JEWUpWdWZOYUpuNGJTMTdmc2ZQMjg?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경상북도. 포항시 `인공지능(AI) 제조혁신포럼 2026`개최 - CBN뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WXkybVB3Zmw2NkduY21xQ1BUbkc4REhNU2RBWG15RS1PbTZncU5FZi02MXRybE9BeFlwMXVuS1FXU3J6T0pxV21raXhQbUZhTkFZ?oc=5",
+        "title": "인공지능(AI) 챔피언 인재 양성 본격 추진 - 뉴스N제주",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SYnk2TTZ2QU9pNEp0bWdBclFfbmpXVXZuOWlzZ3VBX1g3NDVybnNybnpHaVMzUWZzSU55TEZHQ1lER1dXQVQzcThGTnhQVFhnMkRzSV96Wld6TnBsVEpKYzA2MXRhZmVrWVNsUw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "우상호 지사, 박홍근 장관에 국가발전 위한 강원 5개 사업 지원 요청",
-        "link": "https://n.news.naver.com/mnews/article/016/0002673629",
+        "title": "특검, 김건희 금품 수수액 1천만원 특정…오전 조사서 진술 거부(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016208377",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정근식 '기본교육' 선언…\"이르면 2학기 교통비·체험학습비 지원\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014081007",
+        "title": "오세훈은 유죄, 김건희는 무죄…엇갈리는 ‘명태균 의혹’ 판결, 왜",
+        "link": "https://n.news.naver.com/mnews/article/025/0003539377",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국회 법사위, '최영중 통신영장 기각' 검찰 질타...정성호 \"필요 시 감찰\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002383083",
+        "title": "LED·급수대까지 갖춰…'경연프로 출신' 힙합 가수, 대마 재배하다 적발",
+        "link": "https://n.news.naver.com/mnews/article/417/0001152580",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정청래 탄 차량 발로 차고 파손…50대 남성 검거",
-        "link": "https://n.news.naver.com/mnews/article/057/0001959792",
+        "title": "대법 \"2018년 이후 '제휴사 포인트 결제액'은 부가세 부과 가능\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001374580",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독]교육부, 기획처에 교육교부금 개편안 제시…'내국세 연동' 사수",
-        "link": "https://n.news.naver.com/mnews/article/079/0004170649",
+        "title": "‘장윤기 사건’ 부실 수사 형사과장, 구속 기각",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673065",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-22 11:26"
+  "updated": "2026-07-22 13:03"
 }
