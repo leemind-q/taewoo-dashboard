@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "‘코드게이트 2026’ 개막… AI 해커, 인간 화이트해커와 진검승부",
-        "link": "https://n.news.naver.com/mnews/article/119/0003114596",
+        "title": "인간 해커와 AI가 취약점 찾기 맞대결…‘코드게이트 2026’ 성료",
+        "link": "https://n.news.naver.com/mnews/article/021/0002806747",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST·엔비디아, 3억달러 규모 AI 공동연구소 설립",
-        "link": "https://n.news.naver.com/mnews/article/374/0000523578",
+        "title": "“메디슨 황 주도”…4400억 들인 KAIST·엔비디아 연구소, 왜[팩플]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003539959",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘메이플M’·‘세나 리버스’·‘몬길’·‘프로야구GO!’ 갤럭시 Z 스페셜 테마 공개",
-        "link": "https://n.news.naver.com/mnews/article/009/0005711689",
+        "title": "젠스파크, 한국 공식 진출… 웬 상 COO “韓은 핵심 시장 3년간 1억달러 투자”",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235386",
         "source": "네이버 뉴스"
       },
       {
-        "title": "젠스파크, 'AI 워크스페이스 6.0'과 한국 진출…“3년간 1억달러 투자”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003450733",
+        "title": "정재헌 SKT 사장 “AI 인프라 경쟁, 지금이 골든타임”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181699",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽, 가성비 앞세운 AI ‘오퍼스5’ 출시… “GPT-5.6 능가, 비용은 절반”",
-        "link": "https://n.news.naver.com/mnews/article/029/0003038750",
+        "title": "넥슨·넷마블, 삼성 갤럭시Z 시리즈 위한 스페셜 테마 공개",
+        "link": "https://n.news.naver.com/mnews/article/421/0009077052",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "한국 반도체 저승사자 모건스탠리 \"요즘 자숙 모드\" 이유는 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTVzODMtM0d6bXUyTFNxZmlSakZHMW02T29nODgtVzAyc2c2cmtzN2ViWDRNN0Rua2dwVUZfckIxbVdEQzB3cFJLVkl4TUxvaXZxMmFIVnBQeGFHaXRES19DSjNQUjBubC1NRlZ1ZUdlcXJXblNVbU4yZ0FLd3RkNkVFZ1BQUmZibnA0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"오포 등 中제조사, 삼성전자 제시 3Q 반도체 가격 인상안 보이콧\" - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tMXRWT2RPbEpmb1Q2b0NDb2JmeXowRmdHTlltcVpqc24tR0hzQ0tiQzZOU3Mwd2hhXzVfVjVvWXpSZ0k2NzhYUm0ya0ZvSWZqQUo1enR1MzZsSjR4UkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "메모리 4배 더 필요한 자율주행 시대…완성차 ‘반도체 대란’ 비상 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pRXFrSzRhQWhhaldWWlEtcEkweS1HVm9EU3FiNzRPNWFYMDRuY2hwU0VrdkJUald0RjI2dXIwblRUdkJHLVZqSTVVQl8zY0U?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[반도체 진주, 일본서 캔다] 아지노모토 ②버릴 뻔한 조미료 부산물, AI 칩 떠받치다 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53QkZrUGRLUm5WQ3VIUXhQTTZoNHFGZXNPeTNXY0xMLWNwaUdoVnY0c1V3ZWVhVHdPRUlQM08xMGNCR3g4dG9EM1pRRVd4aFFQT3ZldWwzNUpTMFN0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "‘반도체 훈풍’에 소비심리 석 달째 개선되나 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lWkxSUk1KN2o1WEVGZ0FxcnhTUTU4cjhEV3pVVHpHazkxaFFYZEtsakpxOWkwcEhlRnVQanlHakZ5Wkg0ZFVWdndiSFV6YUlHT28zOEw0bWVjOFlodDZyRjRuOWNPU1JYOXBUWV9KRXhwOU0?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "‘안전한 인공지능’ 목표, AI 노블레스 오블리주를 논하다 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14MmcyN2ktdnVYSEVvN2lPODhwcFIwS2xhMi1faHdZUC13bFdaTkJOdXFsWlVxeDktMFUtaFNRVGFOR3RqVDUyaHNIN2N4VW9BRzdkMVdR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSGNVbWEwX1dtMDZQRjBxV2NUV0NnTzBMWEx2eUNFV21UTThLNUJhcG1pYTB0YkpGMHJpX1UxMWN1WmdqVEJvVm1VaUFiVEVTeC12VFpVQ0twQk3SAWBBVV95cUxQZ0tKbFMzNzhyYUVidW5Kb2xlQ00tMVI5UjBrcDQxSTczdm1EamVWZzVSQ05jS2tfdkFJaHpnbXlTTUpqdl9CcUhhczhTUWUzOTNpeWdnUmhVSzJYVFlqck0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 보고서 올렸다가 ‘시말서 폭탄’ … 환각 없는 RAG 어때요 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Sei1TV2c4S3phSEh0Q0dvNm9ieU1MRGMxMDY2VDVpUWlDVGtzV0s5dEI2RlFobHNrM2daalN6Sm13X1p0SWxCSjgtSVp0dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "충주시, AI 가장 잘 사용하는 도시 충주 구현...인공지능 전환 추진 - 뉴스타운",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YRTV2cTZJS2hqSERiS1IyQXgyUWtRWmZpSHk3ZkRfbWs2RzhTV3hsM1R0Skx5R0gyRWVBTk5LVGlzclVUSWJGZ2FkT3BmNTVPckJtVkJwdnhCSDV4amVuMVdIQ1Vid0hBWnctVWJR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] 수술로봇 학습을 위한 엔비디아의 의료 시뮬레이션 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92Q242ZE9lX1RvMllTMWpTdk9Tbk1paG1BTUZXdTgwWXY3Skl2QzRLMTgwS2c5RERDRTBkbDZ5cUJaREJ4OEo0UkFsdGVuUW95UDhIU2U4d3ZXajBTQjNHanoxMUFIdXJMTnVUQzJibw?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "\"최종 투표율이 중요\" 변명한 선관위 직원…충청서도 조작 정황(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016213629",
+        "title": "전공노 광주시지부 \"민형배 시장, 조직개편 결단 미뤄 갈등 키워\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171794",
         "source": "네이버 뉴스"
       },
       {
-        "title": "살인 이틀 전 '스토킹 사건' 왜 분리됐나…국수본 향하는 의혹",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390753",
+        "title": "‘문항 거래’ 수학 1타강사 현우진에 징역 1년 구형",
+        "link": "https://n.news.naver.com/mnews/article/020/0003736294",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"문 잠그고 복도 감시\"…부산 외국인 선원 추락사 관련 4명 입건",
-        "link": "https://n.news.naver.com/mnews/article/055/0001375083",
+        "title": "국방부, '무안군 불참' 광주 군공항 이전 후보지 선정회의 또 연기",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513758",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, ‘의사 블랙리스트’ 유포 관련 10명 약식기소",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794350",
+        "title": "경찰, 경산 방화 피의자 주거지·차량 압수수색…범행 동기 수사",
+        "link": "https://n.news.naver.com/mnews/article/057/0001960223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수도권·강원 비 계속···전국 ‘찜통 더위’",
-        "link": "https://n.news.naver.com/mnews/article/032/0003460124",
+        "title": "투표용지 합수본, '투표율 조작' 정황 포착…이틀째 선관위 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375118",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-24 22:07"
+  "updated": "2026-07-24 23:33"
 }
