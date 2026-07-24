@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "88개국 화이트해커와 AI 겨뤘다…‘보안 올림픽’ 승자는 [팩플]",
-        "link": "https://n.news.naver.com/mnews/article/025/0003539948",
+        "title": "‘코드게이트 2026’ 개막… AI 해커, 인간 화이트해커와 진검승부",
+        "link": "https://n.news.naver.com/mnews/article/119/0003114596",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, AI 데이터센터 전담법인 'SK하이퍼' 설립",
-        "link": "https://n.news.naver.com/mnews/article/119/0003114324",
+        "title": "KAIST·엔비디아, 3억달러 규모 AI 공동연구소 설립",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523578",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨 모바일 게임 '아이온 클래식' 中 외자판호 발급",
-        "link": "https://n.news.naver.com/mnews/article/031/0001044451",
+        "title": "‘메이플M’·‘세나 리버스’·‘몬길’·‘프로야구GO!’ 갤럭시 Z 스페셜 테마 공개",
+        "link": "https://n.news.naver.com/mnews/article/009/0005711689",
         "source": "네이버 뉴스"
       },
       {
-        "title": "넥써쓰, 전략 시뮬레이션 게임 '프로스트 킹덤' 출시",
-        "link": "https://n.news.naver.com/mnews/article/003/0014085693",
+        "title": "젠스파크, 'AI 워크스페이스 6.0'과 한국 진출…“3년간 1억달러 투자”",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450733",
         "source": "네이버 뉴스"
       },
       {
-        "title": "넷마블 인기 게임 '세븐나이츠'·'몬길' 갤 폴드8 대화면으로 만난다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014085948",
+        "title": "앤트로픽, 가성비 앞세운 AI ‘오퍼스5’ 출시… “GPT-5.6 능가, 비용은 절반”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038750",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "한국 반도체 저승사자 모건스탠리 \"요즘 자숙 모드\" 이유는 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTVzODMtM0d6bXUyTFNxZmlSakZHMW02T29nODgtVzAyc2c2cmtzN2ViWDRNN0Rua2dwVUZfckIxbVdEQzB3cFJLVkl4TUxvaXZxMmFIVnBQeGFHaXRES19DSjNQUjBubC1NRlZ1ZUdlcXJXblNVbU4yZ0FLd3RkNkVFZ1BQUmZibnA0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 장비 납품기간 2배 늘어…제조사 '발등에 불' - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHTC15NWd2aWg1Ujl2OEV1MUlhRmZ5UjBzMHZrUmkwUXFFdVhGUXhHaGp1bWg3aEJkbE0wN0VDeFF6cWlwdVgwTlJGR0VQUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[뉴욕증시-1보] 반도체만 콕 집어서 투매…혼조 마감 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSEZRdHpCMVA3cDY4VjdrREJVMnVFdTNFQkhzNUxpV0RyMlZmQ0VvWXFlRHVnNmU5dGpzdGYxTXRmdmp0OFVIS0NpYXM1Znk3N3JzTUtROUtwUFNUc0ZLSDhQSEFUQkNROUp1Q0hwbkPSAXRBVV95cUxQVVFsR3IzV1dUZkFZWndZNGRIMWIxWGxpTVdXVF9XOV82dGR0QzVITWx0RDB5c3hqWXRSSG5KbU44U2xsVVh0WTlvbFhKOWwwRkFFZmpMTHFsUXJWN1l3a1dwcVpFN3hkX1NxT1BJd2pmbndEdg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "마이크론테크놀로지, 기술주 매도세·반도체 가격 우려에 주가 7% 급락 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82emxSRG1qX2p2Zk4tdDV4S0NHazhpUWJhcVZJeERsYkMyTnRPYmNwLXRrOVExT0cyanpCWlZIZDhtaHBnRUo4T3BsU3RRM29GY1JsWEM2em91OHoybC14SEF5NXIxZ2hNXzZnbVY4Z3FJQUU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"오포 등 中제조사, 삼성전자 제시 3Q 반도체 가격 인상안 보이콧\" - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tMXRWT2RPbEpmb1Q2b0NDb2JmeXowRmdHTlltcVpqc24tR0hzQ0tiQzZOU3Mwd2hhXzVfVjVvWXpSZ0k2NzhYUm0ya0ZvSWZqQUo1enR1MzZsSjR4UkE?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "‘안전한 인공지능’ 목표, AI 노블레스 오블리주를 논하다 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14MmcyN2ktdnVYSEVvN2lPODhwcFIwS2xhMi1faHdZUC13bFdaTkJOdXFsWlVxeDktMFUtaFNRVGFOR3RqVDUyaHNIN2N4VW9BRzdkMVdR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSGNVbWEwX1dtMDZQRjBxV2NUV0NnTzBMWEx2eUNFV21UTThLNUJhcG1pYTB0YkpGMHJpX1UxMWN1WmdqVEJvVm1VaUFiVEVTeC12VFpVQ0twQk3SAWBBVV95cUxQZ0tKbFMzNzhyYUVidW5Kb2xlQ00tMVI5UjBrcDQxSTczdm1EamVWZzVSQ05jS2tfdkFJaHpnbXlTTUpqdl9CcUhhczhTUWUzOTNpeWdnUmhVSzJYVFlqck0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "구리시, 간부 공무원 맞춤형 인공지능(AI) 교육 실시 - 일간투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSnE5QkpyTGhiUmJ3Q3B2bEhOVnVlSW5ZRTkwdUdFN2xra3RjSjU5Ui1WX2FvSWxQVnQzU0FBTmhHcGRVMXVMa29hMUwzUHlfN01FR25CaXhMS1dNc1FuMGlOVFdtTHJkd1pR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "대한장애인e스포츠연맹, 인공지능(AI)시대 국회 정책토론회 성황 - 공정뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01YUxoU1pTZm45My1BU2N1d0JBYU51ZWtGbG85dnBIZjg0SWxDZWt3VXlYM2VoMFdWZXoyam1LaEduUWlINEtiZmdZQnFxdTVDZGRRWksxVXZfLUdHLVZZbGtmZUVzZm9v?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI) 미래 성장축 노린 전남광주특별시…국비 확보 총력전 - 뉴스후플러스",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nVnlRV3ZiT2ZVamtfcVBIa3dtaFh6bkMtdmlwQUM2dElSbHI2c1ZXeXZQVkJSLVNreGppMjdOblM1M0pRY0ZWRDhYZDVnTkVjTktTNHZaT3BBMzlDRGZYdlYzNERvNm5YMFVJa01n?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "전국 하수에 필로폰, 핼러윈 용산선 ‘클럽 마약’ 8종 나왔다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003736287",
+        "title": "\"최종 투표율이 중요\" 변명한 선관위 직원…충청서도 조작 정황(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016213629",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정교유착 합수본, 신천지 신도 '민주당 집단가입' 정황도 포착",
-        "link": "https://n.news.naver.com/mnews/article/437/0000502882",
+        "title": "살인 이틀 전 '스토킹 사건' 왜 분리됐나…국수본 향하는 의혹",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390753",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'동탄 전세사기' 검찰수사관 구속심사 출석…질문엔 '묵묵부답'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016213153",
+        "title": "\"문 잠그고 복도 감시\"…부산 외국인 선원 추락사 관련 4명 입건",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375083",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서강석 송파구청장, 중앙선관위 개혁 촉구…\"행안장관, 올림픽공원에 가야 해\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003114754",
+        "title": "검찰, ‘의사 블랙리스트’ 유포 관련 10명 약식기소",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794350",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우리동네 장마 언제까지…비 다음 폭염 온다[날씨]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005793965",
+        "title": "수도권·강원 비 계속···전국 ‘찜통 더위’",
+        "link": "https://n.news.naver.com/mnews/article/032/0003460124",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-24 20:36"
+  "updated": "2026-07-24 22:07"
 }
