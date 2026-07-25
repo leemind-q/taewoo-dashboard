@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성SDS, 앤스로픽과 손잡고 '클로드' 확산…국내 엔터프라이즈 AI 시장 공략 강화",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336777",
+        "title": "네이버, 브룩필드·엔비디아서 14조 투자 유치…200㎿ AI 팩토리 구축",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450805",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 런던 코벤트 가든서 갤럭시 팝업 운영",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336641",
+        "title": "삼성SDS·앤트로픽, 전략적 파트너십…'클로드' 기반 엔터프라이즈 AI 사업 확대",
+        "link": "https://n.news.naver.com/mnews/article/030/0003450803",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽, 성능 높이고 가격은 반값…오퍼스5 공개",
-        "link": "https://n.news.naver.com/mnews/article/014/0005552665",
+        "title": "‘갤럭시 Z 폴드8’ 출시 효과 노린다…게임사들 공동 마케팅 확대",
+        "link": "https://n.news.naver.com/mnews/article/011/0004644988",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 엔비디아·브룩쉴드서 14.6조 투자 유치…이해진 \"새 단계 도약\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002431872",
+        "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
+        "link": "https://n.news.naver.com/mnews/article/022/0004145748",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[인터뷰] 정윤석 리벨리온 CSO “Arm·SKT와 AI 추론 서버 개발… CPU는 관제탑, NPU는 연산 담당”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001181896",
+        "title": "혐오스러운 곰팡이, 알고 보면 고마운 존재",
+        "link": "https://n.news.naver.com/mnews/article/037/0000038566",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "청와대 \"국내 기업-글로벌 빅테크, 9500억 달러 반도체 협력 추진\" - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FLVdSeU1Ba1RBa3pFZW11QXNkMERXTWNYUGhWWUpSN1F3eTRIc2dGNy0wczh3VWR4YmtZWnozWGJRUWk4emhURHdFRHpFMWZXUjN5UnY1ZXVQZDRWT19VcVlKeE53SXhlWG14Nw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자, 브로드컴과 AI 반도체 동맹…5년간 2천억달러 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCcjZKRTB2djJNd2FXYXhkbndvQ1dtQ3M0NVBzb2hMM1lPVi00NUNhQ0tIWjdOOG53RTczOTBLQUoyUkpOb21BenJfZVNOWFhwRzVxVUJMR1VocEXSAWBBVV95cUxPYmswT3JTYUhjWllOTFJvb2xDM3dSTVJpY2ViamtQQ3Z6UTZkN2doRTU4dmlFQUZ2Ylo0d0dtMXZxcjRxTmRKZVVCZU1NVnFVSzNWZFpabkFOWExId1IxWk4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자-브로드컴, 2천억불 ‘AI 반도체 동맹’… 메모리·파운드리 총력전 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84U3ZuODhHZ1VUNE5QQlo1VFBJRmZndmxPR3ozcXNIMDNsOURWcFQxVUxVX2pqajllVm9pUXFwLUxmRk9FMzBxM1kyVUpmVTF4aHBnY2tIT2Y4X28?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 쏠린 국장, 그린 종목은 바겐세일 중? \"정책적 조정 필요해\"[기후로운 경제생활] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFZEMmd4OFJQVUROZGRTYTUwT1J3eHVvX0kzVUVaUmNJcWctQzE0V3hGckdkTXp5LXRyYVBRUi1zcnNtRFJVTU0xeHJmdjg?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "명장 노하우, AI와 접목…숙련기술 디지털화 본격 착수 [인공지능 시대, 명장의 기로③] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEX2hpYUpBMThiUkZWaFBtS3lrUGxQZ2tFWHhFNFZxTkd2bDVQVzlQajY2QURHaUZXa3ZuVGVPZFROQzhaUDFGU1VkdkVuOU0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이재용·올트먼, 오픈AI 본사서 회동··· 인공지능 인프라 관련 협력 논의할 듯 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByS1llNjlUUDc1akFzamdZWUMtVXVic3RtVmNBdjQ4MVIzSW42ZnAzeTFXLXcxQi1VOFFycUpCUVZqMHloWHl3QkN4RmdWNkVCUGtTM283UTViZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "로봇과 축구하고 춤추고…로봇인공지능과학관 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeNIBYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "구리시, 간부 공무원 맞춤형 인공지능(AI) 교육 실시 - 시정일보",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1obDdHVTNqeWRPdTFiWFc1MDVYNnZ2eW96ajdXc3N0VFR4OVl5eXJSTmtTUjBqeHpXOHV1UXBPOFJGMGljbFBBUnoyMW9XOEhKQWhRSzBTWWtmT2lFM1NOc1U5QVhod2RKR3p3?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "폭염에 달궈진 대구·경북, 낮최고 38.7도…당국 \"더 오를 수도\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000629347",
+        "title": "폭염에 소나기까지…토요일 외출 전 꼭 확인할 것은[내일날씨]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794390",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384507",
+        "title": "“코골이? 호흡 이상한데…” 심정지 고교생 살린 친구의 한 마디",
+        "link": "https://n.news.naver.com/mnews/article/025/0003540064",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고양 아파트 화재 1시간 반 만에 진화...연기 흡입 8명",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384460",
+        "title": "\"휴가 꿈도 못 꿔\"...탄내·분진에 주민 피해 여전",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "동해안 해수욕장 ‘가족 관광객’ 유치 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/056/0012224849",
+        "title": "고양 일산 아파트 화재 … 1명 연기 흡입[1보]",
+        "link": "https://n.news.naver.com/mnews/article/081/0003664602",
         "source": "네이버 뉴스"
       },
       {
-        "title": "더불어민주당 제주도당, 차기 도당위원장 공개모집",
-        "link": "https://n.news.naver.com/mnews/article/056/0012224833",
+        "title": "1조 원 가까운 재산분할금...자금 마련 어떻게?",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384214",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 21:27"
+  "updated": "2026-07-25 22:29"
 }
