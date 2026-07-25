@@ -2,40 +2,45 @@
   "categories": {
     "IT": [
       {
+        "title": "중국 AI ‘증류’ 공방 격화… “도둑질” vs “빅테크도 무단 학습”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181692",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "네이버, 엔비디아·브룩필드로부터 14조6300억원 투자 유치",
         "link": "https://n.news.naver.com/mnews/article/277/0005794467",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 앤트로픽 손잡고 엔터프라이즈 AI 확장",
-        "link": "https://n.news.naver.com/mnews/article/293/0000088094",
+        "title": "삼성SDS, 앤트로픽과 협력…'클로드' 기반 기업용 AI 사업 확대",
+        "link": "https://n.news.naver.com/mnews/article/422/0000888842",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 런던 코벤트 가든서 갤럭시 팝업 운영",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336641",
+        "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
+        "link": "https://n.news.naver.com/mnews/article/022/0004145748",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽, 성능 높이고 가격은 반값…오퍼스5 공개",
-        "link": "https://n.news.naver.com/mnews/article/014/0005552665",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축",
-        "link": "https://n.news.naver.com/mnews/article/138/0002235428",
+        "title": "삼성전자, 런던 코벤트 가든서 '갤럭시 익스피리언스' 팝업스토어 운영",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390693",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "한국 기업, 빅테크와 1400조원 ‘반도체 동맹’ 맺었다 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
+        "title": "[속보]“1400조원 반도체 협력”…삼전·SK하닉, 글로벌 빅테크에 초대박 수주 - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SEU3RFdaOWZpMTJiYVRXREE1UnoyTmppaE9TVExDLVZPdHl2ZnhNTkp5Q290RHIyVlExZ2JGWVRLUHJsTktsWDYyeXlNNEZ6?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립' - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUndlRkd0bWZMZ2YyZVplNDlpdTI4MnlTWi1nY2hyQTdQcXNRWExyVnNkcXg3UnRtZTBkcVRlUVh5QjRZb0xUQXRiUGlFU0o2OTNSU2hOSmo?oc=5",
+        "title": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMeTBvVEE0SEV4SjBNcFdVcFB2RlVBQk5aZGVlT0tESVBKNDBnaF9WdV92d09uUVNkRmJHUVg3LU9LdkowU2UyMEQ2Y3ZPWGs?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "K-방산의 성장을 뒷받침하는 국방반도체 기술자립 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VM1BnaFFLRXc0RGhVNFg5bjJ1dWthQjcweEpLVnFMR09XRnJ0YUQ0cFROYkc4NnlzT1NOS0dhb2hZWlB5U2xXRmRkMUhqVTBZUmVCaTZPeGE5bmRyWmZnU1hMbHJlbWY4b25MLVVR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -46,11 +51,6 @@
       {
         "title": "삼성전자-브로드컴, 2천억불 ‘AI 반도체 동맹’… 메모리·파운드리 총력전 - 경기일보",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84U3ZuODhHZ1VUNE5QQlo1VFBJRmZndmxPR3ozcXNIMDNsOURWcFQxVUxVX2pqajllVm9pUXFwLUxmRk9FMzBxM1kyVUpmVTF4aHBnY2tIT2Y4X28?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -67,7 +67,7 @@
       },
       {
         "title": "로봇·AI와 가까워져요…로봇인공지능과학관 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QRTdHTWJDLVMyaHRXSm5kMjFiVlFwcmkwa0FDNG9iX3hiSmczVFRQN05CbEdkQlcxdklGTWJwdjQyMWE1eGc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dDZrVjNXTWQ5eEdobng5UENXUnpZVTN0czVVSS1vTENkd3ZjZS1mZ2gwYWJUNHlaOEpTWWkxRDBMVGNuMkNwU0x0SzVBeDlCMFZtWg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "수업 중 엎드려 자는 친구의 호흡이 이상했다…심정지 고교생, 친구와 교사가 살렸다",
-        "link": "https://n.news.naver.com/mnews/article/021/0002806964",
+        "title": "“코 고는 줄 알았는데…” 친구의 ‘이 말’ 한마디가 고3 생명 살렸다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712062",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고령·포항 등 폭염중대경보…경주 38.5도",
-        "link": "https://n.news.naver.com/mnews/article/056/0012225139",
+        "title": "찜통더위 속 수도권·강원 비…경주·포항 체감 38도[오늘날씨]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014087213",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산역에서 물건 훔치고 경찰 조사서 올케 행세한 40대…집유",
-        "link": "https://n.news.naver.com/mnews/article/025/0003540085",
+        "title": "\"내 손을 뿌리쳐?\"…8세 배 때려 실신시킨 50대 집행유예",
+        "link": "https://n.news.naver.com/mnews/article/215/0001259927",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘동전 싹쓸이’도 모자라 대낮에 때까지…청계천서 또 포착된 ‘역대급 민폐’",
-        "link": "https://n.news.naver.com/mnews/article/011/0004645099",
+        "title": "가마솥더위에 바다로 '풍덩'…포항 해수욕장 피서객 70% '급증'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014087873",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고양 아파트 4층서 불…한때 대응 1단계 진화 나서",
-        "link": "https://n.news.naver.com/mnews/article/437/0000503048",
+        "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384507",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 17:31"
+  "updated": "2026-07-25 19:10"
 }
