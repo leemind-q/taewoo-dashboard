@@ -2,35 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "앤트로픽, AI '오퍼스5' 공개…오픈AI 최신 모델 능가",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794435",
+        "title": "KAIST-엔비디아 'AI 공동연구소' 설립… 3억 달러 규모 협력",
+        "link": "https://n.news.naver.com/mnews/article/656/0000182312",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST-엔비디아, AI 공동연구소 설립…장기 연구협력 체계 구축",
-        "link": "https://n.news.naver.com/mnews/article/001/0016212694",
+        "title": "리사 수·배경훈 부총리 나란히 방문…AMD 행사서 존재감 드러낸 모레",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181523",
         "source": "네이버 뉴스"
       },
       {
-        "title": "GST, 엔비디아 H200 서버 탑재 액침냉각 장비 가동",
-        "link": "https://n.news.naver.com/mnews/article/138/0002235287",
+        "title": "신세계 센텀시티, 삼성 폴더블 신제품 체험 행사…신작 스마트폰 경쟁 본격화",
+        "link": "https://n.news.naver.com/mnews/article/031/0001044743",
         "source": "네이버 뉴스"
       },
       {
-        "title": "美 젠스파크 AI, 한국 공식진출… ‘AI 녹음기 출시’ 차별화 행보 전개",
-        "link": "https://n.news.naver.com/mnews/article/020/0003736350",
+        "title": "젠스파크, 한국 공식 진출… 웬 상 COO “韓은 핵심 시장 3년간 1억달러 투자”",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235386",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 장관·리사 수 CEO, AMD 헬리오스'부터 망고부스트·모레까지 동반투어 [AAI 2026]",
-        "link": "https://n.news.naver.com/mnews/article/138/0002235410",
+        "title": "GST, ‘액침냉각’ 레퍼런스 확대… H200 GPU 서버 실무 투입",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038657",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "한국 반도체 저승사자 모건스탠리 “요즘 자숙 모드” 이유는 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Rm1SNXEtbVY3bnhEbUFfMWNoa1FzT3NjTm5xMjJlR1JpX0F1QU9CaF9nc2ZBRmJXVW9VUFN4OEQ0XzBBODE4RXh5c3pMcTA?oc=5",
+        "title": "‘반도체 수출 호조’ 2분기 한국 경제 0.6% 성장…예상치 웃돌아 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ckVBME5qMmNXRDJNdVVYa0Ixb1VRQ0pLbXF0UTlJLVFBdkhLY2ZmSGdpM0t3MVVWRnJYNEZLNHRkVGthT0JrSXRRSGpMbm1qWDRKMg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,25 +39,30 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "美 AI 심장부에서…李 “대체불가 韓, 최고의 AI반도체 생산기지” - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KVzVITEZtbTNSNThQM1JWT3Nob3VQS2RwRWFWSjZnUU5VZnRtcWRqQzJxYnE3Zi1WTkxFLVllM3ZnOGlnRVJzLUpxVzdIRFhvRVV4YXNYbTI1S3hxTW40MEJGRV9xTE4zWEFyNTJQQm92RmI5WVFj0gFmQVVfeXFMUGtOWXV1dmJ1dWM0elh5NjN6bEpKV2NrTlVQN0Y1b0dzZkl4R2UwOTRIZlJ1NzY5UVdQYnFNT1ZMT3RxMVltNmtlY2dSVGVKdlpmaWhZMDBmc09TaUUySEJzYWhGN1RR?oc=5",
+        "title": "삼성·SK, 美빅테크와 1372조 반도체 협력…삼성파운드리 브로드컴 칩 생산 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLWnBLRHk1c29oMGpPLXRCR0R0aFpxbXJSeERGMHJzdHZqODFMN3lxUU5Wekk0enU4SlFlMVNhMkRIdjN3eVJMQXhLV0duSVY3ak9RVXZLQS10d3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "광주 군공항 이전 지연되나…반도체 속도전 차질 우려 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTlVLQjViamlYVi04MkVBVUwzZHRMQVVuYks4Z003d0ZNLXg5QnhfMzR5TVZFY2NVcnkxSzZRd3NxVHp6N2doSWpTNU9uTklJRDhyczdvdC05RUXSAWBBVV95cUxPU21wWFBGdmdoSHZnLUszaXRJMFJ3ZnpQQUk0MHVfYWE2eUhmX2E4MWFYSTFYYXhOanNndGljY05BYnlkMlE4QXd6ckVLWjI0SHo4eE9pM2ZqejZuQXB1YmI?oc=5",
+        "title": "삼성전자, 브로드컴과 AI 반도체 동맹…5년간 2천억달러 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VemxnaW4xWnl6YjRPZ3RlUnBwSFJQbm4yUWVvYk1zU0lmWEJSblpfQmg1dVduSm9YRFNERzJOaldxWGd3OHcxYlVhRlhkQnpRN3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "2분기 경제성장률 0.6%…\"반도체 수출이 견인\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hamg2QTVFLXlTd1JfS0JxdkxjLTM1UEVuVnUwZklvT1RiLVluSjU2dmlzalpORVZValhSN21yQU95dERSMktNNE9CaWI4ejBycDhock1xbU1jNEHSAWBBVV95cUxQSnA2ajAxRjdOSTNyNFF3UWFsVTJBMkFid0htbXJqTEJMOEVidzk0X0gtWXptcGIzXzN3TnBGVFRpV0EzZDN6S3VMUVBRRWVTTXpubjFHbWpuWWV2NnBsVjQ?oc=5",
+        "title": "[속보] 삼성-브로드컴 '5년간 200억불' 첨단 메모리 반도체·파운드리 MOU 체결 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZ2ltZHJsMFFiUEtCSU9mODJPaW0wSXA1UmtOT3hzRDNBa1R5by1xeWFDNFdORDlIU1ZPNldqVi1KYmUyTjJBV0Jza3V6bnl6LXlST2ZGeFdmUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "李대통령, 앤트로픽 CEO에 \"韓 인공지능 투자 대대적 확대\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ybUxXYzlxZktTNm5HRnphRzI3aHdUNHZ3Y2stYjh2MnZsWEZNNHpBbVlkNXhOUjdHZ3ZveXFFeDI5cmotV2ZBeGN2SnpLOEpVZ3I4b1VMRFlZRnfSAWBBVV95cUxOVElLS2FLSDU5Yk9CQnFTZm8wanRQUTM1VklWVFZtVXJlbllKOU05c0lSdGUtVkk2NVhPMmtLN1BJRWUxZnhhY2s5YjNqUzJUWUp1d2o3ZUNZbGZVeTc5bTQ?oc=5",
+        "title": "[테크톡노트] AI 판 흔든 '키미 K3'…미국이 긴장한 이유 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSUVwd09OaXBVQjlLbDJCUk9CdGlrajBXLU9RQjBRMWd2Wk9MVlZUSWxvalc0Z2c1aHJKamhvS3ktN01pdEFqNWRfUWo3WFVyWWZOU2NMRGhPM0XSAWBBVV95cUxNNmR2cWhMS0ZuYmdNT3lOMDNmUWkzYV8tbmZhb0xJNUYtMkJjUE1BRE81N2xWeEVNVmlpT294UHM5MEtWMUlvWEM0VlZYd1BncDFIQzFHZkdwaGZpV2c5Tmw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI돋보기] AI 주권 시대…'독자 AI'는 어디까지를 말하나 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04dTJjQ3hHWGdnSnlaLTRwOWVQMk5USjJYZHp2d0ZRSDNSMkdad1dLdVJYaGFnLTFyS2NOMGNRelJIQmFfdWNybVBRMEVFNk1zR1BLVi1HeHdYWmNtMkJoOGJFSDRXbnVROWRiXzJ0dkNjeHI1?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "李대통령 '샌프란AI 선언'…\"韓, 대체불가 공급망 핵심 국가로\"(종합) - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWalFfTHdJdDlOVjFzdlhfLVdQRUlreGtDQy10c0NKMldRY3VYaXU1UjR0Umc2eGxORWxoUXpKZWdDZnRxemRUc0xnZjhlTXFzUnVEUE82Y1dmQjFMMHdwTmc1ak5HZmlyUFFlMTVpYzlGcUp2?oc=5",
+        "title": "이재명 대통령, “샌프란시스코 AI 선언” - 뉴스타운",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51OWNCeUN4aS1LWkNicl9pRnpjaFVkcVZabkhWRmxHT1RPdFZWNGJxS2szUXlNZV91bFhLT3ZmcE0zaGhiaVpvNkh5bnlMeW5yWkRUQktuLVJqOFRYaDJNUldfajFiSGZQTVFVN2VB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한국인공지능협회, AI 시대 뉴스 주권 지킨다… - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YUm85eVAwOTViX21BeDFveWtvYm1hVUgyQ0p2WFNjX2tQMnBla0JuUF96ek9vNEFBTW5Ob05YNnQwSmxwSGstU3p6YWpHZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[인공지능 줌인] 수술로봇 학습을 위한 엔비디아의 의료 시뮬레이션 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92Q242ZE9lX1RvMllTMWpTdk9Tbk1paG1BTUZXdTgwWXY3Skl2QzRLMTgwS2c5RERDRTBkbDZ5cUJaREJ4OEo0UkFsdGVuUW95UDhIU2U4d3ZXajBTQjNHanoxMUFIdXJMTnVUQzJibw?oc=5",
+        "title": "연준 회의를 앞두고 인공지능(AI) 비용에 대한 우려가 월가에 부담을 주고 있습니다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnBjMmJjc3BzSy1LUnRVb1J3Q1dobTYwQWFDMC16SjdXMjFPdWtaUFRHS0ZvbzRBYk40d1lNSXpDX05pUnh2bk43MjZjcXlrSWEtVURFa050eVdIT3hwc3BBejIzM3ZRbTlhMnFYMnVBUldWdF8weGtMWUM2WTJsNzNIeDdJNkU2OGVpVA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "수도권·강원도 일부 지역 비…체감 33도 '무더위' 지속",
-        "link": "https://n.news.naver.com/mnews/article/003/0014085350",
+        "title": "포항, 경주에 폭염중대경보…올해 들어 두 번째",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171766",
         "source": "네이버 뉴스"
       },
       {
-        "title": "합수본, '75억 조세 포탈' 신천지 이만희 추가 기소",
-        "link": "https://n.news.naver.com/mnews/article/214/0001513762",
+        "title": "'전세사기 해외 도피' 검찰 수사관, 구속영장 심사",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384042",
         "source": "네이버 뉴스"
       },
       {
-        "title": "폭염경보 넘어 폭염중대경보…극한 더위 '경고등'",
-        "link": "https://n.news.naver.com/mnews/article/055/0001375227",
+        "title": "한낮 찜통더위·밤엔 열대야…강원 최대 60㎜ 비 소식",
+        "link": "https://n.news.naver.com/mnews/article/654/0000191983",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“폰 안 보여줘서 폭행, 헤어지자자 70만원 갈취” 20대 집행유예",
-        "link": "https://n.news.naver.com/mnews/article/666/0000116526",
+        "title": "연 2000만원 초과 일용근로소득, 건강보험료 부과 추진",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794451",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 해병특검, '이종섭 호주 도피 의혹' 윤석열에 징역 5년 구형",
-        "link": "https://n.news.naver.com/mnews/article/082/0001391130",
+        "title": "목포대·순천대 통합 사실상 무산…국립 전남권 의대 설립은?",
+        "link": "https://n.news.naver.com/mnews/article/421/0009078191",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 02:50"
+  "updated": "2026-07-25 05:44"
 }
