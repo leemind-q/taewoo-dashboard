@@ -2,13 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버, 브룩필드·엔비디아서 14조 투자 유치…200㎿ AI 팩토리 구축",
-        "link": "https://n.news.naver.com/mnews/article/030/0003450805",
+        "title": "이해진 “엔비디아·브룩필드서 100억달러 투자…네이버 새 도약 계기”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004645093",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS·앤트로픽, 전략적 파트너십…'클로드' 기반 엔터프라이즈 AI 사업 확대",
-        "link": "https://n.news.naver.com/mnews/article/030/0003450803",
+        "title": "삼성SDS, 앤트로픽과 ‘AI 신사업 발굴’ 파트너십 체결",
+        "link": "https://n.news.naver.com/mnews/article/011/0004645122",
         "source": "네이버 뉴스"
       },
       {
@@ -17,45 +17,97 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/022/0004145748",
+        "title": "중국 키미 K3 돌풍 견제…앤트로픽, '반값 AI' 내놨다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336706",
         "source": "네이버 뉴스"
       },
       {
-        "title": "혐오스러운 곰팡이, 알고 보면 고마운 존재",
-        "link": "https://n.news.naver.com/mnews/article/037/0000038566",
+        "title": "\"페이스가 12초 빠릅니다\" 워치9 차고 달리니 '러닝 코치'네 [갤럭시 언팩 2026]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005552803",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "9,500억 달러 반도체 협력 약속...\"우리는 식구!\" - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VFNyQ21IQ0NOd3ZKeEo0eDZhS3pYSEc4ZWpjYUZKNk45T0pqZndlN0ZGNENJbXMxeXhCemJkS3hjZm1oQlk4Yk1tRERJU3lsMHdxTVJqODlsYzF1Q2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "청와대 \"국내 기업-글로벌 빅테크, 9500억 달러 반도체 협력 추진\" - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FLVdSeU1Ba1RBa3pFZW11QXNkMERXTWNYUGhWWUpSN1F3eTRIc2dGNy0wczh3VWR4YmtZWnozWGJRUWk4emhURHdFRHpFMWZXUjN5UnY1ZXVQZDRWT19VcVlKeE53SXhlWG14Nw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'3년 끌어온' 600억 규모 충남대 반도체연구소, 부지 변경 가닥 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wRFhMWWlLaWRTQW5YT2VHU19Wc3RqZk83ZVpMajR6Mlh6VW5oclE2U2lERDMxZUIwbXpCWnFRVExtUUlkbjhXcEpLaFRRb2M?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나 - 비즈니스포스트",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "‘반도체 수출 호조’ 2분기 한국 경제 0.6% 성장…예상치 웃돌아 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ckVBME5qMmNXRDJNdVVYa0Ixb1VRQ0pLbXF0UTlJLVFBdkhLY2ZmSGdpM0t3MVVWRnJYNEZLNHRkVGthT0JrSXRRSGpMbm1qWDRKMg?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[김대호 인물] 샘 올트먼(Sam Altman) \"인공지능 AI혁명 챗GPT\" - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVENpckRsOENPQ0NzZzZ4MXF6LVA5NmRaaTJ2MUIxbVE1dHJVOEc2c3lxWG9fYkQxUTJfY1NvQlJFbi1UTE9KUWdDMGpNUmpoeFNqZ3ZYdkVkTHFva3RMWU9sVVZIMk9lSGpDOGZGTmJOenVJUEpSTjZIeFhnMnoyVlNjeVM5REZr?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "명장 노하우, AI와 접목…숙련기술 디지털화 본격 착수 [인공지능 시대, 명장의 기로③] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEX2hpYUpBMThiUkZWaFBtS3lrUGxQZ2tFWHhFNFZxTkd2bDVQVzlQajY2QURHaUZXa3ZuVGVPZFROQzhaUDFGU1VkdkVuOU0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이재용·올트먼, 오픈AI 본사서 회동··· 인공지능 인프라 관련 협력 논의할 듯 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByS1llNjlUUDc1akFzamdZWUMtVXVic3RtVmNBdjQ4MVIzSW42ZnAzeTFXLXcxQi1VOFFycUpCUVZqMHloWHl3QkN4RmdWNkVCUGtTM283UTViZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "로봇과 축구하고 춤추고…로봇인공지능과학관 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeNIBYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeA?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "폭염에 소나기까지…토요일 외출 전 꼭 확인할 것은[내일날씨]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794390",
+        "title": "尹 '무상 여론조사' 항소심 다음달 21일 시작",
+        "link": "https://n.news.naver.com/mnews/article/422/0000888898",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“코골이? 호흡 이상한데…” 심정지 고교생 살린 친구의 한 마디",
-        "link": "https://n.news.naver.com/mnews/article/025/0003540064",
+        "title": "전주 26.8도, 전북 내륙·서부 중심 열대야…전 시군 폭염 특보",
+        "link": "https://n.news.naver.com/mnews/article/421/0009078193",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"휴가 꿈도 못 꿔\"...탄내·분진에 주민 피해 여전",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384410",
+        "title": "입주민 1명 결국 숨져…'방화치사' 피의자 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375271",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고양 일산 아파트 화재 … 1명 연기 흡입[1보]",
-        "link": "https://n.news.naver.com/mnews/article/081/0003664602",
+        "title": "\"한국판 세기의 이혼\"…최태원·노소영 판결에 외신도 관심",
+        "link": "https://n.news.naver.com/mnews/article/015/0005313667",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1조 원 가까운 재산분할금...자금 마련 어떻게?",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384214",
+        "title": "전국 대부분에 폭염특보… 전남·경북·경남 일부엔 중대경보",
+        "link": "https://n.news.naver.com/mnews/article/005/0001863069",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 22:29"
+  "updated": "2026-07-25 23:35"
 }
