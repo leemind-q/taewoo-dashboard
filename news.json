@@ -2,77 +2,77 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성SDS, '클로드' 앞세워 기업 AI 시장 공략…앤트로픽과 '맞손'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014087811",
+        "title": "엔비디아, 서울대와 'AI 기술센터' 설립 추진…인재 양성 협력",
+        "link": "https://n.news.naver.com/mnews/article/422/0000888843",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 런던 코벤트 가든서 갤럭시 팝업 운영",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336641",
+        "title": "삼성SDS, 앤트로픽과 ‘AI 신사업 발굴’ 파트너십 체결",
+        "link": "https://n.news.naver.com/mnews/article/011/0004645122",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 데이터센터 전쟁 막 올랐다…네이버 14조·SKT 2GW 승부수",
-        "link": "https://n.news.naver.com/mnews/article/016/0002674946",
+        "title": "‘갤럭시Z플립8 FE’는 없네?… 보급형 폴더블폰 1년 만에 단종하나",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181547",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽, 가성비 앞세운 AI ‘오퍼스5’ 출시… “GPT-5.6 능가, 비용은 절반”",
-        "link": "https://n.news.naver.com/mnews/article/029/0003038750",
+        "title": "이해진 “엔비디아·브룩필드, 네이버에 100억달러 투자”",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336732",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리사 수·배경훈 부총리 함께 찾았다…모레, AMD 무대서 '분산 추론' 기술력 과시",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336030",
+        "title": "앤트로픽, 가성비 AI 모델 '오퍼스5' 출시…가격 절반",
+        "link": "https://n.news.naver.com/mnews/article/057/0001960355",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "청와대 \"국내 기업-글로벌 빅테크, 9500억 달러 반도체 협력 추진\" - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FLVdSeU1Ba1RBa3pFZW11QXNkMERXTWNYUGhWWUpSN1F3eTRIc2dGNy0wczh3VWR4YmtZWnozWGJRUWk4emhURHdFRHpFMWZXUjN5UnY1ZXVQZDRWT19VcVlKeE53SXhlWG14Nw?oc=5",
+        "title": "청와대 “국내 기업, 글로벌 빅테크와 9,500억 불 반도체 협력 추진” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVmtlOHlqTHJ4Z0ZvRXozMUhmYkxJalRJcUFnN0tNOWlPbUNOckluMEdrdzBIUGlvMU1xS1VDQl83UFliQjdyYlRuZXZIUkdjakw5NHJ3SHV2dkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성전자-브로드컴, 2천억불 ‘AI 반도체 동맹’… 메모리·파운드리 총력전 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84U3ZuODhHZ1VUNE5QQlo1VFBJRmZndmxPR3ozcXNIMDNsOURWcFQxVUxVX2pqajllVm9pUXFwLUxmRk9FMzBxM1kyVUpmVTF4aHBnY2tIT2Y4X28?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성전자, 브로드컴과 290조원 규모 AI 반도체 초대형 동맹 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMVJydFFQVEpHeTIzZVBqcGxMOG9uU2VqME55dzFXWjBIVkRzV04xdERUbUdFNE5nWW5HQkxMS2J4YV9uWWhDZkJUQTc3RUpJMmg4LXlJSFFIdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[속보] 삼성전자-브로드컴, 2천억불 반도체 공급 업무협약 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQW9MOWwybVFRbXV5QmQtZE1aSU8wYmR2TVhnYzhJcFlQRDhkX0psZU9sRDFlWUxpS082bDhmTkZnSVZLMEhHNzhWSFhlOWtYY1RqTExjSWx3NmfSAWBBVV95cUxQeFl2ZTR6eUU0a3E1eVhNM215YWhUSVlUYW5FNktNelc3TE02VDh0WUp5QklDaXJPSE1BaVR3VzBObnFRU2N6TEg2bWx6UXE0RlFpNjI4UjQ3SzYxYjVfR2M?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "반도체가 끌고 중동이 민다…삼성E&A 목표주가 줄상향 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92azZnTlNRc2M1VV8wSXc1blVFZWF0Q3hrUUQzcHdhLVM1cnhLRHhxQnFMeE5seHBsUER0d0dkRlEwYzVoMnRCTFlfMnlVRnM?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자, 브로드컴과 AI반도체 손 잡아...5년 간 290조원 규모 협력 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUpUNklOQUxZMHN6anJubnphRXFIOEZGNHk5ZGxPTkgwREtVTDgzS3QycG5QV3ZSR0xsa2pPS2MzNDZfMVNJUFY2X0JiZElkSFp2NzgzdEU1SFkyWkNpbG9XX292V0xGRTFmQzVOdlBjTzBhX3pLT0lJY3d1d0xPYkpuOA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "김용범 “국내·글로벌 빅테크 기업, 1375조원 반도체 협력” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“우린 식구다”…한미 빅테크, 반도체 동맹 체결 - 채널A",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53cldxQkFBNDF1eF81aUF5MkdOVlJQSWRwSmk0U1hWSkNtOXM5ZkxUS1A0dkY0cU1RSmxpbE00ZEZYQUtFSFZOOGN3S1gya0Y0ZS1SY2F5aXZwSWcxOWfSAWNBVV95cUxOeWlpeTdreEtRby1fZGdoa0gtSjNnaGlZcURJQTl2NmhhYmRKNHhVUGd0WXpqeks0NjVIVlB1UUlJRFZXc2pIamV1a21UcXFkTW1WbEN5UEQ5alRLSXBFblA5Tkk?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "로봇과 축구하고 춤추고…로봇인공지능과학관 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeNIBYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeA?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "이재용·올트먼, 오픈AI 본사서 회동··· 인공지능 인프라 관련 협력 논의할 듯 - 경향신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByS1llNjlUUDc1akFzamdZWUMtVXVic3RtVmNBdjQ4MVIzSW42ZnAzeTFXLXcxQi1VOFFycUpCUVZqMHloWHl3QkN4RmdWNkVCUGtTM283UTViZ9IBX0FVX3lxTE0wXy1UT1JtbGp3OFYxOWxEdVp2UGhEZUZGNjl6WUFIVG04ZzBSVGMxZEZ5VXdLeWFMSk5oQ3hsNjNsa1JiNUFWSGNSem9mWVFEczN5UTRMUnBDM1VHSTVJ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "정의선 \"AI 팩토리·도시 인프라 통합까지\"…피지컬 AI 비전(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUTltdERlTTF2a0JiS3RnRUhROHN0MzFVVWRrMk5heWZXbTFyZjVBV2V1N05raFBkVlp1R2dQbjMxVnpiWlNSYzBYUURKNWM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "엔비디아, 서울대와 AI 공동 연구기관 설립 추진 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OZzJvejRmNV9IbnpsZmR3aG1VV0V6eHU2bDZpekpQTkNNa0NYM3o5NzlRTk1QM2VEaTZwMW9jNlA1Tkk5eEtrb3ZtWG1SSTZTanNkNEpsNkVxOFnSAWBBVV95cUxNZnBKWUViMUtTa0tkRlg3U3RpemppaVZPSGEtWUxqUWg4QUphM0RNZnBCVlczOVF6ZWhwVTg5dXI2eXl5Y0tMSlBkN29iZTZQYzg0czR6ck9meEpQd1E0aHI?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 경쟁의 새 공식… '최고 성능'보다 '최고 ROI'가 승부 가른다 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yZ0F0ellwbThnZWJtcDFOUDZmNDBJNTFlMGFKbWZmR2NrRnRBckxTb2pZWDQ1MzFVZ284SlNZLWlLMkkxY3VPMEJfdmxsQzlWdUZRRjRIWEE0MmhONlNmbTBUZGgyZE0?oc=5",
+        "title": "李대통령의 '샌프란AI선언'…\"韓, 대체불가 인공지능 공급망 핵심국가로\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zTi1UUUlURkY4UVgtbzl4R1lxOHk1cWgzZ3p5YmQ1SmZYWklhSmkyc05yVER3TF9IZkVKUENsNk9Jc001ejBIUy0yT1diODg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "'내란중요임무종사' 여인형·이진우 징역 30년, 곽종근 징역 20년 구형",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390455",
+        "title": "사망자 발생한 경산 방화 사건…경찰, 피의자 주거지·차량 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/081/0003664408",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"최태원, 노소영에 재산분할금 9,440억 원 지급하라\"···판결 이유는?",
-        "link": "https://n.news.naver.com/mnews/article/657/0000053675",
+        "title": "투표율 '멋대로' 조작‥수사 확대 불가피",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513647",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'명태균 여론조사 무상 수수' 尹 항소심 내달 21일 시작",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214473",
+        "title": "“665억에서 9440억으로”… 최태원·노소영 재산분할 일단락",
+        "link": "https://n.news.naver.com/mnews/article/056/0012224938",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고양 마두동 아파트서 화재…사망·중상자 없이 완진(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214482",
+        "title": "폭염·열대야 일찍 시작해 늦게 끝난다…'6∼9월 더위' 일상화",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375109",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“119 불러주세요” 비명 듣고 맨발로 뛰어갔다…10대 여학생 구한 시민들",
-        "link": "https://n.news.naver.com/mnews/article/009/0005711616",
+        "title": "정덕영 양주시장, 경마공원 양주 이전 제안…\"미래 성장동력\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002449669",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 10:08"
+  "updated": "2026-07-25 11:44"
 }
