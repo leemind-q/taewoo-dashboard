@@ -2,40 +2,40 @@
   "categories": {
     "IT": [
       {
-        "title": "중국 AI ‘증류’ 공방 격화… “도둑질” vs “빅테크도 무단 학습”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001181692",
+        "title": "판 커지는 국내 AI 데이터센터 시장… 네이버 14조·SKT 2GW 추진",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038799",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 엔비디아·브룩필드로부터 14조6300억원 투자 유치",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794467",
+        "title": "美 “핵심 기술 쏙쏙 훔쳐가”... 中 AI 훈련법까지 때렸다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003989569",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 앤트로픽과 협력…'클로드' 기반 기업용 AI 사업 확대",
-        "link": "https://n.news.naver.com/mnews/article/422/0000888842",
+        "title": "삼성, 런던 코벤트가든에 '갤럭시 익스피리언스'…언팩 열기 이어간다",
+        "link": "https://n.news.naver.com/mnews/article/031/0001044731",
         "source": "네이버 뉴스"
       },
       {
-        "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/022/0004145748",
+        "title": "삼성SDS, 앤트로픽과 첫 전략적 협력…기업용 AI 확대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016214459",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 런던 코벤트 가든서 '갤럭시 익스피리언스' 팝업스토어 운영",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390693",
+        "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가",
+        "link": "https://n.news.naver.com/mnews/article/001/0016213995",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[속보]“1400조원 반도체 협력”…삼전·SK하닉, 글로벌 빅테크에 초대박 수주 - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SEU3RFdaOWZpMTJiYVRXREE1UnoyTmppaE9TVExDLVZPdHl2ZnhNTkp5Q290RHIyVlExZ2JGWVRLUHJsTktsWDYyeXlNNEZ6?oc=5",
+        "title": "한국 기업, 빅테크와 1400조원 ‘반도체 동맹’ 맺었다 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립' - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMeTBvVEE0SEV4SjBNcFdVcFB2RlVBQk5aZGVlT0tESVBKNDBnaF9WdV92d09uUVNkRmJHUVg3LU9LdkowU2UyMEQ2Y3ZPWGs?oc=5",
+        "title": "반도체 쏠린 국장, 그린 종목은 바겐세일 중? \"정책적 조정 필요해\"[기후로운 경제생활] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFZEMmd4OFJQVUROZGRTYTUwT1J3eHVvX0kzVUVaUmNJcWctQzE0V3hGckdkTXp5LXRyYVBRUi1zcnNtRFJVTU0xeHJmdjg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "로봇·AI와 가까워져요…로봇인공지능과학관 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dDZrVjNXTWQ5eEdobng5UENXUnpZVTN0czVVSS1vTENkd3ZjZS1mZ2gwYWJUNHlaOEpTWWkxRDBMVGNuMkNwU0x0SzVBeDlCMFZtWg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
+        "title": "로봇과 축구하고 춤추고…로봇인공지능과학관 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeNIBYEFVX3lxTE1LRmFiQ0xsYW56UUVTZjVhc1RqZGN1YnkzbDNOdmx4QXpGYjhBb0VQU29nTldnYklJb2tGQktxU0hEM05wYTFlanU0ZnAxUkptZ0Z4eHMyRXA3d25kUjdCeA?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "구리시, 간부 공무원 맞춤형 인공지능(AI) 교육 실시 - 시정일보",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1obDdHVTNqeWRPdTFiWFc1MDVYNnZ2eW96ajdXc3N0VFR4OVl5eXJSTmtTUjBqeHpXOHV1UXBPOFJGMGljbFBBUnoyMW9XOEhKQWhRSzBTWWtmT2lFM1NOc1U5QVhod2RKR3p3?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "이재용 회장, 인공지능 서밋서 “한·미 강점 합치면 더 많은 난제 해결 가능” - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVdrQU9PQnBKNl9FTkcyb0F6dk1oNHNUbDlvX0U5WURLS2RFTXlpTXF4MTY4SGJGWGc3cnU3czBwdHhTbXdac3FvbDY4UHBfOVYxaVRyVW4ydWk1T3VLU0VDd1R4QktCTDc3Y3RjUDNZY3lkUTYzamI0czRLeVBrLUtGU1V1eFYx?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "“코 고는 줄 알았는데…” 친구의 ‘이 말’ 한마디가 고3 생명 살렸다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712062",
+        "title": "'노태우 비자금' 빼고도‥\"노소영 몫 9,440억\"",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513811",
         "source": "네이버 뉴스"
       },
       {
-        "title": "찜통더위 속 수도권·강원 비…경주·포항 체감 38도[오늘날씨]",
-        "link": "https://n.news.naver.com/mnews/article/003/0014087213",
+        "title": "여고생 흉기 피습…'살인미수' 10대 남성 구속영장",
+        "link": "https://n.news.naver.com/mnews/article/422/0000888688",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"내 손을 뿌리쳐?\"…8세 배 때려 실신시킨 50대 집행유예",
-        "link": "https://n.news.naver.com/mnews/article/215/0001259927",
+        "title": "40도 육박 극한더위 기승…폭염중대경보 속속 확대",
+        "link": "https://n.news.naver.com/mnews/article/449/0000354274",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가마솥더위에 바다로 '풍덩'…포항 해수욕장 피서객 70% '급증'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014087873",
+        "title": "“거동 불편한 점 노렸다”…돌보던 노인 집서 5600만원 수표 훔친 요양보호사",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712104",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384507",
+        "title": "일산 아파트서 화재…폭발음 신고에 '대응1단계' 발령",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390868",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 19:10"
+  "updated": "2026-07-25 20:27"
 }
