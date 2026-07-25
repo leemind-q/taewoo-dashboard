@@ -2,45 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "판 커지는 국내 AI 데이터센터 시장… 네이버 14조·SKT 2GW 추진",
-        "link": "https://n.news.naver.com/mnews/article/029/0003038799",
+        "title": "삼성SDS, 앤스로픽과 손잡고 '클로드' 확산…국내 엔터프라이즈 AI 시장 공략 강화",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336777",
         "source": "네이버 뉴스"
       },
       {
-        "title": "美 “핵심 기술 쏙쏙 훔쳐가”... 中 AI 훈련법까지 때렸다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989569",
+        "title": "삼성전자, 런던 코벤트 가든서 갤럭시 팝업 운영",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336641",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 런던 코벤트가든에 '갤럭시 익스피리언스'…언팩 열기 이어간다",
-        "link": "https://n.news.naver.com/mnews/article/031/0001044731",
+        "title": "앤트로픽, 성능 높이고 가격은 반값…오퍼스5 공개",
+        "link": "https://n.news.naver.com/mnews/article/014/0005552665",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 앤트로픽과 첫 전략적 협력…기업용 AI 확대",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214459",
+        "title": "네이버, 엔비디아·브룩쉴드서 14.6조 투자 유치…이해진 \"새 단계 도약\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431872",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가",
-        "link": "https://n.news.naver.com/mnews/article/001/0016213995",
+        "title": "[인터뷰] 정윤석 리벨리온 CSO “Arm·SKT와 AI 추론 서버 개발… CPU는 관제탑, NPU는 연산 담당”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181896",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "한국 기업, 빅테크와 1400조원 ‘반도체 동맹’ 맺었다 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 쏠린 국장, 그린 종목은 바겐세일 중? \"정책적 조정 필요해\"[기후로운 경제생활] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFZEMmd4OFJQVUROZGRTYTUwT1J3eHVvX0kzVUVaUmNJcWctQzE0V3hGckdkTXp5LXRyYVBRUi1zcnNtRFJVTU0xeHJmdjg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "K-방산의 성장을 뒷받침하는 국방반도체 기술자립 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VM1BnaFFLRXc0RGhVNFg5bjJ1dWthQjcweEpLVnFMR09XRnJ0YUQ0cFROYkc4NnlzT1NOS0dhb2hZWlB5U2xXRmRkMUhqVTBZUmVCaTZPeGE5bmRyWmZnU1hMbHJlbWY4b25MLVVR?oc=5",
+        "title": "청와대 \"국내 기업-글로벌 빅테크, 9500억 달러 반도체 협력 추진\" - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FLVdSeU1Ba1RBa3pFZW11QXNkMERXTWNYUGhWWUpSN1F3eTRIc2dGNy0wczh3VWR4YmtZWnozWGJRUWk4emhURHdFRHpFMWZXUjN5UnY1ZXVQZDRWT19VcVlKeE53SXhlWG14Nw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -52,12 +42,27 @@
         "title": "삼성전자-브로드컴, 2천억불 ‘AI 반도체 동맹’… 메모리·파운드리 총력전 - 경기일보",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84U3ZuODhHZ1VUNE5QQlo1VFBJRmZndmxPR3ozcXNIMDNsOURWcFQxVUxVX2pqajllVm9pUXFwLUxmRk9FMzBxM1kyVUpmVTF4aHBnY2tIT2Y4X28?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
+        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 쏠린 국장, 그린 종목은 바겐세일 중? \"정책적 조정 필요해\"[기후로운 경제생활] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFZEMmd4OFJQVUROZGRTYTUwT1J3eHVvX0kzVUVaUmNJcWctQzE0V3hGckdkTXp5LXRyYVBRUi1zcnNtRFJVTU0xeHJmdjg?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
         "title": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "명장 노하우, AI와 접목…숙련기술 디지털화 본격 착수 [인공지능 시대, 명장의 기로③] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEX2hpYUpBMThiUkZWaFBtS3lrUGxQZ2tFWHhFNFZxTkd2bDVQVzlQajY2QURHaUZXa3ZuVGVPZFROQzhaUDFGU1VkdkVuOU0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "구리시, 간부 공무원 맞춤형 인공지능(AI) 교육 실시 - 시정일보",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1obDdHVTNqeWRPdTFiWFc1MDVYNnZ2eW96ajdXc3N0VFR4OVl5eXJSTmtTUjBqeHpXOHV1UXBPOFJGMGljbFBBUnoyMW9XOEhKQWhRSzBTWWtmT2lFM1NOc1U5QVhod2RKR3p3?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "이재용 회장, 인공지능 서밋서 “한·미 강점 합치면 더 많은 난제 해결 가능” - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVdrQU9PQnBKNl9FTkcyb0F6dk1oNHNUbDlvX0U5WURLS2RFTXlpTXF4MTY4SGJGWGc3cnU3czBwdHhTbXdac3FvbDY4UHBfOVYxaVRyVW4ydWk1T3VLU0VDd1R4QktCTDc3Y3RjUDNZY3lkUTYzamI0czRLeVBrLUtGU1V1eFYx?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'노태우 비자금' 빼고도‥\"노소영 몫 9,440억\"",
-        "link": "https://n.news.naver.com/mnews/article/214/0001513811",
+        "title": "폭염에 달궈진 대구·경북, 낮최고 38.7도…당국 \"더 오를 수도\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000629347",
         "source": "네이버 뉴스"
       },
       {
-        "title": "여고생 흉기 피습…'살인미수' 10대 남성 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/422/0000888688",
+        "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384507",
         "source": "네이버 뉴스"
       },
       {
-        "title": "40도 육박 극한더위 기승…폭염중대경보 속속 확대",
-        "link": "https://n.news.naver.com/mnews/article/449/0000354274",
+        "title": "고양 아파트 화재 1시간 반 만에 진화...연기 흡입 8명",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384460",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“거동 불편한 점 노렸다”…돌보던 노인 집서 5600만원 수표 훔친 요양보호사",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712104",
+        "title": "동해안 해수욕장 ‘가족 관광객’ 유치 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/056/0012224849",
         "source": "네이버 뉴스"
       },
       {
-        "title": "일산 아파트서 화재…폭발음 신고에 '대응1단계' 발령",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390868",
+        "title": "더불어민주당 제주도당, 차기 도당위원장 공개모집",
+        "link": "https://n.news.naver.com/mnews/article/056/0012224833",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 20:27"
+  "updated": "2026-07-25 21:27"
 }
