@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "KAIST-엔비디아 'AI 공동연구소' 설립… 3억 달러 규모 협력",
-        "link": "https://n.news.naver.com/mnews/article/656/0000182312",
+        "title": "네이버, 엔비디아·브룩필드서 100억달러 투자 유치…\"새 도약 계기\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005552759",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리사 수·배경훈 부총리 나란히 방문…AMD 행사서 존재감 드러낸 모레",
-        "link": "https://n.news.naver.com/mnews/article/366/0001181523",
+        "title": "\"GLM-5.1 시연\"…모레, AMD GPU서 초고속 LLM 추론 기술 입증 [AAI 2026]",
+        "link": "https://n.news.naver.com/mnews/article/138/0002235317",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신세계 센텀시티, 삼성 폴더블 신제품 체험 행사…신작 스마트폰 경쟁 본격화",
-        "link": "https://n.news.naver.com/mnews/article/031/0001044743",
+        "title": "앤트로픽, 삼성SDS 손 잡았다…\"기업용 AI 신규 시장 공동 발굴\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009078614",
         "source": "네이버 뉴스"
       },
       {
-        "title": "젠스파크, 한국 공식 진출… 웬 상 COO “韓은 핵심 시장 3년간 1억달러 투자”",
-        "link": "https://n.news.naver.com/mnews/article/138/0002235386",
+        "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가",
+        "link": "https://n.news.naver.com/mnews/article/001/0016213995",
         "source": "네이버 뉴스"
       },
       {
-        "title": "GST, ‘액침냉각’ 레퍼런스 확대… H200 GPU 서버 실무 투입",
-        "link": "https://n.news.naver.com/mnews/article/029/0003038657",
+        "title": "삼성전자, 런던 코벤트 가든서 '갤럭시 익스피리언스' 팝업스토어 운영",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390693",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "‘반도체 수출 호조’ 2분기 한국 경제 0.6% 성장…예상치 웃돌아 - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ckVBME5qMmNXRDJNdVVYa0Ixb1VRQ0pLbXF0UTlJLVFBdkhLY2ZmSGdpM0t3MVVWRnJYNEZLNHRkVGthT0JrSXRRSGpMbm1qWDRKMg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 비중 줄여라\" 했던 모건스탠리…2주 만에 '돌변' [분석+] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTlVSUEtoYTl1UUFHZ1Q4MXFFd2VSdGZjajFqelN4d2RqWkVzcUswR3o4bGRzLTdaMmdvY2Z6MjczT3ppdkNTWHNNNk92TTg0QUtGekVXQXdXdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성·SK, 美빅테크와 1372조 반도체 협력…삼성파운드리 브로드컴 칩 생산 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLWnBLRHk1c29oMGpPLXRCR0R0aFpxbXJSeERGMHJzdHZqODFMN3lxUU5Wekk0enU4SlFlMVNhMkRIdjN3eVJMQXhLV0duSVY3ak9RVXZLQS10d3c?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자, 브로드컴과 AI 반도체 동맹…5년간 2천억달러 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VemxnaW4xWnl6YjRPZ3RlUnBwSFJQbm4yUWVvYk1zU0lmWEJSblpfQmg1dVduSm9YRFNERzJOaldxWGd3OHcxYlVhRlhkQnpRN3c?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[속보] 삼성-브로드컴 '5년간 200억불' 첨단 메모리 반도체·파운드리 MOU 체결 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZ2ltZHJsMFFiUEtCSU9mODJPaW0wSXA1UmtOT3hzRDNBa1R5by1xeWFDNFdORDlIU1ZPNldqVi1KYmUyTjJBV0Jza3V6bnl6LXlST2ZGeFdmUQ?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "[테크톡노트] AI 판 흔든 '키미 K3'…미국이 긴장한 이유 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSUVwd09OaXBVQjlLbDJCUk9CdGlrajBXLU9RQjBRMWd2Wk9MVlZUSWxvalc0Z2c1aHJKamhvS3ktN01pdEFqNWRfUWo3WFVyWWZOU2NMRGhPM0XSAWBBVV95cUxNNmR2cWhMS0ZuYmdNT3lOMDNmUWkzYV8tbmZhb0xJNUYtMkJjUE1BRE81N2xWeEVNVmlpT294UHM5MEtWMUlvWEM0VlZYd1BncDFIQzFHZkdwaGZpV2c5Tmw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[AI돋보기] AI 주권 시대…'독자 AI'는 어디까지를 말하나 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04dTJjQ3hHWGdnSnlaLTRwOWVQMk5USjJYZHp2d0ZRSDNSMkdad1dLdVJYaGFnLTFyS2NOMGNRelJIQmFfdWNybVBRMEVFNk1zR1BLVi1HeHdYWmNtMkJoOGJFSDRXbnVROWRiXzJ0dkNjeHI1?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이재명 대통령, 글로벌 인공지능 협력 플랫폼 도약 선언 - 2news.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZjA5d20yRFRlWWZLemlPbWtPNHNkMVNiOEsxM0JUd3k1em1Ga2pZdjhpdjNQWmtUR3J0Wl9mNGkzbThfcXYxbHNyMC1wUmdFX2h2d1pQRndyU1AteC1nNVg0Tms2M0t0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이재명 대통령, “샌프란시스코 AI 선언” - 뉴스타운",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51OWNCeUN4aS1LWkNicl9pRnpjaFVkcVZabkhWRmxHT1RPdFZWNGJxS2szUXlNZV91bFhLT3ZmcE0zaGhiaVpvNkh5bnlMeW5yWkRUQktuLVJqOFRYaDJNUldfajFiSGZQTVFVN2VB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "연준 회의를 앞두고 인공지능(AI) 비용에 대한 우려가 월가에 부담을 주고 있습니다. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnBjMmJjc3BzSy1LUnRVb1J3Q1dobTYwQWFDMC16SjdXMjFPdWtaUFRHS0ZvbzRBYk40d1lNSXpDX05pUnh2bk43MjZjcXlrSWEtVURFa050eVdIT3hwc3BBejIzM3ZRbTlhMnFYMnVBUldWdF8weGtMWUM2WTJsNzNIeDdJNkU2OGVpVA?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "포항, 경주에 폭염중대경보…올해 들어 두 번째",
-        "link": "https://n.news.naver.com/mnews/article/079/0004171766",
+        "title": "수도권·강원 비 계속…충청은 소나기, 폭염은 여전[내일날씨]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336301",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'전세사기 해외 도피' 검찰 수사관, 구속영장 심사",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384042",
+        "title": "\"최종 투표율만 맞으면 되지\" 궤변…충청서도 '조작' 정황",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375221",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한낮 찜통더위·밤엔 열대야…강원 최대 60㎜ 비 소식",
-        "link": "https://n.news.naver.com/mnews/article/654/0000191983",
+        "title": "구속영장 사본 빼돌려 친구에 누설한 검찰수사관…유죄 확정",
+        "link": "https://n.news.naver.com/mnews/article/003/0014087816",
         "source": "네이버 뉴스"
       },
       {
-        "title": "연 2000만원 초과 일용근로소득, 건강보험료 부과 추진",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794451",
+        "title": "본격 여름 휴가철 돌입...동해안 방향 곳곳 정체",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384356",
         "source": "네이버 뉴스"
       },
       {
-        "title": "목포대·순천대 통합 사실상 무산…국립 전남권 의대 설립은?",
-        "link": "https://n.news.naver.com/mnews/article/421/0009078191",
+        "title": "'동탄 30억 전세사기' 현직 검찰 수사관 구속심사‥'묵묵부답'",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513700",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-25 05:44"
+  "updated": "2026-07-25 08:09"
 }
