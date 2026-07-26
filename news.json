@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성SDS, 앤트로픽과 첫 전략적 협력…기업용 AI 확대",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214459",
+        "title": "같은 워치 차고 뛰었는데…고수는 기록을, 초보는 코치를 봤다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712228",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712311",
+        "title": "AI 데이터센터 전쟁 막 올랐다…네이버 14조·SKT 2GW 승부수",
+        "link": "https://n.news.naver.com/mnews/article/016/0002674946",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 판 흔든 '키미 K3'…미국이 긴장한 이유[테크톡노트]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214233",
+        "title": "유튜브, AI 저품질 영상 돈줄 끊는다…의료·금융 아바타 제한",
+        "link": "https://n.news.naver.com/mnews/article/001/0016214693",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"AI 통제 안된다\"…빅테크, '오픈웨이트 규제' 집단 반발",
-        "link": "https://n.news.naver.com/mnews/article/092/0002431853",
+        "title": "KAIST·엔비디아 ‘피지컬 AI 동맹’…인간 움직임 배우는 AI 만든다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336893",
         "source": "네이버 뉴스"
       },
       {
-        "title": "100억달러 투자 받는 네이버… 글로벌 AI 팩토리 만든다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005553001",
+        "title": "삼성, 갤플립8 1020 공략…2년 쓰고 반납하면 50% 보장",
+        "link": "https://n.news.naver.com/mnews/article/003/0014088193",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "청와대 “국내 기업, 글로벌 빅테크와 9,500억 불 반도체 협력 추진” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVmtlOHlqTHJ4Z0ZvRXozMUhmYkxJalRJcUFnN0tNOWlPbUNOckluMEdrdzBIUGlvMU1xS1VDQl83UFliQjdyYlRuZXZIUkdjakw5NHJ3SHV2dkE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국립목포대 화합물반도체센터-동신대, 반도체 우수 인재 양성 '맞손' - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90MVl5NVVXemRKMnBnVXBmbkdYX2V5TlNOM2ZlakphdkFTX0tsdGIxR1BlenFFODI2YWd0SFdpcEJ1RF9TN3ViNTFYTTdQZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "퇴직연금도 반도체 쏠림...美 장기채, 테슬라는 팔았다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZzFlU0xmUGl4b2hwcGFpUU1xTU9vNFlkUkhtUnJuUkNIMFRWREN3cWlic0xDakRVNkdqcTRHTXZpM1FFV1k1SzlqMU5rSUk5ZWo5X2l2Q3p6UQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "애플 \"中반도체 써야\" 마이크론 \"안돼\"... 트럼프 선택은 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJZNmxtanQyb0dOdjRvV3ZpWDJGTU15a0ZONjBlMjlqcFpnRHMxOGRrRXMyZmVVdE1ETWRUVGo1VkRlTktFNzlYTUg0cC1mNlhXZzBuR2dFckpFZkNMSmdST25FR0JKMkgtMDN6cFZUTmhIZDRNeElrTkIyTi1MdTVxcw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15R0RhY205Qy14REtZUm1sTXFoOXBhcGVUc0o5Mk4xYWhQV1c1TnhPbm5saGpzdDlWTTVKQWpZOHVyTHduWGtMODh4MVY3ZmM?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "인공지능이 상품기획·발주까지…유통업계 ‘AI 활용 붐’ - 농민신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10d19rY2FIZ0JGemY1c1JUd3RiTXhNcHk5TWd3YWYxN2U5TEVDQnExRm1LR041THBUWHRpbGpPeWVDckhkeGkyOHpaX3ZWSlplbzdLZ2k4N3NFZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "농진청, 2026 데이터·인공지능(AI) 현장 활용 경진대회 개최 - 전북도민일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNUlFMDNrbmZxQzhTYzB6NTRXUjl5VWxnZzhOTWNJTnQxX1ZqUlFXUW15NWdRWUpsRWhQajk1ZDJ2dFlnUEpmQmRMSG1KZWxhZXFRY1lsN1ppMTZ3Ykk1OVdPeGVjZ1JQYmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "충주시, 공공부문 인공지능 전환 본격화…행정 전반 AI 체질 개선 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNZTc5NjVGTVFCN04zSFdkVmtvaHA4Nm1Qbkx0SjNsVHJyZ1dvREg1QnVDY1dCQ0FKQ0tpa284b0F6ZkFYU2RxSzBzdlhDTEk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "의령과 하동에서 인공지능(AI) 기반 택시·버스 달린다 - 국제신문",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTMtZmpWVmNkZVVOWTNpa1NSTUVOMndnMUtiak1QRjF2cmlvazN3eWl5cFpDemlBUXJtOHlLSXdwNVl6cVlYUFBmVzVQd1RrQmVaMHpoQ3g3cjZtMlFOYndtWnVMM3hVY1JBd3lTYlpCelk5N3JoaFJqeTJveUxtZ2plS0RyZkh3My1NbmNB?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "“분명 폐차시켰던 내 차, 왜 도로 위에?”…추적불가 대포차로 둔갑했다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712199",
+        "title": "순천시·정치권 \"국립순천대 의대·대학병원 설립해야\" 촉구",
+        "link": "https://n.news.naver.com/mnews/article/003/0014088813",
         "source": "네이버 뉴스"
       },
       {
-        "title": "강남서 '수면마취 장사' 의사들 적발…환자 불법촬영까지",
-        "link": "https://n.news.naver.com/mnews/article/437/0000503102",
+        "title": "당분간 무더위·열대야 지속‥중부 중심 곳곳 소나기[날씨]",
+        "link": "https://n.news.naver.com/mnews/article/214/0001513908",
         "source": "네이버 뉴스"
       },
       {
-        "title": "장윤기, 여고생 납치 계획 담긴 ‘대화록’ 증거 인정…내일 3차 공판 열려",
-        "link": "https://n.news.naver.com/mnews/article/366/0001181936",
+        "title": "쓰러진 채 발견, 결국 사망…\"한낮 나가지 마세요\" 경고",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375484",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘6중 추돌 사고’ 60대 여성 운전자, ‘급발진’ 주장…경찰관 등 9명 부상",
-        "link": "https://n.news.naver.com/mnews/article/029/0003038907",
+        "title": "중복 무더위에 전국이 '헉헉'…온열질환·가축 폐사 초비상",
+        "link": "https://n.news.naver.com/mnews/article/001/0016214461",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“연 1억4000만원 버는데 건보료 0원?”…정부, 일용소득도 이젠 건보료 뗀다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712051",
+        "title": "프로포폴 불법투약 의사들 적발...환자 불법 촬영도",
+        "link": "https://n.news.naver.com/mnews/article/052/0002384622",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-26 12:04"
+  "updated": "2026-07-26 14:09"
 }
