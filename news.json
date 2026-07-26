@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, ‘독자 AI’ 앞세워 스타트업 혁신 지원…A.X K1 API 개방",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336926",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KIST, '대기-해양 상호작용' 재현 AI 모델 개발...수 초만에 200일치 지구 전체 해양 예측",
-        "link": "https://n.news.naver.com/mnews/article/030/0003451023",
+        "title": "삼성SDS, 앤트로픽과 첫 전략적 협력…기업용 AI 확대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016214459",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "“KAIST 또 터졌다”…엔비디아와 차세대 ‘피지컬AI’ 개발 착수",
-        "link": "https://n.news.naver.com/mnews/article/016/0002675067",
+        "title": "AI 판 흔든 '키미 K3'…미국이 긴장한 이유[테크톡노트]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016214233",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충전 없이 50년 작동…전기연, ‘베타전지’ 국내 첫 실증",
-        "link": "https://n.news.naver.com/mnews/article/021/0002807041",
+        "title": "\"AI 통제 안된다\"…빅테크, '오픈웨이트 규제' 집단 반발",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431853",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "100억달러 투자 받는 네이버… 글로벌 AI 팩토리 만든다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005553001",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,23 +34,23 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "‘반도체 수출 호조’ 2분기 한국 경제 0.6% 성장…예상치 웃돌아 - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ckVBME5qMmNXRDJNdVVYa0Ixb1VRQ0pLbXF0UTlJLVFBdkhLY2ZmSGdpM0t3MVVWRnJYNEZLNHRkVGthT0JrSXRRSGpMbm1qWDRKMg?oc=5",
+        "title": "국립목포대 화합물반도체센터-동신대, 반도체 우수 인재 양성 '맞손' - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90MVl5NVVXemRKMnBnVXBmbkdYX2V5TlNOM2ZlakphdkFTX0tsdGIxR1BlenFFODI2YWd0SFdpcEJ1RF9TN3ViNTFYTTdQZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도 기초지자체 민선9기 첫 추경, 반도체 산업 유무에 희비 - 중부일보",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TRUc0eGhDMm5WbnlRd2NHYzhNcWx6T1IwVVVDeFlnUTc1NDBaTnVxZk42eFlfd28xbllQeGVvaERhVUl1NkplWGs2T2xMazdiOHcyQ0ZxRmQtSzhWa3dkWHhfX1JKa1FRUHpXN0pB?oc=5",
+        "title": "퇴직연금도 반도체 쏠림...美 장기채, 테슬라는 팔았다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZzFlU0xmUGl4b2hwcGFpUU1xTU9vNFlkUkhtUnJuUkNIMFRWREN3cWlic0xDakRVNkdqcTRHTXZpM1FFV1k1SzlqMU5rSUk5ZWo5X2l2Q3p6UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"반도체 공급망 국산화 도전\"…몸값 높아진 소재 스타트업 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRkV0aTBaZjJfLTlDdWRicm9tTU5tT2Y5LVZHQXdqU3VMLUZ4dXdkcXNjZDVjenlkS3lQbUt5OU9YbWhZMmVfTHc1SmN4R3JmRVJZWG9TcnoyUQ?oc=5",
+        "title": "애플 \"中반도체 써야\" 마이크론 \"안돼\"... 트럼프 선택은 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJZNmxtanQyb0dOdjRvV3ZpWDJGTU15a0ZONjBlMjlqcFpnRHMxOGRrRXMyZmVVdE1ETWRUVGo1VkRlTktFNzlYTUg0cC1mNlhXZzBuR2dFckpFZkNMSmdST25FR0JKMkgtMDN6cFZUTmhIZDRNeElrTkIyTi1MdTVxcw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQy0yb1ctX3hkQ0FJaXR3MFU5Y1FBS2E3N1dLUW51UmRBdG53MWt6UzVpNWhJT09SbnB3QVJPaWlJQUtQcUxVS1VDTEVHZ0tYSWlXZUpFdzdxRU0?oc=5",
+        "title": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15R0RhY205Qy14REtZUm1sTXFoOXBhcGVUc0o5Mk4xYWhQV1c1TnhPbm5saGpzdDlWTTVKQWpZOHVyTHduWGtMODh4MVY3ZmM?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "농진청, 2026 데이터·인공지능(AI) 현장 활용 경진대회 개최 - 전북도민일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNUlFMDNrbmZxQzhTYzB6NTRXUjl5VWxnZzhOTWNJTnQxX1ZqUlFXUW15NWdRWUpsRWhQajk1ZDJ2dFlnUEpmQmRMSG1KZWxhZXFRY1lsN1ppMTZ3Ykk1OVdPeGVjZ1JQYmc?oc=5",
+        "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
+        "title": "농진청, 2026 데이터·인공지능(AI) 현장 활용 경진대회 개최 - 전북도민일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNUlFMDNrbmZxQzhTYzB6NTRXUjl5VWxnZzhOTWNJTnQxX1ZqUlFXUW15NWdRWUpsRWhQajk1ZDJ2dFlnUEpmQmRMSG1KZWxhZXFRY1lsN1ppMTZ3Ykk1OVdPeGVjZ1JQYmc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "장마 끝나자 폭염 찾아온 제주에서 온열질환자 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989584",
+        "title": "“분명 폐차시켰던 내 차, 왜 도로 위에?”…추적불가 대포차로 둔갑했다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712199",
         "source": "네이버 뉴스"
       },
       {
-        "title": "무주 전통시장서 상인에 흉기 휘두른 40대…2시간 만에 검거",
-        "link": "https://n.news.naver.com/mnews/article/056/0012225272",
+        "title": "강남서 '수면마취 장사' 의사들 적발…환자 불법촬영까지",
+        "link": "https://n.news.naver.com/mnews/article/437/0000503102",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법원 “재건축 1세대 1주택 판단, 주민등록 아닌 실제 생계·주거 함께했는지 따져야”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012225252",
+        "title": "장윤기, 여고생 납치 계획 담긴 ‘대화록’ 증거 인정…내일 3차 공판 열려",
+        "link": "https://n.news.naver.com/mnews/article/366/0001181936",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검정고시생 주요大 입학 '껑충'…'자퇴 후 정시' 몰리는 이유는",
-        "link": "https://n.news.naver.com/mnews/article/018/0006336874",
+        "title": "‘6중 추돌 사고’ 60대 여성 운전자, ‘급발진’ 주장…경찰관 등 9명 부상",
+        "link": "https://n.news.naver.com/mnews/article/029/0003038907",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1억 넘게 버는데 건보료 0원…2000만원 초과 일용직도 '건보료' 뗀다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390822",
+        "title": "“연 1억4000만원 버는데 건보료 0원?”…정부, 일용소득도 이젠 건보료 뗀다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712051",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-26 10:48"
+  "updated": "2026-07-26 12:04"
 }
