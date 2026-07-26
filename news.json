@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성 “AI 글라스, 메타보다 가볍고 편할 것…특허 200개로 프리미엄 공략”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004645172",
+        "title": "앤트로픽, 가성비 AI 모델 '오퍼스5' 출시…가격 절반",
+        "link": "https://n.news.naver.com/mnews/article/057/0001960355",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT '금융 AX' 전략…AI 도입 넘어 실행 단계로",
-        "link": "https://n.news.naver.com/mnews/article/079/0004172037",
+        "title": "\"메타와 접근법 다르다\"…삼성·구글 첫 AI 안경, 올가을 출격",
+        "link": "https://n.news.naver.com/mnews/article/031/0001044790",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 앤트로픽 손잡고 엔터프라이즈 AI 확장",
-        "link": "https://n.news.naver.com/mnews/article/293/0000088094",
+        "title": "네이버·SKT·삼성SDS, AI 사업 확대 추진",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794496",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 갤Z 사전판매 앞두고 AI 구독클럽 혜택 강화",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214985",
+        "title": "신세계 센텀시티, 삼성전자 갤럭시 폴더블 신제품 팝업",
+        "link": "https://n.news.naver.com/mnews/article/277/0005794642",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 엔비디아·브룩필드서 100억달러 투자 유치…\"새 도약 계기\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005552759",
+        "title": "\"AX, 이제 재무제표 개선해야\"…KT, E2E·데이터로 금융권 공략",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390951",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "9,500억 달러 반도체 협력 약속...\"우리는 식구!\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VFNyQ21IQ0NOd3ZKeEo0eDZhS3pYSEc4ZWpjYUZKNk45T0pqZndlN0ZGNENJbXMxeXhCemJkS3hjZm1oQlk4Yk1tRERJU3lsMHdxTVJqODlsYzF1Q2c?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
+        "title": "靑 \"국내 기업-글로벌 빅테크 기업, 9천500억불 반도체 협력\"(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0ZDlkVXNHaWt0OFU5Umt5SlhpMndLTDI0bUswcWJsV2ZoelBNOEx1VzJKQ0pQT3hlNXAxSTFsX0J6cms1VDFkYVdRb0c4MmM?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,13 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인텔, 삼성 파운드리 제쳤다…미국산 반도체의 힘 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PemtMdGxIam5yeTVpYzY5bXJ4WWJxRnBrSHoyc2VRWG93QkwxYWRjdmxEeVdOYWFaM2NCUmtsOFNCdk5IWEVXRHotU0k2a0E?oc=5",
+        "title": "'팔방미인' 삼성전자-'커스텀 반도체' 브로드컴 손잡다…5년간 2천억달러 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11aTQybmhKWl9YZng2UHZiX2RDR1ZRek5PRi1CdTVCQWxrcFlSQnpVRjVEYjFWZlVqQ0E3VUZFdXFvNlZUVDRJNWk2M09NekU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "8월 제조업 경기 둔화 전망⋯반도체 '맑음' 車·철강 '흐림' - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbm1RY1VUd1NRYmNjUnl6WmI0UjRDenQzT01qWmtuMVIxTkt2bjdEdjhtc2VVNnhpcHp4RDVYc1UyNExwZXNKY0l4MHV6d0hCZTJKdQ?oc=5",
+        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
+        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[C리즈] 나래나노텍 김추호 대표 \"반도체 장비 수출 호조\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWnZiTkRVbVZxOE9VZEZ3dm93TzlqWDVpMXkzZ2VxMnRFalVieXo0MGpsQl9BLTJna1RvcXBXUVc4NjN4Ukd3RXU2b0N0aVU?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "의령과 하동에서 인공지능(AI) 기반 택시·버스 달린다 - 국제신문",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTMtZmpWVmNkZVVOWTNpa1NSTUVOMndnMUtiak1QRjF2cmlvazN3eWl5cFpDemlBUXJtOHlLSXdwNVl6cVlYUFBmVzVQd1RrQmVaMHpoQ3g3cjZtMlFOYndtWnVMM3hVY1JBd3lTYlpCelk5N3JoaFJqeTJveUxtZ2plS0RyZkh3My1NbmNB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[김대호 인물] 샘 올트먼(Sam Altman) \"인공지능 AI혁명 챗GPT\" - 글로벌이코노믹",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVENpckRsOENPQ0NzZzZ4MXF6LVA5NmRaaTJ2MUIxbVE1dHJVOEc2c3lxWG9fYkQxUTJfY1NvQlJFbi1UTE9KUWdDMGpNUmpoeFNqZ3ZYdkVkTHFva3RMWU9sVVZIMk9lSGpDOGZGTmJOenVJUEpSTjZIeFhnMnoyVlNjeVM5REZr?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI데이터센터는 AI공장 - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMTF2OElKNHBhN2hxNHpVeE1FaXF6Y2FqQjA5d2FrWjg0OHh2NVNPM2FJWjZwNmNPNDk2Z3VqRWhtNjB5RktFMkVmbUdrQWpfTHFWaTYwdDliZw?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "인공지능 올라 탄 중기…10곳 중 6곳 \"AI 활용중\" - 뉴시스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVk5KSlJMTFNNYmF6eWIwQXg1S1AwaFp3bHc2ekZLdDhnMVd0RXU0bHBFQmk5UExkcWlsSW9wM2w0NVRQVzdYNzFjRFJ4eHVSRW9SSGhlekZKRm1WRmlhadIBeEFVX3lxTE5ibWcxY2xIY1o1Tk51SkZ4SmRoN0ZqQ2x3c3hqVU1JS2VGUDZmVE9yNVdpb2JnVWdwUEZObDh2Q0lUM1B5OGxocXRjbHR4c3VVTTBBU3dXYzVIbDMtZGVSZUZXUXI2eHk5UWVhT0JGcU9iRFc4bXZGdA?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "로봇·AI와 가까워져요…로봇인공지능과학관 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oT0k4Z0pYc3g0YklOWGEzV2UwcUZUb3VicHlRS1Y2UnI5X0k3OF9jWkVZTmVYS1RWbG5pX2k2WWgxMTFnUGt5NHhKM1Myb3d1dzFwTXZWOGQ3eThoci12a2RUN0h1YjA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "李대통령 \"대한민국, AI 시대의 대체불가 국가 될 것\" - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IOWpJbDdDU2plUmtpc2dxSWU1cjdXQ3JJVDNqWWpMVVN2M0Jtb2FpZC04cVlTOUtMNV9BWVhheDNUSE9QcktxMm9MRjQ5RGd1TjkwMVBwdmxxbEpJ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"1회 35만원\" 의료용 마약 불법 투약 청담동 의사...몰카까지 찍었다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005390972",
+        "title": "‘모두의 생리대’ 보급 시작…깨끗한나라 “공익·여성 월경권 보장 위해 참여” [밀착취재]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004145893",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보]충북 음성 길거리서 외국인들 집단 패싸움, 흉기 휘둘러…1명 사망, 1명 부상",
-        "link": "https://n.news.naver.com/mnews/article/021/0002806990",
+        "title": "고소 다음날 범행…'경산 아파트 방화' 보복범죄 가능성 수사",
+        "link": "https://n.news.naver.com/mnews/article/057/0001960397",
         "source": "네이버 뉴스"
       },
       {
-        "title": "열대야로 잠 못 이룬 대구·경북, 오늘 낮 39도 무더위 속 소나기",
-        "link": "https://n.news.naver.com/mnews/article/421/0009078979",
+        "title": "경기신보 '공정·혁신·포용' 담은 '4S전략' 추진",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336979",
         "source": "네이버 뉴스"
       },
       {
-        "title": "불법 대포차 집중단속했더니 1928대 적발 ‘우수수’ ···외국인 판매도 308대",
-        "link": "https://n.news.naver.com/mnews/article/032/0003460367",
+        "title": "\"나도 속았다\" 계약서만 써준 공인중개사...전세사기 책임 있을까",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390952",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부 삭제 요청도 무시…해외 사이트에 '한국인 성인물' 21만건",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794612",
+        "title": "초고소득자 건보료 오른다...최저 보험료 기준도 손질 전망",
+        "link": "https://n.news.naver.com/mnews/article/014/0005552834",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-26 03:15"
+  "updated": "2026-07-26 06:20"
 }
