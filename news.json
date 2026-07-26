@@ -2,62 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI 글래스도 결국 안경\"…삼성이 찾은 해답[테크톡노트]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016214802",
+        "title": "SKT, ‘독자 AI’ 앞세워 스타트업 혁신 지원…A.X K1 API 개방",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336926",
         "source": "네이버 뉴스"
       },
       {
-        "title": "펄어비스, ‘검은사막’ 북미·유럽 10주년 맞아 미국서 하이델 연회 개최",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712271",
+        "title": "KIST, '대기-해양 상호작용' 재현 AI 모델 개발...수 초만에 200일치 지구 전체 해양 예측",
+        "link": "https://n.news.naver.com/mnews/article/030/0003451023",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버·SKT·삼성SDS, AI 사업 확대 추진",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794496",
+        "title": "AICC부터 에이전트까지 … KT, 금융권 AX 공략 확대",
+        "link": "https://n.news.naver.com/mnews/article/009/0005712311",
         "source": "네이버 뉴스"
       },
       {
-        "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/022/0004145748",
+        "title": "“KAIST 또 터졌다”…엔비디아와 차세대 ‘피지컬AI’ 개발 착수",
+        "link": "https://n.news.naver.com/mnews/article/016/0002675067",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"AI 동맹 강화\" KAIST-엔비디아, 피지컬 AI 원천기술 확보 협력",
-        "link": "https://n.news.naver.com/mnews/article/277/0005794653",
+        "title": "충전 없이 50년 작동…전기연, ‘베타전지’ 국내 첫 실증",
+        "link": "https://n.news.naver.com/mnews/article/021/0002807041",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "K-반도체, 빅테크와 9천500억불 협력…대체불가 초격차 만든다(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5peEpqbXg5TUN2NVN4aGpxMnlkTTZ5Z0prbTA4WnBOVUtpV2lJUmwtQVk4eUt0ZTMySFZsVXdDSkdSdmJlWmc?oc=5",
+        "title": "청와대 “국내 기업, 글로벌 빅테크와 9,500억 불 반도체 협력 추진” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVmtlOHlqTHJ4Z0ZvRXozMUhmYkxJalRJcUFnN0tNOWlPbUNOckluMEdrdzBIUGlvMU1xS1VDQl83UFliQjdyYlRuZXZIUkdjakw5NHJ3SHV2dkE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자·브로드컴, 2000억 달러 규모 ‘전략적 협력’ - Samsung Global Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMm5CNXZaa05yU0daWmVKa3VtQWx4VWJmbURkVFRkaU1maHh5N2JFSmRYSFF5akotbjh1MkZsWWw4YVprLTR2TU5CejBuZl9JdFFZTnJqd3M3SkNUa1VhbEhQX2txNkNYTi04cGpjSE5peXpOamxoTGNVR0p3MTVELVZvelROejhCTVZrbnVtSDd6Y2l2c1ZvZk5TdHN0LXpYUUxQMzhoTG9hUjA2VXpDaEpiVER5dHJ4bXNTcDRLOVptM3dDWkppRmRQVkFqbTRuUTd2LXNXNzdBSWx6eHQweTJBZ0JYVUlxSlZWV21XOGFYVFljcW9hVTY1QUZURGVjaEprdmU2cF9lZHdqcVAxdHE2ejljdHAzaWphWW5hMVg2ei1xVkJ0MWVVbFlUQQ?oc=5",
+        "title": "‘반도체 수출 호조’ 2분기 한국 경제 0.6% 성장…예상치 웃돌아 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ckVBME5qMmNXRDJNdVVYa0Ixb1VRQ0pLbXF0UTlJLVFBdkhLY2ZmSGdpM0t3MVVWRnJYNEZLNHRkVGthT0JrSXRRSGpMbm1qWDRKMg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자, 브로드컴과 AI 반도체 동맹…5년간 2천억달러 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCcjZKRTB2djJNd2FXYXhkbndvQ1dtQ3M0NVBzb2hMM1lPVi00NUNhQ0tIWjdOOG53RTczOTBLQUoyUkpOb21BenJfZVNOWFhwRzVxVUJMR1VocEXSAWBBVV95cUxPYmswT3JTYUhjWllOTFJvb2xDM3dSTVJpY2ViamtQQ3Z6UTZkN2doRTU4dmlFQUZ2Ylo0d0dtMXZxcjRxTmRKZVVCZU1NVnFVSzNWZFpabkFOWExId1IxWk4?oc=5",
+        "title": "경기도 기초지자체 민선9기 첫 추경, 반도체 산업 유무에 희비 - 중부일보",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TRUc0eGhDMm5WbnlRd2NHYzhNcWx6T1IwVVVDeFlnUTc1NDBaTnVxZk42eFlfd28xbllQeGVvaERhVUl1NkplWGs2T2xMazdiOHcyQ0ZxRmQtSzhWa3dkWHhfX1JKa1FRUHpXN0pB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 잡으려는 빅테크 “칩 더 달라” 아우성에…‘K반도체’와 맞손 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ya0hLV2pPcmtYaXdqck1kcTktckJjOU5mOU5NVlVPTDQxZVZZSjY1YW1yY3VwVFl6S01DV21UcG91UjAyNEJnNExGMmI4ZGc?oc=5",
+        "title": "\"반도체 공급망 국산화 도전\"…몸값 높아진 소재 스타트업 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRkV0aTBaZjJfLTlDdWRicm9tTU5tT2Y5LVZHQXdqU3VMLUZ4dXdkcXNjZDVjenlkS3lQbUt5OU9YbWhZMmVfTHc1SmN4R3JmRVJZWG9TcnoyUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“반도체 2030년 양산…전력·용수 리스크 점검해 선제 해결할 것” - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00c3JVVTlPVUplMkhDeXh6NUdUeDY2MThZY2o2UTJzV3JxbENxX3U4S3k2cjZMTlB4ZnNVa1YxT0lleDg5RGthYkN2NDdaMWM0X1HSAVNBVV95cUxOckVCdUJnS1Fod2luMW5MVjV5RlFSeExubkRscE8taHVIZmNlMUlheFRkUzZROFZJRDVGWnFTendWMGRteC1GcU5Ddmx1aUg1NGh3SQ?oc=5",
+        "title": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQy0yb1ctX3hkQ0FJaXR3MFU5Y1FBS2E3N1dLUW51UmRBdG53MWt6UzVpNWhJT09SbnB3QVJPaWlJQUtQcUxVS1VDTEVHZ0tYSWlXZUpFdzdxRU0?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "인공지능이 상품기획·발주까지…유통업계 ‘AI 활용 붐’ - 농민신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10d19rY2FIZ0JGemY1c1JUd3RiTXhNcHk5TWd3YWYxN2U5TEVDQnExRm1LR041THBUWHRpbGpPeWVDckhkeGkyOHpaX3ZWSlplbzdLZ2k4N3NFZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "농진청, 2026 데이터·인공지능(AI) 현장 활용 경진대회 개최 - 전북도민일보",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNUlFMDNrbmZxQzhTYzB6NTRXUjl5VWxnZzhOTWNJTnQxX1ZqUlFXUW15NWdRWUpsRWhQajk1ZDJ2dFlnUEpmQmRMSG1KZWxhZXFRY1lsN1ppMTZ3Ykk1OVdPeGVjZ1JQYmc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "의령과 하동에서 인공지능(AI) 기반 택시·버스 달린다 - 국제신문",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTMtZmpWVmNkZVVOWTNpa1NSTUVOMndnMUtiak1QRjF2cmlvazN3eWl5cFpDemlBUXJtOHlLSXdwNVl6cVlYUFBmVzVQd1RrQmVaMHpoQ3g3cjZtMlFOYndtWnVMM3hVY1JBd3lTYlpCelk5N3JoaFJqeTJveUxtZ2plS0RyZkh3My1NbmNB?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"AI, 생물학 무기 제조법 자세하고 정확히 알려줘\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pN0JXdzdvazRycmV1TmhPbFotVjZvcm5LVnV3VEpiMlZoYkx5M1FNTXl6RzA5UjU2am9ZS2lKdUdiQzB0NUFxYWVXeG9WbmI1Z2RhYXZhSXY0RWvSAWBBVV95cUxOVExqcy0waWpfdGFTVU9oTG9qM3VmYjlBNlppeDVzNUIycUc3Z0dkMGRLYWMwa2lGSWJuN1JIVzhWblhIYlBhTzJrMHd2RWtCUV9uMklGMkhKdlF0b2l0bWo?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "9440억 재산분할금 어떻게 마련하나…최태원 'SK 지분' 대신 실트론 카드 꺼낼까",
-        "link": "https://n.news.naver.com/mnews/article/014/0005552679",
+        "title": "장마 끝나자 폭염 찾아온 제주에서 온열질환자 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/023/0003989584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "같은 경찰서 10년 이상 근무 경찰관 1만 7000명 넘어…지방이 압도적",
-        "link": "https://n.news.naver.com/mnews/article/448/0000629427",
+        "title": "무주 전통시장서 상인에 흉기 휘두른 40대…2시간 만에 검거",
+        "link": "https://n.news.naver.com/mnews/article/056/0012225272",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘여고생 살해’ 장윤기, 납치 계획 정황 ‘대화록’ 증거 인정",
-        "link": "https://n.news.naver.com/mnews/article/449/0000354323",
+        "title": "법원 “재건축 1세대 1주택 판단, 주민등록 아닌 실제 생계·주거 함께했는지 따져야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012225252",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 경남 밀양·양산 39.3도···올해 최고 기온 경신",
-        "link": "https://n.news.naver.com/mnews/article/422/0000889066",
+        "title": "검정고시생 주요大 입학 '껑충'…'자퇴 후 정시' 몰리는 이유는",
+        "link": "https://n.news.naver.com/mnews/article/018/0006336874",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헌재 \"군인 강제추행치상 '징역 7년 이상' 처벌 조항 합헌\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002384685",
+        "title": "1억 넘게 버는데 건보료 0원…2000만원 초과 일용직도 '건보료' 뗀다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390822",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-26 08:57"
+  "updated": "2026-07-26 10:48"
 }
