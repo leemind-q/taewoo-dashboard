@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "엔비디아 10억弗 투자.. 네이버 3대 주주 된다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005553634",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "우여곡절 끝에 '꿈의 현미경' 착공···\"삼성·하이닉스 활용 기대\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006337627",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "美AMD, 한국에 AI연구소 세운다...개방형 컴퓨팅 인프라도 구축",
         "link": "https://n.news.naver.com/mnews/article/011/0004645577",
         "source": "네이버 뉴스"
       },
       {
-        "title": "무신사, 로블록스와 손잡고 성수서 브랜드 경험 구현",
-        "link": "https://n.news.naver.com/mnews/article/003/0014089166",
+        "title": "네이버, 22년만에 유증…엔비디아가 3대 주주 된다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004645701",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘개인정보 유출’ 반복에 과징금 높였지만…피해자 실질 배상안 ‘더딘 걸음’",
-        "link": "https://n.news.naver.com/mnews/article/028/0002815921",
+        "title": "삼성전자, 갤럭시Z8 시리즈 사전판매 개시…더블스토리지 등 혜택",
+        "link": "https://n.news.naver.com/mnews/article/014/0005553183",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "對중국 AI·메모리 규제 둘러싸고 두쪽난 실리콘밸리",
+        "link": "https://n.news.naver.com/mnews/article/023/0003989686",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "엔비디아 AI보안연합 출범…SK텔레콤·네이버 참여",
+        "link": "https://n.news.naver.com/mnews/article/020/0003736843",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,8 +39,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[사설] 반도체 ‘차이나 스피드’, 가볍게 봐선 안 된다 - 국민일보",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0tlNzFkaV9BVnFrV2xzWElla1NWSWhlMWtCU1pMZFRMekVTa0I3bFc2cGdQN2ZCRi1zX3B0YzlpR1dGeFN6YUl3UEtpRmlqRnJNYWRhcWhWWnZQM0hjSWN0dDZPVmpiVnZKSDJabXpZWlZidHZGbkJTRzRSZkxsNHZzbnZnUdIBbEFVX3lxTE1YQ3FvMW5zVWozUkQwZF9UVHUzamhBeEt5WEs1Q01DU1VYTks4dUJDclBURDA1ZFBhaUVaYW93Z0ZXLVpIQXB5d0lxYXZzWVlPZHBha2ozeDh0alMzRGQ0WW1LaEZ0cW44YzlnYQ?oc=5",
+        "title": "[뉴스프레소] 美 반도체 급락 후 나스닥 선물↑… CXMT 중국 상장, 수급 블랙홀? - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOeGFRcl9JR29rTU1mRFNmRkpIeUppOWdpYUFrVjFLenpSYWh6MFhHX2RHNE9xY2xlWWNPRGF0WlNodzlpSkpmR3dvSENiRVU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "둘레 800m 초대형 현미경, 반도체-신약-소재 연구 판 바꾼다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WDRabjFqSEdZc29PVG1LeFc3Q3gxdVNIREx1TVF4anVvMXA1Vm44Umc2aDh5ZkVlT3YtUUE2TDF3SU81LTNsVXJPQk5RTVk?oc=5",
+        "title": "ASML, 中 반도체 제조 장비 양산 소식에 급락 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMDhWMmpTa1NRV051R3NPRERZdXRIQkJWZURwSzJSVnBlN0pLemRCUFY4SlNTSHA2NnJRemMwQ0F5YzFJYTNrOHc1d1lyUlY5ZzRmMEZFaXZBWVI5OFBBSDVDSkFFNHI1Y2M1d2ZlMHNMbEU?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,11 +66,6 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“최상위 AI는 핵무기”… 격차 좁혀진 미·중, ‘AI 통제 조약’ 추진설 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3R4QnBOcUdYaXAxTUVjM3JETU13a2J3Vl94M19YRm9ick12TjlZelNXVzByNWUzMGdCYkF1NmVydDBLWGR2VTcwczF1MF9jTUo3b09WaGZQcjgwdUp0TEQ3WU1FM1RSN3M3cHRYYXdGc3YyRUlBbnF3NFltSTBwcUtoYw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "서초구, '인공지능위원회' 출범… 안전하고 신뢰받는 AI 행정 구현 나선다 - 시정일보",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nUENzWXdzSHdiTUJhMm1pMEdOczBzQ2F1dGFENFozZ214NVNmX3h1ZXp2VWRPdWdhQm56Tk9pVjRDZm84WEFsajh4bWxoZHpPNnQ3NURXN0pQZWliZjhFc3A0ai1jTElDVnBv?oc=5",
         "source": "구글 뉴스"
@@ -79,35 +74,40 @@
         "title": "서초구, '인공지능위원회' 출범… AI 활용 안전성 검토 강화 - 뉴스핌",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbkJidENRbmpJMVdUazBMcWYwNDlRZXMxNXZBR1dSQ09zOXNrNUU5QXlfZ2lpQTFSb2pLU3BHTXNVdlBmci16MkkwMjV4WkdFSi1DUGZYZUFmd19k?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "70대에 시작한 AI공부, 기본 개념을 익히다 - OhmyNews",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWWVJRFFEWXd2ZVNsTGtkbm5lQW0yYW45LUZzTUJCTWhlRHpUQjl0Nl96LTctU0FTNUF4NDhSckc5UmlGVnl2QVBlU2NKVS1GWXIySmdQamxyZ3JvNmhzb29acG1fOWV4WXQxVWtZLWw5Q2VjamVn?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "장윤기 3차 공판‥유족·피해 남학생 증인 신문",
-        "link": "https://n.news.naver.com/mnews/article/214/0001514098",
+        "title": "목포대·순천대, 27일 의대 협상 재개…'극적 합의' 나올까",
+        "link": "https://n.news.naver.com/mnews/article/421/0009079916",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘여교사 불법촬영’ 아들 걸리자, 휴대폰 증거인멸해준 경찰 아빠",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989871",
+        "title": "장윤기 3차 공판에 피해 여고생 유족 등 증인 출석",
+        "link": "https://n.news.naver.com/mnews/article/422/0000889274",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산진구·북구에 야간·휴일 소아 진료기관…\"의료공백 해소\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016217622",
+        "title": "경찰, '여중생 성매매' 혐의 최영중 전 청주시의원 두번째 소환 조사",
+        "link": "https://n.news.naver.com/mnews/article/421/0009079699",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추미애 “평화경제특구, 남북협력사업으로 지정해야”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004645602",
+        "title": "음주율 '울산' 제일 높고, 전북 가장 낮았다",
+        "link": "https://n.news.naver.com/mnews/article/374/0000523889",
         "source": "네이버 뉴스"
       },
       {
-        "title": "순천향대 의대, 올해 11명 초과 선발...\"담당자 실수\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002385243",
+        "title": "발전5사 통합본사 어디로…충남 여야 정치권 “40년 희생 외면해선 안돼”",
+        "link": "https://n.news.naver.com/mnews/article/022/0004146189",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-27 16:59"
+  "updated": "2026-07-27 18:42"
 }
