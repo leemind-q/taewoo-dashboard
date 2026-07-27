@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "전기연구원, 충전 없이 50년 이상 쓰는 ‘베타전지’ 국내 첫 실증",
-        "link": "https://n.news.naver.com/mnews/article/056/0012225260",
+        "title": "KT 개인정보 유출 과징금 29일 심의…'금전 피해·보안 부실' 변수",
+        "link": "https://n.news.naver.com/mnews/article/003/0014090778",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 갤럭시Z8 시리즈·워치9·워치 울트라2 사전 판매 시작",
-        "link": "https://n.news.naver.com/mnews/article/366/0001182055",
+        "title": "네이버, 엔비디아에 1조 4809억원 유상증자…AI팩토리 200MW로 확대",
+        "link": "https://n.news.naver.com/mnews/article/081/0003664833",
         "source": "네이버 뉴스"
       },
       {
-        "title": "업스테이지가 품은 AXZ, 사명 ‘다음’으로 바꿨다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712481",
+        "title": "애플, WWDC 2027서 스마트안경 공개…\"몰카방지 강조\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002431933",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"제주를 자율주행 메카로\"…쏘카 3단계 로드맵 제안",
-        "link": "https://n.news.naver.com/mnews/article/648/0000049235",
+        "title": "정부, AMD와도 동맹…리사수 “한국, AI 분야 핵심 전략 시장” [팩플]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003540378",
         "source": "네이버 뉴스"
       },
       {
-        "title": "갤럭시 Z플립·폴드8 사전예약 과장광고 주의…방미통위, 소비자 주의 요청",
-        "link": "https://n.news.naver.com/mnews/article/018/0006337411",
+        "title": "태양의 1조배 밝기로 물질 분석…‘한국새빛가속기’ 첫 삽",
+        "link": "https://n.news.naver.com/mnews/article/028/0002815926",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "중국 반도체 눈부신 데뷔... CXMT 첫날 472% 폭등 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSl9OWGxwNF9yTVJXanQ1QnNoTThwaERqZHViLXN1NnJ6bmRIb3lWU2xwUU1xM0w5akZwOG45UC14RVc5dGVJMExLYS1kUTZjU3VPVXdESmVUaU5lalFiSE5kbEtOSzU4REl5X3VhTFk2c0Q4eDl6Tm84V2FmYXE5bA?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "'中반도체 첨병' CXMT 상하이증시 상장…단숨에 中본토 시총 1위 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nOHdDaVRSeEk2UUVoRjIzMkxPVWtYdVJyczQwVVFtM0tIU3BxWk9MNjdtMTRjT1VFN1JrZUc2Wk1CejRFc1R4OTN4M0NtSk5MNXVEUzFESTBqeXfSAWBBVV95cUxOSmEtd25tRFNTTjVJSUxVXzFwUUNYSEc1SkZZam1fSkJWRnI3SlF5ZFlWTnhYSmZTX1c0Q25uYVR0eEt2ZGp5WVVNRkpmcXFVOHdreHBWbVZXRndNODFzQ28?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"삼전닉스, 게 섰거라\"...몸값 '125조' 반도체공룡 나온다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFZ2FhWXRCb2Z3ODNqX2hhTnZ0aFlMdS1BbEpzZ0xkTzBWaHp4VTNGSUpUSmNOSkhqX21zYmtMQnh5MUZXelVhM3E4VlB3aVU?oc=5",
+        "title": "'中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보) - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ekwwa2p3ZjEwZ2habGhYa0pyTnU2cnZCTmp1M2lhcHFKMHR6ckpTNmtESXBJaDMzakpOamZ0ZUR3UHY1MmtUTkJMV2RySXFRNGc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자, 브로드컴과 AI 반도체 동맹…5년간 2천억달러 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCcjZKRTB2djJNd2FXYXhkbndvQ1dtQ3M0NVBzb2hMM1lPVi00NUNhQ0tIWjdOOG53RTczOTBLQUoyUkpOb21BenJfZVNOWFhwRzVxVUJMR1VocEXSAWBBVV95cUxPYmswT3JTYUhjWllOTFJvb2xDM3dSTVJpY2ViamtQQ3Z6UTZkN2doRTU4dmlFQUZ2Ylo0d0dtMXZxcjRxTmRKZVVCZU1NVnFVSzNWZFpabkFOWExId1IxWk4?oc=5",
+        "title": "중국 반도체 눈부신 데뷔... CXMT 첫날 472% 폭등 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Obm5fMG5fdk1FbUcwcE5zVjF1WHNVRmFwNU16RzVhNDVJV1hGSV9rYWNDQXBxQVFBcXdMaHdzRVhHcGczSnJNdC1LS25uZE0?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'꿈의 현미경' 새빛가속기 첫 삽…삼성·SK 차세대 반도체 결함 잡는다 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16WVJYQkVhc1FfRnF5NV9JNkU5djZpeGhQeVRkM2wzWExya3dGWm1ZejdjODkwWDF3WHFUT2lfdzFlUGVjZC1pbmNtUUlSRnBybnUyVE5KQXpUVjV6OWF5ONIBeEFVX3lxTE82OEhjU0dVSkNvZDcwWjhOaGNQeGJaTW5HTWlVRlpVaU0yRXdueWlxWW1PVWlJWjV3MkJveUZJTjNNb3dEaVgydnBXTGhKZWtfM1dkaF82NDlVMWxWLTNKOTFuR19pN1hxSHhNWHpQQ1Vsc29qcDNjZQ?oc=5",
+        "title": "[단독]반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiaWE4aE1ya1BBLVhjM1BqVHpBWkh1T0dKNXVWUUN6UHZXU20xU1l0aEhvUVJ5SWJBQUpHemJjdTRSTFVwYkJOYl84dUR5aER1WlpFbzlkQTlpZ21Qd3RzNnZtVWpSRFhUMHJv0gFwQVVfeXFMUGFlRWhCSnhlOW9WUHF6VXd0dXZHbk1ESVFYc3Z2ZURKenJkRU16cTZxOXZ4bGsxMDFlLU56am9RV1kyelhGWEF4emFOTlNDdHdzbHF3ak9LM29fRVZMZ1BrZUFQRXBFSDhlMW9aNjhrVw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 서밋에 월가 '메모리 반도체 긍정론' 부각 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByZDAwVjZmVUVQS2I3V2NZMVhoakwySkN0ejgtckw3ckt4Mk9RMnFkWHF1MU5CZHlWQWdQd1Z0NmZYZ0VyWlduV2FvbjZ6OC1jRGkzSEMtMHBMNW9hME10T0pSQkFzWmdaMG01Z3E4dF9CZVk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "서초구 인공지능위원회 출범…\"AI정책 안전성·신뢰성 높인다\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14YW1WZmRhX3dpM2pJbmJKcUQxS1Bva1BpNDdObVNGZUJ5TXl1SU9BWWJBZ01GU29sODJSNjAyM2Z5QnFlX181NDZvYjB2YzZkd1lyRmZhY1U5MG_SAWBBVV95cUxNcGVYOEhBaXpMckJuYmlDQWp0LVc2Z1ZGM3p6amVGUFhFcWNwVW1ZYlpKUnhkYzhsdWFNT09CQUVSNVhGRVdhdFd2ZW5Zdm1DWkpzRUhKWjVHOHlidUhweWo?oc=5",
+        "title": "[게시판] 서울대 공대, 중국공정원과 AI·로봇 분야 협력 논의 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96VjJndE1OSzVULWR2SnpwOXF3bzV1MWYzcW1SNWZFaWpBNU02ZElwejZhX3lIdUZDeWRrV2QyTFdxRnZYRTJYbXBPM0hVWkh5ZGhJZ1doZE5mekFGbHVJcdIBYEFVX3lxTE96VjJndE1OSzVULWR2SnpwOXF3bzV1MWYzcW1SNWZFaWpBNU02ZElwejZhX3lIdUZDeWRrV2QyTFdxRnZYRTJYbXBPM0hVWkh5ZGhJZ1doZE5mekFGbHVJcQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서초구, '인공지능위원회' 출범… 안전하고 신뢰받는 AI 행정 구현 나선다 - 시정일보",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nUENzWXdzSHdiTUJhMm1pMEdOczBzQ2F1dGFENFozZ214NVNmX3h1ZXp2VWRPdWdhQm56Tk9pVjRDZm84WEFsajh4bWxoZHpPNnQ3NURXN0pQZWliZjhFc3A0ai1jTElDVnBv?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "해수부, 해파리 폴립 제거에도 인공지능(AI) 활용 - 국제신문",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmt0VVFOX25xYnF1TXFVcU95MTRFaUlTN2ltQzhuazhnUXQ2QUhvcGRyQ2FNM0lVazhxbUp0V0V1YnhDZFJTVWtSR3ZMd25md3VjeGhFd3F0eEdMQWdIWEZkYVZDczBDRWtlbVp1SHhXWVNER0w5QVc5Mk1JS2M0a0RnbnBKWGpBZng1M1FR?oc=5",
+        "title": "70대에 시작한 AI공부, 기본 개념을 익히다 - OhmyNews",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWWVJRFFEWXd2ZVNsTGtkbm5lQW0yYW45LUZzTUJCTWhlRHpUQjl0Nl96LTctU0FTNUF4NDhSckc5UmlGVnl2QVBlU2NKVS1GWXIySmdQamxyZ3JvNmhzb29acG1fOWV4WXQxVWtZLWw5Q2VjamVn?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "김제시, 2026년 하반기 시민정보화 및 인공지능(AI)교육 개강 - 경남도민뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbU9walRYbUIzZGVFNURQSS03bWVEUlV3a2JhVzE4ZEtYUGlkTlRzaW5XVDdRY0FJSXZ3UWxxQnh2SldJQUVjUjF5SnRITmdVbHlOQlY5RGVJaWtLWjVWMW9TNA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "619억 규모 AI 공모 사업 품은 안양시…대한민국 대표 '미래형 첨단 도시' 그린다 - 세계환경신문",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VQW9KWFQxNzZtS3ZWWURRNGRpZlZPNjB0ekhiNC1YcURJV1ZjdWxiWTBveU5nR2tqSEFIYzI4VVdXa3Fac0xNVjdwUHA0eUtMVHE3RjhoUUtqNmhIa2VR?oc=5",
+        "title": "고용노동부, 한국기술교육대학교와 전 국민 인공지능(AI) 역량 강화를 위한 교육과정 제공 - 경기남부뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxT0pWLXJoWml3UkJpam16eWgwd0xtRWQ3dkk0cDFrdjl5VU45LWxReGdnX0FoNU44Q2M3U0N0ZjR2OEhVeEx1RUdfdVlYNklKa2JlU2FONDFpYVY3Mkd0SzZn?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "경찰, ‘109시간 진화’ 인천 쿠팡물류센터 내일 합동감식",
-        "link": "https://n.news.naver.com/mnews/article/011/0004645597",
+        "title": "경남 온열질환 추정 사망 3명으로 늘어…9곳 폭염중대경보",
+        "link": "https://n.news.naver.com/mnews/article/001/0016217404",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"사진 찍다가 추락\"…선유봉서 40대 여성, 심정지 상태 이송",
-        "link": "https://n.news.naver.com/mnews/article/666/0000116757",
+        "title": "\"투잡·임대하면 건보료 더 낸다\" 월급 외 소득 직장인 건보료 상승",
+        "link": "https://n.news.naver.com/mnews/article/656/0000182473",
         "source": "네이버 뉴스"
       },
       {
-        "title": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동",
-        "link": "https://n.news.naver.com/mnews/article/214/0001514139",
+        "title": "6·3 지선 당일 투표자 수 정정보고 72건 달해",
+        "link": "https://n.news.naver.com/mnews/article/014/0005553604",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"제가 굳이 변호사를 소개할 위치가\"…\"일반 국민이 봤을 때\" '일침'[바로이뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/055/0001375675",
+        "title": "[속보] 尹 ‘건진 몰랐다’ 공직선거법 유죄…징역 1년 6개월·집행유예 3년",
+        "link": "https://n.news.naver.com/mnews/article/081/0003665000",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'경찰 쇄신' TF 첫 회의 종료...수사권 통제 방안 논의",
-        "link": "https://n.news.naver.com/mnews/article/052/0002385001",
+        "title": "\"봉고차 납치\" 끔찍한 카톡 증거에…장윤기 180도 돌변 \"다 친구 장난\"[자막뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/055/0001375728",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-27 08:02"
+  "updated": "2026-07-27 11:52"
 }
