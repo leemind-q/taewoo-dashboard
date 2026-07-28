@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "새빛가속기, 반도체·신약 개발의 '눈' 된다[가보니]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016217310",
+        "title": "'K-AI' 성능 국민이 평가…정부, 일반 심사단 200명 모집",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432115",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스스로 공격 길 찾아 막고 고친다…MS, AI 보안팀 '퍼셉션' 공개",
-        "link": "https://n.news.naver.com/mnews/article/003/0014091951",
+        "title": "엔비디아 전방위 협력 구축한 K-AI…인프라 확대로 AI 주권 강화",
+        "link": "https://n.news.naver.com/mnews/article/277/0005795037",
         "source": "네이버 뉴스"
       },
       {
-        "title": "애플 이르면 내년 6월 첫 스마트 안경 공개",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989825",
+        "title": "'빗장 vs 개방' 中 AI·칩 공습에 갈라진 美",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391723",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, ‘갤럭시 Z 폴드8’ 시리즈· ‘플립8’ 사전판매 돌입",
-        "link": "https://n.news.naver.com/mnews/article/009/0005712680",
+        "title": "삼성전자, 갤럭시 Z 폴드8·플립8 사전판매 시작[기업]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002385133",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아모레퍼시픽, 70년 데이터 AI로 묶었다…검토시간 12일→5분",
-        "link": "https://n.news.naver.com/mnews/article/015/0005314539",
+        "title": "KT, 아모레퍼시픽 AI 연구 플랫폼 구축…수일 걸리던 정보검색 '5분 만에'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391870",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "'中반도체 첨병' CXMT 상하이증시 상장…단숨에 中본토 시총 1위 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nOHdDaVRSeEk2UUVoRjIzMkxPVWtYdVJyczQwVVFtM0tIU3BxWk9MNjdtMTRjT1VFN1JrZUc2Wk1CejRFc1R4OTN4M0NtSk5MNXVEUzFESTBqeXfSAWBBVV95cUxOSmEtd25tRFNTTjVJSUxVXzFwUUNYSEc1SkZZam1fSkJWRnI3SlF5ZFlWTnhYSmZTX1c0Q25uYVR0eEt2ZGp5WVVNRkpmcXFVOHdreHBWbVZXRndNODFzQ28?oc=5",
+        "title": "中 반도체 공습에 코스피 8% 폭락...서킷 브레이커 발동 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0FJYXRTeW9aYk9lUnR1Qk9OUE5Sd2tfU2NiblNKYTNBa05uckRlTGgzOFZYQlBjOEVTbG05Mk53UFl0TmRnVGhIOWkzWUdQT2hNN1RWUTVvcW51WkR4amtSWDQxSzJaNGhfa21VR255Q29HUEZmX1ZrLTdsLVR5bg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중국 반도체 눈부신 데뷔... CXMT 첫날 472% 폭등 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSl9OWGxwNF9yTVJXanQ1QnNoTThwaERqZHViLXN1NnJ6bmRIb3lWU2xwUU1xM0w5akZwOG45UC14RVc5dGVJMExLYS1kUTZjU3VPVXdESmVUaU5lalFiSE5kbEtOSzU4REl5X3VhTFk2c0Q4eDl6Tm84V2FmYXE5bA?oc=5",
+        "title": "'중국발 반도체' 쇼크‥증시는 '검은 화요일' - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xTGx6cl93UDBYU2xrcDZMSzEtZXBHVm9rWFAwazBzX2hrUnpGaXlqa0l5Znp4SGRBbVpONmNjQTVvQldQSzZfVVo4VDdic0tiLThJcnJPVjFBUUxBOHdTalRNaGpoZi1NckRLdnNfRUtWY2F0d2hZZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "상장 첫날 460% 폭등한 CXMT…국내 반도체 소부장 수혜주는 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NVhWUk9ReWRQZ1JjTkQxWVZSSXVyWEFUdWMtQkpyU3BtTGlFY2UwWHhNdlh3bTl0ZG93YlFoaUZLZU96RGhteWVlTjVBZkJKdjJ2VVJWZzltMWtUc1hwQzRyWTJlNHVpcVlQSVhYRC0?oc=5",
+        "title": "'중국발 반도체' 쇼크‥증시는 '검은 화요일' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuRGVXcmNRMjliY1pMZEszRnpKWGExS1ZOQThIYVlJVldtaFpaUXFwR3h6MjhSSU1JVF9oNjBnWWE4NjFwakVxQldpeWl0bzA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독]반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiaWE4aE1ya1BBLVhjM1BqVHpBWkh1T0dKNXVWUUN6UHZXU20xU1l0aEhvUVJ5SWJBQUpHemJjdTRSTFVwYkJOYl84dUR5aER1WlpFbzlkQTlpZ21Qd3RzNnZtVWpSRFhUMHJv0gFwQVVfeXFMUGFlRWhCSnhlOW9WUHF6VXd0dXZHbk1ESVFYc3Z2ZURKenJkRU16cTZxOXZ4bGsxMDFlLU56am9RV1kyelhGWEF4emFOTlNDdHdzbHF3ak9LM29fRVZMZ1BrZUFQRXBFSDhlMW9aNjhrVw?oc=5",
+        "title": "“中, DUV 노광장비 생산 돌입”…반도체 자립 속도 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RRlE3SUNkb3p4bHZ3TmpCWGF2eGlGQ1Vmb1lpX2V3dHhERG9pNG1qZ2lmOWtST2xnQ1lEaEI2b2FLRmxlekJBd2lCZlMyUTRxeVZoVzF3SXVlTlRwVWlja1NYU2FrVTVkd1dmZEI3X294OG_SAWZBVV95cUxOT2VDdnhCb3dRUks0eUp2RHFiVHZGWEJoaWk4ZEc0S2JiUnk3ajhxX1Y5bkhtSHhQYi1KQkNSVWlHYWQtYTUzUVI3VWJ6emE0d3M1RzVFamJLeWRRVE1XS3EwVHNIdGc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"우리도 슈퍼사이클 타자\" 반도체 진입 나선 디스플레이 장비 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NaU8wbWl0N0Q2aFBobG9SUE8wSldZU1JnUHljTFBNbkZTSElPM0piVVhSQ3FnYmQyT2RacGp5VU5nUW15SHR4Q2pLTndwdjA?oc=5",
+        "title": "\"중국, DUV 노광장비 생산 시작\"…ASML 8%대 급락 　 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40LWRKLTdhWXJpWnZpU3dSN2ctampBcFpIOFJ3dnduMHhieGxMYUlQVHlYeVdhYTdlelJGZHRPZWdKMERNQlBybUktTkRJUkdBQmNJT1FZX2ZVSXPSAWBBVV95cUxOYVFMWThzMVZ3TUVyQzI1b2swT2s0T3pEanhBYlZYWFJoa1UtY2JHQ1VfaXdQUkItY0p3NU14eDFfVHEtZXQ3dmNNSXIwanNibFAtdG92dHZHUTltQk1zQVY?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "[AI 프리즘] “인공지능 특이점 왔다”…샘 올트먼, AI 자율 진화 공식 선언 - 뉴시안",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00ZzVWYUI3WGVFdVVyZC1ERmNuRlBpT00xMWwtNno4S2FBN2VSVG4xRXVqQ2ZrcVFDYnhGZ05sZDM2MFdRSHltdGVobG5xVFRhOU0wbG16a2Q5b2MxbU84S3lsMmx3WXFzVkJj0gFuQVVfeXFMTW1EeXJ3U2lNaVhPajF2VUZDTF9Pa1psZFdQZGQ5eWlFR2d4dzJkNGNoM2llSzJ4UnAtUi1MOHlWTUNtUTlvUUl5dW1MWThYS2NBT3dVeWFfNWNyZjlQZURhVkU5ek9URkdmSUp4aGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경북교육청, AI‧정보 교원 대상 ‘인공지능‧데이터 과학 프로젝트 수업’ 역량 강화 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwTHJTeDQzaXZKUlFoTEFBclVwUWY3c0tqS3lwc2RlVElQVHZqUmY0TlU4aVp3Mm44NVF6TTJMb245a0JBVkVzS1ZKQTRXTVRSTFc3alFGMU14dEt1WnBfNDkxb3FPZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대전 대덕구 공공도서관, 주민 인공지능(AI) 역량 키운다 - 한국미디어뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ejlmcy1PM2hrVzVpcjZFZXBYbnJJSElUTFA4ZHNJLS1UaWFXVFAwVllzSWNUc29qVDVkd2ZiNUsyN0Voa2NUUlVxMVBjdWg1MXI3UVFDMDBJVDZ4bm1POVE4Rm9Jdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "권력의 도구화, AI 권위주의 - 뉴스타운",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3U01wNXY2aXRqajczRGYyRmx3OWJQSXJ3LUVRX1JDdVA0alNWS21KQ1dNdGEzelUtTHJ3aEo0LU9Nc2o4S1I2elBMQVNhSm5fa3ZZZWdManNGektpLUlEUTZBc19PRWxlcTcwbE1B?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "웅진컴퍼스, AI 학습관리 플랫폼 '컴퍼스 클래스핏' 출시 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yRjlXZ1V2c3dfZF96ZUpmdVVKbFV4R2RhLXR2WkZGT3N5RDNJTFNDVlBPeUVGVUdhOHI1cnhYU3JWWkhha0w4WWxuRmxtWm1wN2VBOWRzY1Q5RzDSAWBBVV95cUxQcU1taHFxZVRXUUNPLU5STEhLUWtQNzVmNzU5Z0ZzZmZLdWtkV2tFOFRXUFBtbVA1UFhocEFYaUM4eU9qS011WFRBbFM4bUpNblFYUlA0c1FuWmxvYWd0VlQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "장철민 의원, '산업인공지능전환법' 대표발의…\"제조 AI 대전환 기반\" - 대전일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQNGYycHV2VnNqTjNyRG5SZ1JwVEFteXY4NW14M01nNkVMNVFFbkl5LUtxdzdCbUJzdjYzMzFZLVpEQlBFVy1OV2tRRUFrTkJ6a1pkTlc0NHlZTnc1RXVVN25RX200NmlwUzRLRXRoWQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "제주도교육청, 고교생 60명 AI 해커톤… 일상 문제 해결 도전 - 파이낸셜뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSjQtaldTdUtWS0lteU13YnBQUURleHdQbkxmMnZJbjBrZEFkUU9PcGFhZDBUTUx5eG4yV3JjOHJ5b2NzQy1DcTIzd09Ja0tseUNIeWhGT0liUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "울산시‘국산 반도체(NPU) 기반 인공지능 시시티브이’전환 사업 착수 - 더시그널뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wQXVJaVRUcDFGUzAwV2RpN2RoSW1XMlJmVFc4RDJVYTE3UmJVMFdVTUJnYnptR1Q0WVlvSDdDaHJZU2NiOXpvaUFOTQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "로봇·AI와 가까워져요…로봇인공지능과학관 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oT0k4Z0pYc3g0YklOWGEzV2UwcUZUb3VicHlRS1Y2UnI5X0k3OF9jWkVZTmVYS1RWbG5pX2k2WWgxMTFnUGt5NHhKM1Myb3d1dzFwTXZWOGQ3eThoci12a2RUN0h1YjA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"아이돌보다 예뻐\" \"몸에 딱붙는 의상은 좀\"…女기상캐스터 등장에 시끄러운 이유",
-        "link": "https://n.news.naver.com/mnews/article/277/0005795227",
+        "title": "에너지음료 몬스터와 '발톱 분쟁'…국내 업체가 이겼다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014092692",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘44표 차 희비’ 오늘 통영시장 선거 재검표···오후 7~8시 결과 예상",
-        "link": "https://n.news.naver.com/mnews/article/032/0003460526",
+        "title": "인천 영종 바이오단지 조성 본격화… 글로벌 바이오산업 거점 도약 시동",
+        "link": "https://n.news.naver.com/mnews/article/016/0002676102",
         "source": "네이버 뉴스"
       },
       {
-        "title": "윤석열 1심 유죄에 국힘 '초비상'…397억 반환 가능성은?",
-        "link": "https://n.news.naver.com/mnews/article/437/0000503250",
+        "title": "'여보, 손목닥터 해볼까?' 서울시 비만율 '뚝' '",
+        "link": "https://n.news.naver.com/mnews/article/374/0000524092",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대구신암 39.2도·경주 39.1도…40도 턱밑까지 올라(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016217610",
+        "title": "통합시 의료벨트 구축 발표…동부권 ‘발칵’",
+        "link": "https://n.news.naver.com/mnews/article/056/0012226114",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추미애, 경기북부 개발 해법으로 '평화경제특구' 제안",
-        "link": "https://n.news.naver.com/mnews/article/015/0005314210",
+        "title": "인권위 \"5년 이하 형기 마약류 수용자, 지정 해제 기회 줘야\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009083046",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-28 00:55"
+  "updated": "2026-07-28 04:13"
 }
