@@ -2,59 +2,74 @@
   "categories": {
     "IT": [
       {
-        "title": "이상수 STX엔진 대표 \"국방 디지털 전환·첨단 방산 생태계 구축에 적극 참여\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005554308",
+        "title": "김종철 위원장, 청소년 SNS과몰입 전방위 대응 강조",
+        "link": "https://n.news.naver.com/mnews/article/057/0001960979",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 6880억개 독자 AI 성능 자신감…철강·자동차 공장에 적용",
-        "link": "https://n.news.naver.com/mnews/article/003/0014094593",
+        "title": "포스코DX, AI 네이티브로 전환…피지컬·에이전틱 AI 갖춘다",
+        "link": "https://n.news.naver.com/mnews/article/277/0005796147",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"생산성 30배 높인다\" 오케스트로, AI 인프라 운영 주도권 잡는 '4.0' 출격",
-        "link": "https://n.news.naver.com/mnews/article/014/0005554039",
+        "title": "SKT, 두 번째 독자 AI 모델 공개…“산업 현장 활용 확대”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012227270",
         "source": "네이버 뉴스"
       },
       {
-        "title": "에이아이빅스랩, 플립비·한국빅데이터학회와 업무협약 체결",
-        "link": "https://n.news.naver.com/mnews/article/011/0004646100",
+        "title": "크래프톤, 한국어 성능 1위 음성 AI 모델 공개",
+        "link": "https://n.news.naver.com/mnews/article/008/0005392548",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST “녹조가 미세플라스틱 발생 촉진한다”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002676493",
+        "title": "원자력연, SK하이닉스와 반도체 방사선 신뢰성 향상 협력",
+        "link": "https://n.news.naver.com/mnews/article/018/0006339018",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
+        "title": "‘삼전닉스’ 주가 급락에도…한은 “반도체 실적이 추가 하락 막을 것” - 국민일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45OWpyU3hTSFBBbWxZamRJNDJPRm9FZ3hHcEctbVNYX21XMTNiNDd4SWRSRU5oczVoUGl5b3B3Q1pJZTdid2UtYjl1RFlLWDNlZGxvUlNBU01kSXZaMU1NaGVDNW9Vc3dDdDNEUNIBbEFVX3lxTE45OWpyU3hTSFBBbWxZamRJNDJPRm9FZ3hHcEctbVNYX21XMTNiNDd4SWRSRU5oczVoUGl5b3B3Q1pJZTdid2UtYjl1RFlLWDNlZGxvUlNBU01kSXZaMU1NaGVDNW9Vc3dDdDNEUA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"삼전닉스 오늘 또 왜 이래요?\" 반도체에 대한 끝없는 '의심들' - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzSXdBMW54SUF0NXA2SVJXOXlwcnk0dmhGbDNYSWx1eXZvaHpzVnFDTTZKRjZpdkZYbW5ncnlocU93bXo4YmJ4aDJLaS15NlRMbnFzUk5jTXpsSUNpQ3c?oc=5",
+        "title": "“메모리 더 이상 AI 대표주 아냐”...증권가, 반도체 낙관론 ‘주춤’ - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQal9uM1RaTmhFa3BXbGpzTjdia191UnpGVVYxVmtndmZzamFzZ3k3c3JQYnc4Qm4xYUdfMkRJd2NpU3MzWXhKQWQxS3c5VzVzV2NfZllaQl9lUGgxWjZyOEJnMm5pVHlaT1NTQVVYTDZTckpLX251ZXNKSmJla1RsRA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"37만전자·280만닉스\"...중국발 반도체 쇼크에 눈높이 낮췄다-미래 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZbUtweUQ1UGppUVVvaWhrNHpiaWtzTlQ0NEJ4ekE1U2RCNEt4YnNzTzItZl8zSElva0pYdWJKSmRVdHhiNkQ2UXdGQ2l4ZElrN0JNVWdJS1JlTDJBcnAzNFJqazM0TUdR0gFuQVVfeXFMT0tTaTdpNDVIeWFfSi13LTUyb0xDUU14QkxsYVNBMUwydlFTN3djUUpxcnF4ZG5KT0dYYjZaaHRCZnM5R3ZKdHdVV29ickpEbW5OVHBLdFY0NW5ESVdDSnlzc21CUmJONnl6Zkk0cmc?oc=5",
+        "title": "中관영지 \"中'반도체 자립'에 글로벌 증시 휘청…기술 자립 못 막아\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NMzc4TzVwSFdrYk5ubnU2anNHWEZqaEFxN0o4ZWw0UXJ1UlBwcTYycGFqWDM4N3hyVjVDb3dPSE5CYmg2XzY3MUpTcjVpUkU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"엔비디아 등 고객 10여곳과 협상 마무리\" SK하이닉스, 반도체 '장기공급' 계약 잇따라 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CcG5yOEZaZDROdWFwM1RoNEJidU1YeU1DSHdpZDhHd0pyQ0h3dUVEYW1mdjFkcTE4eENVVE5VXy1ULVZtdXd2TEpLdWNMZ2lDNnRtWUdvLWFqT1J2M3NmWtIBeEFVX3lxTFBqU3h2enA0LWliQmlBNE53LUNITkVyckd4VU1DbmFQV19aN05CTE5JY19MTTJwUC1iRTdGVVMwSlRXVll6WXluUklySGJYQTBZczJ6MWJKZG1lMHVKRXdXOGtMSnlBeVZKQWpfdDVBVjBGcHhCUEpGeg?oc=5",
+        "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fck8yNjcxSEQ5dHdmWmg4c0VXam9sQWJrMEQydTZmZm5uUVNDaUhrYURXWmFQQkQyRUl3UlA0YTdYVmZlSFAzTndGU1RpeGc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "日 구마모토에 피지컬AI 반도체 국제거점…대만 기업에 '러브콜'(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuajJoZnhrSFpZdDQ0OThhajh5RjBfa050ZWNvZFI0MU9CQnZEUjdRQ2RSUG83X2ZfTTBpaTZQWVo5MFAxVmE5NmxIS1VxclE?oc=5",
+        "title": "반도체 호황사이클 정점 지났다?...삼전닉스 순식간에 '위기' [자막뉴스] - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByc084RGRzaWpLMlhLQ1B1MTVUWUhLRFJTTjhSQmxlZUJXZ1NNRDZsMzBVbHFESXhIYkZ4QmF3NUJBNFlZRWdUeWJFMWhyNktWUEtCQ3dQMEhHSl9GbWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "건국대, 인공지능(AI)학과 신설…2027년 수시 1900명 모집 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMmRBdFRjZ3g4Q05COEFlNXZxSXcwVmlyd2tUQnlTdThyN2VjYnJ4aHZfa3RKNFhmSjY4aUtWMmhSQmV4T3RsS2UwYm1wVE4tVmR3d0lB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"5년 내 'AI 재앙적 결과' 확률 20% 이상\"…세계 전문가들 의견 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBReERmdmtyOVcxVXlTYkJNOWRQeGlKTHZsbnp1UDhXd3UwSXZvQjlFTndSNTNqZmdPVnBOWThaMnl2MkNmVVVGQmQ2eFNGZnlwUU84bVJBV044SHPSAWBBVV95cUxQcExRWVBDbmd3ZURBRi1MdTlVMEMyQ3BIR2Rhd1JIWmVrREtJQTdSU1NSV3gtcFJORzktcm9NajJtWF93WE5vWlh4OU5NWm01b1NsRk5IVHlHQU5Gd3ZfTEw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경북도, 도내 데이터센터 기반 인공지능 전환 속도 높인다 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84dG95M2Jla3VOT1NzTVJJYmI1WUU0a1Mwd0o2RVZocmhBWkxiVDlZc0JlbGk2TFRvd283bmozdkp2WGd4aTRsQkRDMDdWeFdEX0NxZXZYUC1kZEk1RENUb0gweEdiUQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[기고] 인공지능(AI)과 법제도 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YOFBKSl9VOW1wLWZfRzUtbVFBX1dnakZ1R0daMjA3aUZUTmpQM01NVUtVYkE4MlRqc01Wb0xvcHZSWlFWWHIyU0RIRlQ5UQ?oc=5",
@@ -64,50 +79,35 @@
         "title": "대한인공지능윤리협회 출범…\"사람 중심 AI 윤리 교육 기준 세운다\" - 서울경제TV",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NWFFzV2ZCeXd3ZENhcFVGN2cyTVFTUjk0WXRiVG1kX2RFNlpQdll1SE5RTEVzOXNoYWVfNWFyOXZRQVVsZnFHdGFMSUl6VEttUjV2Z05UbTJkVTE4TWVoNjNQdmQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "경북도, 도내 데이터센터 기반 인공지능 전환 속도 높인다 - 광흥타임즈",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tV0F1UGRsUUdJU1paQkFuRVJ3dG0tbk84NF9XV1l2amd0R0JBQzE4NkRPd2ROb3djM3RIU0FLQ1I0R3JHU0F2cG5mb0RGZGRubmlmLTNYbFFiZmRBeFRV?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "BIS, \"AI가 성장·물가 신호 왜곡…중앙은행 오판 가능성 커져\" - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QT2RlWEgxV0dPdDc0Zk9fbFctajM1LXZpT1B4NUE2bG9aX3AxREhvczdZQXk3RUZlQ0w1RnVYTmZrZGpxeUtxYWZCZ2RMNGNuNDJsQ1l3VW9VQQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "메타, '블랙록 80% 지분' 합작사 세워 20조원 AI데이터센터 구축 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96U19NYWF0ZDNfTkVhSGxqUmF3Q2pVUVBpYURZRHVRYXVLci1RRVJYUEZNZUFoVER4U2VpcVpXZnpuREh3dy1LdWZ5bDdyYTJiVkx2eW1BbWtiOGZYeWpXNXhVckdFektucnpZVWZXU2tRcGU3?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "日 강진에…국내서도 \"건물 흔들려\" 신고 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/015/0005314842",
+        "title": "특수단, 장윤기 수사 지휘 형사과장 '구속영장' 재신청",
+        "link": "https://n.news.naver.com/mnews/article/421/0009082986",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'인천 쿠팡 화재' 첫 합동감식‥\"배터리 등 정밀 감정\"",
-        "link": "https://n.news.naver.com/mnews/article/214/0001514450",
+        "title": "전남광주교육청, 학생 맞춤형 진로·진학 상담 강화",
+        "link": "https://n.news.naver.com/mnews/article/001/0016220771",
         "source": "네이버 뉴스"
       },
       {
-        "title": "문체부 “모방 자살 막을 것…AI 활용 24시간 모니터링”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004646252",
+        "title": "검찰총장 대행 \"형소법 개정안 깊은 우려…국민들이 피해 부담하게 될 것\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001376283",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'강북구 오피스텔 살인' 피의자, 마약 간이검사 '양성'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014094455",
+        "title": "(1보)포항 장길리 낚시공원 진입 다리 무너져",
+        "link": "https://n.news.naver.com/mnews/article/088/0001020996",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김현태에 징역 18년 구형…\"내란 행동대장\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000889871",
+        "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
+        "link": "https://n.news.naver.com/mnews/article/056/0012227330",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-29 00:57"
+  "updated": "2026-07-29 04:19"
 }
