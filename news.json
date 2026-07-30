@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
+        "title": "삼성SDS, 2분기 매출 3.7조 돌파…클라우드 성장이 실적 개선 이끌어",
+        "link": "https://n.news.naver.com/mnews/article/009/0005714312",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "[속보] '개인정보 유출' KT에 과징금 540억 원",
+        "link": "https://n.news.naver.com/mnews/article/422/0000890498",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "오픈AI, 과학자 10만명에 챗GPT 무료…한국 아태 최다 선정",
+        "link": "https://n.news.naver.com/mnews/article/374/0000524662",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "양자컴 실용화 시대 임박했나… IBM, 슈퍼컴 넘어선 ‘양자 우위’ 입증",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340516",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "카카오 노사, 임금협상 잠정 합의…갈등 일단락 수순",
         "link": "https://n.news.naver.com/mnews/article/011/0004646629",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'리그 오브 레전드'와 K-클래식의 만남…서울시향·라이엇 맞손",
-        "link": "https://n.news.naver.com/mnews/article/421/0009088355",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "삼성SDS, 2분기 매출 3.7조...전년比 5.9% 증가",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990459",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KT 개인정보 유출 과징금 540억원…LGU+ 증거인멸 수사의뢰",
-        "link": "https://n.news.naver.com/mnews/article/092/0002432499",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"에어 요금제 가입하면 포인트\" SKT, 8~9월 혜택 강화",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555064",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"日 반도체공장 정상화에 수개월\"…폭염에 구조 난항 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QUFiRFV4X3ZoalhHUEhlbzllclcxQUxnZWpxX2JwU2hzMmVCRkdUQnVXd1VRTW16S2FzZVFjenZleS1XaUcwaHRBYkJOM3c?oc=5",
+        "title": "'반도체 쏠림'이 독 됐다…글로벌 기관 \"코스피, 사실상 반도체 지수화\" 경고 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0YlVldTk5WEJUZFpJMXFGWUwtdFJvd1hXdW1jNjVvNGVfUGlweUsybTlLZWtTcmpzb3FZTHdxeG11V3VXbHVEQ0tIWlY3bjdOTGtlRXFGVlBZS3p5TGtXcHZ0VVd1YmZ2cGtIZGtTNjQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "대전시장, 총리에 '3대 메가' 선도 국가반도체연구소 구축 건의 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02NzRDdFNWMFhCcHpsUGZsaThiNXlBS0hxQ1dVY05ZNmNfM3NhSW9KcUFLakxCclRaZ2F6ZWxsbmluNVR5OVNCQ2thZlFKQzlyUnZEeE5FekJMMTTSAWBBVV95cUxQZ3NXNjg4RGJ6UVdybmkyQXozYUhKOGVFcWNncHM1dy1TRUY3NUF5eVN3eVBjN3FwWjNtTjhMZzhBdEh3bS1nOF9VVVFrUVV0UFI5d3hUZGJ1cHhReElxSW8?oc=5",
+        "title": "[마감시황] 반도체 상승분 반납…코스피 1% 하락해 '5600' 하회 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPVG5aOHIxV2s0MkRUMDJFQ2x0eFFNMnpKZ20zUlZEeXo2Uk1KSmtlTTNncjJ3M0ZHbTJXMElLY3BmeXFXeDZGZDFWelZVVFNRMW9PaXhyMFl1RW9h?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "韓총리 \"충청권, 대표 반도체 성장축으로…정부도 협력에 속도\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WajhSUU1Sb2M1V01hZ29tVzlPWlZyMWtvUHdXc3BaZC1nRmNzNGptMnpSWDMxQzU1RnVqejA1UU9HZ2ZVMThwaE00OExfU2M?oc=5",
+        "title": "개미 '항복 매도' 8월까지 간다…\"진짜 반등은 반도체 전망 확인돼야\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVmRJSFNScHJBTmpYMEZWMjVJWEo1TWo3WjRYNHJycnQzV2RUX19uNkxuTUNiSHZZcWs5YlVPWjlTTFltMDZqemZnTHAtUUk?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경남교육청, 인공지능(AI)·디지털 기반 ‘깊이 있는 수업’ 설계 역량 강화 - idomin.com",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWjlNYy1VMWZwcS1XQjdzTVBfNHloX0w4U21ES0dQcHc3TGZiR3dmY1Z2T2hzV1hJYmhlYldBUlhfUTRSOTJiUDF6YlV4WWtPazVsUUVnblBCclB3NEh2eGJUenR1V2FZbnc?oc=5",
+        "title": "“인공지능 통제 필요하지만 중국에 뒤질라”…트럼프, 오픈AI 해킹 사고에 규제 딜레마 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xcUIwZWJldmxrODZlZWI5cWx3Y0EybXhGSzd3SDlHUHJjUmVXV3hYVGsyUElvOENFUUpNQUY1UUhNYlVUaTA2bzVpekptWEE0cmFJZElkME5tRHdXMXNSTmpkSnhOZ3I0TUtvNndnNA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[김장현의 테크와 사람] 〈105〉추운 인공지능 겨울이 다시 온다면 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldXdySGFwWngwRXRWTktpQVk4WnI2OFRBRUVxSEEwUXh5VDV3d0g1VWxEaGZ1ZjljVWRFS1pUNmpmSGNaRWM5QjdwMGZaQQ?oc=5",
+        "title": "경남교육청, 인공지능(AI)·디지털 기반 ‘깊이 있는 수업’ 설계 역량 강화 - 경남도민일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWjlNYy1VMWZwcS1XQjdzTVBfNHloX0w4U21ES0dQcHc3TGZiR3dmY1Z2T2hzV1hJYmhlYldBUlhfUTRSOTJiUDF6YlV4WWtPazVsUUVnblBCclB3NEh2eGJUenR1V2FZbnc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경상북도, 인공지능(AI) 대전환 선포에 이어 이젠 ‘챔피언’ 선발! - CBN뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vYTVFS2ZwNjZmWThWVGlUUl9nNW5aM19SVG1PcVpPNEJfdlN3VHRkUG9vTVF6eVlMdG8xaDI1N2xpQmZUVkNiUWhsN2tPVzdleDNJ?oc=5",
+        "title": "[김장현의 테크와 사람] 〈105〉추운 인공지능 겨울이 다시 온다면 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldXdySGFwWngwRXRWTktpQVk4WnI2OFRBRUVxSEEwUXh5VDV3d0g1VWxEaGZ1ZjljVWRFS1pUNmpmSGNaRWM5QjdwMGZaQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'아동 성매매' 최영중 영장심사… \"혐의 인정하느냐\"는 질문에 침묵",
-        "link": "https://n.news.naver.com/mnews/article/656/0000182836",
+        "title": "“명랑하던 딸, 출근 두려워해”…20대 방사선사, ‘괴롭힘’ 호소 뒤 사망",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147173",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"5·18은 무장 폭동\" SNS 댓글 쓴 20대 여성…검찰 송치",
-        "link": "https://n.news.naver.com/mnews/article/008/0005393443",
+        "title": "임상 연구비 명목으로 42억 ‘신종 리베이트’…의료기기 제조업체·대학병원 교수 6명 재판행",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147159",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산경실련 \"4대 항만공사 통합은 시대 역행…즉각 중단해야\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014097861",
+        "title": "검찰, '급식실 손가락 절단' 혐의 송치된 영양교사 기소유예",
+        "link": "https://n.news.naver.com/mnews/article/001/0016225442",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘헤어져도 안 끝난다’… 이별 경험자 절반은 폭력 겪었다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004147215",
+        "title": "'아동 성매매' 최영중 구속…경찰 수사 탄력",
+        "link": "https://n.news.naver.com/mnews/article/422/0000890719",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남광주 농업용 저수지 평균 저수율 59.4%…'평년보다 낮아'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016223288",
+        "title": "저녁 식사 중 천장 '와르르'…양평 음식점서 14명 부상",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340708",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-30 11:09"
+  "updated": "2026-07-30 13:06"
 }
