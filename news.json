@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "'배틀그라운드 모바일'에 '스파이더맨' 뜬다",
-        "link": "https://n.news.naver.com/mnews/article/031/0001046440",
+        "title": "LG CNS, LG전자에 ‘로봇 데이터 팩토리’…피지컬AI 대외 확장[컨콜]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006341113",
         "source": "네이버 뉴스"
       },
       {
-        "title": "애플, 최대 매출에도 메모리 가격 부담…시간외 6%↓",
-        "link": "https://n.news.naver.com/mnews/article/003/0014100295",
+        "title": "갤럭시 Z8 사전예약 절반이 1030…폴드8·크림색 인기",
+        "link": "https://n.news.naver.com/mnews/article/003/0014100093",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"김택진이 직접 상하이 뛰었다\"…엔씨 '아이온2' 중국 상륙",
-        "link": "https://n.news.naver.com/mnews/article/008/0005393854",
+        "title": "구글, '피지컬 AI' 속도 낸다…현장 투입 앞당길 '새 로봇 뇌' 공개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340851",
         "source": "네이버 뉴스"
       },
       {
-        "title": "알뜰폰 15년 만에 대수술…정부 “자체 설비 사업자 3곳 이상 육성”",
-        "link": "https://n.news.naver.com/mnews/article/028/0002816604",
+        "title": "애플, 제품 가격 인상으로 마진 압박 완화…투심 개선 기대[실적리뷰]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006341572",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SOOP, 2Q 매출 1038억·영업익 126억",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715019",
+        "title": "SOOP, 2분기 영업익 전년보다 58% 감소한 126억원…하반기 유저 유입 확대",
+        "link": "https://n.news.naver.com/mnews/article/014/0005555725",
         "source": "네이버 뉴스"
       }
     ],
@@ -56,18 +56,13 @@
     ],
     "AI": [
       {
+        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Tkh5XzJ2aTdlRHZLX0FDM1RfcnlMNHg3UnJxd2JPaDlnN2tGYzEwWHRZUXlzNkJoWXN1Y0EyUkhUZnI3ZDhtcEhLS0dsZnRyM28yZEhCY1EwZnc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "인공지능이 '안 들리는데 들린다' 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUzNxd2V0bU5BT0RmVENwX0xLb3doR18xdG9idUtVeWRSZEh5RjBmOHV1clMtbmdTeGFjelFxbXNsSEFIR0NZWldVc1pvQ1Z0cGhFYlppRzZkdENqVFpRcldKUjg0WFk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[기고] 인공지능의 수명 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNm9HaUt1S0FrbGxlSVY4WlJuSVl2dE92d2VfTm9zRHFNYUU1Vmd6ZDNFSWNkcXFUT21FeW8xM2hSTVVlMVlDMU1BYVlMRHRJLWY2SlhB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "구리시, 「인공지능(AI) 융합 메이커 교육」 수료생 19명 배출 - 일간투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83TjB6MmVaV1BaWmt1dGg1RnNmVjhrbThUTFRUekZFY3M2NUlqMDVxb29pMTVwSHhpY2xDSy13VWNYX3NEZ3NYa3NvWXh2UHhZa2VTMXlGVXBaSnRpQUdyOVZHem5UYXRBd3U0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Tkh5XzJ2aTdlRHZLX0FDM1RfcnlMNHg3UnJxd2JPaDlnN2tGYzEwWHRZUXlzNkJoWXN1Y0EyUkhUZnI3ZDhtcEhLS0dsZnRyM28yZEhCY1EwZnc?oc=5",
+        "title": "인천북부교육지원청, 인공지능(AI)과 인문·예술 잇는 교사 현장 연수 운영 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMRDl4NjI5Z0xrQ25yX3lKeV9nRE9fZEJRLUw4ZUlwdDlsVGVPa0x0TnpPMUQ0am9IUnlzUldiVU5zMGd1aGlUTThlNjF6LVJsNTRoaGV2VXZBa2dzZklsV04tVjliaVc1Q0VlRi03Nmo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[기고] 인공지능의 수명 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNm9HaUt1S0FrbGxlSVY4WlJuSVl2dE92d2VfTm9zRHFNYUU1Vmd6ZDNFSWNkcXFUT21FeW8xM2hSTVVlMVlDMU1BYVlMRHRJLWY2SlhB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘장윤기 사건’ 광산서 전 형사과장, 두 번째 구속영장 실질심사 출석",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990697",
+        "title": "경상남도 “밀양댐, 내일 ‘가뭄 경계’ 상향 전망”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012229370",
         "source": "네이버 뉴스"
       },
       {
-        "title": "병원 옮겨도 CT·MRI 새로 안 찍는다…내년부터 QR로 공유",
-        "link": "https://n.news.naver.com/mnews/article/421/0009089886",
+        "title": "경남 양산 41.4도 돌파…기상 관측 이래 최고 폭염",
+        "link": "https://n.news.naver.com/mnews/article/422/0000890996",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산 해운대, 문체부 글로벌 관광특구 선정…2년간 60억 투입",
-        "link": "https://n.news.naver.com/mnews/article/421/0009089740",
+        "title": "구자현 대행 “형소법 개정안 통과, 안타깝고 막막…사의 표명”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040049",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'이준석은 중국 공산당과 연관' 허위 글 쓴 누리꾼, 벌금 50만원",
-        "link": "https://n.news.naver.com/mnews/article/001/0016227697",
+        "title": "'폭염특보' 인천 백령도서 한때 정전…8시간만에 복구(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016227817",
         "source": "네이버 뉴스"
       },
       {
-        "title": "폭염에 온열질환자 수 1,600명 넘어…사망 2명 늘어 12명",
-        "link": "https://n.news.naver.com/mnews/article/056/0012228332",
+        "title": "경주, 첫 ‘글로벌 관광특구 육성사업’ 선정…외국인 관광객 300만 시대 목표",
+        "link": "https://n.news.naver.com/mnews/article/422/0000890881",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-31 17:05"
+  "updated": "2026-07-31 18:53"
 }
