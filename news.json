@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "구글, 로봇 구동 AI ‘제미나이 로보틱스2’ 공개…“매듭 묶기도 가능”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001183469",
+        "title": "삼성 폴더블 신제품 사전예약서 10~30대 비중 50% 넘어",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183500",
         "source": "네이버 뉴스"
       },
       {
-        "title": "데이터 폭탄 걱정 끝…알뜰폰도 ‘안심옵션’ 달고 유튜브 본다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006341089",
+        "title": "지퍼백 닫고 쓰레기봉투 묶어…제미나이 로보틱스2 공개",
+        "link": "https://n.news.naver.com/mnews/article/422/0000890855",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"별풍선에만 의존 안 한다\"…SOOP, UI 갈아엎고 신인 스트리머 키운다(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014101497",
+        "title": "SOOP, 2분기 영업익 전년보다 58% 감소한 126억원…하반기 유저 유입 확대",
+        "link": "https://n.news.naver.com/mnews/article/014/0005555725",
         "source": "네이버 뉴스"
       },
       {
-        "title": "양자컴 실용화 시대 임박했나… IBM, 슈퍼컴 넘어선 ‘양자 우위’ 입증",
-        "link": "https://n.news.naver.com/mnews/article/018/0006340516",
+        "title": "AI·클라우드 달고 날아올랐다…LG CNS, 상반기 매출 ‘3조’ 육박",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677775",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨, ‘차이나조이 2026’ 참가…‘아이온2’·‘아이온 클래식’ 출품",
-        "link": "https://n.news.naver.com/mnews/article/009/0005714984",
+        "title": "애플, 아이폰·맥 판매 호조에 '깜짝 실적'…시간외 주가는 4%↓",
+        "link": "https://n.news.naver.com/mnews/article/421/0009089529",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[비즈톡톡] 中, DUV 기술 자립 성공했지만… 14나노 이하 공정은 여전히 ‘벽’ - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1hPWFZId3pvOVY0RnNvZHBISWNpLTNvSzFtTWVBeU91Mi1WajdxVzh6cS1SYUotdEZDbFpzTGtWQ2ZxWngxbXQ4eE4yTThFZ054T2c1LW9BSEs3TFZ1bGgybGw0eVZsYTJaWFRWRVc3cGFsWjd5XzBNamU2Qi1QUlpR0gGWAUFVX3lxTE5qTU1sWGx6LTNGSlpYVEUwYnZSNk1EbENkcGFqdzBQaTZDeGFCQzFiNG1TWFp2ZG9tb3k4SDJmenZXN295NXpsa09feGNSeHpUX002ZUVTR2pMSUN2LVBzYU5uYzNNVmkwdGUyM0V3UEtIQUhyMHBjZUZMTlRRMnJNbTNUa3lmYnJmSEdDaXpyOHNZX1o1Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "코스피 사상 최대폭 하락…반도체 최악의 날 [퇴근길 30초 경제] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Uld5MVExeUI2SzhSdERybGdfcUVoR3NkUXVMQmxQWHNZT1FFcGpGcU1QcFdFNE5ZODdiMENtTDBCN25ncTZua3JCb3R2LXlOU2ZiRU5raXlMdw?oc=5",
+        "title": "삼성 기술 빼가며, D램 공백에 급성장‥CXMT, '삼전·닉스' 위협하나? - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Q1VvNWFjNG5nSEZXek00QjZGNUFkSUQ2Nkl3Tk9NYm43ZVM2VFNhMEwzRGhLeW80Nkg3ODd0SmNydG5TNXZld21LZm41a0NPTFBCeEJGRDhaQ2pzU2NtOGtmU2xHdE5vakhZLVJWM29xeTY2OTFLRg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,25 +39,30 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전남광주시, 반도체 클러스터·고수온 대응 현안 점검 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43TDYyMUFnRlJvNm1hV1JGb0JnZC16MkJQcFprWUhmeGMzZlVocDhFbm5LRjR4LWNyQlp1djlERmZJTHV3Skw1ZnVsSGRuelljX1E5VHl5Sno2MTjSAWBBVV95cUxOd0ZfaExPZ1VveFE2U083bEExblJ6VFZjNWJDT0ZucDRFRVh1Nnd3OFVFS05pTWRFMmF0UTNkQldScnRhRXdUb2ZkQ3lVVU5lVnJrTlUxbzFmREE3a25nb2M?oc=5",
+        "title": "[비즈톡톡] 中, DUV 기술 자립 성공했지만… 14나노 이하 공정은 여전히 ‘벽’ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1hPWFZId3pvOVY0RnNvZHBISWNpLTNvSzFtTWVBeU91Mi1WajdxVzh6cS1SYUotdEZDbFpzTGtWQ2ZxWngxbXQ4eE4yTThFZ054T2c1LW9BSEs3TFZ1bGgybGw0eVZsYTJaWFRWRVc3cGFsWjd5XzBNamU2Qi1QUlpR?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[사이다] ② 150℃ 온도에서 반도체 쌓는 제조기술 개발 - YTN 사이언스",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxIZ0tJemlwcXNUQXY5WndnSnJFcFprRzdiRDlUSWFuQlNHNmsyQkZ3cHM3M3MyR195Vk5wRndsa283dmVvZXFZS3lkUUs4VTJ3UlN1dUE3bGY3SzlWZ0ZTQ1lKOVFyZTdIdlNiWXdDbnJOMzhuTlQ3Wmdia1hPOWJSaTExVGhZT3prTA?oc=5",
+        "title": "[속보]삼성전자 반도체로만 89조원 벌었다…2분기 반도체 영업이익 89.5조원 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZOE85eVJvVkV6M0lFcmVaeTdBVDZCeEZHTHZJUF9BMFVjTzJ0a3JVbUZpbHFXakRhZWJudUVxS1FnQ200bzg5VzBFVU1nM1ZSd1phX0hDel80QdIBX0FVX3lxTE5PVnBKNGtwQ2ZEemhMaXdDWjMxSWtGOEcwR2otWkU1V3dqcmZHVm51b0U0TnA2aktrT2tzZlRyZVB4aG5zbXZCRWVJR1J3R3FscGNkOWZUb1VCM2UzamRR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성전자, 사상 최대 2Q 실적 발표…반도체 피크아웃 우려 종식 주목 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VQTZTUWkwTTFzTlZKWG1QNEozbnZ4d1lEWnE3cFY4RWEyMGRudzc1cEFOUWZhZDcweHZJQXp1aE5jX25zN2xORmJWWlBSR0liMTE2Qw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Tkh5XzJ2aTdlRHZLX0FDM1RfcnlMNHg3UnJxd2JPaDlnN2tGYzEwWHRZUXlzNkJoWXN1Y0EyUkhUZnI3ZDhtcEhLS0dsZnRyM28yZEhCY1EwZnc?oc=5",
+        "title": "인공지능이 '안 들리는데 들린다' 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUzNxd2V0bU5BT0RmVENwX0xLb3doR18xdG9idUtVeWRSZEh5RjBmOHV1clMtbmdTeGFjelFxbXNsSEFIR0NZWldVc1pvQ1Z0cGhFYlppRzZkdENqVFpRcldKUjg0WFk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능이 '안 들리는데 들린다' 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUzNxd2V0bU5BT0RmVENwX0xLb3doR18xdG9idUtVeWRSZEh5RjBmOHV1clMtbmdTeGFjelFxbXNsSEFIR0NZWldVc1pvQ1Z0cGhFYlppRzZkdENqVFpRcldKUjg0WFk?oc=5",
+        "title": "시흥시, '복지행정 인공지능(AI) 정책실험실' 공모 선정…인공지능 기반 복지행정 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Tkh5XzJ2aTdlRHZLX0FDM1RfcnlMNHg3UnJxd2JPaDlnN2tGYzEwWHRZUXlzNkJoWXN1Y0EyUkhUZnI3ZDhtcEhLS0dsZnRyM28yZEhCY1EwZnc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[기고] 인공지능의 수명 - zdnet.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNm9HaUt1S0FrbGxlSVY4WlJuSVl2dE92d2VfTm9zRHFNYUU1Vmd6ZDNFSWNkcXFUT21FeW8xM2hSTVVlMVlDMU1BYVlMRHRJLWY2SlhB?oc=5",
+        "title": "인천북부교육지원청, 인공지능(AI)과 인문·예술 잇는 교사 현장 연수 운영 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMRDl4NjI5Z0xrQ25yX3lKeV9nRE9fZEJRLUw4ZUlwdDlsVGVPa0x0TnpPMUQ0am9IUnlzUldiVU5zMGd1aGlUTThlNjF6LVJsNTRoaGV2VXZBa2dzZklsV04tVjliaVc1Q0VlRi03Nmo?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "관세청, 인공지능(AI)과 관세무역데이터로 창업 아이디어 싹틔우다 - gnnnews.kr",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5paGUtUXdoMXdxNmJpTFdXdXJQeHkwVjdCQ2tQdFNEeWVOb1lZZTRoWW5OakVlbGNuVmRKRUhuVlNnYVU?oc=5",
+        "title": "[기고] 인공지능의 수명 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNm9HaUt1S0FrbGxlSVY4WlJuSVl2dE92d2VfTm9zRHFNYUU1Vmd6ZDNFSWNkcXFUT21FeW8xM2hSTVVlMVlDMU1BYVlMRHRJLWY2SlhB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "강남 아파트 놀이터에서 흉기 꺼낸 초등학생…경찰 출동",
-        "link": "https://n.news.naver.com/mnews/article/028/0002816657",
+        "title": "‘李대통령 명예훼손’ 모스탄, 출국정지 취소 소송 패소",
+        "link": "https://n.news.naver.com/mnews/article/081/0003666503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "생후 7개월 아들 굶겨 숨지게 한 20대 부부…구속기소",
-        "link": "https://n.news.naver.com/mnews/article/029/0003040023",
+        "title": "강남 놀이터서 초등생 다툼에 ‘흉기’… 경찰 “경위 조사 중”",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147474",
         "source": "네이버 뉴스"
       },
       {
-        "title": "내란·종합특검 또 ‘기싸움’…박성재 공소기각 놓고 ‘핑퐁’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001864290",
+        "title": "'41.4도' 경남 양산, 기상관측 사상 최고…곳곳 폭염중대경보",
+        "link": "https://n.news.naver.com/mnews/article/437/0000503966",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구자현 검찰총장 직무대행 사의…“형소법 개정 안타깝고 막막”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003738046",
+        "title": "정부 첫 '글로벌 관광특구'에 해운대·경주 선정… 2년간 60억 투입",
+        "link": "https://n.news.naver.com/mnews/article/469/0000945529",
         "source": "네이버 뉴스"
       },
       {
-        "title": "④ 검사 직접 영장청구권 사라져…위헌성 등 문제조항은[형소법개정]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016227319",
+        "title": "강원선관위, 제9회 전국동시지방선거 보전액 200억여원 지급",
+        "link": "https://n.news.naver.com/mnews/article/001/0016227468",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-31 12:26"
+  "updated": "2026-07-31 15:00"
 }
