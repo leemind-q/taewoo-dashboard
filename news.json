@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "\"접으면 여권 크기\"…삼성 '갤럭시 Z 폴드8', 1030 사로잡았다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003117010",
+        "title": "SOOP, 2분기 영업이익 126억원…전년比 57.9%↓",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394103",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "아이폰·맥 공급난 현실화… 애플, 환율 악재 겹쳐 먹구름",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236210",
         "source": "네이버 뉴스"
       },
       {
@@ -12,18 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨, '차이나조이 2026' 참가... 아이온2, 아이온 클래식 2종 출품",
-        "link": "https://n.news.naver.com/mnews/article/030/0003453086",
+        "title": "엔씨, 中 셩취게임즈와 '아이온2' 현지 출시 협력…차이나조이서 첫 공개",
+        "link": "https://n.news.naver.com/mnews/article/119/0003117004",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SOOP, 2분기 실적 급감…\"스트리머 유입·생태계 활성화 집중\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797457",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "아이폰·맥 공급난 현실화… 애플, 환율 악재 겹쳐 먹구름",
-        "link": "https://n.news.naver.com/mnews/article/138/0002236210",
+        "title": "예약 첫날부터 난리더니…\"로켓배송도 대기 한 달\" 갤폴드8, MZ 홀렸다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394212",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,29 +34,29 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“팔기엔 늦었다”“이때는 사라” 전문가 10인 삼전닉스 전망 [반도체 긴급진단] - 중앙일보",
+        "title": "“팔기엔 늦었다”“이때는 사라” 전문가 10인 삼전닉스 전망 [반도체 긴급진단] - joongang.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0OWR1emlaVzFqYTJ1M2dvWEFyeV9TSTVnaFdGWnRPZlBtbXBvLU9pM1pkMkk4Tkg2bjZSb3VVVzN6eXhQSnZEeXNHa0xfV0hXZUZJTWNn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[똑소리E] 삼전닉스 뒤흔든 '뉴스 2줄'…중국, 반도체 '성역' 정말 뚫었나? - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IWTBNaU5YQ2k2dHpmNE9Vb3ZpQXo2a0NNSWs3TnQ2MlNTakJHSUU3YXlJT1ZUdjktbHIxbVVZVmw4X0p4ZXc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼전닉스 반도체, 귀한 몸값만큼 수출도 선박이 아닌 비행기 타네 [현장 화보] - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WNGlSWXVEQUZJcVQwWTNJbmdjbDAyZDJPVDJ3Ymg5SmZxMVAwOXlRc0t4TUg0VmRrVjZubE5saWd0UUZVM3BHMWk2RENtOS1iV1pzM0xobVNld9IBX0FVX3lxTE43bGpYSURhZXgzRmFEb2E1cGFrcjlzUzdaZHJrMElzdl9CZ2RnSWpiUTFGMWdNTE4xYjBIcUt0NjBHYVVfZEpsMDhqQ0I2OHlGZ3RFN2ctcHNhLUhxYXpN?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "반도체 호황에 수출 질주…7월 989억달러 '역대 7월 최대' (종합) - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bFdSZ0E5RGI2eXZIRFc0SUxrR3k3RDIyVUJkbTdxcHFINjJ6dEF3OEg0QnV4Q0VUUlFwTjRyOWFMclRHck1NRW8zc2lrS3c?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "\"지수 폭락에 속지 마세요\"…\"반도체 흔들릴 때 여기로 갈아타세요\"[주末머니] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NN1JUWDhqOGNXZ0k4YTJnbXRLQ3FMUi1hTDJVZUZSZGwxQWZyQVVBT3NFcHIyWDdSN1AxMUFZVzFtd0dScXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 넘어 소부장까지…'뉴노멀' 된 장기공급계약 - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCQlcwajNyRzI2SGZZWEJTWmVlc2VndmNVRU1lOWh6VnU5SkNwUWRwbkJtNml1WENCT3J5UjFBYW5IdXYxQzNQdzZ1YlR3RXotSmllX2p4ZWxsaW_SAWBBVV95cUxOM283dlBfY3NoVE9XVEZSeTdNV3RmWWl1NmQtalFJZkc5Z0N0NG1HUXBYaU5nbUdJSnNnUGFFUWZwRDZoczZRczZRelpKdmdvMVMtVUtINWJrUjBXQ0gtRTk?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "‘AI 환각’ 빠지면 답 없다…인공지능, 의사 대신할 수 없는 까닭 - 중앙일보",
+        "title": "‘AI 환각’ 빠지면 답 없다…인공지능, 의사 대신할 수 없는 까닭 - joongang.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sSDhMY1Y2UlMxaGFYVUxSckhMSXduc0luc1JDS1otMTUzRWhTaGlRZ1hLcGFRWTdsSmdfRWczcUtHSDJZbHFoTjVadHQ3MnpEaGt6eVl3?oc=5",
         "source": "구글 뉴스"
       },
@@ -66,8 +66,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[테크톡노트] AI 네이티브 시대…'AI를 붙이는' 것만으론 부족하다 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NQkJlWVF3c1R4NnBYb1k4VHQ5RUdLaEdkMGxONVFwUjVXTS1vbUwxdDNPQ3pCRWozbDZDRWJTQkdGSEM2S09iYWZTanFUV2JyWHpodXFqbW53X1FBYVFjOdIBYEFVX3lxTE1NQkJlWVF3c1R4NnBYb1k4VHQ5RUdLaEdkMGxONVFwUjVXTS1vbUwxdDNPQ3pCRWozbDZDRWJTQkdGSEM2S09iYWZTanFUV2JyWHpodXFqbW53X1FBYVFjOQ?oc=5",
+        "title": "뒤바뀐 AI 왕좌…WSJ \"오픈AI 챗GPT 공들이다 앤트로픽에 추월\" - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vamYtM3ZjYmxZeTQ2YjhEZnpSMW9qR1hEMW1oZXBwWlJlanEzUHU1amlCU0JtR2NocjFtU2F4TV96M3VWQU80X3NhclJ5UjVqa2ZtOV90S29hN0HSAWBBVV95cUxPMWprTlAxUUVmcTBPQXlmOFZrNHFPMjBBb0llMU41UGYwVkd4M0x0X0ZzZS1majFaYkg2UTU3VnF2T3ZmVHBDT2NCN1BRUUpnUXdmWW9MQmZMSTlsaUE5SWg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "양현상 박사, 한국인공지능기술산업협회 이사 위촉… AI·방산·우주산업 융합 가속화 기대 - 한국AI부동산신문",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zUTJiWVdoNjJHNzhEa0h3UU1sOHVCUFhIN0M1TjdWNkNGemlaMzhUUTlGZVVIUF9TLTY0QUJBeWRscVB5MThSMVZMdWs?oc=5",
+        "title": "성균관대 의학과 김대식 교수 공동 연구팀, 인공지능(AI) 유전자 가위 효율 최대 36배 높인 혁신적 진화 성공… 차세대 유전자 치료의 길 개척 - 국민뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kUW1tRWtBcWJLUnFWMElQWGw5cDltQkRrOHp2TzBIZlJHMWNhMGlVcUdHR3pSOEliWWtZT3pZVXlhekE1ampQWkJ3?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘너무 더워서 경기 못합니다’···프로야구 부산 사직·창원 경기 ‘폭염 취소’",
-        "link": "https://n.news.naver.com/mnews/article/032/0003461695",
+        "title": "부산서 첫 온열질환 추정 사망자 발생…사하구 20대 숨져",
+        "link": "https://n.news.naver.com/mnews/article/079/0004174450",
         "source": "네이버 뉴스"
       },
       {
-        "title": "야생 까마귀 일주일 키운 40대 여성, 벌금형 선고유예",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990863",
+        "title": "피해자·학계 “보완수사 필요” 외침에도 강행…법조계 “곳곳이 독소조항” [서초동 야단법석]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647598",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경남 양산 기온 41.6도…‘역대 최고 기록’ 또 갈았다",
-        "link": "https://n.news.naver.com/mnews/article/016/0002678191",
+        "title": "오세훈, 야간경제 1호 '한강 밤핑' 개장 점검[서울]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002387235",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"소주 2병 마셨지만, 운전하겠다\"...휴가철 음주단속 적발",
-        "link": "https://n.news.naver.com/mnews/article/052/0002387512",
+        "title": "경산 아파트 방화 피해 사망자 2명으로 늘어",
+        "link": "https://n.news.naver.com/mnews/article/422/0000891140",
         "source": "네이버 뉴스"
       },
       {
-        "title": "38도 넘는 폭염 땐 집 안도 위험지대…‘자택 온열질환’ 비중 두 배",
-        "link": "https://n.news.naver.com/mnews/article/021/0002808492",
+        "title": "자기 팔 고의로 자르고 \"산재\"...1억 보상금 받아낸 30대 최후",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394216",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-01 15:39"
+  "updated": "2026-08-01 17:02"
 }
