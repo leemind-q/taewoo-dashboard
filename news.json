@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "\"아이폰 대신 갤럭시\" 한국 1020 돌변 이유가…'깜짝 결과'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005316238",
+        "title": "로봇이 매듭 묶고 서로 협업까지…구글 새 인공지능 모델 공개",
+        "link": "https://n.news.naver.com/mnews/article/057/0001961474",
         "source": "네이버 뉴스"
       },
       {
-        "title": "애플, 아이폰 22% 급증에 '깜짝 실적'…서비스 부진에 시간외 하락",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555458",
+        "title": "애플 '아이폰 17' 대박에 역대 최대 매출…글로벌 주요국 '신기록'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006341354",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 알뜰폰 통신시장 메기로 키운다…자체설비 사업자 중심 재편",
-        "link": "https://n.news.naver.com/mnews/article/030/0003452916",
+        "title": "삼성 “갤럭시Z8, 사전예약자 과반이 10~30대”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647272",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SOOP, 신규 스트리머·AI 앞세워 생태계 재정비…“본업 경쟁력 회복 집중”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004647422",
+        "title": "적자 늪 빠진 1000만 알뜰폰…정부, '설비 투자' 사업자만 밀어준다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006340905",
         "source": "네이버 뉴스"
       },
       {
-        "title": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진",
-        "link": "https://n.news.naver.com/mnews/article/023/0003990574",
+        "title": "SOOP, 2Q 매출 1038억·영업익 126억",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715019",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체 드디어 바닥 찍었나? \"역대급 폭등장에 너무 취하면 안 돼\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxa19uRko1OXRVTTZNRDZiOUViUmUwdERLZDlkQnA5dHRIcFVZSmY1bEo2Y2pkY0R1LVV2V3NDdW8wSGFjVlZGV1djVzJYUDUxbEpTOUpHQnBjV2J5UjNUbXVEZ09RUWpEbS0wWFM3bzZhdDZCSUZjUA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "기술 부족한 中 반도체가 무서운 이유…여기에 있다 [테크토크] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FalJLQW1saHlhN1NsWi1sLWI5MnBteXZ1QnVWWExITW9GNHJxOGRiZ0ZTZk13ZUFqQldvQmYzTFV0N2xXRUF1VG5BN3ZCQzQ?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[비즈톡톡] 中, DUV 기술 자립 성공했지만… 14나노 이하 공정은 여전히 ‘벽’ - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1hPWFZId3pvOVY0RnNvZHBISWNpLTNvSzFtTWVBeU91Mi1WajdxVzh6cS1SYUotdEZDbFpzTGtWQ2ZxWngxbXQ4eE4yTThFZ054T2c1LW9BSEs3TFZ1bGgybGw0eVZsYTJaWFRWRVc3cGFsWjd5XzBNamU2Qi1QUlpR?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "일본 반도체주도 하락…CXMT 상장에 노광장비 생산 후폭풍? - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZGd4b2tJUC02ME1UYURxUGZrVjdBVGQxZHJjZ0phY1lUb1h3ZzZHZll4cmxvbVNxV25udlJFcnUzQWJYeUhmc3Y4N0dsMmtlaDZnTzdTeW1xRWc?oc=5",
+        "title": "[속보]삼성전자 반도체로만 89조원 벌었다…2분기 반도체 영업이익 89.5조원 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZOE85eVJvVkV6M0lFcmVaeTdBVDZCeEZHTHZJUF9BMFVjTzJ0a3JVbUZpbHFXakRhZWJudUVxS1FnQ200bzg5VzBFVU1nM1ZSd1phX0hDel80QdIBX0FVX3lxTE5PVnBKNGtwQ2ZEemhMaXdDWjMxSWtGOEcwR2otWkU1V3dqcmZHVm51b0U0TnA2aktrT2tzZlRyZVB4aG5zbXZCRWVJR1J3R3FscGNkOWZUb1VCM2UzamRR?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 넘어 소부장까지…'뉴노멀' 된 장기공급계약 - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCQlcwajNyRzI2SGZZWEJTWmVlc2VndmNVRU1lOWh6VnU5SkNwUWRwbkJtNml1WENCT3J5UjFBYW5IdXYxQzNQdzZ1YlR3RXotSmllX2p4ZWxsaW_SAWBBVV95cUxOM283dlBfY3NoVE9XVEZSeTdNV3RmWWl1NmQtalFJZkc5Z0N0NG1HUXBYaU5nbUdJSnNnUGFFUWZwRDZoczZRczZRelpKdmdvMVMtVUtINWJrUjBXQ0gtRTk?oc=5",
+        "title": "삼성전자, 사상 최대 2Q 실적 발표…반도체 피크아웃 우려 종식 주목 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VQTZTUWkwTTFzTlZKWG1QNEozbnZ4d1lEWnE3cFY4RWEyMGRudzc1cEFOUWZhZDcweHZJQXp1aE5jX25zN2xORmJWWlBSR0liMTE2Qw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체가 떠받친 삼성, 사업 다각화가 이끈 LG - IT조선",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZTNTWXV5cGRCU2x5cmJ1QmJDNHkzLVBMSnV3SFJtZ3EyVFdhcTZZeTd3QS1OQ051QWRjSGszd2pQbXoyNkx6OUF6dzZxTVlZY0tleDd4M0otcFpPeTRYMF9ySk0zZ2tLanNxNFNCTDjSAXRBVV95cUxPSEdlMUgwNjlnLTdZLUNPRUdKaVFKcGFKbjFIUEhtTXhBMlQyTFd0cUoyUGYwWVZHY0dZZGdhUHBiSFlIdWExMUpiT2V5Y3J3dTg0MXBOSFptckZTd0M5ZHVoVnNnMU9GLXlPTy1yX29SVWVYVA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "7월 수출 989억달러로 62.8％↑…반도체 410억 달러 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSFZnUU1fQnZuSUpIRnpOX0h5OFYwMzQ2dGhpaTNONHJFdVIxLWV2UXJsbEtDM1pkeFoxRUQwSV96cXBpREdmWC1taUE1SGM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "오픈AI, 활성이용자 10억명 달성…출시 3년 8개월만 - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtbkhPM3RBOENaMjR0Mno4RlExUWQxVmlMOEQ0bXY1Q3NNVUlsejcydVFQZUZxMnpxUHRRcDZwWDJNNnB4SVlPT2ZTNXRTaG55SlVta1FNNkVTRk3SAWBBVV95cUxQOXctbjJ3ckpxVGJxVGppYzhSZk9hWUNWMDItTFU4YTBrWW9hc21iZG1QbWZLTGZxN1FIZHlkRGo4ZVRJT0NzYnRPaHZDanA3V1E4U1RxNktRRXpjUDh3R1E?oc=5",
+        "title": "오픈AI ‘챗GPT’, 활성 사용자 수 10억명 돌파… ‘가격 인하’ 승부수 통했다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYk9FalBNdWFWMGpHT1JFQm9WLVdfSHY0dzF4TVRqenVVVmxHUWNxb0lmakRJLUF1Rll0d2R6YXR0c1hlMzNIR2FyUFVIOFJtUUdEUzV5ZkZqNmUtVzFCanhmck5BVzFFd0hXZVF5dFFRZlVkdVNKcjVVaGNJbUo1SWRlbw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "오픈AI, GPT 모델 통제이탈 사례 추가 발견…내부 조사 확대 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OUWhnbnBNaWdBMTRyV0E3U185M0VmV1J3UG9fenlmaURYSEhiUWc4WUl2VG1fSzB2dHJjMDVLR1Z0Sm96anl4UkxwQzJIZU44OFZ0N3U0VVpJVEXSAWBBVV95cUxPcnZqSXBCcjl0WHZqSTV6RHl5SEEzRV9NTWZ6YUliMmRrd3Z6alQxYktFNGxkZzQxS2tMVVI5WFJsdEltN0hTcmVrMERYeE12dlFmWWVmU3I3RmxtcWxCbWU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능(AI) 대전환 선포에 이어 이젠‘챔피언’선발! - 구미뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQal8tajdkRV9xZnFNc0tYWE5rWFFYdjlJVUlfeWh6Q1FkaUFEaU56UWJnWGJtZVRZaEJHUV9XRHNuZ2pxZDhvVGVScTFaN3p3aW1aWktpSGY1dVAtNUVKRERFQ2RaUzNTNDFycUJfTE83T3NQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[기고] 인공지능의 수명 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNm9HaUt1S0FrbGxlSVY4WlJuSVl2dE92d2VfTm9zRHFNYUU1Vmd6ZDNFSWNkcXFUT21FeW8xM2hSTVVlMVlDMU1BYVlMRHRJLWY2SlhB?oc=5",
+        "title": "인천북부교육지원청, 인공지능(AI)과 인문·예술 잇는 교사 현장 연수 운영 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMRDl4NjI5Z0xrQ25yX3lKeV9nRE9fZEJRLUw4ZUlwdDlsVGVPa0x0TnpPMUQ0am9IUnlzUldiVU5zMGd1aGlUTThlNjF6LVJsNTRoaGV2VXZBa2dzZklsV04tVjliaVc1Q0VlRi03Nmo?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "경남이 끓고 있다…\"생명 위협 수준\"[오늘날씨]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006340792",
+        "title": "[속보] 형소법 개정안 통과에 구자현 검찰총장 직무대행 사의 표명",
+        "link": "https://n.news.naver.com/mnews/article/002/0002450555",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구자현 총장대행 사퇴…\"검찰 제도 본질 훼손\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000891130",
+        "title": "경산 아파트 방화 사건 치료 받던 50대 관리직원 끝내 사망… 사상자 총 7명",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147493",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경남 양산 41.4도…기상 관측사상 최고",
-        "link": "https://n.news.naver.com/mnews/article/015/0005316155",
+        "title": "“호화 주택 월세에 사교육비까지”…무려 23억 횡령한 경리, 감형받은 이유가",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647492",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘택시비 먹튀에 지구대 난동’ 춘천시의원 공개 사과…“깊이 반성”",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715035",
+        "title": "8월부터 서울 전기차 완속 충전요금 저렴해 진다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003666513",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경주, ‘글로벌 관광특구’ 선정…“외국인 관광객 300만 시대 열 것”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002808219",
+        "title": "“숙취운전도 음주운전”…휴가철 집중 단속",
+        "link": "https://n.news.naver.com/mnews/article/056/0012228986",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-07-31 23:03"
+  "updated": "2026-08-01 01:03"
 }
