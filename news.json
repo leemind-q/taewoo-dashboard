@@ -2,42 +2,32 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 러너 사로잡을 신규 제품·혜택 선보인다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004647787",
+        "title": "오픈AI, 美규제당국 대상으로 새 AI 모델 ‘아스트라’ 비공개 시연 [이규화의 글로벌AI]",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "햇빛 자율방제 수상 로봇 세계 최초 개발...수질관리 활용기대",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555956",
+        "title": "햇빛만 있으면 녹조 잡는다…KIST, '무전원 자율방제 수상 로봇' 개발",
+        "link": "https://n.news.naver.com/mnews/article/421/0009092523",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한 손에 쏙, 펼치니 태블릿…갤Z폴드8 성능·디자인 다 잡았네 [IT써보니]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005556039",
+        "title": "SKT, 러닝 고객 공략…가민 워치·샥즈 이어폰 출시",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“아이 게임기·PC 선물, 허리 휩니다”…이제 구독제로 즐긴다는데",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715634",
+        "title": "오픈AI '챗GPT' 이용자, 10억명 돌파…페이스북보다 2년 빨라",
+        "link": "https://n.news.naver.com/mnews/article/448/0000630769",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI 월간 사용자 10억명 돌파…기업 고객 200만곳",
-        "link": "https://n.news.naver.com/mnews/article/018/0006342588",
+        "title": "“하루 남았다” 3일까지 193만원→78만원…파격 할인에 난리난 삼성 ‘신제품’",
+        "link": "https://n.news.naver.com/mnews/article/016/0002678424",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "“반도체 올인한 죄”…잘나가던 집중형ETF, 폭락장에 -30% 역풍 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTW9GNWNxSkR3Z2pkZGdndnZWZ3pPN2kyNG5ZZ1FPMGhKRnVDdm5WMnV0c0xoU0Z5Z3RyMEZoSUFZcENXeWJaOU5nNHVYQnpDTVE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[똑소리E] 삼전닉스 뒤흔든 '뉴스 2줄'…중국, 반도체 '성역' 정말 뚫었나? - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IWTBNaU5YQ2k2dHpmNE9Vb3ZpQXo2a0NNSWs3TnQ2MlNTakJHSUU3YXlJT1ZUdjktbHIxbVVZVmw4X0p4ZXc?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "삼전닉스 4755조원 국내 투자, ‘글로벌 반도체 초격차’ 승부수 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tczNucHhuVi1uOVVINFBfQzhQM1kwcVk5RGVYSE5BRGRIczNkYjYwcVIzYTlvb25ET19NbkZUSmtTcjNmdkNmNllfMDVTakgxZWZGd0s0U3k2LUdyb3NGaG9URm9uanBENU5iZS03QWhwZw?oc=5",
@@ -51,6 +41,16 @@
       {
         "title": "[중국증시 주간 포인트] ②Ai4 2026, FMS 2026 AI∙반도체 행사, 화웨이 신제품 발표회, 양자컴퓨팅∙리튬∙전력 관련 대회, 국내외 기업 실적발표 - 뉴스핌",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMXRTYVFJZHpSelVSNEh3X0NzUUlWSWo4VUQzbVRjdGFkdHQ1UDBILTZfazBib0JWeW5weUVscUNLLTBERHJWWmlCdW8zVnNJT1oxSDFoOTZYemZs?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[N% 후폭풍]⑧\"반도체 로또, 오래 안 가\"…노동계도 부작용 우려 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyWjlVQVR6aHpDWkpOU01CNW1vNXhoVm94aXk2aUJSLTB4Tjg1QmZLcTZYdm9TYTQtYWpFd3lsWkRfaUxYa1phN2FNUnN5bVE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“SK하닉, 내년 상반기까지 신고가 시도할 것” 증권가, 반도체 고점 아직 - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Zm5rSWJ4M25NOVd6TXpCVWNpVjVKUnR3WTVJakNzQUpjWEJVYkpsMTRYQUxRZEtoUEpBU1FySzJmWHQxbkdtZnJfb05RRWhV?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,7 +66,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시, ‘복지행정 인공지능(AI) 정책실험실’ 공모 선정 - 경기신문",
+        "title": "시흥시, ‘복지행정 인공지능(AI) 정책실험실’ 공모 선정 - kgnews.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yOTg0enUtV3BPbWgycFR2UnE0blV4Vi0wRktPanRFeGtfRzJULWU4XzkxMHlfcEJlY0F2T1NOSm15VFBaWVpOc2xKN1JhY1RUTU8tclJsSHRTeVlnUzNFTFlVTF8?oc=5",
         "source": "구글 뉴스"
       },
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "경남 양산 닷새 연속 40℃…국내 기상 관측 이래 최장 기록",
-        "link": "https://n.news.naver.com/mnews/article/119/0003117367",
+        "title": "법원 \"최대주주 대표이사 '80억 상여금'은 이익 분배... 과세 정당\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005555974",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"김 대리, 휴가 중 미안한데\"…이 카톡에 절반이 노트북 켰다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394495",
+        "title": "양산서 오전부터 '40도 더위'…닷새째 이례적 더위 기승",
+        "link": "https://n.news.naver.com/mnews/article/018/0006342358",
         "source": "네이버 뉴스"
       },
       {
-        "title": "펄펄 끓는 한반도, 노인 건강 &#x60;빨간불&#x60;…정부, 전방위 대책 수립",
-        "link": "https://n.news.naver.com/mnews/article/018/0006342687",
+        "title": "남부권 최고기온 39도 폭염 계속‥서울 35도",
+        "link": "https://n.news.naver.com/mnews/article/214/0001515353",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전직 검사들 \"李대통령, 보완수사폐지법 거부권 행사해야\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000891527",
+        "title": "밀양댐 가뭄 '경계' 격상…낙동강·밀양강 대체공급으로 용수 비축",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797687",
         "source": "네이버 뉴스"
       },
       {
-        "title": "외국인 마약사범 다시 증가… 절반이 밀수·판매",
-        "link": "https://n.news.naver.com/mnews/article/005/0001864462",
+        "title": "푹푹 찌는 제주…변수는 ‘강력 태풍’ 돌핀",
+        "link": "https://n.news.naver.com/mnews/article/056/0012229774",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-02 16:02"
+  "updated": "2026-08-02 17:32"
 }
