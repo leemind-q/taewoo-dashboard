@@ -2,61 +2,61 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, ‘러닝족 인기템’ 가민·샥즈 제품 출시",
-        "link": "https://n.news.naver.com/mnews/article/366/0001183827",
+        "title": "'뇌 신호 차단' 암 악액질 치료 새 전략…\"생존율 향상 확인\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797669",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 차세대 AI모델 '아스트라' 예고…\"수학 난제 10개 해결\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016229604",
+        "title": "SKT, 1000만 러너 겨냥 ‘런메이트’ 확대…가민·샥즈 도입",
+        "link": "https://n.news.naver.com/mnews/article/018/0006342286",
         "source": "네이버 뉴스"
       },
       {
-        "title": "출시 3년8개월만에…오픈AI, 활성이용자 10억명 달성",
-        "link": "https://n.news.naver.com/mnews/article/031/0001046618",
+        "title": "오픈AI, 美규제당국 대상으로 새 AI 모델 ‘아스트라’ 비공개 시연 [이규화의 글로벌AI]",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "뇌 속 핵심 신호 차단으로 암 환자 마르게 하는 '악액질' 잡았다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009092353",
+        "title": "누리호 5차 발사 10월로 연기...군집위성 추력기 영향",
+        "link": "https://n.news.naver.com/mnews/article/660/0000114374",
         "source": "네이버 뉴스"
       },
       {
-        "title": "누리호 5차 발사 10월로 연기…\"탑재 위성 성능 보완\"",
-        "link": "https://n.news.naver.com/mnews/article/057/0001961618",
+        "title": "순위 바뀐 AI 왕좌…WSJ \"오픈AI 챗GPT 공들이다 앤트로픽에 추월\"",
+        "link": "https://n.news.naver.com/mnews/article/374/0000525015",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZkVNUTJhRFdLTVpFak1PRThkdk14R1paYnh6Skkwc2tEaVdleWpfTEZ6ZXh0UnRmZ25kUjY0bi1ySmgtUDdsMmlKZ1JjNEIxTW9wMWRB?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"데이터센터 칩 교체주기 5년…반도체 성장 수십년 지속될 것\" - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFX1NHalpUZzhGd1BWZmFTTWpsV0dFZjQ3anVOQnV5OUJodmVuS3liQTBpMktVRWNkQmlpQ3BOdUpVX1dBYlFpVk5SZkFaQms3S1dFaFk0dDU5QQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 드디어 바닥 찍었나? \"역대급 폭등장에 너무 취하면 안 돼\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxa19uRko1OXRVTTZNRDZiOUViUmUwdERLZDlkQnA5dHRIcFVZSmY1bEo2Y2pkY0R1LVV2V3NDdW8wSGFjVlZGV1djVzJYUDUxbEpTOUpHQnBjV2J5UjNUbXVEZ09RUWpEbS0wWFM3bzZhdDZCSUZjUA?oc=5",
+        "title": "VR로 배우는 반도체…시흥 해양생태과학관 체험전 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92cW9vUDh5UkVCUDVtdmdycUFoUmZFZ19pWnN5bWVMOUVKUnpRZTdEZ2xUeHJkSVZDUEFqM3VoOEZWeDdkc1RqdGs0MEVMbElzQTIwQUowa1d0UGc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBybzdDbXFSQ3pOdDdRVlVXLUNlMHEyYVZJYmNUVHc5R0I4YkNZaFUzSW5UUm1mVTY1SU9KOWxMRHlDTXVZZ1RSMTF1OXp4ay1EZkNXaUJB?oc=5",
+        "title": "코스피 18% 폭등 뒤 美 반도체는 제자리…월요일 ‘2차 숏커버' 시험대 - 녹색경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5leEZXWldzTTdoZnVqRXR6UnZWZ3I2dmQ0R294dlEzSXdjSWItVjY4Q1QyZVlxY1gxaGZvUmNNYm1nMFpRS0lZM2ZsWkVhdWtfMFd0VGFKZmtFNkYySjVHNG8xNHlYVFI3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "6500선 회복 이끈 삼전닉스…‘반도체 랠리’ 재가동 될까 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cmtyZXVYV0xIYjBUVkJqWHJuMWZhSE10Wkk5a3VCblcwWTQ5eUpWdFNucEdmSmRGb1BRODJFeWxHMlAyQVJXODdRZ05FeGc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "사상 첫 '연속 서킷브레이커' 넘긴 코스피…7,000선 안착 열쇠는 '반도체' - 뉴스투데이",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WQ1JoX3k4RE9hdjRNZFhZbHJudGZvWFdYc3ZqVkZLMlJ5Zl91enc3LXVDRDlBM3VyV3B1LVlOVXBlZVNVd2RaUUdHVjBZdHJBUVVtWGVzLWluVTVXbkE?oc=5",
+        "title": "반도체 쇼크, 코스피 종목 73% 무너졌다…순환매 언제쯤 오나 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMVBpUVBQUEROSzVtbTJMYkdYNGtrVjBjanduQlhJbTcxdk01LTlSaVZkZlJ2WXNTS0dLei1jUENHTjRYYWhtOUt5UF9qaHpuT2I5dEpB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "서울시 초대 인공지능책임관에 정상훈 행정1부시장 직무대리 - yna.co.kr",
+        "title": "서울시 초대 인공지능책임관에 정상훈 행정1부시장 직무대리 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SkFLdmEyLUJCUFZ2LUh4bl9Kcko3c09jREwwMlhpNTNoVVVnT2JoY1B6dVpaTFNIdXFFdDJuRDJFZTZWNHpFQm5vYm5NOVUyMUV2SHNSc2dydHfSAWBBVV95cUxQZ0V2NVR2M2Rqc05MdkNvVElFOEJvWUFmbzJOd294ZWZOTWVrcEY2TExqV3pjX1NmcDJBZmlvaFZJLXNXRUlKb0pKSmwzZGhEeDFGeVZmVmwtQkxFaGhWMVo?oc=5",
         "source": "구글 뉴스"
       },
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "그칠줄 모르는 폭염에 온열질환자 하루 96명 응급실행",
-        "link": "https://n.news.naver.com/mnews/article/001/0016229583",
+        "title": "'130억 소득세' 불복…차은우, 납부 뒤 조세심판 청구했다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005316364",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 상반기 마약사범 5203명 검거… 10명 중 4명은 온라인 범죄",
-        "link": "https://n.news.naver.com/mnews/article/366/0001183784",
+        "title": "“좋아진 형소법” 자찬에…여당 소신파 “국민고통 눈에 보여”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003541838",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, '관저 이전 의혹' 윤한홍 의원 소환",
-        "link": "https://n.news.naver.com/mnews/article/055/0001377258",
+        "title": "검찰동우회 “보완수사권 폐지는 與 광기이자 폭거”",
+        "link": "https://n.news.naver.com/mnews/article/023/0003990919",
         "source": "네이버 뉴스"
       },
       {
-        "title": "다슬기 잡으러 왔다가…찜통 차량 안에서 숨진 50대",
-        "link": "https://n.news.naver.com/mnews/article/055/0001377335",
+        "title": "SNS 타고 마약사범 급증…경찰, 5203명 검거",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715578",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대표이사 특별상여금 80억…법원 \"법인세 부과는 적법\"",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715586",
+        "title": "'김병기 의혹' 1년째 늘어진 경찰 수사…외부 심의위 열리나",
+        "link": "https://n.news.naver.com/mnews/article/001/0016228563",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-02 21:27"
+  "updated": "2026-08-02 22:30"
 }
