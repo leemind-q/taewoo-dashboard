@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "오픈AI, 美규제당국 대상으로 새 AI 모델 ‘아스트라’ 비공개 시연 [이규화의 글로벌AI]",
-        "link": "https://n.news.naver.com/mnews/article/029/0003040223",
+        "title": "KIST, 햇빛만으로 녹조 잡는 '무전원 자율 수상 로봇' 세계 최초 개발",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394413",
         "source": "네이버 뉴스"
       },
       {
-        "title": "햇빛만 있으면 녹조 잡는다…KIST, '무전원 자율방제 수상 로봇' 개발",
-        "link": "https://n.news.naver.com/mnews/article/421/0009092523",
+        "title": "순간 통제불능 AI, 결국 '기업 공격'…앤스로픽 보안 사고",
+        "link": "https://n.news.naver.com/mnews/article/018/0006342222",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 러닝 고객 공략…가민 워치·샥즈 이어폰 출시",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715410",
+        "title": "암환자 치명적 대사 합병증 ‘암 악액질’ 치료 길 열려",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040174",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI '챗GPT' 이용자, 10억명 돌파…페이스북보다 2년 빨라",
-        "link": "https://n.news.naver.com/mnews/article/448/0000630769",
+        "title": "AI끼리 협업, 수학난제 10개 풀었다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003541845",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“하루 남았다” 3일까지 193만원→78만원…파격 할인에 난리난 삼성 ‘신제품’",
-        "link": "https://n.news.naver.com/mnews/article/016/0002678424",
+        "title": "SKT, 러너 스마트기기 라인업 확대…가민·샥즈 제품 도입",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797624",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,11 +39,6 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[중국증시 주간 포인트] ②Ai4 2026, FMS 2026 AI∙반도체 행사, 화웨이 신제품 발표회, 양자컴퓨팅∙리튬∙전력 관련 대회, 국내외 기업 실적발표 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMXRTYVFJZHpSelVSNEh3X0NzUUlWSWo4VUQzbVRjdGFkdHQ1UDBILTZfazBib0JWeW5weUVscUNLLTBERHJWWmlCdW8zVnNJT1oxSDFoOTZYemZs?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "[N% 후폭풍]⑧\"반도체 로또, 오래 안 가\"…노동계도 부작용 우려 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyWjlVQVR6aHpDWkpOU01CNW1vNXhoVm94aXk2aUJSLTB4Tjg1QmZLcTZYdm9TYTQtYWpFd3lsWkRfaUxYa1phN2FNUnN5bVE?oc=5",
         "source": "구글 뉴스"
@@ -51,6 +46,11 @@
       {
         "title": "“SK하닉, 내년 상반기까지 신고가 시도할 것” 증권가, 반도체 고점 아직 - 문화일보",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Zm5rSWJ4M25NOVd6TXpCVWNpVjVKUnR3WTVJakNzQUpjWEJVYkpsMTRYQUxRZEtoUEpBU1FySzJmWHQxbkdtZnJfb05RRWhV?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"데이터센터 칩 교체주기 5년…반도체 성장 수십년 지속될 것\" - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFX1NHalpUZzhGd1BWZmFTTWpsV0dFZjQ3anVOQnV5OUJodmVuS3liQTBpMktVRWNkQmlpQ3BOdUpVX1dBYlFpVk5SZkFaQms3S1dFaFk0dDU5QQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "법원 \"최대주주 대표이사 '80억 상여금'은 이익 분배... 과세 정당\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555974",
+        "title": "[속보]“더워죽겠네”서울, 서북권도 폭염경보…전역이 찜통",
+        "link": "https://n.news.naver.com/mnews/article/021/0002808536",
         "source": "네이버 뉴스"
       },
       {
-        "title": "양산서 오전부터 '40도 더위'…닷새째 이례적 더위 기승",
-        "link": "https://n.news.naver.com/mnews/article/018/0006342358",
+        "title": "\"경찰 출신 모셔라\"…주요 로펌, 경찰 출신 변호사 확보에 '총력'",
+        "link": "https://n.news.naver.com/mnews/article/057/0001961631",
         "source": "네이버 뉴스"
       },
       {
-        "title": "남부권 최고기온 39도 폭염 계속‥서울 35도",
-        "link": "https://n.news.naver.com/mnews/article/214/0001515353",
+        "title": "'극한 폭염' 전남광주서 70대 2명 온열질환 추정 사망",
+        "link": "https://n.news.naver.com/mnews/article/660/0000114401",
         "source": "네이버 뉴스"
       },
       {
-        "title": "밀양댐 가뭄 '경계' 격상…낙동강·밀양강 대체공급으로 용수 비축",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797687",
+        "title": "밀폐된 차에서 휴식하던 50대 숨져…폭염 속 사고 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/056/0012229777",
         "source": "네이버 뉴스"
       },
       {
-        "title": "푹푹 찌는 제주…변수는 ‘강력 태풍’ 돌핀",
-        "link": "https://n.news.naver.com/mnews/article/056/0012229774",
+        "title": "제13호 태풍 '돌핀' 북상…다음 주 한반도 폭염·날씨 변수",
+        "link": "https://n.news.naver.com/mnews/article/015/0005316482",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-02 17:32"
+  "updated": "2026-08-02 19:14"
 }
