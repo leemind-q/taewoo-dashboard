@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "'국가 AI 컴퓨팅센터' 첫 삽…2028년까지 GPU 1.5만장 구축",
-        "link": "https://n.news.naver.com/mnews/article/421/0009094036",
+        "title": "해남 ‘국가 AI컴퓨팅센터’ 첫삽…28년까지 GPU 1.5만장 [팩플]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003542015",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "스페이스X 로켓 상단부 5일 달과 충돌…다누리 궤도선, 변화 관측",
+        "link": "https://n.news.naver.com/mnews/article/056/0012230164",
         "source": "네이버 뉴스"
       },
       {
@@ -12,102 +17,45 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "[K바이오 펀드 上] 국민성장펀드에 1조 메가펀드까지… '데스벨리' 메우는 정부",
-        "link": "https://n.news.naver.com/mnews/article/018/0006343651",
+        "title": "\"지금 사면 9월에나 받는다고?\"…200만원 넘는 갤폴드8 물량 동났다 [1일IT템]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005556756",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[팩트체크] 中 DUV 국산화, 정말 반도체 판도 바꿀까",
-        "link": "https://n.news.naver.com/mnews/article/366/0001184102",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "수학 난제 풀었지만, 인간 통제 벗어나 해킹...AI 발전의 양면[1일IT템]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005556745",
+        "title": "'어닝 잭팟' 팔란티어, 매출 두 배 됐다...깜짝 실적에 주가 10% '폭등'",
+        "link": "https://n.news.naver.com/mnews/article/215/0001261026",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZkVNUTJhRFdLTVpFak1PRThkdk14R1paYnh6Skkwc2tEaVdleWpfTEZ6ZXh0UnRmZ25kUjY0bi1ySmgtUDdsMmlKZ1JjNEIxTW9wMWRB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 드디어 바닥 찍었나? \"역대급 폭등장에 너무 취하면 안 돼\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxa19uRko1OXRVTTZNRDZiOUViUmUwdERLZDlkQnA5dHRIcFVZSmY1bEo2Y2pkY0R1LVV2V3NDdW8wSGFjVlZGV1djVzJYUDUxbEpTOUpHQnBjV2J5UjNUbXVEZ09RUWpEbS0wWFM3bzZhdDZCSUZjUA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“반도체 매수 기회 드디어 열렸다, 삼전닉스 본주 사라” - chosun.com",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaU9UenhtTlRyMkVrMDhDdTR1ZzV1SEV4YXdFbk1FbnBJSGtSbWV3MjY5NTNRV1p6Z3hkS3F1X3c4T0IzS3plYUFQYU5pZmZKck56ZFlWSF8yWDNMVWNBSjZ4WkpVR0lTZ3ppOEtsaXJMNTRGQTYtY1FOR0xCakc4TQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "'집중'이 독 됐다…반도체 TOP2시리즈 -30%[ETF업&다운] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1Rno2Ull1dkczOGxUR1o3UmRnMFhObHhGVTlmempDSUJOMjZFdTVsZDFyUy1HbFdEWFd2VDBYckt0U20wUjhNajlocThUcXM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[뉴스 속 경제] '차이나 반도체' CXMT‥반도체 자립 신호탄되나 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aanVybHBtS3N4OG5TdmVRQlpZNURDQlhhZ2swMU4tOHhsYWhUb2ZHc0JSLVRORHByc2V4NG9QbHptWFFGUm9tRGtZNWZCU3M?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "KBS, 'AI 프로덕션' 개소…\"콘텐츠 경쟁력 강화 혁신의 거점\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N3psT3hsU3BBZ2hvRURud1RMZExHNXVIV3FwanJpNEM0bGNiYmRaZnZjZU9hUW9Ec2k3cWQwdXRVaFZya2g4aTh2WHQ5eWRzQW1TOTExN3VyT2PSAWBBVV95cUxPaW9FeDVEZ1BVa2VzMU9yTEFmUFBDYjg4T3RXcllQUDM4V08tUG9EVWR0aDkzQnd3THp3eE5zX0p2WTkzeUZ2eGxCUEpOc2hVQldfNlpzcGRoUU9jUm1BbGw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI) 활용해 성남시의 정책을 제안합니다 「제2회 성남 + 카이스트 AI경진대회」 - 성남시 시정소식지 비전성남",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fLUFrdE83Ti1IZEtjRERxQUMtQ3JfREtxMldPLXBhc1JRc0hqYlplNUlvNXhWNnpwZjRwVTR0X2syREplNUo0Z255S0E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 3대 강국 핵심 국가AI컴퓨팅센터 ‘착공’ 해남에서 대한민국 AI 미래를 연다 - 국민뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BU2VJTTdWWVBaY29BeW5pMkp5a0NPRzEwLVpLRGlIdmRndVRvdVlncm9ka09zbGVhRlU1SG0xZVBwNGxYZTNSaklB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "'인공지능 체험·교육 거점' AI 라운지 본격 운영 - KBC광주방송",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudFl4dlZOc2swQkhPOFNFVnczd3NBN1BVdXhwXzhpN1Y2Um51Z3ZTMFdaU0VDZ25BVWFEejFNQmpNMHUxM29SRVc5MnZpR25nVVNxNHBCMDR6NDA3LWhjbnRlSnhCVGs?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "부산시, 인공지능(AI) 기반 \"아동돌봄 보이스봇\" 시범운영 개시 - 한국방송뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10QnJKNjlSVU05dl82VUdIclN6V2ZNdF9OS1FZYzktWTR1YnVBSXp2Y1BySm1rNUtsOTFYbmh1T0xfN1gyTzYxVHU1U18xWEt1aDZsdkhfQkFuSHdtY1E?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "투명한 명동 지하보도 난간…미디어파사드 막힘없이 본다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005316841",
+        "title": "김용민에 댓글 단 돌려차기 피해자...\"지옥에나 가라\" [앵커리포트]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002388269",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'1심 시장직 상실형' 오세훈 항소심, 서울고법 형사7부에 배당",
-        "link": "https://n.news.naver.com/mnews/article/003/0014105736",
+        "title": "‘175㎝에 보통 체격, 종종 걸음’…통영 살인 용의자 신체 특징 확인",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715764",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘300억 사기 혐의’ 차가원 대표 구속 갈림길…영장심사 출석",
-        "link": "https://n.news.naver.com/mnews/article/020/0003738326",
+        "title": "광주 밤 최저 28.2도…1960년 이후 가장 높아",
+        "link": "https://n.news.naver.com/mnews/article/421/0009095187",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수술한 환자 다리 재활용품으로 배출한 요양병원 관계자 불구속 송치",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715970",
+        "title": "울산 페인트 창고 화재 4시간 만에 진화…60대 여성 숨지고 인근 빌라 주민 등 4명 부상",
+        "link": "https://n.news.naver.com/mnews/article/087/0001208997",
         "source": "네이버 뉴스"
       },
       {
-        "title": "샴악어가 끝 아니었다…\"이게 뭡니까\" 주인 캐묻자 발칵",
-        "link": "https://n.news.naver.com/mnews/article/055/0001377545",
+        "title": "정성호, 보완수사권 폐지법에 \"거부권 건의 적절치 않아\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002524414",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-03 21:43"
+  "updated": "2026-08-03 23:03"
 }
