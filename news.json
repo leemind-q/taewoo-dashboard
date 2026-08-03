@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI, 한글처럼 깨우쳐야\"…배경훈 \"골든타임 놓치지 말고 활용해야\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006343021",
+        "title": "'AI 3대 강국' 위한 고속도로 착공… 28년까지 AI반도체 1.5만장 확보",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343118",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리벨리온, 경남·울산 AI CCTV 관제센터에 서버형 NPU 공급",
-        "link": "https://n.news.naver.com/mnews/article/366/0001183934",
+        "title": "NC IDS, 'NC AX'로 사명 변경…AX 전문 기업으로 새 출발",
+        "link": "https://n.news.naver.com/mnews/article/421/0009094509",
         "source": "네이버 뉴스"
       },
       {
-        "title": "펄어비스 '붉은사막', 中 CGIA '최고의 인터내셔널 게임' 수상",
-        "link": "https://n.news.naver.com/mnews/article/031/0001046660",
+        "title": "네이버, AI 팩토리 계약 구조 공개⋯\"GPU 확보·재무 부담 완화\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0001046755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스페이스X 로켓, 5일 달과 '시속 8700km' 충돌...지구에서도 보인다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005556022",
+        "title": "\"AI를 한글처럼 깨치도록\"…정부, 'AI 성장사다리' 놓는다(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0009093961",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, AI팩토리 계약구조 공개…\"엔비디아 GPU 받고, 브룩필드 SPV로 재무 부담 던다\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797995",
+        "title": "스페이스X 로켓 상단, 5일 달에 충돌... 한국 궤도선이 포착한다",
+        "link": "https://n.news.naver.com/mnews/article/469/0000945992",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZkVNUTJhRFdLTVpFak1PRThkdk14R1paYnh6Skkwc2tEaVdleWpfTEZ6ZXh0UnRmZ25kUjY0bi1ySmgtUDdsMmlKZ1JjNEIxTW9wMWRB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "LB세미콘, 퀄컴 양산 승인 획득...이달 양산 돌입 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTVmJlaml5TzVBbHdDbG5DUXVPdElSQ0ZJNmJiZ0hJRjdjQkxiYWcwTF9obWYzRHFPOXFUZ1djaVZ1c2JLMU1PQUR6eDJMVzFaQmpmVHdHVmRpeEJTVnlvcFNKa0tWQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대전상의, 허태정 시장 초청 첫 간담회…반도체 연구거점 육성 논의 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aM1VFUU9qNlk5cmpoUWxrb3JDNWk5eC1mcHpVQnJlVHVGUl91Wmp0YTlHZGRzN1dkWmRmellKNEh2TnNmSEJKRGtGR2hXVGM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인도·TSMC·엔비디아 반도체 대반격…한국, 공급망 재편 대응해야 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkoySjFpTk5saFdkOXJLbk9mQnRFVTE2ZkFBblNIcWk1VjBIY2N4aHJJNzd6bEFuaU9IY2JPYU5wZHdJeWs1OVFTNm80Snk3STZXY0VRS051dGlTWGdwMHlnS2hneTRVMWRtaHhscFpkR3FOZXZ2dzE1MU9EemxOaHluMUNMWC02?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"중국 CXMT, 베이징에 메모리 반도체 공장 추가 건설 추진\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lY2VVVW44ZzYtRXRIR2NzeWNHQ0Vvc2o5ZDZTVHdBR3ZDU1NvS2V1X0N3dmdhWWotbnZQZF85OWtpNVFmOEo0UXQ3M3poSVI1TGFTa3d6NjNoQlHSAWBBVV95cUxOZHFaczFPVGdzSFkwU1NEUk8ydHNhQWg5Q3pVeDhWZ09MSndQTHA2WnBET0dxOFRPWFlNcEhMRE5HSlFDRlJlWWVHTlNoaEtrNUJXNXdURGRibGJObTk4VzE?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "KBS, 'AI 프로덕션' 개소…\"콘텐츠 경쟁력 강화 혁신의 거점\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N3psT3hsU3BBZ2hvRURud1RMZExHNXVIV3FwanJpNEM0bGNiYmRaZnZjZU9hUW9Ec2k3cWQwdXRVaFZya2g4aTh2WHQ5eWRzQW1TOTExN3VyT2PSAWBBVV95cUxPaW9FeDVEZ1BVa2VzMU9yTEFmUFBDYjg4T3RXcllQUDM4V08tUG9EVWR0aDkzQnd3THp3eE5zX0p2WTkzeUZ2eGxCUEpOc2hVQldfNlpzcGRoUU9jUm1BbGw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "제주도, 인공지능(AI) 기반 행정 혁신 속도 낸다 - 제주투데이",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWbVB1QlZuei02am1vYlFYQ25QVXRpZFJ1djZlWjFsOHV3OFlndHFJdUp3aUlKOXcteWVsdzFNa3ZMX1F0UFF2TENlZkFkcU82VU5fSEZYcTJobVNJOTF3NWw3RmtHcUczVmx0VFJB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "제주도, AI 기반 업무혁신 속도 - 경남도민뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OeGQ2T0k1amtXVDd0MWZmSnFxN2lXckVud0R3NjJaMW1iY0R4ZUlkcjBpWDVpRlozXzZaRUFQbTNwUXdaZG9WeWl4c29EZkpDbl9hQmM1RWNSUmt5cWd2Qkgyaw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능 첫걸음부터 창업까지…'모두의 AI 성장사다리' 출범 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mWnZQOXRaX29xZXRtYlB2TlVyU193T05mQXRfbVZQQnZtMVVuZ0hrYktINDVoM1RFWENPMDRGZHluUnYxSmhoMVlKYk1aemc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "모두의 AI 시대를 여는 성장사다리… 인공지능 인재 육성 프로젝트 본격 출범 - 뉴뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51dFVpSGNjQmthVXJRMVFtUDhTak00c1JHc1l3TXVPQWxUYktObWJ0TGIyd2RnSlZMUXJQYUFpWDBCWk5WRngxZ3hFcWU5Z2tBTlZwNDRzT3BvMnJEVWk5RHNIMnduQQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "경찰 직장협, 순환인사 반발 삭발식…“사기 짓밟고 치안 역량 약화”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003738394",
+        "title": "전국 폭염 계속…남부 중심 39도 안팎 무더위",
+        "link": "https://n.news.naver.com/mnews/article/660/0000114387",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천서도 첫 온열 질환 사망자…40대 남성 병원 이송 하루만에 숨져",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715964",
+        "title": "인천 재활용장서 발견된 '절단 다리'…요양병원 직원들 송치",
+        "link": "https://n.news.naver.com/mnews/article/422/0000891861",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"00억 이상 받아야\"…오픈톡방서 아파트값 담합 주도 주민 검찰 송치",
-        "link": "https://n.news.naver.com/mnews/article/055/0001377557",
+        "title": "경북 경산 아파트 방화사건 수사 경찰관 숨진 채 발견… 경찰, 경위 조사중",
+        "link": "https://n.news.naver.com/mnews/article/002/0002450699",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“통영 살인 용의자 175㎝ 보통 체격”…경찰, 신체 특징 확인",
-        "link": "https://n.news.naver.com/mnews/article/056/0012230016",
+        "title": "현직 경찰 ‘마약 수사 기밀 유출’ 의혹…서울경찰청이 직접 수사",
+        "link": "https://n.news.naver.com/mnews/article/028/0002816959",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'1명 사망·4명 부상' 울산 페인트 창고 화재 4시간 만에 진화",
-        "link": "https://n.news.naver.com/mnews/article/001/0016230688",
+        "title": "[단독]\"불이야\" 대피하는데 마트 들어가 절도…경찰, 여성 용의자 추적",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394785",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-03 07:30"
+  "updated": "2026-08-03 11:27"
 }
