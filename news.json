@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "WSJ \"AI해킹, 쥬라기 공원 모멘텀 왔다\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002432772",
+        "title": "\"AI, 한글처럼 깨우쳐야\"…배경훈 \"골든타임 놓치지 말고 활용해야\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343021",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT샵, 'KT다이렉트샵'으로 새 단장…공식 직영몰 정체성 강화",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555915",
+        "title": "리벨리온, 경남·울산 AI CCTV 관제센터에 서버형 NPU 공급",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183934",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI ‘아스트라’, 10년 묵힌 수학 난제 풀었다…‘연구형 AI’ 시대 개막",
-        "link": "https://n.news.naver.com/mnews/article/018/0006342590",
+        "title": "펄어비스 '붉은사막', 中 CGIA '최고의 인터내셔널 게임' 수상",
+        "link": "https://n.news.naver.com/mnews/article/031/0001046660",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아톤, NH투자증권 전 채널에 양자내성암호 인증 적용",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394678",
+        "title": "스페이스X 로켓, 5일 달과 '시속 8700km' 충돌...지구에서도 보인다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005556022",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중국도 인정한 '붉은사막'…CGIA '최고의 인터내셔널 게임' 수상",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797934",
+        "title": "네이버, AI팩토리 계약구조 공개…\"엔비디아 GPU 받고, 브룩필드 SPV로 재무 부담 던다\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797995",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZkVNUTJhRFdLTVpFak1PRThkdk14R1paYnh6Skkwc2tEaVdleWpfTEZ6ZXh0UnRmZ25kUjY0bi1ySmgtUDdsMmlKZ1JjNEIxTW9wMWRB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[뉴스 속 경제] '차이나 반도체' CXMT‥반도체 자립 신호탄되나 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aanVybHBtS3N4OG5TdmVRQlpZNURDQlhhZ2swMU4tOHhsYWhUb2ZHc0JSLVRORHByc2V4NG9QbHptWFFGUm9tRGtZNWZCU3M?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "상장 5일 만에 공모가 6배…中 CXMT, 반도체 변수로 - hankyung.com",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2X2Y2SnNoUEFpeExhanhsMTQzWVdfM01YeGlwcEdHeldnMlJGZVAtSlVyMnpVQ0lsU09odXJyOVA4bHliaVliWXFHalVKdGxHRjdISHhuX3JuZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "中 칩 생산량 10년새 350% 급증… 범용반도체는 이미 레드팹이 장악 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZzFfa09zbkVnbnBQc0JiQ0xkQ1BDX0RSU3hRZFFYWjVEZU9ERFhEQzhaU3hfcWx6MTM4SlFlUEdCOFo2SUlFWUdhUndON3N3TmfSAVNBVV95cUxNWHl5RDJZU01wVXdEVFNsQTFVb1lILWllX2xpTHRzRUxWWUVYeFc4bXkxaWFjYnpxQkJrYUhnMGxHb0tLTkV3Nk5femRFTGNWeTIzMA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 폭발에 7월 수출 역대 2위…車·바이오·화장품도 신기록(종합2보) - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TE1BR1pPYl9QWHBIZy1PRTU5VmNFQjFLRjZ4aVUxdmRQOGl1YmlGNkdRR0RuQ0plUXh6b25Zam5xaFBHajdSNmxyam44T25Del9IOHQ4dGlyWFVvMGg4dnBFWDd3NFJPUDRDNEVCUVY?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOEJab09FbmktajFQTW4yOGtXeUVCRzhvTWpTMlRiZTQwTWM3cTR0NlItOGc2LTVjU2ZDZVZ5MG1XUVl1Vnk1S3hRdlk1a1lkVml0MkZXSVM1N05BbWJRUdIBYEFVX3lxTE9oOEJab09FbmktajFQTW4yOGtXeUVCRzhvTWpTMlRiZTQwTWM3cTR0NlItOGc2LTVjU2ZDZVZ5MG1XUVl1Vnk1S3hRdlk1a1lkVml0MkZXSVM1N05BbWJRUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "양현상 노바엑스 대표, 한국인공지능기술산업협회 이사 위촉 - AI타임스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03anB1OGFlc09OOGRubGI2NG5vakhFNzFqME1VXzBGMHR3WmhmUW1XbDRxamREX29PSVJYbnd3dnYwTEt1UUxDTmFsbFdvV3ZUQjl2aUhMRjR4RE5YRDZ0eXBRaU1CeExJbFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "서울시 첫 AI책임관에 정상훈 행정1부시장 직무대리 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWNlS0RveWM1UlJxak5fRjlBZUxfejZvajRlSFZXM2lXekNHUmN3NU1CbHVYLVlDdnQ5TmJ4a1NyZDdiWHVZZENmaDRvaFF2b2tQRWNLQzdGcTZXUDFoWEVqQUxUNHV2T2ZDMXREanI4Yy1teV81SVJIRGZBTEdPN1U2UW9DMjFuS3h2X2hnclU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[규제Watch-8월] \"인공지능 차별방지법, 인사·경영 개입…AI 도입 막아\" - 신아일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0SXF6bU01eXJaYkNuSF9ZVDlILWNlY21tSTB5bXdLWjd3Rk9uN3d1UjBjbmdHR0dGSVJWNkt5bHB6QlJyMlNFTF9hVGFka0NOWTFKejBRQlFiUE8xNU94Q21XbUNtWHpCM0MwcVd6aXg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "양평군, 치매환자 가족 위한 '인공지능(AI) 추억 복원소' 성황리 마무리 - 한국글로벌뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjYzROMlQzUWozZUVNY2lvNVdNa0ZwUG84cllyQjMwcHA4UURNUG9UMEFmakk0bHVKOGlLSEF1WkVvX1ViX09tRmNxcTVfSDFIWHpFWExzd0hDcXlBZm9Rdg?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "1호선 노량진역 무정차 통과중…혜화역 하행선은 운행 재개(상보)",
-        "link": "https://n.news.naver.com/mnews/article/277/0005797942",
+        "title": "경찰 직장협, 순환인사 반발 삭발식…“사기 짓밟고 치안 역량 약화”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003738394",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“40도 넘을때 선풍기 틀면 위험”…WHO의 폭염 생존 수칙",
-        "link": "https://n.news.naver.com/mnews/article/020/0003738341",
+        "title": "인천서도 첫 온열 질환 사망자…40대 남성 병원 이송 하루만에 숨져",
+        "link": "https://n.news.naver.com/mnews/article/009/0005715964",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘성범죄 기소유예’ 외국인, 제주서 사업하려는데…법원 “입국 불허 정당”",
-        "link": "https://n.news.naver.com/mnews/article/028/0002816858",
+        "title": "\"00억 이상 받아야\"…오픈톡방서 아파트값 담합 주도 주민 검찰 송치",
+        "link": "https://n.news.naver.com/mnews/article/055/0001377557",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'300억 사기 혐의' 차가원 구속 기로…\"성실히 답하겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003117596",
+        "title": "“통영 살인 용의자 175㎝ 보통 체격”…경찰, 신체 특징 확인",
+        "link": "https://n.news.naver.com/mnews/article/056/0012230016",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"보수층 이탈에 다카이치 총리 호감도 하락\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016230413",
+        "title": "'1명 사망·4명 부상' 울산 페인트 창고 화재 4시간 만에 진화",
+        "link": "https://n.news.naver.com/mnews/article/001/0016230688",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-03 03:47"
+  "updated": "2026-08-03 07:30"
 }
