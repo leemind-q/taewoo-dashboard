@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 1000만 러너 겨냥 가민·샥즈 제품 출시",
-        "link": "https://n.news.naver.com/mnews/article/081/0003666877",
+        "title": "WSJ \"AI해킹, 쥬라기 공원 모멘텀 왔다\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002432772",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI로 문해력 문제 해결한다…SKT-순천향대, ‘디지털 교육’ 박차",
-        "link": "https://n.news.naver.com/mnews/article/016/0002678510",
+        "title": "KT샵, 'KT다이렉트샵'으로 새 단장…공식 직영몰 정체성 강화",
+        "link": "https://n.news.naver.com/mnews/article/014/0005555915",
         "source": "네이버 뉴스"
       },
       {
-        "title": "챗GPT 활성 이용자 10억명 돌파…'대중 서비스' 단계 돌입",
-        "link": "https://n.news.naver.com/mnews/article/629/0000521063",
+        "title": "오픈AI ‘아스트라’, 10년 묵힌 수학 난제 풀었다…‘연구형 AI’ 시대 개막",
+        "link": "https://n.news.naver.com/mnews/article/018/0006342590",
         "source": "네이버 뉴스"
       },
       {
-        "title": "암환자 근육·지방 소멸 '악액질' 잡은 KAIST…환자 생존율 높였다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014103091",
+        "title": "아톤, NH투자증권 전 채널에 양자내성암호 인증 적용",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394678",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 차세대 AI모델 '아스트라' 예고…\"수학 난제 10개 풀었다\"",
-        "link": "https://n.news.naver.com/mnews/article/374/0000525056",
+        "title": "중국도 인정한 '붉은사막'…CGIA '최고의 인터내셔널 게임' 수상",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797934",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,30 +34,40 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에 '수출 1조 달러' 보인다…세계 4강 가시권 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10b1Vienc3UDJENzJrVUsxUFhVVkp6ZnBieDJQcVdoNDVucWQwVGtiR3REQ0Y4eTlwY1h0WGJiTDkzcFRKclBMNEFQRWFseWc?oc=5",
+        "title": "[뉴스 속 경제] '차이나 반도체' CXMT‥반도체 자립 신호탄되나 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aanVybHBtS3N4OG5TdmVRQlpZNURDQlhhZ2swMU4tOHhsYWhUb2ZHc0JSLVRORHByc2V4NG9QbHptWFFGUm9tRGtZNWZCU3M?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[N% 후폭풍]⑧\"반도체 로또, 오래 안 가\"…노동계도 부작용 우려 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyWjlVQVR6aHpDWkpOU01CNW1vNXhoVm94aXk2aUJSLTB4Tjg1QmZLcTZYdm9TYTQtYWpFd3lsWkRfaUxYa1phN2FNUnN5bVE?oc=5",
+        "title": "상장 5일 만에 공모가 6배…中 CXMT, 반도체 변수로 - hankyung.com",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2X2Y2SnNoUEFpeExhanhsMTQzWVdfM01YeGlwcEdHeldnMlJGZVAtSlVyMnpVQ0lsU09odXJyOVA4bHliaVliWXFHalVKdGxHRjdISHhuX3JuZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "VR로 배우는 반도체…시흥 해양생태과학관 체험전 11월까지 열린다 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92cW9vUDh5UkVCUDVtdmdycUFoUmZFZ19pWnN5bWVMOUVKUnpRZTdEZ2xUeHJkSVZDUEFqM3VoOEZWeDdkc1RqdGs0MEVMbElzQTIwQUowa1d0UGc?oc=5",
+        "title": "中 칩 생산량 10년새 350% 급증… 범용반도체는 이미 레드팹이 장악 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZzFfa09zbkVnbnBQc0JiQ0xkQ1BDX0RSU3hRZFFYWjVEZU9ERFhEQzhaU3hfcWx6MTM4SlFlUEdCOFo2SUlFWUdhUndON3N3TmfSAVNBVV95cUxNWHl5RDJZU01wVXdEVFNsQTFVb1lILWllX2xpTHRzRUxWWUVYeFc4bXkxaWFjYnpxQkJrYUhnMGxHb0tLTkV3Nk5femRFTGNWeTIzMA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'개미 최애' 반도체 톱2 ETF , 한달간 30%대 하락 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sU2NQWEV3NjctVThIQkhRUzNwNl9tSnJFSHN4U25TbVRiMnR0czNzQkp3VHA0SUhXd3N0eUl3RlY1TTZOQnhyU0s4eGFpT0RaUFE?oc=5",
+        "title": "반도체 폭발에 7월 수출 역대 2위…車·바이오·화장품도 신기록(종합2보) - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TE1BR1pPYl9QWHBIZy1PRTU5VmNFQjFLRjZ4aVUxdmRQOGl1YmlGNkdRR0RuQ0plUXh6b25Zam5xaFBHajdSNmxyam44T25Del9IOHQ4dGlyWFVvMGg4dnBFWDd3NFJPUDRDNEVCUVY?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "서울시 초대 인공지능책임관에 정상훈 행정1부시장 직무대리 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRXY1VHYzZGpzTkx2Q29USUU4Qm9ZQWZvMk53b3hlZk5NZWtwRjZMTGpXemNfU2ZwMkFmaW9oVkktc1dFSUpvSkpKbDNkaER4MUZ5VmZWbC1CTEVoaFYxWtIBYEFVX3lxTFBnRXY1VHYzZGpzTkx2Q29USUU4Qm9ZQWZvMk53b3hlZk5NZWtwRjZMTGpXemNfU2ZwMkFmaW9oVkktc1dFSUpvSkpKbDNkaER4MUZ5VmZWbC1CTEVoaFYxWg?oc=5",
+        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOEJab09FbmktajFQTW4yOGtXeUVCRzhvTWpTMlRiZTQwTWM3cTR0NlItOGc2LTVjU2ZDZVZ5MG1XUVl1Vnk1S3hRdlk1a1lkVml0MkZXSVM1N05BbWJRUdIBYEFVX3lxTE9oOEJab09FbmktajFQTW4yOGtXeUVCRzhvTWpTMlRiZTQwTWM3cTR0NlItOGc2LTVjU2ZDZVZ5MG1XUVl1Vnk1S3hRdlk1a1lkVml0MkZXSVM1N05BbWJRUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "양현상 노바엑스 대표, 한국인공지능기술산업협회 이사 위촉 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03anB1OGFlc09OOGRubGI2NG5vakhFNzFqME1VXzBGMHR3WmhmUW1XbDRxamREX29PSVJYbnd3dnYwTEt1UUxDTmFsbFdvV3ZUQjl2aUhMRjR4RE5YRDZ0eXBRaU1CeExJbFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서울시 첫 AI책임관에 정상훈 행정1부시장 직무대리 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWNlS0RveWM1UlJxak5fRjlBZUxfejZvajRlSFZXM2lXekNHUmN3NU1CbHVYLVlDdnQ5TmJ4a1NyZDdiWHVZZENmaDRvaFF2b2tQRWNLQzdGcTZXUDFoWEVqQUxUNHV2T2ZDMXREanI4Yy1teV81SVJIRGZBTEdPN1U2UW9DMjFuS3h2X2hnclU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "MIT, '생각과 행동' 동시에 수행하는 로봇 AI 기술 개발 - 로봇신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ydmkyVnhxSzQybWg5Zmp5MkdDbV9SQllSSVNrcjBObE1IcUZEVXZhM25keTJnTmM3eUVIUXhvSy1RRDBtTDdJS29SVXVKYVhpS0MzN3F2THYtSlExRzR3X3pYUE5ZZ0Z4RDZwcQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경기도교육청미디어교육센터, ‘2026 인공지능(AI)·미디어교육 포럼’ 진행 - 수도권지역뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTURsclNPYVp5aWlnc0tuZm95enFHTXAxcW1iRl84TDlCamRHRUF4aTNqNjRFN001SFVhaWZKdWJ1SThqcFJVdkhudnlKOEtXSWxaS3FRbnJiU3lKY05WTDNYeFNVS0FQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "부산시, 인공지능(AI) 기반 '아동돌봄 보이스봇' 시범운영 개시 - newsgb.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQ3ZyMy0zQVd1dnZRY2oyNjlBM3A2Tkp5WXJHRWJaaHoxV3k5XzZBMXBsS2F3NEx3dVVJVVREM0R5bnZlejcyUEF6OWU1UkNzV1lhX1JZQUhldW1ra3l1dQ?oc=5",
+        "title": "양평군, 치매환자 가족 위한 '인공지능(AI) 추억 복원소' 성황리 마무리 - 한국글로벌뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjYzROMlQzUWozZUVNY2lvNVdNa0ZwUG84cllyQjMwcHA4UURNUG9UMEFmakk0bHVKOGlLSEF1WkVvX1ViX09tRmNxcTVfSDFIWHpFWExzd0hDcXlBZm9Rdg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "차은우, 130억원 소득세 추징 불복…조세심판 청구",
-        "link": "https://n.news.naver.com/mnews/article/016/0002678340",
+        "title": "1호선 노량진역 무정차 통과중…혜화역 하행선은 운행 재개(상보)",
+        "link": "https://n.news.naver.com/mnews/article/277/0005797942",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경주 외국인 관광객 300만 시대 박차 경북도·경주시",
-        "link": "https://n.news.naver.com/mnews/article/014/0005555914",
+        "title": "“40도 넘을때 선풍기 틀면 위험”…WHO의 폭염 생존 수칙",
+        "link": "https://n.news.naver.com/mnews/article/020/0003738341",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해진 뒤 텐트 치고 수영장 '풍덩'…열대야에 뚝섬 달군 '한강 밤핑'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009092970",
+        "title": "‘성범죄 기소유예’ 외국인, 제주서 사업하려는데…법원 “입국 불허 정당”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002816858",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대구·경산·고령 폭염중대경보…대구 낮 최고 39도",
-        "link": "https://n.news.naver.com/mnews/article/003/0014103707",
+        "title": "'300억 사기 혐의' 차가원 구속 기로…\"성실히 답하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0003117596",
         "source": "네이버 뉴스"
       },
       {
-        "title": "폭염 속 온열질환자 96명 발생…누적 1,889명 속출",
-        "link": "https://n.news.naver.com/mnews/article/422/0000891566",
+        "title": "\"보수층 이탈에 다카이치 총리 호감도 하락\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016230413",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-03 00:00"
+  "updated": "2026-08-03 03:47"
 }
