@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
+        "title": "SKT \"A.X K2 성능 32.2%p 향상…AI 에이전트 정조준\"[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016232032",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "SKT, '갤럭시Z' 사전 판매 흥행…2040 고객 잡고 혜택 이어간다",
+        "link": "https://n.news.naver.com/mnews/article/421/0009095379",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "해남 ‘국가 AI컴퓨팅센터’ 첫삽…28년까지 GPU 1.5만장 [팩플]",
         "link": "https://n.news.naver.com/mnews/article/025/0003542015",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스페이스X 로켓 상단부 5일 달과 충돌…다누리 궤도선, 변화 관측",
-        "link": "https://n.news.naver.com/mnews/article/056/0012230164",
+        "title": "KT, 연세의료원과 ‘의료 AI’ 혁신…데이터 고도화 나선다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002679077",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘국가대표 AI’ 이번주 2차 평가… 이달 중 결승 진출 3팀 윤곽",
-        "link": "https://n.news.naver.com/mnews/article/005/0001864743",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"지금 사면 9월에나 받는다고?\"…200만원 넘는 갤폴드8 물량 동났다 [1일IT템]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005556756",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'어닝 잭팟' 팔란티어, 매출 두 배 됐다...깜짝 실적에 주가 10% '폭등'",
-        "link": "https://n.news.naver.com/mnews/article/215/0001261026",
+        "title": "다누리, 달 추락하는 스페이스X 잔해 포착한다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004648075",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "“‘이 뉴스’ 2개 뜨면 팔아라” 여의도 제갈량이 푼 ‘반도체 끝물’ - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZkVNUTJhRFdLTVpFak1PRThkdk14R1paYnh6Skkwc2tEaVdleWpfTEZ6ZXh0UnRmZ25kUjY0bi1ySmgtUDdsMmlKZ1JjNEIxTW9wMWRB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성운용, '미국CPU반도체TOP10' ETF 상장 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUE5SOF94cEFYR0tmcDJ4X3Q0eldzdnc1a0FoLXVqUnBwUXc5dGFmOWhfWEdyVF9GLVdmbmluLUswV2F0R0pxV3dIaTF1WVhzTWlOcWozSG5hZzjSAWBBVV95cUxNb2ZQWk5oTmxKbjU4U3J3bThldTZSQXFQMHZmN3VMYzhWaG9GQl83d04xT3ZBblRDRDZhcFphMkVjakNLdTFfTUVpRi1pNnVWLTJ2Q0FMNEgwcGJGbkNkU18?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 에이전트 시대 CPU '주목'…삼성운용, 'KODEX 미국CPU반도체TOP10' 상장 - marketin.edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSZXAtZ3FrRmlsbW1GUmlHVTcxTE9rQVI3VDVDNFNtU0ozZS1YQVJkNmFmRU9xMGVVSE5kSnczVlZIRmNmVF9DeVRJUW5rS2xKdnZ5V0FIX3dFVnBCTjV5SmtyM0JKMEtkZnRiS2lvVm80N0k?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성운용, 'KODEX 미국CPU반도체TOP10' ETF 신규 상장 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JYUVfZThNS1hyOEVZTTgwZzA3VW80Q2piUFljY1phd29lWkY4aFduZVZCQ1o1LUVYTVpBV1VBUjNneVNoZUR3eEtfeTJ6VnV3M2R0b01iaGF0Y2YyY3hoSA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"TSMC·삼성과 비교 불가\"… 억지로 집적도 높인 중국 반도체의 한계 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm5wblQtbXJsX2VMYzVmbllqemhHdjNUMEVFRjE0TFkwbDhLZ1FROHBRYmRHbURfYndaMmlUbVlmWWk3QVlIaERaUUQtdXVFT1V5QUdaUzBUZVZ0VGJROFZiS2NwRXRPM2Q0SFloYUJZU3ZhTzlrMVVmbTJ1SXFhcVJxaTU2M2tJ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "[AI for Good] 인공지능으로 지구의 위기에 답하다 - 투데이신문",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EanZ1cEVNTWFXZlJsRld5WVFuVzhpaHllZ3RIZEU5WUdBNFVZYTFUdmU0UlVranJtbGdFSHJpRDlZeXNVenFuS2xldjlXMU9hb3dnVVpKaGZHNUN3THpjLTlRZThvb2FZMEhZ0gFvQVVfeXFMTzZDZ054WEJQQzF4cXl5NE9tNW1lY3NIdzFXbjZhVHlZUlVZSTFqYktwTjhmVG1RQ0QwVFRtc24wS1hNV1g2NjZVaEhnLW13QzYza1k5NmpycFFFc0RwUFRLRGpnbWtVQmJtbExMNDhB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "KBS, 'AI 프로덕션' 개소…\"콘텐츠 경쟁력 강화 혁신의 거점\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pb0V4NURnUFVrZXMxT3JMQWZQUENiODhPdFdyWVBQMzhXTy1Qb0RVZHRoOTNCd3dMend4TnNfSnZZOTN5RnZ4bEJQSk5zaFVCV182WnNwZGhRT2NSbUFsbNIBYEFVX3lxTE9pb0V4NURnUFVrZXMxT3JMQWZQUENiODhPdFdyWVBQMzhXTy1Qb0RVZHRoOTNCd3dMend4TnNfSnZZOTN5RnZ4bEJQSk5zaFVCV182WnNwZGhRT2NSbUFsbA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "앤트로픽 클로드도 무단 해킹 했다...AI 공포 확산[글로벌AI브리핑] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cHh6S3ozVlJJZ0hoMVBjaF9mSzRXNV9VNm0yeVBrRzR3VDJLTERwWm5uN2tsQTh3N3dLWW5Ub1lXQlZWLWItUEQzbkp5OFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "HSAD AI 단편영화 '이븐', 미국·프랑스 영화제 최우수상 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YN3NZN2o0Y1RUNW55azJVZXNSSWJnSDhGQjh3TlBtXy14OGFCdWc5VUhNQ09oWHhtWHlzOVVyTXA3S0t1bHIwMG96bldNaktSYlJMdFZEYzhqNVAwb2R2QnRjWVFaNmI4d2w0Nk1UWWtvc0x2?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "파주시 교하도서관, 인공지능(AI)과 책 수다 나누는 '독후감 게임 2기-인공지능과 덕질하기' 운영 - 더뉴스코리아",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WSzlNUU5XRERPSzFjb2ExTzdIM3ZPUmoxd3o0NGJmb1NEUVphNnpKRlJ3aWh6eDlpeUpYYWRBOXJyQTRCVC1ETHJB?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "김용민에 댓글 단 돌려차기 피해자...\"지옥에나 가라\" [앵커리포트]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002388269",
+        "title": "내일 서울·광주 38도 ‘찜통더위’…수도권 첫 폭염중대경보 오전 11시 발효",
+        "link": "https://n.news.naver.com/mnews/article/366/0001184061",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘175㎝에 보통 체격, 종종 걸음’…통영 살인 용의자 신체 특징 확인",
-        "link": "https://n.news.naver.com/mnews/article/009/0005715764",
+        "title": "정성호 장관 \"형소법, 빛의 속도로 개정...사의 유지\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002388180",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광주 밤 최저 28.2도…1960년 이후 가장 높아",
-        "link": "https://n.news.naver.com/mnews/article/421/0009095187",
+        "title": "국내 하천서 발견된 '샴악어' 주인…'악어거북' 무허가 사육으로도 입건",
+        "link": "https://n.news.naver.com/mnews/article/586/0000135080",
         "source": "네이버 뉴스"
       },
       {
-        "title": "울산 페인트 창고 화재 4시간 만에 진화…60대 여성 숨지고 인근 빌라 주민 등 4명 부상",
-        "link": "https://n.news.naver.com/mnews/article/087/0001208997",
+        "title": "최영중 휴대전화서 다른 여성 나체 사진…\"교복 차림 추정\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002388040",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정성호, 보완수사권 폐지법에 \"거부권 건의 적절치 않아\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002524414",
+        "title": "샤넬, 롤렉스 ‘줍줍’ 기회..경기도, 체납 압류물품 공매",
+        "link": "https://n.news.naver.com/mnews/article/018/0006343788",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-03 23:03"
+  "updated": "2026-08-04 01:00"
 }
