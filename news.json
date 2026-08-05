@@ -2,45 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "신작 줄인 넷마블, '다작' 대신 '장수 게임' 승부(종합)",
-        "link": "https://n.news.naver.com/mnews/article/119/0003118603",
+        "title": "카카오 노조, 임금협상 잠정 합의안 찬반 투표…가결 시 교섭 마무리",
+        "link": "https://n.news.naver.com/mnews/article/654/0000193766",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“누가 아재폰이라 했나요?” 한 달은 기다려야…‘여권폰’으로 입소문나더니 ‘역대 최다 판매’",
-        "link": "https://n.news.naver.com/mnews/article/011/0004648555",
+        "title": "넷마블, \"하반기 신작 라인업 조정…기존 게임 수명 확대할 것\"[컨콜]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005799376",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KIST, 전기·빛 신호 동시에 읽는 광반도체 BCI 칩 개발[과학을읽다]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005799215",
+        "title": "SKT 2분기 영업이 67% 증가…AI 데이터센터 매출 2배로",
+        "link": "https://n.news.naver.com/mnews/article/032/0003462406",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG CNS, 전국 14개 공항 AI 마스터플랜 수립 사업 수주",
-        "link": "https://n.news.naver.com/mnews/article/293/0000088637",
+        "title": "LG CNS, 전국 14개 공항 AX 추진… KAC 마스터플랜 사업 수주",
+        "link": "https://n.news.naver.com/mnews/article/366/0001184388",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 2분기 영업이익 5660억원으로 67%↑…AIDC 매출 급증(상보)",
-        "link": "https://n.news.naver.com/mnews/article/277/0005799067",
+        "title": "'한국 효과' 이 정도였나…1년 만에 '100조 잭팟' 터진 곳",
+        "link": "https://n.news.naver.com/mnews/article/015/0005317694",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "전남광주특별시, '반도체 클러스터 지정' 긴급 점검회의 - newsis.com",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lcDhJd21PMU40eEEzRXBYbHlGX05NMjZ5c2V5SFRldG9RN18tRGt1N0hETmlWMkxoZnlkQURkWXlKa0dMcHBIeHVHTjFsak40SkJycVNuTmFnM3JXWFZXNdIBeEFVX3lxTE9LNEluWUJodmZNczB6T05fc2NldVVwdXVKbTdLaTNmMldvZEYzWnJtUzBQWWx0RWprWGwwaWNfLUFoSnBSNHpWeXFMa0Z2ZzBzdVZuUTN2ZXpKRmpTX29vNEhjdVNPcHVVRDZ4dlNSWklZMFJ1dEF1TA?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[단독] 산업부, 반도체 클러스터 공모 추진…SK하이닉스도 신청 가능 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5U1ZaZUw4MkdIM2NxSWVYNkRlNzZLWTZNZWRJQTFrNm92VGh3b0EzTjdWUUlKaU9yaDF2VzdXdl8xbGFwWEpzVnNCd3V4V28?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남 반도체 클러스터 로드맵 윤곽…전력·용수, 내년 7월 착공 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc1o1cndhTWxoY2J4Vmc2RjAxUmxNamNfR2MxZVM0b2VWZW5rQXY0emZlcmloY21yZGp2MXdQMGc3RVM0amJQeklsQmYxR0VKcTMtb0c2NFBJcjDSAWBBVV95cUxNaGNXY0JxXzQ5RUFpWWh3ZmVhRTlfN3BjYnNSM3pwemZsaWFHVmRBbUFrWklhc3l3ZFlwRTJJSTlNMTdvaVhGems5MFNTQkZwRHdMOVhJMW1DcDZiakkydHQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "전남광주특별시, '반도체 클러스터 지정' 긴급 점검회의 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lcDhJd21PMU40eEEzRXBYbHlGX05NMjZ5c2V5SFRldG9RN18tRGt1N0hETmlWMkxoZnlkQURkWXlKa0dMcHBIeHVHTjFsak40SkJycVNuTmFnM3JXWFZXNdIBeEFVX3lxTE9LNEluWUJodmZNczB6T05fc2NldVVwdXVKbTdLaTNmMldvZEYzWnJtUzBQWWx0RWprWGwwaWNfLUFoSnBSNHpWeXFMa0Z2ZzBzdVZuUTN2ZXpKRmpTX29vNEhjdVNPcHVVRDZ4dlNSWklZMFJ1dEF1TA?oc=5",
+        "title": "김영훈 “반도체 52시간, 예송논쟁 안 돼…메가특구도 합리적 토론해야” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56NGRlQmZNSTdKTWI5Ni1SLWV4WUJzMnZOT0FwTjlxMzZpOG1uYVRVaHFJRThWdkRvNmxZN2sweGRZRlpZcjYwQmRVUUxEVTBIek1MUlk0aWk0dFE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"삼전닉스, 중국산 반도체장비 현지사용 검토…美 수출규제 대비\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WM2JJRmZUTEVOLUdDdmh2ekFGT3VzNmpJTHdwZGdDYldGOUdKOG5nVmphOGRTN1RVRjdLQ3U1SkYtMlh1VjdjUTd0ZEN0eXJEREFsNUEtUFRoR0Q1MEFZTm82TzkwNEVD0gFuQVVfeXFMTnhWdUFYUzltX3VfMS1xd3VGYTVrZlJvdXdLeUpvWlhHRWNoVVB6emJsT1JFSXJvaWxBMTFXaWJTQ0RwTXd6MnNvM3dkRGcyMHJESVFDTm4wS1pVY3phRDVfWUZEbVRUczdpaDRPZHc?oc=5",
+        "title": "\"코스피 체질 좋아졌다\"…삼전닉스 시총 54→51% '비반도체' 약진 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meGEtZWxIZ2lQVl81bDRqSVRaVUYtakRMSWpGNm9BaV9zMng3UFBLWXkzMzlWYkhBOV9xSUYzQ1hoTEtsNEFPbENmNDRYMWs?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,11 +58,6 @@
       {
         "title": "\"이것도 AI였어?\"…드라마·예능 장악한 인공지능 기술 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NVpDYXFxX2UteS1SWnQtanFXWi1xbk8yRTRqa3dhWXNGNk5lbkJNY1MyTUJZTGNzNUNUa1pQMkFMZHB3aTVNQkpyc053N05IWVRkRmt3eTBBWHfSAWBBVV95cUxPcmlJZTBfTElVQnhOMXdfXzl0bS1adDlfOGtBQ0dta2xTUTEtbXV4MXN5UzliNXRyWlk1MjIzaGx5ZzB6U0VRWkY4M1R0MkUtZk01cWd5ZEVDNWZkaGhJRWI?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "퓨리오사AI, 스웨덴 15MW 인공지능 데이터센터 구축…유럽 AI 추론 인프라 상용화 본격 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4U1hHSjhNOGg1aXU3NlA4VFg2Sm1ablBSWUU5aDliWGxjUExJdnZxcENVYXU0SWNXS01DbE5mbUpSQXZUMDhoVDNieGhMS2x5U3poOXJuNXVMeFkxNkdlcXh4ZWxDbE0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,6 +71,11 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "퓨리오사AI, 스웨덴 15MW 인공지능 데이터센터 구축…유럽 AI 추론 인프라 상용화 본격 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4U1hHSjhNOGg1aXU3NlA4VFg2Sm1ablBSWUU5aDliWGxjUExJdnZxcENVYXU0SWNXS01DbE5mbUpSQXZUMDhoVDNieGhMS2x5U3poOXJuNXVMeFkxNkdlcXh4ZWxDbE0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "공단, 'AI친화적 문서 자가진단' 개발···인공지능 활용 문서 작성 지원 - 의사신문",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5STVVuNDI1WFYyTzd4TlhwdmUtT0N4MXJybHVHSmgzODJUaGtibnBQUlNDX1lJbmVacWxFWUhxMEROWWZva2FqU0lBUjl6ZG13S2FETzNocnZkNGw1a1ZqRkI5aHdBQVFHdUhqRkxSSQ?oc=5",
         "source": "구글 뉴스"
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "중수청 정원 2,874명 확정...10월 개청 맞춰 임용",
-        "link": "https://n.news.naver.com/mnews/article/052/0002388879",
+        "title": "시어머니 살해한 60대 며느리 구속…\"약 문제로 갈등\"(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016236003",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이흥구·노태악 후임 동시 임명되나…조희대 결단만 남아",
-        "link": "https://n.news.naver.com/mnews/article/421/0009097103",
+        "title": "용산 거주 20대 일본인女, 라이브 방송 중 사망",
+        "link": "https://n.news.naver.com/mnews/article/020/0003738944",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘강남 뺑소니·술타기 의혹’ 배우 이재룡 불구속 기소…음주운전은 불기소",
-        "link": "https://n.news.naver.com/mnews/article/666/0000118084",
+        "title": "경찰, ‘탱크데이’ 논란 스타벅스 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/020/0003738974",
         "source": "네이버 뉴스"
       },
       {
-        "title": "물놀이 즐기려 샀는데...'직구' 물안경 유해물질 범벅",
-        "link": "https://n.news.naver.com/mnews/article/052/0002389460",
+        "title": "남종섭 경기도의장, 전국 16개 시·도의회 수장 올랐다…8년 만에 주도권 잡은 경기도의회",
+        "link": "https://n.news.naver.com/mnews/article/014/0005557768",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“기동대 인력 투입” 수사 인력 부족 예상한 경찰의 해법",
-        "link": "https://n.news.naver.com/mnews/article/021/0002809464",
+        "title": "“스벅 가야지” 선창…배재고 학생 2명 중징계",
+        "link": "https://n.news.naver.com/mnews/article/005/0001865042",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-05 19:38"
+  "updated": "2026-08-05 21:12"
 }
