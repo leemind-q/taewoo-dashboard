@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, AI DC 매출 전년比 92.5%↑…'AI 실적' 본격화",
-        "link": "https://n.news.naver.com/mnews/article/018/0006344845",
+        "title": "SK텔레콤, 영업익 전년비 67% 성장…AIDC 매출 2배 급증",
+        "link": "https://n.news.naver.com/mnews/article/011/0004648683",
         "source": "네이버 뉴스"
       },
       {
-        "title": "K-원자력안전, 원칙대로 심사…계속운전·SMR 등 속도",
-        "link": "https://n.news.naver.com/mnews/article/003/0014108002",
+        "title": "애플 웃고 삼성도 선전…2분기 글로벌 스마트폰 매출 역대 최고",
+        "link": "https://n.news.naver.com/mnews/article/119/0003118433",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우정사업본부-산업은행, 1조 'AI 인프라 펀드' 조성",
-        "link": "https://n.news.naver.com/mnews/article/421/0009098997",
+        "title": "퓨리오사AI, 스웨덴 15㎽ AI데이터센터에 추론 가속기 공급",
+        "link": "https://n.news.naver.com/mnews/article/029/0003040928",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산테크노파크, 블록체인 혁신기업 10곳 베트남 진출 지원",
-        "link": "https://n.news.naver.com/mnews/article/001/0016234070",
+        "title": "디노티시아, FMS서 'AI 앱 어워드' 수상…'데이터 연산 칩' 첫 공개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006345323",
         "source": "네이버 뉴스"
       },
       {
-        "title": "류제명 과기정통부 2차관, 청주우체국 찾아 폭염 대응 점검",
-        "link": "https://n.news.naver.com/mnews/article/031/0001047477",
+        "title": "과기정통부, 블록체인 특성화 대학 2곳 선정…융합형 인재 키운다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005395981",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "대통령이 직접 반도체 정책 챙긴다…반도체특별법 시행령 국무회의 의결 - khan.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMlJBX0F1N1RaWkNVQ3lBOEN4dHc3S3d4SU5GYkR0bVFCLTdGNnhqY1V1V2N6N0wxT29xU0ZvWTBsRk9DZ01NSkVldlpiOGlDcjBGNEF6dXRrd9IBX0FVX3lxTE55a2RGRGpRY0xIZHJXLUlsZFFZY2NHQU53QndkRWVkT3dPMzNuUUNiTHRrbkpqT0N4MzNkTHZJdkljLURkMloyR3JmakVoakhsTU83aUtTNnpmVHRjdmhN?oc=5",
+        "title": "전남광주통합특별시 반도체 클러스터 지정 전방위 총력전 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ScWxMMWJtOWVCazZJM09mOWdXcEZULTUxQW5hWjM3VVp6MzJTU3JmYlR6OFNpVWJMaFJMVU55ekt2SHpiOE5TdG1HTDljRU9wRV85NzBhVXpVOVV0bHV6LVpLcVFqUmJxclpGZkVPTEs?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "호남권 반도체 유례없는 '속도전'…정부·지자체·기관·기업 원팀으로 '2030년 6월 양산' 목표 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ISjFoTU93Z2l0dnhuZjJOdFV0b2xnLWJDU2UzN0RyczhmbkdqcXlwWTNJMjUzWENOMlN5dGJuSzkzUV90X1FxYWVpRzBVUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "전남광주시, '반도체 클러스터 지정' 긴급 점검회의…전방위 총력전 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd0xoLVljVmdidGJpTTkwSUtvTDF0aFY4SzJ4TURTaDIxbE1HLTVYaUl0TkVkYkVxdDJWTlZ0Z2NicEFJSzN5Z19XRGpDdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,25 +49,15 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "中 화웨이 반도체 총괄 “엔비디아식 반도체 기술 개발 한계 부딪힐 것” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JNGgxcXFZQXpnSVRJR3ZhUzNCMGNzV1FKNHdVd3UzNXM5R1Z4VDVPWFlDT3RfNzRtUFprNTlnQ0RIQUgxdEFGc1FVV29iczA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "아이비젼웍스, 웨이퍼 검사 장비 내놓는다...내년 고객사 평가 목표 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pS3pVYVVjSXo5QWNMTHlraS1vdTN4R1FGOElwZFo3dWx1RW9IaW9UTDlMbm5TaElfSE80OEp6TFFsVDN0eS13TnU5N3VoNzlhUTR0bGhSUGREa0Joa09vSWVjXzFJUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경희대, 용인시 고등학생 대상 반도체 교육 프로그램 운영 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUS1BFQnFJX24zRUczZ1NsY05RS0FoT01wTEJFVk5SdXgtQkZjR2VfZmJPa0IycjFwTzBLTldqMUhaSFdxQmRWNEVLWHNSdw?oc=5",
+        "title": "고삼저수지 직방류 논란… 안성시, 용인 반도체 시운전 보류 요청 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVTdIYW9OTVJSWVUxOGFkYzdGRE41SDkwYUlmb25peUVkWkFsbU1FbHlDWHVkUmxQWkFxa2E3OUZISXJxWFhualNEU0ZnWDhJU3BLX0Y3cFYtOUdybDFoN01KUFB0TlFVM2lyRF9LYw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "‘태양광 사기’가 ‘AI 사기’로 - 법률신문",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xR1YxeHVGdWQzM1JPWF9LZlpMMVl0a0J4Z1BXbFJNQkh3SWNuMDZ1aVFPY0lxR3BxSFc2Um80ZVRiZUUzYWFnWVJnUkZlVjFWdEpiUVl5TnlCZEhEVlN1dzlnZHh2ZDZWWW90RC1n0gFyQVVfeXFMT25FWUViN3k0Q2J2S2FWUWpMbDVJeTA0aFFqZDlYcnRTX18zV18wVFpLNG85YkVleVZDQThyaUctcjN4LUl3UGlod1NiYnFlaWZFMG1US0pxWkt5WU51QzZib2RzWi1lb3dfMkdNS2t4Z0tB?oc=5",
+        "title": "인공지능(AI) 기술 도입으로 교육행정 대전환 - 전민일보",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IRWRPZXZoVVR5N29wRHEydE1tZHBXc2FaYXFCSUZUNHdCcDhnNnpmZ3BBcUhQMFB0ZWd2MmlaT2xnSHdCUG5fcDhCX3F4ZXhHZU9ZSTJWYXlGTC1lbV83RjJRM2h5M0tlM1Bv?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,13 +66,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "충북도, AI 복지행정 본격 추진 인공지능 기반 서비스 혁신 - welfarenews.net",
+        "title": "충북도, AI 복지행정 본격 추진 인공지능 기반 서비스 혁신 - 웰페어뉴스",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTOVVmeWQzcHFWR09rbUViMi1mcjJEYnZ3b1I1NHc1a290RUtNakx2T2JaODdSVUxRNFpCOTdiWFVacFRGZm1GTHZ4VHpqWHR3VFZmZ2JIS09WOS1nV1N5MFdmbTBrNGl6eVNWWkk0Yw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"이것도 AI였어?\"…드라마·예능 장악한 인공지능 기술 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NVpDYXFxX2UteS1SWnQtanFXWi1xbk8yRTRqa3dhWXNGNk5lbkJNY1MyTUJZTGNzNUNUa1pQMkFMZHB3aTVNQkpyc053N05IWVRkRmt3eTBBWHfSAWBBVV95cUxPcmlJZTBfTElVQnhOMXdfXzl0bS1adDlfOGtBQ0dta2xTUTEtbXV4MXN5UzliNXRyWlk1MjIzaGx5ZzB6U0VRWkY4M1R0MkUtZk01cWd5ZEVDNWZkaGhJRWI?oc=5",
+        "title": "농업에 스며드는 인공지능(AI), 경상북도정보화농업인이 이끈다 - 구미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOSkxKdWdFU2txMk5LQ1FDQ09HS1RaMUdhaDRic2FybnloNTgxNGlBUzdEU3M2bFhKSUpNX0lGODlCTXNtOU9UVlNrVHVmTndLY3l3bTVvenlmR0k4bXBaaFlYcTYzeWJ5VW9vUm5WVTY5cXIz?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "삼성전자, 한강 생태복원 나선다…민관 협력 ESG 사업 확대",
-        "link": "https://n.news.naver.com/mnews/article/029/0003040757",
+        "title": "수사권 쥔 경찰, '형소법 개정' 맞춰 수사·제도 정비 착수",
+        "link": "https://n.news.naver.com/mnews/article/277/0005799310",
         "source": "네이버 뉴스"
       },
       {
-        "title": "온열질환자 이틀간 400명 폭증…누적 사망 21명, 지난해 넘었다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009099070",
+        "title": "추미애 “경기도 재정 비상 상황…더 끌어다 쓸 재원 없어”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003738805",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"스타벅스 가야지\" 응원 선창한 배재고 야구부 학생 2명 중징계",
-        "link": "https://n.news.naver.com/mnews/article/469/0000946280",
+        "title": "경찰, 수사 인력 보강·AI 기반 수사지원체계 구축…“수사 역량 강화”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012231992",
         "source": "네이버 뉴스"
       },
       {
-        "title": "9월부터 부산~서울 KTX 운임 5만9800원→5만4400원",
-        "link": "https://n.news.naver.com/mnews/article/658/0000151503",
+        "title": "6일, 7일 중 서울 40도 넘을 수도…",
+        "link": "https://n.news.naver.com/mnews/article/374/0000525830",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, '탱크데이' 논란 스타벅스 압수수색…국민의힘 \"하라는 일은 안 하고\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003118457",
+        "title": "신남성연대 대표, 인천 영종도 아파트서 숨진 채 발견",
+        "link": "https://n.news.naver.com/mnews/article/422/0000892692",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-05 08:39"
+  "updated": "2026-08-05 11:22"
 }
