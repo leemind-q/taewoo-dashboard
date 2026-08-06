@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "원안위, '폭염 대응' 원자력이용시설 안전관리 긴급점검",
-        "link": "https://n.news.naver.com/mnews/article/003/0014109541",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "“AI 인프라 사업 진출 없다”…카카오, B2C에 역량 집중",
-        "link": "https://n.news.naver.com/mnews/article/011/0004649115",
+        "title": "제미나이 설계자마저 이탈…구글, AI조직 본사 중심 재편",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649282",
         "source": "네이버 뉴스"
       },
       {
@@ -17,97 +12,50 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국, 자율주행차 국제표준화 이끈다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016237136",
+        "title": "차홍기 ETRI 실장, ITU-T 자율주행차 표준화 그룹 의장 수임",
+        "link": "https://n.news.naver.com/mnews/article/421/0009100424",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨, ‘게임스컴 2026’서 글로벌 신작 3종 선",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717379",
+        "title": "CJ ENM, 장중 5% 상승…2Q 호실적·KBO 중계계약 예고",
+        "link": "https://n.news.naver.com/mnews/article/008/0005396528",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'6년 전 주가' 카카오 2분기 매출·영업익 역대 최대",
+        "link": "https://n.news.naver.com/mnews/article/057/0001962285",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "\"반도체 이후 대비\"…자동차·바이오 등 주력 산업에 AI 입힌다 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10bnZkeFNvTVBvNk00Z0Z4R3ViU1VaSmlfc2FRdGdIT2JwaHpqdTZXRnVDMS1xVElkcDhvRE4xQzFLazFfVDhhX3k2d0tGS3FCdVRrVmJKc0ZhMDA2RUhHRjhYUUlOZVZGeWxJ0gFwQVVfeXFMTk94WmQwX1dTa0RtOVNTU0g3endCanVQSkoyUUZyOXpwSmNhYWF3ZnJYbng2YVB1Rm1iLTNQb1JfQWUweVQ5U0h6RjEya0RRN3FoRGFnQ3pOSnZSdXJvSFlZdEt4SXdCTkFGWHhCcGhlWg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa2VrZ0Y4WG5qRHJnOXlfMEZZU280aFlQLW9uM1hhNHBIdDA3V2ZpdDVrd18wUXhxTlZKNy1aZkdwZDhOc21WQm42cHYzek0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국산 AI반도체, 현장 투입된다…600억 들여 22개 실증 착수(종합) - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RTGY3emJOXzlKcGpnMVpuZ1o1UjVWTTcyOGJVeWg1bU1YUE51cU9FRkhfSnItaWtVRUR2djdVWUZ5T0FwU3Y4TVdTRVI0bTBpNGJJMnV1R0VYUURrM2c?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "대통령 직속 특위 신설·인프라 100% 지원…'반도체 특별법 시행령' 통과 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZzA5QUFxT25paTNCSzMxUlhHcGZGX1hwRHVFamg2UVMzVDktTU1BMm1vWi1rTm5xZzM5M2dZTXE2d1cxMEE1aTlxaEtzNXRIN1lkZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광주시, 용인 반도체 통합용수공급 관련 공직기강 확립차원 경고조치 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JUm5yc2JwYzR4YXZjbHVTOGQ5R242YlRmeEdTdGY2WVRLVEdSckZyQmlzQVhoUTR3WGlybk9Ed3YzYmduN0lWSFJWZ3dEeUhwaVg4M09peS1WdjFMSng0akozeFUtWTlIUUVUMDRMaw?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "인공지능 활용해 농산물 홍보…전주시 '미디어 파머' 육성 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPcWN2Z2c5WnRfbWEycEx1cnRKOGtHLWUzRXItTVR2aTFNZkNHUDR2M0RzdFRSQ1ZNaGRwSnRrR0hGMjRtbTVqMU1BTm1QZWtCN0hISzBUN1AyV1BHQjlGctIBYEFVX3lxTFBPcWN2Z2c5WnRfbWEycEx1cnRKOGtHLWUzRXItTVR2aTFNZkNHUDR2M0RzdFRSQ1ZNaGRwSnRrR0hGMjRtbTVqMU1BTm1QZWtCN0hISzBUN1AyV1BHQjlGcg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "‘전사적 인공지능 전환(AI Transformation)’ 본격 가동 - 병원신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZTQtZ1oxS0dLYVlwbGlTNGxqVDJNLVpQSmd2aVRqT2N3dzdzMEdUVUk3a3pKby11eUllSU9rOXY2alBtS1hRdmpqRm5MSnRkUlY4RWNRR1l6dkVsV2lkWlpBbE1USGRNc1E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인천시교육청AI융합교육원, 인천형 인공지능(AI) 융합교육 설계 연수 운영 - 인천뉴스",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPdGdCNmYyWnprbVkwa1hlZ1YydFdUZ2s4dmVlamxEczZyQ29XUkFvOERPWVhIUFY2cHlMRnl1ZVFKanMwWW4xWGE1a2pIZXBNeTAwS1hxS2dfTlFyc05aV3h6T1VJVElscVkyMWJFMA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "소름돋는 중국 'AI 군사화'...전쟁 계획도 인공지능이 [자막뉴스] - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5RFI1eDA3VVRfRXhuTmlxSFJzTTBvVjFqRU5HMUxpRm05WnUzRDlpOWlPdllNUU1zS0d1N05veE9MVW4yQnBPd1RNeHdpMUQ1SkVTczdPMVZDS0RKbEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "홍종완 충남 AI 책임관 “행정·산업·도민 생활까지 인공지능 확산 총괄” - 녹색경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04VmN4VDFmZXpVSWd4SjloNW9MZjl6enFOQlRrZjRlZU45c0xVMFN1MVJ2aU1oby1vZXhfSHBOVTd1LWd4VkF3eXV4SFd4eG5iT3RMb05iUXRGTDR1S2cydTZ1cEQ5ejhR?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "신호위반 이륜차 운전자, 잠복한 경찰에 붙잡혀",
-        "link": "https://n.news.naver.com/mnews/article/014/0005558012",
+        "title": "남종섭 경기도의회 의장, 대한민국시도의회의장협의회 회장으로 선출",
+        "link": "https://n.news.naver.com/mnews/article/011/0004648955",
         "source": "네이버 뉴스"
       },
       {
-        "title": "새만금청, 새만금 수산식품단지 면적 확대 승인…13만→26만㎡",
-        "link": "https://n.news.naver.com/mnews/article/001/0016237423",
+        "title": "'홍명보 감독 선임 의혹' 첫 압수수색‥정몽규·이임생 휴대전화 확보 시도",
+        "link": "https://n.news.naver.com/mnews/article/214/0001516264",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제7회 '섬의 날' 기념식 6일 여수서 개최…리센느·하현우 등 축하공연",
-        "link": "https://n.news.naver.com/mnews/article/015/0005317631",
+        "title": "용산구 \"용산공원 주택공급 반대‥국가자산 가치 저해 안 돼\"",
+        "link": "https://n.news.naver.com/mnews/article/214/0001516318",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대구 경찰, 음주사고 도주 현직 경찰관 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/005/0001865300",
+        "title": "이준석 “경기도 재정위기는 예고편…이재명표 복지가 원인”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005716991",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고려대, 유승민 딸 ‘논문 쪼개기’ 의혹 “문제없음” 결론",
-        "link": "https://n.news.naver.com/mnews/article/028/0002817394",
+        "title": "경기신보, ‘경영전략 워크숍’서 민선 9기 정책 연계 논의",
+        "link": "https://n.news.naver.com/mnews/article/009/0005717619",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-06 06:33"
+  "updated": "2026-08-06 09:41"
 }
