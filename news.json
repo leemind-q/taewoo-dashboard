@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버, 2분기 역대 최대 매출…영업익은 전년比 0.2% ↓",
-        "link": "https://n.news.naver.com/mnews/article/277/0005800060",
+        "title": "카카오 노사, 3개월 만에 임금 협상 타결⋯갈등 봉합하고 AI 속도전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/031/0001048140",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오 노사, 임금협약 최종 타결…연봉 6.3% 인상",
-        "link": "https://n.news.naver.com/mnews/article/057/0001962565",
+        "title": "과기부, K-문샷 AI 과학자 미션 PD 공모…이민형 대표 사임 두달만",
+        "link": "https://n.news.naver.com/mnews/article/277/0005800301",
         "source": "네이버 뉴스"
       },
       {
-        "title": "컴투스 '제우스: 오만의 신' 26일 출격…\"모두를 위한 MMORPG\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009103192",
+        "title": "데브시스터즈, 2분기 영업손실 160억…'쿠키런' 재도약 노린다",
+        "link": "https://n.news.naver.com/mnews/article/421/0009102794",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지방 일반고 3곳, 영재학교로 바뀐다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005717995",
+        "title": "네이버도 빅테크 길 간다...AI 투자에 이익 감소",
+        "link": "https://n.news.naver.com/mnews/article/215/0001261566",
         "source": "네이버 뉴스"
       },
       {
-        "title": "라이엇게임즈, 더현대서 TFT 축제…'신비의 숲' 현실로[가보니]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016239362",
+        "title": "구글 인턴이 딥마인드 수장 됐다...구글 AI 소방수 누구?[김창영의 실리콘밸리 룩]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649414",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,13 +34,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "대통령 직속 특위 신설·인프라 100% 지원…'반도체 특별법 시행령' 통과 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZzA5QUFxT25paTNCSzMxUlhHcGZGX1hwRHVFamg2UVMzVDktTU1BMm1vWi1rTm5xZzM5M2dZTXE2d1cxMEE1aTlxaEtzNXRIN1lkZw?oc=5",
+        "title": "용인·청주에 반도체 공장 추가 건설… 하이닉스, 54조 투자 확정 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mU3E2Q2k0a3RwWndxUFFySkszQS1rZElBYl9XZHI5OUlCSXJjYk05M0RDNml3UVJvVHNNM2NFUEotRHVCY2hvLUdta1dpWU0?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘298만→149만원’ 주가 반토막 났지만 “믿는 건 반도체”…개미들 폭풍 매수 [투자360] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DckhHaVMxR0U4aHNjYktXZVFRTnlacTUyTS02M2Z3YXBPdVZPX3RGOHpOYTB1NlpkWGVLcVFwbU5aTUw2RkxMajI0LVlrUjg?oc=5",
+        "title": "[김대호 진단] 반도체 열전 (32) 트렌드포스(集邦科技)... 메모리 풍향계 \"시세조사 1인자\" - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlozcUpIRU1uXzBGNDF6cDNoSTk0TTZCM2NOdnJONXhETGQxTVpKTHVDMXRfOV9sYkdnSl9WOXpvS3E3REtSNFNSNG9TX1U0ZE5oOXJxWDRPeE1KdHozY1Q4WnAyNUktbV9lOEs3aDN5czN2XzFDTjVSRG5hS28xSmhkdFM?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,12 +49,17 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "美, '반도체·태양광 핵심 소재' 파생제품에 15% 추가관세(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hX2tBbEdob0U2UV9jM29YWFQ3QXdKdEdXdEhnR0pmYkZaRWNJTjZXdkllZWFIR19IMUhNSVozUlhpcVdqMTYyOGJ2QWMzVmQ0ZjZVR0JJa0d0YXfSAWBBVV95cUxNR0Z2ZGwzaUFmQl9HN3dVRVU2T0hjeHluYm9zZ1RYSm92M0tPRjhqSlhzLXpHbVBMN2RvdGxPWjJXaThVVFJHd3c1RVRpYVY4bURyUDc4UGVKT2JBMmVZVnM?oc=5",
+        "title": "트럼프, '반도체·태양광 소재' 폴리실리콘 파생 제품에 15% 관세...한국 기업도 영향 - YTN 사이언스",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0xtQ2tPQnBCbVFyRFkzVXFXa3NmTGpoWUVQTGU3UC1ZZVk4WTdmMDlnZmtvcmtWSlRCcFJ6cFlMY2VNWEhpUmY0N29kRmh3LWR3aVl2Wl95SUFUNlBvOFByRlYzOW4yeHdHN0R1Smt5V2JVTWZGTTVwZGxzTlJvSGNFb2RYYmtDMHhqSw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "건보공단, 생성형 인공지능(AI) 활용 홍보 콘텐츠 자체 제작 - 의약뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN3NQYnRhaUFSZHVURHZoeG9sQm1vNkZteENzQm0yUEdGTzNmU2RSMFNKT3hxb2JsQTZ0NVlfdmRHSG1zUE1iVzFZbFMxUHdxNTRFUWtneGgyOGdZYVJteGI3MjdydVU?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "제주, 행정 AI 산업·생활로 확대…13일 워크숍 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oa2JMdE5YX3pXbE80N0ZGTmp1OEJKNE5MUEdNT0dlYW0waHBXNVNaZnhiclZVa1ZibG9CT2dsOWVxSFEwcFktVTN6ZExOc3FaVWJFRXlyemo2YXZlTHpkMtIBYEFVX3lxTE1oa2JMdE5YX3pXbE80N0ZGTmp1OEJKNE5MUEdNT0dlYW0waHBXNVNaZnhiclZVa1ZibG9CT2dsOWVxSFEwcFktVTN6ZExOc3FaVWJFRXlyemo2YXZlTHpkMg?oc=5",
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "건보공단, 생성형 인공지능(AI) 활용 홍보 콘텐츠 자체 제작 - 의약뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN3NQYnRhaUFSZHVURHZoeG9sQm1vNkZteENzQm0yUEdGTzNmU2RSMFNKT3hxb2JsQTZ0NVlfdmRHSG1zUE1iVzFZbFMxUHdxNTRFUWtneGgyOGdZYVJteGI3MjdydVU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "제주, 40㎿ 규모 '그린 AI 데이터센터' 구축 구상 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OYVRiNkYyOHkzTFVGaFBtUjNRNkxKLURkY0loMndfS0ZKQ0xDUEhyd0E0VThGYXA4YlJ2alE4R3BydlVkQVhmeHVXQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 - 미디어피아",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSUtLLVpEN0JyS1lVZG54RUZiLXA5NlFaQUtoXy1QcmFSRlh0U3RHVWVZNGV5eUFMNW9adFdwaU9ONDA1RzlHRWRxVlZnQWw4VkhWeWdlanRncExGM2RKZlJpZkthaVE1UXg2Wg?oc=5",
+        "title": "\"인공지능, 태풍 예측 정확도 하루 앞당겼다\"...구글 AI 기상예측 '웨더넥스트', 모델·코드 전면 오픈소스 공개 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVdVI0a1NVS2wxUUtTOG90bWx2bU10anhNdUlRTEVncUd3YUFfOVdDNlRLVU15Z2pEeXMxallMOGR5TVY2cjlGWHc4bktEUW1IYnk4RnpxeDhXaWRYU0JmWXlEbGVxMFE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘채상병 순직’ 임성근 前사단장, 2심도 징역 3년…“책임회피 급급”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003739292",
+        "title": "'입추무색' 노원 40.2, 하남 덕풍40.7…주말 살짝 내려간다",
+        "link": "https://n.news.naver.com/mnews/article/374/0000526247",
         "source": "네이버 뉴스"
       },
       {
-        "title": "폭염 속 평택 농촌마을서 80대 남성 숨져…경찰 \"온열질환 여부 확인 중\"",
-        "link": "https://n.news.naver.com/mnews/article/055/0001378910",
+        "title": "‘순직 해병 책임’ 임성근, 2심도 징역 3년… 法 “안전보다 성과 치중”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649562",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"폭염에 사람이 울고 있다\" 출동한 경찰, 30년 전 실종된 50대 가족 찾아줘 [고마워요, 공복]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005558625",
+        "title": "경찰, 9월 초부터 상피제 전격 실시…가족 사건 수사 못한다",
+        "link": "https://n.news.naver.com/mnews/article/449/0000355997",
         "source": "네이버 뉴스"
       },
       {
-        "title": "의왕·진천·강남·서초 등 9곳 압수수색…합수본, ‘투표 통계 조작’ 수사 확대",
-        "link": "https://n.news.naver.com/mnews/article/005/0001865552",
+        "title": "2차 종합특검, '관저 감사 무마' 유병호 구속 기소",
+        "link": "https://n.news.naver.com/mnews/article/214/0001516510",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해남에 국내 최대 규모 태양광 발전단지 조성",
-        "link": "https://n.news.naver.com/mnews/article/032/0003462687",
+        "title": "서울 등 폭염중대경보 모두 해제…폭염경보는 계속",
+        "link": "https://n.news.naver.com/mnews/article/018/0006347057",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-07 14:32"
+  "updated": "2026-08-07 15:58"
 }
