@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "'창사 첫 파업' 카카오 노사 갈등 일단락…연봉 6.3% 인상, 격려금 300만원",
-        "link": "https://n.news.naver.com/mnews/article/015/0005318579",
+        "title": "카카오 노사, 임금협약 최종 타결…6.3% 인상·특별격려금 300만원",
+        "link": "https://n.news.naver.com/mnews/article/119/0003119544",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리얼월드, 국내 로보틱스 3사와 피지컬 AI 협력",
-        "link": "https://n.news.naver.com/mnews/article/018/0006346659",
+        "title": "네이버, 2분기 매출 16% 성장…AI 투자에 영업익은 숨고르기",
+        "link": "https://n.news.naver.com/mnews/article/119/0003119276",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "스피커에 말하면 일정관리·예약해준다…스마트폰 대체할 'AI스피커' 등장",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718155",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "제미나이 이끈 ‘구글의 전설’, 27년 만에 퇴사",
+        "link": "https://n.news.naver.com/mnews/article/023/0003991741",
         "source": "네이버 뉴스"
       },
       {
         "title": "컴투스 ‘제우스: 오만의 신’ 8월 26일 출시...하반기 MMORPG 대전",
         "link": "https://n.news.naver.com/mnews/article/009/0005718085",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "‘구글 창업자’ 브린, 구글 AI 지휘권 쥔다… 허사비스는 장기 연구 전념",
-        "link": "https://n.news.naver.com/mnews/article/366/0001184966",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "네이버, 2분기 역대 최대 매출…영업익은 전년比 0.2% ↓",
-        "link": "https://n.news.naver.com/mnews/article/277/0005800060",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,30 +34,35 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "‘298만→149만원’ 주가 반토막 났지만 “믿는 건 반도체”…개미들 폭풍 매수 [투자360] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DckhHaVMxR0U4aHNjYktXZVFRTnlacTUyTS02M2Z3YXBPdVZPX3RGOHpOYTB1NlpkWGVLcVFwbU5aTUw2RkxMajI0LVlrUjg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "트럼프, '반도체 핵심 원료' 폴리실리콘 파생상품에 15% 관세 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQVg0VVNJN0w4WHdDUFBvbmdld1lxTV9yc1VIRHlIMnFRMlJ1cW94NGpPY1B3cU1fTlYtZF9yOGpYVGtyajd2UmI4SGNGQjVVdGxnTFM4NWx5dTjSAWBBVV95cUxQYnVnOGJlRnNTUVB3OVdDRmZPOF9tT0Z1dU5VcHFxSHoxa0JHbXZGRVNtVGlOdlpHc2ZXS2RhN0FPR3lNSHI3RWhmTUJpaG43U0I5S3N1TWdSZFQ2dGF5aGM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프 폴리실리콘 15% 관세에 한국 반도체보다 태양광 긴장 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rLTV2YjI0X3hlV0duVG9tMndLRlNQaWtxcGxGc1BRWE56LU9jNm1mX0dGanh2T2ZqX2ttQmNFblpFQnhyVW03bEh5TmdNRWM?oc=5",
+        "title": "노트북, 새로 사도, 고쳐 써도 비싸다…AI발 반도체값 상승 영향[경제뭔데] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yd2tSY3hCQ2JESHBPUk5ROWFMTTIxME5wUjNxTEFyT3EtajVzS0VBNEF6Yjc4OFppQmp0VElMcHR5dFM5U0JIeVJ2NnNvQTA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프, '반도체·태양광 소재' 폴리실리콘 파생 제품에 15% 관세...한국 기업도 영향 - YTN 사이언스",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0xtQ2tPQnBCbVFyRFkzVXFXa3NmTGpoWUVQTGU3UC1ZZVk4WTdmMDlnZmtvcmtWSlRCcFJ6cFlMY2VNWEhpUmY0N29kRmh3LWR3aVl2Wl95SUFUNlBvOFByRlYzOW4yeHdHN0R1Smt5V2JVTWZGTTVwZGxzTlJvSGNFb2RYYmtDMHhqSw?oc=5",
+        "title": "반도체공학회 \"연구개발직 주52시간 개선해야…메가특구특별법 제정 지지\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90LXVYRnJYMVhNZ1dNUi1xUk9faWZsSTg5Mmk5NVhuODlINFRtWHAxS3laWVN0bVhtZGRnWGJiYjJhLXpjQTc2RlQ5WU1KczlJMTFrcmVn?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체공학회 “일률적인 주 52시간제 유지하면 미·중에 추월당해” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSGw4Y2hKSXZmSWYyOThYQnJ0c25odTNBMEI4SU9MUzQ0djgzWEZnb0hET0d2b0JXYU1WRmhSRVFfMHpncmNmWlZOZFRrR0NqOG9yd3lLOVZXOWM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "건보공단, 생성형 인공지능(AI) 활용 홍보 콘텐츠 자체 제작 - 의약뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN3NQYnRhaUFSZHVURHZoeG9sQm1vNkZteENzQm0yUEdGTzNmU2RSMFNKT3hxb2JsQTZ0NVlfdmRHSG1zUE1iVzFZbFMxUHdxNTRFUWtneGgyOGdZYVJteGI3MjdydVU?oc=5",
+        "title": "[인공지능 줌인] \"AI가 내 일자리를 삼켰다\"…중국, 무분별한 AI 도입 속 노동시장 '격랑' - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVzM5ZDlaeW5mcHc1dHJGc0pkcnhSVHFuYi12dFkybXUyaTZieDUxcG5GS0VzWFgyeFpMS0Vpa1RTM1RFX3M5N1NIbEV3R0tRMnhoX3gxZS05ZnV4cFVfcENnWHNtMDNPT1RqcDVxbjI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“대답만 하던 AI는 끝났다” … ‘일잘러’ AI 에이전트에 맡겨야 할 업무는 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JamJJczlGNzg0VGhhNTZtU19ybG1Cak9POUFSS3JtdDVFS2dULTFqaWNyZVlFelJOakxXSjcyUDh0NWpJb3MtTGJJR04zZw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "제주 공직자, 업무에 개별 인공지능 더한다...'AI:ON' 운영 - 헤드라인제주",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qa3Zacl9zMUVpM1gxZXEtVjZjdjdDWUYzeWNiRmlWeXRJdVpKYWZ5ZXNzU3FiN3BPeU8yX3QwN2g0MmpQdG5xTUZMajEweGxaa2xlam44SncyQVlDV0h1NlhSQkNjVndWbjh4eUF6Njh0Q3c?oc=5",
+        "title": "건보공단, 생성형 인공지능(AI) 활용 홍보 콘텐츠 자체 제작 - 의약뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN3NQYnRhaUFSZHVURHZoeG9sQm1vNkZteENzQm0yUEdGTzNmU2RSMFNKT3hxb2JsQTZ0NVlfdmRHSG1zUE1iVzFZbFMxUHdxNTRFUWtneGgyOGdZYVJteGI3MjdydVU?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "건보공단, 생성형 인공지능(AI) 활용해 홍보 콘텐츠 자체 제작 - 데일리메디팜",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRGdEZS1oVVNjSkFvYWpVdFp2Yy13aFI0cTBOcjZhcjVkbnFyZUlfUzQ0ZHE3MTM5amVwZE4xaXBBNF9keTNZYURTR3JQdk5xbEtweU52dUZyZXhzM0xDMjExdVBQeFRMVl9Ma0lB?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "제주도, 인공지능으로 일하는 방식 바꾼다…'AI:ON' 8월 운영 - 제주환경일보",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIUU1zNGRRcGR6UktVb3AxaGRFUHFCR3ZaUXVEcEJLNUlBb0NzV0tzRklKLV9xVnFUNl9qZW1kbXRhVUN5eWtLaFh2ZHBqTWFiR0txbWhFekVleXdLRlp1Z1hPLUszSUhF?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이재명 대통령, “해남 청정에너지, 첨단산업 성장 이끄는 동력 되길”",
-        "link": "https://n.news.naver.com/mnews/article/666/0000118306",
+        "title": "조폭 수용자에 뇌물 받고 불닭소스 건넨 교도관 징역 7년",
+        "link": "https://n.news.naver.com/mnews/article/081/0003668623",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 송도 신축아파트서 외벽 테라스 '쾅'…준공 1년 반 만에",
-        "link": "https://n.news.naver.com/mnews/article/055/0001378821",
+        "title": "합수본 ‘투표수 조작’ 강남·서초로 수사 확대",
+        "link": "https://n.news.naver.com/mnews/article/023/0003991909",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, '관저 부실 감사 의혹' 유병호 구속 기소...직권남용 혐의",
-        "link": "https://n.news.naver.com/mnews/article/014/0005558586",
+        "title": "임성근 전 사단장 2심도 징역 3년…\"사고 발생 막을 수 있었다\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005396992",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'여교사 불법촬영' 아들 폰 부순 '경찰' 아빠...피의자 조사받았다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005397160",
+        "title": "“무더위도 힘든데 열대야까지”…내일 낮 최고기온 37도까지 치솟는다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가뭄 속 물 축제 강행 밀양시에 시의회 \"시기 부적절\" 비판",
-        "link": "https://n.news.naver.com/mnews/article/001/0016238615",
+        "title": "오죽 답답했으면…민형배 \"목포·순천대 강제통합 못하나\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014114991",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-07 20:42"
+  "updated": "2026-08-07 21:40"
 }
