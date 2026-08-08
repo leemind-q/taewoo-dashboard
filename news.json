@@ -2,34 +2,39 @@
   "categories": {
     "IT": [
       {
-        "title": "\"오픈AI의 첫 AI 기기는 40만 원 넘는 도넛 모양 스피커...내년 출시\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002390061",
+        "title": "네이버 역대 최대 매출...영업이익은 AI 투자로 감소",
+        "link": "https://n.news.naver.com/mnews/article/052/0002390223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오 노사, 연봉 6.3% 인상안 최종 타결",
-        "link": "https://n.news.naver.com/mnews/article/422/0000893524",
+        "title": "오픈AI 첫 AI 기기 ‘하키퍽 크기 도넛’ 모양 스피커…가격 300~400달러",
+        "link": "https://n.news.naver.com/mnews/article/009/0005717814",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"창 3개 띄워도 답답함 없네\"…'폴드8 울트라', 일주일 써보니",
-        "link": "https://n.news.naver.com/mnews/article/003/0014115283",
+        "title": "카카오, 창사 첫 파업 끝 임금협상 타결…AI 에이전트 띄운다(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006347026",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버 2분기 매출 3.3조 '역대 최대'…영업익 5203억 원",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176522",
+        "title": "챗GPT 무료 이용자도 최신 모델 쓴다…GPT-5.6 ‘루나’ 개방",
+        "link": "https://n.news.naver.com/mnews/article/032/0003462997",
         "source": "네이버 뉴스"
       },
       {
-        "title": "컴투스 ‘제우스: 오만의 신’ 8월 26일 출시...하반기 MMORPG 대전",
-        "link": "https://n.news.naver.com/mnews/article/009/0005718085",
+        "title": "불황에도 '비싼 폰'은 더 팔렸다…아이폰·갤럭시 84% 장악",
+        "link": "https://n.news.naver.com/mnews/article/003/0014113829",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "이상일 시장, 다낭서 '반도체·AI 도시 용인' 알리고 한·베 우정 넓혔다 - news1.kr",
+        "title": "메모리반도체 품귀에 '장기계약' 러시..샌디스크·난야도 LTA 확대 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQYk1CSUdVdjdFb0dkeFBRd3RPS0ZRdUx3c0lmazNoR09ISXJZeHhidzlpaXBOOE5wQXhITFNuZ2x0Yzl0RlEwcmx6aFZhUTR2WmhISndfM3NrS3JOQ2tBVU82aU82cTdubE8yZNIBckFVX3lxTE9xYjVya1g2NEVJY2dqZkxVcTQ2RHJUenFaZnUzV1AwLUNWajQ1OXFpZnpRaVVqaFBqaXY4elBITnRmSUh6SVRxaVZZNmRqbUJlTEYyamxQbWNKRUM1cW1Qc0U0bE5GNkFWZWZ1X0hjd1NlUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이상일 시장, 다낭서 '반도체·AI 도시 용인' 알리고 한·베 우정 넓혔다 - 뉴스1",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aNllRSFpSX3pRWS1jZ2FGWV9ETmRJdUJIcVpqSWsyU3lWUURzZEV2YTctVUg3N1hVNlpNRWt4LXJMckd6bjluUnMtNy13djF1OEJ0WHJ3?oc=5",
         "source": "구글 뉴스"
       },
@@ -39,18 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[산업이(異)면]‘원자재 232조’ 꺼낸 트럼프…K-태양광 수혜 속 반도체 ‘직접 타격 제로’ - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQSDF4Y2ItaXd3a0lfc2RfVGRERVZPQzh5QUZvT2FyVTdLY1VraVF3RWJLZFlBak5IWHluVnI3RWFwcGJTMF9fcHh0bzBCbGtuOHhCNHRpeXBVZ9IBX0FVX3lxTE1QTnFXczIxVW85NWxXU3M3dThTUFdEWXlJMDF5Yi1mNmhoSldaamQyWWRtTF9ldUpiSVdMWHZIb2tTYUk4SW9CVnp0aXpNN2c0dnAtY1BRQXdsa21EVHYw?oc=5",
+        "title": "“반도체 폭락은 일단락됐다”…전문가가 꼽은 ‘8월 반등’ 시그널 - mk.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zaVBEOU9XRHZEbV81QWJJd1hjTnVVYmVQV3RLeEhhc3hZS0V0RlZoRlJqcl92YkR6YmhMcjJ1Y01BeWhsYkxPZ1pfdHgxVEh2UVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프, '반도체·태양광 소재' 폴리실리콘 파생 제품에 15% 관세...한국 기업도 영향 - science.ytn.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0xtQ2tPQnBCbVFyRFkzVXFXa3NmTGpoWUVQTGU3UC1ZZVk4WTdmMDlnZmtvcmtWSlRCcFJ6cFlMY2VNWEhpUmY0N29kRmh3LWR3aVl2Wl95SUFUNlBvOFByRlYzOW4yeHdHN0R1Smt5V2JVTWZGTTVwZGxzTlJvSGNFb2RYYmtDMHhqSw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "트럼프 폴리실리콘 15% 관세에 한국 반도체보다 태양광 긴장 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rLTV2YjI0X3hlV0duVG9tMndLRlNQaWtxcGxGc1BRWE56LU9jNm1mX0dGanh2T2ZqX2ttQmNFblpFQnhyVW03bEh5TmdNRWM?oc=5",
+        "title": "美, 폴리실리콘에 15% 관세‥반도체 영향 주목 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONkZ3S3VGb2VPMWlsME93cEg2N1hvb2dIeEVhYk44SkxVRDF6TUpNYThENnMyMVFNYV9McHpvcnFLSXRacU43YUEya0pzd0ItNWQ0V19rbnZlWlJmY2pUUzBTczBTWnBpTTcwZEJzUW8tZVJISV93?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“대답만 하던 AI는 끝났다” … ‘일잘러’ AI 에이전트에 맡겨야 할 업무는 - 매일경제",
+        "title": "“대답만 하던 AI는 끝났다” … ‘일잘러’ AI 에이전트에 맡겨야 할 업무는 - mk.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JamJJczlGNzg0VGhhNTZtU19ybG1Cak9POUFSS3JtdDVFS2dULTFqaWNyZVlFelJOakxXSjcyUDh0NWpJb3MtTGJJR04zZw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "복지부, ‘폭염대응 비상대책본부’ 24시간 가동…“어르신 온열질환 주의”",
-        "link": "https://n.news.naver.com/mnews/article/028/0002817644",
+        "title": "\"정몽규 지시 따랐을 뿐\"…이임생, '홍명보 선임' 입장 밝혔다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005318692",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 내달부터 가족사건 수사 다른 경찰관서 맡기는 '상피제' 실시",
-        "link": "https://n.news.naver.com/mnews/article/001/0016239753",
+        "title": "경찰, 9월부터 '가족 사건 상피제' 시행…내부비리수사대도 출범",
+        "link": "https://n.news.naver.com/mnews/article/008/0005397158",
         "source": "네이버 뉴스"
       },
       {
-        "title": "뇌물받고 '햄버거·불닭소스' 반입해준 교도관…징역 7년, 벌금 1.5억",
-        "link": "https://n.news.naver.com/mnews/article/003/0014114419",
+        "title": "지체장애인 탄 휠체어 발로 밀어 사망…70대 간병인, 2심도 집유",
+        "link": "https://n.news.naver.com/mnews/article/022/0004149370",
         "source": "네이버 뉴스"
       },
       {
-        "title": "합수본, ‘투표율 허위입력’ 서울·경기·충북 선관위 등 추가 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/020/0003739273",
+        "title": "합수본, '투표 통계 조작' 추가 압수수색...\"서초·강남도 조작 정황\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002390218",
         "source": "네이버 뉴스"
       },
       {
-        "title": "2016년에 알고도 '뺐다'…문체부는 왜? \"성 비위 민감해서\"",
-        "link": "https://n.news.naver.com/mnews/article/437/0000505136",
+        "title": "전국 온열질환자 185명...엿새째 세자릿수 발생",
+        "link": "https://n.news.naver.com/mnews/article/052/0002390420",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-08 05:50"
+  "updated": "2026-08-08 06:57"
 }
