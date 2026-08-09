@@ -2,59 +2,64 @@
   "categories": {
     "IT": [
       {
-        "title": "\"모두 즐기는 MMORPG\"…컴투스 '제우스' 26일 출시[주말엔게임]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005800429",
+        "title": "전남광주시·제주도, 제2우주센터 건립지 공모에 출사표…10월 최종 결정",
+        "link": "https://n.news.naver.com/mnews/article/032/0003463093",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제2우주센터 '전남광주 vs 제주' 어디가 될까... 10월 최종 결정",
-        "link": "https://n.news.naver.com/mnews/article/469/0000946976",
+        "title": "\"내 비밀 지켜주잖아요\"…부모보다 'AI 친구'에 마음 터놓는 아이들[AI에 빠진 아이들②]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014116189",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정재헌 SKT 대표 “음식으로 마음 잇겠다”… 10년지기 고객 400명과 특별한 오찬",
-        "link": "https://n.news.naver.com/mnews/article/018/0006347885",
+        "title": "SKT, 장기고객 초청 ‘테이블 데이’ 행사 성료",
+        "link": "https://n.news.naver.com/mnews/article/029/0003041331",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST '학부생 연구참여 프로그램' 저력 보여…학부생들, 12년 만에 세계적 인재로",
-        "link": "https://n.news.naver.com/mnews/article/030/0003455452",
+        "title": "“신들의 전쟁 열린다”…컴투스 ‘제우스:오만의 신’ 26일 출격[오늘의 게임 업데이트]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649804",
         "source": "네이버 뉴스"
       },
       {
-        "title": "美 상원, '가상자산 규제 틀' 클래리티법 9월 표결 시동…60표 문턱 넘을까",
-        "link": "https://n.news.naver.com/mnews/article/421/0009104262",
+        "title": "삼성 ‘갤Z8’ 정식 출시…소니 ‘WH-1000XM6’ 올리브 그레이 추가[위클리템]",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237099",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "월가 'ATM' 된 삼전닉스?…반도체 저승사자도 \"이젠 살 때\" [빈난새의 빈틈없이마켓] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNkFwS19BN1JEUmh0UjRGZU1Gd3dDRlJUX2tMUi1ZLTVlZWRUc1JtLW9VLWZHcDl4LUhoMDh2Vm1VZ2FlcXZwMXM0VnlfR202N3UwWlAyNnNuZw?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "“반도체 몰빵 투자 이젠 안통해”…절반 덜어내고 ‘바이오’ 담으라는데 [여의도란도란] - 매일경제",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1obTA0UFI5N0NvdE02TUk1RmdFa0FtYnJjN1ZuYzhTM1RSV2o1ZWVIOUtVVnc2Q0EtdHptUlN2UXVNdW95aXBWUDhER2JTTk95ekE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“전력반도체 성패, 삼성에 달렸다”…정부 역할론 제기 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYlF2WnpVZGV3d0NtTHNLaTM2cjBCSUk2M2ljRHA3bUdNWjU4aGtWdHNuUTFxWS1Pb09xTE1HRkpZdmhOT05HQkRTLTNNX2s?oc=5",
+        "title": "월가 'ATM' 된 삼전닉스?…반도체 저승사자도 \"이젠 살 때\" [빈난새의 빈틈없이마켓] - hankyung.com",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNkFwS19BN1JEUmh0UjRGZU1Gd3dDRlJUX2tMUi1ZLTVlZWRUc1JtLW9VLWZHcDl4LUhoMDh2Vm1VZ2FlcXZwMXM0VnlfR202N3UwWlAyNnNuZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "수원컨벤션센터서 26~28일 '차세대 반도체 패키징 산업전' - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVEV4Z3hjMUNrVFpnQ0xaek1VQVJ4OE1DVjA2TERvZ1dBX3pLaFNxaGJ3Qmw5UzN3OUxlQUtBX0s2UGF0WGM0ODZDYXFELUk4aTlVeTlCLTNad2_SAWBBVV95cUxOMTlZUWpORnNTaWsxOUJwYjVsOEZPX3NqYTNTNEoxQ3hRYXN6Rm0tMXJZSjhtTlV6TndKWGlYSmhoc3NlT19vVUhvRnNESlpGdzJKXzNqU0Q3eGR3QTczVE4?oc=5",
+        "title": "반도체 호황에도 집값 엇갈려…동탄·영통 웃고 평택은 미비 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90b1pzcFl1WjF3MTZ2UTBFQmR3NUs2ckdudHFHbzlNd0JKNFlTc2VuN2xFSE1LNkJnLURMTEtjY2V6eEJ3WTJPVkRXZDVFM3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도, 차세대 반도체 패키징 산업전 연다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGM2ZwbUFWbGNYRmFNSUhSMTB0eURXZGZBT1d1blVzN0ctOGphNktSWUE5U1haOUhHYXE5eWEtQkw5cWhOUGN1VTNWNDlFVzg?oc=5",
+        "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3BmSjZBeEpORlZ6UHRuSFFwVjg1TkNKS0paaUlOSXdIZDZWT0pfZUNoSVNYZTJySk1zNnNuTldfQkVJTjQ5aU1ZaGwzWjRYbzZFUmxrRVJzOUtvLUVKelVOUFFfa21MOWs1MEhlOTdFYnJGRmNmSTl1LTJJTDFWSHVLOTRQTUll?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "블룸버그 “AI가 한국 직업·연애·문화 재편…반도체 직원이 신흥 엘리트” - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KQkpjWWNzMGJPaWhVVl9xLTlpNGI5dkYxc29EVkRkRGp2V2E5dUJGUGJXYnJocnJkQVFLcEtPMF9HRkJtOVRIYjRVNXBpaGM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "中 ‘가성비 AI’의 역습…“2년 뒤 전세계 기업 절반이 쓴다\" - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDh4emRmcldyV3JvcDRpUmQzSUdHaFBSQ0xBZ2hHSy1ienloTFd4X1BRS0E4bTRsemNaWjloUG8tb281UEdDWmxvUEd5T0c5bGRJUGFqNlpTOExQVm8tUUwwWm1zUjR6SGE1dng2Ulh1UkN6NG1uVUlicEZiWGhZVDdn0gGWAUFVX3lxTE40S05CMzlVVnk4bWJmZHRSMS1jZVlja3JMWFRoOE1YaElYaV9qOFFqdGZVRmRpTUYwdmp0SFRvUlV1SGdpREg4Nzl1bTNGcDJRcGozb3VfbE5kdnJrQWNzaGVTTXd1ZEpNdXpkekl1bzB4ckNzRTl1LUhuZWNHX2dYb1ltd2hxbm5QYjlEU3JnNHcxY0xvZw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "대구, 제조업 인공지능 전환 속도···대·중소기업 간 AI 활용 격차 좁힌다 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XdUcxRGluV29kSFIySFk2OFI0WlpZZEY2V1czZGs2aW1VMjBWOFhqWE5NWjB6clJRV3I0eWYxRXhSbVcxcjBWV29xNU95MkU?oc=5",
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "‘AI 인프라 투자’ 늘리는 네이버, ‘AI서비스’ 힘주는 카카오 - 시사저널e",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcWVqQ1A0V1d3R2NPNGE5ZTVyaTRGX0E5TlRhejdIS2dqSlZ0ZWJoWHdmSTRGbHgwUGRVVzBIUkFjUDBYa3d6eU8zdkJmZ0xWQmdkclNybng0NDdZNVpfZzlENHlkRktNRUZmVnlPOGVBQdIBdkFVX3lxTFBzR3otSWxaellXX3lCQnktcFdRWmN3RTduSGVjMHNEOWY5R2M4RFo4TXhBTC01VkRQeEtqMDd2dU9pSEdKZF95REJfQ2V2anNIRXV4b0tLWTh3bUtpQnFFV0JraGt0cmgydUt0Z0laN3hKSkc5QUE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북 4-H 여회원, 인공지능(AI) 역량 키우고 화합 다져 - 구미뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wWFljd3k5Yi1BTWwxeGI4SlJ1a3BZZEhJb2pEMnIxMUJ2RXpEZG81SmI2NzU4N1VRVkFWZWR2dGdNV2x3R3ZFQlFrNFA1dnlGWVFPY1RHVGRQcEg5djZOUFZxb1lTNklVdWdNeEVHVEtBZ3pI?oc=5",
+        "title": "대전대덕구, 인공지능·데이터기반행정 역량 강화 - 서울뉴스통신",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qbFkwa05IY0tMTXRveHR1a2diYW15N2tRN05OTmJKNWgyZkFYMEQyNUdoV0xaVFBXc0YtdThELXdhMzhBN1ZXUVJPOHo5SzZPZW9IaElnY1pfaFJPNTRWbDI1bmM2N0QtenhJ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'성접대 파문' 고개 숙인 축협…\"십수 년 전 일\" 책임 선 긋기",
-        "link": "https://n.news.naver.com/mnews/article/437/0000505191",
+        "title": "\"日축구협회, 韓축구협회 성 접대 의혹 심판 조사 중\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000893974",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지식재산처, 심사 패러다임 바꾼다…거절 중심에서 '권리 설계'로 전환",
-        "link": "https://n.news.naver.com/mnews/article/030/0003455448",
+        "title": "“둘은 낳고 싶은데”…현실 자녀수는 1.07명 왜?",
+        "link": "https://n.news.naver.com/mnews/article/005/0001865678",
         "source": "네이버 뉴스"
       },
       {
-        "title": "올해 서울학생 의대진학 \"역대급 어려워\"…절반이 지방학생",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176821",
+        "title": "‘입추 매직이야?’ 서울 폭염 한풀 꺾여 34도…동해안엔 강한 비",
+        "link": "https://n.news.naver.com/mnews/article/028/0002817683",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추미애 \"국가직 소방관 인건비 대납 하는 경기도, 재정개혁 해야\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000183554",
+        "title": "교통사고 수습하다 중상 입은 경찰관, 공무상 요양 연장 불승인 후 숨져",
+        "link": "https://n.news.naver.com/mnews/article/057/0001962739",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천서 말다툼 중 흉기로 40대 어머니 살해한 10대 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/032/0003463068",
+        "title": "법원 “권익위, 공익신고자에게 심사의견서 공개해야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012234108",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-09 06:08"
+  "updated": "2026-08-09 07:33"
 }
