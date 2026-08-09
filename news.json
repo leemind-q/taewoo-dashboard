@@ -2,39 +2,44 @@
   "categories": {
     "IT": [
       {
+        "title": "제2 우주센터 유치전…전남광주 vs 제주특별도",
+        "link": "https://n.news.naver.com/mnews/article/056/0012234231",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "“틱톡 모회사 中 바이트댄스, ‘미토스급’ 초대형 AI 개발 착수”",
         "link": "https://n.news.naver.com/mnews/article/366/0001185123",
         "source": "네이버 뉴스"
       },
       {
-        "title": "나로우주센터 뒤이을 제2우주센터는 어디로? 10월 중순 결정",
-        "link": "https://n.news.naver.com/mnews/article/081/0003668734",
+        "title": "네이버는 AI 인프라, 카카오는 AI 에이전트…엇갈린 수익화 전략",
+        "link": "https://n.news.naver.com/mnews/article/374/0000526377",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 사이버 보안 이유로 차세대 AI 개발 보류",
-        "link": "https://n.news.naver.com/mnews/article/021/0002810130",
+        "title": "오픈AI, 챗GPT 무료도 최신 모델 무한 지원…'아스트라' 출시 연기",
+        "link": "https://n.news.naver.com/mnews/article/030/0003455393",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 10년 장기고객 행사…흑백요리사 셰프 요리 제공",
-        "link": "https://n.news.naver.com/mnews/article/015/0005318834",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
-        "link": "https://n.news.naver.com/mnews/article/001/0016240431",
+        "title": "오픈AI도 “너무 똑똑해서 위험, 차세대 모델 개발 일부 중단”…‘AI 안전’ 모델 경쟁 변수로",
+        "link": "https://n.news.naver.com/mnews/article/032/0003463131",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "\"반도체만 오른다\" 곡소리 났는데…'대반전' 예고한 종목들 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIV0JqYWpPWFNmMjlFZlNDQTJNbWRra2pQWk1qS1MybXIwS201M3poWVQzeVB3SHFlZk5uSXBycjROUnpqVTFQdmpobUE4Q1pjaFR0dlh2VmNlZw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전 - 글로벌이코노믹",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3BmSjZBeEpORlZ6UHRuSFFwVjg1TkNKS0paaUlOSXdIZDZWT0pfZUNoSVNYZTJySk1zNnNuTldfQkVJTjQ5aU1ZaGwzWjRYbzZFUmxrRVJzOUtvLUVKelVOUFFfa21MOWs1MEhlOTdFYnJGRmNmSTl1LTJJTDFWSHVLOTRQTUll?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 쏠림 완화…숨 고른 증시, 순환매 이어질까 - marketin.edaily.co.kr",
+        "title": "반도체 쏠림 완화…숨 고른 증시, 순환매 이어질까 - 마켓인",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96b0c2aUtnZW9XdDN2NVhSd2E1T3NSUDlSanVrWHR5dkRReU9wS2hSZnFqZlhGbWdlcWlrNHNoODluN1Y3MGN5eUJReTFHVEY5R21aMjNqVjZxRVhWTThza25EcVdPS1RETUxaXzRkNk1ZYjA?oc=5",
         "source": "구글 뉴스"
       },
@@ -44,13 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "오남석 경기도의원, 반도체 기술센터 추경 확보 점검 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iN0o1WkpPNTBPdm1ZNF9teXBDZDdENzZWSHpSSlVxbHpFakpYOGV5WFl4V25ndXVkNHgyb1ZtbEptdUZFd2M1UkxEVXlkZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "월가 'ATM' 된 삼전닉스?…반도체 저승사자도 \"이젠 살 때\" [빈난새의 빈틈없이마켓] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNkFwS19BN1JEUmh0UjRGZU1Gd3dDRlJUX2tMUi1ZLTVlZWRUc1JtLW9VLWZHcDl4LUhoMDh2Vm1VZ2FlcXZwMXM0VnlfR202N3UwWlAyNnNuZw?oc=5",
+        "title": "성수석 이천시장, 반도체 교육센터 찾아 교육생 격려 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NVEpsbHJya2JaYkFHTEpPeDVJRzdtcWw1QTBZaHVDMFdyUGlSV3djWWhEYmtraHl2Uy1oMzhaY3dGT1hEeWtwVzFYNXJzUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,7 +61,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경북도, 인공지능(AI) 기반 다크팩토리 시대 앞당긴다 - dkilbo.com",
+        "title": "경북도, 인공지능(AI) 기반 다크팩토리 시대 앞당긴다 - 대경일보",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qb2otUFNNekpaSDBreThraDFURS1DNy01SEptem1PdXZPVng5cFl5d24wS2xSQk54eXZsdTJNeXlvYnZNeG5wNGNUMXNXSER5WHdwWnVVQTRLMkhsZ0Y0MFV3ZmRSVXRQ?oc=5",
         "source": "구글 뉴스"
       },
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[최상명의 제민지산(制民之産)]멜더스 트랩과 AI, 그리고 장기주의의 위험 ② - ccdn.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUM2hnVEhqdElIY0loU1hhWE5oMzBPcU82OElDeEZvRmJ0Z1FSaTlUY1dYNXpubEo3NUZmdVJXTEt6SXhNTFM0OFFHZlAzbEFkS290T0pLaUhEQjJrejhad0tOaUcxT1BMa0E?oc=5",
+        "title": "제주, 40㎿ 규모 '그린 AI 데이터센터' 구축 구상 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JYW5EcEJQM0ZZUFRjdFpYM0pRaWhlUjJnVVRuTFpnNWxBa0plcjVHekNGd1J2SVNVWFhBbjFEMWlaRVgzZDBOUkFHSnl6UjhBM3lJUkFxN3RDaEFCc3Bza9IBYEFVX3lxTE1JYW5EcEJQM0ZZUFRjdFpYM0pRaWhlUjJnVVRuTFpnNWxBa0plcjVHekNGd1J2SVNVWFhBbjFEMWlaRVgzZDBOUkFHSnl6UjhBM3lJUkFxN3RDaEFCc3Bzaw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경북 4-H 여회원, 인공지능(AI) 역량 키우고 화합 다져 - 구미뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wWFljd3k5Yi1BTWwxeGI4SlJ1a3BZZEhJb2pEMnIxMUJ2RXpEZG81SmI2NzU4N1VRVkFWZWR2dGdNV2x3R3ZFQlFrNFA1dnlGWVFPY1RHVGRQcEg5djZOUFZxb1lTNklVdWdNeEVHVEtBZ3pI?oc=5",
+        "title": "[최상명의 제민지산(制民之産)]멜더스 트랩과 AI, 그리고 장기주의의 위험 ② - 충청매일",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUM2hnVEhqdElIY0loU1hhWE5oMzBPcU82OElDeEZvRmJ0Z1FSaTlUY1dYNXpubEo3NUZmdVJXTEt6SXhNTFM0OFFHZlAzbEFkS290T0pLaUhEQjJrejhad0tOaUcxT1BMa0E?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘경찰 가족’ 연루 사건 117건…안으로 굽는 팔 방치한 경찰청",
-        "link": "https://n.news.naver.com/mnews/article/028/0002817735",
+        "title": "일요일 낮 최고 34도… 열대야 계속·곳곳 비와 소나기",
+        "link": "https://n.news.naver.com/mnews/article/366/0001185043",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"아버지 외출한 사이\"…흉기로 40대母 살해한 고교 자퇴생, 구속 기로에",
-        "link": "https://n.news.naver.com/mnews/article/088/0001022690",
+        "title": "무더위에 전날 응급실 찾은 온열질환자 131명…2명 사망",
+        "link": "https://n.news.naver.com/mnews/article/001/0016241067",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고향사랑기부 세제 혜택 강화…2천만원 기부시 341만→560만원",
-        "link": "https://n.news.naver.com/mnews/article/001/0016240701",
+        "title": "[속보]中회사 가려고 SK하닉 기술유출 前직원, 징역 1년6개월",
+        "link": "https://n.news.naver.com/mnews/article/021/0002810099",
         "source": "네이버 뉴스"
       },
       {
-        "title": "민형배 전남광주시장·김산 무안군수 '군공항 이전 상생 해법' 공감대",
-        "link": "https://n.news.naver.com/mnews/article/421/0009104316",
+        "title": "\"여의도 한강공원에 폭탄\" 테러 예고에 소동",
+        "link": "https://n.news.naver.com/mnews/article/057/0001962778",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"침대 묶여 있었다\" 천안 교회서 11살 숨져…함께 지낸 성인 3명 수사",
-        "link": "https://n.news.naver.com/mnews/article/082/0001393057",
+        "title": "성인 71% \"자녀 둘 이상 이상적\"…현실은 1명",
+        "link": "https://n.news.naver.com/mnews/article/422/0000893923",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-09 17:33"
+  "updated": "2026-08-09 18:44"
 }
