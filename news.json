@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "펄어비스 ‘붉은사막’, 게임스컴서 오픈월드 제작 기술 강연",
-        "link": "https://n.news.naver.com/mnews/article/005/0001866022",
+        "title": "휴대성·영상 콘텐츠 소비성↑…폴더블폰 대중화 '성큼'[뉴스줌인]",
+        "link": "https://n.news.naver.com/mnews/article/030/0003456019",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"장내 미생물 활용해 암 완치한다\"…성균관대·미시간대, 항암제 개발",
-        "link": "https://n.news.naver.com/mnews/article/003/0014117110",
+        "title": "웹툰엔터, 1억달러 들여 게임사 지분 인수…웹툰 IP 게임 제작",
+        "link": "https://n.news.naver.com/mnews/article/015/0005319418",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"이게 아닌데\" \"놀라울 정도로 멀쩡\"…'파괴왕'들도 '갤럭시 Z폴드8' 맷집에 당황",
-        "link": "https://n.news.naver.com/mnews/article/277/0005801189",
+        "title": "싸이월드 10월 다시 열린다…스테이블코인·NFT로 승부수",
+        "link": "https://n.news.naver.com/mnews/article/001/0016243072",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배충식 KAIST 총장 취임…\"기본이 강한 글로벌 혁신 선도대학\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0004177064",
+        "title": "동일 발사체·동일 장소 발사 시 허가 1회만…우주길 쉽게 열린다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005398053",
         "source": "네이버 뉴스"
       },
       {
-        "title": "웹툰 엔터, 알아이게임즈홀딩스 지분 60% 인수…“템빨·전지적 독자 시점 게임화\"",
-        "link": "https://n.news.naver.com/mnews/article/366/0001185403",
+        "title": "삼성전자, 게임스컴 참가…PC·콘솔·모바일 게이밍 경험 선보여",
+        "link": "https://n.news.naver.com/mnews/article/001/0016243622",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,13 +39,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[사설] 반도체 팹, 데이터센터 급증… 물 관리 특단대책 시급하다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ScnRDbk53VWJOb0J5RlZRTzY5ZXNjUUwtTDcwY05QVV9yaXZ3emxzSDA5VEFoVUI4NU1jT2J1RDZ0QmhhS1YxLUZHaGF1WjA?oc=5",
+        "title": "\"호남 반도체 전격전‥군공항 2년 내 이전\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlZuaHFsbHQzcV90dmRjNnFVMkdKb1pEZ3lHUHRsQnpYSmVkMVAwQVR5b2RzSl81c3NFa2NtWFJ2VU5oS2lrdlU1WDFmd3QzanNhR3pyOE1ES2l6ZnpiRWl2TXdTTkd6V2hpRXp2T2VlUjQ3RGo3WGp3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“하닉 290층 사람 있어요”…이 뉴스 2개 뜨면, 반도체 팔아라 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SFFScnFTd1h2SzJNamdDbXVMdkJkNlRRdGhDVXRTQ3lzb0M4MURDN0JiZjdxY3Q2R08xSkwxR0owYkk5akZ5cXdJOVNhSlpjMlNJUE9R?oc=5",
+        "title": "넥스틴, 유럽 반도체 기업에 테스트용 검사 장비 2종 공급 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wcFVmcGQ4OTVtVVNnbkU5Z2xiNDZzdEJKR1h3RzBrajA4Mmd5Yk5IbmVNcVBxd3hheW9PQU9IaE90WXBaZXFWQnltRjZWMHVtb08tVkUtckNPcTJROTMyVE5JMDc1dw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -61,8 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다 - 한국의약통신",
+        "title": "당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다 - kmpnews.co.kr",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU2lBTnRrRHlrODhwbXJYeFNpcnBIaWktVGNKSGRVLXl4dlE2bXpMVTZrYlZoeXhDSkZoZFNaak11VDBMdE9jdEs1WEFuSzVnaU5lRXF1M0VkMGdGWEFBLVRMdTliZnc2WG9R?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광명시, 하정우 전 AI수석과 '대체불가 광명' 위한 AX 전략 찾는다 - gheadline.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cDJKMGtHUzNadGlVcE1CNWdrTFFyNFF5U3FWTmdjRFNQU1VCOUpzLTVDMmRZdzN6RURHbFFDdm9DYjZzU3hnOXZJdlBnS1pXQVhEVXJLYXpNTmJ3UXZkUmltVVFqZw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "K-우주데이터센터, 인공지능·정보통신기술 기업이 우주 산업으로 진입하는 발판이 되다 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42YVg5TGN6bFRpa0JpVkRxenFmSnFvUjZVcTluNWZOaGo5UTVkUnc4dlR6bmFtQXV0NVBuRG5LZ3kya05vQnY3ekZNVTcwa1FHOUl1ZWxablg1YV9oV0xneGZudXJjN2M?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "성남시, 인공지능(AI)·드론으로 포트홀 잡는다 - 수도권지역뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DcHFpXzFRR0R2clkycWkyOV9XdUxuc25MQ3NrNzJFR1JMREc0N0RNeE5ibVg4UGhTLUdfRS1LdDdtRXRiTVhfUVV0VEo0QlkwSTd5NjJOUnRkcVBVTENkbmU1a09uQTh4?oc=5",
+        "title": "성남시, 인공지능(AI)·드론으로 포트홀 잡는다…도로 위험 선제 대응 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VcDJzTFl2eDFBLVJTTTlwOEoyZGR4b3dCSnRrTFdBelB5dHJqU1JveVRGSk1Ia1JyTXJnQTBjV0R6by1QUDNDNUIwdHV3V3FBV0FMZnhoVVlKWEYxblY1cGVEdUNxTDJreVQzeEljTUw5Z09f?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "당진시, ‘530억원’ 경제회복지원금 지급 추진 논란",
-        "link": "https://n.news.naver.com/mnews/article/005/0001865945",
+        "title": "인천 앞바다서 실종된 모터보트 발견...낚시객 3명 구조",
+        "link": "https://n.news.naver.com/mnews/article/052/0002391174",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구조대도 \"수영으로 못 나와\"‥동해안 이안류 주의",
-        "link": "https://n.news.naver.com/mnews/article/214/0001517072",
+        "title": "안민석 경기교육감, 교권침해 학부모 직접 고발",
+        "link": "https://n.news.naver.com/mnews/article/011/0004650207",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘로저비비에 가방 받았다’면서… 김건희 “출처는 몰라”",
-        "link": "https://n.news.naver.com/mnews/article/022/0004149896",
+        "title": "경찰청, '동료 비위 신고 시 징계 감면제' 추진",
+        "link": "https://n.news.naver.com/mnews/article/052/0002391190",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울시 2.8조 추경…오세훈표 '청년 AI 이용권'에 56억",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319012",
+        "title": "‘입추 매직’ 통했나…내일 아침 최저 19도, 서울은 열대야 탈출",
+        "link": "https://n.news.naver.com/mnews/article/005/0001865894",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안민석, 교사 고소한 학부모 '맞고발'",
-        "link": "https://n.news.naver.com/mnews/article/009/0005719122",
+        "title": "휴가 끝난 법원, 김용현 항소심 등 재판 재개",
+        "link": "https://n.news.naver.com/mnews/article/022/0004149635",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-10 22:39"
+  "updated": "2026-08-10 23:36"
 }
