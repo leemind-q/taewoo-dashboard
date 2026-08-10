@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "다섯 번째 주인 맞은 싸이월드…첫날부터 '아수라장'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319210",
+        "title": "펄어비스 ‘붉은사막’, 게임스컴서 오픈월드 제작 기술 강연",
+        "link": "https://n.news.naver.com/mnews/article/005/0001866022",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 반도체·배터리 우주로 간다…'K-우주데이터센터' 산업 생태계 구축",
-        "link": "https://n.news.naver.com/mnews/article/448/0000632659",
+        "title": "\"장내 미생물 활용해 암 완치한다\"…성균관대·미시간대, 항암제 개발",
+        "link": "https://n.news.naver.com/mnews/article/003/0014117110",
         "source": "네이버 뉴스"
       },
       {
-        "title": "中 점유율 0.1% 삼성전자, '화웨이 텃밭'서 폴드8 승부수",
-        "link": "https://n.news.naver.com/mnews/article/031/0001048390",
+        "title": "\"이게 아닌데\" \"놀라울 정도로 멀쩡\"…'파괴왕'들도 '갤럭시 Z폴드8' 맷집에 당황",
+        "link": "https://n.news.naver.com/mnews/article/277/0005801189",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST 배충식 총장 \"'기본 강한 글로벌혁신 선도대학' 선포\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016242021",
+        "title": "배충식 KAIST 총장 취임…\"기본이 강한 글로벌 혁신 선도대학\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004177064",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독] 네이버, 앤트로픽에 첫 투자…'AI 자립' 전략 바꾼다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319215",
+        "title": "웹툰 엔터, 알아이게임즈홀딩스 지분 60% 인수…“템빨·전지적 독자 시점 게임화\"",
+        "link": "https://n.news.naver.com/mnews/article/366/0001185403",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,8 +39,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "정부가 길 닦는다…삼성전자·SK하이닉스 반도체 투자 속도 붙나 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZm92VnVLbHN1aFdUdVM1M1A0YXNENVNLeFU2ZW1jVEJpUk8yRkNteWdxaHg0UVM1cm9OVGpwZ1VsNFlRY2lmbzcxZ05OVFpRcDBsc3B6OXNESnRCS1F2dE1lNF8?oc=5",
+        "title": "[사설] 반도체 팹, 데이터센터 급증… 물 관리 특단대책 시급하다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ScnRDbk53VWJOb0J5RlZRTzY5ZXNjUUwtTDcwY05QVV9yaXZ3emxzSDA5VEFoVUI4NU1jT2J1RDZ0QmhhS1YxLUZHaGF1WjA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"R&D 넘어 양산 데이터 확보 필요\"…반도체특별법, '소부장 검증' 시험대 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAteklhV0NGX3ZIemZMOWlNX2NXaVQ0cFF4emoyZmFiVlhzTTdmMGhRS1Utc0NaZ3FRaUNHMXFwTzhkUmlVZzhzTHgtTEdmOTA?oc=5",
+        "title": "반도체 훈풍인데…'소부장' 한미반도체·한화세미텍 상반기 '부진', 왜? - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTDdZNjlVRk03cVlNanczV2FpT0tqNDh2U2o3Mk1WZEhYckxKcURkVWxjeUFSRnpEdU1xUEZEQTR0Uy1INkc0cEJLSVREcDA?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,8 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "대구시, 인공지능 대전환 본격화…행정 전반에 적용 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tSW1Pdk1nN2wwczR4OVdRZnotSThObzNwSlZxT1gwdTBfbXZMdkhnNVpmZUhXUnJDRTlXUHBmUWVSLW1VbEJoN0Zfak15Z0NOVHdoSXd1SFVTQnI5NmtGUNIBYEFVX3lxTE0tSW1Pdk1nN2wwczR4OVdRZnotSThObzNwSlZxT1gwdTBfbXZMdkhnNVpmZUhXUnJDRTlXUHBmUWVSLW1VbEJoN0Zfak15Z0NOVHdoSXd1SFVTQnI5NmtGUA?oc=5",
+        "title": "당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다 - 한국의약통신",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU2lBTnRrRHlrODhwbXJYeFNpcnBIaWktVGNKSGRVLXl4dlE2bXpMVTZrYlZoeXhDSkZoZFNaak11VDBMdE9jdEs1WEFuSzVnaU5lRXF1M0VkMGdGWEFBLVRMdTliZnc2WG9R?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인텔, AI 투자 위해 상장 후 첫 유상증자…21조원 실탄 조달 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTktKczhtOTdOUXpzYTh6YUdhN1lPRExRY3JwcDhuZDQwcjlPMW1qNXpBbHpINkhxY3hab2pmdXhHcDBWb2RnTTA5RVJxRVpDc0ZsbktqZ0R1dTDSAWBBVV95cUxPcjdjOERWTHFBcE83Rzk0aTUxRUNBZGdwRkZrMXRSOGZpMHJRN09Ld3B2N1p0UGZWTXhqU3cyMDN6a3ZIT2tOTVQxekRVM2ZqbE1velZBSV9RVHBEQWp4MnU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[신문과 놀자!/피플 in 뉴스]인공지능 넘어선 ‘신의 한 수’… AI 꺾은 신진서 9단 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iVVdnTjYzVzlhSzlDMk1WRWIwSml6QjFlTGZENkxCVDFSS1lNdFlYclBPamFGS0cyV1pacUNJeEtVZEZ4bWxhX0s0M2VvblZmcFhUTHAweFhIMHh2TVBWQzM4cVdhV3QwT1JFMnpyWHVWUGhGT0HSAWZBVV95cUxPY1BDc0RKLThkd2cwUmVzU0w2VC1WSURrVXJZTFNLZlJNa2N6ME5McDFLakVyaFR3Y1g1X0Y0ZHNHeFRvQy0xV0p3clFWV1JCNHhlNzZjQU9JalRtWi1pQXZ0QXZPMHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[인공지능 줌인] 저널리즘과 만난 AI… 중동·북아프리카 AI 취재 및 기획 공모까지 - wikileaks-kr.org",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YUHNRbUg0TFZWbHpQZzY4eTZnWGtGVGlRTE5mbE1rNExwU1BxMHNQMnpxUGE1czNqdEZPOWdjcFNIVER2VEpCc19lam1lMDU4VU5zT1lzVXFXc2dod1kxSEhLa3puTnl6bDlwWkJ1QzA?oc=5",
+        "title": "성남시, 인공지능(AI)·드론으로 포트홀 잡는다 - 수도권지역뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DcHFpXzFRR0R2clkycWkyOV9XdUxuc25MQ3NrNzJFR1JMREc0N0RNeE5ibVg4UGhTLUdfRS1LdDdtRXRiTVhfUVV0VEo0QlkwSTd5NjJOUnRkcVBVTENkbmU1a09uQTh4?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "경기도교육청, '교권보호전담관' 300명 최종 선발[경기]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002391195",
+        "title": "당진시, ‘530억원’ 경제회복지원금 지급 추진 논란",
+        "link": "https://n.news.naver.com/mnews/article/005/0001865945",
         "source": "네이버 뉴스"
       },
       {
-        "title": "유치장 문 열린 틈 타 도주한 10대, 10여분만에 덜미",
-        "link": "https://n.news.naver.com/mnews/article/003/0014118847",
+        "title": "구조대도 \"수영으로 못 나와\"‥동해안 이안류 주의",
+        "link": "https://n.news.naver.com/mnews/article/214/0001517072",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'심판 성접대' 의혹 축협, 수사 받나?…경찰 \"검토 중\"",
-        "link": "https://n.news.naver.com/mnews/article/057/0001962884",
+        "title": "‘로저비비에 가방 받았다’면서… 김건희 “출처는 몰라”",
+        "link": "https://n.news.naver.com/mnews/article/022/0004149896",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오세훈 \"용산공원 일대 아파트는 위법…그린벨트 추가 해제 반대\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005398028",
+        "title": "서울시 2.8조 추경…오세훈표 '청년 AI 이용권'에 56억",
+        "link": "https://n.news.naver.com/mnews/article/015/0005319012",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김기현 재판 나온 김건희 “핸드백 수수 나중에 알아”",
-        "link": "https://n.news.naver.com/mnews/article/449/0000356244",
+        "title": "안민석, 교사 고소한 학부모 '맞고발'",
+        "link": "https://n.news.naver.com/mnews/article/009/0005719122",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-10 21:43"
+  "updated": "2026-08-10 22:39"
 }
