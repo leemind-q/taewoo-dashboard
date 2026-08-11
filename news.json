@@ -2,35 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성SDS, 국가 AI 연구에 블랙웰 GPU 공급",
-        "link": "https://n.news.naver.com/mnews/article/081/0003669607",
+        "title": "펄어비스, 2분기 매출 1926억·영업이익 676억…순이익 흑자 전환",
+        "link": "https://n.news.naver.com/mnews/article/079/0004177752",
         "source": "네이버 뉴스"
       },
       {
-        "title": "시프트업, 2분기 영업익 281억원…'스텔라 블레이드' 기저효과에 58.8%↓",
-        "link": "https://n.news.naver.com/mnews/article/119/0003120683",
+        "title": "엔씨 \"상반기 성공적 턴어라운드…모바일 캐주얼 '새 성장축'\"[컨콜]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005801716",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"병원·환자 하나로 잇는다\"…이지케어텍, '메디컬 OS'로 도약",
-        "link": "https://n.news.naver.com/mnews/article/421/0009108543",
+        "title": "4702만 대 4684만…사상 처음 구글에 밀린 '국민포털' 네이버",
+        "link": "https://n.news.naver.com/mnews/article/015/0005319654",
         "source": "네이버 뉴스"
       },
       {
-        "title": "독파모 4개 모델, 美 에포크 AI 선정 '주목할 만한 모델' 등재",
-        "link": "https://n.news.naver.com/mnews/article/277/0005801628",
+        "title": "네이버 노조, 통합 교섭 추진...토론회 거쳐 20일 선포식 개최",
+        "link": "https://n.news.naver.com/mnews/article/023/0003992424",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글, 국내 앱 이용자 수 네이버 첫 추월…챗GPT는 다음의 2.6배",
-        "link": "https://n.news.naver.com/mnews/article/366/0001185420",
+        "title": "이지케어텍 '메디컬 OS'로 HIS 2막 연다…의료 플랫폼 사업 '승부수'",
+        "link": "https://n.news.naver.com/mnews/article/030/0003456410",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“하닉 290층 사람 있어요”…이 뉴스 2개 뜨면, 반도체 팔아라 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SFFScnFTd1h2SzJNamdDbXVMdkJkNlRRdGhDVXRTQ3lzb0M4MURDN0JiZjdxY3Q2R08xSkwxR0owYkk5akZ5cXdJOVNhSlpjMlNJUE9R?oc=5",
+        "title": "101% 폭등 뒤 22% 급락…“반도체 대박은 끝, 이 종목 사라” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZVNnZGtqaHNwRm5KNkV1T3NOWXhlZTRqc0I0NzF3RTNuc1J3eWFETW9hNTBIRnRkekxGYlJVLXdJTkJGMGg3dTNaTGgtMzFPMUdUNGln?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,30 +39,35 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 특별연장근로 6개월 신청 4건뿐…규제완화 요구와 온도차 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TX3lzcUkzZHItdXhlalFNcjIxQjRLR1lqV3dRWWJ1bGdmQ2ZuSzFndDZMaGltenIxQlhWcHhER1RoMVR6d21FbkNQRWZnRDg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "호남 반도체 팹 완공시점 2029년 구체화…남은 과제는? - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOENBUHZtbTVSaUduWWFmS1lBNldzRFg5VUhiTUgzR2Z2em02cHIwSkNkVmtoWXJpYmNMaE53QnhKNjFvTHlBQXJqdGRYM1c1ZFZfSWlBOHBXR0JFNkJITdIBeEFVX3lxTE85Z2dEei1rZWc4a2dzX2dkT3ZKSngwZWZ4M2dPd1hQQWNUcUdLa2lVQXhSUndOUXBlRF80VVJzMFF4VTIyM05jalZZUjI0bkRfWk4tTE05clUxcmdQYUpWOThvQ284U1NKbnhBRkRwTmFmb3BpWE9VNg?oc=5",
+        "title": "中 CXMT 점유율 10% 추격…삼성·SK, 수십조 증설 서두른다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBON3FqOEwxR1c2Rkx6VENid05zdE02QnN6aFl5Q24ybXhqQ012VnlDTjNZWTdKRG94TXBHSG03UzF6b3QtQXBVWmNzVkw4OW8?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVljUlVxdTBKWTZjdlZ4bVg0dE4tT2JpYWhCMDlyT1BFT0FramFxSjBaSWtFV0dodE9SSTJOX2pXYklpRl8xMThDREdMa0lCalJCZXI5X2dmNHVEWnZUMVhtNXJZS3pGU25tc3F1Sm5oVzg3MEJvdzZqVnBZcUU1WU00QmMzbTQ1YmVJMU8zRnc?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "AI·반도체 뜨는데…한국 원자력 학술연구는 '정체 수준' - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10b1lUNVpmRmJ1MkhJTmpxX3V3MFBjSElrUWRGcWFEOHVrLXE5Q1NPZlBkTTRfVkpwU0RZSUdFdjNfODhvZ0N3djUtdk1oZnRhUXl2b2gtTTBQVDTSAWBBVV95cUxQNi1kbWtXbHRjZjZLS0FudF9zZ1RtZ1E4X0RFQXE3Tl9uZWhhbV9Ka1hkNy12XzN3V1A1V2w2ZXJhSWRnUDZjcHNMbjVUOHR4TnVpUmpHUFNFakhJLV9fOGg?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "‘개방형 AI’ 내세운 메타 “초인공지능 독점 안 돼” - 경향신문",
+        "title": "‘개방형 AI’ 내세운 메타 “초인공지능 독점 안 돼” - khan.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCM0hKR0R3ZXBwYS1aVURsSWh1ODFFOWg0Mi1SYXlGeGFKRnFGcUhCU1JSUWY1RHB1M1ZZdHR3VUl1WUMwb1MyWTQtQlBfeFVrWmRkQ05tT04zQdIBX0FVX3lxTE1BSHVvdWNXdWt0bklnaE5rV09BdU9mRzA5OS1FNFg5QktMMnNFTWVkVE5LV0ExcEJ0LTU5XzlRd3pkTlJiWWRzYTRRT05xeE5TNHh3YzdQZEhuVXJoaktv?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"구글 AI가 독자 빼앗아\"…프랑스 언론사들, 경쟁당국에 제소 - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZHI1Mk8yeUY3cDB1WnVHRkg2d3pBZ2FzaWxOTGlJVEhEcUtUeXp4eFpPZWVCbFA3UVZGTWxwRm04NGFzZEFZV3JPUnZ5SmhwR3Bmc0xZaDFITzjSAWBBVV95cUxOQWk2Z2g4Smp6bzdjVk1sYWRHdFFvd3NSNWd6d01qZjMwWjl5YnhQSV9iM3p0X3JXTUtMMUl6RDlNM21QT3ZQWXU1SExHaDNsSlh4T2FNMGRDbkVCNEwzUjY?oc=5",
+        "title": "\"AI 검색이 독자 다 뺏어가\"⋯프랑스 언론사, 트래픽 급감에 구글 제소 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OS3ZKc0ZlOXpXYzBhVmZOeUpDUzZkb2Z4UGxYTFFTdjlLTDBFbUo2YVdXWHMySnBtNktiV1NINGR3MzRtTUYtcXVpVUw1VGM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "앤트로픽, AI생성 텍스트에 안 보이는 워터마크…수정해도 유지 - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bHItckZLXzh4R3VaWFFFTHNDbzhtSG4tV3BBS0Y0RmVXdU9fdkhBQjBUN0ZVU21tVlhRSEFSM2NVLW1SMnAyaFRJZk90ckhtbTYxRXExMkhfR3VkTTRyc2VRLTFVU2gzcTN3T1JfVHJRUkdOMXdUZG1ORk96UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,17 +79,17 @@
         "title": "[인공지능 줌인] 스스로 실험실 밖으로 탈출한 AI…진짜 위협은 인간 - 위키리크스한국",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85dUJYVUdTc2lIc2pOTmxDelU5S2xfTUxTYW5fRklETDdxcnlpcW1MZVJHQ1RWU2tPdkp5MzUwNGJtakhxZUVpYmlubG50alF3a3ZkeEF1UldaclNQN0V2YW9Lb3loWVNNZ2tMV3FtcHU?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "영주시 인공지능 ‘AI 보이스봇’ 당직 서비스 도입 - 시사뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRdlVzYkhTbTJmLTh5M05iSWZRZlhzTHM3dkgyYkdNM25WUkthSDRPSXRhXy1PM1dGYlpLMXQ5X1QtMmNNaVRiMUNrcVFlejNhQnBsOThNdXJNNmtiZEx0Y242MA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘배우 황정민 스토킹 혐의’ 여성, 벌금 1000만원 구형",
-        "link": "https://n.news.naver.com/mnews/article/005/0001866280",
+        "title": "검찰, 황정민 스토킹범에 벌금 1000만원 구형",
+        "link": "https://n.news.naver.com/mnews/article/023/0003992436",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "국내서 전투기 교신 엿듣고 기밀 유출…'중국군 출신' 2명 구속",
+        "link": "https://n.news.naver.com/mnews/article/082/0001393491",
         "source": "네이버 뉴스"
       },
       {
@@ -93,21 +98,16 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "정치인 132명에 218회 불법기부…통일교 전현직 간부 9명 기소",
-        "link": "https://n.news.naver.com/mnews/article/057/0001963193",
+        "title": "중수청 임용설명회, 검사는 ‘썰렁’ 수사관은 ‘북적’",
+        "link": "https://n.news.naver.com/mnews/article/081/0003669556",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"친일파 단정 신중해야\"…역사학자, 하영 증조부 논란에 입 열었다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319832",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "메마른 하천 바닥까지 파냈다…경남 용수확보 총력전",
-        "link": "https://n.news.naver.com/mnews/article/658/0000152086",
+        "title": "속초시 주민세 총 4만2374건·11억 6400만원 부과",
+        "link": "https://n.news.naver.com/mnews/article/654/0000194737",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-11 21:51"
+  "updated": "2026-08-11 22:44"
 }
