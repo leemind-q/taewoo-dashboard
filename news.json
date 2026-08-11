@@ -2,45 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "휴대성·영상 콘텐츠 소비성↑…폴더블폰 대중화 '성큼'[뉴스줌인]",
-        "link": "https://n.news.naver.com/mnews/article/030/0003456019",
+        "title": "우주항공청, AI·ICT 기업 17개사 만나 '우주데이터센터' 논의",
+        "link": "https://n.news.naver.com/mnews/article/018/0006348872",
         "source": "네이버 뉴스"
       },
       {
-        "title": "웹툰엔터, 1억달러 들여 게임사 지분 인수…웹툰 IP 게임 제작",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319418",
+        "title": "오픈AI, 사이버보안 특화 모델 'GPT-5.6 사이버' 출시",
+        "link": "https://n.news.naver.com/mnews/article/014/0005559853",
         "source": "네이버 뉴스"
       },
       {
-        "title": "싸이월드 10월 다시 열린다…스테이블코인·NFT로 승부수",
-        "link": "https://n.news.naver.com/mnews/article/001/0016243072",
+        "title": "피 한방울로 '퇴행성 뇌질환' 가려낸다…진단 단서 발견",
+        "link": "https://n.news.naver.com/mnews/article/003/0014118816",
         "source": "네이버 뉴스"
       },
       {
-        "title": "동일 발사체·동일 장소 발사 시 허가 1회만…우주길 쉽게 열린다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005398053",
+        "title": "델, 25일 '테크놀로지스 포럼 2026' 개최…AI 전략 공개",
+        "link": "https://n.news.naver.com/mnews/article/030/0003456124",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 게임스컴 참가…PC·콘솔·모바일 게이밍 경험 선보여",
-        "link": "https://n.news.naver.com/mnews/article/001/0016243622",
+        "title": "펄어비스, ‘게임스컴 데브’서 ‘붉은사막’ 개발 과정 강연",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718898",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "李, 호남반도체 ‘전격전’ 지시... “日 구마모토처럼 속도 내라” - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzVSUDZTXzFHVi1VUEFjS0VLM0t4UndqS01rUXNUcTRhbVpldjBMLThzTTJnN2JiR01vUHhfUFlBNS1haUNteG43dGZLeTEyWlFMN19WRUYweURUSl9sOG1pbUlBdU1GMHluUEY2czBWTzgweUpTYWtpMVp6WTV2SU8wWmlxS3AxTmFFQWYxOXE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "李대통령, 호남 반도체 전격전 선언…삼전·하닉 '로드맵' 주목 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2V3BOaldoNWt6bTFVdnlsUVhQUGNGT1RubFkwcTRQdEZjV09TOG9sRjNZaUxCcjlLNmRqSEF4Yngwc2lVSWNzMWVMVF9DcUE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"호남 반도체 전격전‥군공항 2년 내 이전\" - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlZuaHFsbHQzcV90dmRjNnFVMkdKb1pEZ3lHUHRsQnpYSmVkMVAwQVR5b2RzSl81c3NFa2NtWFJ2VU5oS2lrdlU1WDFmd3QzanNhR3pyOE1ES2l6ZnpiRWl2TXdTTkd6V2hpRXp2T2VlUjQ3RGo3WGp3?oc=5",
+        "title": "101% 폭등 뒤 22% 급락…“반도체 대박은 끝, 이 종목 사라” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZVNnZGtqaHNwRm5KNkV1T3NOWXhlZTRqc0I0NzF3RTNuc1J3eWFETW9hNTBIRnRkekxGYlJVLXdJTkJGMGg3dTNaTGgtMzFPMUdUNGln?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,65 +39,75 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 훈풍인데…'소부장' 한미반도체·한화세미텍 상반기 '부진', 왜? - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTDdZNjlVRk03cVlNanczV2FpT0tqNDh2U2o3Mk1WZEhYckxKcURkVWxjeUFSRnpEdU1xUEZEQTR0Uy1INkc0cEJLSVREcDA?oc=5",
+        "title": "TSMC가 쏘아올린 공...반도체 피크아웃 우려 해소되나 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ed3VFcVF4UWE3ZEptU050SzZUcEN3OUFZTnE1T3REcEt2dGt4U2JxX0hNRk1ON1N5ckpOR2hzVUUzQkZLcEFkZDVGVy1zVFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 업계, 특별법 시행 환영…\"후속 지원 신속 추진해야\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QRnd6bWR1SkgwQzZhYlVVUllxNUtwZ0JVVHNpZUVDcEdmRnNzWER4UVNVUkx4YnVKc1VyaGpNeF9DVWIzQTVwcjU4YmVRRjI5ZDVkVFVqV1cyMVHSAWBBVV95cUxPT0NIMjhhNDRuMmZjOWpOcnRnYWNoa3pMRmY1Q1c4OS1sLXJoWm43cXJUc1lDN2xDb1RnTDZQMktfRVBObm5VMV92TmlKMDRlOTNiWTdsUExyZjlrM1FNem4?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "특징주, 지앤비에스 에코-반도체 장비 테마 상승세에 5.24% ↑ - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2bzFMdXk0VDh4cUJkUldUTmZYVWFocDNJdGg4bjdNdDBSRE9kYU13alVnYnZQaEFVOHkyWnJyeWRkZTNYRm9JMm9TU1NIXzFCWmc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "[행사]심평원, 28일 ‘인공지능(AI) 대전환, 보건의료 혁신의 미래를 열다‘ 주제 국제 심포지엄 개최 - 데일리메디팜",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13ZTBQc0xhbXpxbk9qTWxKSUZnWkFnbk9PZnlQbW85dXgwSVlubkVRNS00cHZOYlNZRUlzamc3bHlNN25SbDllRk9RQ2N2dG5BcWQtWVBpeWRLeFp3Uk5SRGlya1hfTUJ5MW95R29B?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다 - kmpnews.co.kr",
+        "title": "당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다 - 한국의약통신",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU2lBTnRrRHlrODhwbXJYeFNpcnBIaWktVGNKSGRVLXl4dlE2bXpMVTZrYlZoeXhDSkZoZFNaak11VDBMdE9jdEs1WEFuSzVnaU5lRXF1M0VkMGdGWEFBLVRMdTliZnc2WG9R?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "광명시, 하정우 전 AI수석과 '대체불가 광명' 위한 AX 전략 찾는다 - gheadline.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cDJKMGtHUzNadGlVcE1CNWdrTFFyNFF5U3FWTmdjRFNQU1VCOUpzLTVDMmRZdzN6RURHbFFDdm9DYjZzU3hnOXZJdlBnS1pXQVhEVXJLYXpNTmJ3UXZkUmltVVFqZw?oc=5",
+        "title": "데이터센터 스타트업 글로벌AI, 6천300억원 투자유치 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTm95UEdpZnAtSjFsejN0NEJRc0xtVlBKZHZ0ZUNaSUFWRXFyUlR4M2dmdmtTa3l5UWdVeTVkSEo3SUd4ekpXWm15dzNwUVlfVi1wSnhaZEVvUk3SAWBBVV95cUxOS2tVOGliZzZVdWpnQWgza1g5ZVRmMl9IcnBFMDhYeU4xcmRvb1pRYkdDQXc5dTRtTzA5WEZRZzhxQ19hU1AzckE0dS1KXzYwM01kRUlucWRYMlhkZnVhT0M?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "인텔, AI 투자 위해 상장 후 첫 유상증자…21조원 실탄 조달 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTktKczhtOTdOUXpzYTh6YUdhN1lPRExRY3JwcDhuZDQwcjlPMW1qNXpBbHpINkhxY3hab2pmdXhHcDBWb2RnTTA5RVJxRVpDc0ZsbktqZ0R1dTDSAWBBVV95cUxPcjdjOERWTHFBcE83Rzk0aTUxRUNBZGdwRkZrMXRSOGZpMHJRN09Ld3B2N1p0UGZWTXhqU3cyMDN6a3ZIT2tOTVQxekRVM2ZqbE1velZBSV9RVHBEQWp4MnU?oc=5",
+        "title": "영주시, 인공지능 ‘AI 보이스봇’ 당직 서비스 도입 - 다경뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mNTJad0NRSWxva0tTSG1HcmQ4bnJGSTczdlYtSmpiUHF0Tk9ydzZmcGd4LTJWbXdmN0t3cGtPZ3NQT09q?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "성남시, 인공지능(AI)·드론으로 포트홀 잡는다…도로 위험 선제 대응 - 경기종합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VcDJzTFl2eDFBLVJTTTlwOEoyZGR4b3dCSnRrTFdBelB5dHJqU1JveVRGSk1Ia1JyTXJnQTBjV0R6by1QUDNDNUIwdHV3V3FBV0FMZnhoVVlKWEYxblY1cGVEdUNxTDJreVQzeEljTUw5Z09f?oc=5",
+        "title": "네이버 독주에 마침표... 구글, 7월 국내 앱 이용자 첫 추월 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNml1M01rSEJ5cUdfTEEyRlFuZ3l0SXBQRWwtejFPRUExZ0lOWWo2Vm1OVmh4MU1GVjRRZHBLUWFhc0k1U1NXTEJod0IyWDUzZGk5d1NPdnVPU0xxUDBzZW85cHh6NmNlSDB3X3pFbTBpdFdaVWdIOTdlQlRyRFZvQlZIQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "시흥시, 경력단절여성 대상 ‘인공지능(AI) 기반 취업역량강화교육’ 추진 - kyeonggi.com",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94MHU4LWpzdGhiWWthZXhTMmZ2SFZ3cTc5aDhJODRBWUo0N1hvU1RrbDlvS1NPZzZYbW0xNm54RzFDdW1nX0laUTctb0xKOHh6dzhsN21uNHlmRU0?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "인천 앞바다서 실종된 모터보트 발견...낚시객 3명 구조",
-        "link": "https://n.news.naver.com/mnews/article/052/0002391174",
+        "title": "'하니 비자정보 유출' 의혹…경찰, 본격 수사 착수",
+        "link": "https://n.news.naver.com/mnews/article/215/0001261853",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안민석 경기교육감, 교권침해 학부모 직접 고발",
-        "link": "https://n.news.naver.com/mnews/article/011/0004650207",
+        "title": "끈질긴 무더위…수도권·남부 ‘폭염 특보’, 도심·해안 ‘열대야’",
+        "link": "https://n.news.naver.com/mnews/article/028/0002817960",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰청, '동료 비위 신고 시 징계 감면제' 추진",
-        "link": "https://n.news.naver.com/mnews/article/052/0002391190",
+        "title": "집중·냉정·안배·전형…수능 D-100 수험생 7계명 '주목'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014116733",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘입추 매직’ 통했나…내일 아침 최저 19도, 서울은 열대야 탈출",
-        "link": "https://n.news.naver.com/mnews/article/005/0001865894",
+        "title": "정청래, 전북 찾아 \"반도체 소부장 유치될 수 있게 협력\" 약속",
+        "link": "https://n.news.naver.com/mnews/article/421/0009105897",
         "source": "네이버 뉴스"
       },
       {
-        "title": "휴가 끝난 법원, 김용현 항소심 등 재판 재개",
-        "link": "https://n.news.naver.com/mnews/article/022/0004149635",
+        "title": "폭염 한풀 꺾이며 온열질환 급감…28명 발생",
+        "link": "https://n.news.naver.com/mnews/article/056/0012234692",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-10 23:36"
+  "updated": "2026-08-11 01:54"
 }
