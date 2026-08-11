@@ -2,34 +2,34 @@
   "categories": {
     "IT": [
       {
-        "title": "웹툰엔터, 1억달러 들여 게임사 지분 인수…웹툰 IP 게임 제작",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319418",
+        "title": "시프트업, '프로젝트 스피릿' 하반기 공개…니케 매출은 견조",
+        "link": "https://n.news.naver.com/mnews/article/008/0005398509",
         "source": "네이버 뉴스"
       },
       {
-        "title": "NHN, AI GPU 확장 본격화…30MW 증설·해외 계약 추진[컨콜]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006349391",
+        "title": "삼성SDS, 국가 AI 연구용 컴퓨팅 서비스 '엔비디아 최신 GPU 클러스터 제공'",
+        "link": "https://n.news.naver.com/mnews/article/014/0005559812",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨 \"상반기 성공적 턴어라운드…모바일 캐주얼 '새 성장축'\"[컨콜]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005801716",
+        "title": "구글, 韓 앱 개발자 수수료 10%까지 낮춘다…대체 결제도 허용",
+        "link": "https://n.news.naver.com/mnews/article/277/0005801598",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 구글과 손잡고 AI 요금제 출시…제미나이·400GB 기본 제공",
-        "link": "https://n.news.naver.com/mnews/article/008/0005398205",
+        "title": "24시간 '풀가동' 국내 첫 자율실험실 생태계 구축한다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005398503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글 앱 이용자 수, 한국서 처음으로 네이버 추월했다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005719556",
+        "title": "펄어비스, 2분기 영업이익 676억 원… ‘붉은사막’ 흥행에 흑자 전환",
+        "link": "https://n.news.naver.com/mnews/article/005/0001866275",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "101% 폭등 뒤 22% 급락…“반도체 대박은 끝, 이 종목 사라” - 중앙일보",
+        "title": "101% 폭등 뒤 22% 급락…“반도체 대박은 끝, 이 종목 사라” - joongang.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZVNnZGtqaHNwRm5KNkV1T3NOWXhlZTRqc0I0NzF3RTNuc1J3eWFETW9hNTBIRnRkekxGYlJVLXdJTkJGMGg3dTNaTGgtMzFPMUdUNGln?oc=5",
         "source": "구글 뉴스"
       },
@@ -44,7 +44,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경기 광주시, ‘반도체 용수관 경유’ 대책 논의…“TF 가동” - KBS 뉴스",
+        "title": "경기 광주시, ‘반도체 용수관 경유’ 대책 논의…“TF 가동” - news.kbs.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05MThKYUJzeDdrc05RQ1JLbklXTUpxcGpsa3BseVJjWWxIejV6MktkU0d4VkxFdkZqWTluU1dMendGaXFveTlzQjNuOHhWMjJRSS1LTDRUOXYza0U?oc=5",
         "source": "구글 뉴스"
       },
@@ -56,58 +56,58 @@
     ],
     "AI": [
       {
+        "title": "저커버그 “초인공지능 권력 독점 더 위험”… AI 통제 논란 가열 [뉴스 투데이] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4SkNTa3BrR0p3MU5LU3I3d3hITUtHekFTOThTenB1Z1l6eW5HdFV0Q3RCVl9ET1ZkWkVWYmJGU2NoYkRqYlZXV1hyMXg5Qm8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "‘개방형 AI’ 복귀 메타, “초인공지능 독점 안 돼” 오픈AI·앤트로픽 직격 - khan.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFWWJJQzhGbUJUNDMydTJEREdFSHE0d3dNY3k3UWsxbHQya2RNRHM4Vk1uR1pVdUl0R255WFhXZ0ZDcGZxNnJZb2xNc2tQQ29FSWY1R0dHSmhEZ9IBX0FVX3lxTE5GeTlRVV9GaUdFRGQ3SmhidVhmNDJfOFNlQUE1SElXdVBIYnFzUEhSVVpHUlowSHAyLXpoakZsTjFHRi0xbEltVXlkVV9VYWpoc1pQLWhpaTZfcnBvX2NB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "동서발전, 국산 물리 인공지능(Physical AI) 기업과 업무협약 체결 - epj.co.kr",
+        "title": "“인공지능에 빠진” 베트남, 상반기 ‘AI앱’ 사용 7억 시간 돌파…전년동기比 2배↑ - 인사이드비나",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NMFdtWHc4eFBVc1BHNDZUa012YVZJZlZCWk5QZGg4OVdZNTZja0pDZVRsbkdqOC1yYUp6Tm5KbmNESGszQjJ0VFBqWkxuTDh3RjVXSm0yRzJ1ZmhJajFCM0Nnem5qeGx0NnNfcw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서울대 인문대, AI 전담센터 설립 준비…인문학 접목 나선다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mbjhhN0p1a3M4aTV5cktZVHFnWVFKZjFvS3MwalZ0WFFlcWh1N0F2SG5xMkhtMkplSkstWVhrd0hDRWE3aXppOE1FalE3b01iOEhBZjBhS3JxTVXSAWBBVV95cUxQLVVPR0hVTXZoS21nTnRMSlo3bmNvMF9DeW8zLVc4UHFRWXFMeVlRYlh4NDVsSWVhNVhhR3RfTE9JemJfZnByTHBqaFBhYVYyWENYRlZFRVlBWjVRQWozRE0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "동서발전, 국산 물리 인공지능(Physical AI) 기업과 업무협약 체결 - 일렉트릭파워",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04YVlNSlY1Z1d6VW1idzZkZzV2SHNvZXhBMTV6cVBFWDBCakpRQl9SXzMtUm9sdWVSRW5OZm5rckhGYmpMaGtwX3ZBSzRLekJ6emhSUHYtdlNIaVVyakVmQ2dhWjE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "충남도, 인공지능(AI) 국방 산업 앞장선다 - 천지일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FLVFXV1pDWkJFWWVmX0lwMjZRNmd4TzlSX2U0Z1NEQUdhZGVRVHFNUGhhOEJKOG4zSFlQanZLV09JQWRmY2s2MnFOWmswTkJxeGZ3cjhVRHczM0NaN0xSelBkZjdxbGFIbHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국립어린이과학관, 신나는 여름방학 ‘AI 로봇놀이터’ 15일 개장 - 로봇신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UEtLcEd0UDlJQ0RuNVF4TzUwR09NcE5uRkFQSWNwM19wWk91em5ka3l4V25pTlEyRVBwV1YtNURNTm85Z0RNeDl5R3M5MmNicjdscVp6VEMtekRaNFZpMWhkMG55eEVxZDA2Ug?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "축산물품질평가원, 인공지능(AI) 기반 돼지 등급판정 데이터 활용 확대 - 축산정보뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rdW5HM0VBUTNYV09YY29rZ0dSSndhdFVsVjd1WHBYMUlnbkI0dDFfRXg0azZlVFFMajYtc1ZFMXdzUV96YWt4MVZZMWgtWmkxaEEzbTJSSVFCZUlGazZz?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"메가특구 주52시간 예외, 노동계 우려 해소가 먼저\"",
-        "link": "https://n.news.naver.com/mnews/article/009/0005719625",
+        "title": "경찰청·FBI, '건라 랜섬웨어' 합동 보안 권고",
+        "link": "https://n.news.naver.com/mnews/article/052/0002391606",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아버지 살해 40대, 친형 살인 혐의도 유죄…1심 무기징역 선고",
-        "link": "https://n.news.naver.com/mnews/article/001/0016244133",
+        "title": "‘체온 40도’ 쓰러진 해병…근육 괴사 진단에도 “훈련 계속 해”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003543564",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'비화폰 전달' 김용현 前장관 2심도 무죄주장…\"거짓말쟁이로 몰아\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016245509",
+        "title": "인천공항 출국대기실서 1년 머문 10세 아동…국가인권위, “교육·발달권 보장해야”",
+        "link": "https://n.news.naver.com/mnews/article/666/0000118726",
         "source": "네이버 뉴스"
       },
       {
-        "title": "마약 텔레그램 회원만 3300명‥마약 조직 ‘마석도’ 일당 구속기소",
-        "link": "https://n.news.naver.com/mnews/article/011/0004650638",
+        "title": "'경산 아파트 방화 사건' 피해자 또 목숨 잃어…누적 희생자 4명",
+        "link": "https://n.news.naver.com/mnews/article/586/0000135703",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'한동훈 자택 앞 흉기 방치' 40대, 징역 1년 실형 확정",
-        "link": "https://n.news.naver.com/mnews/article/119/0003120703",
+        "title": "\"교도소내 37도 선풍기 의존\"…시민단체, 폭염 수용 대책 촉구",
+        "link": "https://n.news.naver.com/mnews/article/001/0016244442",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-11 08:59"
+  "updated": "2026-08-11 10:07"
 }
