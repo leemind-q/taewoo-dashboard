@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "제미나이도 이용자 10억명 돌파…챗GPT 맹추격",
-        "link": "https://n.news.naver.com/mnews/article/422/0000895078",
+        "title": "위메이드, 2분기 영업손실 210억원…\"전년比 적자 폭↓\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350484",
         "source": "네이버 뉴스"
       },
       {
-        "title": "IT 통합교섭 공식화 네이버 노조 \"16개 법인 매년 1천시간 소모\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016246383",
+        "title": "컴투스, 2분기 영업이익 420.7% 증가...비용 효율화 효과",
+        "link": "https://n.news.naver.com/mnews/article/009/0005719870",
         "source": "네이버 뉴스"
       },
       {
-        "title": "컴투스, RPG·자회사 부진에 2분기 매출 1570억원…전년比 15%↓",
-        "link": "https://n.news.naver.com/mnews/article/421/0009110739",
+        "title": "KT클라우드, '액체냉각+GPUaaS' 무장…2분기 매출 20% 껑충",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088971",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산시 \"AI·SW 전사 매년 150여명 키울 것\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005320146",
+        "title": "'AI·SW 마에스트로' 부산센터 개소…동남권 인재 150명 선발",
+        "link": "https://n.news.naver.com/mnews/article/001/0016246410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“AI·실험실이 하나로”…AI 기반 합성신약 개발 체계 만든다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042129",
+        "title": "AI로 신약 만든다...LG CNS, 동아쏘시오그룹과 특화 개발 플랫폼 구축",
+        "link": "https://n.news.naver.com/mnews/article/009/0005719909",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "[단독] “한 달 걸릴 설계·검증 이틀로 단축”… 삼성전자 반도체, 앤트로픽 ‘클로드’ 투입해 성과 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2loeXVSVEcyTktWNWQ1WEZlRVJQaGhvRnY5UmMtWG9BR1k1VmE0Smc5THd6UXVKTTNoV2pfWnJTZUpydm5Udm5nOHBJZUt3eXQtQWtZTzQ3RV80R2lERy10X091S2tic3h4R2NBVkloQ1ZuaHgwa2cwVHJEakNYMkJn0gGWAUFVX3lxTE0xS0JHLXBvSHZOOXBmS3hyLWhHRWxRZmpGQVVrTW93RG9wb01wNXQzbTdUWHR0b2VsU1ZaUWM0MHotQjBqUXE2VUpwV24xclFFRFhVOFJUcmI5b0VOVEpjVGRkd2ZNLW9RODZnMGtKamtWRDgxdGFGcHdSdUo0RnZKdXlmU1RyaUdDMmdubEFOZVhLMGVyUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체·AI 처방전 썼던 정부, 20년 성장 책임질 '체질개선안' 내놨다 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00cDduank5djJBN2VxRF8yWTBTT3l0NE5qZWtEbmxsdzd1MjBMSEh2WEJWYVlvbmU0VGpVTDg0Y2hSYV92LVo3SnplX0xpZWt5T0h6WHc1LTJlWE1feFk2RWZSRkJQZ3fSAWxBVV95cUxPMHA0ZjRPbkdTc2tRMmhvZ01zTWxNRVJDc0dtQVN6NlRsY2paaGZueTd4d1FicXh4dERLeUY0VW9zdUp5Y21LbU1IbnpnNFNqQXJxWTBVdzMxOFRCZkdhYXNtM3pUVG9OczBxcmM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SMR-핵융합-우주… 반도체 다음 ‘7대 씨앗’ 키운다 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NTlRnLW1qalVDY040d05hRXVZV1R6N2lSOTA3amVxQ3Y0RkRld2ZUdXg3N2d3dWZnd09Bdng1SzBhWS02RHpaNUpkQWJjejJvMzFESFJBeXB0aXQyd1hSMDB0Si1sR2paT0lfQW1ITmNocVdmenlz0gFmQVVfeXFMUHdvXy1XakZ2UjhwWG1KWjJFZ1IxYWczWVRia0lrTURFMWFkSFFMa3hjRU5HV2t5Qm4wQThmQTNJYnBtdVhWS29xcDJ0alJYaVdOMU9MSVNvNjFaWkFiNmt4NGtfT1l3?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 다음 먹거리는?…김용범 \"7개 '씨앗' 키워 새 '메가'로\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MWd3THE4cFh2MkN1TDdVdGJVcWNRTWxjWUpycEFtLXdKVmtubUtTTGpvU3JqaDZ6bXozaEtUQmRhUEdQbU9IR1Q1VmNBR1k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "李대통령 “반도체 호황 기회 살려 AI 다음 먹거리 준비해야” [영상] - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWGJyUTh5ay15V3pGQXpGTzVZRldrZk1KalV4UGMxRTZxNm9jZS1xc3B1bnBoNFNOd2RyVE1TZVRRencxNGhKVmNzV05JbUxMTFh0dnNkdnllcnM?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "“인공지능 AI로 똑똑하게, 휴식은 아날로그 감성”…지금은 ‘이원적 관광’ 시대 [여행+] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TVXNBX2Z5UU1rZC1mYzdnWmhUMGdQaVFrcmE0dzlQaUh4UnhnbUl2UnE1MFZCbTd0TDdIXzA4Y1Z6RklqRkx3Q1MtanNKSEU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "부산 세계도서관정보대회 폐막…\"AI 시대 도서관 기능 강화해야\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5a05VTDlpTGRJV2I1LWVuN0FYcmJzQWRvcGwtUzhkbEhqU01GNkdBcEcyVmU4dTZTV3RwNFV4VFlsVXZ6WXhTLUw5dTl2Ti1leTFNeng1SUNsUjQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "울산어린이청소년도서관 찾아가는 인공지능(AI) 랩 프로그램 진행 - 코리아투데이뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xQUFlSDdQam5SckxrTGtkdktMM1BOZE16UG9ZQjFKZUVlaWdtXzdMNG1pRDB3c0I4OHVaS2JrVW1lMVVTaXVN?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "메타, 오픈소스 AI 재출시…\"초인공지능 집중 위험\" - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMmxucFNHeXVfamFIMEM0ZThYTFdaemRnaHQ2UGlaLVdNbHluRXgxa1hfY01mM0ROWEV6U3RuSmE4OV9iTXpWaDgycTdSSHhsTnFkSFZudndJYjd4Q0dVVGFBTUdITWRTUC1CR2tYZm0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“상상이 현실로, AI(인공지능)와 함께 만드는 특별한 창작 경험” 『서산시영상미디어센터』 AI뮤직비디오제작교육 성료 - 서산포스트",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMU9RRmFRZ1p1UXJDcnlwQ0N3a0ZKVU4xR1JYVkg4T01rNnYxelNmLVBxdl9GcFNOT0RtdlRzM1I4Skg0YlFGU1RVeDNRSVBBcU8zY01XQnRoN3BNaTI5TU5hRE1xaFJnUmJRQmR5dw?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "홈리스행동, 인천공항 노숙인 퇴거 중단 촉구",
-        "link": "https://n.news.naver.com/mnews/article/032/0003463762",
+        "title": "한강버스 타고 한강 야경 즐긴다…야간 운항 확대",
+        "link": "https://n.news.naver.com/mnews/article/011/0004650836",
         "source": "네이버 뉴스"
       },
       {
-        "title": "늑골 드러났던 수사자 바람이, 청주동물원 이송 3년 만에 폐사",
-        "link": "https://n.news.naver.com/mnews/article/014/0005560691",
+        "title": "사랑받던 청주동물원 갈비사자 '바람이' 세상 떠나",
+        "link": "https://n.news.naver.com/mnews/article/052/0002392357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "성착취물로 낚아 4조7,000억 도박판… 컴공 박사까지 가담한 범죄 집단 검거",
-        "link": "https://n.news.naver.com/mnews/article/469/0000947589",
+        "title": "\"벌써 두번째\" 서울과기대서 女화장실 몰카, 범인은",
+        "link": "https://n.news.naver.com/mnews/article/018/0006350443",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가양동 '화재 참변'도 스프링클러 없었다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005399295",
+        "title": "한밤중 흉기 들고 배회한 20대…자택서 전기톱 들고 경찰과 대치",
+        "link": "https://n.news.naver.com/mnews/article/366/0001185777",
         "source": "네이버 뉴스"
       },
       {
-        "title": "응급실 뺑뺑이 없도록…대구시 ‘응급 통합 AI 플랫폼’ 현장 적용",
-        "link": "https://n.news.naver.com/mnews/article/005/0001866419",
+        "title": "'법인카드 사적 유용' 유시춘 전 EBS 이사장 1심 무죄",
+        "link": "https://n.news.naver.com/mnews/article/214/0001517491",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-12 20:49"
+  "updated": "2026-08-12 21:49"
 }
