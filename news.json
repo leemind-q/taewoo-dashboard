@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "구글 앱 이용자 수, 한국서 처음으로 네이버 추월했다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005719556",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "웹케시, 국내 최초 B2B 바이브 코딩 플랫폼 'AXPort' 9월 출시",
-        "link": "https://n.news.naver.com/mnews/article/014/0005560341",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "LG U+, AWS 기반 공공 클라우드 사업 확대…중개서비스 등록",
         "link": "https://n.news.naver.com/mnews/article/277/0005801894",
         "source": "네이버 뉴스"
       },
       {
-        "title": "펄어비스 2분기 영업이익 676억원...시장 예상치는 하회",
-        "link": "https://n.news.naver.com/mnews/article/009/0005719720",
+        "title": "KT, 2분기 영업익 6483억 전분기比 34% ↑⋯AIDC·부동산·콘텐츠 성장 [종합]",
+        "link": "https://n.news.naver.com/mnews/article/031/0001049030",
         "source": "네이버 뉴스"
       },
       {
-        "title": "본인전송요구권 확대 앞두고…‘스크래핑’ 단계적 차단",
-        "link": "https://n.news.naver.com/mnews/article/011/0004650814",
+        "title": "컴투스, 2Q 매출 1570억·영업익 72억…“서머너즈워·야구 게임 ‘호조’”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005719848",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "펄어비스 2분기 매출 247%↑, 영업익 7411%↑… ‘붉은사막’이 견인",
+        "link": "https://n.news.naver.com/mnews/article/023/0003992432",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "우리끼리의 싸움 노렸다…‘여론 갈등 조장’ 외국 의심 계정 2.4만개 확인",
+        "link": "https://n.news.naver.com/mnews/article/032/0003463753",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[단독] 이창용 “반도체 10년 호황 장담 못해…반도체 착시 경계해야” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYzRTc21Ddmc2MWZKVnVtS3o4eFFWbnd1NEppVlpJcmFKZDgxODlxZDY0QlA2QnU2clZnQkp2QU9YejVyeERtY19UQUFTY1hvSC1qc1Rn?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "고립이 키운 ‘자립력’…중국 반도체의 초고속 성장 비결 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUnM0ZTlTdDVyRFpnaEo4Z0cyOXgzSG9DTXUtQmM5aWtCWHdDQWY4MU5vRkRTOWowbU9LTUlfWmlhY2l0QmhGeDJhRDhfNG5rRUpIMk5IRHVBYmJRZzVMSDQxZ1hKQnAtWnc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“하닉 290층 사람 있어요”…이 뉴스 2개 뜨면, 반도체 팔아라 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SFFScnFTd1h2SzJNamdDbXVMdkJkNlRRdGhDVXRTQ3lzb0M4MURDN0JiZjdxY3Q2R08xSkwxR0owYkk5akZ5cXdJOVNhSlpjMlNJUE9R?oc=5",
+        "title": "반도체 산단 전력공급 적기에…기후부·관계기관 협약식 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fWm9Zc2hVNlRael9xNmJJQUhTUEE2TjFuWG5FVUU5RFhHSGlyQjhDc2YzeGRUUE5COWhoeVFCN0dlVTZuMjFQWVFlUTZNaDA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 팹에 내준 이전 예정지…갈 곳 없어진 탄약고 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVjFVeWhnc0VGRkhzUEo5Ry1rd1BNQnJmMm81dmR5WFZIMFhUZ21sdkN4REE4cE1SMlE0Nk5mRlBTcnR6ZzQ2bF9ZNTc5N1E?oc=5",
+        "title": "용인·호남 반도체산단 '전력 적기 공급' 협약…2단계로 진행 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xSjNPOUNhY2REcm5JMXlsdm9qQTV3a0RGeGNUeWRWamdVXzB0NjlfNFItOE1JSDh6dXR0bkp5OHhKR2poeWNOQ0otdGVmWE94Um1UZkdzaDBWcVHSAWBBVV95cUxPLTNOdE5RQVRTeDhnaUU3WHY2U1JLS2VUS3NUZHBhVkpNOFlzM0Z1UjFETVdNQnV2aXJvWU1OWUJ6SjJIQUZrZm1FUDM5RWVhd2lxOTllMDZDR19wbWdnOVg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI·반도체 연구는 치고 나가는데…원자력은 주춤 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXZvVl9DREJRWjM1Qm90Ni1Fb3kwMDBGRVdFX1ZIMXRjOGZxZWI4VHRPYTFxLTBLcDI4UW9xNHpqUGZWZWVhRlk4ZDNHdFpTZGNMc19OZU90OEcyZUxCNWR4V0FWblZialpuYjhQdzF5Q2Q1amc5eE1ObjlLd0lDSlJ0dw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황에도 자동화·AI·경력 '삼중고'...청년 고용률 27개월째 '냉기' - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FUURacTkySFdVSXBfQzkwQVByLW9iNEt2NkliQ3MzcENYNjNPR1VpdlpzZE9KZC1DWUdrUDk4Q2dZU3g4bmN1enJhZ1VsZkMwWjZlMGY1TG9ENEx2?oc=5",
+        "title": "반도체 산단 전력공급 적기에…관계기관 협약식 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBURURHSlloVlFWZnlnMUNSaVZQZ29QaEJoZEc2TW1kN0FuWXgzbVFpQ2k4NllESnpabzBUZFU4RUNuYXhUV3NBNzllMHdrZzh4ZjZacHBxMGt0anJ5RnJDSmpWOWUyVkE?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "상상이 일상이 되는 인공지능[AI] 도시… ‘제23회 안양스마T움축제’ 29일 개막 - 세계환경신문",
+        "title": "감사원 \"공공부문 구축 AI 데이터, 저품질에 관리 부실\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdFNpV2hJcHc3WkNBdzdfc0ZJYlMteWdwYVNNcWpOM3pzMWRxalYwdWxKTG1BRmFodmFCZ2R4V2hfYU04eDlhb2pacmpRMnVQVGd5NXJ0SXgwWEHSAWBBVV95cUxQdHhIeUJ5dGdTQXdnT1YyeEd3TE1IWlUwUWwzU3BJSG5XRGI0cFA2Z0J6Z0dSQXJkWjRqcEI5cWlXdWU0MWE4U3lMZUVWWHM2OVJYQkhIX19EZ0Nidk1qSjY?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능(AI)이 척척… AI교육행정 새지평 열었다 - 투데이 군산",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pMDN6NGVlZUhTU3dMRHdOazFxUjVoSWx3TEZZdFJKRUJnX1ZFZDlSdHdGSkJpcmhmOHNjRk5TcFRDWEFLTEd5VmdQMGJRLWZDVEFWVXF0OW1Wb1VpTmU2WWdYV0hueXIyS1BfYVpnOA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "상상이 일상이 되는 인공지능[AI] 도시… ‘제23회 안양스마T움축제’ 29일 개막 - e-newsp.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wWE10ZG5jZTNSaVRSMS1HbThjWW93Qy1YekJHdklIVUlwT3BmdnBMVEZjY0VBS1ZYdk8yaWFvVFc4WGMwMk1ZTmRTbkJ5dDBERjRVZEV5SmdJV08yLU5j?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "앤트로픽, AI가 쓴 글에 눈에 안보이는 '워터마크'[글로벌AI브리핑] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HNFVXSmRoZHgtTmctQ2U0OWp6SUVGSGgxVEJOZDFERzZPaUdWenQ2Nm50OE53RmJva05uMEVtSmJJbGdJRGNNV0FFckQyT1E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[미국 특징주] 타깃, 사상 첫 최고AI책임자 선임… AI 경쟁 가속화 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GTU9waGUxaGZkc3I3b1pUMVc2djBlMkp6TlJzeVRPell4RWE1ZWppTjhWSng3S1lWRVp6UkJzNjAzUV9GaGU4ZUZpbUpMdDJ5dklnZUViUmFjWDk2?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능윤리협회, 전북교육청과 'AI리터러시 가이드라인' 첫 제정 - 뉴스웍스",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wbXZ0a1BtSldNdTFYRU96dk53UVg3bmNkZV9OTUFoTGpWN1pDcko5X1lzcEgxbUFJczJmOWk2SmhfNzhhWDJhcjc1NE5jajRHNTFtM2pwUUZsRVBlSW9iTHBROFJNR1NNMWFxUndyb9IBc0FVX3lxTE55endlcHIxNExmQ3dqZDRwQjNaX25OekFQbzBnbERwSm80RFBaSk0wTkptbGVFMHZYLUxBcEF0YWZkNzdfOEtOV1ZGRFVQSjdlanhxdnkzYzNNQ1JQM1VQb0ZSeEZFNjVSUHAwakdSM0ZnR3c?oc=5",
+        "title": "상상이 일상이 되는 인공지능[AI] 도시…'제23회 안양스마T움축제' 29일 개막 - 경기포커스",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaXZjMmNkQXZmRXFNMEdNamczYXVBekp4QzRNaHRhZndJSFNSMy1DRWtTZTA2bEEzaDMyRlY4NVRfbDlhYkVrNF9tUVhqMktFcXV1Vkxaa29kNVlRMFhCdHVNc21tWU44cmFnSw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘인화성 위험물 191만ℓ 보관’ 평택 화재 9시간 만에 초진…인명피해 없어",
-        "link": "https://n.news.naver.com/mnews/article/081/0003669464",
+        "title": "종합특검, '내란선전 의혹' 이은우 전 KTV원장 불구속 기소",
+        "link": "https://n.news.naver.com/mnews/article/277/0005801610",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남개발공사, 지방공기업 경영평가 3년 연속 ‘우수기관’",
-        "link": "https://n.news.naver.com/mnews/article/081/0003669454",
+        "title": "고범석·김종철·고평기·유승렬 치안정감 승진⋯태백 출신 김광식 치안감 승진",
+        "link": "https://n.news.naver.com/mnews/article/087/0001210959",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국외대, 대학혁신지원사업 3년 연속 최고등급…113억 확보",
-        "link": "https://n.news.naver.com/mnews/article/014/0005559984",
+        "title": "대법 \"서울시, 경의선숲길 사용료 421억 내야\"…철도공단 승소",
+        "link": "https://n.news.naver.com/mnews/article/421/0009109565",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'평균 7년 6개월' 독박돌봄 끝 죽음…내년부터 별도 집계",
-        "link": "https://n.news.naver.com/mnews/article/079/0004177784",
+        "title": "화재·구급 등 소방데이터 API 개방 확대한다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005560486",
         "source": "네이버 뉴스"
       },
       {
-        "title": "성추행 폭로당한 삼촌이 가위로 위협해 칼 든 조카…대법원 \"정당방위\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005319934",
+        "title": "부산·울산·경남, 해양수도권으로 뭉친다… 공동 투자유치 시동",
+        "link": "https://n.news.naver.com/mnews/article/277/0005802129",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-12 02:07"
+  "updated": "2026-08-12 04:22"
 }
