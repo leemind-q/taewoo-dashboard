@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "오픈AI “기업 AI, 답변 넘어 업무 수행으로…기업 간 활용격차 8.3배”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186061",
+        "title": "글로벌 인디게임 부산 집결... BIC 2026, 42개국 332개작 전시",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457124",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국산 AI반도체 공공기관 공급길 열려…최대 6년 수의계약",
-        "link": "https://n.news.naver.com/mnews/article/119/0003121485",
+        "title": "이광형 전 KAIST 총장, 국방대 사상 두번째 명예박사",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651296",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지질연, 시료 전처리 자동화...'휴먼 에러' 차단해 신뢰성↑",
-        "link": "https://n.news.naver.com/mnews/article/030/0003456983",
+        "title": "한반도에서 눈 안 떼는 ‘초소형 군집위성’ 발사 준비 완료…누리호 실려 올해 10월 우주로",
+        "link": "https://n.news.naver.com/mnews/article/032/0003464004",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI가 신약 후보 찾고 실험실이 검증…대구에 첫 'AI 신약개발 거점'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009110004",
+        "title": "美구글, 日도쿄에 스마트폰 '픽셀' 해외 첫 직영점 오픈",
+        "link": "https://n.news.naver.com/mnews/article/003/0014126359",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아이에이클라우드, 나무에이엑스와 소형 AI 데이터센터 사업 맞손",
-        "link": "https://n.news.naver.com/mnews/article/009/0005720465",
+        "title": "\"게임을 넘어 AI 서사로\"…지스타, 최초로 비게임사 손잡았다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005399703",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체·AI 처방전 썼던 정부, 20년 성장 책임질 '체질개선안' 내놨다 - 머니투데이 - mt.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00cDduank5djJBN2VxRF8yWTBTT3l0NE5qZWtEbmxsdzd1MjBMSEh2WEJWYVlvbmU0VGpVTDg0Y2hSYV92LVo3SnplX0xpZWt5T0h6WHc1LTJlWE1feFk2RWZSRkJQZ3fSAWxBVV95cUxPMHA0ZjRPbkdTc2tRMmhvZ01zTWxNRVJDc0dtQVN6NlRsY2paaGZueTd4d1FicXh4dERLeUY0VW9zdUp5Y21LbU1IbnpnNFNqQXJxWTBVdzMxOFRCZkdhYXNtM3pUVG9OczBxcmM?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "\"돈 때문일까 봐\"…외신도 조명한 'K-반도체맨' 결혼 고충[뉴스럽다] - 노컷뉴스",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxTjJxa1Z1WW82ZEhnLS1JSjVWNmkxaDFVanlyZ0d4M1lNU0NhaUtkUlN0M2xIZXB6UVphdDZ1Y01zbFphMFA0dWR1dzVJaXMySWc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한국공학대 남옥현 교수, 반도체 국제학술대회서 기조강연 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sWU9iUzFhVmN5NHgteGVxUHBoX1Y2VElMTjA2M0Rha3dadVRlTUhxM2FxYURUNzNfdzB0MXFoRW0tNHdmRnNiMDdnSDJQZDA?oc=5",
+        "title": "삼성전기, 반도체 유리기판 투자 일정 밀렸다 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRkxkamkxLTlpaDdUdWI0OHZCbEF3elhoQUdfTEoxVFotOUlCN21zbmdXb2xnbXhPbm5FdjR3LXFlZmRXalhPMzJVS2xSQzZuY051VkJTTzVvWDJ4Q1EtTElnUkpmdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 제조업 규제로 中企 '끙끙'…대기업 수준 대응 쉽지 않다 '호소' - 머니투데이 - mt.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92YnFsb1JDSUNTeHFlQllnQ20xMVp6bXhMX1A5c1k4ZFc1Q3RVek9CNkFlTm1WYzFQU2hZb3ZjZldqRU1KXzJ2NllmVUYxTFZjMm9mZ3JhaUwwTDVPTmRRVXNjNzJLRTczaUw00gFwQVVfeXFMT3liLXdjQ2cwQTlKc28zemo4bFBWQlFkRUhQNThyVC1IVnZ6RzNCekQ2YmxpWGlCVWZkTjBWd0lPNnNROUdWUDlCTkhYQkNpNXJFYTk0eGVwVTNreFl4ZXFjdVZYdV9udGJNWExiaFBMdw?oc=5",
+        "title": "반도체 훈풍에 코스피 나흘째 상승…6,800선 회복 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OaEVDbHRKd2t4X2dxYmhmUkliVVNaa3hGQ09acmd0b1lYNHk3Z1BFdDc1VEhLb2t6WUFTd1NoSU9fTktxVWlCMmN0QmRlaG51MEFyUWNFNVZYUUVYa3FvbTRQUm5kQTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"규제 맞추는 사이 매출 끊겨\"…반도체 협력업체의 호소 - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZFR6NXRPbWFEcno1N2ZMaDJ4UTRTUzlfQVdvajVIWTdadE16dlBxVUxEWEJWWGVjLXhkYmRrY05yODBoN0VaUXVtR3JfdVlBeUVnOFdOcloxWFHSAWBBVV95cUxNOHkwM2NNcVhzdDJ4VVl3VlBoQ3NsOXNQVjNRYzFTSGdsaTltT0VZRGNDd1RFZ0NkS0tTS2xyRjZhSzBKSzhPVTFUX25Hd0JvdXg5Q25lcWFkTzBjV2otaWg?oc=5",
+        "title": "공공 '반도체 검사기' 입찰 시 보증금 최대 수억원 부과…허위 입찰 퇴출 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbHgwVUF2ZU1GSHNXZS1GQ0ZVSXlqUXR4SjlyWWFDbXJVTUJZQzBCWUpRLUt4ai1BTC1XdEMyNUJ4em9LRHU5blZKeTlXZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "금오공대-영남대, '반도체특성화대학사업 성과보고회' 개최 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYndJY2cySkxlSC1leFFBa0RjS3BxVkFpZGllbFBBZHFVakVWTkhaSnJ3dW9rWGhTeER5dmNMTUNGYnRPLVN3UnRsTkh0X1FxVmRhMTRBU0IyS2piRmxkRDFKaExhVWxYUlHSAW9BVV95cUxQWkoxcWxRNzRoajZ1aUtDX0w5RGljTURVdFg0Tkh4QWpYQ3EteTNJUmtDdW1OMC03QU9FT3VWSnBnTlk3WjJwUlBkZTE1MjhseEhmRUlzVzBCMFF5Tl9pSkd2VG9Oa1lKV0d1eDVmOWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "블록체인 판 바꾸는 AI…정부, 글로벌 진출 판 깐다 - yna.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Mb3BUSFJqdzgzWWpJTFpqWEE5WUZRQ1hYcTkyN1l2WWR5ZkxYbjFBTEFyZmU2ZV9hSEF3bmNBNXVpUDhOSk5NRDBXN1NiTUpoZ0w0RXg5YmZGcnPSAWBBVV95cUxOQ0hBV3RxSmdfZ2NjcFY4eGdCUUxfX2FLLWVpMjJsN3VRbUlsRS1GazViVHZVc2FqZlhiOU1UMlhlS2t4VG8tNXZIRWpMUmJveEMtS2I5VU5MTThuWmJNajk?oc=5",
+        "title": "'AI 부트캠프' 대학-기업 매칭데이 개최…\"AI 인재상 공유\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ja1pTejlZcjUza01yN05rdHBjQjBNOGxMZzhuNGhiTmdrM21wZHAxcFlDUEUtX2c5empfVWk3Qy1VOHlvRlQ3ekViMGJwMHE3R0J5cGtZem9PaFdOYy1oR9IBYEFVX3lxTE1ja1pTejlZcjUza01yN05rdHBjQjBNOGxMZzhuNGhiTmdrM21wZHAxcFlDUEUtX2c5empfVWk3Qy1VOHlvRlQ3ekViMGJwMHE3R0J5cGtZem9PaFdOYy1oRw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "시흥시, 서울대·오픈AI와 함께 인공지능 미래인재 양성 - 세계환경신문",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwSmRLb2NHN2dIWkxmcjFsYUdoRGt5RFhzcU1acjNodFY1QUlscmtEZEZDdVpnNWN0MjI4MThQeHV3aGt6c3FyTWRKcER3c21kSFE2RmFidnZ6MDFPSm40?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "애플, 언론사에 1400억 푼다…'AI 시리' 뉴스 강화 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nU3ZPVHEzWmRUNVEwNzZ3Nlp0eHJWQWdtLTRfWF9NN2ZjYUltM1NsOTJDQXFkLWFUVGpGU1ZiUVB4bER3bi01TTFUZEtyMjA?oc=5",
+        "title": "인공지능(AI) 농업 현장코치 양성 본격화 - daejonilbo.com",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUjhSSW9ybG5QR24zQzVsbWVFU3JLem52VHkxcUJrOERMQXdILUNIektTdk9XYURPX3duY2MwTV9Rd1kxbFdSbGhrZkFTTHJlMk54X2Y5dUR2QXpQcVBBVUJlRy1KY2tLY2xGRHZra9IBc0FVX3lxTE1XX2c5dUlkVUh6WFExNkxocDBFTE9saGVxUWRYODlUTnQ2cjYzRlFWSHBXWl9KWjc1YjlYS2xnSk5HeERubUdRM21JY29EZlB6ZE1PdkZ0Nl94Z1RVcTVudUFvV1psNGxuWEpjY3Frb0NPODg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능이 기후에 맞게 ‘고단백 미세조류 스피루리나’ 키운다! - aitimes.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McUNsbE1JSEF1UTNGRjJGOWpSc2xveUtwWGpfYzVnYzZJZWlfX21COHp2ZW5Qb0VQUmp3YVltalI5aGZpUXA1STBOQnlTdFFlb2VqM2JFUDJDNkZQLWVsTWJPSUlraFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SK에코플랜트, AI DC 사업단 신설…인공지능 인프라 강화 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Wc1NhcGgzVzAwQ3dERDBfSFFtMEhnc2FQWFZabjJ2RW9QU1FvYVRmZGFwQ3FpM0M4QjA3aFY5TklBWVNraEtjaV9kWHhzUQ?oc=5",
+        "title": "하정우 전 청와대 AI 미래기획수석, 수원 중심의 대한민국 남부 반도체 AX 얼라이언스 구축할 수 있어 - 수원시 인터넷신문",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXNGEzQWc0NUQzNFFKcklhYmxnV3NLaG9Bb0Q1ci1JWVk2V0FsQm9xV3lFZFBWYktfQ24waW9VSFMyQjZXTEpvTWlwT2NyU2VFMU9ieW15M1hHQXVrYk9yYktLZGZ0ZHktdlZOUUZ6R2c1QkdhT2FJZ2pn?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "온라인서 산 일본약 주의…식약처, 불법 판매 의약품 432건 단속",
-        "link": "https://n.news.naver.com/mnews/article/421/0009111315",
+        "title": "추경호, ‘건설경기 심폐소생’ 승부수…대구 건설업계 “오랜 숙원 풀었다” 화답",
+        "link": "https://n.news.naver.com/mnews/article/031/0001049516",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘4명 사망’ 광주대표도서관 붕괴 사고 책임 공무원 2명 검찰 송치",
-        "link": "https://n.news.naver.com/mnews/article/032/0003463939",
+        "title": "경기도 재정혁신TF, 지방재정 구조 개편 10대 과제 제시",
+        "link": "https://n.news.naver.com/mnews/article/021/0002810991",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기도 재정혁신TF \"보통교부세 '초대규모 광역도' 신설을\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014123147",
+        "title": "식약처, 의약품 불법 판매·광고 432건 차단",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042259",
         "source": "네이버 뉴스"
       },
       {
-        "title": "호남 유일 생존 항일독립운동가 이석규 애국지사 별세‥향년 99세",
-        "link": "https://n.news.naver.com/mnews/article/214/0001517640",
+        "title": "'쯔양 명예훼손' 김세의, 첫 공판서 혐의 부인…법원 \"2차 피해 질문 금지\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009112284",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지방정부 '수의계약 몰아주기' 막는다…동일업체 횟수·금액제한",
-        "link": "https://n.news.naver.com/mnews/article/001/0016249699",
+        "title": "검찰 사칭해 '나체사진' 전송…67억원 뜯어낸 피싱 수법",
+        "link": "https://n.news.naver.com/mnews/article/586/0000135874",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-13 05:58"
+  "updated": "2026-08-13 07:45"
 }
