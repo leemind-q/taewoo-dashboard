@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "지스타 메인 스폰서, 사상 최초로 비게임사가 맡는다… 3N2K 전원 불참 가닥",
-        "link": "https://n.news.naver.com/mnews/article/022/0004150786",
+        "title": "한여름밤의 우주쇼… 페르세우스 유성우 14일 새벽 절정",
+        "link": "https://n.news.naver.com/mnews/article/005/0001866612",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "메타 아시아태평양 부사장 “AI·크리에이터로 ‘소셜커머스’ 키울 것… AI 투자 이미 성과”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001186142",
         "source": "네이버 뉴스"
       },
       {
@@ -12,18 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, ‘바다 위 AI 데이터센터’에 베팅… 美 판탈라사 투자",
-        "link": "https://n.news.naver.com/mnews/article/366/0001185999",
+        "title": "구글, '제미나이 AI' 대폭 강화한 새 폴드폰·픽셀 11 시리즈 공개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351189",
         "source": "네이버 뉴스"
       },
       {
-        "title": "식당·병원 대신 예약…구글, AI 강화한 스마트폰 신제품 ‘픽셀11’ 공개",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042163",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "NHN클라우드, 장애에도 끊김 없는 대구 공공 클라우드 구축",
-        "link": "https://n.news.naver.com/mnews/article/003/0014124846",
+        "title": "크래프톤, 넥슨 처음 제쳤다…2분기 게임사 실적 1위",
+        "link": "https://n.news.naver.com/mnews/article/001/0016250526",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,27 +39,22 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "검찰, ’3,500억대 담합’ 반도체 소재 코스닥 상장사 기소 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBaWE0dV9zNVk3MDZ6SnRWaUw0dkhLZFNVZmN5Wk90cFF0bWZEaElBMi13eEZLMmRkS0hRVjRvS2dqX0F0aTB0d2FFNFcxZXpXSUtyOThTQ3ZMdVVSdEJ3dmhKVnFfZUk?oc=5",
+        "title": "맹추격하는 중국 반도체… YMTC, 낸드 출하량 3위 깜짝 부상 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTQ05LQ0p3MExuZm5aV1llOFFKWU1seUJJcUl0UmZlZ256RW1jYTNVY19Ld1Fhb0ZrSFB1WG1ZWWlTMzYwWkxlR3V4TFpNbVdNZ2hPQXMzTkw3OVE3Z2NpM29SSmV6MVlf0gFuQVVfeXFMTzF3S01reE00OTdROU1QT2xtUlZwZ3lPWUppYkdaOEkyNHdNc2RHVjlsNjZqNGZ5YWtJWFRULUhGN0Rja2ZvMWRkbTkwUF80U3poSHpjQTF5ZUFBMV9Cai1mWVBJMW1wVHB6Tkt1NFE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 소재값 ‘짜고 친’ 상장사…검찰, 3000억원대 담합 적발해 불구속 기소 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zX05KdGRDbTBDNF9NS2hhZzI0ZWRhYURjVHo4ZGp2LVlnbXQ4V2thbENLME9IZnVpNERjdWtqLVRLV1ZWeGpJSUFJVm1kdjA?oc=5",
+        "title": "\"세계와 경쟁하는 반도체…R&D는 '주52시간제' 완화해야\" - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1dVZjRUotZTNWMXFlZnJxUFh2aF9iUWxWOU1ZVF9RaU9kZF9nRVV4cktqYWFrVUs5TzZzeWFqVDVVMXU0N2gtTnhLNEw0cElTd0xFX2xDR2ItQWJYTlNZRHBPYUVMNXhrTGtkc2dxMXRQRkk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "검찰, '3400억원대 담합' 혐의 코스닥 상장 반도체 소재업체 기소 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FaHRGX1ZvN2dBY3Nmd2xQYjdTVWxxZmVPN1U3Tmp0MkNFWTBsNTlXc01TSTRzU2c2c3RYN3AwVXMtZUlfdHVQWUJQYU8tT21EeUZqMUJuV2lPMXBTa3pTNtIBeEFVX3lxTFAzQ3RheUtYWmpreHJiNE40bWhxcU1VcU1VSW15eGFfUm14c211b1JwbVk0enFXb28zTHc1Slh6TllVYUxTbU1Hd1VTM2I5d25xYS02UnpFQldIbkFJemRESk1OMm9iU05PanFrREY0U011ZUNmdm5VTw?oc=5",
+        "title": "[중국증시-마감] 반도체 매수에도 뒷심 부족…장중 반락 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2djRCRS15QUNzcXRJNlB3VzFGUWNVNXBLZlVGOS1jUElBS1hNX3l4QWRmQTU5Ui1qTFRSYk84NGFsRmNTUERCSXUxc0dEMnRMZ25lVUwzU1VlT1JBcGdUTzZPN3liaTRsT1h1Tzc2ajU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
-      {
-        "title": "인공지능(AI) 농업 현장코치 양성 본격화 - 충청타임즈",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05OG5CdWtxaEpfbUtqa3FsWE9yTjRUVU5WVWt2WmF2MWFVM0d0S1RRLTR6ZGJhVzFDUlBUMFRqb3hQb0hsRGtZRVAxeXdxMEVXb2o3QnhmX1hWN25zYjlROGxhQ3VoTXVE?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "'AI 부트캠프' 대학-기업 매칭데이 개최…\"AI 인재상 공유\" - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ja1pTejlZcjUza01yN05rdHBjQjBNOGxMZzhuNGhiTmdrM21wZHAxcFlDUEUtX2c5empfVWk3Qy1VOHlvRlQ3ekViMGJwMHE3R0J5cGtZem9PaFdOYy1oR9IBYEFVX3lxTE1ja1pTejlZcjUza01yN05rdHBjQjBNOGxMZzhuNGhiTmdrM21wZHAxcFlDUEUtX2c5empfVWk3Qy1VOHlvRlQ3ekViMGJwMHE3R0J5cGtZem9PaFdOYy1oRw?oc=5",
@@ -76,38 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전북교육청, 인공지능(AI) 활용으로 업무 방식 전환 본격화 - 무진장인터넷뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11a0xiV3Jwek9ja3Fsd1lfT3l1UnZZd1EwLURBVWswcEdpSVBuR1ZlUzRWRWFmemtkMVp1YXZOeEpJbTVwbnRaTkJqN2hEQ1dMNlpxYmNiTzF0UQ?oc=5",
+        "title": "시흥시·서울대·오픈AI, 공동 '인공지능 여름 캠프' 개최 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5haEpzeEdzOUg4SGF4T3hid3JLOEExaXJtSHF6YTZRNWJqcFBnQW13eXl6M2F2dTFPN0RYVXJydGxDTWZjMHgxWHdKSHFlVkJTa0dSV2FzbTZvR2lP?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "충남도 인공지능(AI) 농업 현장코치 양성 본격화 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QmhhY1FBQTU3Tk1jOWt0Sm5jQ1VkbmVrMTdZWmxTUGNLV1dUdDdjOUFfaDFsUDg2UER2LUdqTUZtQU5Ka3l4Q2l2RkpiZEhxODJNcEJkMFVFNU9VRkhZSTI5TndBXzlTaF9TaVR3RC1sU3Fh?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "대법, '오창 후기리 소각장' 분쟁 청주시 패소 확정…파분쇄시설 거부는 적법(종합)",
-        "link": "https://n.news.naver.com/mnews/article/277/0005802737",
+        "title": "\"남탕 수건은 무료, 여탕은 5백 원\"…인권위 \"성차별\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001380391",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수능 서·논술형 도입 공론화 착수...이달 말 1박2일 숙의",
-        "link": "https://n.news.naver.com/mnews/article/052/0002392976",
+        "title": "내일 전국 곳곳 5~40㎜ 소나기…광복절에 더 강한 비",
+        "link": "https://n.news.naver.com/mnews/article/374/0000527382",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전국에 말라리아 경보 발령…매개모기에서 원충 확인",
-        "link": "https://n.news.naver.com/mnews/article/082/0001393806",
+        "title": "경찰, '한동훈 당원게시판 사태' 서버 업체 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/277/0005802749",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대검 판단 뒤집은 법무부 감찰위…‘이화영 재판 집단 퇴정’ 징계 권고",
-        "link": "https://n.news.naver.com/mnews/article/025/0003544189",
+        "title": "진천 아스팔트 도료 공장 불, 큰 불길 잡아…60대 男 2도 화상, 9명 대피(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014126424",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, 3000억대 '반도체 소재 담합' 코스닥 상장사 기소",
-        "link": "https://n.news.naver.com/mnews/article/015/0005320581",
+        "title": "지자체 '수의계약 몰아주기' 막는다…동일업체 '年 5회·2억'으로 제한",
+        "link": "https://n.news.naver.com/mnews/article/015/0005320646",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-13 10:36"
+  "updated": "2026-08-13 11:49"
 }
