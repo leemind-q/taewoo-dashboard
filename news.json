@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "'벤치마크 40점의 함정'…독파모, 말과 배점이 다르다",
-        "link": "https://n.news.naver.com/mnews/article/648/0000049753",
+        "title": "네이버, ‘바다 위 AI 데이터센터’에 베팅… 美 판탈라사 투자",
+        "link": "https://n.news.naver.com/mnews/article/366/0001185999",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버 노조, 계열사 통합교섭 추진 공식화…“16개 법인 매년 1천 시간 소모”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012236239",
+        "title": "네이버, 경총 회원됐다…\"AI 시대, 범기업적 협력 확대\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004178269",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“기업 AI 활용 격차 커졌다…상위 10% 토큰 사용량, 일반 기업의 8.3배”",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237652",
+        "title": "독파모 4강 '글로벌 성적표'…모티프 선두",
+        "link": "https://n.news.naver.com/mnews/article/003/0014125043",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 2027 충청 유니버시아드 공식 후원…통신·AX 역량 발휘",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237656",
+        "title": "오픈AI \"기업 AI, 답변 넘어 업무 위임 단계\"…법무 코덱스 이용 108배↑",
+        "link": "https://n.news.naver.com/mnews/article/008/0005399526",
         "source": "네이버 뉴스"
       },
       {
-        "title": "사람 손 타던 시료 희석 자동화…30초 만에 정확도 99.7%[과학을읽다]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005802564",
+        "title": "K콘텐츠 노린 해적 사이트, 북아프리카서 덜미",
+        "link": "https://n.news.naver.com/mnews/article/277/0005802402",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "고립이 키운 ‘자립력’…중국 반도체의 초고속 성장 비결 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUnM0ZTlTdDVyRFpnaEo4Z0cyOXgzSG9DTXUtQmM5aWtCWHdDQWY4MU5vRkRTOWowbU9LTUlfWmlhY2l0QmhGeDJhRDhfNG5rRUpIMk5IRHVBYmJRZzVMSDQxZ1hKQnAtWnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "코스피 4% 오르며 6,800선 회복‥반도체주도 급등 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwS1JhcUNDYzlpMmZvS3N2bTNJSE5vQUNQeFpFMm16NTQweUdYVEt3Wk9HX2gtLUFjN3FoSl8tbm1oMEhoWkZGUFN0djZfZU56UzRXWC1Zb3hwT01ranMwUklrczMzUTFCdENoNEt4UHNOV0h20gF0QVVfeXFMUDZJV1hvTW5Jc0taV1RvMVlvZUFXa0lKTi1BTkZfRHZ0SmJwU0oyUmk5LUpZX2JXbFZEUjhEaDh0NXBDTTgySzloQUk5Z2F5X0IwWWphdHZXT1hENVRaQ2s3eC13Z0VZajV3WjNNMzRUcGJqc1I?oc=5",
+        "title": "코스피 6,500선 탈환…반도체 '삼전닉스' 강세 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nQndjb2FDSUtONWVKTGtuR3ExMEtHVDQxWHQ0WnZkUk40NmdPMktkTlN4Ti1TeW1OckEwZFJPd05PRl80Y05uMjRyejVMNzA1MVRsbHhsaVQxWHfSAWBBVV95cUxOc2FIeXZISHNzX2Y1QmZqVDBzZG95UWx0a1l3dFVJY3pncDN2MjNrdGwzc0VkS2hIQjJGY0Y3b2dJYlJ1UUhkTXJ6aXNyMDdjbl90U1RaZVI5VmZOdVdjN3o?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,13 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "코스피, 반도체 질주에 장 초반 4%↑…6900선 육박 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kb09YTDIzY2FHZGkzbnpxUzhhWnN3QUFHcTFJSDNuUzNKV21KZS1mV1hwQ0RNVXNTOW5JeXJzS05Bdi1Ec2ZBLWFvUklpbW42a1dDYWpOOElubkVZdEdhZ9IBeEFVX3lxTE1XSU1WWVYxVGlMZWFBSHEwOExTU2VsZ3E4ZVF6RkZfaHJENERSRExFZThzc1NnQm9HZmt1c3hFQzVZU0p6enJiVXpmOFBjSTBIWUdRVlN4ajl3T3RfaEVxQ1BkdXRpbG83NEs2SXhwc2RqWXAyakMwQQ?oc=5",
+        "title": "\"외인, 다시 삼전닉스 담는다\" 3일째 '줍줍'...코스피 6800 회복 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GeU9iZGQtbmJRVVdaRU44a1pBZWxkZEJ2NFItUGpBdnVGelE3dmRDSGcwaTZjNEJra3NyTjYyRkVVcFNUVWxHZ0NkMGhyY2c1Vk9CQmFfVk4yZ3pHTjZNaW5jc1hZa2FU0gFuQVVfeXFMTU9oMlloM1NCWDZqVWpIMkw1OGZtbUFKZlVQTlFhWTQ0QW43MVctelRIaF90bWRqR3dxT2twb2tqZTQ3Yzc1aXdqZmZYRTFJWjFfUy15M3VObUd0Ul9HVmpiRHlFWVpOQmZWR0Nnanc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "부산 반도체기업 리노공업 노사 이견 팽팽…교섭 일정 불투명 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlYWRJZkFXUm53bFg5dFdKdnh1MUVQZXYzMUhZMXdXNkE3UzNKdUl1bFNqVEpEeFF6RDd3TVpZT21QYk05MDMxaDgyS3RGWlE?oc=5",
+        "title": "반도체·AI 처방전 썼던 정부, 20년 성장 책임질 '체질개선안' 내놨다 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00cDduank5djJBN2VxRF8yWTBTT3l0NE5qZWtEbmxsdzd1MjBMSEh2WEJWYVlvbmU0VGpVTDg0Y2hSYV92LVo3SnplX0xpZWt5T0h6WHc1LTJlWE1feFk2RWZSRkJQZ3fSAWxBVV95cUxPMHA0ZjRPbkdTc2tRMmhvZ01zTWxNRVJDc0dtQVN6NlRsY2paaGZueTd4d1FicXh4dERLeUY0VW9zdUp5Y21LbU1IbnpnNFNqQXJxWTBVdzMxOFRCZkdhYXNtM3pUVG9OczBxcmM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "하정우 “수원 중심 남부 반도체 AX 벨트 가능” - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcnNhSmVFOG92bHNKanU1YTRNSEVwcHlFUVc2UTc4MGhNTHZPOXIwSkVPWUtMbTFId0EtZHQ5QnBPeU4xTHBYaG5GRzk0NGFZemfSAVNBVV95cUxOQVE3ZVFuWWk4ZWs1dUFKSGZ6eWFYTnJKT29vWWRNVTV5bFZ3bjNLZFIxVWx4ZUpDaFNYS25LeE9DLWR2a1o3YkpWRmFLcU41QWVXRQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "파주시, ‘여름특강 인공지능(AI) 활용 클래스’ 운영 - 경기도민일보 미디어",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4WVJBa2UtbkFMLXlZclpDM2lweG1ORnRmUUdhQjVSSkFnTTdwWmM3eXV3VWVGM2lKaTlIa21VZzRpS3JvUFlDZXk0RWRodGg3WVFJRHhRU1B5aGxtWmF1OE1DeVVxellDSWc?oc=5",
+        "title": "시흥시·서울대·오픈AI, 인공지능 미래인재 양성 - auto-today.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpbC02ZnZZenJ0UVVRWDhsbmtaNGZzWlF0ZXJoWUlmSlNBTFFuUlMxWFNnRDY4bUhYVnAtTGZGcFdzdzJVOFMxS3JUYi1idUo2Z09jR2NlNE52MG1KU0lLbFVzVGh0aHNVRU1JWTlWYw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"AI 창업, 마음껏 도전하세요\"…과기부, 청년 맞춤 지원 강화 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMy1XRXlkU3BVUlAyam5HM0lhX1lBVkMxcnVvZU9oOTFGaUdZQ3p1bzJYZXpRZm81WVI3eW1XQkVFRzRJbE1ZNk5NQWR2bG4xWG5pZ1h0Z05wOFnSAWBBVV95cUxOUGNWS0pobGNvTFhScWlBODU3Y0lkSzdtRlNoUndXTTA5YjFVRXdhS3JNRVA3RDVrVHpZNjNBSW1BdUotT25rMnhPeFZjUDhkUlZTaUw0ZU9lUTB0M3lIems?oc=5",
+        "title": "파주시, ‘여름특강 인공지능(AI) 활용 클래스’ 운영 - 경기도민일보 미디어",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4WVJBa2UtbkFMLXlZclpDM2lweG1ORnRmUUdhQjVSSkFnTTdwWmM3eXV3VWVGM2lKaTlIa21VZzRpS3JvUFlDZXk0RWRodGg3WVFJRHhRU1B5aGxtWmF1OE1DeVVxellDSWc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“수요 확대 대응·통합 역량 강화”…SK에코플랜트, 인공지능 데이터센터 사업단 신설 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QVHNpWEdpMExaX1ZDODlZWXdpZU9neFB0RkZTMUN6NGFVa3E1QXJRQTdXUnJTNXVRd0JQQWJfbm4xejVaNG1RTW1mYTR1aWs?oc=5",
+        "title": "애플, 언론사에 1400억 푼다…'AI 시리' 뉴스 강화 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nU3ZPVHEzWmRUNVEwNzZ3Nlp0eHJWQWdtLTRfWF9NN2ZjYUltM1NsOTJDQXFkLWFUVGpGU1ZiUVB4bER3bi01TTFUZEtyMjA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "검사 보완수사권 폐지 앞두고…인권위 “수사 점검 기능 약화 우려”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004651319",
+        "title": "\"농지가 투기 수단인가\"…윤준병, '경자유전' 무너뜨리는 늑장 처분 뜯어고친다.",
+        "link": "https://n.news.naver.com/mnews/article/002/0002451995",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한밤중에 전기톱 들고 경찰과 대치한 20대…경찰 특공대가 진압",
-        "link": "https://n.news.naver.com/mnews/article/448/0000633172",
+        "title": "하수처리수까지 활용…“버티기론 한계, 비만 기다려”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651159",
         "source": "네이버 뉴스"
       },
       {
-        "title": "억대 '백옥주사' 빼돌려 불법 판매한 유통업자들 적발...검찰 송치",
-        "link": "https://n.news.naver.com/mnews/article/666/0000118850",
+        "title": "대법, '도이치모터스 주가조작' 공범 징역형 집유 확정",
+        "link": "https://n.news.naver.com/mnews/article/421/0009111954",
         "source": "네이버 뉴스"
       },
       {
-        "title": "일본군 위안부 기림의 날 맞이 기념식 외[게시판]",
-        "link": "https://n.news.naver.com/mnews/article/056/0012236875",
+        "title": "삼계탕·치킨 배달음식점 58곳에서 식중독균 검출",
+        "link": "https://n.news.naver.com/mnews/article/056/0012237021",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, ‘해경 계엄가담 의혹’ 김종욱·안성식 불구속 기소",
-        "link": "https://n.news.naver.com/mnews/article/056/0012236249",
+        "title": "'호남 유일 생존 애국지사' 100세 이석규 지사 별세",
+        "link": "https://n.news.naver.com/mnews/article/003/0014124896",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-13 02:09"
+  "updated": "2026-08-13 04:25"
 }
