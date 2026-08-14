@@ -2,37 +2,32 @@
   "categories": {
     "IT": [
       {
-        "title": "코어라인소프트, 역대 최대 반기 매출…전년비 45.7% 증가",
-        "link": "https://n.news.naver.com/mnews/article/215/0001262422",
+        "title": "KT AI 콘텐츠 공모전 대상에 '소상공인 마진 분석 AI'",
+        "link": "https://n.news.naver.com/mnews/article/001/0016252395",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"하이닉스가 효자\" SK스퀘어, 2Q 영업익 19조2354억원 '사상 최대'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014128729",
+        "title": "SK스퀘어, 2분기 영업익 19.2조 '사상 최대'…AI·반도체 신규 투자 준비",
+        "link": "https://n.news.naver.com/mnews/article/018/0006352018",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "엠게임, 상반기 매출 455억·영업익 56억…“하반기 신작 출시로 실적 개선”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721175",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "티맵모빌리티, 2분기 EBITDA 44억원…전년比 36억 개선",
+        "link": "https://n.news.naver.com/mnews/article/014/0005561825",
         "source": "네이버 뉴스"
       },
       {
         "title": "‘독파모’ 후발주자 모티프의 이변",
         "link": "https://n.news.naver.com/mnews/article/032/0003464141",
         "source": "네이버 뉴스"
-      },
-      {
-        "title": "광복절, AI로 복원한 유관순 열사 다시 만난다",
-        "link": "https://n.news.naver.com/mnews/article/584/0000038914",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "야놀자, 상반기 152억 적자… 창업자 이수진 보수는 11억",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186375",
-        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "최태원 회장 \"반도체 주문량 2배, 전쟁 같은 상황…내년이 가장 부족\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRN29yTWI0b2Y0MnAwY3JlQ0JaQTROZDVQLXZBYktfVzRqOVp4dkF3UUh6MVdBMEZCNVEybVpmOG4yWVhxeGQ5XzM5RExEeWstZktoS2JHdV81MWhsTlN5VDBDVk5GWFd40gFuQVVfeXFMTUxEakpWam1vVmR6MXg2T0xJZjI3UXNWUFBVVzhUdmo1R2NaLVltWGVkczh5aVFUV0hGTTBVR0xDUC1zeG85M1lNbzRSRjNId05kbVFJWmczX0l0c2xMQlY3czQ4VUVzWC1IYXdPSkE?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "용인 반도체클러스터 더 빠르게…2.5조 투자 가속 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90UTNTSFpONkxKbkE4V3I2SkQzbW5SVjk5QTl2Y2owUnlsQ3BKbWIxaTZQOV9BY0QzQmF1WWVuWElBZm9GSTcwalNyeTNVLXpsbDhyZ0VPQUhYNkNQLVBvQTR5Z0VKYjQ?oc=5",
@@ -49,12 +44,27 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "세미파이브, 상반기 매출 947억원…적자는 지속 - thelec.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rTlJpb2c4RGQ3bXZqSE1qclBKX2U5Wnd0SjJQTXU4M1FWUlRUUXBNSi1kdjhCckQxSXcySzFaZEROdVA0ZmJhQUE4Q1FONUFfR3RSM2dBWWxQWnc2amRldmxRckFJUQ?oc=5",
+        "title": "키옥시아 제친 중국 반도체…삼전닉스 턱밑까지 따라왔다 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYWU2SmNQcnc5WTVMVTN5NGlidi1hcUlVS3Z2RkQ0YjdqSVVnRi1ZdmNWbnoyR2lycWtwbndjVGtUU25nQVUxNDlkbkhhNUt6WVE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'호남권 반도체 클러스터' 반도체 팹 9기 품나…5기 추가 가능성 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTQXN2UTBsYUd3UmtaTW45empUQ0hUc1pxZVdnU1ItSDlSa2RwSXBBNHJlQV9QOGJxYXJDUVhLdS1CcFZCX0NBMzhHS1Y5cUU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "인공지능(AI) 시대에도 지역은 사람을 통해 기록됩니다 - 서부경남신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aTg1dWVfMnloaC1tVGxfanVjcDNHRVZ3YXhPLU1MTXVRbWtTTlBuX181MTcyZ3EwT3RzZzNDbzNyTlplaU1paDhrdDI1c3pEOURlWms5c2Q4a1dQdmFOWm9ZMjRTX3hVMXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI 이슈] \"인공지능, 수어를 실시간 텍스트로 바꾼다\"…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRG1vTE0xVC04OXcteG1JWnA2S1NqOTFScUk0WUhTellNei1wc2UwMkJ1NEdOcXBxRHZqU05hOXJfaTdfenZrUDh1ZVZTMl9udnpRVXY1U3pEdk11NkdHdUE3Wk93MEk?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "인공지능으로 재난 대응 신속성·효율성 높인다 - 한국방송뉴스",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wOElLRWJjVzdOQi1EOFBVM0lBa09rUzRWbWRDUnU5N3VHdDhia2tTbDBNWUhubW9FZGxQc3VUdjVvY1UwTXZjWmpxRzFLNmhfMFJuaGRKaGs0by1QdXc?oc=5",
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI 이슈] \"인공지능, 수어를 실시간 텍스트로 바꾼다\"…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRG1vTE0xVC04OXcteG1JWnA2S1NqOTFScUk0WUhTellNei1wc2UwMkJ1NEdOcXBxRHZqU05hOXJfaTdfenZrUDh1ZVZTMl9udnpRVXY1U3pEdk11NkdHdUE3Wk93MEk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시노사민정협의회,‘인공지능(AI) 전환과 노동권 포럼’개최 - surprisenews.kr",
+        "title": "안양시노사민정협의회,‘인공지능(AI) 전환과 노동권 포럼’개최 - 서프라이즈뉴스",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aVU1EczcydVpScmVuaXc3VUpzYWNmMHIxVEhoRXpIV0RGYl9yblp3ZkNjS3poRUhBVnlYbHZYS1NfaXlDSXZ0Z2QwTU9aX3R3RTdJZjNEdWt3SzdOeTBKTUVqTy1SVkYtbVV4YU5n?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI) 기반 감귤관측 자동화 기술 현장 검증 돌입 - 뉴스N제주",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWUx3RkRVbXk4Z05FN0lmNUcxbTR4dWtEc3A2bzJvdkZqU2drb1NacDVjcUdHeUNxeWNvNEVhcmcxVm1JaXVQUUtIS2FJVkpYbWFuZGlreklwLXJMR0N3Zk9uVFctcGc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "최태원, 노소영에 현금 9천440억원 지급하나…오늘 '운명의 선택'",
-        "link": "https://n.news.naver.com/mnews/article/666/0000119181",
+        "title": "박홍근 \"교부금 개편, 교육부와 막바지 협의 중\"…부처 간 이견엔 \"정상적 과정\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351191",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“해외 출장지는 위원장이 결정”…합수본, 중앙선관위 간부 진술 확보",
-        "link": "https://n.news.naver.com/mnews/article/056/0012237993",
+        "title": "[속보] 특검, ‘尹체포방해’ 나경원·김기현·윤상현·권영진 기소",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544430",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이 대통령 \"위안부 피해자 명예 온전히 회복되도록 책임지겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/055/0001380671",
+        "title": "법원, 배우 황정민-스토킹 혐의 여성 ‘손배소 사건’ 강제조정 결정",
+        "link": "https://n.news.naver.com/mnews/article/028/0002818609",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'250억 횡령' 유병언 차남 유혁기, 2심서 징역 4년…1년 감형",
-        "link": "https://n.news.naver.com/mnews/article/421/0009114769",
+        "title": "檢미래위, 백현동‧성남FC‧법카 의혹…李 사건 등 12건 재조사한다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544509",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기 성남서 옛 연인 살해 50대 구속...\"도망 염려\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002393492",
+        "title": "\"증손녀가 왜 사과해?\"…하영 논란에 일본도 '시끌'",
+        "link": "https://n.news.naver.com/mnews/article/437/0000506205",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-14 10:33"
+  "updated": "2026-08-14 11:45"
 }
