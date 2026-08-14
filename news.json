@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "KISTI, AI과학자·웹 에이전트 등 '과학을 위한 AI' 서비스 공개",
-        "link": "https://n.news.naver.com/mnews/article/008/0005400236",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "빠르지만 한계 뚜렷한 구글 새 AI...그록·중국 AI에도 밀려 9위",
-        "link": "https://n.news.naver.com/mnews/article/052/0002393208",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "LG유플러스, 청년 예술인 지원 나서…청년재단과 협력",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721114",
+        "title": "스스로 판단하는 AI 시대, 사람 역할은… 6년 만에 ‘AI 윤리원칙’ 바꾼다",
+        "link": "https://n.news.naver.com/mnews/article/469/0000948078",
         "source": "네이버 뉴스"
       },
       {
@@ -22,35 +12,45 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "리니지·메이플·애니팡·쿠키런 개발자, 오픈AI ‘게임 빌더스 서울’ 멘토로",
-        "link": "https://n.news.naver.com/mnews/article/018/0006351734",
+        "title": "그룹 '빅뱅', 우주항공청 초대 홍보대사 위촉",
+        "link": "https://n.news.naver.com/mnews/article/014/0005561545",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "독파모 ‘벤치맥싱’ 논란에 AAII 입장…\"평가 방법론 지속 업데이트”",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434032",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "한컴, 매출 16.6% 연구개발 투자…에이전틱 OS로 사업 전환 가속",
+        "link": "https://n.news.naver.com/mnews/article/018/0006351782",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "키옥시아 제친 중국 반도체…삼전닉스 턱밑까지 따라왔다 - 매일경제",
+        "title": "최태원 회장 \"반도체 주문량 2배, 전쟁 같은 상황…내년이 가장 부족\" - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRN29yTWI0b2Y0MnAwY3JlQ0JaQTROZDVQLXZBYktfVzRqOVp4dkF3UUh6MVdBMEZCNVEybVpmOG4yWVhxeGQ5XzM5RExEeWstZktoS2JHdV81MWhsTlN5VDBDVk5GWFd40gFuQVVfeXFMTUxEakpWam1vVmR6MXg2T0xJZjI3UXNWUFBVVzhUdmo1R2NaLVltWGVkczh5aVFUV0hGTTBVR0xDUC1zeG85M1lNbzRSRjNId05kbVFJWmczX0l0c2xMQlY3czQ4VUVzWC1IYXdPSkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "키옥시아 제친 중국 반도체…삼전닉스 턱밑까지 따라왔다 - mk.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYWU2SmNQcnc5WTVMVTN5NGlidi1hcUlVS3Z2RkQ0YjdqSVVnRi1ZdmNWbnoyR2lycWtwbndjVGtUU25nQVUxNDlkbkhhNUt6WVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체·이차전지·바이오 규제 푼다…\"4.2조 투자 유발 효과\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYUFPVDJzVzdpaVlIVU5VaFpYckQ5V1RWZE5ZMmNkZDRDY3FyN1NIdm1DOXdha0xZUEZ3UzFrblZsSmwyOGFUV0FtNXlTb2w0dTJsRzZjZTQ3VWvSAWBBVV95cUxOdTlfb1RYbktmWmJNYTd1YklkTmVBMjE0M2lMcnJKUTlUS2FOM0p6NEhFX3ZCS2tMYkdxVTJvTGVQeUVreEZsU3VKczZFbDAzMGg5Rm5RUEU0ODZXcTF0cEo?oc=5",
+        "title": "LG전자 상반기 원재료비 1.2조 급등…반도체·광물 줄줄이 인상 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxMFVkLUR6WEI3RXEzV014WU0xbl85cVl2RExwZVV4NE5xSldwOW5ZOUR3enpfeFdRWnN6R25iY2Zyd3V2OE5yc2swaFBjbXhxWDFzWEp2SGlXaEXSAWBBVV95cUxNdnhjWUl2V09LYVFLTFZrY2piOFUzUTZDR2hJUDlma2ZpdFRuU2NFdjNwOS1tTHdwN3JxaF9SQ3dxOUVsV2EzNW9yRDdEN2hEaklqNFF4UExrcVZLRlFLa1Q?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "국립금오공대, 산학협력으로 실무형 반도체 인재 양성 가속 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uczdvWWd4bEluMFJtUlFZWmowYmxQX2cyZEtJalo1QXUwbTMyS3dKY21kN2x1VGkxcnZBT29VZGhhWVNpMUM1cndMMkVoVDQ?oc=5",
+        "title": "광주 반도체 투자, 더 커지나…팹 4→9기 가능성 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LblJqcWJtWXYtbFI0RFY4ell0cmhDTHlLcUpZVkVLZ2VSRVVaQ0NIeElNNXBfVVpPOVJ1aHdkYUpEUldEcjctc0pOX2dmbmtaNXBwYkxFWFJTUmPSAWBBVV95cUxQamozVWFWT2NVWnUybTMtTTRlbUxCb1NFbTJOWnBiYkFkdFp0TzJYQ3RnaEJKRmNYY0d6UkNfVVVUZm1MbGt6MG93YWtiU25GbE1FdlFBYXlfZy1BQWF4Rkc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "ICT 수출 534억달러 '신기록'…반도체 179%·SSD 500%↑ - 노컷뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLUEdac295U2d5UC1UeVBCbzVlbl9qbUJRbldFbU9saGdTYy0yalNhbzJTazl0VGpkRWJpdldRbXBrNEhNWDVvMFRGQmVjZkl5anc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "수출 핵심축 '반도체, 효자 '컴퓨터', 알짜배기 '휴대폰'…ICT 호황기 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aN1N1VWR5bzVlN2xMRzJENllQb1ppNWMtRlotdzM0X25PTTJSYks0RllOMXJpcEY0Z2E2aWR0YjJNZ2pKYkRCdmROX1dNY3JIRENVY0UtbW5BMkxWWEdDa3lmekpzXzdwYVYw0gFwQVVfeXFMTWlxdGx4MWM4RWpXRk1oc1NURkw4TTRjSjJkb2ItOVdDRml4d2FfMkxYNUpzNThWak1mQU9JbFlWRm1KYzZEaXBsUTVVZXJDMWE3UWpaczJaLXV3RUlPZ21JVUN0Z1pTMXpnY1dwRGlqTw?oc=5",
+        "title": "광주 반도체 확대 가능성, 팹 4기→장기 9기 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tQW9yUTlxcUdxeTFBTWlDa3EwS2gtbGZqX0p2MGhDRnpISEdiTDRkWS1KRlQxYUZkNUpzUDFrOTV1Q0wxcTN4RndDN2QtUkU?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[AI 이슈] \"인공지능, 수어를 실시간 텍스트로 바꾼다\"…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRG1vTE0xVC04OXcteG1JWnA2S1NqOTFScUk0WUhTellNei1wc2UwMkJ1NEdOcXBxRHZqU05hOXJfaTdfenZrUDh1ZVZTMl9udnpRVXY1U3pEdk11NkdHdUE3Wk93MEk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "“인공지능(AI)이 안부 묻고, 위험 감지”… 용산구 스마트행정, 주민 삶 바꾼다 - 서울일보",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81MDhNOHo0SHV5N2l3aFIySm9qM3FLb01aSEhzVFZ6SjBZWVI5dkZrM0k2VnNiXzNUS1YxbmhlYU1VaWNVTGZUa2dUZXBadFBPaGMwNXZWMlFrUjhha0ptZE1sazN1WHdiMlFR0gFvQVVfeXFMUFF1a1ZlOU5IQmNWTjltZmJjSVpkeWJZdVJlbk9JcWgtbml6Q2NUcC1wXzlOQnZmWElHRXJESlBVY3FTVXN5N3N3amFieDlnMUdmeHFFcUJlcjVUYkEtWVFkeXZPUGxvVGJOZ2lwNEM4?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI 이슈] \"인공지능, 수어를 실시간 텍스트로 바꾼다\"…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRG1vTE0xVC04OXcteG1JWnA2S1NqOTFScUk0WUhTellNei1wc2UwMkJ1NEdOcXBxRHZqU05hOXJfaTdfenZrUDh1ZVZTMl9udnpRVXY1U3pEdk11NkdHdUE3Wk93MEk?oc=5",
+        "title": "교육부, 인공지능(AI) 인재 양성을 위하여 대학과 기업이 머리를 맞댑니다 - 뉴스체인지",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55ZkJSek0xZlNBN0V5eHRkM0JqeVcwYlhlNWtzVDlPT042eFVmM3BmcU16N0szRlRCa2dKTVBjODYxNXFPUUJYamxKdw?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "인공지능(AI) 기반 감귤관측 자동화 기술 현장 검증 돌입 - 뉴스N제주",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWUx3RkRVbXk4Z05FN0lmNUcxbTR4dWtEc3A2bzJvdkZqU2drb1NacDVjcUdHeUNxeWNvNEVhcmcxVm1JaXVQUUtIS2FJVkpYbWFuZGlreklwLXJMR0N3Zk9uVFctcGc?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "노지감귤 생산량 조사에도 인공지능(AI) 도입 - 제주투데이",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcHFHdkdIaHA1dEZyZC0zVTNrcUJDbVk5ZldZSjlFZ05YblJPSXZrMV84c3BmTE1lU1F0MzRHeXE0QTR0dU9rZkpVTHhzZ1BEZWNOT2w0eFZodmYycnEwWHY5SVFKTmxBRVd2QjNR?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "울산교육청, 18∼21일 을지연습 참가…온라인 안보 퀴즈도 마련",
-        "link": "https://n.news.naver.com/mnews/article/001/0016250096",
+        "title": "검찰미래위 ‘성남FC사건·법카의혹’ 등 진상조사 대상 권고…12건 추가 선정",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721200",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최태원·노소영 재상고 ‘D-DAY’…9440억 분할 확정 시 재원 마련 방안 촉각[비즈360]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002683807",
+        "title": "'제자 상대로 20여회 성범죄' 중학교 교사 구속 기소",
+        "link": "https://n.news.naver.com/mnews/article/421/0009114846",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰 \"정몽규와 연락했나\" 묻자…홍명보가 내놓은 답",
-        "link": "https://n.news.naver.com/mnews/article/018/0006351579",
+        "title": "‘남부지역 가뭄’ 범부처 대응체계 강화···가뭄 대응단 신설",
+        "link": "https://n.news.naver.com/mnews/article/032/0003464262",
         "source": "네이버 뉴스"
       },
       {
-        "title": "프로야구 유일 ‘4할 타자’ 백인천 전 감독 위독…뇌경색 악화",
-        "link": "https://n.news.naver.com/mnews/article/028/0002818525",
+        "title": "서울서 쌓은 경력, 지역서 ‘인생 2막’…넥스트로컬 중장년 확대",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544413",
         "source": "네이버 뉴스"
       },
       {
-        "title": "2차 특검 ‘尹 체포 방해’ 나경원·김기현·윤상현·권영진 의원 불구속 기소",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993017",
+        "title": "30대 싱글맘 죽음 내몬 악질 사채업자, 2심서 징역 3년 6개월",
+        "link": "https://n.news.naver.com/mnews/article/469/0000948039",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-14 05:56"
+  "updated": "2026-08-14 07:41"
 }
