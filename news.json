@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "YTN 민영화 승인 취소 논의…표결 없이 결론 유보",
-        "link": "https://n.news.naver.com/mnews/article/079/0004179021",
+        "title": "방미통위, YTN 변경승인 취소 놓고 격론…“즉시 취소” vs “확정판결 기다려야”",
+        "link": "https://n.news.naver.com/mnews/article/018/0006352151",
         "source": "네이버 뉴스"
       },
       {
-        "title": "스마일게이트 ‘스토브’, BIC2026 골드 스폰서 참가",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721238",
+        "title": "스마일게이트 스토브, ‘BIC 2026’ 골드 스폰서 참가",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867021",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "독파모 ‘벤치맥싱’ 논란에 AAII 입장…\"평가 방법론 지속 업데이트\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434032",
         "source": "네이버 뉴스"
       },
       {
@@ -19,11 +24,6 @@
       {
         "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
         "link": "https://n.news.naver.com/mnews/article/138/0002237959",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "“낯익은 여성 누구?” 옛날 사진 ‘추억 팔이’ 하더니…몰락한 싸이월드 진짜 부활?",
-        "link": "https://n.news.naver.com/mnews/article/016/0002684402",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "서학개미, 다시 반도체 베팅…이틀간 9천억 원 넘게 사들여 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUV9vcmRsbndfVnE1ZGc5T1o2M0dBOVBBNE81b3B1UnhDdFc3aVppYzBYZ0JwR3JsbGdWemprRkQ2bXN2dzRVcXVpMWZSZGs?oc=5",
+        "title": "美 정부, 애플에 중국산 메모리 반도체 구매 자제 촉구 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85OFdxbFA5LTdYSUlkVVNoNEZEbDQwNW9pS2hkOHUtNkRMeDlfejBwVm9heXdvSzZxOTVIRVJmNy1STWpRc2NNenhvWUdvdzFpd0V2dElpOVZhS3ROMFYyLV9lUVcwemRzWXgzRHhleC0?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "서학개미 장바구니 1년새 달라졌다…'반도체·레버리지'로 쏠림 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ycEU5bEQwQWVjdzZGMzdMREpCX2dLdVc1TFhDTWZHbkxMVl9ZNVliWnZFVTNLM3pwV05LTUZyS1ZCOVQyYkdvOW1HNU9XVENIUmpERHo2aXFpNjRhdDJ0N2pOVEV4cmot0gFuQVVfeXFMTVJmNjdMaGhhNEEwbGMycmFJNk5pb0lQNVRZSG1HQUZMZ0UxMmkxQ1RXT3B4RlRMSkc1STFweVZTejFDYUpXNnB5YzJnaFhkRmN2a24wNy1NOW9GZzhqQWd5Sk11MmlQS240OUl1aUE?oc=5",
+        "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\" - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WMGsxaF9JSlhGR3R4dzA1U3VEcmVSRTdjMDQ1S1U5QW5ESnVPZnJGR2VGMTN6ZGhGSG9QSkpVLUVWZkFPQWRZVmJaSzlsc20zOUxtSlhjXzgzSkE5X0hKOdIBeEFVX3lxTE9mVnRacEd2SUsxWXJrZHJFZjNBdmN1alZyN3Z3eGsyS0lhYWtTN2pqNWQ3a3pqVS1GaE52YUNiUGtfUjY3NTc0d3pVR0xlYUsxSWJPM3pMQW1KRzBHNTlYR2MwZzJUczNYQVZXUWMwbFMyMlQ5UGg3VA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 반등에 서학개미 '속슬' 다시 담는다…이틀간 9천억 대거 순매수 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KSl9GRkMzZ2k5Z2dhVjI1VnFDeFRtczM5UnRUQ19hUDZkMjQ4R29FSlRMUEMtSFdtY29SaHpOMU1zVWZTbl9IRWtOM1k0QQ?oc=5",
+        "title": "美 상무장관, 값싼 中 메모리 쓰려던 애플 ‘제동’…K반도체 ‘안도’ - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5d1pzT1Q0X1NtSnZ3WGZZT2lGSnFROHh5YkR2Ti1nYXV3eG1oZVZaZHpUSER1UDlkclY1TlQwZ244VlU0YklrWDE4YmRLd0Rn?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,13 +66,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "허위영상물(딥페이크) 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다 - 부패방지뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZX2FBVGZ6R0xzN2FnX0dTcnMzcG05c2lic2xWMmpoX2tBSDRObGNNNmtJV2IxbnlCenJ4QXpWaFdCRkhvZmI0SjduaDZQU0hZeHJjV0ppRnZYWVpTXy1aLVFmYndGeUU3T0Y0?oc=5",
+        "title": "인공지능(AI) 시대에도 지역은 사람을 통해 기록됩니다 - 서부경남신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aTg1dWVfMnloaC1tVGxfanVjcDNHRVZ3YXhPLU1MTXVRbWtTTlBuX181MTcyZ3EwT3RzZzNDbzNyTlplaU1paDhrdDI1c3pEOURlWms5c2Q4a1dQdmFOWm9ZMjRTX3hVMXc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능(AI) 시대에도 지역은 사람을 통해 기록됩니다 - 서부경남신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aTg1dWVfMnloaC1tVGxfanVjcDNHRVZ3YXhPLU1MTXVRbWtTTlBuX181MTcyZ3EwT3RzZzNDbzNyTlplaU1paDhrdDI1c3pEOURlWms5c2Q4a1dQdmFOWm9ZMjRTX3hVMXc?oc=5",
+        "title": "허위영상물(딥페이크) 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다 - 부패방지뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZX2FBVGZ6R0xzN2FnX0dTcnMzcG05c2lic2xWMmpoX2tBSDRObGNNNmtJV2IxbnlCenJ4QXpWaFdCRkhvZmI0SjduaDZQU0hZeHJjV0ppRnZYWVpTXy1aLVFmYndGeUU3T0Y0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "교육교부금 개편 막판 진통…\"협의 결렬된 것은 아니다\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005400608",
+        "title": "서강대 개인정보 18만건 유출…박근혜 전 대통령 포함",
+        "link": "https://n.news.naver.com/mnews/article/422/0000896164",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, 나경원·김기현·윤상현·권영진 기소…\"인간벽 만들어 尹 체포 막았다\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000633548",
+        "title": "최태원, '9440억 재산분할' 불복, 다시 대법 간다…불복 이유와 쟁점?",
+        "link": "https://n.news.naver.com/mnews/article/437/0000506361",
         "source": "네이버 뉴스"
       },
       {
-        "title": "미쓰비시광업, 강제동원 배상 2심 판결 불복해 상고",
-        "link": "https://n.news.naver.com/mnews/article/374/0000527685",
+        "title": "광복절 서울 도심 '비상'…진보·보수 대규모 집회 교통혼잡 우려",
+        "link": "https://n.news.naver.com/mnews/article/660/0000115205",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서강대 개인정보 18만 건 유출…사흘 간 속수무책으로 ‘탈탈’",
-        "link": "https://n.news.naver.com/mnews/article/056/0012238515",
+        "title": "포르쉐·BMW 몰고 일부러 ‘쾅!’…차선 바꾸는 차들만 노렸다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741087",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서경덕·송혜교, ‘만세운동 간호사’ 박자혜 소개 다국어영상 공개",
-        "link": "https://n.news.naver.com/mnews/article/056/0012238443",
+        "title": "국민의힘 “종합 특검 ‘尹 체포방해’ 의원 기소, 정치적 계산”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003670575",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-15 16:27"
+  "updated": "2026-08-15 16:52"
 }
