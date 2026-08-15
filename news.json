@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "파이오링크, 상반기 매출 286억 원…일본 수출·HCI 성장 견인",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237831",
+        "title": "파이오링크, 상반기 매출 286억원…전년比 7%↑",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457507",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, YTN 최다출자자 문제 공개 논의...결론 못 내",
-        "link": "https://n.news.naver.com/mnews/article/052/0002393489",
+        "title": "YTN 최대주주 변경승인 취소하나…방미통위 의견 엇갈려",
+        "link": "https://n.news.naver.com/mnews/article/001/0016252501",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "“코스닥 다음 주자는 여기”…한국거래소가 뽑은 ‘라이징스타’ 18곳",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721481",
         "source": "네이버 뉴스"
       },
       {
@@ -20,11 +25,6 @@
         "title": "“낯익은 여성 누구?” 옛날 사진 ‘추억 팔이’ 하더니…몰락한 싸이월드 진짜 부활?",
         "link": "https://n.news.naver.com/mnews/article/016/0002684402",
         "source": "네이버 뉴스"
-      },
-      {
-        "title": "게임·e스포츠 5개 협회 “게임 제작비도 세액공제 대상에 넣어달라”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867030",
-        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
@@ -34,8 +34,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "美 반도체 훈풍…코스피 장중 6,500선 회복 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpU3ZKZGNKVEZwd2U5VUlncEIxLW5mdmxSTVhRMkpMaHhyZkplaTY5TDVra3JGWkYyVTg3Z3VaZEFzR0phaDIwc2pVdkZqbUhIRGVfZGVQRWYyOGoySE55U1NJWlBQWDQ?oc=5",
+        "title": "\"돈 때문일까 봐\"…외신도 조명한 'K-반도체맨' 결혼 고충[뉴스럽다] - 노컷뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxTjJxa1Z1WW82ZEhnLS1JSjVWNmkxaDFVanlyZ0d4M1lNU0NhaUtkUlN0M2xIZXB6UVphdDZ1Y01zbFphMFA0dWR1dzVJaXMySWc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,7 +44,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "서학개미 장바구니 1년새 달라졌다…'반도체·레버리지'로 쏠림 - 머니투데이 - 머니투데이",
+        "title": "서학개미 장바구니 1년새 달라졌다…'반도체·레버리지'로 쏠림 - 머니투데이 - mt.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ycEU5bEQwQWVjdzZGMzdMREpCX2dLdVc1TFhDTWZHbkxMVl9ZNVliWnZFVTNLM3pwV05LTUZyS1ZCOVQyYkdvOW1HNU9XVENIUmpERHo2aXFpNjRhdDJ0N2pOVEV4cmot0gFuQVVfeXFMTVJmNjdMaGhhNEEwbGMycmFJNk5pb0lQNVRZSG1HQUZMZ0UxMmkxQ1RXT3B4RlRMSkc1STFweVZTejFDYUpXNnB5YzJnaFhkRmN2a24wNy1NOW9GZzhqQWd5Sk11MmlQS240OUl1aUE?oc=5",
         "source": "구글 뉴스"
       },
@@ -61,8 +61,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "챗GPT에 살인계획 입력한 美 20대... 오픈AI 신고로 체포 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWxzZFFWMy1USUhlWThaM002X3dDSW5SWlNvM3Z4MjNEbWk3ZVVfWEVueHcwOXFSaU02bnB0OUlZdzFDamluQUZCZmQ4YW4xOENySG1sek5tdjVBd2MwRERNbmF6VklHRXFfNFJKTlNLeXdxLS1pSnBvaDlYcThTNGJTOA?oc=5",
+        "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "뉴스 독자의 88%는 AI가 생성한 뉴스를 읽는 것에 '지루함'을 느낀다. - vietnam.vn",
+        "title": "뉴스 독자의 88%는 AI가 생성한 뉴스를 읽는 것에 '지루함'을 느낀다. - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16Wkc5RzQyb0pMRXVwMHdBMDNhSmRSR01TdGRELU1hSU04NTJ6SDBrM08tOV9COUV3M05NZElpMGdZZ3o2MHQ1ZlIyZGxKb0dhbXVySWM1N1dvcFVpY0VDOGd0bldvb3JzWEpiV2w2bVlTSE5jankw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "종합특검, '尹 체포방해' 현역 의원 4명 기소…野 \"정치적 기소\"",
-        "link": "https://n.news.naver.com/mnews/article/586/0000136012",
+        "title": "李대통령, 광복절 경축식 참석…남북평화·한일관계 청사진 제시",
+        "link": "https://n.news.naver.com/mnews/article/001/0016252954",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박근혜 前대통령도 털린듯…서강대 개인정보 유출에 학생들 ‘부글부글’",
-        "link": "https://n.news.naver.com/mnews/article/016/0002684345",
+        "title": "대전·천안 경부고속도서 다중추돌 사고 잇따라…15명 부상",
+        "link": "https://n.news.naver.com/mnews/article/001/0016253381",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광복절 연휴 남해안·지리산 ‘극한호우’…최대 250㎜ 이상",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993193",
+        "title": "\"가지 마세요\"...광복절 연휴 '물폭탄' 우려",
+        "link": "https://n.news.naver.com/mnews/article/018/0006352241",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충남경찰, 천안·아산 일대서 광복절 폭주 행위 186건 적발",
-        "link": "https://n.news.naver.com/mnews/article/055/0001380894",
+        "title": "추미애, 81주년 광복절 경축사…\"숭고한 희생 기억하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014129495",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법무부 '이화영 재판 집단퇴정' 징계 청구…현직검사 \"근거 밝혀라\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129599",
+        "title": "제81주년 광복절 경축식…“함께 이룬 광복”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012238574",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-15 14:49"
+  "updated": "2026-08-15 15:23"
 }
