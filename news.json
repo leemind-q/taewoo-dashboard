@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "\"유진 자격박탈 논의만 세 번째, 방미통위 책임회피 말라\"",
-        "link": "https://n.news.naver.com/mnews/article/127/0000039644",
+        "title": "시총 3위 SK스퀘어 'AI·반도체 투자회사'로 변신",
+        "link": "https://n.news.naver.com/mnews/article/015/0005321182",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오 떠난 홍은택 32억, 네이버 최수연 26억…IT업계 상반기 연봉킹은",
-        "link": "https://n.news.naver.com/mnews/article/025/0003544507",
+        "title": "동남아·오세아니아 '갤Z8' 출시…사전 판매량 60% 증가 '돌풍'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005321095",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "네카오 CEO 상반기 보수 공개... 최수연 26.7억원, 정신아 12.1억원 수령",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993066",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +22,8 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"하이닉스가 효자\" SK스퀘어, 2Q 영업익 19조2354억원 '사상 최대'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014128729",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "뤼튼 ‘지스타 메인스폰서’ 등판, 득과 실은?…이용자 저변 확대 특수 노린다",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237943",
+        "title": "게임사들은 해외로…변화의 기로 선 지스타[게임위드인]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016253039",
         "source": "네이버 뉴스"
       }
     ],
@@ -44,25 +44,25 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "韓 소부장, 반도체 슈퍼사이클 타고 상반기 실적 확대 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CM1ppc1FrbmNPN0N6dG5zejNSZHJZZVpqTWtEUmhaRWxUWDVhMFp0a2VwVXNFS3dwMGt5am9mVGk0LXNLa1c0Si1hVExlNUNUS1E?oc=5",
+        "title": "반도체 산단 전력 어떻게 채우나…12차 전기본서 해법 찾는다 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vUkpUME9tZ2dURzYzTTJka0g1cDY1UmFkeWVGY0FZbzlpaVJQSUhkejNyMkhiZFFoaTJ4ZTNxYVhqZzVycDhDUUY3Y2lxOWdhc2lFNUtad2laZ1NY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"반도체 호황\"…창신메모리, 텐센트 제치고 중국 최대 상장기업 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tS1Z6NndWY0x3TGgxazNVYU1KY0tmQU5BSkJSRVZvNjlNNkd0cWhlX0JfZW01NXNucm9TZUo0WC1pZi1vUEQ1Z3Zfa05pRjlIaWZlZDBWZkFCcnc0ck51TnNNTFBiRm5EWWZrNF85UEw?oc=5",
+        "title": "韓 소부장, 반도체 슈퍼사이클 타고 상반기 실적 확대 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CM1ppc1FrbmNPN0N6dG5zejNSZHJZZVpqTWtEUmhaRWxUWDVhMFp0a2VwVXNFS3dwMGt5am9mVGk0LXNLa1c0Si1hVExlNUNUS1E?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "인공지능(AI) 시대에도 지역은 사람을 통해 기록됩니다 - 서부경남신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aTg1dWVfMnloaC1tVGxfanVjcDNHRVZ3YXhPLU1MTXVRbWtTTlBuX181MTcyZ3EwT3RzZzNDbzNyTlplaU1paDhrdDI1c3pEOURlWms5c2Q4a1dQdmFOWm9ZMjRTX3hVMXc?oc=5",
+        "title": "美 \"중국 AI 동참하지마\"…韓 등 35개국에 '양다리 불가' 경고 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByeGxLUVRxYTNHQzdJSV9mT1J2V201LUNYMWVEZTFNalFsV2k4VVFLRlR5YzVlMWNoZ0ZLN25ES3prd2daaUJLMDhlVmoxcU1RZTdpVk9OdzlqcXfSAWBBVV95cUxPWWt5aUM0X1JvTjE4ZmxYTk1xMThQcU5HaWdkNjJ4MXFzOC1velFMY213aWdXdVBuNVl3R0stMGFJLTdRUkJCQXljTFVrNU9iTWhhTWZBWFhjdFp6Nmc0dWg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"국립대병원 AI전환, 환자 맞춤 건강관리 미흡…병원간 격차 커\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoMFdSekpGSFJIMjNNX255RDlHcUVsU0VwSkFPSGhJYVJvV01ndm5Pc1NtRU1aQ0JIVm51aEZ3UE9WMGdFa05DTnM0bFF1dm9RTnR1ZV85bldPMlHSAWBBVV95cUxOUElwS2VNWFRqUDJrZ2Q1WjRiYTMzYkN6azRTd1I3b2ZZbUdGQjNnRkhoTk1LU0c1cGZUelNLYVBmRGpReDJERFc1S05fU0JXTWxRWU9KTHdWSFE3ME1yU0Y?oc=5",
+        "title": "인공지능(AI) 시대에도 지역은 사람을 통해 기록됩니다 - 서부경남신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aTg1dWVfMnloaC1tVGxfanVjcDNHRVZ3YXhPLU1MTXVRbWtTTlBuX181MTcyZ3EwT3RzZzNDbzNyTlplaU1paDhrdDI1c3pEOURlWms5c2Q4a1dQdmFOWm9ZMjRTX3hVMXc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능(AI) 제미나이가 정리한 “문일석 웃음종교 교주의 주요 어록 100가지” - 브레이크뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CeGJLSEJGOUp0UHl2b2lnQzRTcnNlMkpHNFJyamFkMWRpS3ctWkJ1eDBTQndBaDhfUmdwbzJoQXRVSXZuOUFN?oc=5",
+        "title": "스페이스X, 코딩 스타트업 '커서' 85조원에 인수 완료 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWm82Sm9SYVVsYm1GdTY5Wk5nQXlSLXFNR2xQZGRUdFBvQzRjMVI3ckVFOW9wY0tEYmp3RlFDRVBqbXJhQWVWY0ZyUnBZaTJTWG9PbTZ5YXNyR2VyaVFIWVh5MkhKYmk2eld2MGgyQXlhbzh0?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[속보] 법무부, ‘이화영 재판 집단퇴정’ 수원지검 검사들 징계 청구",
-        "link": "https://n.news.naver.com/mnews/article/025/0003544484",
+        "title": "‘尹 체포방해’ 혐의‥나경원·김기현·윤상현·권영진 의원 기소",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651839",
         "source": "네이버 뉴스"
       },
       {
-        "title": "李대통령 \"위안부 피해자 명예 회복, 끝까지 책임지겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005320919",
+        "title": "드디어 남부 가뭄 해갈되나‥광복절 연휴 내내 비",
+        "link": "https://n.news.naver.com/mnews/article/214/0001518014",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"현대판 연좌제\"라는 日 언론에 서경덕 \"올바른 역사 인식부터\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005561929",
+        "title": "하루 지연이자만 1억3천만원…최태원, '재산분할 9440억' 재상고할까",
+        "link": "https://n.news.naver.com/mnews/article/437/0000506183",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오세훈, 항소이유서 제출…\"유죄 인정된 여론조사 결과, 전달 받은 적 없어\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129003",
+        "title": "중앙서 발언권 커진 시도지사협의회…박찬대 회장 선출에 기대감",
+        "link": "https://n.news.naver.com/mnews/article/001/0016252430",
         "source": "네이버 뉴스"
       },
       {
-        "title": "檢미래위, 성남FC·백현동·법카사건 조사…李대통령 관련만 8건(종합2보)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016252482",
+        "title": "정성호, '수원지검 집단퇴정' 검사 2명 징계청구…\"비위 인정\"",
+        "link": "https://n.news.naver.com/mnews/article/437/0000506254",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-15 02:34"
+  "updated": "2026-08-15 03:40"
 }
