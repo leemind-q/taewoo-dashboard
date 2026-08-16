@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "갤Z8 사전판매 70%가 '폴드8'…삼성, 추가 생산·공급 속도",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129947",
+        "title": "갤럭시 Z8 특화 ‘3M’ 기능, 1030세대 사로잡았다",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042532",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'AI 굴기' 중국의 질주…미중 기술격차 2∼3개월 평가[AI위클리]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016253606",
+        "title": "한국 노린 북한 해킹 늘어…AI·딥페이크 악용",
+        "link": "https://n.news.naver.com/mnews/article/422/0000896220",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG전자, 브라질 파라나 신공장 가동…글로벌 사우스 공략 속도",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434115",
+        "title": "AI가 AI를 개발한다…실리콘밸리가 켠 '통제불능' 경고등[AI돋보기]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016252806",
         "source": "네이버 뉴스"
       },
       {
-        "title": "美 위대한 기업이 중국산 메모리?…백악관, 애플에 제동",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237976",
+        "title": "앤스로픽 CEO \"공정한 규제가 빅테크 독점 막는다…美정부 AI 규제 지지\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006352553",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG전자, 브라질 파라나 가전 공장 가동 돌입…“글로벌 사우스 성장 가속화”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003457738",
+        "title": "AI 텍스트 결과물에 식별표시 도입 클로드, 반발에 \"EU법 의무\" 해명",
+        "link": "https://n.news.naver.com/mnews/article/658/0000152436",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,8 +34,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5",
+        "title": "같은 반도체 호황인데…한국 성장률, 대만에 13분기 연속 밀렸다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNlJwWW5mVjlqRVdyZzhjTVF2S0JraXVRdnU1WkVSNFV3UEFzTTNBQ1paMjF4YzdOclBsb1VhTm93dHdTcDROLVB1dlh1TU0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 기업이 도자기를 판다고?…B2B 기업이 ‘굿즈’에 주목하는 이유 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyY1ViLVFZOVg4Q0Z2Z0tJVFdLb3RiOUJrNUNEdC03QkR0ejBpQXA1aUJIVmNiWGl5ZXRQOVR2WHZaa0RQYWZHT3BvZmc1eEItREhXZXFPclFONE1JWUhoWm5QUWZOZjA0RXB2TlN0Smh1MTd0ZnfSAWZBVV95cUxPc0ljM1NkakVJdWtfT29ZTURTVlFMajRHUkplRXZlaGcxY2pUbkUzY080T25JTVdjU3hsZ2lKNTRZN2hfMVZyVWFBNTUwQ1ZadFZ0ZXBseTFvZEZjbGx4RDNRTHhHM2c?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -47,17 +52,22 @@
         "title": "美 정부, 애플에 중국산 메모리 반도체 구매 자제 촉구 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85OFdxbFA5LTdYSUlkVVNoNEZEbDQwNW9pS2hkOHUtNkRMeDlfejBwVm9heXdvSzZxOTVIRVJmNy1STWpRc2NNenhvWUdvdzFpd0V2dElpOVZhS3ROMFYyLV9lUVcwemRzWXgzRHhleC0?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\" - newsis.com",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WMGsxaF9JSlhGR3R4dzA1U3VEcmVSRTdjMDQ1S1U5QW5ESnVPZnJGR2VGMTN6ZGhGSG9QSkpVLUVWZkFPQWRZVmJaSzlsc20zOUxtSlhjXzgzSkE5X0hKOdIBeEFVX3lxTE9mVnRacEd2SUsxWXJrZHJFZjNBdmN1alZyN3Z3eGsyS0lhYWtTN2pqNWQ3a3pqVS1GaE52YUNiUGtfUjY3NTc0d3pVR0xlYUsxSWJPM3pMQW1KRzBHNTlYR2MwZzJUczNYQVZXUWMwbFMyMlQ5UGg3VA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "미국, 한국 포함 35개국에 ‘중국 주도 AI 협력체 불참’ 요구 방침 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNm1pYmwxeDNaME1ma0ZQalVlb1FOWFgwNDlFMEhpTjRkb2NrS0R0ZnZqZExRbDBqWjU0RG9jQzMyNWdHRC1TcWRhcUFlU2Q3bm1reHdWOTE1TkY5eFNVdTZRRWdlbGdib01zckhsUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[인공지능 줌인] \"개발도상국, AI 확산으로 실보다 득이 더 크다\" 월드뱅크 - 위키리크스한국",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRWFyQ05Qc3lRTDNzemNjaFQzbnhJLU5ENmNqRC10QmJ6ZDExamEtbnhpT0tCc05vZFlOcExYVkI2ODdnT2dvVWZRWlFlZi1nd0NYSFhXVVRlSlR0bFRSMEtFZHZsekl0UjFfLXVWWWI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[숏폼뉴스] AI가 선택한 2026년 8월 둘째 주 뉴스 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nZm9odWxuZmVoX0llQk83LWljY1ByenVvaXJqbW9Ec0dabkxqTVVvSGQ0NFc3MjZDVHNLMUUzeXdJV196NENBYUdjOFlWOThOZ0xkTTR1OVpZZ1RTdmUtYmt0NVl4VlNnNks0c0lMOA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "인공지능(AI) 기반 감귤관측 자동화 기술 현장 검증 돌입 - 뉴스N제주",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWUx3RkRVbXk4Z05FN0lmNUcxbTR4dWtEc3A2bzJvdkZqU2drb1NacDVjcUdHeUNxeWNvNEVhcmcxVm1JaXVQUUtIS2FJVkpYbWFuZGlreklwLXJMR0N3Zk9uVFctcGc?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "미국, AI 동맹국에 '미·중 양자택일' 요구 추진…한국도 대상 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83dEVMNUdqTkE1cVdXeXNTZk9abFpWc2hZS2dWWGpIOFZSZk1yb1lBS0RUMkRuX1V3YTI1bDhIa3htWFdYdWlNbGUxdjFIZHBSM3NF?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"AI 보편복지 실현\"…대전 10개 청년공간서 인공지능 전환 추진 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRmZ2YWI5bm9nMENOVlNrdTBMLUZrQzYyR0lOdHBoaVlyY2VDRWdzSEpzNnJ1TFFEejhkS1M5UGJqV0ZKMzdWemlhVQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "최태원·노소영 이혼부터 재산분할 파기환송심 재상고까지[일지]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016252743",
+        "title": "시간당 65㎜ 폭우 쏟아진 해남, 지진까지 덮쳤다…호우위기경보 상향",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721576",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법원 \"징계취소 소송 패소했다면 무효 소송도 같은 결론\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002393971",
+        "title": "\"용산공원 전체 검토\"…이르면 9월 말 추가 발표",
+        "link": "https://n.news.naver.com/mnews/article/055/0001380848",
         "source": "네이버 뉴스"
       },
       {
-        "title": "주택공급 '뜨거운 감자' 된 용산공원...다음 주 논의 이뤄지나",
-        "link": "https://n.news.naver.com/mnews/article/052/0002393876",
+        "title": "최태원, '9440억 재산분할' 불복, 다시 대법 간다…불복 이유와 쟁점?",
+        "link": "https://n.news.naver.com/mnews/article/437/0000506361",
         "source": "네이버 뉴스"
       },
       {
-        "title": "남해안·제주 누적 250㎜ 물폭탄…내일까지 '가뭄 심각' 경북 최대 120㎜",
-        "link": "https://n.news.naver.com/mnews/article/421/0009116114",
+        "title": "가출 말리자 엄마에게 끓는 물 부었다…10대 딸 특수존속상해 혐의",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684396",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정성호 \"최소 325억원 이상 친일재산 환수할 수 있을 것\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000184146",
+        "title": "이 대통령 \"프로야구 한 시대 빛낸 故백인천 깊은 애도\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000896188",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-16 01:26"
+  "updated": "2026-08-16 02:45"
 }
