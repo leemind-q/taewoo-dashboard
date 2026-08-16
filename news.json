@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "팬캠·멀티윈도우·미러뷰…삼성 폴더블 ‘3M 기능’ 눈길",
-        "link": "https://n.news.naver.com/mnews/article/018/0006352487",
+        "title": "갤럭시 Z8 특화 ‘3M’ 기능, 1030세대 사로잡았다",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042532",
         "source": "네이버 뉴스"
       },
       {
-        "title": "북한 해킹 표적 1위는 한국⋯AI·딥페이크까지 동원",
-        "link": "https://n.news.naver.com/mnews/article/057/0001963934",
+        "title": "한국 표적 삼은 北 해킹 ‘최다’… 인공지능(AI)과 딥페이크도 활용",
+        "link": "https://n.news.naver.com/mnews/article/449/0000357030",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“반도체 잡음, 없애는 대신 써먹는다” 뇌 닮은 인공 뉴런 개발",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993256",
+        "title": "“암 환자, 체중·근육 급격 감소”자칫 사망까지…‘암 악액질’ 장내 미생물로 잡는다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684489",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국민게임이던 '크아'마저…넥슨, 장수게임들 왜 지우나",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129253",
+        "title": "넥슨, 상반기 영업이익 8379억원… 반기 기준 역대 최대",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867072",
         "source": "네이버 뉴스"
       },
       {
-        "title": "장내 미생물로 ‘암 악액질’ 완화…근육 감소 막았다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993237",
+        "title": "반도체 골칫거리 '잡음'을 두뇌모사 기술로 정보처리 자원화",
+        "link": "https://n.news.naver.com/mnews/article/421/0009116190",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "반도체·이차전지·바이오 규제 푼다…\"4.2조 투자 유발 효과\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYUFPVDJzVzdpaVlIVU5VaFpYckQ5V1RWZE5ZMmNkZDRDY3FyN1NIdm1DOXdha0xZUEZ3UzFrblZsSmwyOGFUV0FtNXlTb2w0dTJsRzZjZTQ3VWvSAWBBVV95cUxOdTlfb1RYbktmWmJNYTd1YklkTmVBMjE0M2lMcnJKUTlUS2FOM0p6NEhFX3ZCS2tMYkdxVTJvTGVQeUVreEZsU3VKczZFbDAzMGg5Rm5RUEU0ODZXcTF0cEo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[매경포럼] 반도체 호황 속 무너지는 非반도체 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwY3pLTnNiOElDZHhMem4yMENsQUVEbkZqSEVKNy1Zb2xRWndCVjUyb3Vua3hXODhTNndVVGlpbHladW90UVRwTWExNnkwTmc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 정부, 애플에 중국산 메모리 반도체 구매 자제 촉구 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85OFdxbFA5LTdYSUlkVVNoNEZEbDQwNW9pS2hkOHUtNkRMeDlfejBwVm9heXdvSzZxOTVIRVJmNy1STWpRc2NNenhvWUdvdzFpd0V2dElpOVZhS3ROMFYyLV9lUVcwemRzWXgzRHhleC0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 상무장관, 값싼 中 메모리 쓰려던 애플 ‘제동’…K반도체 ‘안도’ - 문화일보",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5d1pzT1Q0X1NtSnZ3WGZZT2lGSnFROHh5YkR2Ti1nYXV3eG1oZVZaZHpUSER1UDlkclY1TlQwZ244VlU0YklrWDE4YmRLd0Rn?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "러트닉 \"애플 중국산 반도체 구매 지지하지 않아…다른 해결책 있어야\" - 머니투데이 - mt.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwODBaRjljS3U3SFBCbHBtMmE3YUkxSlpoX0YteGthQzUxb2duTTJDNTc5T2ctRUdBam9WUW9GREhBWlhOdzQxSU8wdm9CZHVNY3lOSXJyV0xEMFN5bUxuUzdIajFVcngw0gFuQVVfeXFMTnNkRk90OWRqQzczZUwzRHJLYzMzZ1dTV0JkLXdvSkYwWVhxa1VYLUsyYm1CMTJrSjFaSVZVR0RjTjM3ZVNXNldna1pjd2MzSkhlRmI4VUU3YjN1aWFzdzM2WXN1YTZQV0pGUDVhTGc?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "AI: 중고책 판매가 급증하고 있다...인공지능 때문일까? - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbUF1OUdHdVFqVllZY2ZKUjQtODlEbFJOS096aDUyQXBYR2pnNVB3OHZ1Yk13VlJrWHNZZnNxU1NtQ3FyVlhxQ282S0R1cllxYldWMFh6ODNBNXNv0gFiQVVfeXFMUHplaGJhbUYxckFoczBVLXJzenU1VUprWWctVHk4bG40TXpPVHFTcGFTaUdnYmFQY0ZhblNIQ3h0NlBvamNJcGNDSVNOYWgycFZySmNEM1Zvamx2Wm5RVWNCbGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "미국, 한국 포함 35개국에 ‘중국 주도 AI 협력체 불참’ 요구 방침 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNm1pYmwxeDNaME1ma0ZQalVlb1FOWFgwNDlFMEhpTjRkb2NrS0R0ZnZqZExRbDBqWjU0RG9jQzMyNWdHRC1TcWRhcUFlU2Q3bm1reHdWOTE1TkY5eFNVdTZRRWdlbGdib01zckhsUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] \"개발도상국, AI 확산으로 실보다 득이 더 크다\" 월드뱅크 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRWFyQ05Qc3lRTDNzemNjaFQzbnhJLU5ENmNqRC10QmJ6ZDExamEtbnhpT0tCc05vZFlOcExYVkI2ODdnT2dvVWZRWlFlZi1nd0NYSFhXVVRlSlR0bFRSMEtFZHZsekl0UjFfLXVWWWI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"중국과 협력하면 AI 연합 제외\"…美, 동맹국 '경고장' 준비 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oSFlvYVNOWWM3dzVXSFlHU0pCTE51RHl3cWpvVmFwelJDdFA3dDVOaWVsNzMxNlhDdkoxREpZS21KeUJDSjk5dEQ3Y0x3ZHF6WHlSVFc4Vllodw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[DX브리핑] KOSA, 국회에 피지컬AI 예산 지원 요청 - 시사저널e",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNFZjdkZ4RW1XQmNqMVBxM3Z2QnpvRWZZa0NTV084Sy0yUi0zd0J0SG9TSTI4bWJZZlh6NXgyVDNoaDZwN3daMTFIZWZpSXEyR0dKUTduUTV6Qi1ra3pqVHBHMnZxSzk1R0dMR0tiZE4zd9IBdkFVX3lxTE54MTIwTVhDSmFuLUg5RVpzV081Z1ZxRHQ2ZDFjLWY1THptVmR0RFlsc0V4dzFrR1VPUHJ3NkFUMllIYXJ3TjROUXQyZE1lVkZwTkE2SS1ZWUxpam1PVFRudVg2Um1Vc3ItYS1QVE1aTnRqM2xWc3c?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "'김구 증손자' 김용만, \"태어날 때 부모 결정할 순 없지만…\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005803477",
+        "title": "정직 취소소송 진 뒤 무효소송… 법원 \"앞선 판결 따라야\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400674",
         "source": "네이버 뉴스"
       },
       {
-        "title": "군대서 축구 중 부상…법원 \"보훈 보상대상자 해당\"",
-        "link": "https://n.news.naver.com/mnews/article/586/0000136081",
+        "title": "박근혜 전 대통령도 포함...서강대, 18만명 개인정보 유출",
+        "link": "https://n.news.naver.com/mnews/article/050/0000109698",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"9440억 지급방식 이견\"…최태원, 고심끝 재상고한 이유는",
-        "link": "https://n.news.naver.com/mnews/article/015/0005321323",
+        "title": "17일까지 남부권·제주 폭우…일부 시간당 70㎜ 넘는 극한호우",
+        "link": "https://n.news.naver.com/mnews/article/028/0002818733",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가출 말리는 엄마에 ‘끓는 물’ 부었다…10대 딸 현행범 체포",
-        "link": "https://n.news.naver.com/mnews/article/025/0003544604",
+        "title": "'6살 아이가 보이지 않는다' 신고…아파트 화단서 숨진채 발견",
+        "link": "https://n.news.naver.com/mnews/article/654/0000195430",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“타들어 가던 논밭에 단비 내린다”…경남 가뭄 해갈 기대 속 소방동원령 해제 [날씨]",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151278",
+        "title": "이미 재산 처분했어도 끝까지 환수…‘친일재산 국가귀속법’ 16년 만에 부활",
+        "link": "https://n.news.naver.com/mnews/article/666/0000119320",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-16 06:42"
+  "updated": "2026-08-16 07:32"
 }
