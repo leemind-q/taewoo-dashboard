@@ -2,61 +2,61 @@
   "categories": {
     "IT": [
       {
-        "title": "북한 추정 세력의 '한국 타깃' 해킹 증가…AI·딥페이크까지 악용",
-        "link": "https://n.news.naver.com/mnews/article/055/0001380987",
+        "title": "‘지선 직전 무슨 일이?’…구글, 한국 정치 유튜브 449개 무더기 폐쇄, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/021/0002811725",
         "source": "네이버 뉴스"
       },
       {
-        "title": "임원도 기술 테스트, 인사평가 3할이 AI... 외국어보다 AI 능력 쳐주는 기업들",
-        "link": "https://n.news.naver.com/mnews/article/469/0000948378",
+        "title": "암 환자 생명 위협하는 '악액질'…장내 미생물로 잡는다",
+        "link": "https://n.news.naver.com/mnews/article/001/0016253702",
         "source": "네이버 뉴스"
       },
       {
-        "title": "반도체 소자 잡음 증폭…특정 신호 추출 성공",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434125",
+        "title": "韓 표적 삼은 北 해킹 '최다'…하반기엔 중동발 공급망 위협 복병",
+        "link": "https://n.news.naver.com/mnews/article/003/0014130071",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글, ‘여론조작’ 한국 정치 유튜브 449개 폐쇄",
-        "link": "https://n.news.naver.com/mnews/article/016/0002684574",
+        "title": "반도체 '잡음' 뇌처럼 신호 처리하는 '인공 뉴런' 개발",
+        "link": "https://n.news.naver.com/mnews/article/014/0005562113",
         "source": "네이버 뉴스"
       },
       {
-        "title": "암 환자 근육 앗아가는 '악액질'…장내 미생물서 치료 실마리[과학을읽다]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005803599",
+        "title": "갤Z8 사전판매 70%가 '폴드8'…삼성, 추가 생산·공급 속도",
+        "link": "https://n.news.naver.com/mnews/article/003/0014129947",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "같은 반도체 호황인데…한국 성장률, 대만에 13분기 연속 밀렸다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNlJwWW5mVjlqRVdyZzhjTVF2S0JraXVRdnU1WkVSNFV3UEFzTTNBQ1paMjF4YzdOclBsb1VhTm93dHdTcDROLVB1dlh1TU0?oc=5",
+        "title": "반도체·부품값 오르자 전자업계 상반기 원가 부담 수조원대↑ - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DVldBYVZkMTh0OXZfdTFDYVUzOUdKd2s2dXRyZ1VqN3pPeFByYmhmX21IZ24wbFU3YzBEQVczUWdCQ0RxbUhaZTR1eF84NkU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "엔비디아·AMD 손잡은 美 추론 반도체…K-NPU 운명은?[비하인드 칩스] - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M3VDNno2Uk8tTWdDZ1o1cnZ0T2JGX0IzenBKUzM1aWhMY29oTzBMUXUzN2E5M0t6NWpEY0tMcTNwS1RXb2t0Z2pkNDRNMWhrcDkzbU4wSVVKRk5OU2RrWXgzX3cxb3Rwd3fSAW9BVV95cUxQWDJjZzJLdGVDYnVJdUdNWk8tcmNnY19PMmlnVi1JeTVnRGg5Ql9VTHEzdjVIOXJXS0g2d2t2U21Qa2h0Z3dLSEZrempXdWltMkIxSS12TklLYmRlNkhCcDlHY3FFOTZNQmhYeDBHYms?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“반도체 버스, 지금 타야죠”…팹리스·장비사도 잇따라 상장채비 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOdU12ODhOWjFqeEYwMWRlYThZLUlCNl9GM09vYlBfdm9DeGZJTXpCc0xIOWJhLWVjRC0zMzM2SFlvQXdUYWszNzY4ejdVR1VCZVE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "[단독] \"수주물량 70%가 반도체\"…공작기계 공장 '풀가동' - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQmVLeXdCZWNic3VLbkd4bGdaUTBVZXo5VVhuaUNjSnhnUDBEREl0dWNWcDZSSW9jUGZNMmJSeVJMamRyZFNGN2FhLTJ1eUo0MnpBTGV2UWdFZw?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목” - joongang.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "극한 가뭄에 반도체 용수까지… 물 확보 '비상' - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsMGJiRkliMmIweXUyRFVvaDlzV0F1ZF83ZW8xU29hWEh1TjFmNnlMWndoR2xnQlNfQ09hMEhoUWRZUzFEREg2ckt0ZnhyMGM1b2gyWVgwMHE5RkXSAWBBVV95cUxObkpjMHNxV21TelRvZHkwcUR0VEtPMnhBRE1JbFd0Vy1ETElGdHpoZ3VzREp0cFlUNlc5NUduRzRyQnV4eW54SmFpTVd2a3NTbDBUOF9MZW5oVjRhTlR6bEs?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "일학개미 \"반도체 사자\"…순매수 상위권 '싹쓸이' - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMy13Ty1QbFBudDllQ2pQNFFGR0hCOS1mV0hXekFEejFpM2VuNWREc1RLbWZPLVFUbzM1cGdZb1FrNWlhbkpJU1Q1T3JhWWlmRlE?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "“이 글, 인공지능이 썼을까?”…이제 알 수 있다, 앤트로픽 'AI 텍스트'에 워터마크 심는다 - 인공지능신문",
+        "title": "“이 글, 인공지능이 썼을까?”…이제 알 수 있다, 앤트로픽 'AI 텍스트'에 워터마크 심는다 - aitimes.kr",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zMDZwRksyTzZSOGFFR3V1a0doLXZlSlBHdTZVWVJ0bWctVzB5a2FRT0JnMG9IUnNqTXc4OFVxY0J5dndEWEJBVTdFb2RoNXlCRmNTWFFWZ25YUWROWmtUR0llZUNpR0U?oc=5",
         "source": "구글 뉴스"
       },
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "한국 표적 삼은 北 해킹 ‘최다’… 인공지능(AI)과 딥페이크도 활용 - 채널A",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjZmJ1TFFPQXdHRGFacHM5VWRiaF93LU5kUXBaZjFqdkV1b0lNNWlqSUYzQlZZYi1XRFpScEpXQW9EZzZraXA5NVJicGdNMm5UMk1wYURSTkgwR1FlaWhRVHJWWdIBY0FVX3lxTFBjZmJ1TFFPQXdHRGFacHM5VWRiaF93LU5kUXBaZjFqdkV1b0lNNWlqSUYzQlZZYi1XRFpScEpXQW9EZzZraXA5NVJicGdNMm5UMk1wYURSTkgwR1FlaWhRVHJWWQ?oc=5",
+        "title": "[인공지능 줌인] \"AI 일자리 대멸종은 없었다\"…예측과 다른 노동 시장의 실상 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQeWxCcXhoZE9qckdFUldfY1ItRHVHOWZMenAwS3FVZE9paVlOcnZXTmZEOXVIRUsxZnZIaTBCNzR5TzFWRFZsM096OEFDZDI3S3E4dnBjcklyVHcyR3JndXRfb1lXR084RG1OVzhkXzA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "허위영상물(딥페이크) 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 추적 - 뉴스데일리",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNzhaTlpGYko4eHVuaDRfVE8zOGVJZXRzR1pjUVdXX1N2aE1lZFVqMTY1UWYzbUw3RkpzR1ZqRTUyeHF0Q3dUc3JjTzFfM3dkak5nZHR1cGR2ak95OEhQOHRTc21DU3BXRFFV?oc=5",
+        "title": "한국 표적 삼은 北 해킹 ‘최다’… 인공지능(AI)과 딥페이크도 활용 - 채널A",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjZmJ1TFFPQXdHRGFacHM5VWRiaF93LU5kUXBaZjFqdkV1b0lNNWlqSUYzQlZZYi1XRFpScEpXQW9EZzZraXA5NVJicGdNMm5UMk1wYURSTkgwR1FlaWhRVHJWWdIBY0FVX3lxTFBjZmJ1TFFPQXdHRGFacHM5VWRiaF93LU5kUXBaZjFqdkV1b0lNNWlqSUYzQlZZYi1XRFpScEpXQW9EZzZraXA5NVJicGdNMm5UMk1wYURSTkgwR1FlaWhRVHJWWQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "나무 쓰러짐·침수 등 비 피해 70여 건 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/056/0012238707",
+        "title": "최태원 \"주식 섞어 지급\" vs 노소영 \"9440억 전액 현금\"…재상고 배경은",
+        "link": "https://n.news.naver.com/mnews/article/088/0001023753",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“휴일 나들이 어쩌나”…일요일 전국 비, 남부엔 최대 200㎜",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721525",
+        "title": "연휴 둘째 날 전국 흐리고 비…남부·제주 최대 250㎜ '물폭탄'[날씨]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005803579",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이 대통령 \"친일 반민족 부당 재산 환수\"‥종전 위한 다자논의 제안도",
-        "link": "https://n.news.naver.com/mnews/article/214/0001518121",
+        "title": "경남 200㎜ 더 쏟아진다... 두 태풍이 남긴 수증기에 남부 집중호우",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993247",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"매국노라 칭해야\"…하영 증조부 친일 논란에 '가문 검색' 열풍 [유지희의 ITMI]",
-        "link": "https://n.news.naver.com/mnews/article/015/0005321311",
+        "title": "정성호 법무장관 “친일재산조사위 12월 부활…최소 325억원 환수”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721627",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서강대 개인정보 18만건 유출 … 70학번 박근혜 前대통령도 포함",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721752",
+        "title": "밤새 200㎜ ‘물폭탄’…남부 침수 피해 속출",
+        "link": "https://n.news.naver.com/mnews/article/032/0003464545",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-16 20:48"
+  "updated": "2026-08-16 21:21"
 }
