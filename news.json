@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "독파모 2차 평가 발표 임박…국민평가·전문가 심사 변수[AI is]",
-        "link": "https://n.news.naver.com/mnews/article/293/0000089154",
+        "title": "\"싸이월드 서버 데이터 손실 우려…복원 서둘러야\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000195493",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT \"현장 밀착 AX\"… 2년간 엔지니어 500명 육성",
-        "link": "https://n.news.naver.com/mnews/article/014/0005562520",
+        "title": "‘국가대표 AI’ 2차 평가 앞 ‘꼼수’ 논란…일부 업체 ‘테스트 데이터’ 학습 의심",
+        "link": "https://n.news.naver.com/mnews/article/028/0002818741",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글, 6·3지선 전 ‘정치유튜브’ 무더기 폐쇄…여론조작 의심",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867164",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"싸이월드 '국민데이터' 복원 어려울수도\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005321648",
+        "title": "구글 \"여론조작 정황\"… 韓정치 유튜브 449개 폐쇄",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721689",
         "source": "네이버 뉴스"
       },
       {
         "title": "조시 다마로 CEO \"난 디즈니 직원이기 전에 한 명의 팬\"",
         "link": "https://n.news.naver.com/mnews/article/015/0005321627",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "앤트로픽 매출 14.6배 껑충…’라이벌’ 오픈AI는 내홍 심화",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544725",
         "source": "네이버 뉴스"
       }
     ],
@@ -44,8 +44,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"재고 바닥에 공급 끊겼다\"… 日, 中 희토류 통제에 전기차·반도체 장비 '비상' - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbG11U2owaU14X01xQWFKMnM0SzM2QjA0dHVFd2hrMWpJTDg1RmVXdmdqelh3S2doLUhZTk1paGZtdk9ZQVJ1aWRtc1VYM0RQMk5DT2ZiMGE2bkt5cTZScFNmeUptMm9UVWVCd1FrcW1oYmZjMVdwX3ZHblNVdVI3bDVISUY3ZmRL?oc=5",
+        "title": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6% - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85dWtidVNQdmNnYWF1Tl83UVRUemVPLVhhQjhRNklodnVnWVViTGZWUFJuTHhOaENITDA2NzVRcjVqbUUxV1hlVmEwTXROYVhWUGhxUENB?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -56,23 +56,23 @@
     ],
     "AI": [
       {
-        "title": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FUm01QUtTYThmTGxqTkZVV2tQWldENFVucG5OWml4elNYakxYMXBYV3ZSNTdaTkNCSkxsM1Rnek1mNGg0UU5rbGtZMXA4bnBZbThxazFmUk8tSFnSAWBBVV95cUxPNms0c0hWZDhqRk00cUczaS0yQUNHaTBFbTB1NTlzbUtkazRCdm5lQkVmbnVKOU1jcThXWFQ3XzdlZ19ENWJVUGg5OXRTNHpVVERaN1NLNEpyRG9waWVudWE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "안양시노사민정협의회, ‘인공지능(AI) 전환과 노동권 포럼’ 개최 - ggeco.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10aFFBNzRYTVV3T3lwRnc4R1hCZTViWkk4VTBXYkRQNUR6YzNITGhCR2Z2RDJZUGtxeDZtdkdUcjMwWnJzV2JFY1k3M0NRZWtOVTVwTXVIdHdzUjRXamN4VQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[제주] 인공지능(AI) 기반 감귤관측 자동화 기술 - 월간친환경",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTXlrN0FQQTA0REJYajRrRERXY01SVHgxbDlKallXYVNjdGx6a1d1WkU1bnUxRml6ZDdNY0gzT3pjLWstZDdfRU9VSUF2OG56dWF0cWFCNUlycHJ3NUNTOGZyUWZla3RvNDVVc3ItZ0JTdw?oc=5",
+        "title": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FUm01QUtTYThmTGxqTkZVV2tQWldENFVucG5OWml4elNYakxYMXBYV3ZSNTdaTkNCSkxsM1Rnek1mNGg0UU5rbGtZMXA4bnBZbThxazFmUk8tSFnSAWBBVV95cUxPNms0c0hWZDhqRk00cUczaS0yQUNHaTBFbTB1NTlzbUtkazRCdm5lQkVmbnVKOU1jcThXWFQ3XzdlZ19ENWJVUGg5OXRTNHpVVERaN1NLNEpyRG9waWVudWE?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "‘인공지능(AI) 고(高) 노출’ 업종 청년층 취업 급감, 걸맞은 고용 대책 마련해야 - 산경일보",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FQTRBa1AzQVdvUW96OWtzeWdZZmFjRjhqQ0V1ZmZ3N2FzSWlrcEM5dzZrVF9hcUdkb2Y1VzVfSGVzdl9US2ZQcU5Gb3BrWWtoS2EyaUdFby1KRHRGaGx2R2xzMHZib2JWcTBnaVd2U2U?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[제주] 인공지능(AI) 기반 감귤관측 자동화 기술 - digitalorganic.net",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTXlrN0FQQTA0REJYajRrRERXY01SVHgxbDlKallXYVNjdGx6a1d1WkU1bnUxRml6ZDdNY0gzT3pjLWstZDdfRU9VSUF2OG56dWF0cWFCNUlycHJ3NUNTOGZyUWZla3RvNDVVc3ItZ0JTdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "김건희 수사정보 국토부에 넘긴 경찰관 기소…고교 선후배 사이",
-        "link": "https://n.news.naver.com/mnews/article/437/0000506469",
+        "title": "신한카드, 서울시와 미혼남녀 만남 행사 세 번째 개최…100명 모집",
+        "link": "https://n.news.naver.com/mnews/article/030/0003457904",
         "source": "네이버 뉴스"
       },
       {
-        "title": "역대급 물폭탄에 거제 양대조선소(한화오션·삼성重)도 ‘출근 제한’ 통보",
-        "link": "https://n.news.naver.com/mnews/article/016/0002684697",
+        "title": "사천시 첫 ‘수소충전소’ 구축…18일 상업 운영 개시",
+        "link": "https://n.news.naver.com/mnews/article/082/0001394067",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"9440억 현금만 받겠다\"는 노소영...SK 주가 폭락 막으려 '시간 벌기' 나선 최태원",
-        "link": "https://n.news.naver.com/mnews/article/014/0005562305",
+        "title": "‘법원 문서 없다’며 이혼 전 별거 불인정…法 “다른 자료로 판단해야”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652258",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"선관위 부실 드러나, 특검 규명해야\"…국힘, 與에 \"수사 개입 말라\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006352588",
+        "title": "가습기살균제 피해자들 “진상규명 활동·책임자 처벌 재개해야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012238948",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"한강버스 타고 '짝' 찾는다\"…서울팅 2.0, 미혼남녀 100명 모집",
-        "link": "https://n.news.naver.com/mnews/article/421/0009116858",
+        "title": "\"200년에 한 번꼴\" 거제 기록적 폭우…일-시간당 강수량 역대 최고",
+        "link": "https://n.news.naver.com/mnews/article/014/0005562400",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-17 17:34"
+  "updated": "2026-08-17 18:42"
 }
