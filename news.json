@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "김호광 전 싸이월드제트 대표, “서버 관리 미흡… 이용자 데이터 보존 우려”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001186652",
+        "title": "‘추억의 싸이월드’ 복원 가능하나…김호광 前 대표 “서버 이용료 미납…데이터 복구 서둘러야”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684682",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글, 한국 정치 여론공작 채널 449개 폐쇄",
-        "link": "https://n.news.naver.com/mnews/article/014/0005562263",
+        "title": "구글, ‘여론조작’ 한국 정치 유튜브 449개 폐쇄",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684574",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "디즈니 “브라질에서도 통하는 K콘텐츠 연구 대상”",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993382",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +22,8 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "신작 없이도 역대 최대 실적… 넥슨 ‘꿈의 매출’ 5조 넘본다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151402",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "독파모 4→3팀 압축 임박…750B부터 '효율형 AI'까지 승부",
-        "link": "https://n.news.naver.com/mnews/article/421/0009117833",
+        "title": "KT·서울대병원, 의료 AX 플랫폼 구축한다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003671099",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,18 +34,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
+        "title": "'반도체 호황에도 적자'…대기업 쏠림에 소부장 'K자 양극화' - news1.kr",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53VC1rUV9qYThCOHlJUU9PN2lyNjdHTWRKRmJQaHBhVWtTV2Nhd1VldF9DcjdOTEJ1cFRnV09YWVZabklFeWxzQnQwTVpNT19zYkw5NktKLW9iN21h0gFiQVVfeXFMTXNqOE1KY29VVjVUeDJvX2tKdFE5ZlpDQzVIQWVaWVNsMmUzSUJiYTV3VGp3V3hsV1d4aTZiWlJwc24wUUVOcFA0QlBFb1l0aU9ydmlKMWp4QlVDR1BQeHhyRFE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“반도체 ETF 또는 삼전닉스, 마지막 매수 기회 곧 닫힐 수도” - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2lWQUF2aEpoby1WVzZhMC1XOGV6cEQ5ME41cnJ0dGdPRzlSdHZxQUszNjBQYWN2U2RNTXNGUVJvTG1GN185bnIyM0g5U2ZmZzBNMWhTeTBMS3cwN1dvaUw0THpLWEhGM043cnliSTBKUWtfM1dkV1RTbVBPV3JEcjloYnJmcG1q0gGcAUFVX3lxTE5yWnZFdEcxZXJpQmFZS3ZTT1Uwa1RrNUhmX05lT3FEb1huN1dFeUVzU25KWWRNQmNtbmR1X2hMNkhHUEhVYmNFSl84aGI3ZU4xWDJBd0Y3LVJYTUZyTlI3OE5OeXMyY1U1SDNwN0o5UlZOUnBwMHVIRUpZa20zV3lPM0FtZl9KTDhGbjVOM3BDd3FQeFJjWThqOHVNNQ?oc=5",
+        "title": "\"반도체 ETF 또는 삼전닉스, 마지막 매수 기회 곧 닫힐 수도\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWF4eXZEOHlFaERNYzNDSVFlbi0zcGd5NU8tekFtOUZVNzlwTlczcTJXQlc2NVRrQ0wzaW96cnM0THdUaW51VldZQVFDcG55MzVnQUtRSzYtRnJjb3BKdEJfY2JaVF8xV3k0RlRZRVI1cTYyMzByWngxTlVIQl96Mg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"AI 개발, 1등이 전부는 아니다…韓 강점은 반도체·제조업\"[일문일답] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aUUVuTk5HUjN3ZWlFU2F4NXhxaXpUOEFfSVkxTVhoRkRuZ0kwaVdDOVEzcjdaVDhsUGxnUkhmNHg2cGM4bGZBclQ5WnpaSzg?oc=5",
+        "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVGhDbUt4MlJBcnlRbldSdm9rMmpueW4xekNWUGdSNWE1Qlh3NTk3cEFWNkZnTVpCUGlfNEwtUTlLeFBmZGZvLW5pN241QWRFTmJwUGpOTFpMZw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -56,58 +56,58 @@
     ],
     "AI": [
       {
-        "title": "안양시노사민정협의회, ‘인공지능(AI) 전환과 노동권 포럼’ 개최 - ggeco.co.kr",
+        "title": "[인공지능 줌인] AI 대체 이유로 한 인원 감축, 기업 생산성 오히려 떨어뜨린다 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lQnhDMlFZelNCX1B5Um9vQUxWdmhlZkhXNm1BeDBZU2FnVU5xSTMzVUJiYWQwS0ZnTHptbFMtVjFLdzM2VUdGVm5jYTJzSms3R0RyaWlsQ1hPeW1rclVselBjOV85MTVDbWtCQUpSTQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "안양시노사민정협의회, ‘인공지능(AI) 전환과 노동권 포럼’ 개최 - 경기경제신문",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10aFFBNzRYTVV3T3lwRnc4R1hCZTViWkk4VTBXYkRQNUR6YzNITGhCR2Z2RDJZUGtxeDZtdkdUcjMwWnJzV2JFY1k3M0NRZWtOVTVwTXVIdHdzUjRXamN4VQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표 - yna.co.kr",
+        "title": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FUm01QUtTYThmTGxqTkZVV2tQWldENFVucG5OWml4elNYakxYMXBYV3ZSNTdaTkNCSkxsM1Rnek1mNGg0UU5rbGtZMXA4bnBZbThxazFmUk8tSFnSAWBBVV95cUxPNms0c0hWZDhqRk00cUczaS0yQUNHaTBFbTB1NTlzbUtkazRCdm5lQkVmbnVKOU1jcThXWFQ3XzdlZ19ENWJVUGg5OXRTNHpVVERaN1NLNEpyRG9waWVudWE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북 AI교육 새 거점 의성에… 인공지능교육관 10월 개관 - 매일신문",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51NGwtWFB0VGlhZnBXUXpXNUI4OW5uaDExbUZOT293UzU1b3ZMWnFLLTRYbVIwU3ZHVDJvRmhud2tCZFZwVjZjRU5JdnFqM1ZwbUxOR2UweGRsaW44U0M3cUNn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[영상] 가격 12배 올린 딥시크…中 AI 수익 경쟁 본격화 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSXhIYm9DSUVkemQxcGd4Y3A1Mnh2Z2UxalRiRk1xbWVLYnZJX3ItQVotZEhxWTRtM21kVW42TkFrSTBxR2s1aUlwTmNQOUw4QWc?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "AI: 중고책 판매가 급증하고 있다...인공지능 때문일까? - BBC",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbUF1OUdHdVFqVllZY2ZKUjQtODlEbFJOS096aDUyQXBYR2pnNVB3OHZ1Yk13VlJrWHNZZnNxU1NtQ3FyVlhxQ282S0R1cllxYldWMFh6ODNBNXNv0gFiQVVfeXFMUHplaGJhbUYxckFoczBVLXJzenU1VUprWWctVHk4bG40TXpPVHFTcGFTaUdnYmFQY0ZhblNIQ3h0NlBvamNJcGNDSVNOYWgycFZySmNEM1Zvamx2Wm5RVWNCbGc?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "포항시 교육발전특구, AI와 전통국악 결합한 ‘인공지능 국악 아카데미’ 성료 - 다경뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5UQk5zRG1xY29GUzBmeTFHdllTYVVQYm9EYUJjenN2N0JWcjRXb09KdTBpd3NfeUpodEV6WkEwMA?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"도박 빚 갚으려고...\"무인점포 돌며 현금 훔친 10대 검거",
-        "link": "https://n.news.naver.com/mnews/article/660/0000115309",
+        "title": "\"시신을 의대에 기증해라\"…'의령 봉사왕'의 마지막 봉사",
+        "link": "https://n.news.naver.com/mnews/article/277/0005803738",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교육교부금 개편 막판 진통…교육부 “현 수준 보장 명문화를”",
-        "link": "https://n.news.naver.com/mnews/article/028/0002818766",
+        "title": "강원랜드인 척 SNS 광고…4만명 몰린 불법도박 사이트서 780억 오갔다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652443",
         "source": "네이버 뉴스"
       },
       {
-        "title": "허락없이 폐기음식 가져간 알바생 법원 선고유예",
-        "link": "https://n.news.naver.com/mnews/article/081/0003670936",
+        "title": "정부, 58만명 참여 을지연습 돌입…핵심시설 마비·사이버공격 대비",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042736",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정선아리랑, 중앙아시아에 감동의 울림…카자흐스탄·키르기스스탄 초청공연 성료",
-        "link": "https://n.news.naver.com/mnews/article/087/0001211842",
+        "title": "거제에 하루 640㎜…'2002년 태풍 루사' 이후 가장 많은 비(종합2보)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016254990",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가족까지 병드는 마약…'회복의 길' 안내하는 서울마약관리센터장",
-        "link": "https://n.news.naver.com/mnews/article/008/0005401007",
+        "title": "편의점 폐기 음식 2만8000원어치 가져간 알바생...\"절도 유죄\" 처벌은",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400807",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-17 20:56"
+  "updated": "2026-08-17 21:31"
 }
