@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "‘모두의 AI’ 6파전…SKT·KT·카카오, AI 동맹 총출동(종합)",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238180",
+        "title": "[속보] 독파모 2차 평가, 업스테이지·SKT·LG AI연구원 통과",
+        "link": "https://n.news.naver.com/mnews/article/030/0003458116",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"내 아이디어 AI 서비스로 직접 만든다\"…정부, 국민 경진대회 개최",
-        "link": "https://n.news.naver.com/mnews/article/003/0014132742",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "벤치마크 1위도 탈락…종합 실력이 '국가대표 AI' 판가름[AI프리즘]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016256785",
+        "title": "국민 아이디어 AI 서비스로…‘모두의 AI’ 경진대회 개최",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353590",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "베팅사이트 '폴리마켓', 곧 접속 차단…방미심위, 시정조치 의결",
-        "link": "https://n.news.naver.com/mnews/article/437/0000506655",
+        "title": "‘KT클라우드 서밋 2026’ 9월 15일 개최",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353286",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "포스코DX, 산업현장 AI 영상분석 플랫폼 개발…국산 NPU 활용",
+        "link": "https://n.news.naver.com/mnews/article/003/0014132176",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,11 +34,6 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[한 손 뉴스] 반도체 호황 대만, 전 국민 44만 원 ‘AI 배당금’ 추진 - 국제신문",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjBkMzBZejBxZ08yUFg1V2FBcUwtX2Z4NVdFQXJBQkp4Tmc0bXQzVmhkeW1EOXZtZ2YwTEJHeTU4NkNjNV8tcW8zSlR5MXVCQmRkYUNuN2JmeXctWXExQm5sQTZVOW5QU25uTWU5SlpPQldILTNyaGkxS2x1T1NBVG5nS0hmbFZVOGtSNnN5M19ZaEsw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "'반도체 쏠림' 韓경제 결말은…\"대만보다 부작용 적을 것\" - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5cTQ3OThjNjh4UHBVXzhwM3pVVU5melJ4VFB4cG1TTnk2ckVGdFRWYUJESHZ5cGJQWHFVVkh0M2Jvak5ibjRQcU5GRkxOelZVTFpXS2pRVWNrNzBreldBS2x5MW8wbk1Hbnp1MHFObU4?oc=5",
         "source": "구글 뉴스"
@@ -46,6 +41,11 @@
       {
         "title": "“전국민에 44만원씩 현금 지급”…'반도체 대박' 역대급 GDP 성장에 'AI 보너스' 쏘는 이곳 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGb24tOGNpRHhOV0g5d0NLZEFMV0hmbTJ2dk1zb2RRbHFxRGJrRmZuZHh1SlNPcGQ0NHNDX3lha0QzeElTc19fLWZlVWJtUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대만, AI 반도체 '대박'에 내년 국민 1인당 44만원 지급 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYQlZfN0xHcG55eWtzR0tuSlgyd1lKeENnTGdTdlpHNFV6SkpRNThKSVJONm4wT1d3dF9FRVlSZHdPa1BGZU5nVHlBbzFHQTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "고용노동부, 인공지능(AI)·플랫폼 시대, 모든 일하는 사람을 보호할 '현실적 해법' 찾는다 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93RWNZRS1SX18tWmdLUVg1UnlPNlJ0SkQyQlh0amxvVy13Z3EzbWxGY1ZrbURHLUVaRXZoTXlfNzJ6S28tSzN3MUpLWQ?oc=5",
+        "title": "한국해양대 인공지능공학부, 188억 투입 제조 AI 상용화 지원사업 선정 - kyosu.net",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQTy1CeUxYRUlrOEp4VEFuVGNuYUZDbHFqOEpnOGFCUy14dzZmcl94dWJEdFdZYmNfZmpud3JxOE9zMjZ4Mm5TWEdfbnRCTjJCbXhobEhhX1ZFbW9RNktKM3VjVVBpWGc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "중수청 2,874명 규모로 출범…보완수사 전담 조직 설치",
-        "link": "https://n.news.naver.com/mnews/article/056/0012239470",
+        "title": "[속보]정성호, 전대 끝나자마자 사직서 제출 “검찰개혁 입법 마무리”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002812051",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수능 서논술형 놓고 교육계 온도차…\"오지선다 한계\"·\"현실 외면\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016257037",
+        "title": "'강남 외국인 근로자 추락사' 원청 대표이사 등 줄줄이 기소",
+        "link": "https://n.news.naver.com/mnews/article/421/0009119498",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 조희대 대법원장, 대법관에 손봉기·김성수 임명 제청",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867518",
+        "title": "조희대, 대법관 2명 임명 제청 李 면담 관례 깨고 ‘서면 제청’",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993612",
         "source": "네이버 뉴스"
       },
       {
-        "title": "성남 보복살인 피의자 신상 25일 공개…이의 제기로 공개 유예",
-        "link": "https://n.news.naver.com/mnews/article/654/0000195750",
+        "title": "'돌려차기' 피해자, 국힘 윤리위 직접 출석해 서범수·진종오 선처 탄원 예정",
+        "link": "https://n.news.naver.com/mnews/article/214/0001518463",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘수원 마약 좀비 영상’ 남성 압수수색…마약류 투약 정황 포착",
-        "link": "https://n.news.naver.com/mnews/article/056/0012239526",
+        "title": "백화점서 연인관계였던 여직원 흉기로 찌른 남직원 징역 5년",
+        "link": "https://n.news.naver.com/mnews/article/001/0016256929",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-18 12:50"
+  "updated": "2026-08-18 13:43"
 }
