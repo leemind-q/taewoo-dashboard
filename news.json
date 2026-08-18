@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "독자 AI 모델 '3강' 굳혔다... 업스테이지·SKT·LG AI연구원 다음 단계로",
-        "link": "https://n.news.naver.com/mnews/article/047/0002525855",
+        "title": "메타, 청소년 보호 기능 강화...자살·자해 검색시 부모 알림",
+        "link": "https://n.news.naver.com/mnews/article/014/0005562756",
         "source": "네이버 뉴스"
       },
       {
-        "title": "포스코DX, 산업 현장 AI 영상 분석 플랫폼 개발",
-        "link": "https://n.news.naver.com/mnews/article/215/0001262712",
+        "title": "‘독자 인공지능’ 2차 평가, 3개 팀 압축",
+        "link": "https://n.news.naver.com/mnews/article/056/0012239349",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"국산 NPU 영토확장\"…딥엑스, 양산 첫해 글로벌 수주 77건 기록",
-        "link": "https://n.news.naver.com/mnews/article/008/0005400852",
+        "title": "'1030·여성' 홀린 갤럭시Z8 인기 비결은…'3M 기능'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009116747",
         "source": "네이버 뉴스"
       },
       {
-        "title": "딱딱한 난연소재, 재활용 길 열렸다 [지금은 과학]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001050385",
+        "title": "오픈AI, 전세계 14개 AI 연구에 대규모 지원...한국선 연세대 선정",
+        "link": "https://n.news.naver.com/mnews/article/014/0005562755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국민 아이디어를 AI 서비스로…'모두의 AI' 경진대회 모집",
-        "link": "https://n.news.naver.com/mnews/article/001/0016256187",
+        "title": "KT·서울대병원, 의료 AX 플랫폼 구축한다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003671099",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "무디스, 올해 韓 성장률 3.5% 제시…\"반도체 호황 계속\" By 알파경제 alphabiz - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qNDZYTDJ2c3NlSHl5TDc4WGZtTXpuMVdaTENib05TcENwdjU5czhXX3RpbnFrUHEtQ0VQbmNNVmswS1I3dlBRMXNqNXE2b3JVR0Q5clh3LWJ1TEZmcUJZVU9fTzk5Rkd0YkRrZVUwVzc?oc=5",
+        "title": "무디스, 한국 성장률 3.5%로 ‘깜짝’ 상향 “반도체 호황 계속” - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HMGFpdFVYNnduSGNrTmliQWtyNGp2VlVGcDVKY1pTaVo0UGN3Qjh0ak9PM3J2bC1jLTR5a3pwVnVVWFd2aDhnOEkzVW1UVHVqRzFnbmdMRDByQdIBX0FVX3lxTFBQekxwd0NhY1ZoOC1vZ3lhUFJOZ0RIT3Z5UlZfVi1jclhUbC1pNUtDZ3l4REJHeTgwYllkVFRzc2x4b1ZSOWp0TnhhQWllS21RQUhoWVQydTJ0NWNwUUdn?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,20 +39,25 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "무디스, 한국 성장률 3.5%로 ‘깜짝’ 상향 “반도체 호황 계속” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HMGFpdFVYNnduSGNrTmliQWtyNGp2VlVGcDVKY1pTaVo0UGN3Qjh0ak9PM3J2bC1jLTR5a3pwVnVVWFd2aDhnOEkzVW1UVHVqRzFnbmdMRDByQdIBX0FVX3lxTFBQekxwd0NhY1ZoOC1vZ3lhUFJOZ0RIT3Z5UlZfVi1jclhUbC1pNUtDZ3l4REJHeTgwYllkVFRzc2x4b1ZSOWp0TnhhQWllS21RQUhoWVQydTJ0NWNwUUdn?oc=5",
+        "title": "무디스, 올해 韓 성장률 3.5% 제시…\"반도체 호황 계속\" By 알파경제 alphabiz - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qNDZYTDJ2c3NlSHl5TDc4WGZtTXpuMVdaTENib05TcENwdjU5czhXX3RpbnFrUHEtQ0VQbmNNVmswS1I3dlBRMXNqNXE2b3JVR0Q5clh3LWJ1TEZmcUJZVU9fTzk5Rkd0YkRrZVUwVzc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "LG전자, OSAT 기업서 LDI 장비 첫 수주…반도체 사업 '가속도' - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGaTVaS3hhcGRCM1NaU0dUbWFZSTVCMk5tMWxYTXlWSlBhQnlQY3ZTTVUxdXM3d2pPRndIOGZPNmhEZWNwa2JHaUZsUktEdw?oc=5",
+        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체·바이오까지…6대 분야 초격차 스타트업 한자리 모인 이유 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRTh2ODY1bHduVUhUVkdJdklOTko3RmF1cGc5Mm9BSUJTd1ZsaHlKa2otZXQ4Ny0wR3NrZGNtQ19XTV9WNVNHcmFWRzBsaERhbnlFbUppN3VOT290SEt6dEhCZVdxd2hhRGfSAW9BVV95cUxQSHNNSllkV292NUxVd1RBdGk3NUdkWG5HS1RiZjBlb3gxWVk3ekJFb3lab2RDRlU0SVVqR3oxa3QzYWV4LVZZRmVnODY4VE8xSW5JY3JHOEZZMWE0X2RQOUpobjd3OUV1YnVxSGdxUWM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "LG·SKT·업스테이지 독파모 3파전…한국 AI 글로벌 3위(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cHVyQmtpOTgycTZjdUllRGtJT0g3OVFVN0dNQWYyaUJCTDZ5U2VyREp0WU1CX2lreHdvcnZkYmdraWJEd0NvUDBJNmpDTnVTU0djT2JaclcwcDjSAWBBVV95cUxONlNXYWJDcWpxODNMOV9ZUHNzWllNREo5VnFfdVRxWF80c0lHNG1tam5BRWdsaC1qMEpYVDhRcUZzWFVVNGxjbE9rd240a2I2ZFNrdFo4Rnp1TFVNbkFmMjE?oc=5",
+        "title": "국민 아이디어를 AI 서비스로…'모두의 AI' 경진대회 모집 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42U3ZHOHBLaEZKQkNnUGVVMTBuNlBnTGFJMGpxa1otNWNJTFlBNEFDbkw1WHdab1czVFJjYV9vMXB2Q1ZVd2NzXzZqMFFxcGxHQ0lXd3VtZTJaU2_SAWBBVV95cUxNV2VUdk96cG5VM0MydElzWE83TUN5OUdqeTVRajhob29lRWlfeUtwd0UxaVNoQzZWU2x0ZXJOSHJaYkNRRlJ1Y0x2SGowSHZkM3JlVEU3a21iSkNKMjdHRXg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "심평원 경기남부본부, 인공지능(AI)·데이터 기반 「HIRA 보건의료 아카데미」 운영 - 한국의약통신",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNFJzSnJ6UFpKdkhxNW1jMzJxM3VEb2tFcS10eWJaU3VSVWNqSEJ3aG1zU3lCVkFUaW9LWjY1QzlPMmh2aHJITTFxb3hQcjlYUC1halQtTFl1Wk5pM2ZjUlVpeXNIcXNXU1lN?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국민 아이디어를 AI 서비스로…'모두의 AI' 경진대회 모집 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HX0dNSTE4TnhLd3ZwUmhMbEJ6cVFWNmsyU0d0S0JlU0VWXzV5SE1UbDhpVGc3ZzBpYzRJZnllTVhOdW84eFZ2aGZLQ0tWZUlWSmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "딥페이크 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다 - DWBNEWS",
+        "title": "딥페이크 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다 - dwbnews.kr",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZNjBPb0xoWWJGSEtOSld5LTF0ZWtEOWFub3pHOUZ2SlJBX2dSUjZhSS1uTzZYenpZN2JzMWJocU5KU1JXaWpXQ0JmNVZZeFRROFBnWExDNS1BZ3NYbjloSzhnRjY0cUVh?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한남대-큐니온-큐니웍스, 국방 인공지능 공동 연구개발 맞손 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWWY1aXJ6LWZFaFdRdXQyYmdQXzZabW9McmotbzZpblB4dWM5SThMTGdEaEo1eEZ0b0hVQ01PeDVJcDlwSTU0YzNJOUl1Slk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대덕대 컴퓨터공학과, 초등 대상 AI 특강 성료 - goodmorningcc.com",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzLTluVG5pYUpZUzVtRDVDbW5BYTJmRmRxNVNJajdzXzZaMWp0ZzFHSkg0d2ZsSTliYXphb3RhZ0dRMUdmVm5ibC12RTV0UlVmVmpFYXlGRW9qa3h0aWFpTzlhaHkxbmZ1ejUyVTdhWDJqZw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "비 그치자 또다시 찜통더위…서울 19개 자치구 폭염주의보",
-        "link": "https://n.news.naver.com/mnews/article/448/0000634092",
+        "title": "1주일 새 끼임 사망 2건…노동부, HD현대중공업 고강도 감독",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685143",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울대 로보틱스 국가연구소 출범…'인간 중심 피지컬AI' 개발",
-        "link": "https://n.news.naver.com/mnews/article/001/0016255758",
+        "title": "[속보] 종합특검, ‘관저 이전 의혹’ 김건희·윤한홍 기소",
+        "link": "https://n.news.naver.com/mnews/article/009/0005722377",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광명시민이 직접 살핀다… 신안산선 ‘시민 안전 레이더’ 가동",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042852",
+        "title": "순천 시민들 의대 유치 염원 청와대 앞 궐기 대회···김문수 의원은 삭발",
+        "link": "https://n.news.naver.com/mnews/article/081/0003671212",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국립의대 시한 코앞…청와대 간 동부권 주민들, 김문수 삭발까지",
-        "link": "https://n.news.naver.com/mnews/article/079/0004179626",
+        "title": "'수원 마약 영상' 30대 남성, 정밀 감정 결과 '양성'",
+        "link": "https://n.news.naver.com/mnews/article/052/0002394793",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남광주특별시, 20일 을지연습 연계 '민방위 훈련'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014131915",
+        "title": "‘통일교 1억’ 징역 2년 확정된 권성동, 변호사 등록 취소 수순",
+        "link": "https://n.news.naver.com/mnews/article/029/0003042836",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-18 07:39"
+  "updated": "2026-08-18 08:39"
 }
