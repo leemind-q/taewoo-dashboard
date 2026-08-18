@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "포스코DX, 산업현장 AI 영상분석 플랫폼 개발…국산 NPU 활용",
-        "link": "https://n.news.naver.com/mnews/article/003/0014132176",
+        "title": "손가락 끼기만 하면 '척척'…'세계 1위' 한국에",
+        "link": "https://n.news.naver.com/mnews/article/055/0001381562",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국가대표 AI, LG·SKT·업스테이지 3강…내년 사업 재검토",
-        "link": "https://n.news.naver.com/mnews/article/079/0004179628",
+        "title": "포스코DX, 국산 반도체 활용 산업현장 AI 플랫폼 개발",
+        "link": "https://n.news.naver.com/mnews/article/003/0014133472",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국어 삭제해도 ‘불법 도박’···선거·날씨에 베팅하던 폴리마켓, 국내 접속 차단된다",
-        "link": "https://n.news.naver.com/mnews/article/032/0003464882",
+        "title": "‘구글의 전설’ 제프 딘 “인간 -AI 협업때 최고의 성과”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741727",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, 지역 청소년 AI 교육 지원 확대한다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009118177",
+        "title": "방미심위, 폴리마켓 접속차단 조치…\"불법 도박 환경 조성\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001381454",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'모두의 AI' 사업 공모에 이통3사·카카오 등 참여…네이버는 불참",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804296",
+        "title": "LG·SKT·업스테이지 독파모 최종 진출…모티프 탈락",
+        "link": "https://n.news.naver.com/mnews/article/666/0000119515",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[한 손 뉴스] 반도체 호황 대만, 전 국민 44만 원 ‘AI 배당금’ 추진 - kookje.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjBkMzBZejBxZ08yUFg1V2FBcUwtX2Z4NVdFQXJBQkp4Tmc0bXQzVmhkeW1EOXZtZ2YwTEJHeTU4NkNjNV8tcW8zSlR5MXVCQmRkYUNuN2JmeXctWXExQm5sQTZVOW5QU25uTWU5SlpPQldILTNyaGkxS2x1T1NBVG5nS0hmbFZVOGtSNnN5M19ZaEsw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체가 중국 침공 막는다는데… 대만의 '실리콘 방패' 어디까지 통할까 - 한국일보",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ETE1NMVgyWTRaQ1RGVG5qd21EZ3VyVHFvWDFNaHZDZHdYcTBlNEtJYnlTR1N4cjFIZmhUbFRzLXFaelI5dXhCdFZYVnAyY3FQamh1UXZTUTRqRHBoRDRBUC1IZ1JCWkw5amVjZlNn0gFzQVVfeXFMTkt6Y2NVN1V1SjNOUWM4dElGVk9XWnlmRWU2WlIyc0lfckpicTQwN0lFSjJXNkJEYnUzT19DNVBLLUREZDZ6UVlINUNPa0ZubXlZenV3VGZXSDFMSTRYOXpTaVppX1ZQRkxnYnFRUV9DMlpJQQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "미국 반도체 지수 5% 급락…장기금리 상승에 SK하닉 ADR 9%↓ - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fc0FCblM1ZVhkeVFHallXQ0UwX0FERUF6VHJleWtRV3RBN3BSblVEZjFfcnlsY19iQ2lMTS0zYWM4b2dZVDR3MV84MnNheTg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 쩐의 전쟁과 뉴욕증시 이틀째 조정 등 이시각 주요뉴스 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZVFBVd3I4WUNIazJVZGVrajZCQkViamE5Wm5YdGZlckVINVdTTndpaWU0bDVXNkwxOEdGMzFNNEFIVEpRRDh3TnJtcHNwTEppQVBoeGpHZXpyOUxsWE8xVzNvbmJaT0gxRVdMbEZKa2rSAXRBVV95cUxOUDJBYU1nel83VlFPdzUtekMzVnRRZ0gwWG5IQWF1U1RJZlVFUUhBbDVCblE3V0lkQmYtdmlNX25uQkFHdzRCQktFbHNGR3dPTDN2LWpQWHdWWEd4Y3kzTmFBOXlsSWphSGU3WHp3eU55LUJvdQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 반도체 수요 폭발에... 반도체 장비 테마 '기호지세' - 핀포인트뉴스",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBleUFRWTZxbFVHb0VMNlUxMUN5cWdGQkk1VkJocWdhWWtjTS12ZEdZZVhHOHhUS19tcUdNTlByUlFyX0JOV0lxVzZkU0hRTWZPMl9FeUwzS2Fjd1Z3R0F6UUdPbjlFTDVRdHc5Sl9Bb0J4OTDSAXdBVV95cUxPa1lJNDllcjVaX2ZBTlFGcVk5WG9yZDVoVVFFUzhQUVhWXzRJb05BSklxZjVqZHYzYnBOanVqZEZJTTJ3b21zckRONi1NVWR3dVV3VVNhZHdFcnNnSnpfR1FXS0xudGFFdVVlc21VbHE2SzhRUEZKdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“반도체 호황 2027년 중반까지”…무디스가 내다본 한국 경제 [잇슈 머니] - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNFNlei1sUHZROEZCZTRMZnM0LURjTG5YM0RBV0kyMnM3RHJTOHV3TmxSUG1EREZQQWQ1b2VQbHlsMGVxY1BtbEpabFRlaXk2emwtcVVFNzVlT1E?oc=5",
+        "title": "[오늘의 증시]중동 불안에 美 반도체주도 급락…코스피, 外人 수급에 촉각 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54MDlJSjFGbFZpMlBxUHNXNkJCeG5oU0lGZk5MVndsMTU2SHpDcDMxRjEteEQyV2NvWXVhTS0xcUp0d0FMdEJjSGVfMU1yM2d4TnljTGZhaEdncC1WT3FmcNIBeEFVX3lxTE43SnczVWxiR0VudU5TSWVhaVFGRjFIeENiczNkb1dTcHJGWVNVOGpEUThWUUJyZVZiZWtFNFMwbXJCQ29yS1NrV1IwNnp5dnNUaS1YWGlXZkZXcEhZa2YyaUhsbmJsd1ZXaklnWWN4a1VrcXBIbGx6NQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "고용노동부, 인공지능(AI)·플랫폼 시대, 모든 일하는 사람을 보호할 '현실적 해법' 찾는다 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93RWNZRS1SX18tWmdLUVg1UnlPNlJ0SkQyQlh0amxvVy13Z3EzbWxGY1ZrbURHLUVaRXZoTXlfNzJ6S28tSzN3MUpLWQ?oc=5",
+        "title": "중앙아 5개국 인공지능(AI) 교육 전문가 방한, 한국 인재양성 현장 찾는다 - 뉴스N제주",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMFhSOFhmWGo4TGFyUl81SVNodDh2RERMcWhOM0NINk0wd2FqUDh5SUcxZVh2RXp1dnQ0dS1uZzBGbWlvSU9jUWlXMmNaSm1WNlQ2bGlmZDZ2X25CeXJlOUgwQzJFbDJVOWRmOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중앙아 5개국 인공지능(AI) 교육 전문가 방한, 한국 인재양성 현장 찾는다 - 뉴스N제주",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMFhSOFhmWGo4TGFyUl81SVNodDh2RERMcWhOM0NINk0wd2FqUDh5SUcxZVh2RXp1dnQ0dS1uZzBGbWlvSU9jUWlXMmNaSm1WNlQ2bGlmZDZ2X25CeXJlOUgwQzJFbDJVOWRmOA?oc=5",
+        "title": "전주시·전주대, 인공지능 대전환 함께 한다 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01cHBramhlbXZXQUtRNE5jdVVCOWRrU2ZYSVg4M0dicm9DWEQyUjVvN3FxUV84RExtR0M1dDBXQlgyMHRoYXlZNVVUc0xkRjNpS0xXNmpidUFwYzJqSGVYM1dqWlppaHNYR1l5N3JfWmo?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "정성호 법무부 장관 사직서 제출, \"국회에서 형소법 문제점 수정할 일 있어\"",
-        "link": "https://n.news.naver.com/mnews/article/214/0001518602",
+        "title": "'성남 보복 살인' 50대 신상공개 의결...오는 25일 공개",
+        "link": "https://n.news.naver.com/mnews/article/052/0002394956",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘모텔 살인’ 김소영에 사형 구형... 검찰 “거짓 계속, 반성도 안 해”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993580",
+        "title": "조희대 대법원장, 새 대법관 2명 임명 제청…대법관 공백 5개월여만",
+        "link": "https://n.news.naver.com/mnews/article/002/0002452542",
         "source": "네이버 뉴스"
       },
       {
-        "title": "또래 여학생 얼굴로 딥페이크 제작, 유포한 10대 송치",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133827",
+        "title": "을지연습, 드론·사이버테러 실전 대응, 강원 20일 민방위훈련",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684864",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정근식 “교육교부금 개편, 굳이 뺏어야 하는지 모르겠다”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003741596",
+        "title": "“통 들고 싹 쓸어간다”…중국인들, 한강공원 매미 유충 잡아가는 이유가",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652793",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중수청 적법 수사 여부, 외부 전문가가 점검한다…국무회의 의결",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804135",
+        "title": "\"수사 심의 장치 마련\"…중수청 시행령 등 국무회의 의결",
+        "link": "https://n.news.naver.com/mnews/article/448/0000634164",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-18 22:25"
+  "updated": "2026-08-18 22:52"
 }
