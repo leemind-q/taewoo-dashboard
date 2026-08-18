@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "'독자AI' 기술력은 박빙… 사용성·활용성이 당락 갈랐다 ['독파모' 3강 확정]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563084",
+        "title": "LG·SKT·업스테이지, 독파모 최종 진출‥모티프 탈락",
+        "link": "https://n.news.naver.com/mnews/article/214/0001518475",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국어 삭제해도 ‘불법 도박’···선거·날씨에 베팅하던 폴리마켓, 국내 접속 차단된다",
-        "link": "https://n.news.naver.com/mnews/article/032/0003464882",
+        "title": "'모두의 AI' 사업에 카카오·SKT 등 신청…네이버는 불참",
+        "link": "https://n.news.naver.com/mnews/article/215/0001262752",
         "source": "네이버 뉴스"
       },
       {
-        "title": "포스코DX, 산업현장 AI 영상분석 플랫폼 개발…국산 NPU 활용",
-        "link": "https://n.news.naver.com/mnews/article/003/0014132176",
+        "title": "수면·심박 50개 지표 한눈에…‘오우라링 5’ 국내 상륙",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652721",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, 경량 AI모델 '카나나-'2 안전평가서 구글·알리바바 모델 앞서",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804144",
+        "title": "카카오, Kanana-2 안전성 결과 공개…글로벌 최고 수준",
+        "link": "https://n.news.naver.com/mnews/article/079/0004179851",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'모두의 AI' 사업엔 카카오·통신3사 참전",
-        "link": "https://n.news.naver.com/mnews/article/015/0005322050",
+        "title": "방미심위, 폴리마켓 접속차단 조치…\"불법 도박 환경 조성\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001381454",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - news.jtbc.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 ETF 또는 삼전닉스, 마지막 매수 기회 곧 닫힐 수도\" - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWF4eXZEOHlFaERNYzNDSVFlbi0zcGd5NU8tekFtOUZVNzlwTlczcTJXQlc2NVRrQ0wzaW96cnM0THdUaW51VldZQVFDcG55MzVnQUtRSzYtRnJjb3BKdEJfY2JaVF8xV3k0RlRZRVI1cTYyMzByWngxTlVIQl96Mg?oc=5",
+        "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUGJiM3VYbHRDc0N0ZGxURnE4OF9WSUJ0aU5LR0pDYTloNEVacFFpeVpUN1RGVlBHLWRROEdveGU4T2Q1cEZNb2xFN2tOOWgxbFB3dDBtZkZVRE5ySVlhTFJkeThlN2tTR0QxTzQ4Z0k?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -46,6 +41,11 @@
       {
         "title": "美 반도체 훈풍에…'28만전자·170만닉스' 회복 - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTjdnNUxuR040MmdwTFBfWHdSMzVqbjMxWlhMbkdVU29haG1tUHJBMHNvN2lLMURpQmVCTVJWeWxpR1RscmZIak1MRFBDNG5zR3lNOElHSlVqZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 반도체 수요 폭발에... 반도체 장비 테마 '기호지세' - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBleUFRWTZxbFVHb0VMNlUxMUN5cWdGQkk1VkJocWdhWWtjTS12ZEdZZVhHOHhUS19tcUdNTlByUlFyX0JOV0lxVzZkU0hRTWZPMl9FeUwzS2Fjd1Z3R0F6UUdPbjlFTDVRdHc5Sl9Bb0J4OTDSAXdBVV95cUxPa1lJNDllcjVaX2ZBTlFGcVk5WG9yZDVoVVFFUzhQUVhWXzRJb05BSklxZjVqZHYzYnBOanVqZEZJTTJ3b21zckRONi1NVWR3dVV3VVNhZHdFcnNnSnpfR1FXS0xudGFFdVVlc21VbHE2SzhRUEZKdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "안산시, 외국인 주민 위한 인공지능(AI) 행정민원 서비스 개발 나선다 - 수도권지역뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45VjZhTFNHVmQ0Z3N6SkNqUF9mcUpnZnllSzYzZUlqZHRZc3BPYUJqUGotMXR2bm1LSEFSVldhM2NZTWJ2V19pWkxlWE94TlJueG5Cel9RNy01QVBRWFA5dFBqS3hqNG1a?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "SKT·업스테이지·LG AI연구원, ‘국대 AI’ 3차전 진출 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON3Z5cUJCMHJaWTVFbkV4YWhBR0NzLThfdFlNdDhDMXNJcnd0d1dHbWs2eV9xWTlBU1RseDRWTkdNMTF5YldmVkRER1h2cnB3RWRCMmtEZ1ExRFhtZVdJZ1lWY1ZUVVdMZW5RdHgzLUxsR1VRVEFYVG9vVWlIeXlJNnl1Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중앙아 5개국 인공지능(AI) 교육 전문가 방한, 한국 인재양성 현장 찾는다 - 뉴스N제주",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMFhSOFhmWGo4TGFyUl81SVNodDh2RERMcWhOM0NINk0wd2FqUDh5SUcxZVh2RXp1dnQ0dS1uZzBGbWlvSU9jUWlXMmNaSm1WNlQ2bGlmZDZ2X25CeXJlOUgwQzJFbDJVOWRmOA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "전주시·전주대, 인공지능 대전환 함께 한다 > 뉴스 - 더코리아",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01cHBramhlbXZXQUtRNE5jdVVCOWRrU2ZYSVg4M0dicm9DWEQyUjVvN3FxUV84RExtR0M1dDBXQlgyMHRoYXlZNVVUc0xkRjNpS0xXNmpidUFwYzJqSGVYM1dqWlppaHNYR1l5N3JfWmo?oc=5",
+        "title": "DGIST, 자체 기술로 인공지능 전환 나섰다 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LLWg0Z1hzczA3SzZLbUwwR09ldzJHUy1wa1cyeFpTQU1zZzZyUUU1SmM1cVZaakk2VUFxczJmakNnalBKYUlPcmdIRHM0eG1xV1hzVFNrbDF2M0d5OWRBRtIBeEFVX3lxTE9Pb1hKSzcyeExmaG55a081d2RUa3RFVG9hVFV6c3dFclhwZ0NKeGQ0S0VfcFd1M1RDeFJLMjJqWkxUbDAwUTdDOFRFOFc3V1N6cFFpT2RlcTVUaHdzdVZLYmtCeGpPU2Y0S2Q2M2pjMUU1X3JQUDlCZg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "전남광주 동부권, 순천대 의대·대학병원 설립 촉구",
-        "link": "https://n.news.naver.com/mnews/article/660/0000115412",
+        "title": "환경미화원 3명 새벽 청소 나섰다 참변…청소차·덤프트럭 충돌(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016257488",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 靑, 정성호 법무에 “후속 인사 때까지 역할 다해달라 당부”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545110",
+        "title": "웨딩홀 탈의실에 '몰카' 설치…신부 찍던 사진사 덜미",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353753",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1살 딸 밀쳐 넘어뜨린 2살 아이 때린 엄마…法 “학대 아냐”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545082",
+        "title": "종합특검, 여인형 ‘군 블랙리스트’ 혐의 추가 기소…강호필·박재열도 재판행",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804233",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'쿠팡 수사외압 폭로' 문지석 \"엄희준, 압수수색에 격노·폭언\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006353675",
+        "title": "백화점에서 전 연인에게 흉기 휘두른 40대 징역 5년",
+        "link": "https://n.news.naver.com/mnews/article/052/0002394853",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘성남 교제살인’ 50대 오늘 신상공개 심의",
-        "link": "https://n.news.naver.com/mnews/article/056/0012239233",
+        "title": "검찰, '강북 모텔 살인' 김소영에 사형 구형...\"반성 전혀 없어\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002394859",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-18 23:23"
+  "updated": "2026-08-18 23:47"
 }
