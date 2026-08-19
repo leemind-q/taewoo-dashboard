@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
+        "title": "'모두의 AI' 사업에 통신 3사 총출동…카카오도 출사표",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804646",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "젠슨 황도 ‘깐부 러브콜’… 韓, 피지컬 AI 글로벌 판도를 바꿔라[기획]",
         "link": "https://n.news.naver.com/mnews/article/029/0003043186",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카카오모빌리티, 미국 IPO 추진",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723179",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'모두의 AI' 프로젝트에 통신3사 일제히 참여… 각사 구상은?",
-        "link": "https://n.news.naver.com/mnews/article/079/0004180294",
         "source": "네이버 뉴스"
       },
       {
@@ -22,35 +17,40 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 美 상장 추진…SEC 비공개 제출·1.4조원 공모 시동",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238315",
+        "title": "카카오모빌리티, 1.4조 美 IPO 비공개 신청",
+        "link": "https://n.news.naver.com/mnews/article/003/0014136376",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "휴머노이드 ‘발차기 쇼’는 그만… 中선 토스트 굽고 집안일 한다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993910",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - 동아일보",
+        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - donga.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tNXNBSFRJVUFacDJSdDdlcG04a2JtOVB5ZEZGXzVlV1RQMWJzS3lIOUpULWtRZC1sODN1SUhGekNmTFhQSWJPcHNEa0w5YUd3SklCM0RrWGNwUTduYi1GZTlaTzJ6T3Jvc3dQM1NrZ3RfWVdYQWfSAWZBVV95cUxNWUNRNE1ScE96S3I0eXBDMk8zUkVFUEM3LXlCV0k3akNma0xleXhCeE56WE9UQlpFYUd1aEJXRElMT2M5ZU9RZEh0V0cyblg4RHZHbWFaMUZqVUJEZTNjN2xJSlFMYlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+        "title": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "KDI, 올해 경제성장률 2.5%→3.2% 상향…반도체 호황 반영 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHV6dEJCZ0pybERDVHdUSEFNemNpdS0xX2hvaHgySmJjY3lrTEF0UzBuaW5qMVVCNmVqTWQ1TGpJN29GeTRkRkhTUzlmWjVEVU8xeHdXOGlnWlFINURUbndrYU1uOHZVTTl1ZkdvUWFJdVhTVmNiVm1Xa2VRdExkMC1UZnc2My1uSGc?oc=5",
+        "title": "전기차는 이미 중국판, 반도체 공급망도 새판짜기 속도 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZzhqR0tWUXdiQjJSamNTcktUeFFQel9JTTRkOVh0MThIWW1ITDkyazBtR3pEYTFsMkR0WmlNdWZXaWtGSGdncXI0Z0t4NHJqcU5DR3oxUE5yRWNHNzJBVmNtWEZKVUZEZnRDLXNtSWVDNUE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "전기차는 이미 중국판, 반도체 공급망도 새판짜기 속도 - tv.edaily.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQeFBhWmZvdlkwN2lvMjRIV0dQcTR5d0N4TjZxQVFzTVFDdTNaUWh3MnBzc0dSUFphQXc3bWh1elhiYjNPa21uVnlmczhxOFRrNkhMQjlma1ZmdDBUNUFtaUtPTXV2WlpJM2QzQWFibXhuZzRLeGF2N0otbw?oc=5",
+        "title": "반도체 소재 기업 실적도 고공행진 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmhIWDVBWEx1UDJTc2w1TGJMdGhuTHdPTGhsejJiTzFBTDZvekxsSGdFZW4zSXB2bUNjdXBoNFhJNnI3YUhPYlhkRmVMYWhIMjVCUWFXc2VfYVB3Sl9Jd05SeGppUW02RXB3TzdNcldqQkh3NjNQTXYwV0Vmcno5Vk5ORQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘3대 메가 프로젝트’ 아산 반도체 공장 다음 달 착공 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1peDB3bndMUjBEeGt4cFQwMDAzMGwzdlVReWdielRZdTdBZm1NY2xWNGxPOHlEcHRFTWJiT2o3OUlHWnhkZHVDZkdOOGdPS0U?oc=5",
+        "title": "“용인 반도체 산단 백지화”…전국 돌고 청와대로 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92WXVCS0NyZFBHTkt5OHhSTFk2bkIxRXk5enN6VnVzay02NWxRVzl4Q2VvVnk5LWFMMlc1di1fQ1NPcW5abXFsSFBFTG9MLTg?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,6 +66,11 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "‘인공지능(AI) 고(高) 노출’ 업종 청년층 취업 급감, 걸맞은 고용 대책 마련해야 - 시사프리신문",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MnloR0Z6THFzYXR5TG1BWVhkZjk4SmlPaHYxdVhXZmcyRXFZOWdyWmU4bVo3WkpSMmVJUVYxVTVSZEdyYWlaNXVRTjlXWVlBRWJhdExPQVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "서원대, AI로봇학과 신설 앞두고 한국인공지능융합기술학회와 맞손 - 한국대학신문",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mTTBibW5HR0t6emFObjVfSEVwcllDUEF1Y1djNy02VTVJOFpzTkdsc3N0UDYyTS1SYVIwd2ZGLXJSOEtfNzdyTnJxUlg2ZnZheXNQMEZhZ0FWOHozMjZmSVZTSGkwdw?oc=5",
         "source": "구글 뉴스"
@@ -74,40 +79,35 @@
         "title": "美 30세 미만 55% \"AI, 기대보다 우려\"…4년 새 24%P↑ - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kT1pqN0sxYkRVOUMxUHlTNDNhZE9zQXgtYlNSSktSUWV4dFdLVXZYSjZmc1VwR2s1R01XMGJlbzFzT1p5b1pEcHBnNEFmTzd5bmJyZ2N0Tk03X0nSAWBBVV95cUxQV3l6OEVxSDRlNFROOVlMd0x1OHBUXzBVXzdKNmpVdmdaX2wzbmk1OXRzWlNEYWtJLU53azl6cy1mdjJ6X1YxVS1HVHVSaW9SamtMekVOblBycFUtdHFrczE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "달성군시설관리공단, 인공지능(AI) 자율주행 안내로봇 첫 도입 - 시사뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XTTJNZFZHYnRtMUpzQzRrRW85Q0tqNmJ3eDY3SFI4ajV3bVo0cG0wRjU0Mjc3OGJDSTg1VWczelM0dzFFcW5GT0ZRdDI3TERUNGZYUlZVNHRidGdPcThieHdPVQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "세대주만 투표권 갖는 이장 선거…인권위 “여성 참여 제한하는 차별” 개선 요구",
-        "link": "https://n.news.naver.com/mnews/article/032/0003465095",
+        "title": "조희대, '서면 제청' 묵묵부답...\"합의 기회 없었다\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395447",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘재정 위기 선언’ 경기도, 사업비 5465억원 구조조정···SOC·복지사업 예산 포함",
-        "link": "https://n.news.naver.com/mnews/article/032/0003465096",
+        "title": "종합특검, '계엄 포고령 공지' 전 국방부 대변인 불구속 기소",
+        "link": "https://n.news.naver.com/mnews/article/629/0000525496",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이태한 '선관위' 특검 \"정치적 고려·선입견 없이 실체적 진실 규명할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/214/0001518581",
+        "title": "특검, '한덕수 재판 위증' 윤석열에 벌금 1천만원 구형",
+        "link": "https://n.news.naver.com/mnews/article/057/0001964455",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"내연남 아기일까 봐\"…'출생 이틀' 영아 살해한 친모 구속기소",
-        "link": "https://n.news.naver.com/mnews/article/001/0016259165",
+        "title": "윤호중 \"초대 중수청장 국민 천거…적임자 없으면 장관 추천\"[일문일답]",
+        "link": "https://n.news.naver.com/mnews/article/421/0009120542",
         "source": "네이버 뉴스"
       },
       {
-        "title": "목포대·순천대, 전남광주시에 의대 설립 계획서 각자 제출",
-        "link": "https://n.news.naver.com/mnews/article/001/0016257234",
+        "title": "전장연, 출근길 지하철 탑승 시위 잠정 중단",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395355",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 15:33"
+  "updated": "2026-08-19 16:33"
 }
