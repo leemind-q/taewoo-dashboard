@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "2분기 소형 OLED 시장 정체 속 삼성D 선방…폴더블 패널 3배 급증",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238239",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "SK쉴더스, AI 에이전트도 '제로트러스트' 적용…보안 사업 확대",
-        "link": "https://n.news.naver.com/mnews/article/421/0009120322",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "‘국대 AI’ 평가전, 업스테이지·LG·SKT 3파전 압축…모티프는 탈락",
-        "link": "https://n.news.naver.com/mnews/article/028/0002818960",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "LGU+, 연세대와 로봇·드론 '끊김 없는 통신' 검증…AI망·5G 연동",
-        "link": "https://n.news.naver.com/mnews/article/003/0014134178",
+        "title": "AI 서비스부터 인프라까지…KT, 16개사와 '모두의 AI' 도전[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016258338",
         "source": "네이버 뉴스"
       },
       {
         "title": "“리사, 뷔가 낀 반지 이거라고?”…‘오우라’, 한국에 진출한다는데",
         "link": "https://n.news.naver.com/mnews/article/009/0005722328",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "부모가 차단 가능한 청소년용 챗GPT 출시",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353829",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "AI로 공공서비스 바꿀 창업 아이디어 찾는다…거브테크 경진대회 개최",
+        "link": "https://n.news.naver.com/mnews/article/003/0014134971",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "KT, 미국 'ISE 엑스포' 참가…중소 협력사 수출 지원[테크스냅]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016257832",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,22 +39,37 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“반도체 호황 2027년 중반까지”…무디스가 내다본 한국 경제 [잇슈 머니] - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNFNlei1sUHZROEZCZTRMZnM0LURjTG5YM0RBV0kyMnM3RHJTOHV3TmxSUG1EREZQQWQ1b2VQbHlsMGVxY1BtbEpabFRlaXk2emwtcVVFNzVlT1E?oc=5",
+        "title": "용인 반도체 송전망 따라 걸었다... 거제의 폭우가 던진 질문 - OhmyNews",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96VEo1Rm1BZUlkWkI5MmFTTE1NM0NhZ1lSMkNkeVZrYTJkTkZreVkxUUVWZ090RHF2QlZGVEpHR0w3Q1ZaVHR5SU9jMWlIWTNGSlZLWTFfNmtrZEhfOEZsMUhMNFltaEk5MXlOVllTbmZhdzlxZU1F?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자·SK하이닉스 장초반 급락… 반도체 덮친 ‘중동 쇼크’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NWk9TaG84dmM5eFFEcFRZYXVRNHc0Ti11NU9USWJ3RDczdDhyUWt4TDBhbjg5aXdSSGFwUjdCRWVkZHhXZXBlZTV3QS1tZzg?oc=5",
+        "title": "“재벌 이득 위해 주민 생존 위협”…커지는 용인반도체 반대 목소리 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3b1dNdzRMd0tha1dsWlo4YXBpVnBsdllWQUQ3aEgwMlZQRFJ1OFNWcUdHZ1pINmg5S1NvU3RSQVMzTmlxbS10R3dyZXFCYjJlRDRyc2Nub1lZRHNTY1FMMkxVbw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "올해 하반기 일자리 전망…반도체·조선 '맑음', 섬유 '흐림' - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBST2taQlVXWmRfZk5pdWFkS0JjYkdNMFZSU2hsd3lYVkZuVGdlMm1KNGJnUXVLQ3Y0N1NBZnlHSEc1d1dMV0pFeGRyWFpSaWlad2lWNGxSQ010dkXSAWBBVV95cUxPMUVuUE9jak9fU29zbnY3aDF6c01Sc2tFQnBDclM5UDNJSUZYNjA0MmVraktmQm9BU0dMX3VPQmVfS2M0TjB1SGdfUmY2bmlUREt6TlJXYXlZY01XQ1FKdjc?oc=5",
+        "title": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04QjFsSjh2SkRFcjFiSnpPV2FRT0RZcWpJRVBNRC02dDRDWHAzdE5FWTlOemtpWEwyWWZOWXp2cEwwM3IyXzJvVkMtaHcyNWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "AI 시대…종이책 희귀본이 파쇄되어 사라진다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTFmZnlCUkxLMktlY0tqanA5RkFyZm1aTTR4TUNOVENPc05yZkpHVUh5ZHYxTlBWY0hpYmNUdkg3bEdSbzRBVlBzbXFtZ0VUWV9LTTQ4blFrVTRneHBNVlZlelJqWTEzRHpfRjQzNFlMMlcwanptU294Z09Xc3Z6OS1RTW1IaURJb2pxcW1B?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "‘인공지능(AI) 고(高) 노출’ 업종 청년층 취업 급감, 걸맞은 고용 대책 마련해야 - 시사프리신문",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MnloR0Z6THFzYXR5TG1BWVhkZjk4SmlPaHYxdVhXZmcyRXFZOWdyWmU4bVo3WkpSMmVJUVYxVTVSZEdyYWlaNXVRTjlXWVlBRWJhdExPQVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "안산시, 외국인 주민 위한 인공지능(AI) 행정민원 서비스 개발 나서 - 산경일보",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tYThTdll0eUJWWHk2Sk82QWNnaHhRUTdLN0QyTERmLVI1REZnUjBNZWpMelRMY2VPek5PQnZGUTNmenhzb3k0MTFUUWZaSHNIZDRnOVhOQ3AxN1BNUjZERUZ3VlJPMXJWZ184ajdGTUg?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "공공 혁신 스타트업 잡아라…정부, AI 창업 아이디어 대전 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RTUVHRW14QU5kWXBYc0h6YVpXNHZpWTB5N1J5SUdSWEczeHY3V3RDaVlhaDVpZVdPeHh2U2h5YzFGODNYbW1Ca0Q5ZUk2TkQ2VHdVVjk0bVA3UnPSAWBBVV95cUxPakRqMEpEbjRlV0JRQVowS2dGX0pDVGV4eWlLWG1HZXcwOGs3RW9yV0UybzUwUkp4WndWeGtQSGpHbjNPME1FMkxobm1CQzlVRldLN21FcTlTeGVvQTQzRDg?oc=5",
@@ -64,50 +79,35 @@
         "title": "인천서부교육청, 생성형 인공지능(AI) 활용법 연수 - 오토투데이",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQ3Z6Rm5MblRUZ3duelNUMjNTUUdfMFE4LUdqSkNnN3FzSjhzZUFsaWpyZTcwelhPSkVIM0F4LVZOZElxSjFLQUZjeTYxTzU0aFltZm1yRmZ2LTJoWFFmZ0h3aUQ1bm1tMWlUT0tOUQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "성남시, KAIST 손잡고 'AI로 지역 문제 해결'…제2회 인공지능 경진대회 개최 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtenZuck9Fam4xTkRkWm5rQVRILTU1VlpTa3B3cDZEWTBFazVrXzhRcDFKZDNDbnpKQjZNYkNTaFpRc2g1alFiTzVVeWdycTg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“인공지능이 만드는 비빔면·왕뚜껑”…팔도, 나주공장에 AI 시스템 도입 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CVWtPRWRHZnp3Y0ptMDRSUlhQY2RnV2d5UkozcDkxYzJ0Wnh3MzZjbmtwODZjdTdnWkFONXZ2d19LNVJWSW5TakZoNUJYdXFIV2hNVA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "성남시, 카이스트와 '제2회 인공지능(AI) 경진대회' 개최 - 뉴스파노라마",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XdE9rcEZUdEJTQWNWS256UzlzYVVLU1FGZVNRNU5fYUJsaUdxem5sSmJNdE1UMTV2cDVBZFdVUTEzdjhvV1l2Z1VaTDVlLTFqdGk5MEhqUWlzb0dUVVowdnF3RzZtalJnSC1OQkNqbw?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'오디세이' 10만 원대 티켓에…영진위, 특별관 암표 제보 접수",
-        "link": "https://n.news.naver.com/mnews/article/055/0001381685",
+        "title": "'제주 여성 실종사건 허위보고 의혹' 경찰관 직무유기 입건(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014133693",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“그늘, 시민 건강 지키는 도시 기본 서비스로”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002685565",
+        "title": "'김병기 수사' 다음주 경찰 수사심의위‥앵무새처럼 \"곧 마무리\"",
+        "link": "https://n.news.naver.com/mnews/article/214/0001518745",
         "source": "네이버 뉴스"
       },
       {
-        "title": "조희대, '대법관 서면 제청' 이유 질문에 묵묵부답",
-        "link": "https://n.news.naver.com/mnews/article/448/0000634322",
+        "title": "종합특검, ‘尹관저 이전 봐주기 감사’ 감사원 간부 2명 불구속기소",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653001",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주에서 실종 사건 임의 종결 의혹...경찰 재조사",
-        "link": "https://n.news.naver.com/mnews/article/052/0002394934",
+        "title": "'당근알바' 주의보…방문 메이크업 알바생 성폭행한 남성 입건",
+        "link": "https://n.news.naver.com/mnews/article/001/0016257749",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공무원 수사·소송 부담 던다…'보호지원단' 등 지원 강화",
-        "link": "https://n.news.naver.com/mnews/article/079/0004180039",
+        "title": "'수원 마약 좀비' 국과수 정밀 감정서 '양성' 나왔다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014133328",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 03:48"
+  "updated": "2026-08-19 04:38"
 }
