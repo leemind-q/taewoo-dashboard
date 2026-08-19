@@ -2,23 +2,23 @@
   "categories": {
     "IT": [
       {
-        "title": "전 국민 무료로 쓰는 ‘모두의 AI’…통신 3사, 카카오 AI 경쟁 ‘2라운드’ 돌입",
-        "link": "https://n.news.naver.com/mnews/article/016/0002685411",
+        "title": "통신3사, '모두의 AI' 사업 출사표…차별화 전략은",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563589",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 美 IPO 추진한다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563734",
+        "title": "카카오모빌리티, 美 증권위에 상장 서류 제출",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993804",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "한국피지컬AI협회, 25일 국회서 피지컬AI 최강 전략 논의",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434437",
         "source": "네이버 뉴스"
       },
       {
         "title": "IBM, 양자컴퓨터 ‘규모의 벽’ 넘는다…극저온 모듈 연결 실증",
         "link": "https://n.news.naver.com/mnews/article/366/0001187177",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "한국피지컬AI협회, 25일 '피지컬AI 글로벌 최강 전략' 개최…K-피지컬 AI 기술자립 논의",
-        "link": "https://n.news.naver.com/mnews/article/030/0003458495",
         "source": "네이버 뉴스"
       },
       {
@@ -29,18 +29,18 @@
     ],
     "반도체": [
       {
-        "title": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야 - chosun.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "전기차는 이미 중국판, 반도체 공급망도 새판짜기 속도 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZzhqR0tWUXdiQjJSamNTcktUeFFQel9JTTRkOVh0MThIWW1ITDkyazBtR3pEYTFsMkR0WmlNdWZXaWtGSGdncXI0Z0t4NHJqcU5DR3oxUE5yRWNHNzJBVmNtWEZKVUZEZnRDLXNtSWVDNUE?oc=5",
+        "title": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiVW5DdEhSUWtvNWpveG9QekNEakpUdERRb2pTLWJrTkV0aHlKOTZ1X1Z5aEVFYzYxVk1sd1dCaXVWWEJCMjlPSWhRRG8yUFU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -56,7 +56,7 @@
     ],
     "AI": [
       {
-        "title": "교육부, 인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리 - 뉴스체인지",
+        "title": "교육부, 인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리 - newschange.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPUEtacVNRX3ZiWU1hN3Z2NjdPSEtiOWh0VWlPYkdWV0hvT1I0UlZDd1J3eHdoU0tsdFhmMENKUEtqOFE1a282ZTg1bw?oc=5",
         "source": "구글 뉴스"
       },
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "대법관 최종후보 2명에 손봉기·김성수",
-        "link": "https://n.news.naver.com/mnews/article/082/0001394436",
+        "title": "박지성도 “충격적”…축구협회 ‘심판 성접대’, 결국 공소시효 끝났다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003671638",
         "source": "네이버 뉴스"
       },
       {
-        "title": "점멸 신호 깜박이는 교차로서 '쾅'...환경미화원 3명 사망 [자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395362",
+        "title": "'용변 실수' 손님 도운 버스기사…국토부 장관 \"마음 뭉클, 표창하고 싶다\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804872",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 쿠팡물류센터서 또 화재…950명 대피 소동",
-        "link": "https://n.news.naver.com/mnews/article/030/0003458738",
+        "title": "부산시, ‘민생재기 원스톱 100일 프로젝트’ 시동",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685495",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘서강대교를 넘지말라’ 외쳤던 조성현 대령 결국 재판행…내란중요임무종사 혐의 [세상&]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002685790",
+        "title": "술 취한 행인 부축하는 척 상품권 훔쳐 당근마켓 올린 20대 송치",
+        "link": "https://n.news.naver.com/mnews/article/421/0009121592",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전장연, '출근길 시위' 잠정 중단…\"박홍근 장관과 면담\"",
-        "link": "https://n.news.naver.com/mnews/article/057/0001964466",
+        "title": "선관위 특검에 이태한 변호사",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867587",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 17:28"
+  "updated": "2026-08-19 17:52"
 }
