@@ -2,40 +2,40 @@
   "categories": {
     "IT": [
       {
-        "title": "공기 중 미세플라스틱, 40㎍ 흡입하면 폐 염증 생긴다",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395432",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "‘모두의 AI’에 6곳 도전장… 카카오·SKT·KT 격돌, 네이버는 불참",
-        "link": "https://n.news.naver.com/mnews/article/029/0003042954",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "한국피지컬AI협회, 25일 국회서 피지컬AI 최강 전략 논의",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434437",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'모두의 AI' 사업에 통신 3사 총출동…카카오도 출사표",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804646",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "카카오모빌리티, 미국 IPO 추진",
         "link": "https://n.news.naver.com/mnews/article/009/0005723179",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "전국민 무료 '모두의 AI'에 SKT·KT·카카오 등 6개사 참여(종합)",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804333",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "전 국민 무료로 쓰는 ‘모두의 AI’…통신 3사, 카카오 AI 경쟁 ‘2라운드’ 돌입",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685411",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "미세·나노플라스틱의 건강 영향 시작되는 '기준점' 나왔다",
+        "link": "https://n.news.naver.com/mnews/article/001/0016258003",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "AI는 승자독식… 늦으면 ‘하청국가’ 전락[기획]",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043199",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tNXNBSFRJVUFacDJSdDdlcG04a2JtOVB5ZEZGXzVlV1RQMWJzS3lIOUpULWtRZC1sODN1SUhGekNmTFhQSWJPcHNEa0w5YUd3SklCM0RrWGNwUTduYi1GZTlaTzJ6T3Jvc3dQM1NrZ3RfWVdYQWfSAWZBVV95cUxNWUNRNE1ScE96S3I0eXBDMk8zUkVFUEM3LXlCV0k3akNma0xleXhCeE56WE9UQlpFYUd1aEJXRElMT2M5ZU9RZEh0V0cyblg4RHZHbWFaMUZqVUJEZTNjN2xJSlFMYlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tNXNBSFRJVUFacDJSdDdlcG04a2JtOVB5ZEZGXzVlV1RQMWJzS3lIOUpULWtRZC1sODN1SUhGekNmTFhQSWJPcHNEa0w5YUd3SklCM0RrWGNwUTduYi1GZTlaTzJ6T3Jvc3dQM1NrZ3RfWVdYQWfSAWZBVV95cUxNWUNRNE1ScE96S3I0eXBDMk8zUkVFUEM3LXlCV0k3akNma0xleXhCeE56WE9UQlpFYUd1aEJXRElMT2M5ZU9RZEh0V0cyblg4RHZHbWFaMUZqVUJEZTNjN2xJSlFMYlE?oc=5",
+        "title": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -61,7 +61,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "美 30세 미만 55% \"AI, 기대보다 우려\"…4년 새 24%P↑ - yna.co.kr",
+        "title": "美 30세 미만 55% \"AI, 기대보다 우려\"…4년 새 24%P↑ - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kT1pqN0sxYkRVOUMxUHlTNDNhZE9zQXgtYlNSSktSUWV4dFdLVXZYSjZmc1VwR2s1R01XMGJlbzFzT1p5b1pEcHBnNEFmTzd5bmJyZ2N0Tk03X0nSAWBBVV95cUxQV3l6OEVxSDRlNFROOVlMd0x1OHBUXzBVXzdKNmpVdmdaX2wzbmk1OXRzWlNEYWtJLU53azl6cy1mdjJ6X1YxVS1HVHVSaW9SamtMekVOblBycFUtdHFrczE?oc=5",
         "source": "구글 뉴스"
       },
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "백성현 벌금 150만원 시장직 상실 위기, 논산시청 '뒤숭숭'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014135669",
+        "title": "술 취한 행인 부축하는 척 지갑·상품권 훔친 30대",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043069",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'중수청 초대 청장 후보' 국민 추천 절차 돌입",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395131",
+        "title": "‘국회위증’ 조태용 前국정원장, 2심서 형량 1년 늘어 2년6개월",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741926",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북 영천서 덤프트럭·폐기물 수거 차량 충돌... 3명 숨져",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993717",
+        "title": "정부 “국민연금 주식 리밸런싱 유예, 지방선거 때문 아냐”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723014",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 원창동 물류센터 건물서 불…3천여명 대피",
-        "link": "https://n.news.naver.com/mnews/article/422/0000897365",
+        "title": "청렴 워크숍서 화투 도박 의혹…광주 소방관 6명 소방청 감찰",
+        "link": "https://n.news.naver.com/mnews/article/448/0000634469",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘미성년 여친’ 성관계 불법 촬영 20대男, 영상 공유했던 지인 공동폭행…사망",
-        "link": "https://n.news.naver.com/mnews/article/081/0003671744",
+        "title": "박홍근·전장연, '장애인 권리 예산 반영' 놓고 머리 맞대",
+        "link": "https://n.news.naver.com/mnews/article/214/0001518835",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 13:46"
+  "updated": "2026-08-19 14:36"
 }
