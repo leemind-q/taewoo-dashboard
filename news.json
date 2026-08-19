@@ -2,72 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "빅테크, ‘AI 개인교사’로 에듀테크 시장 공략",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152210",
+        "title": "카카오모빌리티, 1.4조원 규모 美 IPO 추진…비공개 신청",
+        "link": "https://n.news.naver.com/mnews/article/215/0001262900",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘모두의 AI’ 출사표 던진 통신 3사…국민 AI 플랫폼 레이스 시작",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043170",
+        "title": "전국민 '모두의 AI', SKT·KT·카카오 도전장",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563210",
         "source": "네이버 뉴스"
       },
       {
-        "title": "IBM, AI 코딩 에이전트 '밥 2.0' 출시…개발 병렬화·레거시 현대화 자동화",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238238",
+        "title": "오픈AI, ‘청소년용 챗GPT’ 출시…학습·안전 기능 강화",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354160",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 美 증권위에 상장 서류 제출",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993804",
+        "title": "\"누구나 카톡으로 AI 쓴다\"…카카오·LG 메가 컨소시엄",
+        "link": "https://n.news.naver.com/mnews/article/008/0005401830",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공기 중 미세 플라스틱 유해용량 제시 '장기간 반복 노출시 폐염증'",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563367",
+        "title": "미세·나노플라스틱, 폐에 유해 변화 나타나는 ‘기준점’ 나왔다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004152016",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
+        "title": "[영상] 코스피 5.8% 급락…여전히 반도체 좋게 보는 이유는 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aZVREQW9JbFpsVzRnT0NqbkpuOHRqclUtemRMMWUwY2RRX3JDMHpRdDdHVDJZWDBlYzU2TEFEMDgyOGJaX3NmUExnblhfYW8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TT3NhS1RGSFp4Q3U4XzVIcjk3THlLazljaVZ6b09OWkl4bkY3Y3hNNUxGY3RES0tTelJjNmdNR0t6eFJCc082Vzg2MndLX2hyZGhGMnBsWmlsWFXSAWBBVV95cUxOdVBBNlVMNVBBY0dLb3U5SkJOMUZtbW5xWW5kTWpnTEdaMDdYSkxHVURJbGtzZ19HTE9mSllpWTIxNk85WDZOSjlwMkxwSW90cDhXcGRYRzhwN01wcW1LX2g?oc=5",
+        "title": "같은 글로벌 반도체 ETF인데...\"수익률 6배 차이\" 왜[ETFvsETF] - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9id3FmTmpOY3ZuZ1pXam5YTUhnN050WXFyYUt5aENCalRkZlYyT08xRl9hWHhxajlUVGo2UzdjNzFoNzNjcUdiSFExRldwZ0pXeTdMaUlmX29vdUpwczB5ekRJeG10Sl9D0gFuQVVfeXFMT3U4M2p1dUxlcmVLRDhqd1ZLc2RMYks5bnMzR3J5TlQwQkVGdWNGcXVJNU02cVc4N05oN2NkNVh5eUtfSW44TUxEdjFiVGJpRzR2ckJFTE5IYW5ELTdXYXB6cy10dVU3SmRNcHNGU3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "구글-마벨 AI 반도체 동맹…최대 17조원 신주인수권 계약 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TzFIdnRuRG5GRnFqQkNkQnNlZjhSenk5X2dveTNibWVOd1puVC1TOXd5aG5JbnY2VGJZNTZkVDNrNWJKNU1EemVpNHlFdnN4Ul9qLWd3SEc5OUZIR2RKc2tqS1FzNTVa0gFuQVVfeXFMUG1IZlY3c19MV0g3eHUwZVRDYjZpSWVtZUoxWEFKTEcxQXVmcnVjX19qRzM5dmt1cWYwbTMxUzhDYmdrRXZIUWRCVmlCMEpGRmlRWmJLRFB2UEltRXd2Y2kyaEo1S1JucGZUMy1DU1E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "구글, 마벨과 AI칩 동맹…최대 122억달러 지분매입 옵션 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04THJxUUxiR01tNm9KTldvcVZlbVd0VDByX1EwcUJ5Sjctb2tpdjdnZ1FQNE9DVEJjbjZKa2NITnhWeHdtVnZIamtSRmN1SGM?oc=5",
+        "title": "반도체 일자리 8000명 늘어나는데…5000명 감소 전망되는 업종은 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcHU2Vm1YS05XSzB5cXFIYmlwUVE5ci1ua3RlaHBVRHM3TzExdXYtX3lyMFVoSVFFSVJjYmJZVVlIeUxPdXdjaGhIVmw2VmNhR2c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adUF1LWZ3UmpWODA2NzZlbjdvdjRObThJU2Y4SzRabkRRbW95TWpERFpma3hURU1ZVGV4ZEIxN2NOODFPVTV4UVBReUdlbm8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "교육부, 인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPUEtacVNRX3ZiWU1hN3Z2NjdPSEtiOWh0VWlPYkdWV0hvT1I0UlZDd1J3eHdoU0tsdFhmMENKUEtqOFE1a282ZTg1bw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95a19Tbmd1M0psMlZyblhibUgwSjdadEM1NGJPUHlmNVZKWFN1Q3VKSXk4NU5Xa1dVUzh1Z1NscWpFU29QTC02YU9xUS1tMDg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -79,35 +74,40 @@
         "title": "[뉴스로 보는 베트남어] 베트남, 2030년까지 고수준 인공지능 인력 1만 명 양성 목표 - 인사이드비나",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNVE2Ykc3RGp3eGJ0ajdBNUUyNG9iS0VrREFpRi1JdHdDVVgtT0J6NzZGMnpqWWl6cUlReEVhdnJGUENLaXRsRlkyYkpLZXNNbHFWaUx4YVJ1RkNzVTdrby1VbjJmQkl4bFR6RQ?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "달성군시설관리공단, 인공지능(AI) 자율주행 안내로봇 첫 도입 - 시사뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XTTJNZFZHYnRtMUpzQzRrRW85Q0tqNmJ3eDY3SFI4ajV3bVo0cG0wRjU0Mjc3OGJDSTg1VWczelM0dzFFcW5GT0ZRdDI3TERUNGZYUlZVNHRidGdPcThieHdPVQ?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003741923",
+        "title": "지방 의사 월급 1,300만원→3,300만원 올렸더니…지원자 0명→6명",
+        "link": "https://n.news.naver.com/mnews/article/422/0000897289",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전국 곳곳 비·소나기…오늘도 무더운 날씨",
-        "link": "https://n.news.naver.com/mnews/article/032/0003465014",
+        "title": "‘전경예우’ 제동… 퇴직 경찰 ‘로펌행’ 77% 미승인",
+        "link": "https://n.news.naver.com/mnews/article/022/0004152129",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"서강대교 넘지마라\" 조성현 결국 기소…내부고발자 뒤집은 종합특검",
-        "link": "https://n.news.naver.com/mnews/article/422/0000897371",
+        "title": "백성현 논산시장 선거법 위반 혐의...오늘 1심 선고",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395534",
         "source": "네이버 뉴스"
       },
       {
-        "title": "적극행정 공무원, 무죄 확정 전에도 변호사비 지원받는다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016258431",
+        "title": "종합특검, \"서강대교 넘지 말라\" 조성현 대령 '내란 혐의' 기소",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563618",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘110시간 화재’ 인근 쿠팡 입주 물류센터서 불…자체 진화",
-        "link": "https://n.news.naver.com/mnews/article/081/0003671745",
+        "title": "김병기 수사 11개월째…경찰, 수사심의위 상정",
+        "link": "https://n.news.naver.com/mnews/article/422/0000897443",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 21:52"
+  "updated": "2026-08-19 22:27"
 }
