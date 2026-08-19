@@ -2,67 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "AI 서비스부터 인프라까지…KT, 16개사와 '모두의 AI' 도전[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016258338",
+        "title": "양자신호 해석 걸림돌 '맥놀이' 발생 원인 밝혔다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354003",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“리사, 뷔가 낀 반지 이거라고?”…‘오우라’, 한국에 진출한다는데",
-        "link": "https://n.news.naver.com/mnews/article/009/0005722328",
+        "title": "독자 AI 파운데이션 모델 2차 평가...모티프테크놀로지스 탈락",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395182",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부모가 차단 가능한 청소년용 챗GPT 출시",
-        "link": "https://n.news.naver.com/mnews/article/018/0006353829",
+        "title": "KT, '모두의 AI' 출사표…서비스·모델·인프라 아우른 AI 연합군",
+        "link": "https://n.news.naver.com/mnews/article/421/0009120579",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI로 공공서비스 바꿀 창업 아이디어 찾는다…거브테크 경진대회 개최",
-        "link": "https://n.news.naver.com/mnews/article/003/0014134971",
+        "title": "과기정통부 ‘2026 GovTech 창업경진대회’ 참가자 모집",
+        "link": "https://n.news.naver.com/mnews/article/119/0003123044",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 미국 'ISE 엑스포' 참가…중소 협력사 수출 지원[테크스냅]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016257832",
+        "title": "\"퇴사한 경영진에 수십억을\"…카카오 노조, 발끈한 이유",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322327",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[뉴스프레소] 글로벌 국채금리 급등 '비상'… 나스닥, 반도체 주도 1.3% 하락 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iUExsRnRHbzQ0TTZQaTZ3RWpIZ2dETDU0RjdSVVhzTGFGbDhhUUFuZEZGT3RDUFNzNzNxdDluVVFkS0YyRGs2UmJuaHpDOXhZbmFVXzNHNUFVZDh4bS1aVGQ5dy1yaVFR0gFuQVVfeXFMUG9rV1lSQ2U5bGx6OV9lQnpYeXdDdUVUYndVSHk1UmdsZVhhWXE2ZmhRWExEU1VvV2MwSjdJUWxwdHlQVlJvWDlMZ3ZiT05VTnVySm1rUFBIY1lISEE5UkxiYVhWM2wxN25ZVTN5MWc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUGJiM3VYbHRDc0N0ZGxURnE4OF9WSUJ0aU5LR0pDYTloNEVacFFpeVpUN1RGVlBHLWRROEdveGU4T2Q1cEZNb2xFN2tOOWgxbFB3dDBtZkZVRE5ySVlhTFJkeThlN2tTR0QxTzQ4Z0k?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "아시아 증시 급락, 반도체 셀오프 심화…코스피 5% 폭락 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03VldnNjB1T1lQVFpHN0ViU3NqampkRk5RVVR1bGk5S1RXalQtMmpSenNrVDdIUGlLOGg3dUZSYVVXeEwtTDRSV1EtMWh5S2NhUzY5VkhlbmVPMVJUbTJLVGtTcWV6bUQxelVSVnJmQUs?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "미국 반도체 지수 5% 급락…장기금리 상승에 SK하닉 ADR 9%↓ - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidEs4a1NPT0FOcnBUa3ZrVXVpU1RmQXRjWk12dzdOZnBXaTJib3ZsQ1FfQlcyQ1VRc1Z2bWZFdUIwMEtzUVdYRlRPZ0ZraVoyeXFya1N6X3dwc25UZjhrRkJCNklXQ2fSAWxBVV95cUxPcXgxc216LUIzeGRjWFZSQnJFY3RLSVNCMlZ4aFhyWmFmalpPNmxsMXRNcGo1aVRvWVhzTXVrZ0lHam92cUJrSHY0TmNQTHh6SnRwVFRZRnp5YWU2WHptZTBtdXM3TTNmc0M4b0g?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "용인 반도체 송전망 따라 걸었다... 거제의 폭우가 던진 질문 - OhmyNews",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96VEo1Rm1BZUlkWkI5MmFTTE1NM0NhZ1lSMkNkeVZrYTJkTkZreVkxUUVWZ090RHF2QlZGVEpHR0w3Q1ZaVHR5SU9jMWlIWTNGSlZLWTFfNmtrZEhfOEZsMUhMNFltaEk5MXlOVllTbmZhdzlxZU1F?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“재벌 이득 위해 주민 생존 위협”…커지는 용인반도체 반대 목소리 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3b1dNdzRMd0tha1dsWlo4YXBpVnBsdllWQUQ3aEgwMlZQRFJ1OFNWcUdHZ1pINmg5S1NvU3RSQVMzTmlxbS10R3dyZXFCYjJlRDRyc2Nub1lZRHNTY1FMMkxVbw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04QjFsSjh2SkRFcjFiSnpPV2FRT0RZcWpJRVBNRC02dDRDWHAzdE5FWTlOemtpWEwyWWZOWXp2cEwwM3IyXzJvVkMtaHcyNWc?oc=5",
+        "title": "\"용인 반도체산단·송전탑 백지화\"…전국 시민단체 집회 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCTVVzNHJJQWtCNjFxQ29uUG1fUzhQdFB5WEJCbUlyM0RxaUhJMkhHeUEtVFhNMDhwaUEyRXROZUtRT19oTWE0a3lWV21SV0NSTEJ6aUJXXzBjYlXSAWBBVV95cUxOcVY0OS05LUE5OEpoWXhTUTVPeTk1clNLbUdvdDBlY25KTXhzSUM4QVNnU0c5eGNuMFNsU0czLVN4dGo5MGRTSEdPVW5tbktMUld2dmFMTnM4MndReElOVWs?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "AI 시대…종이책 희귀본이 파쇄되어 사라진다 - 조선일보",
+        "title": "AI 시대…종이책 희귀본이 파쇄되어 사라진다 - chosun.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTFmZnlCUkxLMktlY0tqanA5RkFyZm1aTTR4TUNOVENPc05yZkpHVUh5ZHYxTlBWY0hpYmNUdkg3bEdSbzRBVlBzbXFtZ0VUWV9LTTQ4blFrVTRneHBNVlZlelJqWTEzRHpfRjQzNFlMMlcwanptU294Z09Xc3Z6OS1RTW1IaURJb2pxcW1B?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "‘인공지능(AI) 고(高) 노출’ 업종 청년층 취업 급감, 걸맞은 고용 대책 마련해야 - 시사프리신문",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MnloR0Z6THFzYXR5TG1BWVhkZjk4SmlPaHYxdVhXZmcyRXFZOWdyWmU4bVo3WkpSMmVJUVYxVTVSZEdyYWlaNXVRTjlXWVlBRWJhdExPQVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "교육부, '인공지능 온이음' 사업 추진....취약계층·취약지역의 고등학생에게 교육 프로그램 제공 - aitimes.kr",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yR0pGVkVHdWg3bU9BRmdWanN0a1FMd2ktQ3NaSWc5MmNxOWRNU0FCa1UzUnFJNFJYVWloRTJLbndlVWNpbDhCTWhtV3d4dkJYQmRUWGVKeU5GNURxVTNIN0lHb1MwTUU?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "공공 혁신 스타트업 잡아라…정부, AI 창업 아이디어 대전 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RTUVHRW14QU5kWXBYc0h6YVpXNHZpWTB5N1J5SUdSWEczeHY3V3RDaVlhaDVpZVdPeHh2U2h5YzFGODNYbW1Ca0Q5ZUk2TkQ2VHdVVjk0bVA3UnPSAWBBVV95cUxPakRqMEpEbjRlV0JRQVowS2dGX0pDVGV4eWlLWG1HZXcwOGs3RW9yV0UybzUwUkp4WndWeGtQSGpHbjNPME1FMkxobm1CQzlVRldLN21FcTlTeGVvQTQzRDg?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "인천서부교육청, 생성형 인공지능(AI) 활용법 연수 - 오토투데이",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQ3Z6Rm5MblRUZ3duelNUMjNTUUdfMFE4LUdqSkNnN3FzSjhzZUFsaWpyZTcwelhPSkVIM0F4LVZOZElxSjFLQUZjeTYxTzU0aFltZm1yRmZ2LTJoWFFmZ0h3aUQ1bm1tMWlUT0tOUQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'제주 여성 실종사건 허위보고 의혹' 경찰관 직무유기 입건(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133693",
+        "title": "초대 중수청장 국민 추천…SNS 공개 추천은 제외될 수도(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354037",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'김병기 수사' 다음주 경찰 수사심의위‥앵무새처럼 \"곧 마무리\"",
-        "link": "https://n.news.naver.com/mnews/article/214/0001518745",
+        "title": "조희대, 청와대와 조율 없이 ‘대법관 서면 제청’…여당 “탄핵 검토해야”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819071",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, ‘尹관저 이전 봐주기 감사’ 감사원 간부 2명 불구속기소",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653001",
+        "title": "여자화장실 침입 혐의 경찰관…‘실종 사건 허위 보고’ 의혹도",
+        "link": "https://n.news.naver.com/mnews/article/056/0012239481",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'당근알바' 주의보…방문 메이크업 알바생 성폭행한 남성 입건",
-        "link": "https://n.news.naver.com/mnews/article/001/0016257749",
+        "title": "“출장 메이크업 구해요”…‘당근알바’ 지원자 성폭행한 30대, 경찰엔 “무고죄”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685543",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'수원 마약 좀비' 국과수 정밀 감정서 '양성' 나왔다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014133328",
+        "title": "거제시장 \"폭우 피해 너무 커…특별재난지역 조속 선포해달라\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016256834",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 04:38"
+  "updated": "2026-08-19 05:32"
 }
