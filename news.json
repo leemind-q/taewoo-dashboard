@@ -2,40 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "미세·나노플라스틱, 폐에 유해 변화 나타나는 ‘기준점’ 나왔다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152016",
+        "title": "오픈AI, 청소년용 챗GPT 출시…안전장치·공부모드 강화",
+        "link": "https://n.news.naver.com/mnews/article/079/0004179880",
         "source": "네이버 뉴스"
       },
       {
-        "title": "승부수 던지는 정부… \"2030년 글로벌 1강 목표\" [AI포럼]",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043185",
+        "title": "KT, 국산 NPU에 자체 LLM '믿음K 2.5 프로' 탑재 제품 출시",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353993",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 18세 미만 추정하면 '청소년용 챗GPT' 자동 전환",
-        "link": "https://n.news.naver.com/mnews/article/008/0005401640",
+        "title": "'모두의 AI' 사업에 통신 3사 총출동…카카오도 출사표",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804646",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 국산 AI반도체·자체 LLM 한 서버에…'모두의 AI'에도 활용",
-        "link": "https://n.news.naver.com/mnews/article/003/0014134205",
+        "title": "“최악의 미세플라스틱” 폐 염증 유발…최소 유해용량 ‘40㎍’ 미만 필수",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685691",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'모두의 AI' 잡아라…SKT·KT·카카오 등 6파전(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016257297",
+        "title": "'모두의 AI' 사업에 카카오·SKT 등 신청…네이버는 불참",
+        "link": "https://n.news.naver.com/mnews/article/215/0001262752",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - donga.com",
+        "title": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼성전자, 평택 반도체 신설공장 ‘3층 팹’으로 확대 추진 - 동아일보",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tNXNBSFRJVUFacDJSdDdlcG04a2JtOVB5ZEZGXzVlV1RQMWJzS3lIOUpULWtRZC1sODN1SUhGekNmTFhQSWJPcHNEa0w5YUd3SklCM0RrWGNwUTduYi1GZTlaTzJ6T3Jvc3dQM1NrZ3RfWVdYQWfSAWZBVV95cUxNWUNRNE1ScE96S3I0eXBDMk8zUkVFUEM3LXlCV0k3akNma0xleXhCeE56WE9UQlpFYUd1aEJXRElMT2M5ZU9RZEh0V0cyblg4RHZHbWFaMUZqVUJEZTNjN2xJSlFMYlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+        "title": "차세대 반도체 기술 ‘구리 접합’ 정현학 교수팀, 성능 개선 성과 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVlDWGpiblIwQWw0b2VKYXlMeGM4TzBOVXA1ZjZwcHpHOUkzaEptWF9LdW1valo4Uzg5Sl9abVU2MDRlNExjQUlDSFRXMzFWVm5hSGUxYm0xSlNPbEYzd2ZXN0pnZ0J0MmdRX1lXNGlKOGFfODRFS0NBYWhSRFVGdWdtdm0zQXVTSEliajVsQkxEUmlrNXI3R0N1dGNKV2JEd1A5OGZGVFpSWDTSAV9BVV95cUxQSW8yZ0FkVDRrLTFlWGZLVlF3TjlHQmk0VjBZOHEtdVFram5YcVpFMlluMmlpenhHTkFpU05JWVY3dEpaWm9zOXlZRmpFMGY3QVFtblhHYkoydXFsT0Z6TQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -47,26 +52,26 @@
         "title": "“용인 반도체 산단 백지화”…전국 돌고 청와대로 - KBS 뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QMlEzanFtSE8tS1JVSVNuYlNhQzVlWDg0LTRDdHVMR3JFZXBUMTh1LUhGLTRXR0h6RHpRWFNLdUp0VnVLYVZkT3BWazZ4eUFjRW1YUkI1SG9VY0k?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황의 역설..'칩플레이션'에 눌린 삼성 DX부문, 점유율 확대로 돌파 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hU0ozbE9sQk92N05xck9JTjNpQTJJa1hxX3p4a3JTNWdhRjhsTzZNNlA5TmVpWEp2cmpfYURVVmc0SmsyX29PU294azMwcXUwOHEtQThLNl9tWUoxYWkxcmljUDF0VlIzaE5GRtIBckFVX3lxTE9rcmVnUTJvMDhXOWVrejdOREVGOGh4YnJxa21LMkE4cjY3ZENSXzdTV2xIeDFFS211dVhRSmdwR1lkSXEzdm1lbFlaN0NTWUc5WkxPNUt2NmVlRm0yXzNxaUo4ZFhHcTJ4ZWhVLXRHLTdGZw?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "서원대, AI로봇학과 신설 앞두고 한국인공지능융합기술학회와 맞손 - 한국대학신문",
+        "title": "서원대, AI로봇학과 신설 앞두고 한국인공지능융합기술학회와 맞손 - news.unn.net",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mTTBibW5HR0t6emFObjVfSEVwcllDUEF1Y1djNy02VTVJOFpzTkdsc3N0UDYyTS1SYVIwd2ZGLXJSOEtfNzdyTnJxUlg2ZnZheXNQMEZhZ0FWOHozMjZmSVZTSGkwdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "美 30세 미만 55% \"AI, 기대보다 우려\"…4년 새 24%P↑ - yna.co.kr",
+        "title": "美 30세 미만 55% \"AI, 기대보다 우려\"…4년 새 24%P↑ - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kT1pqN0sxYkRVOUMxUHlTNDNhZE9zQXgtYlNSSktSUWV4dFdLVXZYSjZmc1VwR2s1R01XMGJlbzFzT1p5b1pEcHBnNEFmTzd5bmJyZ2N0Tk03X0nSAWBBVV95cUxQV3l6OEVxSDRlNFROOVlMd0x1OHBUXzBVXzdKNmpVdmdaX2wzbmk1OXRzWlNEYWtJLU53azl6cy1mdjJ6X1YxVS1HVHVSaW9SamtMekVOblBycFUtdHFrczE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구축 본격화 - aitimes.kr",
+        "title": "교육부, 인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mSWZmTjlLWVRCNk1SeERUUFk1OENTV1ZCcHFyMkdlbWhjMnRlTlFvaG1zclF4NnVveXZmQ3VBYXloRGhZd0VHZ0dObEZnWm9vZU4wbE9nNDhWWEZjb3lodWdJaDlZREh0YmYxMFFyUE1LdXZT?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구축 본격화 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUVlMweUNzS1JUUEhRdzh6UXhLRGd2d3o1Ni1LUXB2WEZlRVhQMEh0U2tvVWswUVZ3OGNqX2UzMm1pMXBLQk4tOVR1ak9rZTVxR1I1eUNELU9OM0VZYk5PQy1reGZKNkU?oc=5",
         "source": "구글 뉴스"
       },
@@ -74,40 +79,35 @@
         "title": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 한국방송뉴스",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45eExPSG5adVVrV3dxeXNTeDlEODhqcUYzNkdLbkJLS09vY3ZRVi1NeV9nZS0zb0JuRW1CQVlUdnhhR0Y1VUQxSFJlOXFLdmE4RjFwbkNSS2RLS0pmRlE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "한국과 중국, '피지컬AI 파트너' 될 수 있을까 - 시사저널e",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtQmhnWE9VcGZqd1RNWndLSUw5MHBaQURnTHNqQk9JRlZRa0JxcndwSEs5Y255eTkyT2lWanNWaFNrbTBGdWdzSExpNlh5VF9VSzNaVWhwX1ROMWM5dVFPRDlTYmthNUtvZnM0XzNqWEpnd9IBdkFVX3lxTE92bFVRcVo4UnNOUWwzbHhzMFBpNWNFdm54UXVUa1Z0anU1M19QWWVMN3QxYS1nYlp5cWtQMDlQUjcxc3hBYVpYOVVaSTVMdjJIYkVEeWVEY0xjOHltcURVVWpIT21aSWZzMzcxMlBNMVc0U3I2S2c?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"예산은 협상대상 아냐\" 박홍근 만난 전장연, 지하철 시위는 중단(종합2보)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016259820",
+        "title": "\"내연남 아기일까 봐\"…'출생 이틀' 영아 살해한 친모 구속기소",
+        "link": "https://n.news.naver.com/mnews/article/001/0016259165",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충북도, 전국 지자체 일자리대상 특별상 받아",
-        "link": "https://n.news.naver.com/mnews/article/001/0016259511",
+        "title": "\"국민이 추천한다\"…'초대 중수청장' 26일까지 후보자 접수",
+        "link": "https://n.news.naver.com/mnews/article/656/0000184403",
         "source": "네이버 뉴스"
       },
       {
-        "title": "백성현 논산시장, 명절선물 돌린 혐의 1심 ‘벌금 150만원’",
-        "link": "https://n.news.naver.com/mnews/article/081/0003671645",
+        "title": "‘명절 선물 제공 혐의’ 백성현 논산시장 1심서 당선무효형",
+        "link": "https://n.news.naver.com/mnews/article/009/0005722932",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리센느, '원이 고향' 거제 수해 복구 위해 5천만원 기부",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395431",
+        "title": "서울역 앞 버스 가로막은 전장연…출근길 5분 안팎 지연",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867680",
         "source": "네이버 뉴스"
       },
       {
-        "title": "복지장관 \"국민연금 리밸런싱 유예, 시장 변동성 고려 조치\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395394",
+        "title": "이태한 선관위 특검, 합수본 예방…“기존 수사인력 합류도 검토”",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804672",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-19 11:27"
+  "updated": "2026-08-19 11:53"
 }
