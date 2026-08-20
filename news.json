@@ -2,62 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "강남 달리던 카카오 자율주행차, 2대에서 6대까지 확대된다",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238330",
+        "title": "SK텔레콤, 23년 만에 3G 서비스 종료…신규 가입 중단",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322683",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'국민 메신저' 잡으면 승자? 6개사 맞붙은 모두의 AI, 어떤 전략 짤까",
-        "link": "https://n.news.naver.com/mnews/article/008/0005401947",
+        "title": "이노스페이스 '세빛' 첫 시험비행 조기 종료…궤적 이탈해 FTS 작동",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804994",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 국산 NPU·LLM 합친 완제품 출시…소버린 AI 공략",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563386",
+        "title": "KAIST \"산소 전용 통로로 3차원 AI 메모리 새 장 열었다\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009122909",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 27일 '갤럭시 S26 FE' 공개 예고…플래그십 AI 대중화 승부수",
-        "link": "https://n.news.naver.com/mnews/article/003/0014136920",
+        "title": "시간 거꾸로 돌려도 똑같은 양자세계…'시계' 붙여 방향 찾았다[과학을읽다]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005804938",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 1.4조 美 IPO 비공개 신청",
-        "link": "https://n.news.naver.com/mnews/article/003/0014136376",
+        "title": "SKB, '서울국제여성영화제 상영작' B tv 특집관 운영",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137005",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"엔비디아 과의존 낮추자\"…정부, AI 반도체 업계와 머리 맞대 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZTzRaYS1ZWkd4WGd4NU1vLTVkNWxOX2tHSXQ5elRTVWFoN1B6Q1pyVUlfdE5kVTJRSlI5TDNoem5NN0g4NTBTRldTZDFYekk?oc=5",
+        "title": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑ - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "제4대 AICA 단장 “누가 올까” 관심…2단계·AI반도체·독립기관 등 현안 산적 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wMXhhcUdyOEdzTnpNb1lTWk9Rcm9FTkdwVEU4b0cxcGszcFVseE5BaGgtWVdRLU5RVnU4d0JhOE8tLTJrZzFNQmh4ZEo1QQ?oc=5",
+        "title": "DB하이텍, 인도 전자산업 전시회 참가…현지 반도체 시장 공략 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR2ZZQkJoUWJnaWJ0dzJsNFp3b0VZUVp5VmEzMzctcVZrME9CQm9xaWZBb3pzSndWcmxuTXY1ZWVrVXhiS083M0tMSnVPbmtqTklZNzFCRVdKUmvSAWBBVV95cUxOSTMwazVSakswa0VCY3pRanZ6ZVp1c0JMc2pIVHBFc3haa1pFQlFMbjhZeWNnNVZQSlNnTnNlQjNqUHItWnBVQlZRQnpGY1JqUENYVk1keXZ1dXMwVlZRN1g?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'3차원' 수직 적층 반도체 안정화…\"산소 터널로 난제 해결\" - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HMzhjS1p3U3c2dTFzX0IxOVl6YXZqNXhTeWswRVdBVzlSay1CQkM3YUNmaFNieW1yZ1NYRnBOSW1sR082WXFZYUg3ay1fYU52TGRZdkk5dURpajVCaGF0cA?oc=5",
+        "title": "전북대, 강유전체 AI반도체 성능 저하 규명…방사선 환경용 반도체 소자 설계 새 요인 제시 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SE9TTTg0RjBxSDZhS0Y4Y0JZNmlGQmFPeU5JRlhGVkhTSWU3M2xfVkJDV0tCUU55MHhHTC04VlFSbWU1clpnV041VDlHQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "교과서 밖 반도체 현장 노하우...한국공학대, 'SeMI DAY 콜로퀴움' 개최 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TWGFvZm1zNmViRWRzdGRVSUJvOGU4WXRieEZkVjNnTTExOHBqVW1sblZiLVl0a2xxU0J0cTZRYk5XZk1SSnJBUzdHM1lTdWNWbUxTZ1VXZlNCZmtoYmt0UThCSFFNOGJoelHSAW9BVV95cUxNWjdfdzRmSVl4cGVVb0NEV3YtY0Q3NlNnU1hiQktqVmlFMkI4NWhVOXQ0dGZXNXo5bHpnY3ozdkp3Z2U1TUQ5NXVkVjUxOTNscFEtQ1pxMnFUQ1VLb21ZVUVoaGJPbWRGb2RoYm1CYmM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "인천항만공사, 인공지능 전환을 위해 생성형 AI 실전 적용 - 인천뉴스",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2Zm4zbUc2NHl2Y0NuTzNPTFhkT1R3WkZ3aG9hT2NCMEZ0R1lhSk5CX3czZ3F5WDduYVdibklyZTRERkVEaHN1ekNpMU9wLXRUNkI5RGNkVXdXbGRfNkVpYmVIT0xQd0ljVU1xSGN6aw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "교육부, 인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리 - 대한민국교육신문",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CUXJCcERvNU5VT3hMVXBEUFY0SlI5MXc5VmhldTF0d25tbFdVM0VPd0I1NTdVODNFSjdOd2MyU1R4dWNSTTE2Zl9NSUdFdmZwbUlkek1ycEl5T3hVWDQxenlOSQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNkRVa2ZsWkFZQmYyRW1WMTZDSU9ZUE54QlVWdkRnaU1HVzBCS0VBX2p4QVhsZk9XTTFoeWd0VEJ2cGJ2eFpJTmxiN3EtZVVzWmdFS0VoaTRfYkE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "KT, 인공지능 스타트업 16개사 선정...미래 AX 사업 발굴 나선다 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xRmZjV0FKUS13ZlVydUZWWHlsSmQwTDlSb1hSaWRRZThsT0F0X05uaTRSTGJfa21fNWFqZUFFNEFzNGhMS2h5eDFwd0pDR1E0WjgyNlF3QThFTjcwdG5Xdm1CME9Wc28?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SK하이닉스, 차세대 AI 연결기술 '네이처 일렉트로닉스' 게재 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54YTRUWTNnN0h5aUJCQ3N6MmNUM3A1a3Z2RjMwYmdnOXVYdVdxbzZSMy1KZFZsZ2ZfRXA2Rl9ncEtGdExvM3FrYmo0OE9ma3NWN0ZiWlM1ZUMxMDjSAWBBVV95cUxQNEpVWDB4QUhGYkRmOHdXR0dLcjBpWDBnVTJqQklUaXBFLW5zQzZ0b0VIa0Y2Z05JRlZ5Yk1MQkxvT1NockF4VkxiQjloX0d5UjdXcmFvRWFkV3hQRXotd0M?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "민주당 충남도당 \"당선무효형 백성현 논산시장, 사죄하라\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014136453",
+        "title": "실종 신고 당시엔 휴대폰 켜져 있었다…'통화 기록' 열자",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382007",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘새벽 청소’ 나선 영천 환경미화원 3명 숨져",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867875",
+        "title": "한변 “민주당, 대법원장 제청권 행사 사법농단으로 매도...사법부 겁박 규탄”",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993959",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"대학 이권다툼에 30년 숙원 날릴라\"…광주시민사회 \"대승적 결단하라\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002452677",
+        "title": "충남 내포어린이병원 위탁 운영, 연세→단국으로…2년 뒤 개원은 유지",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819317",
         "source": "네이버 뉴스"
       },
       {
-        "title": "술 취한 행인 도와주는 척···‘부축빼기’로 훔친 명품지갑 중고로 팔려다 덜미",
-        "link": "https://n.news.naver.com/mnews/article/032/0003465144",
+        "title": "공공기관 이전 먹구름…울산시 ‘유치 사활’",
+        "link": "https://n.news.naver.com/mnews/article/056/0012240878",
         "source": "네이버 뉴스"
       },
       {
-        "title": "집에서 지하철까지 뙤약볕 안쬐고 걷는다…서울시 ‘그늘보행권’ 도입",
-        "link": "https://n.news.naver.com/mnews/article/009/0005722819",
+        "title": "추석 앞두고 민생지원금 추진…\"우린 왜 안 줘\" 불만도",
+        "link": "https://n.news.naver.com/mnews/article/055/0001381985",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 01:21"
+  "updated": "2026-08-20 02:38"
 }
