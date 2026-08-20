@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "23년 만에 역사 속으로... SKT, 3G 신규 가입 중단",
-        "link": "https://n.news.naver.com/mnews/article/469/0000949069",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카카오모빌리티, 미국서 IPO 추진…카카오 \"발행규모 등 미정\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0004180722",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "방미통위, 유료방송 산업 활성화 위한 협의체 구성",
         "link": "https://n.news.naver.com/mnews/article/052/0002395878",
         "source": "네이버 뉴스"
       },
       {
-        "title": "GPU 일변도 벗어난다…정부·AMD, 국산 NPU 실증 본격화[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016260410",
+        "title": "40㎏ 쌀가마니도 집 앞까지 척척…드론·로봇 '찰떡 배송' 뜬다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "드론이 옮기고 로봇이 집 앞까지 무인배송 시대",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723671",
+        "title": "AI 개발에 개인정보 활용 길 넓어진다…'공익적 필요' 땐 허용",
+        "link": "https://n.news.naver.com/mnews/article/001/0016262084",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459047",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "[단독] 카카오, 긴급 직원 간담회 공지...카카오톡 분사 발표하나",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994044",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TT3NhS1RGSFp4Q3U4XzVIcjk3THlLazljaVZ6b09OWkl4bkY3Y3hNNUxGY3RES0tTelJjNmdNR0t6eFJCc082Vzg2MndLX2hyZGhGMnBsWmlsWFXSAWBBVV95cUxOdVBBNlVMNVBBY0dLb3U5SkJOMUZtbW5xWW5kTWpnTEdaMDdYSkxHVURJbGtzZ19HTE9mSllpWTIxNk85WDZOSjlwMkxwSW90cDhXcGRYRzhwN01wcW1LX2g?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 '성과급' 요구 - JTBC 뉴스 - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "957조 반도체 팹 투자 시동…K-소부장 \"실증보다 양산 데이터 중요\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcnBpTW04Um1lRTE3eVdBQmdOWk03Vl9xUE1mYUpFRHkxSEdJRUlTdDh1ZjI5QTFTbGV2SXFUeGh2VVAyeDJad2d5NDhIcEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "호남 반도체 팹, 2기 추가…“원전·LNG 늘려야 전력 감당”[Pick코노미] - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Nm5wWDdFdHRUYTdtSGVQeW56NG82N25tRnRySlJrYkdvZUpGT1dWWEFNZE1SR09COVpzcUF4VG43MmZfRFFkcGNzZUtMSGtfOVE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "신한금융 \"반도체 수혜 편중…외형 성장·체감경기 괴리\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BMGh1bjhPSmxiNm9Mc2VPZXZXWEI3dVNqQ3RLX3dZU3JxZ0VudE9WZlY3RXBYNTk2WWZpaHprSjNxd04tbF83ZElSSEpzMUdaYzJmTjB0cTQ3NTA?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Z3JJYW1Rc1hBVW1NdzlFSUlrT3NDRFJYU2c4YjF2UzZqR2JzMGFOUWNtaDlYQnQ1OWVhZ1EwdWNtcGNmUHRxM2hDeVJTSEdPT1BINkhmTEk5TVU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[AI 리뷰] 손정의 회장, \"인공슈퍼지능 이코노미 도래할 것!\"…2040년, 세계 GDP 20%가 AI로 대체 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOHBtNklFSTlOQUs3aVhndVQ5Sm40dk94bjE2SzRNc0JmbllrVFROeTgyZ3JDTVk1REZBMTNvU3A3MFJvSmRHR2xHd0ZJVlZkUW12UEtheTlMbVR1dG1UbkFMMVQ4YXM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 개발에 개인정보 활용 길 넓어진다…'공익적 필요' 땐 허용 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WZkZvZkxjU3JMQ1VNVThUYXY2SkcxSlFvUjZiY0RDRTBxdGh5MW5yaUFYVklZU3lkWnhsMWs4Qy1hWlZwcFJkdGg3a3dUdi1JVEdrWWJWLXowbVnSAWBBVV95cUxQZ01XVjBua19jVUstYUdkUGtlSkVTQ0NtYmNkd2s3M1Jobi10dFFkdWtKWkg4R1Y1dlpfVTZuV0pYQUhfbFlMVnVmTVhTVGhfN2EwWWZGbUV6a1JBeDBYSGc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인천항만공사, 인공지능(AI) 전환을 위해 생성형 AI 실전 적용 - 쉬핑뉴스넷",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBER3M1SnowbU5BbXY3UFR4Sm1DaHVrbDRzS3d1bG5WT1pvMmNJT0gxVnEwSDZZdXBMR1dNYzJ4YThyX1hsb0Voc25RZlduM1ltZTRMUWZtNHE0Rlg1ZjFzdXR4OUVFdUdMZ1dkX00xSHdlWEE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "세종여고, 8개 기관과 손잡고 ‘AI 인재’ 키운다 - 충청뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBabzNDd08tem9QSkZGOXhUTjhuVV9SN3BjbVVLSWdXLVBXSmo0enpQX1pfdFFNYUFyMVJQWmZrc1dHRmVfN1VMZFdVY0Y4NFJtRzRsVnFKaEwyenRCUVczLWJWMGwwYTNBanVB?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "'목포냐 순천이냐' 끝내 답 못 냈다…전남 국립의대 결정권 정부로",
-        "link": "https://n.news.naver.com/mnews/article/629/0000526162",
+        "title": "“실종자와 연락됐다” 경찰 말 믿었는데…통화기록 없었다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653657",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, 송민호 무단결근 묵인한 관리책임자에 징역 1년 구형",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805482",
+        "title": "\"가해자 날 때 정부는 뛰어\"…불법촬영물 사이트 개설 처벌[일문일답]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137932",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 30대여성 실종 사건, 허위 종결했나…경찰과 통화기록 없어",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723364",
+        "title": "\"치밀하고 계획적\"…원주 세모녀 습격 10대 '징역 10년'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137651",
         "source": "네이버 뉴스"
       },
       {
-        "title": "원주 세 모녀 살인미수…10대 징역 10년형",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867949",
+        "title": "민변 \"조희대 대법원장의 제청권 남용…법원행정처 폐지해야\"",
+        "link": "https://n.news.naver.com/mnews/article/586/0000136397",
         "source": "네이버 뉴스"
       },
       {
-        "title": "BTS 정국, 군 복무중 ‘84억 주식’ 털릴 뻔했다…中 해킹 총책, 결국",
-        "link": "https://n.news.naver.com/mnews/article/016/0002686401",
+        "title": "'내란가담 혐의' 심우정 … 종합특검, 불구속기소",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723794",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 21:56"
+  "updated": "2026-08-20 22:32"
 }
