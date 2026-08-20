@@ -2,37 +2,32 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버 노조, '통합교섭 선포식' 개최…'5대 핵심 요구 사항' 발표",
-        "link": "https://n.news.naver.com/mnews/article/008/0005402421",
+        "title": "계열사 ‘미 증시 行’에 셈법 복잡해진 카카오",
+        "link": "https://n.news.naver.com/mnews/article/016/0002685992",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'학습'서 '추론'으로 판 바뀐 AI…정부, AMD 손잡고 국산 NPU 키운다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014137192",
+        "title": "SKT, 3G 시대 막 내린다…신규 가입 중단",
+        "link": "https://n.news.naver.com/mnews/article/001/0016260150",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공익 AI 개발에 원본 개인정보 활용…\"산업 경쟁력 강화\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805435",
+        "title": "방송국 파괴돼도 방송 계속…방미통위, 광주서 비상훈련",
+        "link": "https://n.news.naver.com/mnews/article/001/0016262420",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 미국 IPO 추진",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723179",
+        "title": "타워팰리스에 경비로봇 뜬다… LG CNS, 보안 로봇 솔루션 구축",
+        "link": "https://n.news.naver.com/mnews/article/020/0003742113",
         "source": "네이버 뉴스"
       },
       {
-        "title": "취재 사이트도 뚝딱…챗GPT, 답변 넘어 '일하는 AI'로[현장]",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434557",
+        "title": "코딩 몰라도 업무용 홈피 뚝딱…AI에 1400개 외부 SW 연결도",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545787",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TT3NhS1RGSFp4Q3U4XzVIcjk3THlLazljaVZ6b09OWkl4bkY3Y3hNNUxGY3RES0tTelJjNmdNR0t6eFJCc082Vzg2MndLX2hyZGhGMnBsWmlsWFXSAWBBVV95cUxOdVBBNlVMNVBBY0dLb3U5SkJOMUZtbW5xWW5kTWpnTEdaMDdYSkxHVURJbGtzZ19HTE9mSllpWTIxNk85WDZOSjlwMkxwSW90cDhXcGRYRzhwN01wcW1LX2g?oc=5",
@@ -49,8 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독]반도체 초과세수로 '월 15만원' 농어촌 기본소득…미래대응기금 포함 검토 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42SzZyT2JPU09LdWkxYXlMRThiOFNfZThVNHJyalNVbkVRN2E2UGhud2ZwZEV2T08wZlNuV25aRFE0WTA4VTgzX1JUQlB0TlZaa2w3TtIBWkFVX3lxTE15bzJtTW5fa2djOXE0aEVKeUxRUXdfLUZYUjhvM1dDMmJOWFo3Q2FCak95Ymg2eHl0WHZBa3VMQWV6V2lxVnBseHd6VHJaamFWdXhFVk1LTktEQQ?oc=5",
+        "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체가 띄운 ‘돈 되는 화물’…대한항공 ‘제2 전성기’ [AI 타고 뜨는 항공화물] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZSXJPa2xzbGFOckNqZ1JGMjVVNkFqVTMwNkROc1dkWjNWNE1QRlpPRnktUzFLOXgtUHVHUERsMWVJY3ZaV01udUo1Vl9FTDQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "손봉기 대구지법 부장판사, 대법관 후보 제청",
-        "link": "https://n.news.naver.com/mnews/article/056/0012240720",
+        "title": "경북도, 국립경국대 의대 신설계획 제출…2030학년도 개교 목표",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355171",
         "source": "네이버 뉴스"
       },
       {
-        "title": "강원 원주 세 모녀 살인미수 10대, 장기 10년·단기 7년형",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723431",
+        "title": "중수청 특례임용에 검찰 2375명 지원…정원 82.6% 채웠다",
+        "link": "https://n.news.naver.com/mnews/article/437/0000507143",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정근식 “교부금 개편, 교육감 참여 협의체서 논의해야”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006354534",
+        "title": "김석준 부산교육감 항소심 무죄…교육계 '사법 리스크' 해소",
+        "link": "https://n.news.naver.com/mnews/article/001/0016262167",
         "source": "네이버 뉴스"
       },
       {
-        "title": "소나기 그치면 무더위…낮 최고기온 34도[날씨]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005804917",
+        "title": "\"1명 죽이나 3명 죽이나\"‥세 모녀 살인미수 10대에 부정기 징역형",
+        "link": "https://n.news.naver.com/mnews/article/214/0001519109",
         "source": "네이버 뉴스"
       },
       {
-        "title": "화성시, '전국 지방정부 일자리대상'서 2년 연속 최우수상[화성소식]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016260262",
+        "title": "종합특검, '김건희 봐주기 수사' 이창수 前지검장·수사팀 기소",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564235",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 19:32"
+  "updated": "2026-08-20 20:30"
 }
