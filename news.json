@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성전자 '보급형' 갤럭시S26 FE 출시 초읽기…\"9월 출시 전망\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009121924",
+        "title": "\"굳바이 3G\" SKT, 3G 서비스 신규 가입 중단… 23년 만",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354651",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 美 증권위에 상장 서류 제출",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993804",
+        "title": "팀 스위니 에픽게임즈 대표 \"차세대 핵심은 '개방형 생태계'…UE6로 플랫폼 경계 허문다\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434555",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오게임즈, 2.5D 그래픽 신작 '도깨비의세계' 사전등록...10월 출시",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564160",
+        "title": "패션·뷰티·푸드 다 잡는다…네이버의 '멀티 버티컬' 도전기",
+        "link": "https://n.news.naver.com/mnews/article/648/0000049989",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"갤S26 가격 때문에 망설였는데\"…'가성비폰' 등장 예고",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322709",
         "source": "네이버 뉴스"
       },
       {
         "title": "배경훈 \"AI 추론 중심 전환...국내 AI 반도체 기회\"",
         "link": "https://n.news.naver.com/mnews/article/052/0002395655",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "네이버 노조, 통합교섭 요구 막 올렸다…사측에 5개 안건 제시",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653455",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,25 +39,35 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전북대 배학열 교수연구팀, 뉴로모픽 반도체 소자 성능저하 원인 규명 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zQW4tMGt5aEozZU02cy1nWExibFp5VFMyQ09wZW1qa3Y1LUlhS0FxTUVBN0xRY3U2WUdWS1Y2R2MxUGNBTnBqU3JwaW04LTQ?oc=5",
+        "title": "DB하이텍, 인도 전자산업 전시회 참가…현지 반도체 시장 공략 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR2ZZQkJoUWJnaWJ0dzJsNFp3b0VZUVp5VmEzMzctcVZrME9CQm9xaWZBb3pzSndWcmxuTXY1ZWVrVXhiS083M0tMSnVPbmtqTklZNzFCRVdKUmvSAWBBVV95cUxOSTMwazVSakswa0VCY3pRanZ6ZVp1c0JMc2pIVHBFc3haa1pFQlFMbjhZeWNnNVZQSlNnTnNlQjNqUHItWnBVQlZRQnpGY1JqUENYVk1keXZ1dXMwVlZRN1g?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "日 7월 수출액 23.2% 증가…반도체 등 전자부품 49.1% 급증 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrc2ZZMmlMU0dqZnRtWmNqWGtteDJoWUtUUDV2cHJjT0QyQVJvM05CYjZ0ZlY3dTEwcFl1cmEtMUZrNkJCdkNmZUduWDFza0ZjSDFSTFE2al9wZWZSaUtrUNIBeEFVX3lxTE90dWhKOVNlU3dUM3NrYWlvRDRqUDVia3Q1U3VnaVJ1dHVMdHdBOGJ2OFVxQjBtMmF3c21xUkJ6QldMcDJxOXV5WUYzWWd4NHU4cy1TMzJnbUs3TElCUlpmOWlFczhNOURMUmNuNkoyd2VqbFNkU3dkMA?oc=5",
+        "title": "DB하이텍, 반도체 공장 없는 설계 강국 인도 공략 시작…'일렉트로니카 인디아' 첫 참가 - 전기신문",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UVGtxeF91N3ZGb3NHYUwtbFVrM3Zsdm9pbzBtV1ZaNHl1LTRlUVZDZDFCQ2VmMnBmbG90VUZGYkR0eXFrN2FYa1ZJdHA5SG5QazMxSEhNMVVJVV9EQmZFTWplU0VxTWJPWVhTWtIBcEFVX3lxTE1DOFlBWlE4bmRwd2lKT0lveTdXSWRDUXZwUEoxQ1AwQm5QQUlMSkp5TVpUMTZkVUR0akpwZzBiekw4Z25tWnU1cWwzcGRsNG1xdVp4OEhVN1FkTURSYlJvcjcxS1pfSHJwcHJkTkFJS2s?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"하이퍼스케일러, 방어주 된다\"…한화운용이 꼽은 반도체 ETF는 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdnlINFVONW5JcjJEc0JOd2xpT29oaEtncUtONlFiTFBOUzdCUEZPd0dDajhRNi1nRE13VXVnZWRibTNEMzJ3R3VHdVdrUlAxWThfbEEzdVY0RlBncmR1dkVZek5ITUda0gFuQVVfeXFMUGZ3bENoTldaSFBCU1ZWM1RCSGppWk5CSUpNbEdaRUstV19GMWpiekQzbEdfdXo1LVFiSEo3ZVlJN2hBSzRIZ2dFVHNuaEk3V0ZpWE0xMXRtVkhSTmNrNmhlMFhnUXZlUHBpNnFxX2c?oc=5",
+        "title": "DB하이텍, 인도 반도체 시장 공략 … 현지 팹리스 고객 확보 나선다 - 뉴데일리",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YYVNVQjBCbGFRYndfUllzTnBFdTUtbUh6NXR2M2QyUmtyZVN4U2x1RUVyUmEySEppelROZnhFSnRLZWgtU2hVWXVmcjh0dG43dWR0SXpNcEpkVXFMOHQ5RlNHendUZDl1dHpXQlpTMk1NM1RBVUoxeUxzQdIBgAFBVV95cUxNOTY3dHFXQ1BZV1I5eEtiaVhVcW54bVVYV1Z4UzFMbWE0dVV3bWY2b2t1U0ZlTm52Vm8wWXBIRGFlSWxCc0Jjc2JZbnE2M2doSjBMMHFIZl9xdTVXODlaNHdFeUdpV1VkQ2FaYi1mYUNLdEllamRlbTR5aHNXMVZCYg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "AI 개발에 개인정보 활용 길 넓어진다…'공익적 필요' 땐 허용 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVZTbEdnZXpaQ0lHQ2VKTlFvbTBCSXl0ejllWlE2eEg5bHJ4QTl3bHlKYVJOSFhfcEYxRzBjX290cGlndkJfb3locE4teTNuVGJ6Z3BtUW1jVE85UTFURURtakFpNkw5aWhHaHUxSVBfN0E4cFFLak5kdk1YZGp0SnlUdWUyMjNKY2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인천항만공사, 인공지능(AI) 전환을 위해 생성형 AI 실전 적용 - 쉬핑뉴스넷",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBER3M1SnowbU5BbXY3UFR4Sm1DaHVrbDRzS3d1bG5WT1pvMmNJT0gxVnEwSDZZdXBMR1dNYzJ4YThyX1hsb0Voc25RZlduM1ltZTRMUWZtNHE0Rlg1ZjFzdXR4OUVFdUdMZ1dkX00xSHdlWEE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bU51NGZvSXpyX1hFX3VlVm5GTEhnaTZZSVlPa25MSWdyM0ktV05NM3NBX0x5VEZmRnZ6M2VPQUMyVHQtNXREc1pzMDAxSGM?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 시대, 언론매체가 생산한 뉴스-정보가 어떤 역할을 할까? - 브레이크뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CMDB3TWYzbmNGRVc1QURWcTRIWnFtMUZmWUNWSXliZ25yOWlSRjFkWV9kalcxY3gzOU4zVGJlbnpFMjNHR3FV?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNkRVa2ZsWkFZQmYyRW1WMTZDSU9ZUE54QlVWdkRnaU1HVzBCS0VBX2p4QVhsZk9XTTFoeWd0VEJ2cGJ2eFpJTmxiN3EtZVVzWmdFS0VoaTRfYkE?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[단독] ‘전관예우 방지’ 조항 빠진 중수청법… 후속 입법 불가피",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867836",
+        "title": "교부금 연동제 55년만에 폐지…미래대응기금 100조 넘을 가능성",
+        "link": "https://n.news.naver.com/mnews/article/001/0016259973",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이태한 선관위 특검, 법무부·대검·경찰청 순차 예방",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382053",
+        "title": "세 모녀 살해 시도, 흉기 찔렸는데...\"만 15세라서\" 최대 10년형",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402447",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교육교부금 ‘내국세 자동 배분’ 폐지",
-        "link": "https://n.news.naver.com/mnews/article/023/0003993909",
+        "title": "\"누구나 도전하세요\"… 모두의창업 모집",
+        "link": "https://n.news.naver.com/mnews/article/014/0005563678",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광명시, 일자리 1만7549개 창출…고용부 장관상 3년 연속",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805092",
+        "title": "임은정 지검장 ‘1급 수사관’ 된다…중수청 특례임용 신청",
+        "link": "https://n.news.naver.com/mnews/article/020/0003742218",
         "source": "네이버 뉴스"
       },
       {
-        "title": "양정원 사건 무마한 경찰 재판행… “피의자를 참고인으로 바꿔”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187333",
+        "title": "경찰, 신종 마약 ‘에토미데이트’ 밀수·유통한 일당 32명 검거",
+        "link": "https://n.news.naver.com/mnews/article/032/0003465334",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 07:42"
+  "updated": "2026-08-20 08:40"
 }
