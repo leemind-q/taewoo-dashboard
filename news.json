@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "\"굳바이 3G\" SKT, 3G 서비스 신규 가입 중단… 23년 만",
-        "link": "https://n.news.naver.com/mnews/article/018/0006354651",
+        "title": "과기정통부, 국산 NPU 생태계 논의…“개방형 AI 컴퓨팅 전환 대응”",
+        "link": "https://n.news.naver.com/mnews/article/018/0006354673",
         "source": "네이버 뉴스"
       },
       {
-        "title": "팀 스위니 에픽게임즈 대표 \"차세대 핵심은 '개방형 생태계'…UE6로 플랫폼 경계 허문다\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434555",
+        "title": "“3G 서비스, 역사 속으로”…SK텔레콤, 23년만에 신규 가입 중단",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723444",
         "source": "네이버 뉴스"
       },
       {
-        "title": "패션·뷰티·푸드 다 잡는다…네이버의 '멀티 버티컬' 도전기",
-        "link": "https://n.news.naver.com/mnews/article/648/0000049989",
+        "title": "카카오모빌리티, 1.4조원 규모 미국 IPO 추진",
+        "link": "https://n.news.naver.com/mnews/article/277/0005805077",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"갤S26 가격 때문에 망설였는데\"…'가성비폰' 등장 예고",
-        "link": "https://n.news.naver.com/mnews/article/015/0005322709",
+        "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459047",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 \"AI 추론 중심 전환...국내 AI 반도체 기회\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002395655",
+        "title": "독파모 2차 평가 세부 결과 공개…항목별 1위는 어디?",
+        "link": "https://n.news.naver.com/mnews/article/056/0012241202",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체는 대만의 방패가 될 수 있을까 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nZEd6T1hLR3ZadlUwUWJja25MbUZFLTcxZU04YVhHSXhjamg4N2tsR284ZVdselhvUFJJM2ZHUFZCT0p1Zmg1X2I5WWFLY1ZqLW5BMGtR?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "DB하이텍, 인도 전자산업 전시회 참가…현지 반도체 시장 공략 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR2ZZQkJoUWJnaWJ0dzJsNFp3b0VZUVp5VmEzMzctcVZrME9CQm9xaWZBb3pzSndWcmxuTXY1ZWVrVXhiS083M0tMSnVPbmtqTklZNzFCRVdKUmvSAWBBVV95cUxOSTMwazVSakswa0VCY3pRanZ6ZVp1c0JMc2pIVHBFc3haa1pFQlFMbjhZeWNnNVZQSlNnTnNlQjNqUHItWnBVQlZRQnpGY1JqUENYVk1keXZ1dXMwVlZRN1g?oc=5",
+        "title": "삼성, 메모리 반도체 부족하다더니···재고자산 10兆 급증, 왜? - 뉴스웨이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmMzJmQ0ZKdnVLcG1JQlJCcWF6N0JjR1BtNk0xM213djkwTlZseWJXQkxRSzdmM1BLeFp0ZGhRM1F4SnJHb2pYSDhxcERoTGFNYkE1ZWJKLTUxTzIxaUtDODZyQUdGRUpZR3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "DB하이텍, 반도체 공장 없는 설계 강국 인도 공략 시작…'일렉트로니카 인디아' 첫 참가 - 전기신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UVGtxeF91N3ZGb3NHYUwtbFVrM3Zsdm9pbzBtV1ZaNHl1LTRlUVZDZDFCQ2VmMnBmbG90VUZGYkR0eXFrN2FYa1ZJdHA5SG5QazMxSEhNMVVJVV9EQmZFTWplU0VxTWJPWVhTWtIBcEFVX3lxTE1DOFlBWlE4bmRwd2lKT0lveTdXSWRDUXZwUEoxQ1AwQm5QQUlMSkp5TVpUMTZkVUR0akpwZzBiekw4Z25tWnU1cWwzcGRsNG1xdVp4OEhVN1FkTURSYlJvcjcxS1pfSHJwcHJkTkFJS2s?oc=5",
+        "title": "[경제한방] “반도체 슈퍼싸이클 바뀌었다”…반도체주 미래는? - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLRW1OOGdEbWpLM2ZONlhzRGxyZWlkbHNncXI2NVdNbmFuY1NSQUpGYnNyQXpHeWNSYnNkVVdOU0tNUENqS2FteTlNZWNHUkU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "DB하이텍, 인도 반도체 시장 공략 … 현지 팹리스 고객 확보 나선다 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YYVNVQjBCbGFRYndfUllzTnBFdTUtbUh6NXR2M2QyUmtyZVN4U2x1RUVyUmEySEppelROZnhFSnRLZWgtU2hVWXVmcjh0dG43dWR0SXpNcEpkVXFMOHQ5RlNHendUZDl1dHpXQlpTMk1NM1RBVUoxeUxzQdIBgAFBVV95cUxNOTY3dHFXQ1BZV1I5eEtiaVhVcW54bVVYV1Z4UzFMbWE0dVV3bWY2b2t1U0ZlTm52Vm8wWXBIRGFlSWxCc0Jjc2JZbnE2M2doSjBMMHFIZl9xdTVXODlaNHdFeUdpV1VkQ2FaYi1mYUNLdEllamRlbTR5aHNXMVZCYg?oc=5",
+        "title": "K반도체·소부장 ETF, 나스닥 입성 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tYUpyMF9jUWh4WGtRNjZyRGQxTTVLLXJlaWJYU2ZMVXAtVzhDTE9RVFNONmdvWkhNVGRmQy1LTTRKUlNzZnR4cWZtVDBkWXR5THc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"하이퍼스케일러, 방어주 된다\"…한화운용이 꼽은 반도체 ETF는 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdnlINFVONW5JcjJEc0JOd2xpT29oaEtncUtONlFiTFBOUzdCUEZPd0dDajhRNi1nRE13VXVnZWRibTNEMzJ3R3VHdVdrUlAxWThfbEEzdVY0RlBncmR1dkVZek5ITUda0gFuQVVfeXFMUGZ3bENoTldaSFBCU1ZWM1RCSGppWk5CSUpNbEdaRUstV19GMWpiekQzbEdfdXo1LVFiSEo3ZVlJN2hBSzRIZ2dFVHNuaEk3V0ZpWE0xMXRtVkhSTmNrNmhlMFhnUXZlUHBpNnFxX2c?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "교부금 연동제 55년만에 폐지…미래대응기금 100조 넘을 가능성",
-        "link": "https://n.news.naver.com/mnews/article/001/0016259973",
+        "title": "\"연락됐다\" 허위 보고 의혹...제주 실종 여성 재수색",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395924",
         "source": "네이버 뉴스"
       },
       {
-        "title": "세 모녀 살해 시도, 흉기 찔렸는데...\"만 15세라서\" 최대 10년형",
-        "link": "https://n.news.naver.com/mnews/article/008/0005402447",
+        "title": "\"창피 주고 무시해서...\" 세 모녀 살인미수 10대에 징역 10년형",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395852",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"누구나 도전하세요\"… 모두의창업 모집",
-        "link": "https://n.news.naver.com/mnews/article/014/0005563678",
+        "title": "불법촬영물 사이트 6683곳 활개…정부 '돈줄 차단' 초강수",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322798",
         "source": "네이버 뉴스"
       },
       {
-        "title": "임은정 지검장 ‘1급 수사관’ 된다…중수청 특례임용 신청",
-        "link": "https://n.news.naver.com/mnews/article/020/0003742218",
+        "title": "전경예우 우려에 사건문의 금지 명문화…하반기 '상피제' 적용",
+        "link": "https://n.news.naver.com/mnews/article/422/0000897342",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 신종 마약 ‘에토미데이트’ 밀수·유통한 일당 32명 검거",
-        "link": "https://n.news.naver.com/mnews/article/032/0003465334",
+        "title": "\"대학통합 없는 개별 의대 신청 반대…순천대·목포대 결단해야\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009121928",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 08:40"
+  "updated": "2026-08-20 09:36"
 }
