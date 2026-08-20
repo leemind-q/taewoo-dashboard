@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버 노조, 통합교섭 요구 막 올렸다…사측에 5개 안건 제시",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653455",
+        "title": "카카오게임즈, 2.5D 그래픽 신작 '도깨비의세계' 사전등록...10월 출시",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564160",
         "source": "네이버 뉴스"
       },
       {
-        "title": "리얼월드, AWS 피지컬AI 프로그램 1기 선정…로봇 모델 고도화",
-        "link": "https://n.news.naver.com/mnews/article/293/0000089302",
+        "title": "삼성전자, 갤럭시 S26 FE 27일 공개",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653332",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 3G 신규 가입 중단…“통신 환경 변화 등 고려”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002685910",
+        "title": "[단독] 李대통령 ‘K-컬처 300조’ 공약에도…‘방송 100년’ 예산 전액 삭감, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238410",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국산 AI 반도체·모델 하나로 묶어",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723069",
+        "title": "‘나의 소원’이 키링으로…김구 '돋보기 안경'도 나왔다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137175",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 27일 갤럭시 새 모델 공개…S26 FE 유력",
-        "link": "https://n.news.naver.com/mnews/article/215/0001262949",
+        "title": "AMD, 연내 아시아 최초 AI R&D 센터 韓 설립…정부, 엔비디아 의존도 낮추기 속도",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402537",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,22 +39,27 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "테라뷰, 9.5억 규모 반도체 검사장비 공급 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QemU5TnlGS25zRGw1LXp3TWZValNUS3JhdlFrSHhoQ1dLUjZVaEhFd05ZYjBDbmxXWmVPV0hjXzZFbm1uMkhGeFhzVmlZZ1gtWDdJcW9QaUV2YjNmYXA3YkFuQzdPUQ?oc=5",
+        "title": "반도체 패키징 전문가, “AI 인프라 최대 병목은 '열'…AI로 해결해야” 한 목소리 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YMGtyTmMtTUFZTzNpbjJCMlppVUVTMkhSM3R0MkNINDJoYjZaUmZKRG5EMFB2Tnd4aVl1MWRaV0NrcGx6QzE3aURENzFpdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI·반도체에 전력수요 260TWh 증가…\"재생e만으론 한계\" - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4YTdLT080a0VvWkdaZ3RmVlZmNS00dUZ4aWdVaEJEVGo4U2QxaVQ2VTVRUTZtSFRSN3F0SGxnaUxscDRhQzhmZXdleE82MVVwbUxCOTNKUHdDWFp5VlUwRw?oc=5",
+        "title": "\"2030년 호남 반도체 전력 6.3GW 감당 가능\"…관건은 '송전망' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OSTJDWG14WE1oSzFCeTd6TmYteW1YZDdNVklza2trTE1UNU1ZTkFUV1ROLS1CVDdxQjdlNDRNc1RrcTJWb2JfY3RveVhESkE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체·AI에 2040년 전력수요 최대 885TWh…11차比 260TWh↑ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZnRRcFVFMk5KT0N0cThXWmYyci1hY3FmLWd5X2tZTHQ0b3NWODVvS01RYTgtZjVrNnZsTWdySThXZEJVX3lzaXdqTlNUNkE?oc=5",
+        "title": "원전 19기 더 필요한 전력…반도체·AI가 불 지폈다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dkl5cU5NYkg0VXBGNUhpajJsZWFZbGhuTURJVW01dEtvWTJjN0VYeU9RZFhtSnFpaVRNaWZ3eFlBcEZxM3hTRkFENEZFT1BXRmVjd1JLUkdUQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[기업 이모저모] 유가 예측도 인공지능으로…AI 서밋 가보니 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SeGR5ZWpJbzVwSTVMMG43Ym9xZGY2UXlNeTVaME5taWphZU0tdmdEcDJEVHprMnJPUHp4clRyUmQ4RzNoZnNlbjBQUmdLd0ZSekpsQjRpTEZnczFLQ25Md2lHLU5DSG1ocjdDUXNTYjM?oc=5",
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNkRVa2ZsWkFZQmYyRW1WMTZDSU9ZUE54QlVWdkRnaU1HVzBCS0VBX2p4QVhsZk9XTTFoeWd0VEJ2cGJ2eFpJTmxiN3EtZVVzWmdFS0VoaTRfYkE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인천항만공사, 인공지능(AI) 전환을 위해 생성형 AI 실전 적용 - 수도권지역뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vdDZ3djNxeDFGaHNrZURqOXNaZHFSdFI0MXJjZ0VoZjFvWlU1c0tWYk8yLWpLdUpYcElRUm9SY0R1M1lkanZnbzMwTWxwYUFwbFY3LXRXSjdaVG5PR2pyZ2o4eXI1R21W?oc=5",
+        "title": "[D-BIZ 지역뉴스] 전남광주특별시-중 광저우시, 인공지능(AI) 주제 ‘한중 학술포럼’ - 데일리비즈온",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWHhkbEM2a2tYczAzV0llWWlqb05QS0lSc3NkOEJUZUFqek9lN2gyYzNpM0hfVU9JSDNZOExaa0dVcW56Q1RaRmp4aGZZcmR2UEdhTC1xOGVWUGR6SE83SmZOQ00yeGhJNE56TQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "공공기관 유치전 부산스러운데… ‘부산’이 안 보인다",
-        "link": "https://n.news.naver.com/mnews/article/082/0001394619",
+        "title": "울산시, 지역 국회의원들과 공공기관 2차이전 유치 '공조'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014137317",
         "source": "네이버 뉴스"
       },
       {
-        "title": "작년 기술유출 범죄 45% 증가…경찰, 전담 인력 79명 보강",
-        "link": "https://n.news.naver.com/mnews/article/079/0004180479",
+        "title": "서울의 밤이 달라진다... 체육시설 자정까지, 야간 명소 잇는 심야버스 운행",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994000",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'해직교사 특채' 김석준 부산교육감, 1심 뒤집고 2심서 무죄",
-        "link": "https://n.news.naver.com/mnews/article/003/0014137574",
+        "title": "[속보]신천지\"'국힘 5만 6,000명 가입' 물의 사과...정치권 연계 끊겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/660/0000115532",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“1명 죽이나 3명 죽이나”…세 모녀 살인미수 10대 최대 10년형",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545594",
+        "title": "'3개월째 실종' 구멍난 줄도 모른 경찰, 뒷북 집중수색…성과 있을까",
+        "link": "https://n.news.naver.com/mnews/article/421/0009123234",
         "source": "네이버 뉴스"
       },
       {
-        "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819258",
+        "title": "누구는 50만원, 누구는 0원…추석 민생지원금에 '술렁'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322729",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 05:33"
+  "updated": "2026-08-20 06:50"
 }
