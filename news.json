@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT, 3G 신규 가입 중단…“통신 환경 변화 등 고려”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002685910",
+        "title": "AI개발에 개인정보 활용 길 열려…개인정보보호법 개정안 국회 통과",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043463",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티, 1.4조 규모 미국 IPO 추진",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152163",
+        "title": "'AI 썼나 안 썼나'보다 좋은 콘텐츠 판별할 수 있는 역량이 중요",
+        "link": "https://n.news.naver.com/mnews/article/421/0009124456",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘국대 AI’ 2차 평가 공개…LG, 전문가·일반 국민 점수 1위",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819395",
+        "title": "SKT, 3G 신규 가입 중단…2027년말까지 서비스 종료 추진",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545614",
         "source": "네이버 뉴스"
       },
       {
-        "title": "클라우데라, 엔비디아와 협력해 아파치 스파크 가속… 클라우드 비용 절감",
-        "link": "https://n.news.naver.com/mnews/article/030/0003459138",
+        "title": "카카오모빌리티 美 IPO 추진...카카오 \"TPG 지분만 ADR 상장 검토\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005564300",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, 전시 방송 공백 막는다…비상방송 제작·송출 훈련",
-        "link": "https://n.news.naver.com/mnews/article/421/0009124329",
+        "title": "배경훈 \"AI 추론 중심 전환...국내 AI 반도체 기회\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395655",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "반도체는 대만의 방패가 될 수 있을까 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qNnp0eFdJbEdEbEwxaWo2QVZGa1dDcWFMaHBNZk5FeVZ0dDB0Z3dlSEdLd0I2UEVWdDZOZUI2Q0RaOHdQM0pROTdlOEdxVVE?oc=5",
@@ -44,22 +49,12 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성, 메모리 반도체 부족하다더니···재고자산 10兆 급증, 왜? - 뉴스웨이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmMzJmQ0ZKdnVLcG1JQlJCcWF6N0JjR1BtNk0xM213djkwTlZseWJXQkxRSzdmM1BLeFp0ZGhRM1F4SnJHb2pYSDhxcERoTGFNYkE1ZWJKLTUxTzIxaUtDODZyQUdGRUpZR3c?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“반도체 호황 2027년 중반까지”…무디스가 내다본 한국 경제 [잇슈 머니] - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNFNlei1sUHZROEZCZTRMZnM0LURjTG5YM0RBV0kyMnM3RHJTOHV3TmxSUG1EREZQQWQ1b2VQbHlsMGVxY1BtbEpabFRlaXk2emwtcVVFNzVlT1E?oc=5",
+        "title": "반도체 훈풍 덕? 이천·화성시 고용률 나란히 도내 1·2위 차지 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84bTNHV1VsYXJHdGNxSTNjZGsxQlYwUG9FS2gxdmNUQ0NKdUVGaUtPSmhjUTZ0T1JwUktXMk9GanRmUXExc0lmNG1yVURWaHUwdV90dWZxYkoyMno5MXo1N1ppc3BqX3NiSDlaa0ZjYw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
-      {
-        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "AI 개발에 개인정보 활용 길 넓어진다…'공익적 필요' 땐 허용 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVZTbEdnZXpaQ0lHQ2VKTlFvbTBCSXl0ejllWlE2eEg5bHJ4QTl3bHlKYVJOSFhfcEYxRzBjX290cGlndkJfb3locE4teTNuVGJ6Z3BtUW1jVE85UTFURURtakFpNkw5aWhHaHUxSVBfN0E4cFFLak5kdk1YZGp0SnlUdWUyMjNKY2c?oc=5",
@@ -79,35 +74,40 @@
         "title": "[AI 리뷰] 손정의 회장, \"인공슈퍼지능 이코노미 도래할 것!\"…2040년, 세계 GDP 20%가 AI로 대체될 것 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOHBtNklFSTlOQUs3aVhndVQ5Sm40dk94bjE2SzRNc0JmbllrVFROeTgyZ3JDTVk1REZBMTNvU3A3MFJvSmRHR2xHd0ZJVlZkUW12UEtheTlMbVR1dG1UbkFMMVQ4YXM?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bU51NGZvSXpyX1hFX3VlVm5GTEhnaTZZSVlPa25MSWdyM0ktV05NM3NBX0x5VEZmRnZ6M2VPQUMyVHQtNXREc1pzMDAxSGM?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "고용센터 30년만 전면 개편…실업인정 AI로, 구직상담 늘린다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016261795",
+        "title": "부산 기업 세정, 이웃돕기 3억 원 전달…28년간 90억 원 나눔 실천",
+        "link": "https://n.news.naver.com/mnews/article/421/0009124379",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'김건희 불기소 정해놓고 짜맞췄다'…수사팀 결국 재판에",
-        "link": "https://n.news.naver.com/mnews/article/437/0000507099",
+        "title": "BTS 정국·대기업 회장 노린 ‘380억 해킹’ 중국인 총책 1심서 징역 20년",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672059",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인증기관 해킹에… 청와대 인사 개인정보 유출",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152440",
+        "title": "국교위 \"대입 개편 확정안 없다\"…전남광주교육청은 \"서·논술형 전환 촉구\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002452865",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“수능 절대평가·서술형 도입 확정안 아냐” …논란 커지자 진화나선 국교위",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723629",
+        "title": "충남 아산시 고용률 70.9%…산업 키우고 기업 지원해 일자리 늘렸다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004152269",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신천지 “국힘 당원 가입으로 심려 끼쳐 사과…정치권 연계 차단”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545639",
+        "title": "유흥업소 접대받고 ‘양정원 수사무마’…강남경찰서 팀장 기소",
+        "link": "https://n.news.naver.com/mnews/article/020/0003742163",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-20 11:28"
+  "updated": "2026-08-20 11:55"
 }
