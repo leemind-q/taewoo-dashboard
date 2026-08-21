@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오, AI·투자사업 인적분할…카카오AI·카카오X로 재편",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043496",
+        "title": "카카오 노조, 26일 판교서 공동교섭 추진 공식화⋯인적분할 대응 예고",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051589",
         "source": "네이버 뉴스"
       },
       {
-        "title": "새울원전 1호기 정기검사 마쳐…재가동 허용",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242399",
+        "title": "'300% 폭풍 성장' 휴머노이드 로봇시장 점령한 中",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355721",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'로봇파크' 문 연 갤럭시코퍼 \"사람 얼굴 구현한 로봇 다음달 공개\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403157",
+        "title": "갤럭시 로봇파크, 정식 개관 전 2만 명 다녀가",
+        "link": "https://n.news.naver.com/mnews/article/277/0005805679",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI로 기후재난·사회문제 푼다…과기정통부 국민 챌린지",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355661",
+        "title": "\"과제·자소서 AI 활용법 공유\"…에브리타임, '제미나이 라운지' 론칭",
+        "link": "https://n.news.naver.com/mnews/article/421/0009125065",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글에 무슨 일이? '전설급' AI 인재 다 떠난다 [스프]",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382312",
+        "title": "원안위, 정기검사 마친 새울원전 1호기 재가동 허용",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264163",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
@@ -44,25 +49,20 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "8월 중순 수출 56%↑…반도체 비중 47.2%, 역대 최고(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTDIwWlRkZi1acUxicDdJZ3h5RmRGZnJ0cURQR2RnTDlCb0IzRnJLWDhKbFFjZ1JPNi1zOHNiM2NDSjNyUENyZzBzZjJYSmo3ZldaRERKeDdQTUnSAWBBVV95cUxQdU4zbHZNS1FwajgyNVdIVkxUcWRuTTlvMGpyUWg1TmNmeTcwVEZLbVJ6VGpBeklSemdCSllVbU1sUXoxLVNjYXNtdHZmSmVhUjZ2MHNDMV9KaVVYTDVIS00?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "이 대통령, 최태원과 비공개 회동…‘SK하이닉스 일본 반도체 공장’ 보도 속 논의 내용 관심 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KMUNXM3RmNFNDZlpzZG5oRHd2bzR6MmdGTjVTTGdfNnBVWVJsX1B3dFVpY2ZORGlhdjNOTXhjWXRpSVJqX3Y0SnhhSGo2UTg?oc=5",
+        "title": "삼성 반도체는 '억대 성과급'인데…'600만원'에 뿔난 DX 노조 1800명 거리로 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pTlg5TERRRnNXZXlkWFR1enV2RVlmOTZTQ0NGcTdORmE3VGxWckNNS3FFWG9vQ3RRWjU1Z2FSUlN1SEF0VjYxMTlnWFJVU0E?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "인공지능 약관 분석해보니…“성인 인증 허술” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UkFmS0Y3dUQzaWpVOHFPQk5vQmtSODB1RmhsWlhScTlES0FOZFVfVGFNenFpY01BOUVQdEhFTlZjQkl6ZWRHME4xQVRIMjMwZW5GMHBXNFloR0U?oc=5",
+        "title": "“콘텐츠 만들긴 쉽죠” … AI 시대, 브랜드·저작권이 핵심 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5taFA5WXNva2tfMFB1Y1hqZ1QzTk1fd09zbzc1WTlkRms4UmotNDZhZFBkQ0J4TTlwRE9CSkJyRlliUVJfekphZXNBNzY3Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“콘텐츠 만들긴 쉽죠” … AI 시대, 브랜드·저작권이 핵심 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5taFA5WXNva2tfMFB1Y1hqZ1QzTk1fd09zbzc1WTlkRms4UmotNDZhZFBkQ0J4TTlwRE9CSkJyRlliUVJfekphZXNBNzY3Zw?oc=5",
+        "title": "인공지능 약관 분석해보니…“성인 인증 허술” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UkFmS0Y3dUQzaWpVOHFPQk5vQmtSODB1RmhsWlhScTlES0FOZFVfVGFNenFpY01BOUVQdEhFTlZjQkl6ZWRHME4xQVRIMjMwZW5GMHBXNFloR0U?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 생성 이미지 저작권 인정될까…日 제작사 '무단사용' 소송 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptctIBYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptcg?oc=5",
+        "title": "李 대통령 \"AI로 공금횡령 잡아라\"…반부패 행정에 인공지능 도입 - 신아일보",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5saG9iT2ltcVZ4ZmZsbjVIdHpVWHZsMmVEc1ZtSG9qaVloemVfTWk3VHFtVm8zbU1wTHJjV2E0aEdqbUlfRWhSNUhOcjFJWjJVbXF6U3lpaTUwM251NmRRYTJBeVo0aEFvWW5jbXl2LWY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "李 대통령 \"AI로 공금횡령 잡아라\"…반부패 행정에 인공지능 도입 - 신아일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5saG9iT2ltcVZ4ZmZsbjVIdHpVWHZsMmVEc1ZtSG9qaVloemVfTWk3VHFtVm8zbU1wTHJjV2E0aEdqbUlfRWhSNUhOcjFJWjJVbXF6U3lpaTUwM251NmRRYTJBeVo0aEFvWW5jbXl2LWY?oc=5",
+        "title": "AI 생성 이미지 저작권 인정될까…日 제작사 '무단사용' 소송 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptctIBYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptcg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "경찰 \"장미란씨 실종 관련 자료, 입력 후 삭제돼\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000898207",
+        "title": "이상봉 제주시장 후보자 \"온전히 '시민'을 위한 행정\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014140370",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“정부 지방교육재정 교부금 개편, 공교육 근간 허무는 것”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242373",
+        "title": "중수청 특례임용에 수사관·검사 2375명 지원…정원 82.6% 규모",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187425",
         "source": "네이버 뉴스"
       },
       {
-        "title": "70대 여성, 비상제동 장치 '꾹'…2분20초간 멈춘 부산도시철도",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403088",
+        "title": "전남광주시 첫 조직개편안 수정·보완 요구 봇물…막판 진통",
+        "link": "https://n.news.naver.com/mnews/article/001/0016262380",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘오빠 호칭 논란’ 정청래·하정우 아동학대 무혐의 종결",
-        "link": "https://n.news.naver.com/mnews/article/082/0001394876",
+        "title": "\"닥터나우 방지법 통과했지만\"…약배송 갈등 여전",
+        "link": "https://n.news.naver.com/mnews/article/003/0014139700",
         "source": "네이버 뉴스"
       },
       {
-        "title": "알테오젠, 대전에 2532억원 규모 제조시설 신설",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724039",
+        "title": "남아 도는 교육교부금… 경제성장·학령인구 반영해 배분",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672316",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 20:28"
+  "updated": "2026-08-21 20:52"
 }
