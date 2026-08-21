@@ -2,59 +2,64 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오AI·카카오X 전격 분할… 그룹 지배구조 전면개편",
-        "link": "https://n.news.naver.com/mnews/article/021/0002812922",
+        "title": "카카오 노조, 인적분할에 \"경영실패·고용대책부터 답하라\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0003124048",
         "source": "네이버 뉴스"
       },
       {
-        "title": "로봇과 K팝 즐기는 '갤럭시 로봇파크' 정식 개관",
-        "link": "https://n.news.naver.com/mnews/article/422/0000898175",
+        "title": "과출협, 연구자 창업 걸림돌이던 주식보유 등 문제 해결 \"환영\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434689",
         "source": "네이버 뉴스"
       },
       {
-        "title": "새울원자력, 지역 대학생·고교생 637명에 6억여원 장학금",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264267",
+        "title": "울산서 새울 아카데미 수료식…인문·예술·맞춤형 마을사업까지",
+        "link": "https://n.news.naver.com/mnews/article/001/0016263155",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과기정통부 ‘2026 AI·디지털 기반 사회문제 해결 챌린지’ 개최",
-        "link": "https://n.news.naver.com/mnews/article/119/0003123910",
+        "title": "'로봇파크' 문 연 갤럭시코퍼 \"사람 얼굴 구현한 로봇 다음달 공개\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403157",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘딥테크 창업 촉진법’ 본회의 통과…연구자 창업 회색지대 해소",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723679",
+        "title": "AI로 기후재난·사회문제 해결…\"국민 아이디어 모십니다\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434688",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 추가세수로 100조 미래기금 “AI·첨단기술 실탄” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaHM0MENqWnQzTTN6U25YVUZEVXdsVkp4UnVETWRoOVROY1F3eTJSem1iMGl2Q0l3M185Q20yczV4dVFKS0JqX3N1U1lxQ3BhODF4VTl3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 호황 세수, 미래 성장에 쌓는다…'미래대응기금' 신설 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UC1FTUNady1WWnRTbDhQV3NaTTNidTZQWHNRYkRTM01KbEJrYU1OajRnSnppX3UyaHB4eFVkOHBIUy1PM0ZKQ1ZvczgzS0E?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "8월 중순 수출 56%↑…반도체 비중 47.2%, 역대 최고(종합) - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTDIwWlRkZi1acUxicDdJZ3h5RmRGZnJ0cURQR2RnTDlCb0IzRnJLWDhKbFFjZ1JPNi1zOHNiM2NDSjNyUENyZzBzZjJYSmo3ZldaRERKeDdQTUnSAWBBVV95cUxQdU4zbHZNS1FwajgyNVdIVkxUcWRuTTlvMGpyUWg1TmNmeTcwVEZLbVJ6VGpBeklSemdCSllVbU1sUXoxLVNjYXNtdHZmSmVhUjZ2MHNDMV9KaVVYTDVIS00?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMDdvM3Q1NVBnZ1d6SU5ZblZPUGhUako0d3pUQTljMXRmSHQwSHZmVmJGTDdYaGM5djlRcnAwR0pjbzFpOW52bEZrQURIa01vNVFlU090OUxtUjByNWNZRXphVURvUUVBQnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[미국 특징주] \"엔비디아, 한국 반도체 스타트업 리벨리온과 잠재적 거래 논의\" - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFeU1OLV9JQWt0MHFHMENQWENzZVZ1NjBEVVF6ODVpZ3JYY2o5MVF1bi13R08xdHBuTnNjRURfQ29qZXRUUmgzRWhNYUJob3UxZ1FZOW9Fd3V3Q1BR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "중국 반도체 기업 YMTC, 49억 달러 규모 IPO 신청 - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZlNvMHJpMVNHdjFrRndtaXRIdkwybXFPSlRVTGxfSmxWRTNENXJveEJlcUVBSGdsR0MwMjB5OHBpemRVVV9xN3JTeDRXYy1ia3JwUmN0Mm41dTdxWWk5SlZXc3ZTd29ycnJQRGRzMzk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성 반도체는 '억대 성과급'인데…'600만원'에 뿔난 DX 노조 1800명 거리로 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pTlg5TERRRnNXZXlkWFR1enV2RVlmOTZTQ0NGcTdORmE3VGxWckNNS3FFWG9vQ3RRWjU1Z2FSUlN1SEF0VjYxMTlnWFJVU0E?oc=5",
+        "title": "모건 스탠리, 반도체 장비 수요 전망 상향 조정 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN2hVcF94eXlTR3ZUWm1PbnRQZXg4MVFkRFZVNURrNEdhdVFNNHV2Z0dQTjFhQ01FM3VJdUVwaGRTTGVDeDh2b2J1REZkaWs5bFUwWk1JMExFSmJpWTJ5T2lORjNBUXhmbXE2Q292WnQ4d0hYUl9F?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
@@ -74,40 +79,35 @@
         "title": "AI로 직원 줄이면서 \"AI 때문 아니다\"…말 바꾸는 美기업들 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYY9IBYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYYw?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "인천 부평구, ‘인공지능(AI)! 스마트한 자원봉사 : 시니어의 귀환’ 실시 - 실버아이뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcU9ST2Rwb0N1eEM0M2dNM0J2RDdVbUI5TGhvUHZTWFhiVktYczR0a3NxNUtFd3QyalZOQWNXT09YemdNaGNTNlU4LUw5UzU2T3RkaG1EYzFad1FzbU9FZFVBNlUzcnRGUGc?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "광주 군 공항 이전 부지 선정위 28일 개최",
-        "link": "https://n.news.naver.com/mnews/article/056/0012241513",
+        "title": "복면 나체남 '3번' 나타났지만 아직도…\"CCTV 분석 중인데\" 결국 출입구 폐쇄",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382444",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국서 1개월 일하고 119개월 추납…평생 연금 받는 외국인들",
-        "link": "https://n.news.naver.com/mnews/article/088/0001024516",
+        "title": "'명태균 여론조사' 오세훈, 2심 혐의 부인…\"막연한 추측으로 유죄\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355710",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'장미란씨 실종' 허위 종결 의혹…이제 '담당자 혼자' 사건 못 끝낸다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403016",
+        "title": "“부모 향한 폭언에 경악”…다시 법정 마주한 효성家 형제 무슨 일",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545973",
         "source": "네이버 뉴스"
       },
       {
-        "title": "기술혁신·기간산업 발전 공로 인정 받은 최평규 SNT그룹 회장",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653916",
+        "title": "최평규 SNT그룹 회장, 국립창원대학교 명예공학박사 학위 수여",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323268",
         "source": "네이버 뉴스"
       },
       {
-        "title": "18년이나 해외 도피한 '필로폰 밀수 총책'…결국 잡혔다",
-        "link": "https://n.news.naver.com/mnews/article/057/0001964850",
+        "title": "종합특검, 'VIP 수사 은폐' 황유성 등 기소…여인형·이진우·김동혁도(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014141278",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 16:37"
+  "updated": "2026-08-21 17:30"
 }
