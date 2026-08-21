@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI 시대, 효율성이 경쟁력\"…KT, 고효율 AI 인프라 청사진 제시",
-        "link": "https://n.news.naver.com/mnews/article/421/0009125225",
+        "title": "카카오, 카카오 AI·카카오X로 인적분할 결의",
+        "link": "https://n.news.naver.com/mnews/article/422/0000897971",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, AI 혁신 위해 지배구조 개편…\"카카오AI·카카오X로 인적분할\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805687",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "방미통위, KBS 전주·청주 UHD 등 13개 방송국 재허가",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187553",
+        "title": "넥슨게임즈, 확대된 ‘위드영 프로젝트 2기’ 진행[G-브리핑]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005723956",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "넥슨, 최대 2500억원 투자 프로그램 출범...\"게임 생태계 마중물\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564116",
+        "title": "한국, 로봇 도입 기대 높지만 준비는 부족…공식 전략 보유 27%",
+        "link": "https://n.news.naver.com/mnews/article/469/0000949279",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "방미통위 출범 후 첫 '회의 파행'…'YTN 청문 추진' 놓고 이견",
+        "link": "https://n.news.naver.com/mnews/article/057/0001964814",
         "source": "네이버 뉴스"
       }
     ],
@@ -44,20 +44,20 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TT3NhS1RGSFp4Q3U4XzVIcjk3THlLazljaVZ6b09OWkl4bkY3Y3hNNUxGY3RES0tTelJjNmdNR0t6eFJCc082Vzg2MndLX2hyZGhGMnBsWmlsWFXSAWBBVV95cUxOdVBBNlVMNVBBY0dLb3U5SkJOMUZtbW5xWW5kTWpnTEdaMDdYSkxHVURJbGtzZ19HTE9mSllpWTIxNk85WDZOSjlwMkxwSW90cDhXcGRYRzhwN01wcW1LX2g?oc=5",
+        "title": "8월 1~20일 수출 522억달러... 8월 중순 수출 역대 최대, 반도체 198.8% 증가 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzNkTEt3T0FCOWM0SHR0TWNlMTlDVjJmaFZBdV9BdmxoT3RYTGxNeWRWTUg5UF9fS2djZmVxNlQtR0drUTlNMHg2eE81QTV0N3l2RGNTNzNzNGU4WlJzdWtzNW5ZaE95VjFiV2JFZlF5bFNYSEtETWdZZTdJMmZ6a01EQ3hrRUx4Z2lUYy1R?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성전자, AI 반도체 ‘배선 저항’ 45% 낮췄다…미세화 한계 돌파 기술 개발 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTWQ4aFJzd2FHY21pYlY4cE1landKQ3ZyNXlsSUl6VENYMzI2cHpoUTdfaHNtLUVaelNGdnV0ZWtQYzRCNV9aYWlmOVVIbDQ?oc=5",
+        "title": "반도체 ‘역대 최대’ 수출 달성… 8월1~20일 수출도 56% 급증 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5RlB2d1A4WUxWV0J4cjRjOC0yVFBiY0VkakhSUnpBYUFZOUhKVU9DWHZuVXV3dXR1aC16VGFXQm1NUm9KSGFTeEh6ZlhOa05odFE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "AI로 직원 줄이면서 \"AI 때문 아니다\"…말 바꾸는 美기업들 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYY9IBYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYYw?oc=5",
+        "title": "AI 생성 이미지 저작권 인정될까…日 제작사 '무단사용' 소송 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptctIBYEFVX3lxTE5VQUp5bFZPOHQxa0FnamNLSFhFQ3hRWUZVV0NZLUNSWl9pTTYybFk0NmExS01Zakp2TE5OWGgwbjU1b2JLMFdsaDZMUHVxVno4Qkw4NmlDSi01UTBnV2ptcg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "안양시, '제1회 전 직원 인공 지능(AI) 활용 경진 대회' 성료…우수 사례 10건 최종 선정 - 경기탑뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kcHpMa1ZJTjNzSVZGZ1gydk1GdlVUOW5xaGFsTjNybVRsRk8wdC1nMm1OdDl5ekQ2alZubThELUxfdG5DSVMwMzk5NUM0WUV5cXU1eEthTXlfVkZfNWZhNHlnZw?oc=5",
+        "title": "조달청, ‘인공지능조달혁신과’ 출범…공공조달 AI 전환 본격화 - 페로타임즈",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iQ0xDTC02S1hpVnR4XzFOcWxIOERqREdjN0loRGVFM0ZQNnhHWm8zTXVKeEpJWVI1R1Y2SXR0UzlKblFNampISVo2MUZuRHlSR0lZWWF5dTZuX0JpZ0s4eWpPZ2R3WDhaMlNJbw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI로 직원 줄이면서 \"AI 때문 아니다\"…말 바꾸는 美기업들 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10bEZNN0VkZzVFZFFrcjNxNHZWMjR5c2FDNzY0Qlg1Y1hkRHI1c05yaVp5RVVoODRMODR5cGh0eEdnX05ESW9UZ1Jqejhpd3lHZm8wY09ubndrdzQ2eWFrQ0Q1LVRYLWwyR2lLeEtUVzFzTXBS?oc=5",
+        "title": "불교, 인공지능(AI)을 만나다 - 불교닷컴",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xb2pDU0FXRDJfLWI1TGt0b3hNSmw5bkhJR282bFpaYnZVVGk4Z2V0ZlhJU2pwQlI3UlM4VVFUU2dZSmc5c3BMQ2pseW1zak1iWEJZNE9taDVvMmNNX1lqSmpGa1diTzgtSHc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "고양시, 광역철도망 확충·광역버스 개선 정부에 촉구",
-        "link": "https://n.news.naver.com/mnews/article/005/0001868189",
+        "title": "필로폰 53억원어치 밀수한 총책, 도피 18년 만에 국내 송환",
+        "link": "https://n.news.naver.com/mnews/article/654/0000196343",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주서 발생한 성인 실종, 아동의 2배…3년7개월간 2914건 신고",
-        "link": "https://n.news.naver.com/mnews/article/654/0000196339",
+        "title": "복면쓰고 나체로 연세대 인근 연쇄 성추행…신원 파악 아직(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016262002",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중수청 특례임용에 검사·수사관 등 2375명 지원…정원의 82.6%",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043473",
+        "title": "법사위서도 '제주 실종 허위 종결 의혹' 비판…與 김남희 \"수색 골든타임 놓쳐\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014140469",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘명태균 여론조사’ 尹 측 “김건희 대법 선고까지 재판 미뤄야”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012241982",
+        "title": "'명태균 여론조사 수수' 2심서 尹 \"1심, 김건희 판결과 정반대\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016263584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“파주가 동네북이냐” 아동 연쇄성폭행 김근식 입소설 발칵",
-        "link": "https://n.news.naver.com/mnews/article/005/0001868168",
+        "title": "은행 본점 없는 울산… 기업은행·에너지기관 유치 나선다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994196",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 05:34"
+  "updated": "2026-08-21 06:51"
 }
