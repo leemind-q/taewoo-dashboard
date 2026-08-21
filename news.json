@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오 \"카카오모빌리티 美 ADR, TPG 지분만 상장 검토\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355182",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "넥슨게임즈, 영케어러 지원 ‘위드영 프로젝트 2기’ 시작…1억원 기부",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152568",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "40㎏ 택배도 로봇·드론이 배달…우주항공청, 사천지역 실증 마무리",
-        "link": "https://n.news.naver.com/mnews/article/119/0003123462",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카카오, 오전 긴급 임직원 간담회…지배구조 개편 논의되나",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805549",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "AI데이터센터 붐에 '숙련 블루칼라' 모시기 경쟁",
         "link": "https://n.news.naver.com/mnews/article/018/0006355390",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"대학(원)생, 제미나이 1년 무료\"…구글, 파격 혜택으로 20대 시장 잡는다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355446",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "카페24, 한국직업전문학교와 'AI 인재' 키운다…실무 프로젝트 지원",
+        "link": "https://n.news.naver.com/mnews/article/003/0014139786",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "초대 방미통위 부위원장에 고민수 상임위원 선출",
+        "link": "https://n.news.naver.com/mnews/article/003/0014140042",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "방미통위, YTN 변경승인 취소 청문 불발…위원 2명 심의 거부",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238534",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다 - 한겨레",
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 변수도 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "SK하이닉스, 일본 '반도체 공장' 추진…호남보다 작은 규모일 듯 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BbWQ2SHRHREVnQ1hZTWNVaG93SU50dUdrZWhVaksyUTNYckwybFBadmNfZHE0ZVJaUU1hX0hnU0dyNkNTckFIQVZPVTg2QXM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "SK하이닉스, 일본 반도체 공장 건설 추진 보도 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfY2JkUHdTSDFESXdRY19FczZoaE5faGhTOWhrRlFNR2VSZGdCbDc5d1hVbVZvR3JYeGVma2pQU21Fb0dxa2lTX0dmRE9vNTFHMVFwQnp2b2dYdmt5OXhPQWJvYi1QQU92NVZtXzBtYWY?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,40 +49,30 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체기업 나유타, 청주에 570억 투자…2028년까지 본사 이전 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mZDNNUE1mTExPdmE1NnV0RThJYVZZV0FVSl9LOTJZckYzNENSeklIRGVUYjlSV2NocjFuWkFLWFNIb1dZUDdDRDNCZHMwUjA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 수출 200% 가까이 급증…8월 1~20일 수출 552억달러 '역대 최대' - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vb19SdFpqODhiZmZSdk5wNjdHYzJWaWJHdFduVVoxRkNzMUFyX3d5dW9ZUmRManhSUXlENGVLaEVVT2I3aHNveUN3RFRDV1U?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체·AI 수요에 힘입어 8월 일본 제조업 활동 가속화 - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQU0NEanQ2SEhpVTR6NHN2ZkI1Y1lNNHR3emVhMG01NFByTVdKRjBHZ1p0aTRJWDJ5VmVhRWF0ZEhkZlQxclJwanJLcmFBd1RoX3dQeDRKOExCblM5MFN5UXlVYmg5NnhMX0I3TmlmWU16T0k?oc=5",
+        "title": "반도체 호황 세수로 '100조＋α' 미래대응기금…교부금 연동제 54년만 폐지(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBucnNUTE9pTDlUcXF0c3NnT0phcExabHJUbUVBNUJmYXFLSVdwQzJ6QnZOcFFfY1Z1VkZHbWxGMDRPVFNuS3dtZnhMUzR4X3M?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
+        "title": "AI로 직원 줄이면서 \"AI 때문 아니다\"…말 바꾸는 美기업들 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYY9IBYEFVX3lxTFA5aUpsWF95NXpBbE01TndsUTJabDgxaUh1LXJIMXFQdVNvZ21mTEtVQ3BNOGpPT2RMeWFMejhvX1BVSnFsZ3p0TzcxZFZUMjlwU3lwSktfMDY1TDItdTdYYw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'공공조달 AI 대전환 속도'…조달청, 인공지능조달혁신과 신설 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JUWV2clFPVjdxNXM2MDVQVkE5Y2t4U19GN0pHT2psZFN6UGF6LVI5TzVuc0Q4YUxUV3hCOHl2aGxoR184VE44clI0STVMVGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "알리바바, AI·클라우드 매출 가속…인공지능 관련 연간 매출 10조원 돌파 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMHc4OEo3Nml6c25PQjAwQ3FILXJmalZxVk9oaGk3M19sVVRveUM1TzVtY1BwQ2xZYVlRdXphMkdma0NLa3VuS1dVaVlJa2thYWlWbXlIN01VLXRPNlNDS2JsMkdrS28?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "AI로 직원 줄이면서 \"AI 때문 아니다\"…말 바꾸는 美기업들 - 연합뉴스 한민족센터",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10bEZNN0VkZzVFZFFrcjNxNHZWMjR5c2FDNzY0Qlg1Y1hkRHI1c05yaVp5RVVoODRMODR5cGh0eEdnX05ESW9UZ1Jqejhpd3lHZm8wY09ubndrdzQ2eWFrQ0Q1LVRYLWwyR2lLeEtUVzFzTXBS?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "조달청 '인공지능조달혁신과' 출범…공공조달 AI 대전환 속도 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZUFjVVcwVXp6UUJMUDFURi1uUDViWjBzMWdyVVF2dWlxeDA1X1RHWnVOSWdxRjFaN3JqUUZBREpkbGRPSl9nYXZscnlGcXc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 리뷰·사기메일 딱 걸린다...'인공지능 감별' 미국 스타트업에 뭉칫돈 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96WVZicTlKd05QbDRfZUUtQUJuYzZOSHZrWEVERDZIU0tIaVl1ZG5nUzhUMzEwdU9wTHlZZ0NuVWtZS3dIcnBTZmFyLUFNNy14bjVWT2pYbmZFVEdMT2xneHRJczR3MFh20gFuQVVfeXFMT0ROTkpReDA2N1NVN1B3Sll0WTlIWl9PX1ZEcFZIMms5OEdwMF9sSzhoVW5HLXhjNEllcElwYlBlTk8wdFZmQWdJVTdaZkIwTHR6Z0ZWMDRDc0VZSFdLUjBodTBVSnlQSUpiLXBuaGc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "약사회 \"'플랫폼 도매겸업 차단' 약사법 개정 환영\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016262481",
+        "title": "한국인 불법촬영물 215만 개 유통… ‘합법적 해킹’으로 지운다",
+        "link": "https://n.news.naver.com/mnews/article/469/0000949044",
         "source": "네이버 뉴스"
       },
       {
-        "title": "특검, 심우정·전무곤 불구속기소…“계엄 내란 중요임무 종사”",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805487",
+        "title": "PC 점검하는 척…여교사 사진 빼돌려 딥페이크 만든 전산업체 직원 징역 3년",
+        "link": "https://n.news.naver.com/mnews/article/020/0003742426",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“실종자와 연락됐다” 경찰 말 믿었는데…통화기록 없었다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653657",
+        "title": "BTS 정국·대기업 회장 노렸다…380억 탈취한 총책 징역 20년",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545733",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'화학적 거세' 면한 김근식 파주로?…\"아동 성폭행범 온다\" 소문에 '초비상'[자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382130",
+        "title": "'명태균 여론조사' 윤석열·오세훈 같은 날 항소심 첫 공판",
+        "link": "https://n.news.naver.com/mnews/article/421/0009124901",
         "source": "네이버 뉴스"
       },
       {
-        "title": "선유도역 인근 식품공장서 암모니아 가스 누출…자력대피 41명(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014139816",
+        "title": "검찰, '노태우 비자금 의혹' 김옥숙 여사 자택 등 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/079/0004180899",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 01:25"
+  "updated": "2026-08-21 02:46"
 }
