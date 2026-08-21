@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오 인적분할, SK스퀘어 닮은꼴…관건은 '제2의 하이닉스'",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564702",
+        "title": "AI·디지털로 사회문제 해결…과기정통부, 국민 챌린지 개최",
+        "link": "https://n.news.naver.com/mnews/article/469/0000949320",
         "source": "네이버 뉴스"
       },
       {
-        "title": "로봇과 K팝 즐기는 '갤럭시 로봇파크' 정식 개관",
-        "link": "https://n.news.naver.com/mnews/article/422/0000898175",
+        "title": "둘로 나뉘는 카카오…정신아 AI·김도영 미래투자 이끈다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672296",
         "source": "네이버 뉴스"
       },
       {
-        "title": "새울원전 1호기 정기검사 마쳐…재가동 허용",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242399",
+        "title": "빅뱅 노래에 '칼군무'…춤추는 로봇, 내년엔 아이돌 된다 [현장+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323421",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과기정통부, AI·디지털 기반 사회문제 해결 챌린지 개최[사이언스게시판]",
-        "link": "https://n.news.naver.com/mnews/article/584/0000039010",
+        "title": "새울원자력본부, 새울 아카데미 2기 수료…지역 밀착 교육 진행",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181017",
         "source": "네이버 뉴스"
       },
       {
-        "title": "머나먼 세계 1강… K로봇, 중국산 몸통에 미국산 머리 얹어 쓴다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994310",
+        "title": "삼성·LG는 로봇 눈, 스타트업은 두뇌와 관절 개발에 집중",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994309",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "8월 중순 수출 '역대 최대'…반도체 비중 최고 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RV3RIOFJjeml6bTk1WDRnNTNhalBzcVBPWXE2R1pMWGZ3aHpDUmgtYXZrQlRtMVBxcVNqZk9yUk12d2NpeFY1alBOZmQtcU0?oc=5",
+        "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 초호황 세수로 ‘150조+α’ 기금 만든다 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcFhtNGptdWRsM25IM0RpUkdybTNkdmQwTmNuTGhLdENhdmNNRUUyTVhCYnpPZ19yeEwzOEgxQjVrYlhRcVJzd3BpTWQycGExMGNZcnIwNWRWZnUyXzRFOG9hN3QwTW9CUVdUdUFyZU5YN0w0VmfSAWZBVV95cUxQZDZRYWpTQ2h2SjNJdWt6WW1mMi1sVUNFUmwzMC1MM2ZBbDB3MGd0c2VXRWExNTI4Unp4OEh1d0c3dV92cGZJbGM1bmRwVDM4dFlNbl8wcGxfZVQwU1V5R0lGNFhwZEE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 추가세수로 100조 미래기금 “AI·첨단기술 실탄” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaHM0MENqWnQzTTN6U25YVUZEVXdsVkp4UnVETWRoOVROY1F3eTJSem1iMGl2Q0l3M185Q20yczV4dVFKS0JqX3N1U1lxQ3BhODF4VTl3?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "Anthropic, 전 구글 칩 책임자 영입하며 자체 반도체 개발 추진 - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sblBzTjR4LWdrRmYySnpvQUhuZ0RSQXNkVG1BbUJlcnhfTmxvZTBhY1JLS3JWZmpPNHdDd0NZY00tejItRV9BcGs4RGxYdWtlT3Q1aGsxeXZFM3dsNkJidk0zbmNtZHgxRmwzZnhod08?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "반도체 형님들의 '통 큰 주주환원'…국장 수급 개선될까 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbWFIZDJFSUo4YmJZQ0wyY2NjZ0dCVE9mVWM3U2NwdGVvV2ZTclNYbVY1OFV1MUtmS1FOV0tZaktTeGRHR2hqTTlzYzdPUFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체에 돈 몰리자 … 코스닥은 급락 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLRXpiRGJOdFJObGpvbTFCSnB1cV9BVU5PalVfZUdCTWttMDNZVHE1bFJ5cjIwLWFRTFdlSDZtdTBYVndVTE1aY0R6Y3ZXWkFyVUE?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
+        "title": "李 대통령 \"AI로 공금횡령 잡아라\"…반부패 행정에 인공지능 도입 - 신아일보",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5saG9iT2ltcVZ4ZmZsbjVIdHpVWHZsMmVEc1ZtSG9qaVloemVfTWk3VHFtVm8zbU1wTHJjV2E0aEdqbUlfRWhSNUhOcjFJWjJVbXF6U3lpaTUwM251NmRRYTJBeVo0aEFvWW5jbXl2LWY?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이상봉 제주시장 후보자 \"민생경제 회복, 총력 기울이겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009125422",
+        "title": "韓서 딱 ‘한달’ 일한 외국인도 국민연금 따박따박 받는다…추납 악용에 ‘몸살’",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653837",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최평규 SNT그룹 회장, 창원대 명예공학박사",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355944",
+        "title": "'동료 기장 살해' 김동환 1심서 무기징역…법원 \"영구격리 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001964796",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"한 달 일하고 매달 연금?\"…외국인 '평생 연금' 실체",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382367",
+        "title": "경찰, ‘제주 실종’ 전단지 장난전화에 “엄정대응”…조롱글 포함",
+        "link": "https://n.news.naver.com/mnews/article/009/0005724058",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대전단체 \"교육교부금 20.79% 연동제 폐지 철회하라\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002526293",
+        "title": "'오빠 논란' 정청래·하정우 아동학대 고발 사건 무혐의 종결",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323228",
         "source": "네이버 뉴스"
       },
       {
-        "title": "효성家 형제 12년 만 법정 대면…조현준 “조현문 처벌 원해”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004653893",
+        "title": "서울시, 9㎝ 성수대교 단차 전문가 검증…\"안전 문제 없어\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005402972",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 21:51"
+  "updated": "2026-08-21 22:27"
 }
