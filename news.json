@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "AI 골든타임 잡는다…카카오, AI·X 인적분할 승부수(종합)",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355823",
+        "title": "카카오 인적분할에 \"공동교섭\"…노조, 26일 공동행동",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263187",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"출연연 창업 걸림돌이던 연구자 이해충돌 규제 해소\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434707",
         "source": "네이버 뉴스"
       },
       {
@@ -12,25 +17,20 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "“AI로 사회문제 해결해보세요”…과기정통부, 국민 참여 챌린지 개최",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355828",
+        "title": "AI로 기후재난·사회문제 푼다…과기정통부 국민 챌린지",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355661",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘딥테크 창업 촉진법’ 본회의 통과…연구자 창업 회색지대 해소",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723679",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "방미통위, YTN 변경승인 취소 청문 추진 놓고 파행",
-        "link": "https://n.news.naver.com/mnews/article/056/0012241978",
+        "title": "갤럭시코퍼 내년 상반기 로봇 아이돌 출시",
+        "link": "https://n.news.naver.com/mnews/article/417/0001156036",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
+        "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "반도체 호황 세수, 미래 성장에 쌓는다…'미래대응기금' 신설 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UC1FTUNady1WWnRTbDhQV3NaTTNidTZQWHNRYkRTM01KbEJrYU1OajRnSnppX3UyaHB4eFVkOHBIUy1PM0ZKQ1ZvczgzS0E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "8월 중순 수출 '역대 최대'…반도체 비중 최고 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RV3RIOFJjeml6bTk1WDRnNTNhalBzcVBPWXE2R1pMWGZ3aHpDUmgtYXZrQlRtMVBxcVNqZk9yUk12d2NpeFY1alBOZmQtcU0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "8월 1~20일 수출 552억 달러…반도체 비중 역대 최고 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSUlzRElhNzZ2WkJaV2NaazRmV0FlRXdmNVM3QUxINnRiSXprSjA0OFItT09jRzN4dlh0R0NxRXN1SWlCc3BIRXEwR1YxdkF0Z2gxcGtYS1luNnM?oc=5",
+        "title": "BMO, 반도체 주식 커버리지 개시…선호 종목은? - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMlpadEtfTUZiaWNPblJNMDhfTUw3Qy1iMWtDX2ZONlRjemlNTmFyeFZseGNVcHdxTTlHMUxjaGJtZDZQLTBrdUpEZTBoeHA5QUsweHdOZF9nZWR4eFpRcVRQRFZEMzE1X2JNaG9wRU8?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,11 @@
       {
         "title": "인공지능 약관 분석해보니…“성인 인증 허술” - KBS 뉴스",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NTlQblhic2pTR3VMV0Z3WGh5Y0dNcnhuSmt3dEowV2VNTzMxRncyMkpxeW54ZWhKaWR5dFFTRFR6NGJiVjZCY0NLVlk0RGgySTBMc3I1WWhvOVdMTXJtZnJGSUg2UQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "인천 부평구, ‘인공지능(AI)! 스마트한 자원봉사 : 시니어의 귀환’ 실시 - 실버아이뉴스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcU9ST2Rwb0N1eEM0M2dNM0J2RDdVbUI5TGhvUHZTWFhiVktYczR0a3NxNUtFd3QyalZOQWNXT09YemdNaGNTNlU4LUw5UzU2T3RkaG1EYzFad1FzbU9FZFVBNlUzcnRGUGc?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "알리바바, AI·클라우드 매출 가속…인공지능 관련 연간 매출 10조원 돌파 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMHc4OEo3Nml6c25PQjAwQ3FILXJmalZxVk9oaGk3M19sVVRveUM1TzVtY1BwQ2xZYVlRdXphMkdma0NLa3VuS1dVaVlJa2thYWlWbXlIN01VLXRPNlNDS2JsMkdrS28?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "전남광주시·무안군, 군공항 이전 지원방안 논의 착수",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264237",
+        "title": "알테오젠, 2532억 들여 대전에 바이오 공장 짓는다",
+        "link": "https://n.news.naver.com/mnews/article/119/0003123917",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신임 판사 후보 146명 공개…검사 출신 32명 ‘역대 최다’ 유지",
-        "link": "https://n.news.naver.com/mnews/article/277/0005805873",
+        "title": "12년 만 법정대면 효성家…\"처벌 원해\" 형 증언에 동생 '신빙성' 다퉈(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355813",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 실종자 가족에 장난전화·조롱…경찰 \"2차가해 엄정 대응\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323312",
+        "title": "'통일교 1억 수수' 실형 확정 권성동, 변호사 등록 취소",
+        "link": "https://n.news.naver.com/mnews/article/421/0009126663",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북도, 경국대 국립의대 신설 계획서 제출",
-        "link": "https://n.news.naver.com/mnews/article/056/0012241522",
+        "title": "제주 실종 여성 관련 2차 가해…경찰 전담팀 구성",
+        "link": "https://n.news.naver.com/mnews/article/422/0000898119",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울 양평동 롯데웰푸드 공장서 암모니아 누출…인명피해 없어",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355392",
+        "title": "'통일교 집단가입' 김건희 첫 공판…혐의 전면 부인",
+        "link": "https://n.news.naver.com/mnews/article/057/0001964821",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 12:52"
+  "updated": "2026-08-21 13:48"
 }
