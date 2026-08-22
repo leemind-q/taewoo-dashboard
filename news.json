@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오 노조, 26일 판교역 광장서 공동행동…\"공동교섭 요구\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264430",
+        "title": "카카오 인적분할에 160만 주주 당황…새로 상장하는 AI 회사의 정체는 [플러스 관심 종목]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005724241",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방준혁, 텐센트 보유 넷마블 지분 13.4% 인수…3740억원 투입",
-        "link": "https://n.news.naver.com/mnews/article/421/0009126422",
+        "title": "빅뱅 노래에 '칼군무'…춤추는 로봇, 내년엔 아이돌 된다 [현장+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323421",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "방준혁 넷마블 의장, 텐센트 보유 지분 13.4% 인수",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994226",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +22,8 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "엘프도, 사무라이도 아닌 '도사'…넥슨게임즈 '우치'가 여는 조선 판타지",
-        "link": "https://n.news.naver.com/mnews/article/119/0003124189",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"BTS처럼 칼군무 춘다\"…무대 찢은 K-로봇 월드투어 나선다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356000",
+        "title": "'오늘만 먹자' 매일 밤 반복...야식증후군 예방법은?",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396854",
         "source": "네이버 뉴스"
       }
     ],
@@ -31,6 +31,16 @@
       {
         "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자 리포트] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaGF2TlFxRWhsRklQQWtSQnpxZFIwM0tmZ1lZUFhVN3hWMzZrajhYaUs0OXFQV0VNZ3lIMVpiUUZsbVZ0VDk4bUI4VVBvd0U?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한국거래소, 하이닉스에 '日 반도체 공장' 보도 조회공시 요구 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UT05FbG1VbHRlNG5KWnF2d1Rzbk41ZmlGRFVLS3E1WkxPSVRCcjFkenZFMF8xNHJmZXRNUDJ4ZDRpLVhWczVIZUZ3TlhzQWhkeHhNTUpZYUw5QQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -42,22 +52,22 @@
         "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMDdvM3Q1NVBnZ1d6SU5ZblZPUGhUako0d3pUQTljMXRmSHQwSHZmVmJGTDdYaGM5djlRcnAwR0pjbzFpOW52bEZrQURIa01vNVFlU090OUxtUjByNWNZRXphVURvUUVBQnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "8월 중순 수출 '역대 최대'…반도체 비중 최고 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jRUtLTkdkaTBrOUhBWU1acUR0MUJnb2pNaU0ybGIxZG5kZmZDclpCeEhaUVR0R0JKMFJ3NFdTVk9ldGVoS3Y4dnRzRS1iNF9rUzd6bGd1NjRvVWvSAWBBVV95cUxOX1QwckptZlVESHRVWE5ueG1LLV9MZEZOWFZNQmdFZUR3Y3RjTjVtZFdpakVCWk9fdW9KRUdLNzBjMVZXY3I2T2FEcUJzZEFXUGxEM0ZCWGJFS0RPLWdmYVc?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "[보도참고] 우리 한국형 인공지능(K-AI) 모델이 현장에 펼쳐지고 있습니다 ⑦ - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkk3YTAwVzlLSmloZW83OXhyVFhMcFRWX0VqMm0zd0hkdF9zUVFfR1VmMlMySENmM19SQkx2amhGM1FSS294U3BJQUZCWm91TmREWVMwMDMwLXhLWmg0YTh1cUwtY09NenJtdjBaUTh2UkNnMDNDZ084eWF5bDVybkFGLUs3ZFlWYUF3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대” - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNTanpSWE15N0M0YTB2U3JNVkplcTB2eVhKY2R2Mi1xR0hrWXRGNUd1UjZyMWl5ZENRQ09vWUdoSnp3TDJRYjlXSkNGSjVBSktCUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "안양시, '제1회 전 직원 인공 지능(AI) 활용 경진 대회' 성료 - 퍼블릭뉴스통신",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvOHBaSXB2MTM0RTVyR1N3Qmk3M2MxNVFYRzZkN1BHZm9uVDhPdGkwQXpnSnJYSU9PTVBQTkZ6T2VBLVBjRDNBSS1XNkVGY2hOSTNXZUdpZWthbDVuOERpdzRxQVQtY2dadkE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teTZ4ODk4S0xST0tkWnlLNk9UZ1dkck1EdDM2amprQl9ScmF5ZEFZbjJaUTFNUF91M2xBS2Z1VkNOMGhhclNZcTBWeHd3aG02UmVjVkhZTDUwd0JFSFl3UkZlVGJGTDg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시, 제1회 전 직원 인공 지능(AI) 활용 경진 대회 성료 - 브릿지경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVTVldHAyRjNmc1hpVUppWExsY1lhY0RFUF83SzIxRFE4d0g4TFdMT1dCc0VGcl9Cd1hWZ0U1cDY0b1BSRUUwanI3ZFQ4M2JTSWw0Tk5RT2x0QQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "제주 30대 실종 허위 종결…절차 고친다지만, 실종성인법 '쿨쿨'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009126896",
+        "title": "제주 실종 여성 가족에 “찾게 해주겠다” 장난전화 17차례… 10대 검거",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187709",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아버지 살해→도망다니다 잡힌 30대 아들, 징역 '16년'...쌍방 항소",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403127",
+        "title": "법까지 고쳐 180일간 수사…종합특검, 성과는 ‘물음표’",
+        "link": "https://n.news.naver.com/mnews/article/011/0004653972",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'연락두절' 여중생 딸…경찰의 촉, 편의점 CCTV로 찾았다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014141684",
+        "title": "광교신도시 활보한 '대형 도마뱀'…수색 11일 만에 포획",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403284",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“가발 쓰고 손하트 ‘충격 영상’”…만 40세 전국 최연소 시장의 정체",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724302",
+        "title": "교육교부금 55년 만에 개편...미래대응기금 100조＋α 신설",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "강호동 농협중앙회장, 거제 폭우 피해농가 찾아 복구상황 점검",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264364",
+        "title": "“어? 여자 아니었어?”…캐리비안베이 탈의실 들어온 ‘몰카남’ 구속 기로",
+        "link": "https://n.news.naver.com/mnews/article/277/0005806015",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-22 19:46"
+  "updated": "2026-08-22 20:24"
 }
