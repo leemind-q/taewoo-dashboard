@@ -2,37 +2,32 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오, 카카오AI·카카오X로 인적분할 결의",
-        "link": "https://n.news.naver.com/mnews/article/214/0001519267",
+        "title": "카카오 \"카카오X 지주사 전환 없다…CA협의체도 불필요\"[일문일답]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355770",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“中 로봇산업 성장, 韓 로봇기업에 기회”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003742302",
+        "title": "갤럭시 로봇파크, 정식 개관 전 2만 명 다녀가",
+        "link": "https://n.news.naver.com/mnews/article/277/0005805679",
         "source": "네이버 뉴스"
       },
       {
-        "title": "원안위, 정기검사 마친 새울원전 1호기 재가동 허용",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264163",
+        "title": "휴머노이드 로봇 300% 성장…애지봇·유니트리가 주도",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263178",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과기정통부, ‘AI·디지털 사회문제 해결 챌린지’ 개최",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238599",
+        "title": "\"5일 썼는데 배터리가 80%?\"…10만원대 가성비 '레드미 워치6'[잇:써봐]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356051",
         "source": "네이버 뉴스"
       },
       {
-        "title": "머나먼 세계 1강… K로봇, 중국산 몸통에 미국산 머리 얹어 쓴다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994310",
+        "title": "휴머노이드, 대규모 양산 본격화…상위권 中 기업이 싹쓸이",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434721",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "반도체 추가 세수로 마련될 미래대응기금, 최소 120조원 가능성 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTFYaXRCcTJpVjBBRV9xQUVZTk1FcmRZTllhblpKREZnSlllaU1PWEFzYjA2U3FzVzBNWUZhSDB6VlpPRFZOdHU3MlJKR3dmT1hmbmFjUUxMNXFlM0tDQm5mTXRFWGFwZmd4a2Z3MVFPWmdkS1ZtdHRCMTlkZzIzQmdmelpTLXRobVN1czBB?oc=5",
@@ -49,8 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQldIeElhRmU0cjlxYUIyTWg3S1FZNndhY3pDMUhKVktmUTQ0dkJvNFBDMDdIemQ3V3B0MndDSHRHRngwVmpNR3ZDbDV5RnprallzdmZQaGxfNnfSAWBBVV95cUxPUFRPcmVYazNWQmoyMHpKcUllRk1iMEZXTlRrUmg4X1liSFpzMmJNZjdCbG1RVkl6SXhqRXoyQzk2ZzZhVXFwMF9Pd0l0eUdFa1NQT21UODhhOGM2NUJRZWU?oc=5",
+        "title": "광주상의, 24일 '호남권 반도체 클러스터 범시민추진위' 출범 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ySUx2eF92UE95azBTNlN3dDVsT2RkUS1oWEpuR3pnckM5QTZHZHhENmw4Qy1FOW5mcDJLNFY4Vi02bkZfU3U4dlItdEg5dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독] 호남 반도체 팹, 2기 더 짓는다 - 서울경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbnJMNDJBdzQ3eW1yajdYS19nMlp4SDhFRWlrd2praHhEUUJZVDNmRGcxalVMUUx0ZktjdTBFVTFvdDRMRTZ5QUdJSV9qdlZzS0E?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "교육교부금 내국세 연동 폐지 추진…강원교육노조협 \"즉각 철회하라\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009126113",
+        "title": "기획조정실장에 양제윤·안전건강실장에 조상범… ‘일하는 조직’에 방점",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "민형배 \"전남광주특별시 부시장 조례 불일치 유감…소통 우선\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014140908",
+        "title": "'불법자금 정치자금 수수' 노웅래, 2심에서도 무죄",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396534",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 실종 사건에 드러난 '구멍'…뒤늦게 '이중 잠금'[자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382356",
+        "title": "연세대 '나체·복면 남성' 잇단 출몰…서대문서장 현장 점검",
+        "link": "https://n.news.naver.com/mnews/article/003/0014140225",
         "source": "네이버 뉴스"
       },
       {
-        "title": "600일 맞은 여객기 참사…\"진상 규명 지연 규탄\"",
-        "link": "https://n.news.naver.com/mnews/article/660/0000115593",
+        "title": "가족은 피말리는데…장미란씨 제보 번호로 장난전화·조롱",
+        "link": "https://n.news.naver.com/mnews/article/057/0001964872",
         "source": "네이버 뉴스"
       },
       {
-        "title": "무성했던 추가 비자금 의혹‥강제환수 길 열리나",
-        "link": "https://n.news.naver.com/mnews/article/214/0001519338",
+        "title": "'집단 입당 의혹' 신천지 이만희, 오늘 보석 심문",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396085",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-21 23:50"
+  "updated": "2026-08-22 01:20"
 }
