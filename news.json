@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "\"2030년 로봇과 함께 일한다\" 76%인데…韓기업 27%만 \"전략 준비\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355625",
+        "title": "AI 골든타임 잡는다…카카오, AI·X 인적분할 승부수(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355823",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323400",
+        "title": "구미·경산·포항, 세계 로봇도시 된다…사업비 60억 투입",
+        "link": "https://n.news.naver.com/mnews/article/003/0014141522",
         "source": "네이버 뉴스"
       },
       {
-        "title": "게임 속 부산 맵이 현실로…넥슨 '오버워치 데이' 개최",
-        "link": "https://n.news.naver.com/mnews/article/421/0009126935",
+        "title": "넥슨·블리자드 \"새 출발선 섰다\"…부산에 펼쳐진 '오버워치' 세계[현장]",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238626",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방준혁, 넷마블 지분 3,740억원어치 인수…지분율 38.34%",
-        "link": "https://n.news.naver.com/mnews/article/215/0001263177",
+        "title": "앤스로픽, ‘2조 달러’ 몸값으로 역대 최대 IPO 추진",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994349",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'한국 배경'으로 주목받은 '모던 워페어 4', 베타 테스트 돌입",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434737",
+        "title": "머스크 8조 베팅하나…위성-스마트폰 연결 시대 온다 [김기혁의 테슬라월드]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654146",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "SK하이닉스, 일본 '반도체 공장' 추진…호남보다 작은 규모일 듯 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BbWQ2SHRHREVnQ1hZTWNVaG93SU50dUdrZWhVaksyUTNYckwybFBadmNfZHE0ZVJaUU1hX0hnU0dyNkNTckFIQVZPVTg2QXM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자 리포트] - 세계일보",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNVlCYnY5M3dTVFJiXzhGVENRMUROLTM4YlBxWTBvUnVpWkt4X1NWWTVfS0FHUDZQMWc4WkFfSV9tUUR2amlsbjUxcWgyVWp5aXo3ckxjTmnSAVRBVV95cUxQVW8tNTRBWDJFcVQ2OURIQmRTeVR2WkEwRDJ3UU5zR01WNHdRYTdnV2xXUmRCNVVvUmQ2VWhkOGhObmp3NG1TWW16dlhQSElXTUhkMGo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광주상의, 24일 '호남권 반도체 클러스터 범시민추진위' 출범 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ySUx2eF92UE95azBTNlN3dDVsT2RkUS1oWEpuR3pnckM5QTZHZHhENmw4Qy1FOW5mcDJLNFY4Vi02bkZfU3U4dlItdEg5dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "895조 썼는데 길 하나쯤이야…광주에 ‘삼성길·하이닉스길’ 생길까 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95dFdlRkNGOG9mRkhsWFFocEVWNUhyT3BfcV9OQVlzMjZtVW1qUzNqcVpCX2FwQW5QZ3BobV9GeFdaWVI5YnlFRkFEa05CSjA?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNTanpSWE15N0M0YTB2U3JNVkplcTB2eVhKY2R2Mi1xR0hrWXRGNUd1UjZyMWl5ZENRQ09vWUdoSnp3TDJRYjlXSkNGSjVBSktCUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "안양시, '제1회 전 직원 인공 지능(AI) 활용 경진 대회' 성료 - 퍼블릭뉴스통신",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSWZjbXVYbDZYT1ZlZ3JxMDNtUk5yRjJUSWotc0JJNENweTI0UHJQb2dBZ3g1REhoQ3NPZUxtUzdLbDQtZ3lBN2Ric2tvQm9KeXVCeHRReFd3cGw4VTB3Vk1vTzRzX1pjNGVR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[AI돋보기] 한국 AI 정말 세계 3강인가…숫자로 따져보니 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BV2g4TVNUZmgzTGxrdE5CYmRCZ1dhelc3aWNRb2dLNEo4elVlTkJLTUlSR2lkV1NLZUNCZGxEWWFueFJ4N09tejRybW5DOEhUNjY2cnF5ZFVlM2fSAWBBVV95cUxOWUlyVXhldkdDdFRNcUtYbGtEWi1GXzB1Q0pybVQ1VVZvbEJQM3FGVm1lZGdQemJKMDRKTkVNOHlOUEFPTUQ4b0NFWEZRcHlmbVZQM2FzWjhHS2VObDBNQkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "안양시, 제1회 전 직원 인공 지능(AI) 활용 경진 대회 성료 - 브릿지경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVTVldHAyRjNmc1hpVUppWExsY1lhY0RFUF83SzIxRFE4d0g4TFdMT1dCc0VGcl9Cd1hWZ0U1cDY0b1BSRUUwanI3ZFQ4M2JTSWw0Tk5RT2x0QQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "중·저연차 검사는 중수청行… 베테랑 부장은 공소청 잔류",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152610",
+        "title": "\"교육교부금 감소하면 미래대응기금과 국고로 보전\"[문답]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355659",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"신음소리 들려달라\" 제주 실종여성 가족에 '17회 장난전화·문자' 10대 체포",
-        "link": "https://n.news.naver.com/mnews/article/215/0001263227",
+        "title": "제주 실종 장미란씨, '실종자 관리 시스템'서도 삭제돼…왜?",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051592",
         "source": "네이버 뉴스"
       },
       {
-        "title": "농수협·식품기업들, 경남 호우 피해 복구·구호 물품 지원(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016264383",
+        "title": "\"아내 살해한 흉기는 그냥 상징물\" 황당 주장한 70대, 재판 결과는?[자막뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382582",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안민석 경기도교육감, 교육교부금 개편에 “개혁 아닌 개악”",
-        "link": "https://n.news.naver.com/mnews/article/666/0000120017",
+        "title": "이혼이 소환한 '비자금'…김옥숙 자택 압수수색",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독] 7월 2일에도 또다른 실종사건 셀프 종결… ‘장미란씨 실종’ 해제 처리 경찰관 긴급체포",
-        "link": "https://n.news.naver.com/mnews/article/081/0003672584",
+        "title": "경기교육청 '교권보호전담관' 공식 출범…\"악성 민원과 전면전\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264836",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-22 11:22"
+  "updated": "2026-08-22 11:46"
 }
