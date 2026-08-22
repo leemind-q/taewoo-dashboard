@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "승부수 띄운 카카오…AI·X 분할로 새판짜기",
-        "link": "https://n.news.naver.com/mnews/article/422/0000898173",
+        "title": "카카오, ‘AI’-‘미래 투자’로 나눈다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003742569",
         "source": "네이버 뉴스"
       },
       {
-        "title": "르세라핌 팬 된 '오버워치' 영웅들…블리자드가 밝힌 협업 비하인드",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238630",
+        "title": "반려견 키우는 노인, 치매 위험 절반가량 낮았다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004152840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "반려견과 사는 노인, 치매 위험 48% 낮아진다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004654168",
+        "title": "부산 벡스코 달군 '오버워치 데이'...이용자 인산인해[이기자의 게임픽]",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434729",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중국산 몸통에 미국산 두뇌... K휴머노이드, 갈 길이 멀다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994310",
+        "title": "“8년 된 게임도 업데이트로 인기 역주행”… 투자 효율 높이는 게임사들",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187689",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[사이드B] 진천까지 가서 '비밀협상'…SK하이닉스가 입단속한 까닭",
-        "link": "https://n.news.naver.com/mnews/article/031/0001051672",
+        "title": "유니트리 상장…중국산 휴머노이드가 여는 '디플레 수출 Part 2'?",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403301",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
@@ -39,13 +44,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "한국거래소, 하이닉스에 '日 반도체 공장' 보도 조회공시 요구 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UT05FbG1VbHRlNG5KWnF2d1Rzbk41ZmlGRFVLS3E1WkxPSVRCcjFkenZFMF8xNHJmZXRNUDJ4ZDRpLVhWczVIZUZ3TlhzQWhkeHhNTUpZYUw5QQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"고마운 하닉·삼전\" 전남광주특별시 '명예도로명' 지정 검토 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZcWt4d2Y0U1F1WTU2dG5tRUlsMkFXWmJLck9QNzdLd1NxUGZ3RVM5b2V6ckVDTy13cVFaRWstYzhVcXAzVmhiWDJ2MEpielU?oc=5",
+        "title": "광주상의, 24일 '호남권 반도체 클러스터 범시민추진위' 출범 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ySUx2eF92UE95azBTNlN3dDVsT2RkUS1oWEpuR3pnckM5QTZHZHhENmw4Qy1FOW5mcDJLNFY4Vi02bkZfU3U4dlItdEg5dw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[권희춘 교수의 재미난 인공지능(AI) 드론 이야기] (1편) 5분짜리 장난감에서 사람이 타는 드론택시까지 - 더글로벌기빙뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05VVkxZmlfcmtZZmo2Vm1XbG1UOEhkV3YzRnY3RFQ0d3d4Vzg4ZnNIbnZ0emM1WUlIcngxOEEyUEJPQndFUVZ3Z3hnZEtHRVpkaWxoRg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "친구·부모 대신 AI?…“인공지능이 행동에도 영향” - KBS 뉴스",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV3kycXhUbXUybGFWUk5Tbkpmd0ZMMEJBYWR2VEt5U2JRMkZka2F6T2FZN2dQRktrY0pVSjFiaUZ3eEZ4V0pkZmQ0ZW1nX3dJRy1hTFJLeV9Sa0FqeVo4RXRfZzVaQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadDQxeWFGVUkyVFRGV3NlZXNTanpSWE15N0M0YTB2U3JNVkplcTB2eVhKY2R2Mi1xR0hrWXRGNUd1UjZyMWl5ZENRQ09vWUdoSnp3TDJRYjlXSkNGSjVBSktCUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[권희춘 교수의 재미난 인공지능(AI) 드론 이야기] (1편) 5분짜리 장난감에서 사람이 타는 드론택시까지 - 더글로벌기빙뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05VVkxZmlfcmtZZmo2Vm1XbG1UOEhkV3YzRnY3RFQ0d3d4Vzg4ZnNIbnZ0emM1WUlIcngxOEEyUEJPQndFUVZ3Z3hnZEtHRVpkaWxoRg?oc=5",
+        "title": "경상북도교육청발명인공지능교육원, 영남권역 학생 ˝SDGs 발명. 메이커. AI 수업˝ 운영 - CBN뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WMmdoTFhwWHFkeE1qVEJiU0EtR2ZhSVEtMmZxVXhOUjg4NkZmWmdWQnZOb2NIaFY3MUxOMHNheWtXQ1JoM01lTml2ajNfLVByYVEw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "종전 근무지 보장·반도체실 신설…4실 8본부 27국 구성",
-        "link": "https://n.news.naver.com/mnews/article/081/0003672553",
+        "title": "노태우 비자금은 끝나지 않았다…환수 가능할까",
+        "link": "https://n.news.naver.com/mnews/article/056/0012242440",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'신음소리 들려주면 찾아줄게'…제주 실종자 가족에 장난전화 건 10대 검거",
-        "link": "https://n.news.naver.com/mnews/article/421/0009127038",
+        "title": "여수 발전소 화재…6시간 만에 완진, 인명피해 없어(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0009127147",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국서 한 달 일한 중국인, 평생 국민연금 타먹는다…'추납 꼼수' 논란",
-        "link": "https://n.news.naver.com/mnews/article/057/0001964899",
+        "title": "봉은사 전 주지 명진스님 입적…불교계 안팎 향해 소신 목소리(종합2보)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016264933",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'가발에 선글라스로 여장' 캐리비안베이 女탈의실 불법촬영 남성 체포",
-        "link": "https://n.news.naver.com/mnews/article/119/0003124207",
+        "title": "중수청 출범의 역설…검찰도 경찰도 '수사 베테랑' 잃을 판",
+        "link": "https://n.news.naver.com/mnews/article/586/0000136521",
         "source": "네이버 뉴스"
       },
       {
-        "title": "드라마 ‘참교육’ 현실됐다…경기도, 교권보호전담관 출범",
-        "link": "https://n.news.naver.com/mnews/article/005/0001868329",
+        "title": "\"12억씩 받는다\" 로또 1등 '23명'...1238회 당첨 번호는?",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403285",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-22 22:24"
+  "updated": "2026-08-22 22:49"
 }
