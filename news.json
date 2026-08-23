@@ -2,18 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "KT·서울시, 초등생 AI 교육 맞손…‘AI 미래 캠프’ 개최",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238667",
+        "title": "둘로 쪼개는 카카오 “목표가 5만원으로 하향...보수적 접근 권고”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043783",
         "source": "네이버 뉴스"
       },
       {
-        "title": "누가 게임 '노동자'인가: 게임 노조 이야기[게임필리아]",
-        "link": "https://n.news.naver.com/mnews/article/002/0002453101",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카카오 인적분할, 주가보다 중요한 것은 ‘두 개의 엔진’이 실제로 뛰는가 [김현아의 IT세상읽기]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356283",
+        "title": "엔비디아 젠슨 황, 리벨리온 박성현 만났다…기술협력 넘어 인수까지?",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403444",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +17,13 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST, 나노 고분자 코팅 개발…열전달 효율 5.5배 개선",
-        "link": "https://n.news.naver.com/mnews/article/011/0004654348",
+        "title": "“물방울 잘 맺히고 빨리 떨어지게 했더니”…열전달 효율 5.5배 높였다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002687151",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "KT, '모두의 AI'에 국산 AI 풀스택 투입⋯서비스 기반 마련",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051680",
         "source": "네이버 뉴스"
       }
     ],
@@ -56,6 +56,11 @@
     ],
     "AI": [
       {
+        "title": "설계된 불안, AI 업무 자동화 [이서윤의 인공지능&인권지능] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0R3Z2WFVGZ0c1alROaWdJZEZlSzl4RmF6NGc0U0p1NmsyckREVjdNUVdOZGYxZ3VtR19mNEtkTmJUcVljV015d2pPb19qdjN3QmVfSVpMQlF6T2NLaU9BY0RTRVE2QQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[지지대] ‘죽은 인터넷’ 시대, 누가 AI를 통제하나 - 경기일보",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTXVGOFN5X0RDcWZHMHZ2NmxHcmxKNXRQQlhIUnc0YVR5VERwdWhWZXZFM012Q3FsdDBDX19jblpISTRFVmxBRWNLTUl0M0hsekhBUDFkdmVtNEk?oc=5",
         "source": "구글 뉴스"
@@ -74,40 +79,35 @@
         "title": "학교 파고든 AI···전북 “생기부 활용 전면 배제” - 경향신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oeWtkX2VkQ1djZHRsSk1hMnpiOFpicXNrT0VfODlna2RZYTZBSlhJWUFseGlkXzZKQ3VXYTNnQi1NMEdTcmI1dWJjcVVCVDlMVW1udG1oYzBrZ9IBX0FVX3lxTE92MHZlN1dSSENEc1AzenlfQ1h4ZTBMYmtVME5teHRqSUk3Z2FlWXgxWTRrc0dST0c5X3NWelBSVVp3MXoyeWVybWRBSmlpNzBGRjlFbUctZEpHMDY3anZv?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "오픈AI, GPT-5.6 Sol API·크레딧 가격 20% 이상 인하…3개월 한시 적용 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVX2NfQ3VVVExlcVhZLTdWb0pEbjRKS1lJQUc0VzBJOWlzYWVfcm5BUElkSEVZemdCOHdpVTF3Uk1nYzU4NFdzN1NjZ1F2VzdwME5GYndsTzBBU2pBZEpkc1Q4ZkIxSEk?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "해남서 올해 최대 3.1 지진...'군발지진'에 주민 불안",
-        "link": "https://n.news.naver.com/mnews/article/052/0002396946",
+        "title": "통영·고성 정점식 \"복구 마무리될때까지 함께할 것\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002453116",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공군 훈련병 집단 식중독 의심…70여명 복통·설사 증상",
-        "link": "https://n.news.naver.com/mnews/article/025/0003546150",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "고유가 피해 지원금 31일 사용 종료…남은 잔액 자동 소멸",
-        "link": "https://n.news.naver.com/mnews/article/629/0000526694",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "경기 남부·충남 등 강한 소나기…낮 최고 35도 찜통더위[오늘날씨]",
-        "link": "https://n.news.naver.com/mnews/article/417/0001156085",
+        "title": "해남 규모 3.1 지진 발생에 위기경보 '관심'→'주의' 단계 격상",
+        "link": "https://n.news.naver.com/mnews/article/277/0005806081",
         "source": "네이버 뉴스"
       },
       {
         "title": "제주 간 국수본부장 \"송구\"…'실종 종결사건' 전수조사",
         "link": "https://n.news.naver.com/mnews/article/055/0001382746",
         "source": "네이버 뉴스"
+      },
+      {
+        "title": "2차 종합특검, 180일간 수사 기간 마무리‥내일 결과 브리핑",
+        "link": "https://n.news.naver.com/mnews/article/214/0001519532",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "깨진 휴대전화 들고 일부러 어깨 '쿵'…수천만원 뜯어낸 20대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265164",
+        "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 20:25"
+  "updated": "2026-08-23 20:50"
 }
