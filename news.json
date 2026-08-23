@@ -7,27 +7,32 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "'창사 이래 최대 변화' 카카오, '기업 디스카운트' 해소 가능할까",
-        "link": "https://n.news.naver.com/mnews/article/014/0005565068",
+        "title": "KT-서울시, AI 인재 키운다…초등학생 대상 교육",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043722",
         "source": "네이버 뉴스"
       },
       {
-        "title": "표면 ‘결함’이 열전달 돕는다…KAIST, 물방울 생성·제거 동시 제어",
-        "link": "https://n.news.naver.com/mnews/article/119/0003124280",
+        "title": "‘알짜’ 떼어낸 카카오 인적분할…저평가 해소한다지만 시장은 냉랭",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819751",
         "source": "네이버 뉴스"
       },
       {
-        "title": "넥슨·블리자드 ‘오버워치’ 파트너십…\"韓 기반 IP 성장 노린다\"",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043721",
+        "title": "이용 뚝, 폐업 쑥…'게임 오버' 직전",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323668",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 서울시와 초등생 100명에 'AI 교육'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009127344",
+        "title": "앤스로픽은 칩 만들고… 엔비디아는 AI 모델 개발",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994449",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55dUpqWWZKdDJ5eUxPZ2praDQzSkY5ZkFmbmdmZ2FIY29PWFBUV1U2RVRSTnUtZ3BkbGNQbnJoY0NXNUhOcVNSZThWZmJhVGNUNmctLWVYWjNOZw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
@@ -44,13 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "8월 1~20일 수출 552억 달러 '역대 최대'‥반도체 198.8% 증가 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Wk53M2t1WmFURWlzbXJNN1c4M1NaR0lJZFZuOFVWNFM4WEQ0YlhKekp6cDg4OXJXOExGNFZEX3VwRUhKS3dnV1FwaUxUdFo4d3lmV3pINENUN3RRWDdiNFdwSlBQMG5yTG8yU2JhdVhTRkFG0gF0QVVfeXFMTU5UZmhhUlJzbko2MlRrZENiNlZwOW0tbDVGTi1oNS1pbWNwSDRXbGJiYzl5VHN5WFJOOGhCaVJacDBRTDg5RVlnUndlWnBWS21SQ1lCUGpnRlNiLU1fQW40WHUwWDZiUWlHd2NEZ3YwSjJJYVI?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "강원 메모리반도체 수출 2692% 급증…품목 순위 75위→9위 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10SkhxbnV0X0ZFVF95WElOMFRaNjVTd1ZpUG5fR0g3dUVoRGpwN0gwa3BYbXB5RFVGLWI5eE95WDZsYjNOeVRmanl1ZERGUEE?oc=5",
+        "title": "'내신 문턱' 높아진 반도체, 낮아진 통신·디스플레이 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZExxUnBiakIyZ1pCS0NxalR3a2s1dldDUVkyWGZHWXVPSm1iU1BoS1d0UVNwTEh2ZG5KZm1sTXdYcUZ2N0VETllYdjJwNlpsd3FwdnJqT3N5NDQzRjdjV3BTT1M1TDVaalHSAW9BVV95cUxNb0R5V081ZDZ3MzFoeDhjaFJJYWMyTXpERHlvbjFhOW1QMm5PSnRlSTJZM3lDdmRWb1RIUkVJWHlrR1d5Z2hsS2RRVmRzY1JQbGg0bkE1U19tYVdQc0ZubmpWSWNwWFVtSXF3UUFWMjQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "“정치 얘기 그만” 대리기사 요구에 뺨 때린 60대…‘벌금 100만원’ 선고",
-        "link": "https://n.news.naver.com/mnews/article/011/0004654357",
+        "title": "실종 사건 잇단 ‘허위 종결’…가족 “시신 몇 구나 더 나와야 사죄할 건가”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012242690",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기 광주 쿠팡 물류센터서 지게차 사고…40대 노동자 심정지",
-        "link": "https://n.news.naver.com/mnews/article/022/0004152972",
+        "title": "종합특검, 180일 수사 종료…내일 결과 브리핑",
+        "link": "https://n.news.naver.com/mnews/article/422/0000898503",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해남서 열흘간 70여차례 지진…6년 전에도 비슷한 일",
-        "link": "https://n.news.naver.com/mnews/article/001/0016265149",
+        "title": "해남 지진 반복에 위기경보 '주의'↑…\"피해없으나 대응 철저\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265405",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공군 훈련병 70여명 집단 식중독 의심…보건당국 역학조사",
-        "link": "https://n.news.naver.com/mnews/article/421/0009127879",
+        "title": "내일 낮 최고 36도 무더위 속 전국 곳곳 비 소식",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187814",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김상욱 울산시장, '청와대 찾아 산업AX 연구원 설립 지원 요청'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323745",
+        "title": "고유가 피해지원금, 9월 되면 사라진다…얼른 다 쓰세요",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181270",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 19:23"
+  "updated": "2026-08-23 19:45"
 }
