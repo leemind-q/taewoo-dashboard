@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "게임 속 부산 맵이 현실로…넥슨 '오버워치 데이' 개최",
-        "link": "https://n.news.naver.com/mnews/article/421/0009126935",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "카톡 중심 ‘카카오AI’, 카뱅 품은 ‘카카오X’로 분리",
-        "link": "https://n.news.naver.com/mnews/article/658/0000153138",
+        "title": "\"AI가 뭐예요?\" KT, 초등생 100명 AI 체험교육",
+        "link": "https://n.news.naver.com/mnews/article/119/0003124226",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016265322",
+        "title": "블리자드 개발진이 밝힌 넥슨과의 파트너십…“가장 적합한 파트너”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043638",
         "source": "네이버 뉴스"
       },
       {
         "title": "“엔비디아, 韓 AI 반도체 기업 리벨리온과 협력 논의”…젠슨 황·박성현 대표 회동",
         "link": "https://n.news.naver.com/mnews/article/366/0001187802",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "카톡도 떼어낸 카카오, 쪼개기 마술 통할까 [허진의 테크토닉]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323553",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,13 +34,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
+        "title": "미국이냐 일본이냐, 해외 투자 고심하는 K반도체... \"중요한 건 기술 주도권\" - 한국일보",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUHFRb0JkTkdPdjZ1WU9zQWZvSFppbWx6c3g1TUllZXZHTEdhSUFZblB6Z041TURFQXhTN2NNRzlQRHlQTjZrUGdEd2FlelQzekNzcnFwQXhaendFNWV2WkVBcmNVVDRocnFGdmZ30gFzQVVfeXFMT0FxLUZJVjNBNGswWmRyVkotQ3JXSkVxWWVXV1VWM3dCNzdaQkhkb0RCcWFLWTBtdWQ4RzcwdEd3RGFxczNJc0pNMjFPTE9nMVctbmc4Vl9yMG80OFp6cmdGMTNEY29MM0M1MF9pTEQ2ODVFRQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자 리포트] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaGF2TlFxRWhsRklQQWtSQnpxZFIwM0tmZ1lZUFhVN3hWMzZrajhYaUs0OXFQV0VNZ3lIMVpiUUZsbVZ0VDk4bUI4VVBvd0U?oc=5",
+        "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 팹 품은 서남권 꿈꾼다…전남광주 경쟁력은 ‘물·전기·땅’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Q0Vsb0tBZHNrRTNHZU1aQkVUbTZlZHV1eDBRc09wUXlGaEd2WVV2ODhvYWtLR3d4OWxQYkJwV1E3MWFHSElrcEhOWmVHa3c?oc=5",
+        "title": "미래대응기금, 반도체 불황 땐 ‘지속 가능성 의문’…풀어야 할 숙제는? - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWU93UFpETkNMTWdZZGRqOWRxV3RSSk5aZGRKNGVLOGRISk1uN1VWRy1JX0hDRlZoM0dmMWNwN2Ffb3djVVo2VmgzWk5YWTNZR1pwcENyalhpUdIBX0FVX3lxTE84NzI0dnlmcWNjWWdlTWNPNjFMUHFQa09xaFlqeWhqX0xHanNoN3hXeF9ON05yWWx1Z3BROG82dUIzbVBkR2pHakN2ZzdkYzhIWTRXd2o1S2p1dW43bm5Z?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "홍석기 국가수사본부장 “제주 실종자 허위 종결 사태, 국민께 송구”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994385",
+        "title": "명진스님 장례, 종교·시민사회장으로 치른다…주지 지냈던 봉은사에 분향소 마련",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672623",
         "source": "네이버 뉴스"
       },
       {
-        "title": "행안부, AI 친화적 보고서 전면 도입…“표·그림 대신 서술형 텍스트로”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003459482",
+        "title": "제주경찰 실종사건 허위종결 파문…유족, 경찰에 항의",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181311",
         "source": "네이버 뉴스"
       },
       {
-        "title": "납품업체에 판촉비 전가한 GS리테일…10억 과징금 확정",
-        "link": "https://n.news.naver.com/mnews/article/119/0003124297",
+        "title": "\"비 그친후 최고체감 33도 무더위\"…서울 전역 폭염주의보 발효",
+        "link": "https://n.news.naver.com/mnews/article/277/0005806087",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이강인 골 넣자 축하한다며 ‘눈 찢기’한 유튜버…“인종차별 사과해야”",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724408",
+        "title": "통영 수해현장 간 박완수 \"특별재난지역 추가지정 총력\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014141741",
         "source": "네이버 뉴스"
       },
       {
-        "title": "불교계·사회에 ‘죽비’…명진 스님 입적",
-        "link": "https://n.news.naver.com/mnews/article/082/0001394989",
+        "title": "\"어려운 미적분 안 할래\" 수험생 '확통런'…수능 '미적·기하' 응시율 뚝",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403357",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 11:46"
+  "updated": "2026-08-23 12:44"
 }
