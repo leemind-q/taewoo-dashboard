@@ -2,45 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "GPU 전쟁 참전 대신 '5000만 카톡'…카카오가 회사까지 쪼갠 이유",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403528",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KT, '모두의 AI'에 풀스택 전략…국산 반도체부터 클라우드까지",
-        "link": "https://n.news.naver.com/mnews/article/138/0002238647",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "흉기 들자 “위험성 98%”…AI·사람 협업하는 틱톡 콘텐츠 심사",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819796",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "“엔비디아, 韓 AI 반도체 기업 리벨리온과 협력 논의”…젠슨 황·박성현 대표 회동",
         "link": "https://n.news.naver.com/mnews/article/366/0001187802",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724411",
+        "title": "KAIST, 나노 고분자 코팅 개발…열전달 효율 5.5배 개선",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654348",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'장밋빛 전망' 쏟아지는데…한국만 \"나 홀로 위기\" 초비상",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323669",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"AI는 윤리와 함께\"…KT·서울시, 초등생 AI 윤리 캠프",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265208",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "역대급  ‘2조달러 IPO’ 추진 앤트로픽…데이터센터·반도체·전력확보 과제",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043614",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "반도체 부활 노리는 일본, 노동 시간 규제도 푸는데 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83V2g1UnJPbEExSzc5NG1PQXQ5ZUl3ZjlRcFc0OXVNU2d5YTlzWXdNem9TdF9kQ0g0VEhDcHNhc1Z3WExpZi1TTXBjMVhnRFFHakE1WnljMWhWNUxZR0NxVVllb010UGh0QTExbHU1TndJVk0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자 리포트] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pR0M4MERpN1BGLWkxUzRqQUgzQThaUTNUSWdEd2FockMtT3l2TF9vcFhDdjIyZWNiMG5XTGthM05hZGlsUnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“경기 고려 없는 반도체 증설 압박, 막대한 손실 감내해야 할 수도” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zQzVlS1d4X1ZxSUpMU3BsaC10NmNEejhrWmxxN3dmbFZsbTVNWVhwVTBrOGwwZWpYYUFkYmlYTHA1TWpBVWZqc2VHYlA1ZzQ?oc=5",
+        "title": "\"경기 고려 없는 반도체 증설 압박, 막대한 손실 감내해야 할 수도\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09WazVGWTI4NkNwSC0wSGplR2QzREZKN3U1Yk81c1VRZG1iYjZHT0RkakJobkFJODRMdEtOcDBhdzFSS2lySGVPMG5NVXN5THJTNUdzWC02cG1vVmhjWHZYLVBwUWR3WVB6a0xnUUFZbXZaOW5XZkh1RWxMd2laTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한미반도체, 3년 만에 베트남 법인 청산…싱가포르 법인도 적자 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qNjROUU9QWnNyemw5ak5nVFB0MGYxMndoR18xdW9fbkJyVUUycGRxd2tOX19fV2FaWkt6V181NGJhVW9EaThsRTJQdmgwbzg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 호황에 삼전닉스 세금도 '껑충'…미래대응기금 실탄 된다 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02VkNLQTdIWHdyM1FKdEktdkVGcnQ4VTg1eEhNeml0d0lJV1pWdGtUU09QamswNkdmdzJDOEVvMEtzeEZzSlRDUDBZRjd2cm5pUG0wb2NqOEVYQmNIbmdBUjcxMEpXM2dGN3BzTkpFMHY?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,18 +61,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[지지대] ‘죽은 인터넷’ 시대, 누가 AI를 통제하나 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTXVGOFN5X0RDcWZHMHZ2NmxHcmxKNXRQQlhIUnc0YVR5VERwdWhWZXZFM012Q3FsdDBDX19jblpISTRFVmxBRWNLTUl0M0hsekhBUDFkdmVtNEk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "미국, “AI 활용 교육, 챗봇의 한계부터 가르친다” - 뉴스타운",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3bDh5T21vcldVUFZraDlEaVhtQVFHaG5OUUc0X1NMbU1yNTNvOWJnRm1FeGRFUkJyR2o2VE9IVkRDeVlLb1BNRWNuWU1CTVJRTmRGcmtGOUdPbjNiVlNyTVAwMFhNbWZfUDQ3ZHdB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "주별 규제 안된다더니…오픈AI, 캘리포니아에 AI규제 강화 요구 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRUpiTGRJaEJCeXZSRTNFak43RVNlOXFsWXFkQVV6SkJQZGNrR25GZDA1dDl2UnB5SUFJNExaOXlDVHhhVTlpTlZ2TGZyUFYyMDV1TzU3dWpCZW_SAWBBVV95cUxNcnRMTGpGYUtIMl9qcWFMV2JORk5jdXRBQ3JTb0lIZEJIT3VpOFRQWURETkY3MHhYbi1WeTNVYlg4UXlSd3Vvay1HMUEyS2hlWFJjYzdiOXhKRkVWMWJpbjM?oc=5",
+        "title": "[지지대] ‘죽은 인터넷’ 시대, 누가 AI를 통제하나 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTXVGOFN5X0RDcWZHMHZ2NmxHcmxKNXRQQlhIUnc0YVR5VERwdWhWZXZFM012Q3FsdDBDX19jblpISTRFVmxBRWNLTUl0M0hsekhBUDFkdmVtNEk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서울시민대학 AI마스터위크 성료…석학 특강은 '전석매진' - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OQ3hUaHdQZ3I5Z0ZCU2dhd1JBUUNVWHJEaVRLY0NnZ3lqWVpDUG12Y0NUUHZXT192VmxTUUVZci1WMTB4QU9NNFRjeG4tbjEzRFBfZXZXUUo5Z0nSAWBBVV95cUxNd0FfU0hMZjhURkgwV3A3MUZNMVgydmJvdVoyRGh6RjBJcnJqSHJYX3NkNDZ3aGRiMGZBRTNweTBWU2RSQVR6NUh4eDhidVpDTFB4WDNhd1EzRjhuSzdmck0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "정부 지방교육재정 개편 발표…경남교총·전교조·교사노조 \"즉각 철회\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014142512",
+        "title": "종합특검, 180일 수사 오늘 종료…윤석열·김건희 등 58명 기소",
+        "link": "https://n.news.naver.com/mnews/article/056/0012242822",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“어? 여자 아니었어?”…캐리비안베이 탈의실 들어온 ‘몰카남’ 구속 기로",
-        "link": "https://n.news.naver.com/mnews/article/277/0005806015",
+        "title": "전남 해남 지진 71회 반복 발생…위기경보 '주의' 상향",
+        "link": "https://n.news.naver.com/mnews/article/003/0014142226",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주도 찾은 국수본부장, 경찰 ‘장미란씨 실종 허위 종결’ 사과",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819726",
+        "title": "깨진 휴대폰 들고 일부러 '쿵'…수천만원 뜯어낸 20대",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356714",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘처서’에도 낮 최고 35도 무더위… 전국 곳곳 소나기",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187718",
+        "title": "대구·경북(24일,월)…무더위 속 소나기, 낮 최고 36도[오늘의 날씨]",
+        "link": "https://n.news.naver.com/mnews/article/421/0009128064",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이미 깨진 폰 들고 일부러 어깨 '쾅'…수리비 5000만원 뜯어낸 20대",
-        "link": "https://n.news.naver.com/mnews/article/421/0009127434",
+        "title": "국민연금 받는다고 깎인 기초연금 804억원…4년새 3배 늘어",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819703",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 22:49"
+  "updated": "2026-08-23 23:23"
 }
