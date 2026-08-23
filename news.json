@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI가 뭐예요?\" KT, 초등생 100명 AI 체험교육",
-        "link": "https://n.news.naver.com/mnews/article/119/0003124226",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "AI 쇼츠 5000건 몰렸다… LGU+ 전국민 공모 흥행",
-        "link": "https://n.news.naver.com/mnews/article/014/0005565105",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "블룸버그 “엔비디아, 리벨리온과 초기 협의…기술 협력·투자·인수 가능성도”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356389",
+        "title": "AI 창작자 발굴 나선 LG유플러스…유튜브와 ‘유쓰 AI 쇼츠 페스티벌’ 개최",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043688",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "영원히 젊을 것 같던 게임도 늙어간다[일사일언]",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994462",
+        "title": "표면 ‘결함’이 열전달 돕는다…KAIST, 물방울 생성·제거 동시 제어",
+        "link": "https://n.news.naver.com/mnews/article/119/0003124280",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "넥슨·블리자드 ‘오버워치’ 파트너십…\"韓 기반 IP 성장 노린다\"",
+        "link": "https://n.news.naver.com/mnews/article/029/0003043721",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "KT, 서울시와 초등생 100명에 'AI 교육'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009127344",
         "source": "네이버 뉴스"
       }
     ],
@@ -49,8 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "8월 중순 수출 56%↑…반도체 비중 47.2%, 역대 최고(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTDIwWlRkZi1acUxicDdJZ3h5RmRGZnJ0cURQR2RnTDlCb0IzRnJLWDhKbFFjZ1JPNi1zOHNiM2NDSjNyUENyZzBzZjJYSmo3ZldaRERKeDdQTUnSAWBBVV95cUxQdU4zbHZNS1FwajgyNVdIVkxUcWRuTTlvMGpyUWg1TmNmeTcwVEZLbVJ6VGpBeklSemdCSllVbU1sUXoxLVNjYXNtdHZmSmVhUjZ2MHNDMV9KaVVYTDVIS00?oc=5",
+        "title": "강원 메모리반도체 수출 2692% 급증…품목 순위 75위→9위 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10SkhxbnV0X0ZFVF95WElOMFRaNjVTd1ZpUG5fR0g3dUVoRGpwN0gwa3BYbXB5RFVGLWI5eE95WDZsYjNOeVRmanl1ZERGUEE?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,11 @@
       {
         "title": "[지지대] ‘죽은 인터넷’ 시대, 누가 AI를 통제하나 - 경기일보",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTXVGOFN5X0RDcWZHMHZ2NmxHcmxKNXRQQlhIUnc0YVR5VERwdWhWZXZFM012Q3FsdDBDX19jblpISTRFVmxBRWNLTUl0M0hsekhBUDFkdmVtNEk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "주별 규제 안된다더니…오픈AI, 캘리포니아에 AI규제 강화 요구 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRUpiTGRJaEJCeXZSRTNFak43RVNlOXFsWXFkQVV6SkJQZGNrR25GZDA1dDl2UnB5SUFJNExaOXlDVHhhVTlpTlZ2TGZyUFYyMDV1TzU3dWpCZW_SAWBBVV95cUxNcnRMTGpGYUtIMl9qcWFMV2JORk5jdXRBQ3JTb0lIZEJIT3VpOFRQWURETkY3MHhYbi1WeTNVYlg4UXlSd3Vvay1HMUEyS2hlWFJjYzdiOXhKRkVWMWJpbjM?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -74,40 +79,35 @@
         "title": "카카오, '카카오AI'와 '카카오X'로 나눴다!...‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 - 인공지능신문",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZi1SXzBSREpzUktIVUVUdlh0ZUMzQzVjMXF5UzBnbUZMWmNZNWphVkpqalRQbmpCd216OW96NnJlMURpNjVja0g4a2lRSmE1WlRWLWxwN3RnaU9Nc3B3dHgxTWNoLUE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "KT-서울시, 서울로봇인공지능과학관서 'AI 미래 캠프' 진행…”윤리적 소양 갖춘 AI 인재 육성” - dhns.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KSlJZSGVfS0xLaWlOMERFRVBZeFVnTmhvcEtKbEFHVGJ1dTVHeFpPb2cwd1U4TzVueWgtUGwta3pCTkNEcUI3aDF4dHNxRFlQdGhuaDAtdWFnRnA5Tm1fR1NFcnYwWmM?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "내일 새벽까지 중부 곳곳 비나 소나기…돌풍 천둥 번개 유의",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242537",
+        "title": "“정치 얘기 그만” 대리기사 요구에 뺨 때린 60대…‘벌금 100만원’ 선고",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가발 쓰고 캐리비안 베이 女탈의실 침입해 불법촬영… 20대 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187715",
+        "title": "경기 광주 쿠팡 물류센터서 지게차 사고…40대 노동자 심정지",
+        "link": "https://n.news.naver.com/mnews/article/022/0004152972",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이미 깨진 폰 들고 일부러 어깨 '쾅'…수리비 5000만원 뜯어낸 20대",
-        "link": "https://n.news.naver.com/mnews/article/421/0009127434",
+        "title": "해남서 열흘간 70여차례 지진…6년 전에도 비슷한 일",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265149",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“배 아프고 설사까지”…공군 훈련병 70여명 식중독 의심 증세",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724601",
+        "title": "공군 훈련병 70여명 집단 식중독 의심…보건당국 역학조사",
+        "link": "https://n.news.naver.com/mnews/article/421/0009127879",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"31일까지 꼭 쓰세요\"…고유가 피해지원금, 미사용 잔액은 자동 소멸",
-        "link": "https://n.news.naver.com/mnews/article/654/0000196428",
+        "title": "김상욱 울산시장, '청와대 찾아 산업AX 연구원 설립 지원 요청'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323745",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 18:32"
+  "updated": "2026-08-23 19:23"
 }
