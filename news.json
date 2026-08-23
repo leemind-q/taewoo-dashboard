@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "“부산에 살기 잘했다”…넥슨 '오버워치 데이' 가보니[현장]",
-        "link": "https://n.news.naver.com/mnews/article/003/0014141680",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KT, ‘모두의 AI’ 사업에 토종 AI 기업 컨소시엄으로 도전장",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187775",
+        "title": "KT, '모두의 AI'에 국산 NPU부터 클라우드까지…AI 풀스택 구축",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403345",
         "source": "네이버 뉴스"
       },
       {
@@ -17,20 +12,35 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 창작자 발굴 나선 LG유플러스…유튜브와 ‘유쓰 AI 쇼츠 페스티벌’ 개최",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043688",
+        "title": "게임 속 부산 맵이 현실로…넥슨 '오버워치 데이' 개최",
+        "link": "https://n.news.naver.com/mnews/article/421/0009126935",
         "source": "네이버 뉴스"
       },
       {
-        "title": "반려견과 함께 사는 고령자, 치매 위험 낮다고? [지금은 과학]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001051622",
+        "title": "LGU+, 유튜브와 함께한 '유쓰 AI 쇼츠 페스티벌' 5009건 접수",
+        "link": "https://n.news.naver.com/mnews/article/003/0014142038",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "김용범, 광주 반도체 부지 방문 예정…국가산단 확대 주목(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265272",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광주 이어 일본?… 곳곳에서 한국 메모리 ‘팹’을 탐낸다 [반도체 투자 리포트] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaGF2TlFxRWhsRklQQWtSQnpxZFIwM0tmZ1lZUFhVN3hWMzZrajhYaUs0OXFQV0VNZ3lIMVpiUUZsbVZ0VDk4bUI4VVBvd0U?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한국거래소, 하이닉스에 '日 반도체 공장' 보도 조회공시 요구 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UT05FbG1VbHRlNG5KWnF2d1Rzbk41ZmlGRFVLS3E1WkxPSVRCcjFkenZFMF8xNHJmZXRNUDJ4ZDRpLVhWczVIZUZ3TlhzQWhkeHhNTUpZYUw5QQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rZVV3eEc3VHNleFlWMDFmTWpxcDBTU20xN3FOeEZGWVpWaS1jRDd3VXRKdG1JekdtSHFzM3NfYmFHZGJzck16eGJBemF1Nk0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "엔비디아 2Q 성적표 '관전포인트' 3가지…AI 반도체 2막 가늠한다 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zTmR0c19QdTFybFdEX0tPZkxQeWRfVm83UVdyVGZ3cTNDeWlpSlRSM1pzWnhZNzlLbTZTTUJyWExPcHpLeWdCT1hUTkhzbjZWX3lMeUNsclZuT0J5V2NmN05mUWXSAWpBVV95cUxPcmlMX1F3Rklob1M5V3d2OUt0WDdRc21zX0JFR0ttbzh0ZmhNVWxxZTFTaUtVNkYtS3dBSk1TS0s2VG1sWFBWcjAtZk9zbHJIWGdINnVaMV95SE56RXQ5NE1QUkFQRnptUlNR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMEtaekh4aEM3enJhU3VWSGhlM3dCTDd3dDl4OVRpYnJ6MVBtRDNVdnlqRjVHaDNVcnEtQk5hT2pJdks1cjNaVXNCVi15Qkt3XzZv?oc=5",
+        "title": "“반도체 인재 양성”…전남광주형 대입전형 만든다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WnR4UVFrSEp0WFBMM1F4MkpxTS1HaXkzdllaWE1VWVF1MGMyYnU2OGQwSGozb0N1R19mX2tHdTgzcG9KUmV4MUlwbG91THc?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전남광주통합특별시, \"인공지능·데이터 행정 혁신\" 지속 - 무등뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSDFYMDlnRnV0MW9BUmVrSlRzUmZidGFWWmFGYTQxR3h2LVZySVB5ZXo0WkFJa08ydExSS3oyTzFTRTAzQk5uaE9Ya3F2bFFtMHNaMHlIWU5yQWgyYU43eXFpVGxWS0k?oc=5",
+        "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "KT, 서울시와 'AI 미래 캠프' 개최 - 파이낸셜뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaWWp1bUlpUWc5QV9rTy1YX1lsVjJucTRnemtMaFlqZDRRNnhuSHo2YkVkM3hQZVczUTBxUjJJMmlLVlhuQ1NfQkpwU3g5LU1JQzdOeVo3ejhIQQ?oc=5",
+        "title": "전남광주통합특별시, \"인공지능·데이터 행정 혁신\" 지속 - 무등뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSDFYMDlnRnV0MW9BUmVrSlRzUmZidGFWWmFGYTQxR3h2LVZySVB5ZXo0WkFJa08ydExSS3oyTzFTRTAzQk5uaE9Ya3F2bFFtMHNaMHlIWU5yQWgyYU43eXFpVGxWS0k?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "처서에도 무더위…서울 전역 폭염주의보[FN날씨]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005564998",
+        "title": "한풀 꺾일 줄 알았던 ‘처서’ 마법 없다…서울 등 폭염주의보",
+        "link": "https://n.news.naver.com/mnews/article/025/0003546089",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'범죄 고발' 유튜버, 40억 대 사기 혐의로 징역 7년 실형",
-        "link": "https://n.news.naver.com/mnews/article/214/0001519492",
+        "title": "\"부모님 싸움 말리려다\"…10대 아들 흉기에 아버지 숨져",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382698",
         "source": "네이버 뉴스"
       },
       {
-        "title": "봉은사 주지 지낸 명진스님 입적...제주서 해양사고",
-        "link": "https://n.news.naver.com/mnews/article/660/0000115661",
+        "title": "李대통령, 명진스님 입적에 \"평등·평화 향한 삶 오래 기억\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000184720",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'숏컷 위장' 워터파크 여성 탈의실서 불법촬영한 20대 남성 체포",
-        "link": "https://n.news.naver.com/mnews/article/082/0001394933",
+        "title": "'장미란 사건' 경찰관, 실종 허위종결 또 있었다...51일 만에 시신 발견",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403355",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 실종 장미란씨 시신 발견설 \"사실 아냐\"…경찰 수색 중",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403288",
+        "title": "경북산불 이재민 임시주택 안전 강화...입지 여건도 보강",
+        "link": "https://n.news.naver.com/mnews/article/469/0000949500",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 04:39"
+  "updated": "2026-08-23 05:31"
 }
