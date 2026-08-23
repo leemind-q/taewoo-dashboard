@@ -2,45 +2,40 @@
   "categories": {
     "IT": [
       {
+        "title": "\"모두가 좋아하는 게임은 없다\"…게임사가 '서브컬처'에 꽂힌 이유",
+        "link": "https://n.news.naver.com/mnews/article/421/0009127239",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "몸값 2조달러 노리는 앤트로픽…스페이스X 기록 넘어설까",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323709",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "흉기 들자 “위험성 98%”…AI·사람 협업하는 틱톡 콘텐츠 심사",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819796",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "윤리적 소양 갖춘 AI인재 키운다···KT·서울시 'AI 미래캠프'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356297",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "“엔비디아, 韓 AI 반도체 기업 리벨리온과 협력 논의”…젠슨 황·박성현 대표 회동",
         "link": "https://n.news.naver.com/mnews/article/366/0001187802",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "KAIST, 나노 고분자 코팅 개발…열전달 효율 5.5배 개선",
-        "link": "https://n.news.naver.com/mnews/article/011/0004654348",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "'장밋빛 전망' 쏟아지는데…한국만 \"나 홀로 위기\" 초비상",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323669",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"AI는 윤리와 함께\"…KT·서울시, 초등생 AI 윤리 캠프",
-        "link": "https://n.news.naver.com/mnews/article/001/0016265208",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "역대급  ‘2조달러 IPO’ 추진 앤트로픽…데이터센터·반도체·전력확보 과제",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043614",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "8월 1~20일 수출 56.0%·반도체 198.8% 증가…역대 최대 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSlN0WVdyRmxTajVmbGpxZHJQNHBSNFExdkR1cmZDTVUyZFBiWlE5WGtfU3dqWG1aWm9wbllocGgzZmVOWVdITTVTNl9KeUtCWkZ3SDVVT196dw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "\"경기 고려 없는 반도체 증설 압박, 막대한 손실 감내해야 할 수도\" - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09WazVGWTI4NkNwSC0wSGplR2QzREZKN3U1Yk81c1VRZG1iYjZHT0RkakJobkFJODRMdEtOcDBhdzFSS2lySGVPMG5NVXN5THJTNUdzWC02cG1vVmhjWHZYLVBwUWR3WVB6a0xnUUFZbXZaOW5XZkh1RWxMd2laTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에 삼전닉스 세금도 '껑충'…미래대응기금 실탄 된다 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02VkNLQTdIWHdyM1FKdEktdkVGcnQ4VTg1eEhNeml0d0lJV1pWdGtUU09QamswNkdmdzJDOEVvMEtzeEZzSlRDUDBZRjd2cm5pUG0wb2NqOEVYQmNIbmdBUjcxMEpXM2dGN3BzTkpFMHY?oc=5",
+        "title": "中반도체에 몰리는 자본…삼전닉스 '차이나 디스카운트' 커질까 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ekU4UDE0dFRnek1OYVMxNW1haUtoWmtQOERDMHdiNjZZZE9kanBlbGxQbGQ4ZWM1Y1VtZ3JUX0MxMDdKTHBfaHp3MElaSkJDejQ3TzhZeDNNWVY2MHBjQzFJY2pGUGtlRno0TnRSOVo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "2차원 반도체 소자 공정 '찌꺼기 난제' 해결…전류 성능 10배 개선 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16QmhsSGRHdS1SMWhFYTVkSTJ0Uy1NaXlmRHEta1NXN2Eyb25aVWZfVjRJVDFSUGtVMU52WnNHVU9qTE1ENVVndm1BcERYQmNSLU9BMHdR?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "종합특검, 180일 수사 오늘 종료…윤석열·김건희 등 58명 기소",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242822",
+        "title": "수마 할퀸 거제·통영 일부 '특별재난지역' 우선 선포",
+        "link": "https://n.news.naver.com/mnews/article/082/0001395032",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남 해남 지진 71회 반복 발생…위기경보 '주의' 상향",
-        "link": "https://n.news.naver.com/mnews/article/003/0014142226",
+        "title": "\"정치 얘기 그만\" 요구에 대리기사 뺨 때린 60대 벌금형",
+        "link": "https://n.news.naver.com/mnews/article/469/0000949490",
         "source": "네이버 뉴스"
       },
       {
-        "title": "깨진 휴대폰 들고 일부러 '쿵'…수천만원 뜯어낸 20대",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356714",
+        "title": "13년간 마스크 없이 금속분진 노출→폐암 사망…法 \"업무상 재해\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014142932",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대구·경북(24일,월)…무더위 속 소나기, 낮 최고 36도[오늘의 날씨]",
-        "link": "https://n.news.naver.com/mnews/article/421/0009128064",
+        "title": "위고비·마운자로 불법 직구 기승…작년 연간치 3.5배 적발",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265892",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국민연금 받는다고 깎인 기초연금 804억원…4년새 3배 늘어",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819703",
+        "title": "“조금만 더 빨리 찾을 수 없었나”···유족, 제주 경찰 ‘허위 종결’에 항의",
+        "link": "https://n.news.naver.com/mnews/article/032/0003465853",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 23:23"
+  "updated": "2026-08-23 23:46"
 }
