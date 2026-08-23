@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "AI 창작자 발굴 나선 LG유플러스…유튜브와 ‘유쓰 AI 쇼츠 페스티벌’ 개최",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043688",
+        "title": "KT·서울시, 초등생 AI 교육 맞손…‘AI 미래 캠프’ 개최",
+        "link": "https://n.news.naver.com/mnews/article/138/0002238667",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT-서울시, AI 인재 키운다…초등학생 대상 교육",
-        "link": "https://n.news.naver.com/mnews/article/029/0003043722",
+        "title": "누가 게임 '노동자'인가: 게임 노조 이야기[게임필리아]",
+        "link": "https://n.news.naver.com/mnews/article/002/0002453101",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘알짜’ 떼어낸 카카오 인적분할…저평가 해소한다지만 시장은 냉랭",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819751",
+        "title": "카카오 인적분할, 주가보다 중요한 것은 ‘두 개의 엔진’이 실제로 뛰는가 [김현아의 IT세상읽기]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356283",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이용 뚝, 폐업 쑥…'게임 오버' 직전",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323668",
+        "title": "흉기 들자 “위험성 98%”…AI·사람 협업하는 틱톡 콘텐츠 심사",
+        "link": "https://n.news.naver.com/mnews/article/028/0002819796",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤스로픽은 칩 만들고… 엔비디아는 AI 모델 개발",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994449",
+        "title": "KAIST, 나노 고분자 코팅 개발…열전달 효율 5.5배 개선",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654348",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55dUpqWWZKdDJ5eUxPZ2praDQzSkY5ZkFmbmdmZ2FIY29PWFBUV1U2RVRSTnUtZ3BkbGNQbnJoY0NXNUhOcVNSZThWZmJhVGNUNmctLWVYWjNOZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "SK하이닉스 “일본 반도체 공장 건설 추진 ‘미확정’···다양한 방안 검토 중” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVdWVy1xUEpTTGI4aHY1bVZPTzhsNnRhWVplT0loSGloV1lmX2dlRjU0Z2Njc29HeXQ2YWVkYXM3ZFgzSGljRUsyeEFQcEs1ZHlnQ3doMnZDZ9IBX0FVX3lxTFBtalZ4VWlxVmhuMzlfRlc1ZFdYcTRJZjE3QzRkeHVvVnN6bmRCNEd5WDUyNDFzRkt6bHFkVUlhQjNpUU9pUVl4V0kyWmViZHVwYnlkbm9IZXFtSFBSVHR3?oc=5",
+        "title": "반도체 부활 노리는 일본, 노동 시간 규제도 푸는데 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83V2g1UnJPbEExSzc5NG1PQXQ5ZUl3ZjlRcFc0OXVNU2d5YTlzWXdNem9TdF9kQ0g0VEhDcHNhc1Z3WExpZi1TTXBjMVhnRFFHakE1WnljMWhWNUxZR0NxVVllb010UGh0QTExbHU1TndJVk0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -46,6 +41,11 @@
       {
         "title": "미국이냐 일본이냐, 해외 투자 고심하는 K반도체... \"중요한 건 기술 주도권\" - 한국일보",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUHFRb0JkTkdPdjZ1WU9zQWZvSFppbWx6c3g1TUllZXZHTEdhSUFZblB6Z041TURFQXhTN2NNRzlQRHlQTjZrUGdEd2FlelQzekNzcnFwQXhaendFNWV2WkVBcmNVVDRocnFGdmZ30gFzQVVfeXFMT0FxLUZJVjNBNGswWmRyVkotQ3JXSkVxWWVXV1VWM3dCNzdaQkhkb0RCcWFLWTBtdWQ4RzcwdEd3RGFxczNJc0pNMjFPTE9nMVctbmc4Vl9yMG80OFp6cmdGMTNEY29MM0M1MF9pTEQ2ODVFRQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "8월 1~20일 수출 56.0%·반도체 198.8% 증가…역대 최대 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSlN0WVdyRmxTajVmbGpxZHJQNHBSNFExdkR1cmZDTVUyZFBiWlE5WGtfU3dqWG1aWm9wbllocGgzZmVOWVdITTVTNl9KeUtCWkZ3SDVVT196dw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "카카오, '카카오AI'와 '카카오X'로 나눴다!...‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZi1SXzBSREpzUktIVUVUdlh0ZUMzQzVjMXF5UzBnbUZMWmNZNWphVkpqalRQbmpCd216OW96NnJlMURpNjVja0g4a2lRSmE1WlRWLWxwN3RnaU9Nc3B3dHgxTWNoLUE?oc=5",
+        "title": "오픈AI, GPT-5.6 Sol API·크레딧 가격 20% 이상 인하…3개월 한시 적용 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVX2NfQ3VVVExlcVhZLTdWb0pEbjRKS1lJQUc0VzBJOWlzYWVfcm5BUElkSEVZemdCOHdpVTF3Uk1nYzU4NFdzN1NjZ1F2VzdwME5GYndsTzBBU2pBZEpkc1Q4ZkIxSEk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "실종 사건 잇단 ‘허위 종결’…가족 “시신 몇 구나 더 나와야 사죄할 건가”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242690",
+        "title": "해남서 올해 최대 3.1 지진...'군발지진'에 주민 불안",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396946",
         "source": "네이버 뉴스"
       },
       {
-        "title": "종합특검, 180일 수사 종료…내일 결과 브리핑",
-        "link": "https://n.news.naver.com/mnews/article/422/0000898503",
+        "title": "공군 훈련병 집단 식중독 의심…70여명 복통·설사 증상",
+        "link": "https://n.news.naver.com/mnews/article/025/0003546150",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해남 지진 반복에 위기경보 '주의'↑…\"피해없으나 대응 철저\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016265405",
+        "title": "고유가 피해 지원금 31일 사용 종료…남은 잔액 자동 소멸",
+        "link": "https://n.news.naver.com/mnews/article/629/0000526694",
         "source": "네이버 뉴스"
       },
       {
-        "title": "내일 낮 최고 36도 무더위 속 전국 곳곳 비 소식",
-        "link": "https://n.news.naver.com/mnews/article/366/0001187814",
+        "title": "경기 남부·충남 등 강한 소나기…낮 최고 35도 찜통더위[오늘날씨]",
+        "link": "https://n.news.naver.com/mnews/article/417/0001156085",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고유가 피해지원금, 9월 되면 사라진다…얼른 다 쓰세요",
-        "link": "https://n.news.naver.com/mnews/article/079/0004181270",
+        "title": "제주 간 국수본부장 \"송구\"…'실종 종결사건' 전수조사",
+        "link": "https://n.news.naver.com/mnews/article/055/0001382746",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-23 19:45"
+  "updated": "2026-08-23 20:25"
 }
