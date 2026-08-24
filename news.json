@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "해외 화이트해커 손잡고 서비스 보안 검증하는 LG유플러스",
-        "link": "https://n.news.naver.com/mnews/article/469/0000949737",
+        "title": "삼성SDS, 서울대 차세대 네트워크 구축 사업 수주…800Gbps급 전환",
+        "link": "https://n.news.naver.com/mnews/article/366/0001187879",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 서울대와 ‘미래 AI 리더’ 육성…15주간 특강 운영",
-        "link": "https://n.news.naver.com/mnews/article/020/0003742885",
+        "title": "LG유플러스, 화이트 해커에 보안 검증 맡긴다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004153395",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, ‘AX 플랫폼 기업’ 체질 개선 속도… AI 기반 ‘넥스트 IT’ 추진",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356878",
+        "title": "“애플 첫 폴더블폰, 휴대성-힌지 합격… 카메라는 글쎄”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003743001",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'3대 가치·7대 원칙' 국가 AI 윤리원칙 확정…\"안전한 AI 기본사회 구현\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356954",
+        "title": "자율주행 AI 실증 전국으로 넓힌다…상용화도 속도",
+        "link": "https://n.news.naver.com/mnews/article/001/0016266779",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT \"답변 넘어 일까지 끝내는 AI\"…'모두의 AI' 승부수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009129273",
+        "title": "SKT, 서울대와 '미래 AI 리더' 육성 나서",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459649",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "中반도체에 몰리는 자본…삼전닉스 '차이나 디스카운트' 커질까 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ekU4UDE0dFRnek1OYVMxNW1haUtoWmtQOERDMHdiNjZZZE9kanBlbGxQbGQ4ZWM1Y1VtZ3JUX0MxMDdKTHBfaHp3MElaSkJDejQ3TzhZeDNNWVY2MHBjQzFJY2pGUGtlRno0TnRSOVo?oc=5",
+        "title": "\"반도체 달라\" 빅테크 난리인데…웃지도 울지도 못하는 삼전닉스, 왜? - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EaUdVcy1fRWZMNGlGa2xOZ2JRTGtLOEYtRmZUNVhYdC1rSTRoZm5STUhMdkh1eV8xTElSU3ZEZmp2OFJLcmRmUHc0bW9aX2FRWm1wWDZscERRUWQyVnc3Vi1aSVBiYUJGUjRfSNIBckFVX3lxTE9zTkNpLUw1ckdyT0hjZ2V6WHlPMENNTTBNeFdGQkd3NnFBOGxTQVZEWF93MnE4eXo4bTBVeG53bEdMV3pjb3RiNDdpcFp1eXBucFgzM1dSaU9FYkRQMS13S3lUWGY0anFWalhPMnNkbjloZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9% - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUWHFBeHdHZ1k0UHExUFZfRlpDYzRnblQ3alE1YkYzV21uZy1lTE9IUnZ0a1NuTjFWMllYZjBTUDBpeElzOElDSEczSUhzWWs0?oc=5",
+        "title": "[특징주] 美 반도체 약세 여파에 '삼전닉스' 프리마켓 2%대 하락 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44YnFJejg1MXEyeDZMdlhZdnNMSWhaeXMydW9EVmpvOFdqdVAxV3dzZzVUaVVIQS1WMWctVGNFNjFiV2wxWFpXMjVfcm5wdHZqT3VSbGlzRl9OZmRP?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남권 반도체 클러스터 범시민추진위 출범 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wN2ZuQ3FZeklPYlJPMFppc25EX1pUd1VKUWdlTHU3WFFZQml1ZnZQdlBkZFdFZXBkNU0zd2pLSENxT01HbGRVd0FxMUJfeHZoN0EyS1FSWG9lRmfSAWBBVV95cUxNbEU0ZGg3MXdpbjRBUlkydU1rQ0FKOHVmN25kZXlydFFjYy1FeWxTWjd1dU1JQ2M0cUtvSHBKN2Vsd0FKaUNjdWc3SFhVYWRxcVhKSXBxOExsS0d0YVJpUm0?oc=5",
+        "title": "삼성전자·SK하이닉스 프리마켓 동반 약세…2%대 하락 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lRm95NG5hMFZRYzhmbjRRQVFLQjE2b1EyY0xxTEdXOENlQVVNR2R3bWkyMmZMUnlNeHd0clUzRXViZWR4T3NxMUwwV0pOVklTU1pTZ2E5MEdJdUtiajRKZtIBeEFVX3lxTE9RUDdrVlYycHU3LTdKTU40ajhQQnc3dnNlcTdBSEV1ekZiR1RLX1ByLVkxTTlSdVdCYWEwaEIxSVEwbElNeWpGV1hKVDl6MWRhc19KbDRvLTZqRDdvakstX1dBT3NoZnc0QTJ1T1lnU1kzcjNCQ1lkRg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[신문과 놀자!/어린이과학동아 별별과학백과]AI에서 우주산업까지… 반도체가 세상을 움직인다 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM1BVYmNYa3ppRWdDSGhSY3pybEtXSkdFc3I1ZXg4LTIxemVQRzB4dkU2bnEtcUFQVGlqejU3WGtEbndUazRHdm5LTXp3ZExBUEMwRWp0dDVGSVNmTU5LcU5Pakp2bl9oelBYcFp6NEVNRHM3X2fSAWZBVV95cUxOWWVIRGxvS2thSUc4VWptYnlKaVhwR3dfa25GdTRRcU5BN2U4SFBEQ3VVSXZQQ1VkeDhuSWhFUzU4T1FLY1BNcHhuR1VjMWF0QTJEcEV5NlJlRTlnaXh1a2J4c0IwV3c?oc=5",
+        "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합) - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMOHNWY296M1Z5ZHg1bmx0RU0zdHVNOVdKbGtyaE1ONTg4V3RLX3pSeGdYTS1JM1hQalhxbnZpY3dCOHlwRjJsU1BBR2cxVGs?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"국산 AI 반도체 개발해도 호환 쉽지 않아...정부 마중물 절실\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VcDMwVUpSZzc3LXpuckRkcXpwVlllSlVDeHhHaC1xV1Ftbm41VTFTdlN5c2dNVnVFYUQyZV9FRUE2WnR6cG9xNDVraXo2Mmg2QmpsdFI5eWh5MW44REE?oc=5",
+        "title": "반도체만 내리는 시장…나일스 \"9월 조심\" vs 톰 리 \"조정에도 팔지 마\" [김현석의 월스트리트나우] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyQjcwaFlWN0VmbWNTSXVZUldOamZmWXRELWdub1lTakxuYkZqY3lMaHVTeGxMQWVLNWdhUjRQSDgzbTd0T2RLMXFuRGRILWNlXzdFRHR2Rnd4Zw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,18 +61,18 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "손짓·표정까지 똑같다…'사람 같은' AI 기상캐스터 등장[1일IT템] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qQ2cxelhiTmptRkNBaUpudC1ybml5SjN2OVdEcFZuV2RHdk9LbUhnZmk0TWlKd2RFRm1YdFV6aFI0VXJpRXNDbWUzOU05V3c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[미국 특징주] 아마존, 하드웨어 가격 최대 60% 인상…'AI발 메모리 부족' 여파 - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEcjB0NU9OYVhRYjU2TGkzSXpKekxLZ3pNVHZfOXRmODJjZEtheDAwM09vZmk2M3BzR1JaUXFtOUYxSnF6UFN1aFJrVU5BaDhIb2VzZFdtN3N3Z05u?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "전남광주특별시, 뇌과학자 장동선 박사 초청 인공지능(AI) 특강 - 국토일보",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83UDQyb2Q5MG52c1FxR1I2MGVqRzFLLVotQ3ZrYldBV29lRUowRlpHdldkQzdMU25VN2NjTXc1ay1TQ2FWdXU5WVVGbWJYcGdZMWE0MUw4WEZFSGRjV3YxdzlsTQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[통일로에서] 인공지능(AI)시티의 주인은 누구인가 - 스트레이트뉴스",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hODZzdFlINmd2c19KUUg1SjlVYVdNUDRsWW1EU2J3a29VZGVqUTlhSElIbzh3TnJvaHN2Zmp4cU9WaTFUSHN6b0UtX3MzTm5VaHlucnNhemlzY1gxa1lNU3dMczNmd0tFQVRrWXQxV0R0RlXSAXdBVV95cUxOcUpWSkxKbV84Tk1xUmc5YW1IdHFkakJnbXNvd29TeC1sZ0hGb0dhNGRVTHNNV2t3WmRZTl9IX0x4YnEtZFlQQWQ0US1TN3lTZjlCNjZZWkljOGI3cFBpUmlfa2VYbjduV0JHYVNZd0tZU19FTTNRRQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "정부, ‘대한민국 인공지능 윤리원칙’ 제정 - 로봇신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfd3VfRUwtUDhSOFR0VFplTGh4LUczdzBCR21iSjRRUkp2SVd5SFNSZXpRWkVMY0hydzRnb0NHZktiUGJmSENLVXNxdzRiLUJTVkFMYWYzOHVUNnRVMW5Hd3pQRzdOZjhPU2d2aA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "장미란 씨 추정 시신 발견…‘허위 종결’ 경찰관은 석방?",
-        "link": "https://n.news.naver.com/mnews/article/056/0012243614",
+        "title": "박준희 관악구청장, 매니페스토 약속대상 최우수상",
+        "link": "https://n.news.naver.com/mnews/article/005/0001868707",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전장연, 지하철 시위 멈출까…서울시 민주당과 타협 후 입장발표",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356828",
+        "title": "농장 풀숲에서 발견된 장미란씨 추정 시신, 도보 5분 거리에 있었다",
+        "link": "https://n.news.naver.com/mnews/article/586/0000136616",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전 청주시의원 '아동 성매매 혐의' 피해자 2명 추가…총 4명",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323909",
+        "title": "종합특검 \"쌍방울 대북송금, 대통령실 개입 시도…국정농단\"",
+        "link": "https://n.news.naver.com/mnews/article/123/0002388910",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“태풍이 4개나” 한반도 주위에 줄줄이 떴다…한국으로 향하는 태풍은",
-        "link": "https://n.news.naver.com/mnews/article/011/0004654631",
+        "title": "\"박스 하나 놓고 갑니다\" 전화 '뚝'…9년간 7억 두고갔다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006357413",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘A+ 만점’도 장학금 못 받는 학교 두배 늘었다…학자금 지원 제한 대학 20곳 [세상&]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002687618",
+        "title": "\"홍장원·조성현도 내란 가담\"…종합특검, 58명 기소",
+        "link": "https://n.news.naver.com/mnews/article/031/0001051907",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-24 22:55"
+  "updated": "2026-08-24 23:25"
 }
