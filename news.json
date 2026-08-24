@@ -2,45 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI, 빠르게 개선해 재배포해야 경쟁력\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005565677",
+        "title": "\"화이트해커에 검증 맡긴다\"…LGU+, 글로벌 버그바운티 오픈",
+        "link": "https://n.news.naver.com/mnews/article/421/0009128330",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 스마트폰 시장 위축 속 올해 세계 1위 탈환 전망",
-        "link": "https://n.news.naver.com/mnews/article/056/0012243127",
+        "title": "정부 ‘AI 윤리’ 지침 나왔다…이용자도 책임 주체 명시",
+        "link": "https://n.news.naver.com/mnews/article/081/0003673163",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI도 '인간 중심'으로…과기부, '대한민국 AI 윤리원칙' 제정",
-        "link": "https://n.news.naver.com/mnews/article/055/0001382988",
+        "title": "애플 압승이었는데…\"올해는 삼성이 1위\" 파격 전망 나왔다 [분석+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323919",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자 '갤럭시 버즈4 프로', EISA 어워드서 '최고제품' 선정",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434780",
+        "title": "쏘카-에이펙스, ‘자율주행 데이터 사업’ 추진…“국내외 업체와 협력”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654443",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, ‘AX 플랫폼 기업’ 체질 개선 속도… AI 기반 ‘넥스트 IT’ 추진",
-        "link": "https://n.news.naver.com/mnews/article/018/0006356878",
+        "title": "SKT, 독보적 '풀스택 AI' 전략으로 AI 국가대표 굳힌다",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181343",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "칩플레이션, 반도체 원판 ‘실리콘 웨이퍼’까지 덮쳤다 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONVVkcm42SlpKZTRsdmxIS2M1NGZRck41blZIOUEyUElBdlNVR0h1WXp2ZDFhd1hCVEFjemNYdWpBNzlrZWdNNTBhZHRTaWVwdzhUaHVmZTh1UXJ0WXdHMlFoaVpGeWx0TWVlM295ZUxUWlJoUnpISkgxNkJvc3lLcXBhbw?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "中반도체에 몰리는 자본…삼전닉스 '차이나 디스카운트' 커질까 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ekU4UDE0dFRnek1OYVMxNW1haUtoWmtQOERDMHdiNjZZZE9kanBlbGxQbGQ4ZWM1Y1VtZ3JUX0MxMDdKTHBfaHp3MElaSkJDejQ3TzhZeDNNWVY2MHBjQzFJY2pGUGtlRno0TnRSOVo?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "SK하이닉스 “HBM 승부는 패키징”...AI 반도체 경쟁판 바뀐다[핫칩스 2026] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmS3hiWG1HMDFKSDl5MmdmdmdJSlF5RlVDdVExb0VkOUtoVmI3STFwb19ZZWtZZmNYRlZ6cXFOUjJDRjlkVXc?oc=5",
+        "title": "호남권 반도체 클러스터 범시민추진위 출범 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wN2ZuQ3FZeklPYlJPMFppc25EX1pUd1VKUWdlTHU3WFFZQml1ZnZQdlBkZFdFZXBkNU0zd2pLSENxT01HbGRVd0FxMUJfeHZoN0EyS1FSWG9lRmfSAWBBVV95cUxNbEU0ZGg3MXdpbjRBUlkydU1rQ0FKOHVmN25kZXlydFFjYy1FeWxTWjd1dU1JQ2M0cUtvSHBKN2Vsd0FKaUNjdWc3SFhVYWRxcVhKSXBxOExsS0d0YVJpUm0?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독] 美, 호남 반도체 언급하며 “공장 지어달라” 압박 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ueWFxUlJ2aGdFSXk4SHAyNWoyUFpmNEtiVktGZHdMRDZOZEZ1UldENC0tT3lQcDNkMzNsRzJRaTFXbE9sU2JyZ0hYNUlHa1E?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -61,13 +61,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[통일로에서] 인공지능(AI)시티의 주인은 누구인가 - 스트레이트뉴스",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hODZzdFlINmd2c19KUUg1SjlVYVdNUDRsWW1EU2J3a29VZGVqUTlhSElIbzh3TnJvaHN2Zmp4cU9WaTFUSHN6b0UtX3MzTm5VaHlucnNhemlzY1gxa1lNU3dMczNmd0tFQVRrWXQxV0R0RlXSAXdBVV95cUxOcUpWSkxKbV84Tk1xUmc5YW1IdHFkakJnbXNvd29TeC1sZ0hGb0dhNGRVTHNNV2t3WmRZTl9IX0x4YnEtZFlQQWQ0US1TN3lTZjlCNjZZWkljOGI3cFBpUmlfa2VYbjduV0JHYVNZd0tZU19FTTNRRQ?oc=5",
+        "title": "전남광주특별시, 뇌과학자 장동선 박사 초청 인공지능(AI) 특강 - 국토일보",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83UDQyb2Q5MG52c1FxR1I2MGVqRzFLLVotQ3ZrYldBV29lRUowRlpHdldkQzdMU25VN2NjTXc1ay1TQ2FWdXU5WVVGbWJYcGdZMWE0MUw4WEZFSGRjV3YxdzlsTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "전남광주특별시, 뇌과학자 장동선 박사 초청 인공지능(AI) 특강 - 국토일보",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83UDQyb2Q5MG52c1FxR1I2MGVqRzFLLVotQ3ZrYldBV29lRUowRlpHdldkQzdMU25VN2NjTXc1ay1TQ2FWdXU5WVVGbWJYcGdZMWE0MUw4WEZFSGRjV3YxdzlsTQ?oc=5",
+        "title": "[통일로에서] 인공지능(AI)시티의 주인은 누구인가 - 스트레이트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hODZzdFlINmd2c19KUUg1SjlVYVdNUDRsWW1EU2J3a29VZGVqUTlhSElIbzh3TnJvaHN2Zmp4cU9WaTFUSHN6b0UtX3MzTm5VaHlucnNhemlzY1gxa1lNU3dMczNmd0tFQVRrWXQxV0R0RlXSAXdBVV95cUxOcUpWSkxKbV84Tk1xUmc5YW1IdHFkakJnbXNvd29TeC1sZ0hGb0dhNGRVTHNNV2t3WmRZTl9IX0x4YnEtZFlQQWQ0US1TN3lTZjlCNjZZWkljOGI3cFBpUmlfa2VYbjduV0JHYVNZd0tZU19FTTNRRQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "계명대학교. 모빌리티 산업과 인공지능(AI)을 중심으로 한 산학협력 생태계 구축 - 데일리대구경북뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wVDAySzVLRUFabEE1TmxkbjlERy1qaGlBWlRkVW54MXRmY3d3WmlEWW1tb2pwaUlQc3VsWk1uUVZycm5nbVptbVRTcnp3V1ZKRWtkbmxubW50MUdtclpzWi1FQXFPZw?oc=5",
+        "title": "[인공지능 줌인] 추격하는 오픈AI와 고전하는 앤트로픽…시장 판도 흔드는 AI 가성비 경쟁 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45cFZHTkVzazBUdWJ2Qy1BWmcwWHVQNG9fSkpUOV9tLXF6bDZfdDBoeFBWQ3ZqZDhWYTZPVTdkSEh1TG1KOV8zZlJlVDd4Rjd1elNDckhCSFAzVERGbllzV2M0S1diSmRCdWZBTFdrQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "아버지 흉기 살해 10대 구속...\"싸움 말리다 범행\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002397593",
+        "title": "매크로로 야구표 싹쓸이한 일당 검거…범죄수익 8500만원 추징",
+        "link": "https://n.news.naver.com/mnews/article/081/0003673005",
         "source": "네이버 뉴스"
       },
       {
-        "title": "내년 국가장학금·학자금 대출 제한 대학 20곳…지난해보다 3곳 늘어",
-        "link": "https://n.news.naver.com/mnews/article/028/0002819838",
+        "title": "‘가발·마스크로 위장’ 캐리비안 베이 女탈의실 불법촬영…20대 男 구속",
+        "link": "https://n.news.naver.com/mnews/article/009/0005725225",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박준희 관악구청장, 매니페스토 약속대상 최우수상",
-        "link": "https://n.news.naver.com/mnews/article/005/0001868707",
+        "title": "SK하이닉스 경영진, 광주 군공항 방문…반도체 부지 점검",
+        "link": "https://n.news.naver.com/mnews/article/366/0001188001",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘180일 수사’ 종합특검, 尹부부 등 58명 기소…핵심 의혹 상당수 결론 못내",
-        "link": "https://n.news.naver.com/mnews/article/081/0003672892",
+        "title": "부부싸움 말리던 아들 흉기 휘둘러...父사망 母 중태",
+        "link": "https://n.news.naver.com/mnews/article/018/0006357324",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가발까지 챙겨서 '몰카'…캐리비안 베이 탈의실 침입 20대, 구속심사",
-        "link": "https://n.news.naver.com/mnews/article/057/0001965167",
+        "title": "경찰청장 대행 \"'장미란씨 실종' 허위 종결 매우 잘못…철저히 수사\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403868",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-24 20:32"
+  "updated": "2026-08-24 21:31"
 }
