@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "‘몸값 2조달러’ 앤트로픽 IPO 임박…SKT 웃고 네이버·LG CNS도 기대",
-        "link": "https://n.news.naver.com/mnews/article/003/0014142176",
+        "title": "전남정보문화산업진흥원, 'AI 활용 게임 아트·리소스 개발 과정' 교육생 모집",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459646",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"렌즈에 이 기능 추가?\"...'아이폰18 프로맥스' 유출 사진 분석 [IT썰]",
-        "link": "https://n.news.naver.com/mnews/article/008/0005403339",
+        "title": "정재헌 SKT CEO, 서울대서 AI 특강…미래 인재 만난다",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434776",
         "source": "네이버 뉴스"
       },
       {
-        "title": "갤버즈4 프로, 최고 인이어 헤드폰 선정…EISA 어워드 첫 수상",
-        "link": "https://n.news.naver.com/mnews/article/003/0014143026",
+        "title": "삼성 '버즈4 프로' EISA 어워드 최고 제품 선정…\"품질·실용성 호평\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005806263",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, 서울대와 AI 인재 키운다…정재헌 대표가 직접 특강",
-        "link": "https://n.news.naver.com/mnews/article/003/0014143045",
+        "title": "케이콘 타고 엠넷플러스 시청 2배 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/092/0002434787",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 낡은 IT 체계 걷어내고 AI 중심으로 전면 재편",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434781",
+        "title": "“강수예측 정확도, 45%→52%”…한국형 ‘물관리 플랫폼’ 등장",
+        "link": "https://n.news.naver.com/mnews/article/016/0002687415",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "\"경기 고려 없는 반도체 증설 압박, 막대한 손실 감내해야 할 수도\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09WazVGWTI4NkNwSC0wSGplR2QzREZKN3U1Yk81c1VRZG1iYjZHT0RkakJobkFJODRMdEtOcDBhdzFSS2lySGVPMG5NVXN5THJTNUdzWC02cG1vVmhjWHZYLVBwUWR3WVB6a0xnUUFZbXZaOW5XZkh1RWxMd2laTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "日 증시, 美 반도체 약세에도 상승…닛케이 장 초반 반등 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadEdmd2RrazJIQzAxWHJFR0hhUElKczY4em5FbDd1WUEzbEJodTdxeFRyVnRHRHZQMFZnbWw3WXl4LWVCU3lmSmlkNW1NWXdHOEM1QnF5MFBPOXFMMldUOEliUlZ2RUN6YzQ2SEF4UG8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이황화몰리브덴 반도체 소자 고성능화 공정기술 개발 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QWmZCNUJubXhHekE0R2ZGZXN4YWFON0hjNVZRNllPZE4xZ0NnUFlpV085RjF2YkhmdnFkb1d3d1VlSUpFV3puVTlXeUhadw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "UNIST \"2차원 반도체 오염 막아 트랜지스터 성능 10배↑\" - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4VnM0RWxXaVE0RGdBTjAtMDh5cUZFQmRCSFR4OUw5NHhGRkxrTEZGeWRVQXlSR1lzbXRmbW5CdkU2aEktSFd2QUMzTS1zTFlnYkdwcVhRRkZKdVQzQWUzddIBeEFVX3lxTE02eWFraGhUOVJINW5WTlhkX2dvQl9qOVY3Z2JQU3p1T3lmSktsM2xWV0FDZFFUQkRVZE9pd3NyWjdsUWowM0czRDJxNVYxdHVUbkZUWGNvWndjREhFUXFpcktHcDM1eF9GaW8wbTAxMlI4NmJhQTdOZw?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "설계된 불안, AI 업무 자동화 [이서윤의 인공지능&인권지능] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0R3Z2WFVGZ0c1alROaWdJZEZlSzl4RmF6NGc0U0p1NmsyckREVjdNUVdOZGYxZ3VtR19mNEtkTmJUcVljV015d2pPb19qdjN3QmVfSVpMQlF6T2NLaU9BY0RTRVE2QQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[D-BIZ 지역뉴스] 전남광주특별시, 뇌과학자 장동선 박사 초청 인공지능(AI) 특강 - 데일리비즈온",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fZDY3cklqeXFPRXlWR0k4QXZkX21aeUplNkgtdUdvR0pTdEotZnlRaHBvY0JYc1V6eVRwVlVONUhlY1lucVdublVESlFLTjktbW5YbjJIQ0ttZnhqd0hxRmxpSUdEeWpQOGM3MQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "행안부, 복잡한 표·그림 대신 고품질 텍스트로 인공지능(AI) 친화적 보고서 전면 도입 - 케이에스피뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfLThzNUpJR2hCaVVwR1VrUFFSc200NlB4TmctOHQzZ3ozTlBlX1R0c2ZhVDltU0N1akEyNWFxdWlSMU5x?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI와 대화했다면 알려야 한다”... EU, AI법 첫 투명성 의무 시행 본격화 - 특허뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfd3R6NmU0Wk9mN09MNlBQVDhfQ3ZYY0I3eXc0ajBMUS1WSWJxLXRKWm5uRUV3YUxuMjJINnhxSFktYTliYmZEdQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "파주시, 재직자 대상 인공지능(AI) 실무교육 마무리… 업무 자동화 역량 높여 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNlY4bkh1YnU2dDRHTEhYdGtaaU15akFpSmZJeWZIVlpKQkVpNE5pTjl4NEJKNy1yQ25nMm5Ud2dEYmkzWHlwdmhiYW92Y1g5dnlFY1ZURVh2d1gzUWltQVJDN3dSM3VDZGhicVNkdFJwQ19T?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "“숨어있는 아름다운 정원 찾습니다”…경기도, 민간정원 추가 발굴",
-        "link": "https://n.news.naver.com/mnews/article/081/0003672823",
+        "title": "거제·통영 호우 피해 75% 응급복구…산사태·전통시장 복구는 더뎌",
+        "link": "https://n.news.naver.com/mnews/article/011/0004654490",
         "source": "네이버 뉴스"
       },
       {
-        "title": "홍석기 국가수사본부장 “국민들에게 송구…전국 실종사건 허위종결 여부 전수조사”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012242685",
+        "title": "[속보] ‘장미란씨 등 실종’ 제주 경찰 구속영장 신청… 셀프 종결 2건 수사 확대",
+        "link": "https://n.news.naver.com/mnews/article/081/0003672824",
         "source": "네이버 뉴스"
       },
       {
-        "title": "선관위 특검, 서초동에 임시 사무실…오후부터 업무 착수",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323808",
+        "title": "'명태균 판결' 부장판사, 정직 3개월 징계... 재판받는 지인 돈으로 해외여행",
+        "link": "https://n.news.naver.com/mnews/article/437/0000507485",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대법 \"공시 송달 안 뒤 2주 내 추후보완항소 가능\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002397183",
+        "title": "시청역과 을지로입구역 사이, K-문화 공간으로 재탄생",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356869",
         "source": "네이버 뉴스"
       },
       {
-        "title": "13년간 금속분진 노출돼 폐암...법원 \"업무상 재해\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002397152",
+        "title": "가발까지 챙겨서 '몰카'…캐리비안 베이 탈의실 침입 20대, 구속심사",
+        "link": "https://n.news.naver.com/mnews/article/057/0001965167",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-24 01:25"
+  "updated": "2026-08-24 02:47"
 }
