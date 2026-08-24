@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "대한민국 인공지능 윤리원칙 제정…인간중심·신뢰 등 7대 원칙",
-        "link": "https://n.news.naver.com/mnews/article/056/0012243045",
+        "title": "5만명 쓰는 서울대 캠퍼스망 확 바뀐다…삼성SDS, 800Gbps 인프라 수주",
+        "link": "https://n.news.naver.com/mnews/article/003/0014143561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“악플 쓴 적도 없는데 출석 요구서가?”…알고 보니 네이버 정보 노린 피싱",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994567",
+        "title": "ICT 규제샌드박스 문답에 AI 활용…300개 기업 '규제 신속 확인' 지원",
+        "link": "https://n.news.naver.com/mnews/article/030/0003459722",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오게임즈, 임시주총서 장기 주주환원책 안건 가결…임직원은 자사주 매입",
-        "link": "https://n.news.naver.com/mnews/article/009/0005724860",
+        "title": "삼성전자, 스마트폰 시장 위축 속 올해 세계 1위 탈환 전망",
+        "link": "https://n.news.naver.com/mnews/article/056/0012243127",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+, 전세계 화이트해커 손잡는다…'글로벌 버그바운티' 운영",
-        "link": "https://n.news.naver.com/mnews/article/003/0014143075",
+        "title": "자율주행 상용화부터 AI 윤리원칙까지…미래기술 싹 틔운다",
+        "link": "https://n.news.naver.com/mnews/article/421/0009129213",
         "source": "네이버 뉴스"
       },
       {
-        "title": "블리자드 \"오버워치 넥슨 파트너십 발전 기대...IP 협업 기회 청취할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002434757",
+        "title": "'프로젝트 RX' 이름 정했다…넥슨 '파레이돌리아' 日 출격",
+        "link": "https://n.news.naver.com/mnews/article/008/0005403848",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "\"경기 고려 없는 반도체 증설 압박, 막대한 손실 감내해야 할 수도\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09WazVGWTI4NkNwSC0wSGplR2QzREZKN3U1Yk81c1VRZG1iYjZHT0RkakJobkFJODRMdEtOcDBhdzFSS2lySGVPMG5NVXN5THJTNUdzWC02cG1vVmhjWHZYLVBwUWR3WVB6a0xnUUFZbXZaOW5XZkh1RWxMd2laTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "알파칩스, 글로벌 AI 반도체 시장 공략 확대 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPeGd5X080VlFFcUl1WXRxanNNVG0zeWc3Rmc1anFqOHBRN3hEbmVKNE9RUC1DNTkwQkJhSENyYnVsOFlZQWFTem1oWWdkeWc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "세미파이브, AI NPU 반도체 ASIC 설계·공급 계약 - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUJkVmRJdnMxM2lIcVNjb1l1TzdhVFN5a0FlYk1WLUxzZ0F3X0tTS3o3UmRSUmw5Z1JnMmRjaDZhdlEyTzUzbHVYSFBJeVlRZ2ZuZlJEczljMjhXd040M3kxendkVS05ci1jSnA5aHNlRzFwblgyeFpMZ0JDeUpDNw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "칩플레이션, 반도체 원판 ‘실리콘 웨이퍼’까지 덮쳤다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVExOY0hsSGRqY1QxaHc5cWN2ZFlQYXdnaVJ1U2xiRWNkUkt4Zm9ycHVuWmE4d2VfTmJ5Y1dXMkpNdmVjRW10SkhJSC1xdms?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "인류가 함께 누리는 AI로… ‘인공지능 윤리원칙’ 제정 - 브릿지경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzOEJFUExrNGtLY2FjVEExWVBCVUJ6dkx5aW9leVFVNVpNeWRHYjExdzJvNlBBbGlOUm01NmRUV1prQ3hyMEcxeHNBT0kzeWV4Z0Q1MUU2TDlCZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "자율주행 AI 실증 전국으로 넓힌다…상용화도 속도 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EdVlSbURGZ1pWRFFaUHEtNENXVEV3elhOc3drcDQ2aGM2TWJ6N3U1Vmo5ank5UGpCTzJhVFN2RU9CdGY2YlhiYWlSVzUtUVJabG5BNlFVQXY1dzM2QU1jTdIBYEFVX3lxTE5EdVlSbURGZ1pWRFFaUHEtNENXVEV3elhOc3drcDQ2aGM2TWJ6N3U1Vmo5ank5UGpCTzJhVFN2RU9CdGY2YlhiYWlSVzUtUVJabG5BNlFVQXY1dzM2QU1jTQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "국산 자율주행 AI 실증 확대…대규모 주행데이터로 성능·범용성 확보 - DongA Science",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WR3VQSHBWTC0zZlAtR1hPNUhqbjk4YmJaNHJoRFdFTzdzWFVKYzhTUmpTSnctVm92UVlKOUg1bnhVd3ltT2RSSUY0UXlFMEJjZ3lFZA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "정부, ‘대한민국 인공지능 윤리원칙’ 제정…AI 전 생애주기 기준 제시 - 테크월드",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WS2ExMXgxN2dtdlhlOGpBMzJ3b3Rka2FLSndQUFZnNnZ0Z2RTSkZsaXotNUJsSndfMTVMVVhOQ09xUWQzUXNiek1HcGRIUUVPdUZNQ1pDTmdUa3NRNmJhRzJQa3ZEOXlr?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI 답 그대로 믿지 말고, 남의 사진 함부로 넣지 마라”…정부 ‘AI 윤리원칙’ 제정 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXlmeWdzTnlMWXpCYk5DSFZ3V3o1TDF1YnFjRW5DYVFXNHJWTWl3MVQ5bUVWSDM1Nm9GX1dpUDNINUdfV0RZazFkSUxYdDAtclFKOEdsY0MzQ1U1UktJdWJqbGNaX1YxVm83c0pab2pqVTlwc2JtLU9mRkNNQ1BOdDE0QQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "180일 수사 마친 종합특검, 尹·김건희 등 58명 기소",
-        "link": "https://n.news.naver.com/mnews/article/277/0005806163",
+        "title": "\"도보 10분 거리 장미란씨 추정 시신, 말이 되냐\"...불신 키운 경찰",
+        "link": "https://n.news.naver.com/mnews/article/018/0006356992",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울광장 지하, K-문화무대로...빅뱅 20주년 전시[서울]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002397288",
+        "title": "장애인 지하철 시위 끝나나…서울시의회 민주당과 타협 후 입장발표",
+        "link": "https://n.news.naver.com/mnews/article/001/0016265957",
         "source": "네이버 뉴스"
       },
       {
-        "title": "코로나 중국서 지난달 52만명 확진… 국내서도 검출률 9.1%로 급증",
-        "link": "https://n.news.naver.com/mnews/article/023/0003994474",
+        "title": "박지향 동북아역사재단 이사장 업무 복귀‥직무정지 20여 일만",
+        "link": "https://n.news.naver.com/mnews/article/214/0001519678",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주 실종 장미란씨 추정 시신서 휴대폰 발견… 외출 당시 옷차림 그대로",
-        "link": "https://n.news.naver.com/mnews/article/022/0004153168",
+        "title": "선관위에 거는 마지막 기대[취재일기]",
+        "link": "https://n.news.naver.com/mnews/article/586/0000136569",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남광주특별시 전남지역 주민 삶 만족도 상승",
-        "link": "https://n.news.naver.com/mnews/article/081/0003672870",
+        "title": "종합특검 '180일' 수사 마침표…성과 속 '핵심 의혹'은 미제",
+        "link": "https://n.news.naver.com/mnews/article/437/0000507427",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-24 05:40"
+  "updated": "2026-08-24 07:02"
 }
