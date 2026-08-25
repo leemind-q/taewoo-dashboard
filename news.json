@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "배충식 KAIST 총장 \"내년 전과목 AI 교육체계 본격화\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005566017",
+        "title": "차기 정지궤도 환경·해양위성 ‘천리안위성 6호’ 개발 본격화",
+        "link": "https://n.news.naver.com/mnews/article/082/0001395291",
         "source": "네이버 뉴스"
       },
       {
-        "title": "CTO서 전직 장관-국세청장까지…카카오AI 첫 이사진 합류",
-        "link": "https://n.news.naver.com/mnews/article/020/0003743185",
+        "title": "정확도 95.3점…사우디도 반한 AI 검색 '라이너', 500억 투자유치",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404428",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘대기·해양 오염 감시’ 천리안위성 6호 내년 개발 착수…2033년 발사",
-        "link": "https://n.news.naver.com/mnews/article/032/0003466217",
+        "title": "“두께는 줄이고 AI는 채웠다”…SKT, 71만7200원 ‘갤럭시 퀀텀7’ 출시",
+        "link": "https://n.news.naver.com/mnews/article/018/0006357661",
         "source": "네이버 뉴스"
       },
       {
-        "title": "델 \"국내 기업용 데스크톱 1위…AI 연산, 사용자 책상으로 이동\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404357",
+        "title": "공공 개인정보 유출 잇따르자…정부, 11년 만에 전담인력 증원",
+        "link": "https://n.news.naver.com/mnews/article/003/0014146379",
         "source": "네이버 뉴스"
       },
       {
-        "title": "넥슨, 게임 개발자 채용에 AI 평가 도입…코딩테스트 없앤다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003125098",
+        "title": "KAIST, 전 과목 AI 활용체계 정립 교육과정 전면 재설계",
+        "link": "https://n.news.naver.com/mnews/article/374/0000529233",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbF9VNTRjdFpWZlNEVG5TdGJNdzBKVWpELW1Mbnh0TGIwMFNzeHlZQmN3bUVSNExSRWZpTWVZekxRTjZlMFpNZURBOXNXSjJFMkJicHU2RVJGZw?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "브로드컴, AI 반도체 매출 2배 성장 전망… 삼성 파운드리 수혜에 이목 - 조선비즈 - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXQ3bHNlOXEzUnZteEdaZXY0b2dJbnFuazRZVTd4RjVmU0s0V3YtNmoza2dLb2RZRzlEUk9KOUtqTmN1dHlkcW1KWDBzbWJYTVpKbEc3YVlmZURRSTNEaFNJWjFTY2paMm9INmV0c0JXWmx4R0JhVnU4cThRZkhjMTF30gGWAUFVX3lxTFBWZE5DaUJITGJYNTF4MlplVU9jdEJDaHFLY1IyanBjMFdCR2ZFaEdHRUJrb3JrWHN5cUlNcGNudWh0VURtXzVEemxseDYwR05hQzVrZHVGUkNLLVJ0bmZsaFE5dUhlYnVXNktTSUhJaGJDUnBULWFhemp3M19XdENxc2dWaVZmeFpkT0tOREd3NFpjZWNVQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "골드만 \"中, 2035년 첨단 칩 부족 34%로 줄어…HBM 자급율↑\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WUTZfRWEtemRXLVNZVFk2RlhZbS1mVlZ1M2w5VGJBYnpkM2RWNmFhV0tFSTZxdjJ2MzJIR05FT0xYcVdYdnh0R01NN1liU28?oc=5",
+        "title": "\"반도체 달라\" 빅테크 난리인데…웃지도 울지도 못하는 삼전닉스, 왜? - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EaUdVcy1fRWZMNGlGa2xOZ2JRTGtLOEYtRmZUNVhYdC1rSTRoZm5STUhMdkh1eV8xTElSU3ZEZmp2OFJLcmRmUHc0bW9aX2FRWm1wWDZscERRUWQyVnc3Vi1aSVBiYUJGUjRfSNIBckFVX3lxTE9zTkNpLUw1ckdyT0hjZ2V6WHlPMENNTTBNeFdGQkd3NnFBOGxTQVZEWF93MnE4eXo4bTBVeG53bEdMV3pjb3RiNDdpcFp1eXBucFgzM1dSaU9FYkRQMS13S3lUWGY0anFWalhPMnNkbjloZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도, 27~28일 반도체 채용박람회 개최…우수기업 20개사 참여 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zcUtIaWlPVXA4Z0hlbzNEcks0VEdwdHlJaWh5YUZILVJZQUNFLU9QOUl1eEIxSm53dDNVcm9EZmNZeWllSFVXRTJDY2JkQkNpQ2ZYSzN4eHlUWnc?oc=5",
+        "title": "[단독]\"'현직 A급' 입사시켜야\"…CXMT, 韓 반도체 인재 노렸다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YX3d1Y2Fsa3hhX21ueXpYWV92bHA5Q0VpMlgxbjFxdzJ0aFVVMEx3WlY0S1NxbWV3SnB2UEZzenNWQjM3ZDl1N0VhRklsVVQ4ZXozUXBKT1RYQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "수원컨벤션센터서 27~28일 '반도체 기업 채용박람회' - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81d01mVWYxM3gyaWROaXJ3VWRLWjl6R2NWTTgxSlJLZ3lXcWVnU25uLXlEamluVFFaZk5mTnVIdGNSUTBKY0czSExPWmJnNlMxSGh1QU52M1BsQ2vSAWBBVV95cUxOaEZYQ2tCT2V4R0l4bGR1ZzZJRWJrM1poNFVldUFNOXNKREFwZTRRbGlCSmFJNHdmMnV1V00yZnMyUTJHZU1GeS1NYTVtQVVwU2VyX0dVRVM2eWNyM3RKQzQ?oc=5",
+        "title": "서남권 반도체에 4년간 6조…정부, AI·지역의대까지 예타 면제 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpcjBlZDZYRVhWUUx3dmNseTExT1RSeWtVWGU4NHNGUi1pQThCTG9ZWjhIM3hXeldmb05XM3FqM09zRDJUakxzcFRmWW1TV0pPM2JrWmQxMHd0MTQzSW9hV1I3VW5hcWlNLVJGUy1VOVo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "호남 반도체·AIDC 인프라 예타 무더기 면제…'3대 메가' 속도 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nUHVCMzkwelpvNTMwWWhseHlQNGs0UjlXS0x0WVpGVkFyZHRaRC15ZUFQZ0VVSDVfV0h0QjJUSkhIS0FjWEJ3QlV2Z2dRRTNhcW9STGlYdDNGYjDSAWBBVV95cUxQM0NVbHAyYWJWU2pjeTIzZHVWVHRhbUpIbFg0ZnhveTh2QnRJemJ6VDZYOTBOaWxRNVBPbWNxVzRibGRSQmlscUhQM3FaTzFsLXpuNG5NYUNQYk1jQVZrN0I?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,13 +61,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "성애병원, 인공지능(AI) 진단 넘어 ‘스마트병상’ - 데일리메디",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HbHlzQjJ3eWM1eV94bk1kRnVSaGFVY1ZTQVhpYTJqN2VTbDZ0M0liOFVLTlljREFvSzE1U0RKMmJqUUxzR3Y1dlVlOHE2eTg1dHBuZ29HQWdvdWw3SjlIRUxkNm41V19EaG9hbw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안산시,‘시민 파워셀러’ 인공지능(AI) 활용 온라인 마케팅 교육생 모집 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdms1Y0R4N2lEbGRHRDN6ZE9zWW9XQ25PU1Q4R2QxRDlua0N4OFUwRVFFdmcwaC16WGZxTDE1bDc2TjNza3I3TFVoOHVhaVY4elhGQktzVlpNTFIyZXViTndMU1c5V0tXVi1MVGhuQQ?oc=5",
+        "title": "BBC의 AI 저널리즘…“신뢰도 관리·교육 체계 먼저 구축” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNN3h0bXUtY2FvRi02MUNxbDNfQTVrYldvX0M1OHgwQUJnMkJYRzl0WmRxQjdodzlqWG1NQWVXUW8tVjNLQmNDR25yaWprVzFKN0E4cklQN0NJajU0T0ZVZXZ3aUs?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "BBC의 AI 저널리즘…“신뢰도 리스크 관리·교육 체계가 먼저” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNN3h0bXUtY2FvRi02MUNxbDNfQTVrYldvX0M1OHgwQUJnMkJYRzl0WmRxQjdodzlqWG1NQWVXUW8tVjNLQmNDR25yaWprVzFKN0E4cklQN0NJajU0T0ZVZXZ3aUs?oc=5",
+        "title": "안산시,‘시민 파워셀러’ 인공지능(AI) 활용 온라인 마케팅 교육생 모집 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdms1Y0R4N2lEbGRHRDN6ZE9zWW9XQ25PU1Q4R2QxRDlua0N4OFUwRVFFdmcwaC16WGZxTDE1bDc2TjNza3I3TFVoOHVhaVY4elhGQktzVlpNTFIyZXViTndMU1c5V0tXVi1MVGhuQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서원대·부산인공지능융합기술협회 “AI로봇 인재 양성” - 아이뉴스24",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RcWpGcXFDRk9CaXVtNVlzdEk5UXdGRF9qNDA0eWQ3Uk9JeUl1RzJQQ3lueGxST1dwS2xQUXhjVFpJYmt0Sy1TRVVEVDU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "9월 모평 N수생 11만명 첫 돌파…대입 개편前 ‘마지막 기회’ 몰려",
-        "link": "https://n.news.naver.com/mnews/article/020/0003743169",
+        "title": "[속보] “전날 제주 한림읍서 발견된 시신 장미란씨로 최종 확인”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005725604",
         "source": "네이버 뉴스"
       },
       {
-        "title": "생후 4개월 '해든이' 학대 살해  친모, '감형'…시민모임 \"납득 어려워\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0004182214",
+        "title": "대구 중견 건설사 태왕, 법정관리 신청...지역경제 파장",
+        "link": "https://n.news.naver.com/mnews/article/052/0002397777",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'실종사건 허위 종결' 제주 경찰관, 석방 하루 만에 다시 구인",
-        "link": "https://n.news.naver.com/mnews/article/421/0009131787",
+        "title": "'7억 뇌물수수' 전 경찰 고위간부 징역 10년→집행유예",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404244",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"여성 멘토 늘리고…신규 교사 전직·전보 예외 규정에 육아 추가\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005807057",
+        "title": "워터파크 불법촬영 20대, 파도풀에서 여성 성추행",
+        "link": "https://n.news.naver.com/mnews/article/052/0002397968",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'尹 여론조사 무상제공' 명태균 석방…\"사법부에 감사\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009131542",
+        "title": "\"스타벅스 가야지\" 구호 그 후…배재고 학생 2명, 야구부 떠나기로",
+        "link": "https://n.news.naver.com/mnews/article/437/0000507812",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-25 07:45"
+  "updated": "2026-08-25 08:44"
 }
