@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "AI 서비스 플랫폼 뤼튼, 1000억원 투자 유치…기업가치 1조원",
-        "link": "https://n.news.naver.com/mnews/article/081/0003673693",
+        "title": "크래프톤, 배그 IP 신작 ‘PUBG: 데드넷’ 첫선…신작 5종 영상 공개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006358108",
         "source": "네이버 뉴스"
       },
       {
-        "title": "3만6000km 밖 무궁화위성 움직인 KT sat, 이제 저궤도위성 컨트롤타워로[르포]",
-        "link": "https://n.news.naver.com/mnews/article/119/0003125401",
+        "title": "\"금융·법률 업무 AI로\" 구글클라우드, 산업 특화 제미나이 출시",
+        "link": "https://n.news.naver.com/mnews/article/014/0005566547",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+, 유선 가입자망 자동화 '글로벌 기준' 만들었다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005566538",
+        "title": "\"위잉~\" 4.6m 안테나가…32년 무중단 '우주 관제' 현장[르포]",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404759",
         "source": "네이버 뉴스"
       },
       {
-        "title": "게임스컴이 주목한 '붉은사막'…어워드 2개 부문 후보",
-        "link": "https://n.news.naver.com/mnews/article/001/0016270237",
+        "title": "SKT, 거제 수해지역 통신망 복구…대피소 구호물품 지원",
+        "link": "https://n.news.naver.com/mnews/article/003/0014148815",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 무신사·직방·BC카드에 AI 심는다…'생활 밀착형 AI' 확산",
-        "link": "https://n.news.naver.com/mnews/article/014/0005566500",
+        "title": "KT, 무신사·EBS·직방과 손잡았다…'생활 밀착형' AI 서비스 추진",
+        "link": "https://n.news.naver.com/mnews/article/015/0005324808",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“반도체 주주님들, 간만에 큰 거 옵니다”…내일 새벽 엔비디아 실적발표 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UV3l3VkdSZnQ3eElieE5NR2ZQY2Q5dkxBYmF3OUVOamJ0OW5VdEN2ODBFR3JqbjU1RUJDY1BRRlNfd2s0TVY4X19mRHMtR3M?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WeHNFbWdZTF9ZZVgwZjdTbDNtTnlsMjhGY3M1ODFuQkotTWxDX25LeTYzRXBydlNQSXhHZW5Pc1JLRkIwUkE?oc=5",
+        "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbF9VNTRjdFpWZlNEVG5TdGJNdzBKVWpELW1Mbnh0TGIwMFNzeHlZQmN3bUVSNExSRWZpTWVZekxRTjZlMFpNZURBOXNXSjJFMkJicHU2RVJGZw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,13 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbF9VNTRjdFpWZlNEVG5TdGJNdzBKVWpELW1Mbnh0TGIwMFNzeHlZQmN3bUVSNExSRWZpTWVZekxRTjZlMFpNZURBOXNXSjJFMkJicHU2RVJGZw?oc=5",
+        "title": "스태츠칩팩코리아-KPCA, 반도체 패키징 산학협력 현장체험 열어 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRnV0UFIzemlfN2xwVmdHaUgtVjRqNXJPSUJ1Tkl1WWt0czA0aS1HN3dLbGQ1ekp0X3JFcFUwd01oMUhPem5tMkhCeTNEQ0dMUnAtTm12U3dwaVVuSWhQamRoTlhsZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "글로벌 반도체협회 \"청정전력, 당장 필요…재생E 확대는 한국에 기회\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeEFqZWJfb1JPeEFoQkRrcEJheVg0dUo3X3JNcndNeGtjVEJ2Y1QyNVV2R3dfNnhKX2hxdEl0ckM1aHMzT1pEV2JzeWZIb1g1UUlMRHpMZk9Pbmd2dHVQYlRaR1JNVFEzWWVrcdIBckFVX3lxTE5YLThVVFpnQnRsbl85UG0tclljZHVSZnpPOUFpX1NnX0djZEpoeXM4SkxCdk5McUw3WXNTNzRsOEd0T19vZ05aQkYwOEFQUmg4T0VXamMtSGwzRVVfQWt0VXQwd0h6OWVhNV8wM3NzUnp0Zw?oc=5",
+        "title": "국립목포대 화합물반도체센터, 직업계고 반도체 인재 키워 글로벌 기업 취업 연계 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVSHpyQk4zQl84czZrWlRhY0RrV3lULWxzdnNWSl92dGVuVklVX3BMZW5sQTEweW9PWXJTazV4NnV6bXJsa1FIWmU2Q0dOdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한화운용 'PLUS 글로벌HBM반도체' 해외주식형 수익률 1위 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMlNxNDNMcUswVFJ5RmU5bmdaamN5Z1d4c20wMnBHQ25qOXlpMl9mM1gzaS10MjI0bmF1dUhLTjM1eDZEMmE1bEVHb1FGamNOYlhqa29FTC1TZXVJTmVPcdIBeEFVX3lxTE5vQklyanIxRmJtbmtwajFKVENXZFR3WGd3b1JGQkFHR0JyNVhnS3NYRUtEUk1yQ3AzUGE0R1VtV3RSdnBLQmd2RWFSRjVtc2pmQTMwanU4dTF4dEZ3Smp3Y1lTcXI0T3lUT0FWOTRmeXZzaEU3QWtwWA?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,8 +61,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "새마을문고남구지부, AI 인공지능 이해와 증진을 위한 한가족 독서골든벨 개최 - 경남도민뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5seGZ1dUVfQ0otVGxkQ1JGcm5ObmYyTGV4QUtMVWJMVGp1aEhVTlh2UVFXbnoyc2NFYzNkUmdneEZxWnJDUTUtVTZqS3JPVHh0ckl2TE9EUWlDSUE1d2NOaWd4dw?oc=5",
+        "title": "새마을문고남구지부 AI 인공지능 이해와 증진을 위한 한가족 독서골든벨 개최 - 국제신문",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUZGYTlJLUNISWNRZDdQYmU1VUduUC11Ny1ZZHpYN3pTaFBfZVNYdmJpbVNlMmE4RHdzM1hNSU1MVmR1eUNPUnFobmJlWk8xZ1AyQlMyUDNHeEZvSjlERmtvakdfMERrbHNfelFPX3RKbXhUOUZjSGVqYmJDbjJiZFlPZ2ZvT3ZXMHozNkhB?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최 - 정안뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43bmYwOEpIM1cxbEdpOEpnZXdJeU9kUTFXVU9waldGU2w5UDhWNGNjcTFuQkJwSXFSRGp2WERyS1FoQjVRbm42aFVjU2RDRUpCektlakJBLTBYdnlVdHZObVpVTGo?oc=5",
+        "title": "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rcl9POTRpREx4aVB1cVQ5T1ltS3lpa2FxMEw5bTkxeWJ3dHdYOUgybXVMVDJKeG5CcHNBR0V3Z0JwM3hmRFNDR2lIVGRiRGFQSFdWWjVTZ1V6M1hBWVdudmVUZVJIUUEzT3J3QVpYVVUwOUJH?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "무안군,  '분산에너지 특화 국가산단' 예정부지 토지거래허가구역 지정",
-        "link": "https://n.news.naver.com/mnews/article/660/0000115907",
+        "title": "中 배추 16만kg 긴급 검사서 '불검출'... 中 정부 조사 미완에 먹거리 불신 증폭",
+        "link": "https://n.news.naver.com/mnews/article/014/0005566727",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광진구, ‘근육 저금통 교실’ 운영…구민 근력·기초체력 키운다",
-        "link": "https://n.news.naver.com/mnews/article/021/0002813702",
+        "title": "'대구 실종' 유학생 살해 혐의 중국인, 일방적 연인 관계 주장",
+        "link": "https://n.news.naver.com/mnews/article/008/0005404810",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중국인 여대생 살해 피의자, '실종 신고'한 그 남성…\"수사 혼선 노린 듯\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005404649",
+        "title": "야자수에 여성 혼자 줄을 맨다?… 커지는 미스터리",
+        "link": "https://n.news.naver.com/mnews/article/021/0002814015",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경산 중국인 대학원생 살해 피의자는 해당 대학 강사",
-        "link": "https://n.news.naver.com/mnews/article/001/0016271754",
+        "title": "\"폭탄 설치했다\" 부산·창원 등 전국 법원에 테러 협박…경찰 수사",
+        "link": "https://n.news.naver.com/mnews/article/666/0000120693",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"원칙대로\"...박수홍, 비행기 탑승 번복 '특혜'?",
-        "link": "https://n.news.naver.com/mnews/article/018/0006358270",
+        "title": "박수홍, 아이 울음에 비행기 내렸다 재탑승하느라 출발 1시간 지연···“이게 맞냐” “가능하냐” 와글",
+        "link": "https://n.news.naver.com/mnews/article/032/0003466487",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-26 05:36"
+  "updated": "2026-08-26 06:53"
 }
