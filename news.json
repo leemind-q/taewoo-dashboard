@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "'모두의 AI' 프로젝트...SKT·카카오·KT 최종 선정",
-        "link": "https://n.news.naver.com/mnews/article/052/0002399410",
+        "title": "AWS, 전 세계 대학생 AI 역량에 7천억원 투자",
+        "link": "https://n.news.naver.com/mnews/article/001/0016276845",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국내 거주 재외동포, 우체국 EMS 10% 할인받는다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016276240",
+        "title": "방미통위, YTN·연합뉴스TV 승인기간 3개월 단축",
+        "link": "https://n.news.naver.com/mnews/article/018/0006359856",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, AI DC 운영 회사 ‘SK호라이즌’ 신설",
-        "link": "https://n.news.naver.com/mnews/article/023/0003995273",
+        "title": "전국민 무료 AI, 카카오·SKT·KT가 만든다(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0009137539",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공정성 논란 휩싸인 독파모… 과기정통부, 모티프 이의제기에 세부점수 공개",
-        "link": "https://n.news.naver.com/mnews/article/081/0003674335",
+        "title": "40kg 화물도 아파트 현관까지…우주항공청, 드론·로봇 배송 실증",
+        "link": "https://n.news.naver.com/mnews/article/138/0002239357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과학기술연합대학원대학교 ‘AI 모빌리티’ 초격차 기술 이끌 핵심인재 양성 나선다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004655805",
+        "title": "“문고리로 도어스토퍼 작동… 발 안써도 돼요”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003744237",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“미 트럼프 행정부, 반도체 대상 고강도 관세 검토” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc1hDdUphYVI0OTNxbVVVODllZHNXY05ydmp0Tm90Q2JkMFF3MmtoZTRuOFBVU194UzBBREdqZE1waVJYb3JBczhseHNDWE5aY0ZMSk1XSHB2LTg?oc=5",
+        "title": "日언론 \"韓, 반도체 대호황에 들떠 있을 때 아냐\" 진단 - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0JHellLUm9ySERUOTYtLUNzMzRFMEFDLW1Eb1JDdmxIaGdlb2hmQWd1ajdlMUtyMGk4cG5hVXQwbmIzSnlsSHNkNGJpYWl0VGZmTDU1ZktmQXRVSnVHSVIyMzh1cmoyemVNT2tNX3RhT193QkJmQTZUS3RSVWU2YQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"트럼프 행정부, 반도체 '고강도 관세' 검토\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jMVZSSWdpXzdqdHYzcXZpNlJDenJJWEF3R0NRWG1PMmlHeGpBV2Z3UlpMQnVid216XzlKTHVvTWFtdmp5RWJBSW5KTFRaZXM?oc=5",
+        "title": "5년만에 16개 광역지자체 수출 모두 증가…반도체 빼도 늘었다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFVNdUFCWTk1Q1ZkNlpGQ2dVZk5CNUJYUjJKemMwNkdjUkN2VTdYdGJtUVZ2LXFaYTA5d3BKVmJDYW9hUlB4dlFSOUdJZ1k?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "日 아사히신문 \"韓 반도체 대호황, 양극화만 더 키울 수도\" - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaDRzeXc2a1NFV0p1MlBIV3V6NHFVQUNFczB5aF9RTEljVDltN1FzUkFSR2NtQVNnTjRLYVpZNEhPWVZ2RlBxMzZZbk5nZ2cwV2dxY0dTNnA5WTlFaTFDd0tJT2trU0NoQWxzWnZGb3Y?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"미 트럼프 행정부, 반도체 대상 고강도 관세 검토\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4LWMtQWNCOUZHWjFaTC1TNkVQTGRHSGR5SEJTdElBVTBrN2dVQ29SU3pzRDJXM3I4SENpLUUzRjFseDFWWWoxVnE1VW9aSG85Z21pSnpJSU9kU3PSAWBBVV95cUxNSDNhcjc0SUZKT2hveV8xRnRHY3gxMVFDeUk4QzFnYWdBQldRNlhQR1p2MHhJRUFQM3dfbUdyNXVqN0ZkWjA1NUhJNzJlckp2elVFeHpkaUJzZnY4a2lSb3k?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "트럼프 행정부, 고강도 반도체 관세 카드 만지작···대미 투자 압박 수단되나 - 경향신문",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dEIyZms1U3l4bFp5UElOejJ1REpxR3Y0MlFyRkw3ODJxTjAwWUprRDc3eC1XOTZublZEMGZ4U0ZsTml5Tld4TFNYMm9jeUNGemZXd1lZR1pFQdIBX0FVX3lxTE4yNlBOSVFmM2ZSdENNM29PTjVNazZWdVc2anNYVkhBQl9lcFJndHJMQ1FEc0l2ZEN2QkRnb0o0UDdydlY4VDBQdmNCNHJTQ1RfR1NQcmJ0cGtoNzNjeE5v?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "충남에 들어선 인도계 첫 외투기업···공주서 반도체 소재 생산 돌입 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZkozM3FIQkdWZWk3cmFFb2JIbFNhb1pZMS1DZGtRRGloa0ZobGJUdVRwQ1dsbXNkOFVXMGlKUzYtcDVIakkzX0szalBvckxFS0FtUXFwSFk5Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "호남 반도체 용수 확보 첫 관문…동복댐 증축 주민 보상 협의 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TFU2b2d0TlNnREdFajh4bzdBN1FqVVh6cU5ySGNqWVR0dXN2ckRhcnVRT055SFgyQUZranp0RVZTSDVsTnFqU0JSTXM1WnM?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "인천 공공하수·자원순환 처리시설에 인공지능(AI) 기술 적용 확대 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1acHZrNDByUjB5QTJ4LUl4TFlmeno5V09UVmVOQWkxX2dYYlVPTW8zUDV4WjZfLXVLd3Y5Z3dlVWRaSlV1U0hTTHR3aWVVRFU?oc=5",
+        "title": "법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어 - 법제처",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDg4V043emxiUlFKVEVsdnFVR0tvVXVLVU5QQl9aS0l2Ri1xNUduLVpzLTFMOExzSXZ1Mkk5YVlrb2RJWndOV1ZPUEJmZjdhVi1DNDhHZDA5TjNmU0lCX3NWUmhEQWFzbEtWR2QteGRQSUJQLWpydkJkcjRxNEVlYThGaGdPTUFmaFJwejdNYU9VSktWc2FGakhnczVEOHFsZ3FwM3NBM0dkb2VuVUVLeHd2VmdoZjVndkFqVVZtZjBBN1FoUk4zMXU5bGU2dWhW?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한수원, 인공지능(AI) 기반 감사 혁신 및 내부통제･적극행정 강화 - 데일리대구경북뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01N044TnZRVVFfY1ptWjVlSElDZUZqTkVrLXNqUExycWhXYm92RjZoUTZrRC14YkN0YjBJQXFpdXYzdXVWcVNnS0Q1NkwtYVhMbVg4akNGay1sZXlDLW1zMlJ4a18zUQ?oc=5",
+        "title": "충남도, 인공지능(AI) 글로벌 네트워크 확대 ‘첫 단추’ - pinenews.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82U3R5NFJ3ZHdxX01hUmhpeGxaWEVOb1RjT2xMb21Bcnh5M3ZtejJaN0plTXRpeFhySWo4SWo1cWxiOUtJU3hN?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "이화여대·베이징대 교류 30주년…AI 교육 방안 등 논의 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cGdvT2NiLVE1NTh0aEJCczZZQzV3QUowMEp2VHVLdEo0dzdyX0dMd1doMVVMWkdzWWtpa1lKUklsMkNoMjRMaFpMY2lXWWtBNUNFOTlYZlZYbkZKb1RyT9IBYEFVX3lxTE95cGdvT2NiLVE1NTh0aEJCczZZQzV3QUowMEp2VHVLdEo0dzdyX0dMd1doMVVMWkdzWWtpa1lKUklsMkNoMjRMaFpMY2lXWWtBNUNFOTlYZlZYbkZKb1RyTw?oc=5",
+        "title": "인공지능이 바꾼 국제행사…다양성의 문 열다 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SGdkMzVsSEhST2lmNEYwUF9rUENsdjZYQ3hCMm1iYU9RTkM2NS14a2xfLWhzVXBIY294ZklsdDNHdVZTUktDbTVTTlRXaEdPcFo4WjFjWm1lcVJmZTNXUG5sZDBWaS1JV1dB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "카카오, 모두의 AI 사업자 선정... 일상 속 인공지능 서비스 구축 나선다 - 2news.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1haUh2bFFfejdFTWRhT25Lb25HTi1icnhQU3BFLWljaGlOd0VGWHVxWEdzM0ItTHBYUGJjQ0xSWVNqXzZpbVZNa0N6MnBLT2NoaGRuTk1TRWt2UTNnVzA1MWhBMy1Ma09m?oc=5",
+        "title": "경남도, 경남대에 ‘메가존 피지컬AI연구센터’ 개소 - 로봇신문",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0czVWbFlzWGdrVzRXSW5pT3hTNFMtVlFwU05lRVBmUUdEUi14Q1NxaWVOQW83WWV2TGlEQm1HS2hMSFMxblVfS1dQdUZmcDZKWG43NndmWlhtNERGbktWYnBUbzFydzdzTkppTw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'모두의 AI' 사업자에 SKT·카카오·KT 선정... 연내 서비스 출시 - 인포스탁데일리",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51NU5NeFVvbloydWtaU1lrbEFMREFSNW1sdHNHRTdFeUN1THpZbWFnMk9Ja2l4SkJoa3Vlc01jdllnMkhLZnNDcXNJRTM0RGdjZlpMYUpuVEgzZUNSWkJOSnJTMFdjOUk4N0hZaTQ2VkNrWHpCYVE?oc=5",
+        "title": "하정우 \"전남광주, AI·반도체 전략거점으로 육성\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yd29QWWtWQnJzZU9ZakFFeVl3OUlMSHdWZkpjN2Y3NHhjUkpEdGRYOUJHY1FlQkVMMTZHU3hpWFI3dGpnSzRtOGtpRXdzUXRieDVtQU85b1dWQlBxOXFvSNIBYEFVX3lxTE9yd29QWWtWQnJzZU9ZakFFeVl3OUlMSHdWZkpjN2Y3NHhjUkpEdGRYOUJHY1FlQkVMMTZHU3hpWFI3dGpnSzRtOGtpRXdzUXRieDVtQU85b1dWQlBxOXFvSA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "민형배 시장, 국립의대 갈등 해소 '공동 정치협상 회의' 제안",
-        "link": "https://n.news.naver.com/mnews/article/421/0009137720",
+        "title": "\"국립의대 결과 수용해달라\"…민형배, 공동 정치협상 제안",
+        "link": "https://n.news.naver.com/mnews/article/003/0014154294",
         "source": "네이버 뉴스"
       },
       {
-        "title": "행안장관, 천안 공장 화재에 \"인명 구조·화재 진압 총력\" 긴급 지시",
-        "link": "https://n.news.naver.com/mnews/article/422/0000900406",
+        "title": "여성 손님 노려 돈 뜯어낸 ‘디스코팡팡’ DJ, 검찰 송치",
+        "link": "https://n.news.naver.com/mnews/article/011/0004656298",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"하필 그 선례를\"…대법관 재제청 '이승만 선례' 靑검토에 '탄식'",
-        "link": "https://n.news.naver.com/mnews/article/079/0004183422",
+        "title": "전자발찌 차고도 지인 10대 딸 추행 50대, 항소심도 징역 4년",
+        "link": "https://n.news.naver.com/mnews/article/422/0000900462",
         "source": "네이버 뉴스"
       },
       {
-        "title": "기관실서 심정지 발견…인천 자월도 선박 화재로 2명 숨져 [현장영상]",
-        "link": "https://n.news.naver.com/mnews/article/056/0012246503",
+        "title": "음주 마세라티, 강남서 6중 추돌…오토바이 운전자 사망",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995414",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"사이코패스 검사 안 해\" 돌연 거부…구속 후 첫 조사 무슨 일이?[자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/055/0001384146",
+        "title": "다리 괴사로 악취·통증 호소한 70대…응급실 찾았다가 절단 수술",
+        "link": "https://n.news.naver.com/mnews/article/015/0005325727",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-28 05:17"
+  "updated": "2026-08-28 17:38"
 }
