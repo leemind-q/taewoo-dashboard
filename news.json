@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "[속보] 정부 ‘모두의 AI’ 사업자로 SKT·카카오·KT 선정",
-        "link": "https://n.news.naver.com/mnews/article/025/0003547439",
+        "title": "“문고리만 돌리면 스토퍼가 저절로”…초등학생 ‘기발한 아이디어’ 빛났다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002689820",
         "source": "네이버 뉴스"
       },
       {
-        "title": "사추위 구성 안 한 연합TV·YTN, 승인기간 3개월 단축",
-        "link": "https://n.news.naver.com/mnews/article/127/0000039695",
+        "title": "SKT·카카오·KT, ‘모두의 AI’ 사업자 선정…연내 서비스 출시",
+        "link": "https://n.news.naver.com/mnews/article/081/0003674394",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'문손잡이 도어 스토퍼' 발명한 울산 초등생, 과학발명품경진대회 대통령상",
-        "link": "https://n.news.naver.com/mnews/article/082/0001395906",
+        "title": "농심, '게임스컴'서 신라면 마케팅…글로벌 게이머 공략",
+        "link": "https://n.news.naver.com/mnews/article/215/0001263985",
         "source": "네이버 뉴스"
       },
       {
-        "title": "위기의 K게임…이대로 점령당할 것인가",
-        "link": "https://n.news.naver.com/mnews/article/024/0000107855",
+        "title": "[단독] '철새 이동 관문' 홍도에 고양이 최소 105마리… 기초 실태 파악은 미흡",
+        "link": "https://n.news.naver.com/mnews/article/469/0000950868",
         "source": "네이버 뉴스"
       },
       {
-        "title": "세계 최대 게임쇼 패싱? ‘GTA 6’는 넷플릭스로 갔다",
-        "link": "https://n.news.naver.com/mnews/article/005/0001869601",
+        "title": "\"스펙 보고 산 거 아닌데요?\"…삼성, 뜻밖의 흥행에 '당황' [홍민성의 테토남]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005326163",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "\"미, 반도체 관세 확대 검토\"...SK 하이닉스 \"미국서 HBM 생산\" - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93QjlVR1A2OF9oYXNDZFpWWHk2NnRJOGY2T3otQXVmVTRNQ0FCNUY2RHloZ3c3aFk1eUljUHhuMmQxdG5xMklyRFJJN0ZIUmMwS28ycHpSVFEwXzM0R0E?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“미 트럼프 행정부, 반도체 대상 고강도 관세 검토” - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc1hDdUphYVI0OTNxbVVVODllZHNXY05ydmp0Tm90Q2JkMFF3MmtoZTRuOFBVU194UzBBREdqZE1waVJYb3JBczhseHNDWE5aY0ZMSk1XSHB2LTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\" - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "日언론 \"韓, 반도체 대호황에 들떠 있을 때 아냐\" 진단 - edaily.co.kr",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0JHellLUm9ySERUOTYtLUNzMzRFMEFDLW1Eb1JDdmxIaGdlb2hmQWd1ajdlMUtyMGk4cG5hVXQwbmIzSnlsSHNkNGJpYWl0VGZmTDU1ZktmQXRVSnVHSVIyMzh1cmoyemVNT2tNX3RhT193QkJmQTZUS3RSVWU2YQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "5년만에 16개 광역지자체 수출 모두 증가…반도체 빼도 늘었다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFVNdUFCWTk1Q1ZkNlpGQ2dVZk5CNUJYUjJKemMwNkdjUkN2VTdYdGJtUVZ2LXFaYTA5d3BKVmJDYW9hUlB4dlFSOUdJZ1k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 대호황 韓, 네덜란드병 우려\"…日 아사히의 경고 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yMV9lVjF6ZVlLTHdRMHJ6Uk1mcV91bUQyR3lWWmZ0UXBtOHF6LU9jWC1ibUZyWVNzZzRROHQtNWF3OFc1Vm53a3ZMTGQySWVQLTFWazVTRWlSRXFmT0hnWtIBeEFVX3lxTE5hZXluRE9HRm5ndjlKZnFFWk9BOXZUTzFGTUJpR1RRanB0eW5LNjZIVlN6TUMta1J6M212UTBaQUp2YXVlRHgycWxkMExoaUFnbVlvaDdTSDlXckdHOXI4V3VuTlp4S2J3ZkRYY2NJSHkwVzAxa19zcg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[마켓뷰] 美, 반도체 관세 ‘복병’… 코스피 2% 가까이 하락 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNG9JZUw4clNHWEFsS3gwS3lGS0dCenlmSVlsY3NXcm9pOVZoRi1HYnlBRVd5bVBkemhONkFOVTRNNWlWVDA4SFB4VmRLRnlFakJZOWRaQi1jSllfWW1HYld5QW10UGVKVElpRFEyRmdjdlpyNXprT29KeU5MbFduWkFXR2pUU3FB0gGcAUFVX3lxTE5oM2dYc0Z0VGZrZUc4cnZ5OVpFYjRaajVQbmpQQXdhMVdSQ1ZGNmMyaklrU1pqcmxpR05TdXZDeHlORjFtNjJUTkpFNFBJRDVtS1dWSW5TS1kwSXJEUEVJckZ1cEtwRVEzMW5oWE9Bd19RdVE1cTFuYWdsY24yZ2xuU1p1Nk9LcTZQLTBqMzQ0V3FjdV9xQ3BSQ1l1cg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "성공하면 삼전·하닉 어쩌나…머스크가 꽂힌 '새 기술'에 반도체 판 뒤집히나 [칩톡] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZklkRUlYcTViSG5ZWVVaWmpxVE1XaVQ1ZkxfOEJiMmxuQVJYVURrTXQ1dnh1ckpjSF90UWVVdWgxME9aOHNGNEplQlFqRHp1aV9qMQ?oc=5",
+        "title": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어 - 법제처",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDg4V043emxiUlFKVEVsdnFVR0tvVXVLVU5QQl9aS0l2Ri1xNUduLVpzLTFMOExzSXZ1Mkk5YVlrb2RJWndOV1ZPUEJmZjdhVi1DNDhHZDA5TjNmU0lCX3NWUmhEQWFzbEtWR2QteGRQSUJQLWpydkJkcjRxNEVlYThGaGdPTUFmaFJwejdNYU9VSktWc2FGakhnczVEOHFsZ3FwM3NBM0dkb2VuVUVLeHd2VmdoZjVndkFqVVZtZjBBN1FoUk4zMXU5bGU2dWhW?oc=5",
+        "title": "의료는 고영향 인공지능( High-Impact AI) , 도구가 아닌 동료 AI 에이젠트 이용 - 한국의약통신",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQmVubGpwWjktU3hVVVl1OW16dVVwdTQ0NnVVUHhOR2duTEdmV09kYWEwMTZ0M3JVX3hfWkpoeFNJUTlITmNSRF8yNXpoMXdKOFV2MXRzdnJqZmhwZGhzZl9NTmF0U1VTZnlr?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI 에이전트 시대, '토큰 거버넌스' 필요”…SK, '토큰 이코노미' 사내서 낸다 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nNWhiNTYwTGJxT0M0WVVSYnJzNGZfS3l4aTh5V0RTZFlTdEI4VE92OWZ6cmY1VHNZX2VXME9YcWlxc2pJUVdlc0ZsWXlYdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 엔비디아의 허깅 페이스 인수…오픈소스 AI 생태계 재편 예고 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VNm5hYjUwX0hucmgwMWFpUUhYM1JvY2VkRllXWHpsUTNwNUVaazhqYnVRQlhWVmVieFVJaFJFUmN0SUtXcE83RHUtWkk0a1g4WlJ2SHR5MFFOR1ZNT1U4VktORnJqWXBDbzVDWnFJYw?oc=5",
+        "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방 - 대한민국 정책브리핑",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlIyTWxjd0p6N29tMkN4eWl0TWN2NTY3aDRqRThWQVUzdVpnWXZaS3B0RVFrVS1OczBBNWg1UzJERVkxZmVhU19VeWNnSk9YeV96akpkcnVoa3d5VE5xTDhIbHRCbEdDbllQUVhQekpRMV9BSTIzRW1GYk92Zm5hU2ZJa0FJTHJwTXE1bzJSVHVuUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "충남도, 인공지능(AI) 글로벌 네트워크 확대 ‘첫 단추’ - pinenews.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82U3R5NFJ3ZHdxX01hUmhpeGxaWEVOb1RjT2xMb21Bcnh5M3ZtejJaN0plTXRpeFhySWo4SWo1cWxiOUtJU3hN?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능이 바꾼 국제행사…다양성의 문 열다 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SGdkMzVsSEhST2lmNEYwUF9rUENsdjZYQ3hCMm1iYU9RTkM2NS14a2xfLWhzVXBIY294ZklsdDNHdVZTUktDbTVTTlRXaEdPcFo4WjFjWm1lcVJmZTNXUG5sZDBWaS1JV1dB?oc=5",
+        "title": "경남도, ‘메가존 피지컬AI연구센터’ 개소식 개최…경남대에 1000억 규모 제조업 인공지능 전환 거점 구축 본격화 - 브릿지경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4N0lHbWN1cDYyZm1Tb0RaMDNXUmdOWW9oMVhNYkZuYnEydVhiVHBLNGNaQjUzTV9JQ2xuNnZOMjczdVNwMFExdW1taTg2azZYQ1lNYkpRZXE1UQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "[단독]강남 한복판서 '음주 마세라티' 6중 추돌…1명 사망",
-        "link": "https://n.news.naver.com/mnews/article/079/0004183363",
+        "title": "“장씨와 통화했다는 진술은 거짓말이었다”…‘실종 사건 허위종결’ 제주경찰관 일부 혐의 시인",
+        "link": "https://n.news.naver.com/mnews/article/087/0001214190",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충남 천안 페인트 원료 생산공장서 큰불…3명 숨져",
-        "link": "https://n.news.naver.com/mnews/article/056/0012246651",
+        "title": "베트남 유학생 살해한 20대 베트남 남성 긴급체포",
+        "link": "https://n.news.naver.com/mnews/article/422/0000900252",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'길막·알박기' 주차 빌런 철퇴…오늘부터 최대 500만 원 부과",
-        "link": "https://n.news.naver.com/mnews/article/437/0000508295",
+        "title": "“변할 테니 다시 만나” 약속하더니…60대 남, 여자친구 폭행·감금",
+        "link": "https://n.news.naver.com/mnews/article/009/0005727443",
         "source": "네이버 뉴스"
       },
       {
-        "title": "檢, 노웅래 ‘뇌물수수’ 2심 무죄에 상고 포기…무죄 확정",
-        "link": "https://n.news.naver.com/mnews/article/005/0001869591",
+        "title": "코로나 끝난 뒤 폐관한 CGV…남은 임대료 등 153억 배상",
+        "link": "https://n.news.naver.com/mnews/article/015/0005326166",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"코로나 때문에 폐점\" 주장했지만…CGV, 153억 배상 판결",
-        "link": "https://n.news.naver.com/mnews/article/055/0001384328",
+        "title": "[속보]검찰, 노웅래 '불법 정치자금' 2심 무죄에 상고 포기",
+        "link": "https://n.news.naver.com/mnews/article/018/0006359851",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-29 01:32"
+  "updated": "2026-08-29 08:44"
 }
