@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "KT, 서울대·카이스트와 AI 기술 공동연구…모델·플랫폼 적용 추진",
-        "link": "https://n.news.naver.com/mnews/article/029/0003044971",
+        "title": "“타이핑 속도까지 분석”…AI 개인화 기술은 ‘진화 중’",
+        "link": "https://n.news.naver.com/mnews/article/029/0003045055",
         "source": "네이버 뉴스"
       },
       {
-        "title": "독일 향한 K-게임 수장들…삼성·농심도 찾은 게임스컴[주말엔게임]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005809017",
+        "title": "스마트폰으로 '몰래 카메라' 순식간에 高정확도로 찾아내...KAIST, 저비용 탐지 기술 개발",
+        "link": "https://n.news.naver.com/mnews/article/030/0003461564",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 스페이스X 인수된 커서 계약 해지…머스크, “사기꾼” 비난",
-        "link": "https://n.news.naver.com/mnews/article/056/0012247244",
+        "title": "갤럭시로 모바일게임 맞대결… 獨게임스컴 달궈",
+        "link": "https://n.news.naver.com/mnews/article/014/0005568285",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'스파이 위성' 부품이 '로먼 우주망원경'으로…NASA, 30일 발사",
-        "link": "https://n.news.naver.com/mnews/article/584/0000039109",
+        "title": "하정우 신임 국가AI 부위원장 \"AI 3강 넘어 대체불가 국가로\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014157018",
         "source": "네이버 뉴스"
       },
       {
-        "title": "1만원 LED, 폰에 붙이면…불법촬영 5초 만에 찾아낸다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002820748",
+        "title": "통신품질 미흡 87곳 재점검했더니…지하철 8곳 '미흡' 지속",
+        "link": "https://n.news.naver.com/mnews/article/448/0000636424",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"트럼프, 반도체 고율 관세 검토\"...SK하이닉스 \"2029년 미국산 HBM 생산\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQLUFKNUFtUzMxSGtsbzJDN3BoTmZOdm1adEJBSVJKNWxWQ2VHZUlSYU41aW1VRDNxRHV5UXB1ek5nczVuTXA4QTZNV3cxaDIzQWxhQWZRc2ZKYXRVcWc?oc=5",
+        "title": "\"반도체 끝났다더니\"…큰손들 일주일새 490억 쓸어담았다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wQnRlVGdsbXFERnBxTUEtTXYxNEh6N1EtdmszLVhPMVJBZ2tHdEJ5WDV2NkJmN0lhdXdpbHRhNVBZdlVwU2ZfbDJOWTR5R29OVW9fcHpTTGx6UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“미 트럼프 행정부, 반도체 대상 고강도 관세 검토” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc1hDdUphYVI0OTNxbVVVODllZHNXY05ydmp0Tm90Q2JkMFF3MmtoZTRuOFBVU194UzBBREdqZE1waVJYb3JBczhseHNDWE5aY0ZMSk1XSHB2LTg?oc=5",
+        "title": "'中 반도체 자립의 역설'…효율 낮아 삼성 메모리 더 찾는다 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZHB1TzdTSV90aHBDRHpPZ0s5TkdmQkNlY3Rva3I0R2FaZ0ZydEMzYTRHbHExVXo3N05tTHNhMTBjMWtVbGhCTWRldnBzWTJkeWhyNUVEWmNpMWhBZkdNQ3BOUmIwdGoxRTlVdVBuMnM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "코스피 1%대 약세…美 반도체 관세 범위 확대 우려 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrVzJqYXp3UE9KZjhGRmlkRmdZTTBTRlozV3QwNW1fZmhlY2hIa2JmdUJyamV6Tk0tR1ZZLXFWQmkySkJ2SXc?oc=5",
+        "title": "코스피 숨고르기 구간…\"반도체 더해 2차전지·AI 서비스주 주목\" [주간전망] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EVVNBYnZtc252bHdRSlB4bkFMMHl1akNBdjl0ZzNyUW5aSjhLbFZ6anpJTzVlX1AycUx5VXJRaU5NY1V1bmF1ZzVOeWVnR0htMVhIUGVLakE1dw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 4% 뛸 동안 30% 가까이 상승한 건설주...데이터센터·원전 매력↑ - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X21vS1IzQ0dzZmMzdlFJa01SNU9ZOFBnYjZvRmVVNHJYXzc0bVBNR0pVbzk3ZTRpUHJ0eWY1M1JwQ1U1MUhtSG51UjR5R0xrZkdpN1NqRDNXdw?oc=5",
+        "title": "[증시 예보] ‘칠천피’ 다시 두드리는 코스피…8월 반도체 수출·美 고용 주목 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbm9fN29RWFduWmQzVjhvcHdIQTA2bTVDRGZjWE9vWmVQYnZ3WV9ZakJ1UmpSWDQ0bnhwZDFUVFFPQ09WbVpZZXV4aVpuNFk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에…삼성전자·SK하이닉스 상반기 법인세 11조 돌파 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4N3daZlRrN1VCMTMyUER2djNsNkdlZlV0d0VqcFB3b2VxSE1JWDVDdUVDR0Z4SXJlQjZrVWtQbHFscXZzcjU5YnNxTnBiczQ?oc=5",
+        "title": "반도체 실적·주주환원 모멘텀 지속…7000선 회복 시도[주간증시전망] - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUVBwM2E0cWY4QkxLZ20yMUZES0wzZmlCQU9TRnVxNmZ5N1BkU21naElZempKdFpmRjNUekM2cm9jZGVFZmFOM0FvNlJhSVltYkctRTlkMXVzVU5IM2VkS9IBeEFVX3lxTE5MSTVfX1BfUERZVG02OXREYUNKenNuUk4wNERVT21nUmlVZWtURmF1OG1zRWY5SWwzci1WUjZZZVlWVTRlU1FoMXg5aEtXamVwVzVnTUVHblBPdzJMWVVDcGJkU09idWI0MERvbENBSllGeFR2anNkaA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "“인공지능, 수백만 소재 중 쓸 수 있는 후보 처음부터 골라낸다”...MIT, AI로 ‘안정적인 신소재’ 생성 기술 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83OFpuMUlEZW85bGUyY3cxbXR3YzF2X2wwYklpNGFLcVFTS1pUN1hlRW9ZMWRNOUllbkJRcldzejhlQkxWT2tOYkdheDFpdnExdk01UnE4R0lwdUtob09KcnFrYVhva1E?oc=5",
+        "title": "[경일포럼]인공지능(AI)공화국, 인류를 정복하다 - 경남일보",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNNk0tcTExdEM1NUVEM3EyWGdIVVVzbmhYdmpWV1VQQ3U4dHZET3Y0WHFXTHRmNTlPV0haLUtaWTU5RDVLUVJMRkc2WmhmY3ZFcVphOUdqWUJCWHpnU0Z5T2FBQlNoNEF4TWdn?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경남 제조현장에 인공지능(AI) 입힌다 - 경남도민신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FYVN6UDlFbWJ3bVNGWlN0VTd1cENuRHdqQnVjUnoyU1NfZGM3TWpDQ3NDNGR5S3NoX0FaWlM2Wm9aMFc5OGRKU0FYZV8tVHlGZXJPQVYyUk16eDh6aWw0SDRxVVNrSzdK?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[프로필] 하정우 AI委 부위원장…'하GPT' 초대 AI수석 출신 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RWi1CV2ZPQ0JhZlJBXzNZeVFaRnZrdDJNNTBQWHdGeDl1MEdZSnpqYnpwRVBZTU9IQnliOGtHX0NUTmtYaUNXQk1NNHlfZkE?oc=5",
+        "title": "“인공지능, 수백만 소재 중 쓸 수 있는 후보 처음부터 골라낸다”...MIT, AI로 ‘안정적인 신소재’ 생성 기술 개발 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83OFpuMUlEZW85bGUyY3cxbXR3YzF2X2wwYklpNGFLcVFTS1pUN1hlRW9ZMWRNOUllbkJRcldzejhlQkxWT2tOYkdheDFpdnExdk01UnE4R0lwdUtob09KcnFrYVhva1E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI위클리] AI는 이제 필수 역량…영어·수학만큼 중요해졌다 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LTUNKVmkxQVdGMkFaTVhTUnJNQnI4Q00zTmZuRm9VUHViSzVCaUFoN0xURU5NNHJEU3JiTEpoWDdfemYzUXVJNGNDbXc1bkRFZW9uVDZjdDhDcHfSAWBBVV95cUxPQXFzV3pPTFRCY2VfR09QZGpqTGl0V0Z3Y3oyM0RReS1jaENqdnFxdHNUWWw3cVNzUWx3RXVIU0dsTnk0Y3AwTURxREsyVzBIajhZU01idlFadWNMTUV5TzM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "노원구의회 연구단체, AI 활용모델 연구 돌입···“의정활동에 인공지능 접목” - 산경일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02UkdBYVBjbW5rdG1EMXJlYW1SdTF4TXF5NllROXZoQnhQVmVubWRCTlozbVl0TzJ0RnVBd2Fzc1ZLb0t2MncwOHVBY2ZqaXRYaVRaVWt1dExXRnBPZXFoSkxGZUg2LUg4bF9ZY1JOaDI?oc=5",
+        "title": "[프로필] 하정우 AI委 부위원장…'하GPT' 초대 AI수석 출신 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCU2U4cFBjNVlEcVpiZFlvbzkxZTFmSUtlOVpGTHpNNmk0bkJLcTBGbmMzZTV2YlliLVlIX1IxcDlKUmRHdjhvaDVMSmwyV1RSc0hsbkRTZkkyVlHSAWBBVV95cUxOMmNsQTRDVEFSN2F4ZE84MkFIZFMzaEM0SFVQcVlFNE51U0dONXRzUWtJa0lmNTUtYkx3YjFuVV9NVzBVclZ5a0JzTlJBNVdzRk1mdTRtS29zaHI2clQyOG8?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "정부, 지방 국립대 등록금 무상화에…사립대 강하게 반발",
-        "link": "https://n.news.naver.com/mnews/article/015/0005326254",
+        "title": "노조와 이유 없이 단체교섭 거부...헌재 \"처벌조항 합헌\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002400143",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한동훈 \"제주 실종사건, 상급자 결재 거쳤다…5시간 만에 종결\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000636308",
+        "title": "제주 실종사건 30% ‘그 경찰관’ 혼자 종결…298건 전수조사, 숨겨진 사건 또 있나",
+        "link": "https://n.news.naver.com/mnews/article/009/0005727755",
         "source": "네이버 뉴스"
       },
       {
-        "title": "의료비 상한 초과 226만 명에 3조 돌려준다",
-        "link": "https://n.news.naver.com/mnews/article/056/0012247284",
+        "title": "대구 범안로 9월 1일부터 무료…통행료 전면 폐지",
+        "link": "https://n.news.naver.com/mnews/article/005/0001869729",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"조용히 해달라\" 말에 18세 승객 폭행…'묻지마 시비' 40대 결국 실형",
-        "link": "https://n.news.naver.com/mnews/article/014/0005568208",
+        "title": "선관위 특검, 합수본 기록 넘겨받고 진용 구축…금주 수사계획 수립",
+        "link": "https://n.news.naver.com/mnews/article/421/0009139560",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"국립의대 갈등보다 협력\"…전남광주 정치권, 공동합의문",
-        "link": "https://n.news.naver.com/mnews/article/003/0014156361",
+        "title": "임명은 거부할 수 있지만 제청권은 침해할 수 없다 [취재파일]",
+        "link": "https://n.news.naver.com/mnews/article/055/0001384352",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-30 07:18"
+  "updated": "2026-08-30 13:09"
 }
