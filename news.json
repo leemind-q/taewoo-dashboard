@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "‘모두의 AI’ 사업자에 SKT-KT-카카오 선정",
-        "link": "https://n.news.naver.com/mnews/article/020/0003744243",
+        "title": "AI끼리 비밀 게시판 파고 해킹 공조…오픈AI 에이전트 '초유의 반란' 사건 전말",
+        "link": "https://n.news.naver.com/mnews/article/003/0014155840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "게임스컴 달군 중일 신작전쟁…한국도 존재감[게임위드인]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016277767",
+        "title": "로밍 넘어 '여행 멤버십'으로…도쿄서 써본 LGU+ 새 실험[가보니]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016278401",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성바이오·뷰노 유증에 주가 급락…신풍제약·조아제약↑[바이오 맥짚기]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006360256",
+        "title": "삼성전자, 게임스컴서 플레이갤럭시 월드 파이널 개최",
+        "link": "https://n.news.naver.com/mnews/article/001/0016278462",
         "source": "네이버 뉴스"
       },
       {
-        "title": "K판타지에 입힌 도트···카카오게임즈 '도깨비의 세계' 10월 출시 준비",
-        "link": "https://n.news.naver.com/mnews/article/018/0006360255",
+        "title": "獨대통령도 韓여야도 찾았다…게임은 '문화·주력산업'[쾰른서 본 K게임①]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014156495",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI가 AI 감시하고, 공장 스스로 설계…세계 시장 노리는 K스타트업[코리아컨퍼런스 2026]",
-        "link": "https://n.news.naver.com/mnews/article/009/0005727547",
+        "title": "'모두의 AI' 선정된 SKT·KT·카카오…차별화 전략은?",
+        "link": "https://n.news.naver.com/mnews/article/079/0004183708",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“미 트럼프 행정부, 반도체 대상 고강도 관세 검토” - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc1hDdUphYVI0OTNxbVVVODllZHNXY05ydmp0Tm90Q2JkMFF3MmtoZTRuOFBVU194UzBBREdqZE1waVJYb3JBczhseHNDWE5aY0ZMSk1XSHB2LTg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"미, 반도체 관세 확대 검토\"...SK 하이닉스 \"미국서 HBM 생산\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93QjlVR1A2OF9oYXNDZFpWWHk2NnRJOGY2T3otQXVmVTRNQ0FCNUY2RHloZ3c3aFk1eUljUHhuMmQxdG5xMklyRFJJN0ZIUmMwS28ycHpSVFEwXzM0R0E?oc=5",
+        "title": "\"트럼프, 반도체 고율 관세 검토\"...SK하이닉스 \"2029년 미국산 HBM 생산\" - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQLUFKNUFtUzMxSGtsbzJDN3BoTmZOdm1adEJBSVJKNWxWQ2VHZUlSYU41aW1VRDNxRHV5UXB1ek5nczVuTXA4QTZNV3cxaDIzQWxhQWZRc2ZKYXRVcWc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,17 +39,32 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQnkyall4bHhWNTJzZTJwdGc5Y1d6eFNpTXBBWGxhOGkyWWJMTFh1Y0Q0UmZhbXB4ay1FaTdiMmhuTnpmMkJwYjlFV2RGdk5kWFJQRHdmLXZTVE3SAWBBVV95cUxNMDE5NmNGZlRab2VJV1pacjVrVnVYWDZwZXVZUW1jMkNrR0czazktam9hbDBnUmY0MzBiV3l5N1NmZ1Jmcjh3YlNMRUtqWS13azI2c1A2WkIyeWhZcVZER3c?oc=5",
+        "title": "엔비디아 급등에도 코스피 약세…반도체 관세 부담 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTmtzQmtQbkZ1NkhwTXhMR3VUaVc5RE5oVE8xYjd1N0RkdXRVNWRuaXVGb09yOUZ1YWpCMzE3Q3R6eERHcktKU1BPSFpROHEzc0FVbkN1V0tsSzlwUUZ3YldoSUQ5Nmc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 실적·주주환원 모멘텀 지속…7000선 회복 시도[주간증시전망] - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUVBwM2E0cWY4QkxLZ20yMUZES0wzZmlCQU9TRnVxNmZ5N1BkU21naElZempKdFpmRjNUekM2cm9jZGVFZmFOM0FvNlJhSVltYkctRTlkMXVzVU5IM2VkS9IBeEFVX3lxTE5MSTVfX1BfUERZVG02OXREYUNKenNuUk4wNERVT21nUmlVZWtURmF1OG1zRWY5SWwzci1WUjZZZVlWVTRlU1FoMXg5aEtXamVwVzVnTUVHblBPdzJMWVVDcGJkU09idWI0MERvbENBSllGeFR2anNkaA?oc=5",
+        "title": "“반도체 취업률 92%” 성공비결 뭔가 봤더니…공공나노팹 ‘14주 실전교육’ 덕분 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PcHdpMnM2dDZUczFsVGwwMHphbmd3dDh3NlJsVW43bmFFQlN2YnBmdTFXNTlaTVZwY3h4cjd4YVlveUNnekFrRzBxQ044UVk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQnkyall4bHhWNTJzZTJwdGc5Y1d6eFNpTXBBWGxhOGkyWWJMTFh1Y0Q0UmZhbXB4ay1FaTdiMmhuTnpmMkJwYjlFV2RGdk5kWFJQRHdmLXZTVE3SAWBBVV95cUxNMDE5NmNGZlRab2VJV1pacjVrVnVYWDZwZXVZUW1jMkNrR0czazktam9hbDBnUmY0MzBiV3l5N1NmZ1Jmcjh3YlNMRUtqWS13azI2c1A2WkIyeWhZcVZER3c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "[AI위클리] AI는 이제 필수 역량…영어·수학만큼 중요해졌다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LTUNKVmkxQVdGMkFaTVhTUnJNQnI4Q00zTmZuRm9VUHViSzVCaUFoN0xURU5NNHJEU3JiTEpoWDdfemYzUXVJNGNDbXc1bkRFZW9uVDZjdDhDcHfSAWBBVV95cUxPQXFzV3pPTFRCY2VfR09QZGpqTGl0V0Z3Y3oyM0RReS1jaENqdnFxdHNUWWw3cVNzUWx3RXVIU0dsTnk0Y3AwTURxREsyVzBIajhZU01idlFadWNMTUV5TzM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "법제처, 미래 신기술과 인공지능 활용 토론의 장 열어...‘제3회 미래법제포럼’ 개최 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdzFXcEY2cTQxNUc3alFOVHdxZF9NWHZUeng1SEhvNWJpenRnWjVGeFpteEdZMVdoNVMxanhyMm5yeW5acEJ5RENlcElQSjdWa3hLN2tYOHFWbnc0T0taNTBRWGNwQ2s?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[만나보니] 코스포 의장 \"AI는 국경 없는 경쟁…한국만의 규제 걷어내야\" - 연합뉴스 한민족센터",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRjNNUDdBd25ud1RhNkJwUFNxb1BHZHA1WVJkN1BpRGdxa3FkS05neHZCNktjenVwbG9IS2FxTGZRT21qUHZvWVdyYUYyMkZsLXF0Vk9zNF8zSExnUHQ4aGEzOWc0YjBRcElGZ25jVEFFMGRo?oc=5",
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "의료는 고영향 인공지능( High-Impact AI) , 도구가 아닌 동료 AI 에이젠트 이용 - 한국의약통신",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQmVubGpwWjktU3hVVVl1OW16dVVwdTQ0NnVVUHhOR2duTEdmV09kYWEwMTZ0M3JVX3hfWkpoeFNJUTlITmNSRF8yNXpoMXdKOFV2MXRzdnJqZmhwZGhzZl9NTmF0U1VTZnlr?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방 - 대한민국 정책브리핑",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlIyTWxjd0p6N29tMkN4eWl0TWN2NTY3aDRqRThWQVUzdVpnWXZaS3B0RVFrVS1OczBBNWg1UzJERVkxZmVhU19VeWNnSk9YeV96akpkcnVoa3d5VE5xTDhIbHRCbEdDbllQUVhQekpRMV9BSTIzRW1GYk92Zm5hU2ZJa0FJTHJwTXE1bzJSVHVuUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어 - 법제처",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDg4V043emxiUlFKVEVsdnFVR0tvVXVLVU5QQl9aS0l2Ri1xNUduLVpzLTFMOExzSXZ1Mkk5YVlrb2RJWndOV1ZPUEJmZjdhVi1DNDhHZDA5TjNmU0lCX3NWUmhEQWFzbEtWR2QteGRQSUJQLWpydkJkcjRxNEVlYThGaGdPTUFmaFJwejdNYU9VSktWc2FGakhnczVEOHFsZ3FwM3NBM0dkb2VuVUVLeHd2VmdoZjVndkFqVVZtZjBBN1FoUk4zMXU5bGU2dWhW?oc=5",
+        "title": "시흥시, 제조업 기업인 대상 인공지능 전환(AX) 교육 - 시흥저널",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GdEt4blhhZHhOXzR3VlVXbm85blRaOGtWSkZCSlVjWWlsb3BsbFN5T1U1OWxjRzBxMlowWVYwdHZxamtSQncxZTBlZUttcWpRdzZ4aUd4NXVXRV90NWhEWGtGZkpUUTA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"수십 년 간병했는데\"…아내 살해 혐의 80대 남편 긴급체포",
-        "link": "https://n.news.naver.com/mnews/article/448/0000636337",
+        "title": "\"군무원인데 야외 숙영 하라고요?\"…법원 \"기본권 침해 아냐\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001966269",
         "source": "네이버 뉴스"
       },
       {
-        "title": "의왕역서 입환 작업하던 코레일 직원 사망… 국토부 “원인 규명해 엄중 조치“",
-        "link": "https://n.news.naver.com/mnews/article/366/0001189071",
+        "title": "월 468만원 벌어도 기초연금..개편안 막판까지 진통",
+        "link": "https://n.news.naver.com/mnews/article/014/0005568069",
         "source": "네이버 뉴스"
       },
       {
-        "title": "울산에서, 천안에서 펑펑…페인트 사업장 잇단 화재에 인명피해",
-        "link": "https://n.news.naver.com/mnews/article/009/0005727395",
+        "title": "내달 독서의 달 맞아 부산서 북토크 등 행사 다채",
+        "link": "https://n.news.naver.com/mnews/article/014/0005568082",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주서 실종된 20대, 해안서 숨진 채 발견",
-        "link": "https://n.news.naver.com/mnews/article/422/0000900752",
+        "title": "“유기장소 기억”…경찰, 유학생 살해범과 동행 수색",
+        "link": "https://n.news.naver.com/mnews/article/449/0000358666",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"변할게, 다시 만나자\"…열흘 뒤 감금·폭행한 60대 집행유예",
-        "link": "https://n.news.naver.com/mnews/article/055/0001384331",
+        "title": "제주 ‘야자수 목맴사’ 발표 의혹에…재연 실험한 경찰 “가능하다”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002820708",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-29 23:04"
+  "updated": "2026-08-30 01:29"
 }
