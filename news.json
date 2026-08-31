@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "GS리테일, 166만 명 개인정보 유출 사고 사과...\"대응 체계 고도화\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002400564",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "내년부터 차세대 국가과학기술자 1천명 키운다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005568919",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "지스타, 게임 넘어 외연 확장…크림 손잡고 '스페셜 패스' 선봬",
-        "link": "https://n.news.naver.com/mnews/article/014/0005568811",
+        "title": "고객 166만명 정보 유출 … GS리테일 과징금 128억",
+        "link": "https://n.news.naver.com/mnews/article/009/0005728342",
         "source": "네이버 뉴스"
       },
       {
@@ -22,15 +12,25 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "하정우 부위원장 “독파모 방향 다시 살펴야… 최고 AI 역량 결집할 체계 필요”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001189453",
+        "title": "하정우 \"프론티어 AI, 우리 스스로 만들어야⋯독파모 방식도 재검토\"[일문일답]",
+        "link": "https://n.news.naver.com/mnews/article/031/0001054033",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "지스타 2026, 판교서 첫 팝업스토어... 크림과 '스페셜 패스' 선봬",
+        "link": "https://n.news.naver.com/mnews/article/030/0003462042",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "연구비 대신 '국가 예우' 준다…국가과학기술자 제도 도입",
+        "link": "https://n.news.naver.com/mnews/article/001/0016281138",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "최태원 \"일본에 반도체 공장 검토\"…SK, 합작공장은 부인(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNS1hcnM1aEFUZlMxSjdGTGhLZ1paM1NjdnpRYzM3UEdFUHEzUTVFZFdPRktTTVJOWG1PeEJ1VW10UElOWU56eTh4czNpNHFiVlliLV9SVkJ4N3fSAWBBVV95cUxObWJGQ3JwTnRRQV9BV3VXbG5DWmxDb0RraVJ4Y1phUVUwRDA4MmFjVVpxX1JkbWRESGkyRXBqYlRiQ0xkbFpielBnbzFFbzlROEtNdG91OXFHeDA1Wm9qUG8?oc=5",
+        "title": "한은 \"반도체 성과급 받아 동탄에 집 사고 테슬라 탄다\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQk5jX2RkX1ROWjVzeHlBUUVqcXRmVEhPWGhtVm9Qbzc0Vjd5SEYxRHJlSDNZOTlVd0lIUnlSS1Y3djYxNDVqaUhZLUtHdkpPSHBUcWVoczcwRlXSAWBBVV95cUxOUFlOYjlXUEZWTS1hcXBnMlFUbk1vZF83d3JuSWxhWEdIV1BwUERJM2dhVDZPQXNuZGVtSkJIcDItaG0xaV9QNGJyYWlSV1F2Zm90ZnpmUHZkakIwVHQ0eW8?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "최태원 회장 \"SK하이닉스, 일본 반도체 공장 설립 검토\"...그간 입장 반복 - zdnet.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNmNvcVlHNTJtM2pzYXE4dHp6VkRidXlaM1NoZUtCcGV0b3RJdnRzWXpERjcyaE5HSW9DQ09CSTk5N0hQNEZWV2Vleml6NHMzY3VSdXJB?oc=5",
+        "title": "산업부, 반도체 경쟁력 강화 5년 계획 수립 착수…연말 확정 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SW5HVTZKVGlWbmtXM3dyU3hZaXhHdDdKakVBd0ZodmRkWV9VY09aRGdQcUpCdG1ac05wWENKMi0xblprcVJVOUNOS0hTaEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한은 \"반도체 성과급 받아 동탄에 집 사고 테슬라 탄다\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQk5jX2RkX1ROWjVzeHlBUUVqcXRmVEhPWGhtVm9Qbzc0Vjd5SEYxRHJlSDNZOTlVd0lIUnlSS1Y3djYxNDVqaUhZLUtHdkpPSHBUcWVoczcwRlXSAWBBVV95cUxOUFlOYjlXUEZWTS1hcXBnMlFUbk1vZF83d3JuSWxhWEdIV1BwUERJM2dhVDZPQXNuZGVtSkJIcDItaG0xaV9QNGJyYWlSV1F2Zm90ZnpmUHZkakIwVHQ0eW8?oc=5",
+        "title": "반도체 5개년 로드맵 그린다…산업부, '반도체 기본계획' 수립 착수 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rQkItUUlEVTEwS0NmclBMbzRvbEN5UmpzV0Jod01CNW01MzB0Z0xEcElKWGVFQWM4YVExVzZVbjZQQXBnV3lvdzJyTEZiTmxkRGxJcDdjRF83a0xlcTlJ0gFkQVVfeXFMTnNFN1RuZlVDaXJtWk5PalB1Rjl6UFdRQmF6bTBmWnZ1VlV2VF9CNkpoV2JlVm82UEFfSHB6MWVXT1laWGthek1FUUZ3TENsam00ZlBiZzcyTWZCb0FQZS1qZDhQMw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "7월 생산·소비 주춤…’반도체 호황’ 설비투자 5개월만에 뛰어 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTT2Q1SUJQT2pSSjNsRGU5TWtJYnB5clpBVy1Xb05sVTV0R3pUbE9qdHl0Q0N5dVBZUHAtYUFIMDdtdGlQV2x4REpaeVRoVUxJdGxsUlFWV1BEeWtXa3h3U2JJWEJiUzA?oc=5",
+        "title": "산업부, 반도체산업 경쟁력 강화 기본계획 수립 착수 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yRzRLeFNIdm94U2YyQ1FLbWhUNGtMT29yQVFCaUhReFYxVXVkTExBWktRUXMyejdDeHBjY2pmeDMyOXVBYlFDTFhxV3BlbEdQTjNxS3FucUlycmxnckdwY9IBeEFVX3lxTE9CVjR4d3BiYWRWRnp6bnZNRTh3cmNWYzl1dTJ0ZVlhQVJLRzRiVUZ0Qno5Q3p1ZlpuU2V6QWNEd3ZOQ0pfUUpRTFZsTkpteUFDYTFieXBqTGNBeVdPWjdDaHY2R0xYQ2E1WnoxSlYzYTRBc1p0b1lLXw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,11 +58,6 @@
       {
         "title": "[기고] 인공지능 시대, 물·전기·AI를 하나의 시스템으로 설계해야 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXUzaFI1NUVKaVZOSHo1MGRNUWVPQXozQmx0cmNwSHpUeWZ5T2NHTDRxREFQVGFnUVlpa2F6cHFBbUN3bnR1TFVlTHhKNDVYNGZDcWNWVnRQa3liNkVNOXF4RF96MGV4cHpldjV0b0o4VnZJWU5adkxZVk5YRHBiSTNNMVVRTGgzTHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[D-BIZ 지역뉴스] 전남광주, 인공지능(AI) 기반조성 이어 기술개발·실증 본격화 올해부터 5년간 4557억 투입…총 48개 과제 추진 - 데일리비즈온",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hMllWWTAwWTl2d1NyOHFPQWhYTDJVSlNEdlB3OUlHOWp5X3dUcnhqakFtOWhnaGcxbTZ1T2ZzQlpVQmhQRWExWmRJM01peURjVTZEbW91NWFPRU9aVDJkWXpmSF9MQ1M1ODZ4WQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,6 +71,11 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[D-BIZ 지역뉴스] 전남광주, 인공지능(AI) 기반조성 이어 기술개발·실증 본격화 올해부터 5년간 4557억 투입…총 48개 과제 추진 - 데일리비즈온",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hMllWWTAwWTl2d1NyOHFPQWhYTDJVSlNEdlB3OUlHOWp5X3dUcnhqakFtOWhnaGcxbTZ1T2ZzQlpVQmhQRWExWmRJM01peURjVTZEbW91NWFPRU9aVDJkWXpmSF9MQ1M1ODZ4WQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "금산군, 평생교육 강사 대상 생성형 인공지능(AI) 활용 역량 강화 교육 - 금산중앙신문방송",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZEx2c1h1TWRCWDVOc2dDSFlIWDhnZEpqRVZ5NUhHSjFIUnVmM1NpWm9BV0Rfc3dwNWRyQ2RDR2J4M3RWbzRvNW1yTDduU1cyQms0Nl9mNXlfWEk2Um4tc2N5YmZoYkZJV0dLQjZB?oc=5",
         "source": "구글 뉴스"
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "선관위 특검, 특별수사관 추가 모집 위해 추천 요청",
-        "link": "https://n.news.naver.com/mnews/article/052/0002400241",
+        "title": "경찰개혁 토론회 경찰 직협 \"고위직 감찰부터 제대로\" 작심 발언",
+        "link": "https://n.news.naver.com/mnews/article/003/0014159511",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국수본부장 \"제주 실종 시신 부패로 사인 불명…관련자 엄중 문책\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014158384",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "충청·호남에 물폭탄…영광 이틀간 579㎜ 쏟아져",
-        "link": "https://n.news.naver.com/mnews/article/011/0004657034",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "제주 실종 10건 중 3건, ‘허위 종결’ 경찰관 혼자 처리했다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003995695",
+        "title": "'中 유학생 살해' 중국인 강사 신상 공개 오늘 결정",
+        "link": "https://n.news.naver.com/mnews/article/421/0009141164",
         "source": "네이버 뉴스"
       },
       {
         "title": "‘모텔 살인’ 김소영, 1심 무기징역 불복 항소",
         "link": "https://n.news.naver.com/mnews/article/023/0003995877",
         "source": "네이버 뉴스"
+      },
+      {
+        "title": "발암물질 배추에 칼 빼든 서울시…김치 취급업소 9500곳 특별 점검",
+        "link": "https://n.news.naver.com/mnews/article/015/0005326590",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "35개 주요수술 진료비 10조원 돌파…백내장 수술 건수 '또 1위'",
+        "link": "https://n.news.naver.com/mnews/article/277/0005809395",
+        "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-31 16:18"
+  "updated": "2026-08-31 21:33"
 }
