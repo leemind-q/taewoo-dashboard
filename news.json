@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "'리니지 아버지' 송재경이 밝힌 'AI 게임 혁명\"…\"도구 아닌 새로운 참가자\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014158877",
+        "title": "GS리테일, 166만 명 개인정보 유출 사고 사과...\"대응 체계 고도화\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002400564",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"AI 썼나 잡을 수 없었다\"…넥슨, 코딩대회서 AI 사용 허용",
-        "link": "https://n.news.naver.com/mnews/article/421/0009141132",
+        "title": "내년부터 차세대 국가과학기술자 1천명 키운다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005568919",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 재구축 나서",
-        "link": "https://n.news.naver.com/mnews/article/009/0005728065",
+        "title": "지스타, 게임 넘어 외연 확장…크림 손잡고 '스페셜 패스' 선봬",
+        "link": "https://n.news.naver.com/mnews/article/014/0005568811",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘지스타 2026’, 현대백화점 판교서 팝업 오픈…‘크림’과 협업",
-        "link": "https://n.news.naver.com/mnews/article/009/0005728145",
+        "title": "방미통위, '도약마켓' 전국 확대...지역 기업 홈쇼핑 판로 지원",
+        "link": "https://n.news.naver.com/mnews/article/057/0001966485",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"국가R&D 목표 도중에 바꿔도 된다\"…정부 R&D '무빙타겟' 전면 도입",
-        "link": "https://n.news.naver.com/mnews/article/003/0014158404",
+        "title": "하정우 부위원장 “독파모 방향 다시 살펴야… 최고 AI 역량 결집할 체계 필요”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001189453",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"반도체 끝났다더니\"…큰손들 일주일새 490억 쓸어담았다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wQnRlVGdsbXFERnBxTUEtTXYxNEh6N1EtdmszLVhPMVJBZ2tHdEJ5WDV2NkJmN0lhdXdpbHRhNVBZdlVwU2ZfbDJOWTR5R29OVW9fcHpTTGx6UQ?oc=5",
+        "title": "최태원 \"일본에 반도체 공장 검토\"…SK, 합작공장은 부인(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNS1hcnM1aEFUZlMxSjdGTGhLZ1paM1NjdnpRYzM3UEdFUHEzUTVFZFdPRktTTVJOWG1PeEJ1VW10UElOWU56eTh4czNpNHFiVlliLV9SVkJ4N3fSAWBBVV95cUxObWJGQ3JwTnRRQV9BV3VXbG5DWmxDb0RraVJ4Y1phUVUwRDA4MmFjVVpxX1JkbWRESGkyRXBqYlRiQ0xkbFpielBnbzFFbzlROEtNdG91OXFHeDA1Wm9qUG8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'中 반도체 자립의 역설'…효율 낮아 삼성 메모리 더 찾는다 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZHB1TzdTSV90aHBDRHpPZ0s5TkdmQkNlY3Rva3I0R2FaZ0ZydEMzYTRHbHExVXo3N05tTHNhMTBjMWtVbGhCTWRldnBzWTJkeWhyNUVEWmNpMWhBZkdNQ3BOUmIwdGoxRTlVdVBuMnM?oc=5",
+        "title": "최태원 \"일본에 반도체 합작공장 검토…전력·용수 풍부한 곳 고려\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FSVA2aTdaWXJMNzY3NnpoZjFrZ3d1WWZnTzYzNV83czVfYVZ3RzJUX0R3RFBjZF96eXU5WFYxY0t1T3BreEpQNXVBRGRZRVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "미래산업, 아산 신공장 확보 완료…반도체 장비 생산능력 2.8배↑ - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBVTdkLVZxOTRYY1Q0blZicVZWU1pQZHpuS3ZqX3BvbWJZOWpnb1IwbDdLWWxSakFvLW9senh6YjhxMFFqd3Uta2E4Z2FuTURaSWJwZGNlSFg0Ty0zRGE0YnhlRUVvaTBl0gFuQVVfeXFMTVZyZmtzM29fZGFYM2YwN0lYSzJLMEF0c0lYdDBBRWRnaS1OcDNoa3VGV1lXMXd5ZHhoT1VnZVU4bm42LVVnbTdzQnczN2NvdVRUdFhyTGE4WUV5NGRvMm5CMHFDM25QUUlIdmhHV0E?oc=5",
+        "title": "최태원 회장 \"SK하이닉스, 일본 반도체 공장 설립 검토\"...그간 입장 반복 - zdnet.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNmNvcVlHNTJtM2pzYXE4dHp6VkRidXlaM1NoZUtCcGV0b3RJdnRzWXpERjcyaE5HSW9DQ09CSTk5N0hQNEZWV2Vleml6NHMzY3VSdXJB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "국립공주대, '반도체 첨단산업 특성화대학원' 공모 선정 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wR2U1T1dNUmxJREhsNE1IUGw5V3BjUkZrN3V3c3FQc293ZGNUcHVvbHV2WEI3RTVqTEVHTkJCT2U5QWtqYVBGTUJYNWJGRGs?oc=5",
+        "title": "한은 \"반도체 성과급 받아 동탄에 집 사고 테슬라 탄다\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQk5jX2RkX1ROWjVzeHlBUUVqcXRmVEhPWGhtVm9Qbzc0Vjd5SEYxRHJlSDNZOTlVd0lIUnlSS1Y3djYxNDVqaUhZLUtHdkpPSHBUcWVoczcwRlXSAWBBVV95cUxOUFlOYjlXUEZWTS1hcXBnMlFUbk1vZF83d3JuSWxhWEdIV1BwUERJM2dhVDZPQXNuZGVtSkJIcDItaG0xaV9QNGJyYWlSV1F2Zm90ZnpmUHZkakIwVHQ0eW8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "공주대에 ‘반도체 석·박사 사관학교’ 뜬다… 충남도, 170억 투입해 149명 육성 - 녹색경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZ253bHZyTFVCMUtmQzMyNnRMbFRiVk45R09jWFBQZFVENkdiWGZFNGluc3ppeVlScHdWbDQ3RFB6QmFWdGpfQjNCTzh0VFgzUy1vWjZERWFPSEVQWE5LNEFtVHVCbEhL?oc=5",
+        "title": "7월 생산·소비 주춤…’반도체 호황’ 설비투자 5개월만에 뛰어 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTT2Q1SUJQT2pSSjNsRGU5TWtJYnB5clpBVy1Xb05sVTV0R3pUbE9qdHl0Q0N5dVBZUHAtYUFIMDdtdGlQV2x4REpaeVRoVUxJdGxsUlFWV1BEeWtXa3h3U2JJWEJiUzA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "서부발전, 순수 국산 인공지능 현장 활용성 검증 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yZndmc0FrRmtMQmZUa29lZnBubTEtR3FsMVdfWXpja2JWSVRRUDhBbVAwYmNrQ0VRdUlTYkN1WTdpZkdQS0xKRVdndktacEpFSEF1WHNaR0R0NWxIS21WZdIBYEFVX3lxTE8yZndmc0FrRmtMQmZUa29lZnBubTEtR3FsMVdfWXpja2JWSVRRUDhBbVAwYmNrQ0VRdUlTYkN1WTdpZkdQS0xKRVdndktacEpFSEF1WHNaR0R0NWxIS21WZQ?oc=5",
+        "title": "[기고] 인공지능 시대, 물·전기·AI를 하나의 시스템으로 설계해야 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXUzaFI1NUVKaVZOSHo1MGRNUWVPQXozQmx0cmNwSHpUeWZ5T2NHTDRxREFQVGFnUVlpa2F6cHFBbUN3bnR1TFVlTHhKNDVYNGZDcWNWVnRQa3liNkVNOXF4RF96MGV4cHpldjV0b0o4VnZJWU5adkxZVk5YRHBiSTNNMVVRTGgzTHc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[D-BIZ 지역뉴스] 전남광주, 인공지능(AI) 기반조성 이어 기술개발·실증 본격화 올해부터 5년간 4557억 투입…총 48개 과제 추진 - 데일리비즈온",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hMllWWTAwWTl2d1NyOHFPQWhYTDJVSlNEdlB3OUlHOWp5X3dUcnhqakFtOWhnaGcxbTZ1T2ZzQlpVQmhQRWExWmRJM01peURjVTZEbW91NWFPRU9aVDJkWXpmSF9MQ1M1ODZ4WQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전남광주시, AI 기반조성 이어 기술개발·실증 본격화 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dkN6Wk1mM01PVUZGcmtLeWVIWndhQ2hCd2JnNGlzSkl2VDFDa3MyMkJiSWJ4N3pqQ2lkTDU0b2hoSU92eVNFTEVOMXc5R2M?oc=5",
+        "title": "서부발전, 순수 국산 인공지능 현장 활용성 검증 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yZndmc0FrRmtMQmZUa29lZnBubTEtR3FsMVdfWXpja2JWSVRRUDhBbVAwYmNrQ0VRdUlTYkN1WTdpZkdQS0xKRVdndktacEpFSEF1WHNaR0R0NWxIS21WZdIBYEFVX3lxTE8yZndmc0FrRmtMQmZUa29lZnBubTEtR3FsMVdfWXpja2JWSVRRUDhBbVAwYmNrQ0VRdUlTYkN1WTdpZkdQS0xKRVdndktacEpFSEF1WHNaR0R0NWxIS21WZQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[농진청] 인공지능(AI) 접목한 “수확후공정의 미래” - 월간친환경",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUQW5ydy1SOG92a0JKY3dxTkliY3B6Y0E4WkJ0ZHJVci1FamZYVVNOdWZocXNDQjE1UVY4NUcyWXJzSFh5WGgyOWNjU3RzbnVsYTJPSnJjRmJ1UnB1X1pnMGdXeU1fbllOMXdlQmcwNVpxQQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "서부발전, ‘위피봇’에 국산 인공지능(AI) 연동 추진한다 - 에너지데일리",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOb1FObXBQVWpyQUlpNUhuVXN6NllzZEV6MHM5M2dSSW83MWZ2bjJzakxpTjBiY2FYMjFsTHZKTDJUYmUyY3FpVFpuRjYtS29jX3F3X0RzSGprUjctZjNDWlJOV1pxT0JESXBPa19KYXNLdw?oc=5",
+        "title": "금산군, 평생교육 강사 대상 생성형 인공지능(AI) 활용 역량 강화 교육 - 금산중앙신문방송",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZEx2c1h1TWRCWDVOc2dDSFlIWDhnZEpqRVZ5NUhHSjFIUnVmM1NpWm9BV0Rfc3dwNWRyQ2RDR2J4M3RWbzRvNW1yTDduU1cyQms0Nl9mNXlfWEk2Um4tc2N5YmZoYkZJV0dLQjZB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "오세훈 \"李대통령, 부동산 시장에 공포 넣어…집값 하락 예견 황당\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009141803",
+        "title": "선관위 특검, 특별수사관 추가 모집 위해 추천 요청",
+        "link": "https://n.news.naver.com/mnews/article/052/0002400241",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘왁뿌볼·말랑이’…7개 제품서 유해물질",
-        "link": "https://n.news.naver.com/mnews/article/449/0000358782",
+        "title": "국수본부장 \"제주 실종 시신 부패로 사인 불명…관련자 엄중 문책\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014158384",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'정교유착' 한학자 통일교 총재 1심 선고까지[일지]",
-        "link": "https://n.news.naver.com/mnews/article/421/0009141969",
+        "title": "충청·호남에 물폭탄…영광 이틀간 579㎜ 쏟아져",
+        "link": "https://n.news.naver.com/mnews/article/011/0004657034",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광주비엔날레 ‘대만관’ 논란···전남광주시 “또 하나의 중국 존중” 사과",
-        "link": "https://n.news.naver.com/mnews/article/032/0003467520",
+        "title": "제주 실종 10건 중 3건, ‘허위 종결’ 경찰관 혼자 처리했다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995695",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"지방 환승센터 2배로\"…제4차 환승센터 기본계획 확정",
-        "link": "https://n.news.naver.com/mnews/article/008/0005406645",
+        "title": "‘모텔 살인’ 김소영, 1심 무기징역 불복 항소",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995877",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-08-31 08:18"
+  "updated": "2026-08-31 16:18"
 }
