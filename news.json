@@ -2,62 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버클라우드, SKT 제치고 ‘보안 특화 AI 모델’ 개발 기관으로 선정",
-        "link": "https://n.news.naver.com/mnews/article/366/0001190080",
+        "title": "티빙, 전체 이용자 계정 ‘4000만개’ 유출…“접속키 탈취해 내부 시스템 침투”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002692459",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 티빙, 계정정보 3,954만 건 유출...기술자산도 포함",
-        "link": "https://n.news.naver.com/mnews/article/052/0002402267",
+        "title": "구글 '제미나이3.8 플래시' 공개…'프로'는 또 지연",
+        "link": "https://n.news.naver.com/mnews/article/421/0009148821",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“제미나이가 누구?”...신규 모델 내놔도 경쟁력 물음표 떼지못한 구글 [팩플]",
-        "link": "https://n.news.naver.com/mnews/article/025/0003548976",
+        "title": "사이버보안 특화 AI 개발에 ‘네이버클라우드 컨소시엄’ 선정…GPU 256장 지원",
+        "link": "https://n.news.naver.com/mnews/article/056/0012250062",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI가 다 읽어주는 시대, 왜 우리는 읽나…1000만 독자가 묻는 '읽는 미래'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005811578",
+        "title": "출연연 딥테크 창업기업, 투자·대기업 만난다… NST '2026 ITX' 개최",
+        "link": "https://n.news.naver.com/mnews/article/008/0005409213",
         "source": "네이버 뉴스"
       },
       {
-        "title": "NST, 딥테크 기획창업 투자·사업화 위한 '2026 ITX' 개최 外[사이언스게시판]",
-        "link": "https://n.news.naver.com/mnews/article/584/0000039186",
+        "title": "대덕특구-KAIST, 딥테크 이끌 ‘전문경영인’ 키운다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002692574",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보 - etnews.com",
+        "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보 - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05Uk5VanlYdHljWnhSb3dUUkFVb2RIOHFtMm40ZWZqUWxycVhYNFhYNTNuNjNtaFlEV0lrbVZsMG1tWkZlQmpWaWhaVlU2UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "러트닉, 반도체 표적 관세 예고... “美서 만들지 않으면 각오하라” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WVUFtRkFLVDBicWZlWXJiS0VHMUZkb044QnNKbkI5VzdKYktseVdPVHA3QlY2RGRXbHAtUFRvazBtWXFYZkE?oc=5",
+        "title": "‘반도체 표적관세’ 또 압박한 러트닉 “美공장서 생산 안하면 부과” - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Lbmxyd0JTWG5CTUFhbHdVMngzWXVEWS1IcVhqMVdnNmw1aUpKa09MYmM2YmdSU0xUaWs5ME81SS03bFl3cG9LNTR0eE9FeFVuajc5bDJKdVVIakNyTTFyTThsd2xvZXhrb2FLWHBWX3N3eV9WckHSAWZBVV95cUxQSVhRSmNVMWVPOHNIbkpTc2VwRUVXTUV4S0VrSVpsUnQ5Y01pZ2E0bk5hSlhZVjIwY1RhSHRCeDE3ME4wMFlKbG1rRFZCUGUtSHZ6bmVkeXFHTkpReXp6RDhyd3pWS2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 반도체주 혼조…엔비디아 1.8%↑·SK하이닉스 ADR 0.8%↓ - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQ2tUNDZQYzVZZHgtcVdFOVI5SmRLUUljNlZwb084cTlPYWM4Mnp5Q1BLNFB0Q2ZzaEM5STZvRmRYN2J6NWhpbTNVRDZZeDA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 기업 4곳, 한국에 20억달러 투자… 반도체 소재·장비 키운다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejgyc1ZwSmVvTW8teXJiNGlIVXZWMk1idXBXUENaNEFCY3Zjdkx0WHRuLXNlTjRtQVJtZG5JcjU2RHc3akQxR1hISmd3UzFfRFM4ZjF3VWFtM19rcTdteUJHcHotNHp0M1Q3YWdhSDZQM0JqWE1TSzI0QnBwNHZlM01QTHVSUm1pdVRWTHJn?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "美첨단기업 4곳, 한국에 2.8조 투자…반도체·해상풍력 공급망 강화 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRUp1X0NiamZ6dVFqVjVJRkpXbzBqU05LV1pkZExIRDJ0YkticDVLQ1Bpak15azNZWFFkYThMNDVhd2EyZG5VS21qUTZ6a2c?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "美 기업 4곳, 한국에 20억달러 투자…반도체·해상풍력 사업 확대 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UdUtjOE9GY3lXZWpYdVJmUTR2WEo0OUVQMVFVX3VhUDJSU2pHS2EyaDdWdXdnYUJLZksxU3dYeXFVQ04ydENmeXdpUU1nd3JDNHlFM0ROakd0cUVMYk840gFkQVVfeXFMUDI4VmJkWFpLY1NWeENpQVhnZVVDbHpOY0c1NEdHNkoxWWpqcTdnczVzc1dNQzUtRC1XYy1JTkpJUGMwd0Nfb1JzaU5ab0dYaU5qdVFZNko0aWhwdHZrV0Q4NFdYeg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "산업부, 반도체·첨단소재·청정에너지 분야 美기업 20억弗 투자유치 - newsis.com",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WRWZIV1VuUjQ4V2JFSkIwNkxNYXdGNlY4b3Z4TzRxWlB5dUg3OWoxalVGTDNuVXIyWlFRa0NybmxWRkx6elVlbm1CdUp5VjF0Z2kyN3pWVVEwSE1JSkJSS9IBeEFVX3lxTE5ZTWItemFad0hTSlI2UlVhS1hocGxVeXJOeTZXR0hwM0N6NnMxM2lmbkVfVFlzYUFGOWRKcXFHMmFrQjIxYlFJR0xOdWgzaGxqWTlQZHNKU3Jfd0dhYzl2VGRSNmtEOExsazhuNWpvSVNYNFhLSnZtOA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "‘충남형 인공지능(AI) 기본사회’ 연구·현장 지혜 모아 밑그림 그린다 - 충청메시지",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52aDhQRXhRYVF2ckN0Nk1KWDEzT2FxNkpGVmloSFFNd1pNS3ExZkNhV2ZORTdCLWE4Wjg3eUVQRUtxT091UWFrbWtrSFpCdUl1c2ZveDNMcHNLV0lHbWVPaU9GQnJRaURvMWhj?oc=5",
+        "title": "‘충남형 인공지능(AI) 기본사회’ 연구·현장 지혜 모아 밑그림 그린다 - 한국방송뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zajlUMHFNNnhIU1JhbHZXRnEwVHU2aG1rWkt2cnBOVkJnQWtxR2kwWWhtRTItZktDZ01oOWxlMjlOUC1mN3RwUkotcVhybFFoVjVyQmFhYzNRZjBGeXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "고양서 인공지능 기반 '스마트 양봉' 실증 추진 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90dVJtbWs0ZmdObGZKSDRETDZTSUxXY0ZqZEhFQXRoZkhLUk1JRmcyc0ZaX1l2aS0wNlpzM1ZpSDVqcUxhM2phQ21scTR4VlF0TVIwUHA1TDBHX1ZEX2tHNtIBYEFVX3lxTE90dVJtbWs0ZmdObGZKSDRETDZTSUxXY0ZqZEhFQXRoZkhLUk1JRmcyc0ZaX1l2aS0wNlpzM1ZpSDVqcUxhM2phQ21scTR4VlF0TVIwUHA1TDBHX1ZEX2tHNg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "AI 에듀테크센터 설립해 AX 주도… 인공지능컴퓨팅학부 신입생 선발 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44Tl9SaG9pUWVUOUhtOVJQU0lkbU1oSU1BeTE3N2ZHTW92TTlYbE5mZVN0dm4ydVBLWWtBTzd3eTRia05ieXBjS1RDY0ZNclZfLUtNMGRGM1NNVjRqck12M2lfV1JaT3h3M1Y4REk5U2YySXVTNGfSAWZBVV95cUxPeUoxaEpHYktZS2RzSERSSlFCWUxpQWN4LTRaYTJIQkNVZjFzZ0NyQWo0NTkwX2xXUmFleC12YU80Y2JsVmp3ZjFOazlZV1p6UzBzcUJLaEs4YU9Kbkh2NkZyLUFXMVE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "LG전자, IFA서 ’AI 홈’ 공개…’인공지능 공간 생태계’ - yonhapnewstv.co.kr",
+        "title": "LG전자, IFA서 ’AI 홈’ 공개…’인공지능 공간 생태계’ - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nd0VNTU0zOWtTaW9LQkNtX3l6T3h6bHY4MkYxVTFRc2JxRzVCb082SFJVR203VHZvWk5taGVxMEExNWtPTjc5QXJ0LWt4WFE2U3pnbXBjRFFXcVAydU5hTGZPNndwZm8?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "마인드로직, ‘2026년 인공지능 온이음 사업’ 선정···12만 고교생 AI 교육 격차 해소 - 스포츠경향",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40UTBSaURhS3VXX2tadnpFS3pjWWRmd0FZZWZmcS1fR3lEYVM3aHVtSW9yYzFvTnBEVnFlblFZSUtVclRXcDhWQ1N6ZWdUOUh4WFlBWDRDdUN1ekt4QnfSAWNBVV95cUxNY2k1Vzd5WVdLOUVWNGxoYVNYRHlmbFpfWUlwNWlINGdQT0M2VjUzOUM4WFhPOXVsclBYQzFJOTRFbEN4TEY4Wl8zcURGQTRzRTlrNTIwVGhfclNMUFB2UXhjQ0k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "고양서 인공지능 기반 '스마트 양봉' 실증 추진 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYWJ4MkdzMFJBVGpjbWwzb0s5clpGR25JRm5pYjFiWGlRc3AzN3hxckNmNGMtWDR4aThsLUVXXzhxaDhUR0FzR1dsVmhvVzA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'초등 1·2학년 3시 하교' 공개 토론…찬반 의견 '팽팽'",
-        "link": "https://n.news.naver.com/mnews/article/055/0001385699",
+        "title": "박옥분 경기도의원 “재정위기, 선언 넘어 해법 보여줘야”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003676541",
         "source": "네이버 뉴스"
       },
       {
-        "title": "그림까지 들어간 '쉬운 판결서'…대법 최초로 첫 장 펼쳤다",
-        "link": "https://n.news.naver.com/mnews/article/437/0000509395",
+        "title": "42.5도까지 끓더니 물폭탄…'극과 극' 올여름 날씨 왜 이랬나",
+        "link": "https://n.news.naver.com/mnews/article/014/0005570765",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"상장 차익 수천억\" 하이브 방시혁, 경찰 수사 1년 8개월 만에 송치",
-        "link": "https://n.news.naver.com/mnews/article/277/0005811486",
+        "title": "김승원 “공소취소, 장관에 권한 없고 檢지휘 생각도 없어”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003745730",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고범석 신임 서울청장 “시민을 중심으로 기본·원칙 지켜야\"",
-        "link": "https://n.news.naver.com/mnews/article/023/0003996515",
+        "title": "대법 \"영화관, 시각·청각장애인에 화면해설·자막 제공해야\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001385574",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부 '항만공사 통합' 결정에 부산지역 시민사회 \"섣부른 통합 반대\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005570606",
+        "title": "의정부 모텔서 일산화탄소 중독 사고… 경찰, 첫 신고 때  그냥 철수 [사건플러스]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004658471",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-03 19:21"
+  "updated": "2026-09-03 21:49"
 }
