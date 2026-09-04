@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "전 국민 무료 ‘모두의 AI’....취준생·소상공인·노령층 겨눈 3사 3색",
-        "link": "https://n.news.naver.com/mnews/article/009/0005730605",
+        "title": "카카오·SKT·KT, 전국민 무료 AI 개발…연내 500만 월 이용 목표",
+        "link": "https://n.news.naver.com/mnews/article/421/0009151836",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북·틱톡, AI·디지털 콘텐츠 산업 활성화 협약[경북]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002402760",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "오픈AI, GPT-6 아스트라 공개…\"앤스로픽 넘었다\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006363537",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "“말 안 해도 알아서 척척”…샤오미 스마트홈 ‘미지아’, 유럽 안방 넘본다[IFA 2026]",
-        "link": "https://n.news.naver.com/mnews/article/138/0002240150",
+        "title": "오픈AI, ‘GPT-6 아스트라’ 선봬… “추론·코딩·과학 성능↑”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003046205",
         "source": "네이버 뉴스"
       },
       {
         "title": "SOOP, 판교 신사옥 매입…“업무 거점 통합”",
         "link": "https://n.news.naver.com/mnews/article/366/0001190482",
         "source": "네이버 뉴스"
+      },
+      {
+        "title": "‘위고비 성분’ 맞은 늙은 생쥐, 92일 더 살았다는데…사람은? [라이프]",
+        "link": "https://n.news.naver.com/mnews/article/081/0003677068",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "증기에서 전기, 전기에서 양자로…문명의 엔진이 바뀐다[북스&]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004658698",
+        "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "김정관 \"美반도체 관세 '불리하지 않은 대우' 정신 하에 논의\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVS13RExwZWhFNGJSek92a2VzU1NVN0JnWDRSTXNZdXdqOWZ1eGFhazBtaFNGS2VraGp6ZUw1SG5LYmEtUWRJTUVIaEZocXM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "7월 경상수지 420.8억달러 흑자…반도체 호황에 동월 역대 최대 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzVTIyODFTTi1nZ0tUeWgyOGFubUtfODVoYTJaSURubTJMOWtVV0VXQjV2N1F1eHVac2l2RkpnQXdodFBFTGFFUE5uNmk1aFpvMFJIMjN5RHA3NTDSAWBBVV95cUxPdm5SWkRFLUdHc1JIYmhUU1hkX2JoM0Y0aXFGcl9uVWt6MUM3OUphdGp0UFljSWYyMGhlS1lnVmJhZ2ZWZ0hncHZsX2lKbGdPWFpic2N4M0ctbGR6Rzg0d3U?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황에 韓 경상흑자 '세계 2위'…독일·일본도 제쳤다(종합) - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OV3Z1dkt4bGxOVGhKaDEyMFg0WHBNVW50WnpHc3ROM2VTQlNSZ3NoclRoTDNONUQteFBDWEFsYmdVNEJyQU1VaTlzNFh1T0U?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체가 쌓은 ‘달러 방파제’…경상수지 흑자 독일·일본·대만 제쳤다 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqLWJIZnVET1NZMTdJLXpCT2FLU1FMZUNjTUJVb0x4NzdmWmU5XzNLZTRtbEs0blY2MzVLdWxZUTA2UjVobWZCTHRid0ozT2V1VTEtQU93?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "800조 투자 약속했는데 '뒤통수' 친 정부 … 호남 반도체 '회의론' 더 키웠다 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuY01pYnNkUm5YemdGc1VSMHZ4NjhVd3Q2SWoybFpublZ3UVBCX2dYVzY2MG9IeGwxNDhtXzN3TnU4UGxYb2FTcWlYRFZyNHp3c1FCNFB6aGJ5cDJxd3VtbXh4R3JzY2tyenAzcDJROU51T1pwMUxLczk3b9IBgAFBVV95cUxOUWZyT3BHSmJ3aHhnNDBlSm9qQ3ZiMWkzUm1yd3laVWl3bFZBaTN3OU9Cem9sR09NUkVYZUV4SHFtT1BRSjlSQWMtNkYwSDdNRmRnUFdPTmFOQnBDY19veTk3d0V4bWJ4SVJLajVkbnFZZGZuRjdLbkxMMnQxV3lYRA?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "금산군, 공무원 대상 2026년 인공지능(AI) 프롬프트 실습 교육 성료 - 금산중앙신문방송",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdjZmX2wwLWhQWURSWVVuWmxpUjdsOXBqOVdiZmw2T3c1aWV6ZmhBbGpTVkdPQjB0OUZFdWRDVVF1bDVya19iYjl1Y0I5OGh6X05JanJPVnB1NWJUc1pWenpXeFNWd282RHFwNW5n?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI)시대, 정부와 공무원의 갈 길은 어디인가 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTJNZXBOM3czUXgxSmwtcVFDY0xuX0dnYVBYQ3Axc28yanJmVmtNS1Bva1B2bjBxR2RlSGQ0WG56eDF6TC1lUHVXaGtCYnkybjh6SU5R?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "美진보대부 샌더스, '초지능 AI 영구 금지' 법안 추진 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMGlLVXdPR2tNa08yX24zblhNenhub0JrX3RLNHZEMkl2a01Ic2VQbHUtMlJ1V0lDVWFibllpRUFzMzgydndaMGRwenFDWVYwZWpmOHV4ZVdiejg1cm5FWdIBYEFVX3lxTFBuMGlLVXdPR2tNa08yX24zblhNenhub0JrX3RLNHZEMkl2a01Ic2VQbHUtMlJ1V0lDVWFibllpRUFzMzgydndaMGRwenFDWVYwZWpmOHV4ZVdiejg1cm5FWQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시 인공 지능(AI) 시스템 ‘에이드’ 1시간 만에 치매 노인 찾았다 - 뉴스에이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16emMtem51SkhIRTFtcHJ1dGx4ZlFTS3lIQk5tbkdJbXF5NHprcGNZQTM3cGkxVnBjUmJuOW1RckwyWVd6RGl4SkljdnlNSGh1cmdGRjczN0VzYnFRUktsZmNWZ2tURTBFMnc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "‘인공지능(AI) 모빌리티 종합 실증 콤플렉스 조성’ 첫 관문 통과 - pinenews.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FSDA5RmJpSVB0SGxUUnNBa0NvNERhLVJRdld6ajdzdlo1NVJ1Z21wcTFCSDNIUDMydW9EcC1JVVE0VWlPQ2lz?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "실종 허위 종결 사망 유족 \"성의 있는 수사해 달라\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002402877",
+        "title": "공수처, ‘409만원 술 접대 의혹’ 지귀연 부장판사 기소",
+        "link": "https://n.news.naver.com/mnews/article/005/0001870934",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산 예인선 실종자 골든타임 지나가는데…기상악화로 수중 수색 중단",
-        "link": "https://n.news.naver.com/mnews/article/025/0003549117",
+        "title": "복귀한 조희대, 재제청에 즉답 피해…\"경과 듣고 입장 밝히겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/437/0000509385",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지하철 취객만 노렸다…4개월 추적 끝 '휴대전화 슬쩍' 일당 구속",
-        "link": "https://n.news.naver.com/mnews/article/015/0005328795",
+        "title": "민주당 전대 여론조사 조작의혹 유튜버, 김민석 고소…\"내 정보유출\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016289805",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 지귀연 판사 ‘409만원 술접대’ 받아 청탁금지법 기소…뇌물죄 안돼",
-        "link": "https://n.news.naver.com/mnews/article/009/0005730337",
+        "title": "김건희 특검, '정교유착' 한학자 1심에 항소…\"징역 2년 지나치게 가벼워\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005571223",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고령 LED공장 화재 2시간30여분만에 초진···인명피해 없어",
-        "link": "https://n.news.naver.com/mnews/article/032/0003468553",
+        "title": "[단독] 공소청 직제안 공개…‘사법통제부’ 신설해 경찰 불송치사건 관리 방침",
+        "link": "https://n.news.naver.com/mnews/article/009/0005730408",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-04 19:23"
+  "updated": "2026-09-04 21:41"
 }
