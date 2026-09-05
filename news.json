@@ -2,13 +2,18 @@
   "categories": {
     "IT": [
       {
-        "title": "\"병원에 직접 전화 걸어 대기 확인\"…SKT, '말귀 알아듣는' AI 비서 띄운다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014169833",
+        "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
+        "link": "https://n.news.naver.com/mnews/article/022/0004156561",
         "source": "네이버 뉴스"
       },
       {
-        "title": "최고 성능 뽐낸 오픈AI ‘아스트라’ 인간 감시 벗어날 위험도",
-        "link": "https://n.news.naver.com/mnews/article/011/0004658713",
+        "title": "삼성 IFA 전시관에 아이폰17 프로가?… 경쟁사 제품 올려놨다, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/023/0003996848",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "인간 감시도 피한다… 오픈AI, 차세대 AI ‘아스트라’ 공개",
+        "link": "https://n.news.naver.com/mnews/article/023/0003996786",
         "source": "네이버 뉴스"
       },
       {
@@ -20,27 +25,12 @@
         "title": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
         "link": "https://n.news.naver.com/mnews/article/016/0002693244",
         "source": "네이버 뉴스"
-      },
-      {
-        "title": "“1.5℃ 목표 사실상 무너졌다”…유엔, 지구 온난화 대응 새 전략 공개",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103594",
-        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박 - imnews.imbc.com",
+        "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박 - MBC 뉴스",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SamxNVFNjWWFJbkY3NVRDQWtyYjNieXhKSlFMdWhiRXUwdlBvWURwV0dfMkg4b2x1eHZtb0ZrLU91V3IydjlXZTNKYXRvaXdzNUdIUDhHdHUxaGh5ZHU2eXVqY2J3Q0dkME1WZDZhZ3U3b0tpa3FfTtIBeEFVX3lxTFBtSTZCT2l1S3F0cFpMN21WREQyMmMzNGUza3dEdjJheHgwY0NyTjFkM3dvTVNnMkM4NjZFN3ZwWkhSMWhYMEIxcE9uQ0g5eFVZR0FmN2xYX3JEbm1yVmFTZnJCZkljQmdWYlhYdWNWV3plS2dKOHkzaA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한·미 협상 테이블 오른 '반도체'…삼전·닉스, 추가 생산거점 여부 관심 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uTHFvQl85ZUd3eGlLMzdBM3hIQ1kzODUtNXd5YS1qdEdNTU1Ud0c4ZU9JTzRmVkM4VWx1UVRoOXJjRkpMQVppckJlTGM4eFpRa0hTdnVQajFjTXJNSXd3NdIBeEFVX3lxTFB3VnR2NkhOM2VOc0EwRlJhWGdNam96c2xOdVRKd0gtNUhnQ2tNQ0F4RnptZVo1TFpfQkc2cXFWSjhMNDFJalJsQ3R0eDgzOVRwVS16RzY0SEhQZk9TMUJ1dmRKclZuMzJNVmNNTjdXM1JicVI1RG4xeg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "김정관 산업부 장관 \"미국 반도체 관세, 한국에 불리하지 않게 논의\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xRk9lLWhuLVBzQWxfYjEtY3paemhnbHFZd3ZFTFZ3YUw4YzIwU0dDTDMzWFpfcC1odVdYcFZDMjFhUkZSZElqNTBYTU8yeHBhQkNJa2lKd3hnQW5jZWc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -52,6 +42,16 @@
         "title": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaXVlemxzVFhUMFY4WlVWLVpnWUwyYkNWS1ZCd1NKcFRuZWgxS2hKeWtWbE1vSWotdmJSb3BTdGt0XzJoanl4S3BmMEJOMzR1RFJrWDE3bHJhTE3SAWBBVV95cUxOTk5xR2FoTC13MWwtLVJKNkFpX1NaOW9WclFkSGZsMzJDMTVleEJRVnRJd3NSeUZ0cnNpUHFRWlZXQ0hicWpXSGwydFB6cXF5QVBGOWRuVkVPV2d6aF9sdHE?oc=5",
         "source": "구글 뉴스"
+      },
+      {
+        "title": "中 반도체 장비사, 전공정 넘어 후공정까지 국산화 속도 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ieHAzSnJvMms2cGVYWHpORjVhTzN5eVJCajBVeEY3UnNmeTJESWNjSjRreVBwZ084dkpvWHE3OUJoZXIwRm94bW1zU19lZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"저축의 시대 지나 투자의 시대로…美 증시 하락에도 반도체 호황 지속\" - newsis.com",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLMktiMTlwNlZLSlBtRUNkQk9JT3FnamhRWS1UT2Y1b3RsTzhoT2lXMTZuVWp2T2txSmRFWF9kYjNjcExrYmw5OG9DaGJ3WTZLVDNfbXF0bkRYME1EWlh3dNIBeEFVX3lxTE8xUGZGeWM1ZmNISkFpbXAyQm9lclBHNjlpVHhSN2lsX3pEcGVvX2QycXJkOUY5TGViOWV1aS1mMWVWVk5sbTlaV0JwYnhKUFZtTVlkWWFSVVNrSkYwS3FCTzFhSldCa1lBZi1acUdhX2w4cENPczdOeA?oc=5",
+        "source": "구글 뉴스"
       }
     ],
     "AI": [
@@ -61,7 +61,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "오픈AI와 마이크로소프트가 연구 논문을 인공지능 학습에 사용한 혐의로 또다시 소송을 당했습니다. - vietnam.vn",
+        "title": "오픈AI와 마이크로소프트가 연구 논문을 인공지능 학습에 사용한 혐의로 또다시 소송을 당했습니다. - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEVhVUdIVThERHhhbmhISnJmeTBfNFhWUWZ4LVZyUDVIZWtTa1NsTzVDbklxeG5KUUlBTGlTSjVfdnZzbE0yT3c3Y1MzWm8tdVlxZjFqNGZ5eFNuUXQtTGFNbzZBc3JXYzNoSm80d0w2T1U1MGlaRXkyTmJFblU4REpmQWV1WUNiR1AyTjRSMTV5aEJ4WThoNA?oc=5",
         "source": "구글 뉴스"
       },
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "미·중 AI 사고정보 공유망 추진…한국은 빠졌다 - OBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FckVLZWtwN1g0VmJGS0M2cG5uQWprblJyXzY2cDFRQkx1WURoajlta0Z5U0xiTUw4VXdDZnAwa1VjUDVVaEUtbHJsQWNpazRzTVozMmhqbDN4Tlg0VUkxQm1lbU1LRFhN?oc=5",
+        "title": "인공지능(AI)시대, 정부와 공무원의 갈 길은 어디인가 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTJNZXBOM3czUXgxSmwtcVFDY0xuX0dnYVBYQ3Axc28yanJmVmtNS1Bva1B2bjBxR2RlSGQ0WG56eDF6TC1lUHVXaGtCYnkybjh6SU5R?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "충남 학생 1830명, AI·로봇으로 문제 해결…‘끝장 개발 한마당’ 성료 > 뉴스 - 천안신문",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vVWRRRkdqdFN2WkJKYWxjOGdnbHdNcVFGelRPaFVDUVA1SHJxcUxBZDNtVlJ4TkxJemd5NXlMRzlJTVk?oc=5",
+        "title": "미·중 AI 사고정보 공유망 추진…한국은 빠졌다 - OBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FckVLZWtwN1g0VmJGS0M2cG5uQWprblJyXzY2cDFRQkx1WURoajlta0Z5U0xiTUw4VXdDZnAwa1VjUDVVaEUtbHJsQWNpazRzTVozMmhqbDN4Tlg0VUkxQm1lbU1LRFhN?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "부산 예인선 침몰 사고 실종자 나흘째 수색",
-        "link": "https://n.news.naver.com/mnews/article/056/0012251692",
+        "title": "경찰 \"성인 실종자도 아동처럼 위치추적 가능한 법 추진\"…광역 실종수사 조직도 신설",
+        "link": "https://n.news.naver.com/mnews/article/082/0001396957",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰 인지수사→송치사건 전담부로 재편‥지방 공소청엔 '사법통제부' 신설해 보완수사 요구",
-        "link": "https://n.news.naver.com/mnews/article/214/0001522104",
+        "title": "초등생 자녀 구하고 숨진 아빠…경북서 물놀이 사고 등 하루 8명 숨져",
+        "link": "https://n.news.naver.com/mnews/article/666/0000122086",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"알박기 돗자리 치웁니다\", 불꽃축제 앞두고 관리",
-        "link": "https://n.news.naver.com/mnews/article/018/0006364110",
+        "title": "금융피해자연대 \"김관정 중수청장 후보 임명 반대…다단계 코인사기 변호\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001967472",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“주유할 때 냄새까지 맡아야 하나” 부산 주유소서 혼유 사고…차량 180대 피해",
-        "link": "https://n.news.naver.com/mnews/article/029/0003046228",
+        "title": "창원 소죽도 인근 해상서 1t 연안자망 어선 간 충돌…1명 숨져",
+        "link": "https://n.news.naver.com/mnews/article/001/0016291610",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 경찰, 성인 실종자도 아동처럼 위치추적…광역 실종수사 조직 만든다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003046193",
+        "title": "‘노동쟁의 지침’ 발표 다음날, 사회수석 만난 민주노총…“정책 일방 추진 안 돼”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002821701",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-05 17:15"
+  "updated": "2026-09-05 19:18"
 }
