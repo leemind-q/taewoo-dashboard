@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "AI칩 이어 모델 유통까지…엔비디아, 허깅페이스 인수",
-        "link": "https://n.news.naver.com/mnews/article/031/0001055341",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "오픈AI '챗지피티-6 아스트라' 공개…\"AGI 시대 온 걸 환영\"",
         "link": "https://n.news.naver.com/mnews/article/003/0014168903",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "SOOP, 판교에 창사 첫 사옥 마련…“업무 거점 통합”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004658731",
         "source": "네이버 뉴스"
       },
       {
@@ -22,92 +12,102 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"카톡으로 '모두의 AI' 쓴다\"…카카오·LG 손잡았다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005409531",
+        "title": "[뉴겜] 22년 에린이 눈부시게…넥슨 '마비노기 이터니티'의 첫걸음",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240336",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "“출연료 회당 5억이나 줬는데, 웬 날벼락” 유명 배우 리스크…결국 칼 빼든 OTT",
+        "link": "https://n.news.naver.com/mnews/article/016/0002693227",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外",
+        "link": "https://n.news.naver.com/mnews/article/584/0000039216",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUUVVbExCQmFadTJ5ZDRfcnFTV29TeF9TbkphWkhFSUNROVQzeVdaUG55b2N0a2pyNFFWTEluc0YxUG9TUFg3T2QzTVRNNDVTQWtXbnI1U1AydDRNWDVPWS1sT212YTRMX0J6a3c1NENKU09MemfSAWZBVV95cUxNYnIxYy00MW8tTXpEUHpJaGhLbXZhSDM4a3hGaUtqZm45TWZ1TVpTdjlrbXpDc08yQ2hqaFlpbVlBTXd0ZUxXdTlJQUtkdmlkR0xTN2ZqWmVjdi1yZm91LUxwS1g5UEE?oc=5",
+        "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SamxNVFNjWWFJbkY3NVRDQWtyYjNieXhKSlFMdWhiRXUwdlBvWURwV0dfMkg4b2x1eHZtb0ZrLU91V3IydjlXZTNKYXRvaXdzNUdIUDhHdHUxaGh5ZHU2eXVqY2J3Q0dkME1WZDZhZ3U3b0tpa3FfTtIBeEFVX3lxTFBtSTZCT2l1S3F0cFpMN21WREQyMmMzNGUza3dEdjJheHgwY0NyTjFkM3dvTVNnMkM4NjZFN3ZwWkhSMWhYMEIxcE9uQ0g5eFVZR0FmN2xYX3JEbm1yVmFTZnJCZkljQmdWYlhYdWNWV3plS2dKOHkzaA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 없으면 어쩔… 상반기 獨·日·대만 제치고 세계 2위 흑자 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lRzlOSVZzWjVKMDlVaDQ5RnBYeHZLZWlLRDVVRE1zMW1pay1nOHB5UWhUR2J5bUhLd1Uwb3Z3RTlIV0hvSk9sTUpPcXF3ODQ?oc=5",
+        "title": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbDVwWTQxdDRpMUdwR0tIai1BSU1DbG5oQ01fanlRdFRub2JUUnFpbFFwZ3JQbFRieVA3cjhMZ21IRVVra19iRlY5NFNjOVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "​ 반도체 중심 수출 질주…9월 초 7천억달러 돌파, 사상 첫 1조달러 수출 코앞 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83NEFTMGFDNHUyWWNtMzRxVThOckZDTDFDc0tYNXpJOFVwbVBuTVNhMWotMGx4YkhBTmRGd09KX1ZsNmpTUUw3akIxZVB0RWgxbUpWLWkyZnF3czZEQlJPY1lqUlFBQ3FSaHc?oc=5",
+        "title": "\"호남 반대\" 노조에 반도체 발 묶이나...\"반쪽짜리\" 재계 우려 나온 이유 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ncTdieUNseUFMWHV4NXlIQ1dZaWphSF9kRFVibHBTRUJjbHV3bmpFUzJ6V1dPdzBLcGw3Wks1em5CbzN5eXBKNVUtOXl0alhkNkoxc3lObnVMdFYwUElKb0FqY0UyNTZ2dG9n0gFwQVVfeXFMTlg0NDRVeVZrSDRiYzFpU0RfNWlQWjl0cnBqQmZyUHk1eWRnRGl0SnRtSTlZN09lX2I5djlMV3V2SllNendmaVgycm1ZWjlOYVdNMHYzR084LXVGRzZSX2NOQllpNnVuZWJjZC1GRE0xaw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에 7월 경상흑자 420.8억달러…\"상반기 세계 2위\"(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RDJXc0tCc25tY1NYZjB2ZHdTMElqRjVHeHYtZEhsQ3M0VEJSTWN4a2Nvbk42MWZLRXZzZGp2TTJBSElodTU0X1JPS21wVWVMN0JyUklPSHAyeWvSAWBBVV95cUxNdGcwM1UtcEFyUUVjbGkxdnE3Z1ZnT3VSak5vWkpSZ3ZxZ013bXFnYU9zVnAtcVlnaWZtSU9Nbk52U3N2UXF2aVFPNE44dWhFT2FPdzQ2Q2k0aFFqMzV4VUU?oc=5",
+        "title": "中 반도체 장비사, 전공정 넘어 후공정까지 국산화 속도 - etnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ieHAzSnJvMms2cGVYWHpORjVhTzN5eVJCajBVeEY3UnNmeTJESWNjSjRreVBwZ084dkpvWHE3OUJoZXIwRm94bW1zU19lZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "엔비디아 '빅딜'에 오픈AI \"AGI 왔다\"…고래싸움에 웃는 반도체 [빈난새의 빈틈없이마켓] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mLTdLVVpwMWxoSVBkRzZyRUVuODJOWUZ3WF8yVlVBcGF3M2pnU2FhUnlvajYyWWZ2VFBlVVJjaVZQU0Q2aWEyaUthUGRQYkdJVkZNQjJQanBpZw?oc=5",
+        "title": "[CEO풍향계] '반도체 대미 투자' 곽노정...'글로벌 인재 유치' 류재철 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWjVLcWZoTUU5ZzV5TWlfR25jMHhfMm5DZ2xYdHRNNzlPam1zRnZNZTk4SWZuWkdZam9IUnNOalhydWJFeFhER3FsX3dua1c2N0s5T3FLRTlJaTTSAWBBVV95cUxORHVESWpQQlRadmpEdjNtR3E0bTZ4U2k1RlJndWZnY19KdERWenhBbmJ1eGZCZTdQMEs3T3pqbEg1RnI4UUxKcEo3aEFzVW9DUmNpeHpEQ3ZzeWQ3M1ViZEs?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "범죄 잡는 인공지능, 생사람은 안 잡을까…AI에 ‘권한 위임’ 적정선 고민해야 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12TTlHY1Z3eXNYd0Y1dHhqZXZQYWpTbEZTUUQ2WWlDYV9wZWN0eTFGTlJROFk2U1VNUVFuZGwxWHdrcXpxZy12N1ZIaVpvYktTZ3JJSGRYT1gxVTNjRDFmQTRZSGI5UXpNd1pFQTlGU05LZw?oc=5",
+        "title": "오픈AI와 마이크로소프트가 연구 논문을 인공지능 학습에 사용한 혐의로 또다시 소송을 당했습니다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEVhVUdIVThERHhhbmhISnJmeTBfNFhWUWZ4LVZyUDVIZWtTa1NsTzVDbklxeG5KUUlBTGlTSjVfdnZzbE0yT3c3Y1MzWm8tdVlxZjFqNGZ5eFNuUXQtTGFNbzZBc3JXYzNoSm80d0w2T1U1MGlaRXkyTmJFblU4REpmQWV1WUNiR1AyTjRSMTV5aEJ4WThoNA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"어라, AI가 시키는 대로 갔는데\"…美청년들, 4천ｍ 산속 조난 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TWmJ4eUpPMGVQWVM1NWI4RDJWZTZmeXM1eTVCWGpWckV6SkFWSkVvbTNKemhzZHo3VkF6NmhSS0dIWTJkbmlOM3pYNFRPNUt6TzFWMHduS1dGMEnSAWBBVV95cUxOZENzY0VqQXA5NkkzRVFaUksyNjYxYVZRd0ZmT2k0eV9ua2dvazZrbXl5VjZOSGp4bDh0YzNGdEtkb04ybzRmM3Y2eXNzQkxoSHlQQktUbnRWS3BPZmZtTWo?oc=5",
+        "title": "미·중 AI 사고정보 공유망 추진…한국은 빠졌다 - OBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FckVLZWtwN1g0VmJGS0M2cG5uQWprblJyXzY2cDFRQkx1WURoajlta0Z5U0xiTUw4VXdDZnAwa1VjUDVVaEUtbHJsQWNpazRzTVozMmhqbDN4Tlg0VUkxQm1lbU1LRFhN?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "금산군, 공무원 대상 2026년 인공지능(AI) 프롬프트 실습 교육 성료 - 금산중앙신문방송",
+        "title": "인공지능(AI)시대, 정부와 공무원의 갈 길은 어디인가 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTJNZXBOM3czUXgxSmwtcVFDY0xuX0dnYVBYQ3Axc28yanJmVmtNS1Bva1B2bjBxR2RlSGQ0WG56eDF6TC1lUHVXaGtCYnkybjh6SU5R?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 연방정부, 공무원 채용 시 AI 면접 시범 도입 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9scXdZTDZ6ZkRlR0JVTV9KZXNPNjhfVFFfcnBGZDVSY3lLRjhFMTVDdU9vYUhodE9KVkNuRWNSZFYtNkl4VkNyZnhwT2lqMTFBa0ZjamlHWHJ5MlhLNUpBY9IBYEFVX3lxTE9scXdZTDZ6ZkRlR0JVTV9KZXNPNjhfVFFfcnBGZDVSY3lLRjhFMTVDdU9vYUhodE9KVkNuRWNSZFYtNkl4VkNyZnhwT2lqMTFBa0ZjamlHWHJ5MlhLNUpBYw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "금산군, 공무원 대상 2026년 인공지능(AI) 프롬프트 실습 교육 성료 - geumsan-news.com",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdjZmX2wwLWhQWURSWVVuWmxpUjdsOXBqOVdiZmw2T3c1aWV6ZmhBbGpTVkdPQjB0OUZFdWRDVVF1bDVya19iYjl1Y0I5OGh6X05JanJPVnB1NWJUc1pWenpXeFNWd282RHFwNW5n?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광주 도심이 'AI 시험장'…AX실증밸리에 5년간 4557억 투입 - 뉴스21 통신",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBraVlPZFMxQWtzRzlNeVZnWGNEN3F0ZU1WYks1SGNoa1Fva0xlcFZNZzdaeTkwa252Qzh6LUlHa1hWM29UZEFNRkNLZlYwcWJtUXlBbmVB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "안양시 인공 지능(AI) 시스템 ‘에이드’ 1시간 만에 치매 노인 찾았다 - 뉴스에이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16emMtem51SkhIRTFtcHJ1dGx4ZlFTS3lIQk5tbkdJbXF5NHprcGNZQTM3cGkxVnBjUmJuOW1RckwyWVd6RGl4SkljdnlNSGh1cmdGRjczN0VzYnFRUktsZmNWZ2tURTBFMnc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
-      {
-        "title": "초대 중수청장 후보 4명 압축…김관정·김지용·문홍주·이윤제",
-        "link": "https://n.news.naver.com/mnews/article/015/0005328901",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "오늘 여의도서 한화 불꽃축제…'별이 빛나는 밤' 펼친다",
-        "link": "https://n.news.naver.com/mnews/article/055/0001386076",
-        "source": "네이버 뉴스"
-      },
       {
         "title": "100만 모이는 세계불꽃축제…여의나루역 무정차 통과",
         "link": "https://n.news.naver.com/mnews/article/422/0000902965",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산서 말벌 쏘인 70대 2명 중경상…\"산책·벌초 때 특히 조심\"",
-        "link": "https://n.news.naver.com/mnews/article/057/0001967467",
+        "title": "인천 영종도 인근 해상서 모터보트 전복…2명 사망",
+        "link": "https://n.news.naver.com/mnews/article/056/0012251619",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“술 취해 잠든 사이 채갔다”…휴대전화 소매치기범 경찰에 덜미",
-        "link": "https://n.news.naver.com/mnews/article/009/0005730414",
+        "title": "‘실종 허위 종결’ 경찰관 파면 촉구·국가배상 소송 예고",
+        "link": "https://n.news.naver.com/mnews/article/056/0012251322",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'별이 빛나는 밤' 펼쳐진다…오늘 여의도서 한화 불꽃축제",
+        "link": "https://n.news.naver.com/mnews/article/001/0016291486",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "주유소 갔다가 '날벼락'…직원 실수에 車 180대 정비소행",
+        "link": "https://n.news.naver.com/mnews/article/015/0005329005",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-05 08:10"
+  "updated": "2026-09-05 11:56"
 }
