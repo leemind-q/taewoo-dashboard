@@ -2,67 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "예약·결제까지 AI가 대신…‘모두의 AI’ 10월 첫선",
-        "link": "https://n.news.naver.com/mnews/article/005/0001870961",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "오픈AI, 위험등급 AI ‘아스트라’ 공개…인간 수준 AI 나오나",
-        "link": "https://n.news.naver.com/mnews/article/081/0003676781",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "방미통위, 지상파3사 등에 \"아시안게임 순차편성 하라\" 권고",
         "link": "https://n.news.naver.com/mnews/article/437/0000509580",
         "source": "네이버 뉴스"
       },
       {
-        "title": "위고비 주성분 먹은 늙은쥐…수명 12% 연장에 달리기도 잘했다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002821613",
+        "title": "오픈AI '챗지피티-6 아스트라' 공개…\"AGI 시대 온 걸 환영\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014168903",
         "source": "네이버 뉴스"
       },
       {
-        "title": "갤럭시 사용자 '똥손' 탈출 비법은?…'인물 모드 3배줌'만 기억하세요",
-        "link": "https://n.news.naver.com/mnews/article/018/0006363485",
+        "title": "‘위고비 성분’ 맞은 늙은 생쥐, 92일 더 살았다는데…사람은? [라이프]",
+        "link": "https://n.news.naver.com/mnews/article/081/0003677068",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'모두의 AI 사업자' 카카오 \"국민이 일상서 활용 가능한 AI 플랫폼 개발\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002436287",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'넥스트 아이폰' 찾을까…터너스 앞에 놓인 3대 시험대[애플 50년 새판 짠다③]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014170878",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "800조 투자 약속했는데 '뒤통수' 친 정부 … 호남 반도체 '회의론' 더 키웠다 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuY01pYnNkUm5YemdGc1VSMHZ4NjhVd3Q2SWoybFpublZ3UVBCX2dYVzY2MG9IeGwxNDhtXzN3TnU4UGxYb2FTcWlYRFZyNHp3c1FCNFB6aGJ5cDJxd3VtbXh4R3JzY2tyenAzcDJROU51T1pwMUxLczk3b9IBgAFBVV95cUxOUWZyT3BHSmJ3aHhnNDBlSm9qQ3ZiMWkzUm1yd3laVWl3bFZBaTN3OU9Cem9sR09NUkVYZUV4SHFtT1BRSjlSQWMtNkYwSDdNRmRnUFdPTmFOQnBDY19veTk3d0V4bWJ4SVJLajVkbnFZZGZuRjdLbkxMMnQxV3lYRA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼성·SK하이닉스 찍어 \"반도체 관세\" 협박‥파병이 협상카드? - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ueDRwM0doNnlFRkdGU2kyVktfNmNLdGVBMTBkY2ZoVGNoMDN0eUZkLTZHMlctT3BuM3JXWmIwdDNueUNuUGc3d1dIWDI5d2s2U2UyVVZzaGg1MkpJU1BYemhIMHh4RDBReHVkaHYtdnpQVDAxemtqONIBeEFVX3lxTFBhUjVSQmI4V1E4cjI4eHN6TWRLWVNoaEhLUGxOaHlpb2k0bXRsZVJlTjJQcUFQMnQzZkJJVkRlWHlnT3JOVDZGbUtjS3c4a0N0c29aUldmWlc0Nzdna2trUnYxNFh5Mm9zOVVSZHY1bTRIYnV3bjJpMw?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "김정관 \"美반도체 관세 '불리하지 않은 대우' 정신 하에 논의\" - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSEd3dFFBUGxSSTZicWlDLUJ4anU0MUVETFF2VmRpRXl0UzlkMHBEN2x6LVlYQmVyRUE4X2VsNGRiMEhLRlBMUl9SZ2NVSGE1ODVOXzZvQzRzUDDSAWBBVV95cUxNNWswbFpxUTBCWk04NzNTU3BmTkJWWS1PT0NuUDF0dHZRUVd5ZEJhVkNiYlFuNjMza1JCTlVScEp4eERYNmx3S2JuYkRUSzZLeGN2UF8wdG5RRFNtSzNocDQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUUVVbExCQmFadTJ5ZDRfcnFTV29TeF9TbkphWkhFSUNROVQzeVdaUG55b2N0a2pyNFFWTEluc0YxUG9TUFg3T2QzTVRNNDVTQWtXbnI1U1AydDRNWDVPWS1sT212YTRMX0J6a3c1NENKU09MemfSAWZBVV95cUxNYnIxYy00MW8tTXpEUHpJaGhLbXZhSDM4a3hGaUtqZm45TWZ1TVpTdjlrbXpDc08yQ2hqaFlpbVlBTXd0ZUxXdTlJQUtkdmlkR0xTN2ZqWmVjdi1yZm91LUxwS1g5UEE?oc=5",
+        "title": "‘반도체 생명수’ 초순수까지 … 물 순환형 반도체 산단 조성 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yYkNJNXBCMUIwTHlUVXNwOEdVbFdDeW93NnNtRkhabEF6LWplZ3Rfa2ZQWXFqVk1sTWFJTXZEd1NaNVNGMnF5YlRNZzZ2NDg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 주주환원, 코스피 왜 못 올릴까…\"일회성 규모보다 꾸준함\" - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aek9QeFRSS0N2U1lBMWVmQ0ZBRTVWaEJ5M1hvMWNldGM1SFIzc2dlOXdIOXdseU51T0JmWjgxRjJ6ajY4VG5VYUc0TTd0TVVmeGYzY0hYQ0VEbHRPWUh1UTdKa1FUMldOOFNFM3ItdmU?oc=5",
+        "title": "남부권 반도체 설계인재 양성 거점 'GIST-Arm 스쿨' 개교 - korea.kr",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mWGFzMEY2ekVvelZTMk9udkNlVndhUnFQaXdEb3NhRXZuWENaSk5zYzhTUllvdVZPcVE2Q0JrT3J5SWZrT2l2UkVuclhPSUhVNTlzUk5wRUlrc3YwLW1WaXo1eldVZXZ6bVhTRg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광주과기원-암 스쿨 개교…반도체 설계인재 1천400명 양성 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KMVNmbXY4UERQTGpUbDdwVGVvb3lvdnpiTkRYNFQ4WGpJblg1UldxYlZIb0N0MWlsZkl0Rk1LY1QtS1JmaV9pa1ZidzhrclU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "'GIST-Arm 스쿨' 개교…전남광주 '반도체 핵심인재 1400명' 양성 본격화 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90Z3pHanA1eUozUGNYaGx2UjBHalJiYk5oaG5yeGtmWUs4dE9fZTFfOTBseVpMREd2eUFpREFMOFE0cUVLc015WTVLaFRhQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "데이터센터 없이도 AI 된다 … 오히려 더 빠르고 안전하게 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxel8zaDkzY0lLMGRsczNVQThmN05lSkEtdnhubmFlOEtUc1ByVTluaWdFOVgwb0xiT1JLQ0pHbVpaZHJWWGFUSHhPZWZ6Zw?oc=5",
+        "title": "범죄 잡는 인공지능, 생사람은 안 잡을까…AI에 ‘권한 위임’ 적정선 고민해야 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12TTlHY1Z3eXNYd0Y1dHhqZXZQYWpTbEZTUUQ2WWlDYV9wZWN0eTFGTlJROFk2U1VNUVFuZGwxWHdrcXpxZy12N1ZIaVpvYktTZ3JJSGRYT1gxVTNjRDFmQTRZSGI5UXpNd1pFQTlGU05LZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "금산군, 공무원 대상 2026년 인공지능(AI) 프롬프트 실습 교육 성료 - 금산중앙신문방송",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdjZmX2wwLWhQWURSWVVuWmxpUjdsOXBqOVdiZmw2T3c1aWV6ZmhBbGpTVkdPQjB0OUZFdWRDVVF1bDVya19iYjl1Y0I5OGh6X05JanJPVnB1NWJUc1pWenpXeFNWd282RHFwNW5n?oc=5",
+        "title": "\"어라, AI가 시키는 대로 갔는데\"…美청년들, 4천ｍ 산속 조난 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TWmJ4eUpPMGVQWVM1NWI4RDJWZTZmeXM1eTVCWGpWckV6SkFWSkVvbTNKemhzZHo3VkF6NmhSS0dIWTJkbmlOM3pYNFRPNUt6TzFWMHduS1dGMEnSAWBBVV95cUxOZENzY0VqQXA5NkkzRVFaUksyNjYxYVZRd0ZmT2k0eV9ua2dvazZrbXl5VjZOSGp4bDh0YzNGdEtkb04ybzRmM3Y2eXNzQkxoSHlQQktUbnRWS3BPZmZtTWo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "데이터센터 없이도 AI 된다 … 오히려 더 빠르고 안전하게 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxel8zaDkzY0lLMGRsczNVQThmN05lSkEtdnhubmFlOEtUc1ByVTluaWdFOVgwb0xiT1JLQ0pHbVpaZHJWWGFUSHhPZWZ6Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "美진보대부 샌더스, '초지능 AI 영구 금지' 법안 추진 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMGlLVXdPR2tNa08yX24zblhNenhub0JrX3RLNHZEMkl2a01Ic2VQbHUtMlJ1V0lDVWFibllpRUFzMzgydndaMGRwenFDWVYwZWpmOHV4ZVdiejg1cm5FWdIBYEFVX3lxTFBuMGlLVXdPR2tNa08yX24zblhNenhub0JrX3RLNHZEMkl2a01Ic2VQbHUtMlJ1V0lDVWFibllpRUFzMzgydndaMGRwenFDWVYwZWpmOHV4ZVdiejg1cm5FWQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능(AI)시대, 정부와 공무원의 갈 길은 어디인가 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTJNZXBOM3czUXgxSmwtcVFDY0xuX0dnYVBYQ3Axc28yanJmVmtNS1Bva1B2bjBxR2RlSGQ0WG56eDF6TC1lUHVXaGtCYnkybjh6SU5R?oc=5",
+        "title": "BCG코리아 인공지능(AI) 서밋 - 사진 | 멀티미디어 - korea.kr",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCVWRQNVpnbEUwOEtXNm5ZTWROeU1NbGRfNzI3VzlHWUlWTktxLUluMTlWZllFX0VzQlk2Ri1oRlFhYTNKaV9Dcm9xWDBwMVVKWF9jYkM4dmN5TTZ4emtseG1hTFA3a0ZRRnZCajFPVFdfdHdhR1ZKR2l3?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'야속한 강풍' 부산 예인선 사고, 기상악화로 해상 수색만 진행",
-        "link": "https://n.news.naver.com/mnews/article/448/0000637441",
+        "title": "기온·습도 ‘뚝’ 전국 선선…동해안·제주에는 비 [오늘의 날씨]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004658473",
         "source": "네이버 뉴스"
       },
       {
-        "title": "강풍에 제주항 바지선 크레인 전도…1명 숨지고 1명 다쳐",
-        "link": "https://n.news.naver.com/mnews/article/023/0003996721",
+        "title": "‘中 유학생 살해’ 정창성 구속송치, 사이코패스 검사는 기준 미달",
+        "link": "https://n.news.naver.com/mnews/article/016/0002692747",
         "source": "네이버 뉴스"
       },
       {
-        "title": "현대판 봉이 김선달? '불꽃축제 명당' 돗자리 1개 30만원 판매",
-        "link": "https://n.news.naver.com/mnews/article/001/0016289208",
+        "title": "어린이집서 낮잠 자던 3세 남아 '심정지'...병원 이송했지만 사망",
+        "link": "https://n.news.naver.com/mnews/article/008/0005409688",
         "source": "네이버 뉴스"
       },
       {
-        "title": "광주비엔날레 '대만관' 명칭 논란...중국 작가들 철수",
-        "link": "https://n.news.naver.com/mnews/article/660/0000116479",
+        "title": "아직도 지하철 소매치기가···주취자 대상 소매치기범 등 일당 검거",
+        "link": "https://n.news.naver.com/mnews/article/032/0003468491",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"'中유학생 살해' 정창성, 연인관계 폭로돼 직장 잃을까 봐 범행\"…구속송치",
-        "link": "https://n.news.naver.com/mnews/article/015/0005328626",
+        "title": "부산 예인선 전복사고 실종자 나흘째 수색…높은 파도에 난항",
+        "link": "https://n.news.naver.com/mnews/article/001/0016291505",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-04 23:48"
+  "updated": "2026-09-05 03:34"
 }
