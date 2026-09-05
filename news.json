@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "오픈AI '챗지피티-6 아스트라' 공개…\"AGI 시대 온 걸 환영\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014168903",
+        "title": "\"AGI 시대에 오신 것을 환영합니다\"… 오픈AI 새 모델, 코딩능력서 클로드 능가",
+        "link": "https://n.news.naver.com/mnews/article/009/0005730656",
         "source": "네이버 뉴스"
       },
       {
-        "title": "왜 다시 하드웨어 엔지니어인가…'터너스호' 애플 출범[애플 50년 새판 짠다②]",
-        "link": "https://n.news.naver.com/mnews/article/003/0014170856",
+        "title": "SKT·KT·카카오 '모두의 AI' 연내 출시…배경훈 \"외산 AI와 차별화\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000637437",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[뉴겜] 22년 에린이 눈부시게…넥슨 '마비노기 이터니티'의 첫걸음",
-        "link": "https://n.news.naver.com/mnews/article/138/0002240336",
+        "title": "정부 7대 시드 육성 속 인재 양성 스스로···대학생 양자학회 활동 주목",
+        "link": "https://n.news.naver.com/mnews/article/018/0006363790",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“출연료 회당 5억이나 줬는데, 웬 날벼락” 유명 배우 리스크…결국 칼 빼든 OTT",
-        "link": "https://n.news.naver.com/mnews/article/016/0002693227",
+        "title": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002693244",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外",
-        "link": "https://n.news.naver.com/mnews/article/584/0000039216",
+        "title": "“1.5℃ 목표 사실상 무너졌다”…유엔, 지구 온난화 대응 새 전략 공개",
+        "link": "https://n.news.naver.com/mnews/article/662/0000103594",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,30 +34,40 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbDVwWTQxdDRpMUdwR0tIai1BSU1DbG5oQ01fanlRdFRub2JUUnFpbFFwZ3JQbFRieVA3cjhMZ21IRVVra19iRlY5NFNjOVE?oc=5",
+        "title": "한·미 협상 테이블 오른 '반도체'…삼전·닉스, 추가 생산거점 여부 관심 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uTHFvQl85ZUd3eGlLMzdBM3hIQ1kzODUtNXd5YS1qdEdNTU1Ud0c4ZU9JTzRmVkM4VWx1UVRoOXJjRkpMQVppckJlTGM4eFpRa0hTdnVQajFjTXJNSXd3NdIBeEFVX3lxTFB3VnR2NkhOM2VOc0EwRlJhWGdNam96c2xOdVRKd0gtNUhnQ2tNQ0F4RnptZVo1TFpfQkc2cXFWSjhMNDFJalJsQ3R0eDgzOVRwVS16RzY0SEhQZk9TMUJ1dmRKclZuMzJNVmNNTjdXM1JicVI1RG4xeg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"호남 반대\" 노조에 반도체 발 묶이나...\"반쪽짜리\" 재계 우려 나온 이유 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ncTdieUNseUFMWHV4NXlIQ1dZaWphSF9kRFVibHBTRUJjbHV3bmpFUzJ6V1dPdzBLcGw3Wks1em5CbzN5eXBKNVUtOXl0alhkNkoxc3lObnVMdFYwUElKb0FqY0UyNTZ2dG9n0gFwQVVfeXFMTlg0NDRVeVZrSDRiYzFpU0RfNWlQWjl0cnBqQmZyUHk1eWRnRGl0SnRtSTlZN09lX2I5djlMV3V2SllNendmaVgycm1ZWjlOYVdNMHYzR084LXVGRzZSX2NOQllpNnVuZWJjZC1GRE0xaw?oc=5",
+        "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때 - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUUVVbExCQmFadTJ5ZDRfcnFTV29TeF9TbkphWkhFSUNROVQzeVdaUG55b2N0a2pyNFFWTEluc0YxUG9TUFg3T2QzTVRNNDVTQWtXbnI1U1AydDRNWDVPWS1sT212YTRMX0J6a3c1NENKU09MemfSAWZBVV95cUxNYnIxYy00MW8tTXpEUHpJaGhLbXZhSDM4a3hGaUtqZm45TWZ1TVpTdjlrbXpDc08yQ2hqaFlpbVlBTXd0ZUxXdTlJQUtkdmlkR0xTN2ZqWmVjdi1yZm91LUxwS1g5UEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "中 반도체 장비사, 전공정 넘어 후공정까지 국산화 속도 - etnews.com",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ieHAzSnJvMms2cGVYWHpORjVhTzN5eVJCajBVeEY3UnNmeTJESWNjSjRreVBwZ084dkpvWHE3OUJoZXIwRm94bW1zU19lZw?oc=5",
+        "title": "가을은 반도체 성수기…韓 수출 우상향 지속할까 '주목' - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVUZHU1JKUm0wYUJkaUF4aTVHY3hjSWMwNW92c0N0OE8yLWxSWENvWUhrRW5NQ1BKeHNtcG4zYzNodEZsOGI5VGJoamxtLWtsbTNGYTNsN3FObW12TEtoZtIBeEFVX3lxTE1sdTRmTG1aTHZYTGowMmRmdWE1ejR3WEVtM1JjQVB5MENlV2lqdHB5S3l2ZHE5SENSTE82SFBBcGdnM3JYdVFuZzlRNmtobVgzaThJa1hpa0lseUhXalNQREIwODBCNUh6QmptSFExaXgybVdrZlg4Mg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[CEO풍향계] '반도체 대미 투자' 곽노정...'글로벌 인재 유치' 류재철 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWjVLcWZoTUU5ZzV5TWlfR25jMHhfMm5DZ2xYdHRNNzlPam1zRnZNZTk4SWZuWkdZam9IUnNOalhydWJFeFhER3FsX3dua1c2N0s5T3FLRTlJaTTSAWBBVV95cUxORHVESWpQQlRadmpEdjNtR3E0bTZ4U2k1RlJndWZnY19KdERWenhBbmJ1eGZCZTdQMEs3T3pqbEg1RnI4UUxKcEo3aEFzVW9DUmNpeHpEQ3ZzeWQ3M1ViZEs?oc=5",
+        "title": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaXVlemxzVFhUMFY4WlVWLVpnWUwyYkNWS1ZCd1NKcFRuZWgxS2hKeWtWbE1vSWotdmJSb3BTdGt0XzJoanl4S3BmMEJOMzR1RFJrWDE3bHJhTE3SAWBBVV95cUxOTk5xR2FoTC13MWwtLVJKNkFpX1NaOW9WclFkSGZsMzJDMTVleEJRVnRJd3NSeUZ0cnNpUHFRWlZXQ0hicWpXSGwydFB6cXF5QVBGOWRuVkVPV2d6aF9sdHE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "'경북 성장 인공지능(AI) 인재육성 전략 세미나' 개최 - 경북구미신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZGhtQ1pON01nWXFyVGpCWlBGc2RseXlsTkkzV1pMUEgtN0l3ald1NFR5REtZY1dfd3N6U2ptSERfS3I3azdRb2hCM2JiX2xuUy1pQ2Y4dmw1MHozT1k3TkE3dThWZHpOcXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "오픈AI와 마이크로소프트가 연구 논문을 인공지능 학습에 사용한 혐의로 또다시 소송을 당했습니다. - Vietnam.vn",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEVhVUdIVThERHhhbmhISnJmeTBfNFhWUWZ4LVZyUDVIZWtTa1NsTzVDbklxeG5KUUlBTGlTSjVfdnZzbE0yT3c3Y1MzWm8tdVlxZjFqNGZ5eFNuUXQtTGFNbzZBc3JXYzNoSm80d0w2T1U1MGlaRXkyTmJFblU4REpmQWV1WUNiR1AyTjRSMTV5aEJ4WThoNA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"단 0.8%가 5,600조 원 독식?\"… 인공지능이 가속화한 '슈퍼 억만장자' 전성시대 - CBC뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqb2Q1NWNrdGtybzZrcUQ4SlNic0taa3lwN3RyN0JFdXBsMDZyMXlGQ01ySDc4TFQyTHN6SFhMRUFUWW4wVkVDekswaUI1cW8tYk1Wb3lOdjVjSlBHQ0lIU1llai1mVkQx?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "인공지능(AI)시대, 정부와 공무원의 갈 길은 어디인가 - 중앙일보",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTJNZXBOM3czUXgxSmwtcVFDY0xuX0dnYVBYQ3Axc28yanJmVmtNS1Bva1B2bjBxR2RlSGQ0WG56eDF6TC1lUHVXaGtCYnkybjh6SU5R?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "美 연방정부, 공무원 채용 시 AI 면접 시범 도입 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9scXdZTDZ6ZkRlR0JVTV9KZXNPNjhfVFFfcnBGZDVSY3lLRjhFMTVDdU9vYUhodE9KVkNuRWNSZFYtNkl4VkNyZnhwT2lqMTFBa0ZjamlHWHJ5MlhLNUpBY9IBYEFVX3lxTE9scXdZTDZ6ZkRlR0JVTV9KZXNPNjhfVFFfcnBGZDVSY3lLRjhFMTVDdU9vYUhodE9KVkNuRWNSZFYtNkl4VkNyZnhwT2lqMTFBa0ZjamlHWHJ5MlhLNUpBYw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "금산군, 공무원 대상 2026년 인공지능(AI) 프롬프트 실습 교육 성료 - geumsan-news.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdjZmX2wwLWhQWURSWVVuWmxpUjdsOXBqOVdiZmw2T3c1aWV6ZmhBbGpTVkdPQjB0OUZFdWRDVVF1bDVya19iYjl1Y0I5OGh6X05JanJPVnB1NWJUc1pWenpXeFNWd282RHFwNW5n?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "100만 모이는 세계불꽃축제…여의나루역 무정차 통과",
-        "link": "https://n.news.naver.com/mnews/article/422/0000902965",
+        "title": "건보 본인부담금 환급에 최대 20개월…\"분기별 정산 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016291362",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인천 영종도 인근 해상서 모터보트 전복…2명 사망",
-        "link": "https://n.news.naver.com/mnews/article/056/0012251619",
+        "title": "배 아파 남의 집 보일러실 앞에서 대변 본 50대…벌금 300만원",
+        "link": "https://n.news.naver.com/mnews/article/009/0005730785",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘실종 허위 종결’ 경찰관 파면 촉구·국가배상 소송 예고",
-        "link": "https://n.news.naver.com/mnews/article/056/0012251322",
+        "title": "버스서 보고, 내리면 뒤 졸졸…석달간 15세 스토킹 '집유'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014170937",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'별이 빛나는 밤' 펼쳐진다…오늘 여의도서 한화 불꽃축제",
-        "link": "https://n.news.naver.com/mnews/article/001/0016291486",
+        "title": "\"강풍특보\" 이틀간 부산서 '2명 부상'…안전 조치는 28건",
+        "link": "https://n.news.naver.com/mnews/article/003/0014171225",
         "source": "네이버 뉴스"
       },
       {
-        "title": "주유소 갔다가 '날벼락'…직원 실수에 車 180대 정비소행",
-        "link": "https://n.news.naver.com/mnews/article/015/0005329005",
+        "title": "1억9천만원 빌려 갚지 않고 \"친구가 도와줬다\" 발뺌…30대 구속",
+        "link": "https://n.news.naver.com/mnews/article/001/0016291472",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-05 11:56"
+  "updated": "2026-09-05 14:59"
 }
