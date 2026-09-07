@@ -2,59 +2,64 @@
   "categories": {
     "IT": [
       {
-        "title": "메가존클라우드, 한미약품 품질보증 AI 에이전트 구축 착수",
-        "link": "https://n.news.naver.com/mnews/article/215/0001265097",
+        "title": "\"AGI 시대 열어\" 아스트라, 호평 속 '섬뜩한 대목' 뭐길래",
+        "link": "https://n.news.naver.com/mnews/article/437/0000509955",
         "source": "네이버 뉴스"
       },
       {
-        "title": "첫 법정기념일 된 '기술개발인의 날'…45만 기술인 기렸다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016294999",
+        "title": "네이버웹툰, 연재 끝난 작가 차기작까지 돕는다…97명 코칭 지원",
+        "link": "https://n.news.naver.com/mnews/article/119/0003129916",
         "source": "네이버 뉴스"
       },
       {
-        "title": "10월 12일 DNS 암호키 변경…“신규 키 없으면 인터넷 접속 장애”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001190861",
+        "title": "‘3954만 계정 유출’ 티빙, 오늘부터 보상 신청…탈퇴 회원도 대상",
+        "link": "https://n.news.naver.com/mnews/article/029/0003046508",
         "source": "네이버 뉴스"
       },
       {
-        "title": "개인정보·규제·해킹 전문가 모은 티빙…정보보호 자문위 꾸린다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009153959",
+        "title": "한미약품, 4000종 품질문서 AI로 학습…문서업무 자동화",
+        "link": "https://n.news.naver.com/mnews/article/011/0004659246",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“AGI가 왔다”…아스트라 띄운 젠슨 황",
-        "link": "https://n.news.naver.com/mnews/article/011/0004659378",
+        "title": "애플 참전에 급성장…폴더블폰 누적 1억대 팔린다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004659443",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"환율·반도체 강세\"…삼전닉스, 금리인상 우려에도 '껑충' - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vTnlDbDEwREYySTVzUEhQLV9nMUpPYjJqWEhvOHVyY2NGQnFMbGJKV1RFaXFvTlJEX0FWcVZ3c2ViR0ZfeHhGU0tmbEZTWDJib3EzQVFTSUN4WTZZU1AxZ2kwNkN4Mlda0gFuQVVfeXFMTnFLVG1lQmNrT2xsY2hoUFZPWkVLNmZ4Z2FlYkJvM3BnR3h0cXFjM2hhY1BaaUN1bGNMU2h3c3lVWDZmdmdxdVA5RnhFRXBkMGtnc1lfd2JoVkR5M3l5WXlqbWh5dTkyVHRKaHlRbUE?oc=5",
+        "title": "코스피 7천 선 근접‥아스트라로 메모리 반도체 상승 시동 걸렸나 - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQlZieXFLR2g2WFUteUh1d3F6czNPbXNVcXluY0VreW1IV0tLRnhQNkxPbFJ6eXROZnI5dHBwbEZ3X085QlV5QTNWRXh2ZnVWcjJ5QjlmeF9fTDZsaGszVjFPLXJ4NEJaYTZCRWdYcjQ5R3M5MjJPRdIBeEFVX3lxTE55ZDZwS1RZaVhpcUU3WjB4MDNUaVNRbTJNZC1teU1HdXpDWllLQW1GOUd3QWxwdS0xQ2lFeHItYUVuX1dheHBKeEFFWTR1ZWJ1UmlWT2h0YTdSLWxPSWFZWmdGTDZFdXFVWHZVYTRmSDBSWHU0dkJZWg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[단독] 398억 쏟은 군시설…반도체 클러스터에 ‘공중분해’ 위기 - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94VXhzQVJlbzhabTdGc2k5Y0hBQ04xLXI4Qktkc1hfT3VIaEhNYllHbGN0Ri13eTVDRlRsbmlmdXdUQ3d6cVdyNEVOZzgwWVpBdW5FMUtB?oc=5",
+        "title": "억대 성과급 삼성 반도체 ‘월세 지원 70만원’ 부정 수급 의혹에 시끌 - chosun.com",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVENrTDkwYWNoMWZDWkd1cVFoVV9ObUZ1UkNmbWcwdjQ5RmxPZkd1WWdYc2daRlE0bGVORXlTT3Zfc2VKaFRmWGswX0lHM0lxSkwyYWNud2FhdzZQSUdYVFlSdFhGTVI3VHktSXAyUUNKcG91VEpFbkNtYVkzejFPOFRjSVNtdlFoN2RSNWRhWQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "오픈AI가 띄운 반도체…코스피 다시 7,000선 눈앞 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWU0zVWgyQnhKT2RiRllCdUY0OGxCNFVMdjdSQmJKSzJWLWRIZHVNcWNaWm5yOFRuNlBuSG03Mk9mVTlLN3ZnOUJnQ1FvbW1uYkpjejAzWTYteHYzT1poaDhqTm9MRjg?oc=5",
+        "title": "\"한국 경제 '빛 좋은 개살구'\"…반도체 호황 뒤 숨은 위험은 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DM25DZlNCTE5LOWE4MDJkX1c3ZHJjejRGcERmbUhnNnVlR0lBYkI2STlDUHlyOFpSVnlraHFrR0tOMGotTlZWWENPNmlfSHZyaUt2aUpvZllmQjlQUUp6YdIBeEFVX3lxTE8xaGFEVzAxN08xbXktRTJ2Zko1ajNqUnJpb2dYbVg4U3NvcV9XMDh6b1drMGl5LTM3V3luN01JNHdQZEhVMFRmOU42VW51bFRfMEotODNoanNQempaVWk3SllwZ09fV1FiVkNGU3o1akM2dU53SV9Dbw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"역시 믿을 건 반도체?\" 코스피 3% 급등...美금리인상 우려에도 쑥 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3RjU3SkNvYWJqcmNJMDZIbGxQM1N0NFI5TDNtMXNXTDdzZ2dRaUN3YURtRVducDFyWS04XzBDdjZpQU52THlXblJpWGJtWlJaWDJmMnRaT05HdzNtZVNpWWpuTmtPelBI0gFuQVVfeXFMUGQtd0tYV01zYU53QmFUOVQ4QmdfS1gzeFlLTWd1a21QVklweHdYQndXaTlkZEZsQWhjRFFfX2FxNWlERDVxYU9sbzUzY3EtSXpPYldQa3BLSDJHTEYxdXJYSFZHdEVXUlJIVk1WQ3c?oc=5",
+        "title": "美 대중 반도체 수출규제 '구멍'…\"동남아 데이터 센터로 우회\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSktjOV9VWDBLOF96SkE5VHJuYzl4V3B0bG53a25BMndMb3ZMX3BBMzV6RmUzb0JRZzB4d3JKLUQwMGNNa29VNjlOcEpUUUlwSWRXTWVqS0R4ZlXSAWBBVV95cUxQc29WTW1XcG1nZE1NVEVLWXJiNEZjMndSSEJvdEt4cURpcnI3ZXpMMkJvbmZQVHFlWUpha0ZrTkIyRDgzMkRkc09MdDd0R2Z3Yjl0X3FqaTRaTWRZNUJoNzA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[특징주] 반도체 훈풍에 관련 '소부장주' 급등 마감(종합) - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80RmhVMHdPUEZvengxZ2RkMUNsMVJLaGhlWWxkakU4b0J5Q29nTjNJaDNUZW9UVlRJRk1kTW9rTzVCOE5KQXh5T0VreER3Y2JNazNQMkF3bVc0Z3PSAWBBVV95cUxOaUdsUWdaR3BkS05jaEtsaWdYZFItUDhnV1QxUlB0MVF5U1JtZ2ZYckIxR1FPZFVWanM3cXJHblF3ekx2dGY2UjJzcnJVRUR5UkZ6SE5qODJiM2taR2l3Sm0?oc=5",
+        "title": "삼성, 하반기 신입 공채…반도체 인력 채용 늘릴 듯 - donga.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNLXY3MlhTYWRVZTJMR2ZVUnNsVTRlQnpLR3BTRXVXMnlaVDd1STVBc1hYZngxYzBDdU5xTGJ6bDRpTm94Yk90dTZqbzF1OHVYRFY5bG50RldqMVhaUy1sM1Z3bHU4VE5UNlV0ZmUzaWVRSmpxenfSAWZBVV95cUxPYjlmZzFfNmE2Z0pnaHhHYVQxNVFoU0NQSDk5UmR3ZF9tUTl5eWR4VjlHS2R3TnBmVHZudi1tVXdTSzFjUHkyYjRMVTEwbnhsY1BWQXZzWjc3elJIYmIwaWtqWHlUZWc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "일상으로 들어온 인공지능(AI)… 부산시, '2026 부산 AI 페스티벌' 개최 - pinenews.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kd0N0OGYyd0xOU2dsdGRGS0dfdDU0Qzd5SFlhTUN1a0Z1S3ZmVVpzaVdYVzEzdlYtUVNlVmtrMDRYZ0NfVEU0?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "한국지능정보사회진흥원 조직개편…AI정부 실행력 높인다 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSkV5eTFMQmxXcnRLLXlPMkI5ZzU1aWl3SFNRVzM3X2J1Sm5aalJTUFdRYlozQTYyYUVFSVBsN2Zuc1RRckE3ZF9FUjlnVmZYVkVycUtrRkptczFHX2d3ddIBYEFVX3lxTE1KSkV5eTFMQmxXcnRLLXlPMkI5ZzU1aWl3SFNRVzM3X2J1Sm5aalJTUFdRYlozQTYyYUVFSVBsN2Zuc1RRckE3ZF9FUjlnVmZYVkVycUtrRkptczFHX2d3dQ?oc=5",
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "김포새일센터, '인공지능（AI） 활용 스마트 사무원 과정' 개강 - newszoom.kr",
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFek0xV0FFRXdqS1FmYTFySzFUaVpVNllId1JnUVJidzdVVGU2OWlqWG9heDR1dlBTMHVacTBrQzF5VjVt?oc=5",
+        "title": "'수능 만점' 아스트라의 등장‥\"범용인공지능(AGI) 도래했다\" - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kcHZCTExWS2pOWlc2LUdqX2VFbjFySXlYcTBUOEtYQTV4dnNGbkVETGc0X2hUNWZFYUhjQVlidUNta1d1a0hHeGo3ZHVIWXZPM3FGQ2RQc0hORHhjX2RJMWdrODJiSnRocHF2RmczcEl1NTE5T1dIS9IBeEFVX3lxTE5OV0xoLWp3dDJaQVRTT3RjOXlQeDY4MkNweWhhVGtCZGtBeU85Ukd2aExuaV9sQnFvVXAxRmx1OHJYUXlIUFlHWW9qb2VOczBoYzVwNFFzSmZKTUlmX0x3MUNURUhLYVlRWVhnMDliV2VISVZGRFU5WQ?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "[칼럼] AI 공유부(富), 인공지능 시대의 부를 어떻게 나눌 것인가 - 케이에스피뉴스",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZMzlIZkRfLVBuLXdsS2poc05jRDNVUVg5MnpRR00tYk1FZWZWa0JYTjdORWFJZFZNSXpGdlVrY2NramxRV3JpdmE2R3hlbnp2aHc?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "[AI프리즘] AI가 영화 제작비 낮췄지만…'해외 플랫폼 의존' 숙제 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOV9NNG9QbVhycm5naE9tX2dJa2FuRE9Xc1Vtd0VqeS0wb0RIanZNSWxsclN3blgyRGozOWxLenBtcDBoNlVrM3FtRU16QkU?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "국힘, 전재수 부산시장 고발… “돔구장 검토·협의 발언은 허위”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003997097",
+        "title": "레바논 전통공연단, 천년고도 경주 찾아",
+        "link": "https://n.news.naver.com/mnews/article/014/0005571795",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우성빈 기장군수 “소유자 매도 의사 확인 없이 죽도 계약”…감사 청구",
-        "link": "https://n.news.naver.com/mnews/article/005/0001871377",
+        "title": "\"빈소도 없이 홀로 떠나\"…'안녕 피터팬' 전경철 작가 별세",
+        "link": "https://n.news.naver.com/mnews/article/031/0001055833",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'수원 마약영상' 30대 압색 안 한 경찰…뒤늦게 필로폰 발견",
-        "link": "https://n.news.naver.com/mnews/article/057/0001967734",
+        "title": "국힘 부산시당, 전재수 시장 ‘허위사실 공표’ 고발",
+        "link": "https://n.news.naver.com/mnews/article/016/0002693948",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수사 1년 만에… 13개 비위 의혹 김병기 ‘뒷북’ 구속영장",
-        "link": "https://n.news.naver.com/mnews/article/022/0004157081",
+        "title": "군산시 “군산항에 이어 새만금 신항으로 군산의 다음 100년을 열겠다”",
+        "link": "https://n.news.naver.com/mnews/article/002/0002455342",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"종교적으로 세뇌\"…검찰, '여신도 성폭행' 혐의 JMS 정명석에 징역 27년 구형",
-        "link": "https://n.news.naver.com/mnews/article/277/0005812935",
+        "title": "선관위 특검 출범…'투표지 부족' 등 12개 의혹 겨냥",
+        "link": "https://n.news.naver.com/mnews/article/448/0000637782",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-07 11:54"
+  "updated": "2026-09-07 17:30"
 }
