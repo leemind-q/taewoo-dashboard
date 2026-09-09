@@ -2,59 +2,64 @@
   "categories": {
     "IT": [
       {
-        "title": "\"AI·반도체·양자 협력 강화\" 과기정통부, 프랑스와 양해각서",
-        "link": "https://n.news.naver.com/mnews/article/469/0000953169",
+        "title": "현대홈쇼핑 분할 심사 본격화…방미통위 “자금·납품대금 지급능력 살펴야”",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240826",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 90년 난제 풀었다…AI가 수학사를 다시 썼나[전문가 진단]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006366205",
+        "title": "AIDC특별법, 남용 막을 ‘핀셋’ 시행령 시험대…기후부와 공조는 ‘숙제’ [종합]",
+        "link": "https://n.news.naver.com/mnews/article/138/0002240842",
         "source": "네이버 뉴스"
       },
       {
-        "title": "애플 '터너스 시대' 첫 아이폰…2나노·AI 품은 '아이폰18 프로' 공개(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0009161535",
+        "title": "애플, 내일 새 아이폰 발표…첫 폴더블폰 출시할지 관심",
+        "link": "https://n.news.naver.com/mnews/article/056/0012253993",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오 강남 자율차, 1만 3000㎞ 달려",
-        "link": "https://n.news.naver.com/mnews/article/022/0004157861",
+        "title": "SKB 노조, DC사업 분사에 성장재원·구성원 보호 요구",
+        "link": "https://n.news.naver.com/mnews/article/022/0004157779",
         "source": "네이버 뉴스"
       },
       {
-        "title": "불법스팸 방지 소홀하면 과징금…매출액 최대 6%까지 부과",
-        "link": "https://n.news.naver.com/mnews/article/079/0004187760",
+        "title": "‘인식·판단 AI통합’ 연내 도입… 자율주행차 ‘레벨4’ 시동 건다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003678756",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체 호황에 기업 매출 27% 급증…수익성·재무건전성도 개선 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81MzBzQ2JIenc0b3NTQW1NZnh4RW84UTRxSmc2UFdRblpKanJnZTVybTJlV2NXd3R1UGpRcGw1VVRZNFZ2TnpnbHY5WFBKRW0zWnc?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "삼전닉스, 장 초반 강보합…美 반도체 훈풍에도 유가 급등 부담 - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbnBJX1BDV1g0R3RrVGNxVldIT3oyRldGakZod1pzdmlvd19sUUlWTUQzdjdoSlZrNTRwRllQNUlqWnVjbWpLZUgyNjl4SGItX1g3YUZoMjhyUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "내구성-전력효율 UP… K반도체기판도 치고 나간다 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PMlREbWcybGZ6RnFsRVpFcHYtdTltRlpFNXVDQjZzTFd2dFpsYTVuQk4zS3c1dW1qTWJmemdKdzVRQnExaGZ5VnNma0MwVWhTQ0Z3YjZyRC1iX29pUUJmVXJmX1R0VUREVGp4Y01uc2ZOc1dNZ2fSAWZBVV95cUxPRy1paDRXRk9YU0xYcGt1dXlSdlR2ajVpV19UV28tMV9CZUQyTHUzaGxVd0puMF9wZVFnSlJINVpIUDZQcURoVldLRHpKUzBsNE9KYUdneWljdVdpYVU1czNKajFtQlE?oc=5",
+        "title": "[마켓뷰] 중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YZVBpTW9fdmtONmdxejlNd0tVUU8wZWEwU0V3ZDdEcjBSRWs1T1pxVFZ6WWRzX2hLSFNBODZ4UHpWNTFzRnpKRXNET3FkY00?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "무라타, AI 반도체용 전력기판 'iPaS' 내년 양산 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZX3RCMThQNklaajI3RzJLTHJRaWJ3WFlXUmUzLWxSRGFSRmpPWkdITVRiX2h2RUtUQW40ZlBKZlQzY0RRT1FNT094S3V3RjlWWEoxT3RRRnZJTGZYWWdUdVNCVEhYdw?oc=5",
+        "title": "[마켓뷰] 중동 불안에도 반도체 훈풍…'7천피' 탈환 재시도하나 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qbWgtaDMtSDdBUlpjUVFzeVZXWTZ2dFptWVdEc1B0VjRwNGdwcmhmNGdacmI0Wlg4NGVjX2VIcWg0cUQ5QzZoT1NROW1DMnI2ZmtoTzF1Ukk5WVnSAWBBVV95cUxOWmxaWndWMElUMlNFS0s0eVJxMElGOWhCVFZZWmdnV2NqRWIyMmVHQ2FERXE2eTEzYlJiVzMzbmhIUG9pbWJWQ0RKVHJJOWx1SUNQZHNFb2JtSWNsX3hRVWE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "첨단 반도체·패키징 산업 한자리에 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6TG5BTktaTHAydkY4Si1tNGtZWmU5dFVQa0N1ejhqcGtNR0F4Yzg0MTdUMEgxcmdMUjhmQmkwcUJ1TEJOelFMVTMya1Y0YWdLelN6Nm5iUmR0OWdHQkZabGdtTXA5RXBKYTJTUFVjcw?oc=5",
+        "title": "[마켓뷰] 중동 불안 vs 반도체 훈풍…'7천피' 지켜낼까 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GREtCZ1I5eVZLbk8xQ1BrTHFUZ1FkYnhWZlc1VURnTTZVM251eEJqa2FzNkdNaEJjbFhWRG5FQzFSdmtFMEJXNzNUZ29CalZwU0E?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"메모리, 반도체산업의 왕…전체 매출의 50~55% 차지\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYzg3ZjBrZWJNSmxkWmZlYnFYeVozYVpqRDZPNmQ5cktIOUNkeWlLdWVqQ3hmb2tSRUxGelhXOGNYX20zYjhlZXVlQ3dnMHNJZFExQkY3bDNWS0XSAWBBVV95cUxNQktEUFhjUE84OVRmMGtiSVFDd1pXekhvOE80bU9sOHZYNFYzbk1BUzJUNVQ2bEFZNktadWFfcjlfM0N5MFZac1l6VGFTVFhmQ2lyQ3NDNjFFQ3NXY1Ywb0Y?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "AI(인공지능)가 서울의 일상을 바꾼다… SLW 2026 개막 - pinenews.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Hd0oyMVpVTUZJelg1UzFLTTNsZ25LR1FBREJvYVpjdXVMNm5rTlNjaUFUMjhvcHhzTFQwUDREalpYc3dDbElz?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "“내년 인공지능전공 신설… 사람 중심 AI 교육으로 경쟁력 키울 것” - 동아일보",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93WGFaRUZzbTJuWWxwdGc4dkM3eko0dlA1ZGlkLTZ0bFFKaU1LTFZlYXZha3dGUkpVNEJLLVh2T2czX3ZoM29kQnFDb1haYTg5VlE3Z0ZTUmR5d2tsR1haWWwzM2pWTzBiU2h0dWVtYUVJVVBDQ0HSAWZBVV95cUxNNzNOSndjV0FTMXl0bXdXVTk3R19CUWVwLVhaZ3ZrdElKN3R4dk16Q1VTa1MwdFBTOGxaaEJkVElmeERwQkpwX1hwUkNCTGFteF9SNFlwQmJhWjdEOEg5OE5HOXBrNFE?oc=5",
@@ -71,43 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI가 10년 내 모두 죽일 수도” 앤트로픽 연구원 퇴사하며 경고 - 한겨레",
+        "title": "“AI가 10년 내 모두 죽일 수도” 앤트로픽 연구원 퇴사하며 경고 - hani.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajBRRWx3S0JmQUtjblVLamxXRUo3cm5NaVo0VERMUENad19xT3ZkT0MwQTB2MEVHMWxwd0xONm53ZVhlSHdjWWlWOHdzR2hPR2VOSzQ1N2hqV3JQRmRBemF0bmNPUXhodmJEZXBzeUFEWERYVy1xU2xYTEU5SXZQYU53?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "청소년의 가능성과 AI가 만났을 때! '청소년 인공지능 페스티벌' 현장 - 서울시청",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85UTlGNmc1ZG9odDRwaXR3LUQydkFQelhDd3hZX1dwQVQzdkZhMEYxbTdlS2JEQVF3WVI0Y3NQUFFxOXFwekRnVnNRRUJfRDdWVkV1TVloVDU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"입 근질거려 못 참겠다\"…30대 직장인 로또 1등 인증글",
-        "link": "https://n.news.naver.com/mnews/article/057/0001968155",
+        "title": "‘수원 마약영상’ 30대 남성 오늘 구속심사",
+        "link": "https://n.news.naver.com/mnews/article/056/0012254115",
         "source": "네이버 뉴스"
       },
       {
-        "title": "파업 기로 놓인 서울 시내버스 첫 조정 평행선…노조 “주말 협의 제안”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003678630",
+        "title": "내란 3개월 전 이미‥대검에 '기소유예' 보고",
+        "link": "https://n.news.naver.com/mnews/article/214/0001522833",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울대 총장 예비후보 4명 압축…유홍림 현 총장 연임 좌절",
-        "link": "https://n.news.naver.com/mnews/article/025/0003550270",
+        "title": "\"베스트셀러 순위 올리려고\"⋯본인 도서 1600권 사재기한 작가·출판사 대표",
+        "link": "https://n.news.naver.com/mnews/article/031/0001056863",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제주경찰, 실종수사팀 9명으로 확대…야간 2인 근무체계 구축",
-        "link": "https://n.news.naver.com/mnews/article/011/0004660130",
+        "title": "20대 만취 음주 운전 적발하고도 다시 운전해 귀가시킨 경찰",
+        "link": "https://n.news.naver.com/mnews/article/421/0009161263",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"배우자에 2조5,500억 원 줘야\"... 스마일게이트 권혁빈, 이혼 재산 분할 역대 최대",
-        "link": "https://n.news.naver.com/mnews/article/469/0000953141",
+        "title": "검찰, '실종 허위종결' 이틀째 압수수색…메신저 대화 확보",
+        "link": "https://n.news.naver.com/mnews/article/422/0000904486",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-09 21:51"
+  "updated": "2026-09-09 23:53"
 }
