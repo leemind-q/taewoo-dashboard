@@ -2,35 +2,40 @@
   "categories": {
     "IT": [
       {
-        "title": "아이폰 18 프로, 오늘 밤 9시 사전예약…최고가 399만원",
-        "link": "https://n.news.naver.com/mnews/article/018/0006368029",
+        "title": "앤스로픽, 후티 반군 클로드로 유도 무기 개발 시도 의심",
+        "link": "https://n.news.naver.com/mnews/article/014/0005574672",
         "source": "네이버 뉴스"
       },
       {
-        "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016306170",
+        "title": "“아이폰18 품절 걱정 끝”…원하는 모델 재고 알려주는 ‘알리미’ 나왔다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006368269",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"10년 안에 인류 멸종할 수도\"…AI 개발자들의 소름돋는 경고",
-        "link": "https://n.news.naver.com/mnews/article/018/0006367849",
+        "title": "LCK 결승 코앞서 미끄러진 T1…페이커 \"월즈서 더 좋은 경기력\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016306067",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘조언자’ 넘어 ‘공격 지휘자’ 된 AI… 무기 설계, 바이러스 변이 연구까지",
-        "link": "https://n.news.naver.com/mnews/article/023/0003998004",
+        "title": "SOOP, '블리즈컨2026' 현장 생중계...스케줄은",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437200",
         "source": "네이버 뉴스"
       },
       {
-        "title": "PC방·테마파크·방탈출까지…무한 확장 '메이플' IP",
-        "link": "https://n.news.naver.com/mnews/article/018/0006367817",
+        "title": "\"로블록스 게임개발, 유튜브 초창기와 유사…AI창작시대 열릴것\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016305896",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"전공 안 봅니다\" 반도체 공장 채용문 늘린다…역대급 인재 가뭄에 난리 난 대만 취업 시장[대만칩통신] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNkQ3a2JtZkNIR05mWndPWlNweURveld2S3Rhb1pwUGR0Z3NRMHFMN2VZY0J2dnlCTzlPb0JuUEp6VXNFTnZPMnk1T1Q4TG8?oc=5",
+        "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZcEN2WE9RUHVhX1Z4WU5UdkkyQ2Ywai0zRDd0QkVJdHc0eE1SanM0VXk2dGJpM2Jjb3EwM29iQkpuTTZtdV83T2VyTmktRl83YUJGcWs0N1hHcknSAWBBVV95cUxQQXFJbHdNeTdHd3MzNzVleWd4UElqaVYySmhXeU4yVTllZVF0MTVFXzFIWFBiaVpmVTU0aGNCNjZWODh6REV4b2hrbnRxTW9UcjVndjNNU2NWYTlldFA0ZHQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "샌디스크, 한국 엔지니어 채용…낸드로 번진 반도체 인재 쟁탈전 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWjBxa2pXeDZvbWVPMU1sS2ZvdkNQVmxudWN6WUhuTW41R0NxY1NrUkVjZy13bEZVRE94eVo5eHkwUjdwUWJvN29Vc3BsUzh4RlE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,30 +44,25 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 ETF에도 급이란 게 있습니다…HBM 넘어 613% 오른 낸드株 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acjZiVGlMRnZXNjFMb25oV19TV1p2TkFUQzNyVGY5QVNmREQxcndnSUd2ei1QbmFyRzM3TS1fdy1qM3drQk5DNjlldkh0SDVWQmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "김윤 국회의원, 정부에 ‘이천 반도체클러스터’ 지정 요청 - 기호일보",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fVkUybnROcTVGeGNPX3dnSjVtQW1YNkJsazFtajktM0swN0RBdUZYOFVheVJ5WHBTZ2RaNWU4YkplaGl6NUctSjJhYzJwLWxpTlM3OW1LWVBtUllKN0w5dTJIa2hHNXVfQUFfU0dFOA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“달에 반도체 공장 건설 농담 아냐“…’일본 정부 뒷배’ 라피더스 - yonhapnewstv.co.kr",
+        "title": "“달에 반도체 공장 건설 농담 아냐“…’일본 정부 뒷배’ 라피더스 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vc2VBNHdKSV9WcXREXy1sSUE5UV9XakF2aE9GZW9RWWFSYnliVXpPR1R3UDluMFRMWDFId0IyRXd0MkFHSnVPM0h4ODFvWTNqSm9rQjVZcWRPSzlWZGFlaG1WdzRvclk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "강서구, '휴먼케어 인공지능(AI) 로봇 경연대회' 성료 - 뉴스21 통신",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0YlZnOWdKRWRGb0pMMDNrSjBod0RCZ3UzUWlDWTRaUEZvTlIyYm9yMXUtUEJBOEFvN1k1ZmVDZjVZU295WnJFUnVnMzlOQWxNTWZEVV93?oc=5",
+        "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3ai12NDdOenBIYmdrbVJEbWNleGxPSW9ubEdRdWt6T2pMNURScWF1YWs1UE9KSkVGb3BzbENCeWIwZm9nY3B4THJSYnl4SHB1T1JQR2czYkVrcHfSAWBBVV95cUxNNWc0VU9ITHotcVhNeDM2UUtZLWM1SER3clNUTFVpaHV4R1R5clZEYXlTTmRrYWR4ckcxQWg5ZWsydnBwQl93cXVzRGZqNTgyMDFWaHl1eEZ5WkwyTEhUMlA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "필즈상 수상 25인, AI 수학 풀이에…‘인간 지적 활동’ 위협 우려 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDJBZHFRZm02aUhacjRra0RNVkVYZHhfaDlmYTFqVnBhR2VpZzRHNnBEQ0U0OWN0cUxveEdBV21lb3EwbFZCekpwSW40WTNZamVMWC0xUlhXYTd2cFBoTEtKX2JDeDQ3WlVnbzY2a09KdHdscTZGcmV5WG1sbnFDdjdB?oc=5",
+        "title": "강서구, '휴먼케어 인공지능(AI) 로봇 경연대회' 성료 - 뉴스21 통신",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0YlZnOWdKRWRGb0pMMDNrSjBod0RCZ3UzUWlDWTRaUEZvTlIyYm9yMXUtUEJBOEFvN1k1ZmVDZjVZU295WnJFUnVnMzlOQWxNTWZEVV93?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"AI, 10년 안에 인류 파멸할 수도\"…업계 안팎서 우려 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zQUZpNTU4eU5ENFNFdGc5TGNJTjZHVkY2d0JZV3daYXZrVEl4aFg1VTNkWl9Gc0sxTV9YdnNuT3hnUlpHVGIwUkRsclpTMVBIMEdTN3poNm81UXFqeVRBatIBYEFVX3lxTE1zQUZpNTU4eU5ENFNFdGc5TGNJTjZHVkY2d0JZV3daYXZrVEl4aFg1VTNkWl9Gc0sxTV9YdnNuT3hnUlpHVGIwUkRsclpTMVBIMEdTN3poNm81UXFqeVRBag?oc=5",
+        "title": "로봇 아닙니다 다 뚫렸다… '이젠 사람 검증 시대?' - CBC뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nc1o5Q2U5WUtkeDVEOHRnVmNKaWlXdVpDS1hRZ1FmMVBibU5CckFzRkw2ZzlIVlVpLVJkRGF0dzdCV21QNnJQSFF2MzYtcVN1TUVTdjJ0ZXAzOVdRWjZhYTQ5Sy1yYmxa?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "안양시, 행안부 '인공 지능(AI) 침수 탐지' 실증 지원…박형배 안전예방정책실장 현장 방문 > 뉴스 - 더코리아",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycEF5dFpVVS1JdnYzc2dTdUdLNmRvd3k0Nk1wME1aX01SeFJaOXY4aEF1TVB1eTJuNS1ESmNJLWFhaWxxNFVPUVA5RVhVSHZ0ZDN6NVBJTUNrdnkyMXJvSDRtbHE2dlAyMXl5TnE5WG4?oc=5",
+        "title": "인공지능: 오픈AI, ‘90년간 수학 난제, 88시간 만에 풀어’ - bbc.com",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTmhJRHB1N1M1Rmc4bVBvbHFaeTZqcUdVNi1uMHM4b3VwUElPOEtNTGZoanpOZnFjd2E1VnNhUld2TmhkNFA5aml1S1lCMmhCRHVaM0NfcTdhRlJqVzc4dTJn0gFiQVVfeXFMTlFOaElEcHU3UzVGZzhtUG9scVp5NmpxR1U2LW4wczhvdXBQSU84S01MZmhqek5mcWN3YTVWc2FSV3ZOaGQ0UDlqaXVLWUIyaEJEdVozQ19xN2FGUmpXNzh1Mmc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "오늘 아침 예년보다 쌀쌀... 주말 일교차 크다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003997939",
+        "title": "‘호르무즈 파병’에 갈라진 여론…거리로 나온 참전 반대 단체들",
+        "link": "https://n.news.naver.com/mnews/article/009/0005734247",
         "source": "네이버 뉴스"
       },
       {
-        "title": "데이트 비용, 남자는 평균 14만5800원…여자는?",
-        "link": "https://n.news.naver.com/mnews/article/020/0003747619",
+        "title": "제1241회 로또 1등 18명…당첨금 각 16억2839만원씩",
+        "link": "https://n.news.naver.com/mnews/article/654/0000200136",
         "source": "네이버 뉴스"
       },
       {
-        "title": "진도 해상서 일가족 4명 물에 빠져…어머니·아들 사망",
-        "link": "https://n.news.naver.com/mnews/article/055/0001387808",
+        "title": "경남 농·어민 \"CPTPP 가입 추진 철회해야\"…차량·해상 시위",
+        "link": "https://n.news.naver.com/mnews/article/003/0014186093",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박지원 \"순천대 의대후보 선정 무효화 요구에 민형배 시장 완강\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016305897",
+        "title": "남자는 데이트 한 번에 '14만원'…여성은 얼마 쓰나 봤더니",
+        "link": "https://n.news.naver.com/mnews/article/015/0005331608",
         "source": "네이버 뉴스"
       },
       {
-        "title": "독감 환자 작년보다 3.8배…질병청, 오는 21일부터 예방접종",
-        "link": "https://n.news.naver.com/mnews/article/374/0000532482",
+        "title": "해경, 서해 북방한계선 불법조업 중국어선 1척 나포",
+        "link": "https://n.news.naver.com/mnews/article/052/0002406076",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-12 19:33"
+  "updated": "2026-09-12 21:59"
 }
