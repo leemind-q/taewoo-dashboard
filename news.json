@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "젠지, 한화생명에 3대1 역전승… LCK 2연패·통산 7회 우승",
-        "link": "https://n.news.naver.com/mnews/article/366/0001192060",
+        "title": "KT, 세계 최대 미디어 전시회 IBC 2026 참가…엠로직과 칩셋 공급망 구축 MOU",
+        "link": "https://n.news.naver.com/mnews/article/366/0001191995",
         "source": "네이버 뉴스"
       },
       {
-        "title": "난제 푼 AI에 “수학의 목표인 통찰 거슬러”…허준이 등 필즈상 25인 공동서한",
-        "link": "https://n.news.naver.com/mnews/article/020/0003747679",
+        "title": "KT \"'모두의 AI'로 검색·쇼핑·공공 연결…국산 AI 5종 최적 활용\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0001057827",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"정말 오래 기다렸다\"…스타크래프트 신작 2030년 출시",
-        "link": "https://n.news.naver.com/mnews/article/015/0005331623",
+        "title": "삼성전자, 초중생 7만명 대상 '갤럭시 AI 클래스' 모집",
+        "link": "https://n.news.naver.com/mnews/article/014/0005574853",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 초·중생 대상 '갤럭시 AI 클래스' 2학기 모집",
-        "link": "https://n.news.naver.com/mnews/article/001/0016306443",
+        "title": "KOSA·메가존클라우드, 도쿄서 국내 AI·SW 기업 일본 진출 지원",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437254",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아이폰 18 프로 오늘 사전예약…최고 399만원, 통신 3사 혜택 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/448/0000638953",
+        "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\"",
+        "link": "https://n.news.naver.com/mnews/article/469/0000953663",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "“반도체 같이 하자” 최태원 제안에…일본 키옥시아가 거절한 이유는? [잇슈 머니] - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT3VOOGZBNzRsUnJOZFZodmNhaExKNU9fZk40a2Vla3pNOVBEeGdxZEtGQ1pzR2ctck1BVGcxd3ozbzJBZ1lSOFNsRGYxSVU0T3AxU0haNjdIYmc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "'간첩죄 확대' 본격 시행…\"반도체 기술 유출 막기엔 역부족\" 지적도 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XeVBqZGFJRTV2RzNFbWQ4OEpPTHBqcy1wT0o2cnVRdmNrOUZYT1ViZlBxS3J6SldJckhNYS0tS3ZCZFR6SmxHMXRtdVhvVHM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "조용호 “반도체 소부장·R&D 거점 도시 만들 것” - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcURCbEZGcW5LMEgzSXhwd3pjaFZWMzBqX0xQRk5UNWMwNkNqUTNyMXBCTlZRU2RDdnBFODVyNUZtbzFUQWxpd0pzSk5fd0hzSGfSAVNBVV95cUxPbFhxa1VjTXp4WGhRLWVkbWxGRUN5dFM0Z2V6Q1V4STZyRVI2RjBNcHYteUxWbGNPMzdwQnIyRm53ZmttYmx0aWIzRGZKZDV3aDAyUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 호황에 올해 韓경제 3.5% 성장\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VN2plU256Z2stWi1kWW5Qb2czbzB3SHJ4N1c5RVhBazY0SFJoUXR3RHY0WTJfamRFNlFyT3NlVWdFdTNyVWtLWFkxQUw3ZE0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황에 韓 OECD 선행지수 `세계 1위`…상승폭은 축소 - 국제신문",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0t2VHlYbzVFMUR5TmtSZDRiazBiVHZ4U3JwQTFCdFczcHY4S0MzcDRtelhnWVNUaFhfR3Q4Ql9iS0lOTEx2aXBkUlpmX3hZR3BFQW00M09xejhRSXZVM1hUdEJndjNWQ1kwdy03NFZBQURCaVRSVkZhQ2Y5LV9pa1VKRkVVeTI5MzlBZkhB?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "집안으로 들어온 인공지능…삼성전자, AI가전으로 중남미 공략 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56X2pYX0tZM01GekNVZ1VLS0JrTTF5Vm56YjNlT2hFck5fSVVjanNRdjZrZy1PcDlMWHhLQVljcHlFbUVsX1ZWZjZVc21RTzRpcWxvUUtFemNtR1lPcWhCMdIBYEFVX3lxTE56X2pYX0tZM01GekNVZ1VLS0JrTTF5Vm56YjNlT2hFck5fSVVjanNRdjZrZy1PcDlMWHhLQVljcHlFbUVsX1ZWZjZVc21RTzRpcWxvUUtFemNtR1lPcWhCMQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "집안으로 들어온 인공지능…삼성전자, AI가전으로 중남미 공략 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oMXFtWDNOd1JBWDh6a3Rad1FMbDcwQmljNk5oNEMyd2l4cnU2b2xGbEZFdGwxbnk5OXFBMkxhVnhtMmlWZDNWZHRZb2NyN1E?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머스크, 이례적 한뜻 - hani.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rb2RPanRJblA4SWpXbXkxMS1JQV9SWEtiSHdPTGI5MGdJMlhDVlFEaXdOLXQwMDdtMmNnaVJhZDJWMHBlSlYtbThYaWxWMElJa0ZSdzNkNDNHRWxVZmJpb1I5ZXNYUWxGbklmVTRiVQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "‘인공지능 전환’ 시대, 미디어는 어떻게 살아남을까? - 단비뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xWWtGSkgyQjhJSXpaU3ljMlJFT3oxRTFMckVOc0JYcExBRkhXMlh2YXJCb2oxTnNkZGNfaGdqWXBwMnhkMUdFMVhtODRnUWdvbHNPUjZ4TVNqOVR3dGFUUTlZWlFpX2kxUW5B?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…울트먼·머스크도 동의 - DongA Science",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82WEhnbW5ybFNSUUZxaUdpSkx6eTFVWEZiN1V2bDdZVUNyOGJSZ1ZRX1pJd2Z5cWhGazdMWW0xbm5iQ2hGQVZZU3hsTHdYaU04bDlHSQ?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "광주 아파트 비상계단서 실탄 14발 발견…경찰 \"경위 조사\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000639069",
+        "title": "'신군부 5인' 마지막 생존자 정호용 사망…5·18사죄는 없었다(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016307598",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“먼저 낸 사람만 바보”…수시 접수 마감 10분전 먹통 후폭풍",
-        "link": "https://n.news.naver.com/mnews/article/025/0003550992",
+        "title": "피멍‧혈중 캡사이신에도 두 번 ‘혐의없음’ 44개월 여아 사망건…수심위 열릴까",
+        "link": "https://n.news.naver.com/mnews/article/025/0003551005",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'손님 위장' 성매매 여성 상대 강도짓 10·20대 일당 실형",
-        "link": "https://n.news.naver.com/mnews/article/001/0016306447",
+        "title": "태안해경, 해루질 고립 20대 2명 구조",
+        "link": "https://n.news.naver.com/mnews/article/003/0014186916",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 中투자자 상대 2600억원대 ISDS 승소…배상책임 '0원'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005815559",
+        "title": "뇌출혈 직원에 “일할 사람 없으니 복직해” 결국 사망…법원 “업무상 재해”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003679700",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] MBC 차기 사장 최종 후보에 이성주·전동건… 13일 최종 면접",
-        "link": "https://n.news.naver.com/mnews/article/082/0001397980",
+        "title": "中 투자자, 한국 정부 상대 ISDS 사건 패소 뒤 취소 신청… 다시 패소",
+        "link": "https://n.news.naver.com/mnews/article/366/0001192035",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-13 09:40"
+  "updated": "2026-09-13 14:10"
 }
