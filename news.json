@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "KT, 세계 최대 미디어 전시회 IBC 2026 참가…엠로직과 칩셋 공급망 구축 MOU",
-        "link": "https://n.news.naver.com/mnews/article/366/0001191995",
+        "title": "필즈상 수상 25인, AI 수학 풀이에…‘인간 지적 활동’ 위협 우려",
+        "link": "https://n.news.naver.com/mnews/article/028/0002822765",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT \"'모두의 AI'로 검색·쇼핑·공공 연결…국산 AI 5종 최적 활용\"",
-        "link": "https://n.news.naver.com/mnews/article/031/0001057827",
+        "title": "3년 만에 돌아온 블리즈컨…‘스타크래프트’ 신작 공개되나",
+        "link": "https://n.news.naver.com/mnews/article/022/0004158480",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성전자, 초중생 7만명 대상 '갤럭시 AI 클래스' 모집",
-        "link": "https://n.news.naver.com/mnews/article/014/0005574853",
+        "title": "쓰던 앱에 AI 버튼 ‘쏙’…KT, 6000만 접점 공략",
+        "link": "https://n.news.naver.com/mnews/article/009/0005734367",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KOSA·메가존클라우드, 도쿄서 국내 AI·SW 기업 일본 진출 지원",
-        "link": "https://n.news.naver.com/mnews/article/092/0002437254",
+        "title": "'2연속 LCK 왕좌' 젠지 \"올해 월드챔피언십 꼭 우승하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016307482",
         "source": "네이버 뉴스"
       },
       {
-        "title": "허준이 등 필즈상 수상자 25명 \"수학 난제 푸는 AI, 학계에 해 끼쳐\"",
-        "link": "https://n.news.naver.com/mnews/article/469/0000953663",
+        "title": "삼성전자, 초·중생 대상 '갤럭시 AI 클래스' 2학기 모집",
+        "link": "https://n.news.naver.com/mnews/article/001/0016306443",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "“반도체 같이 하자” 최태원 제안에…일본 키옥시아가 거절한 이유는? [잇슈 머니] - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT3VOOGZBNzRsUnJOZFZodmNhaExKNU9fZk40a2Vla3pNOVBEeGdxZEtGQ1pzR2ctck1BVGcxd3ozbzJBZ1lSOFNsRGYxSVU0T3AxU0haNjdIYmc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "원화값 15% 뛰자 삼전닉스 이익 전망 21조 줄어...‘반도체 달러’의 역설 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GclNQOGJuVG43Z09SUFdwTkV5ckdKck9kMi16THlzdlU5TXlweHVSZ0hlYzFlU1hhdTE5NEFmaUNWNHhJMHVTLUUzc1VFRjA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZcEN2WE9RUHVhX1Z4WU5UdkkyQ2Ywai0zRDd0QkVJdHc0eE1SanM0VXk2dGJpM2Jjb3EwM29iQkpuTTZtdV83T2VyTmktRl83YUJGcWs0N1hHcknSAWBBVV95cUxQQXFJbHdNeTdHd3MzNzVleWd4UElqaVYySmhXeU4yVTllZVF0MTVFXzFIWFBiaVpmVTU0aGNCNjZWODh6REV4b2hrbnRxTW9UcjVndjNNU2NWYTlldFA0ZHQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[기획] 원·달러 1200원대 ‘아른’… 수출첨병 반도체·車, 한치앞 ‘캄캄’ - dt.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLdURGQUllWDhBQXpzZlktM1ZRYnJZY001dFNIajRWamxjdVJmdmJKbUtzZkdLbXJhSjk2dVdrb09RSmlCdWlNcU83LXptUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "2027 수시, 반도체 솟구치고 서울 의대 꺾였다 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3hsQ2Nub3FvNXNlRlN0WUhYQjR2YzB3YVUxY1F1WU1sVmIybHBtVkVCYVQwUVh2b1d6VGZzR3hJZkQtUDZLY3prRlBHOUdQWi1tSUNoZDNNRC1zc0R0RXZRZi1XMkw3dHhicy1QUFpZWm5hbHE3d2ZmNmpaa2NLbDltWi01OUU?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "집안으로 들어온 인공지능…삼성전자, AI가전으로 중남미 공략 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyOHEzMjBTN3VKU1FHWVFHRmdKRUFSb09Ra3VlTGxlMGxyV1FRQ3VjeWxyZ01tM2RCNTcwQTNzOG0tQTYtemRXSHNxM050VXdjWThpZkFzR3NEbW_SAWBBVV95cUxOel9qWF9LWTNNRnpDVWdVS0tCa00xeVZuemIzZU9oRXJOX0lVY2pzUXY2a2ctT3A5TFh4S0FZY3B5RW1FbF9WVmY2VXNtUU80aXFsb1FLRXpjbUdZT3FoQjE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "오바마 \"AI 통제 못하면 위험\"…민주당에 대응 촉구 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dlhGZDVQMzRmX3hIRTBmMmhUV1RrYWZadkl5elZJRS15aHJfTnN0NUMtOTV2UW9pNzdrMFl5MmtnaWtqS3JzekRBTDBtLTA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“AI 고성능화, 지금 속도는 위험하다”…머스크·올트먼·아모데이의 ‘경고’ - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WkxhbDl3MzhRcGtsSXN1R1g2U3dJenhEQkxBc0doaVJ5Y2E5dTg2dXllcjdsaENaU1dvYU1aSUFCeXFTRk04Z1FHUFUwTkZhSmYweG5CaTRJamp4dUIzWmY1WkVrV3g2bzVhaDJMMA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 '브레이크' - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zQlRjMnRHbFpFa3FIR0FiT3FEWWVhT3ZMbVJ3bEozUGtyQXVuZ2RxczZjeFN5VVZPVVhvT2NLNEZfTnJrWmRBeFNsTGExdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "‘인공지능 전환’ 시대, 미디어는 어떻게 살아남을까? - 단비뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xWWtGSkgyQjhJSXpaU3ljMlJFT3oxRTFMckVOc0JYcExBRkhXMlh2YXJCb2oxTnNkZGNfaGdqWXBwMnhkMUdFMVhtODRnUWdvbHNPUjZ4TVNqOVR3dGFUUTlZWlFpX2kxUW5B?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "'신군부 5인' 마지막 생존자 정호용 사망…5·18사죄는 없었다(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016307598",
+        "title": "\"시스템 장애로 원서접수 완료 못한 학생 최대 1천200여명\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001387940",
         "source": "네이버 뉴스"
       },
       {
-        "title": "피멍‧혈중 캡사이신에도 두 번 ‘혐의없음’ 44개월 여아 사망건…수심위 열릴까",
-        "link": "https://n.news.naver.com/mnews/article/025/0003551005",
+        "title": "만 3세 혈액에서 나온 충격적 물질…그런데도 \"학대 아냐\" 사건 종결 [자막뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/055/0001387920",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태안해경, 해루질 고립 20대 2명 구조",
-        "link": "https://n.news.naver.com/mnews/article/003/0014186916",
+        "title": "충청 지자체, 스타벅스 상품권 수억 원 소비",
+        "link": "https://n.news.naver.com/mnews/article/656/0000186690",
         "source": "네이버 뉴스"
       },
       {
-        "title": "뇌출혈 직원에 “일할 사람 없으니 복직해” 결국 사망…법원 “업무상 재해”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003679700",
+        "title": "해수욕장서 초등생 3명 한꺼번에 빠졌다…2명 심정지서 가까스로 회복",
+        "link": "https://n.news.naver.com/mnews/article/666/0000123201",
         "source": "네이버 뉴스"
       },
       {
-        "title": "中 투자자, 한국 정부 상대 ISDS 사건 패소 뒤 취소 신청… 다시 패소",
-        "link": "https://n.news.naver.com/mnews/article/366/0001192035",
+        "title": "부안 아파트서 불…40대 어머니 사망·7세 아들 중상(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016306352",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-13 14:10"
+  "updated": "2026-09-13 17:33"
 }
