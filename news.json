@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오 임팩트재단, ‘기후테크 스타트업 서밋’서 ‘한국기후위크’ 출범",
-        "link": "https://n.news.naver.com/mnews/article/009/0005734748",
+        "title": "구혁채 과기차관, 런던 핵융합 정상회의 참석…5년 내 상용화 다자체계 구축 논의",
+        "link": "https://n.news.naver.com/mnews/article/003/0014189719",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한컴, AI 워크포스 플랫폼 '노마디안' 발표…내년 美 시장 도전",
-        "link": "https://n.news.naver.com/mnews/article/421/0009167917",
+        "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
+        "link": "https://n.news.naver.com/mnews/article/001/0016310271",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'미르2'로 10년 싸우더니 최대주주로…킹넷, 위메이드 인수 합류",
-        "link": "https://n.news.naver.com/mnews/article/003/0014187365",
+        "title": "한컴 \"세계 최초 AI 워크포스 플랫폼 ‘노마디안’ 연내 선봬\"",
+        "link": "https://n.news.naver.com/mnews/article/029/0003047840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "韓, 영국·미국 등 9개국과 핵융합 상용화 협력",
-        "link": "https://n.news.naver.com/mnews/article/119/0003132597",
+        "title": "카카오임팩트-소풍벤처스, ‘한국기후위크’ 출범 선언…내년 9월 첫 개최",
+        "link": "https://n.news.naver.com/mnews/article/092/0002437315",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 美서 ‘K-글로벌’ 개최… 31개 AI스타트업 글로벌 진출 지원",
-        "link": "https://n.news.naver.com/mnews/article/018/0006369162",
+        "title": "韓 AI ‘세계 3위’ 인증…NIPA, AA·엔비디아와 협력 확대",
+        "link": "https://n.news.naver.com/mnews/article/018/0006369216",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "믿었던 HBM 마저…중국이 다 쫓아왔다 [中반도체 공습] - 중앙일보",
+        "title": "中 반도체 공장, 장비 3대 중 1대 '메이드 인 차이나' - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GOGNQSllTTEl0REdXbm1fdDA4aGViTHk2RVN6RUVUcWwtN1B1REFoclVhOUQtMUI2MVFvaWl6UHlMZUk4dnk5a0lPa2M1QQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "믿었던 HBM 마저…중국이 다 쫓아왔다 [中반도체 공습] - joongang.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQ09SMzZRLXVYR2RvLWNnLWY0cnRvLVR6SEk3NHB0TEw3OEtMY2J2X2RUdll0Ym5uZkZIOXVHSEFvR0h5dVVBaDZXT2VPbS0xcWppMEN3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI가 바꾼 반도체 판…메모리 비중 사상 첫 과반 [AI칩 인사이드] - MTN 머니투데이방송",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLSUUxeXpOdjdtT3ZZSWd3M0hrT0VxdWtWVG5tSzFTUXRDNXlibEdzbUU2eEtxWTFUSTVRd2pkWW9LSms1VEhSSk0wSmw2UUt3RFQ3VkxfbVlzZU4yZVVkRkdlR3Y?oc=5",
+        "title": "[뉴욕증시] 금리 인상 우려에 하락…반도체 급락 속 'SOXL' 17% 폭락 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IaVNVZzZIbTRsNkVtUnFsTk0yTENqR3hkWFduR2p5bTMtOGlkZW85TFB2OHR5ZkdlamdncWhhWVlRNkVEWDlvUW9KT2RQUVU?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "3년 만에 점유율 10배 '쑥'…\"中 반도체 무서운 추격, 삼전닉스 안심 못 해\" - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sancxRnp4RHNaXzRMMGdVOFF5SUF2VzZ3Uk9MWDRXMHBMb2NYcDNnenhnZFVDRzF3dkR0azZCN2ZHc3N6ZmlBcG1JaXRCVTktQVlKc0FINnBwa2Z1QWJPUNIBeEFVX3lxTE11S1FvM2w0SEdlSjgtYVVyXy1CbEFpc0JsZzktQ2E2VFlfdVBiN3VBdHprZWhBOU45OGRTYlJlX3hUcjRYTExtTzhkRldPWlBmTW9QcjFSSjNkZU44UHpxSGRRUWJnWVFDa2lvZGVCc1Jma0FpdmV0Vw?oc=5",
+        "title": "AI 속도조절론에 반도체지수 5.9% ↓...사우디 송유관 폐쇄에 국제유가 상승 [데일리국제금융] - sedaily.com",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdUNnSzg3bkdPTDcxalRheEdaaXNUcUhNV2wtaXpxVENmU2RoX2pBY180S18zSTZrOEwwMHZTaDVIdXRBbWRYV3R5WFRuTDBOV2fSAVNBVV95cUxPR0RvSE5TcVozNGdmMmtnd2N6eFczeFA0ZC1YNVNIemNBQ1ZuWHB5UE1HMXk4cnV3RU1iLXpsejNGSlRGN3RPWWhvbXlwYl95bUVnSQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 붐에 반도체·SSD 수출 폭증…8월 ICT 수출 역대 최대 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkNlMUo0Z2dkd0tuN21xcGhIR3JvUmlDMHJZcnBoY2tyNDkyWDRHc0xDWnphNTM3SV9fQXdvRG1TUk1xajdfM0J3RVZrN0NqOVpqLTItelRYaENfUlE5MGc0YTlGemNxUTZiOGpOOGxGVDlhRkxxeE9mall0S0RXQlJ6Zw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[지방정가 라운지] 고성석 “반도체 육성·전남 의료공백 해소 동시 추진해야” - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5ZHNvNy1FZFVHZkc0QkNZZTZCNVlWQ1pyYUJCdzE0NWRZdWpmMUdMY3ZlYWZZUVFEWHlJMm1JcWZHdFAybkNEOGV4WW5aTDg?oc=5",
+        "title": "반도체 호황에 법인세 수입 200조 돌파…‘한은 마통’도 절반 줄었다 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIQ1dWNFU3bGZnY0plNFp1QVJNUnI1bkE0SWl3SktRbHlGVkl5OFpGVnF3WTVMbHpuYV8zaVEtS0ViUDk0V3Vlc3E0Sk95eTM0OUs4Y3BVSzczNWdFZHlYaEZLOVY5UFZGMHBhYUJaTVhOeUk?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경남교육청 \"인공지능(AI)과 함께 연구하는 교사, 교실 변화 이끈다\" - 경남도민일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mdUZtMDZLMnU3WEFramdJM2FrN2lZRERtVGhNSXFDdmgtbUxTV21nb2k1TVlaa3VFTnlHVk5USkRvVkZqeWVpZHVUNjdBaHlkYlh0dmluRkh1SW5ybXhLamJkWTg1QXA4YkE?oc=5",
+        "title": "제조·과학·금융 세분화한 ‘깊은 지식’…LG AI연구원 ‘전문가 인공지능’ 공개 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUHk4a2lWalFKb0hjTmpERXphNlZpYVJEU3Y2WHkzWDh0TWgxZHdaU1dGXzdDWXBtYzVQcW5lX200Q1E1ajBMY0t0dzdtRDVBYkRQLXFpRHNYZ9IBX0FVX3lxTFA3TEdHN1Q3UGZXRWtrN3BnLU5PUHNxdkJBUUREZF9WMXlBWHRiUlNsVk9keDhFcXBSc0pheVM3eVM3MXh4MGowdGtLTktMTl90cnpqTzFPUE5HdWlTZWtN?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "제조·과학·금융 세분화한 ‘깊은 지식’…LG AI연구원 ‘전문가 인공지능’ 공개 - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUHk4a2lWalFKb0hjTmpERXphNlZpYVJEU3Y2WHkzWDh0TWgxZHdaU1dGXzdDWXBtYzVQcW5lX200Q1E1ajBMY0t0dzdtRDVBYkRQLXFpRHNYZ9IBX0FVX3lxTFA3TEdHN1Q3UGZXRWtrN3BnLU5PUHNxdkJBUUREZF9WMXlBWHRiUlNsVk9keDhFcXBSc0pheVM3eVM3MXh4MGowdGtLTktMTl90cnpqTzFPUE5HdWlTZWtN?oc=5",
+        "title": "인공지능: 앤트로픽 전 연구원, BBC에 '전문가들, 인류의 미래 진심으로 두려워해' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTkRMWFRvZ0NfYVd6Z2NlbDQwZXRiYkNhV1I0VWVlUGdreFVidjVsUnhzdi15bTg5T2cwRWpzSWRMYi0yR0NpYXVxY2I4SDdmQy1YQVZXUDEySm4y0gFiQVVfeXFMTlRHQTM5dzZIdUo1QjJOVzdoRUFtaUtVSUNfd0ZFeFl6R25MV2Q0VXRjVGVRc3NHVlVXbGRESjZBdmNmYzlPMFhneGlHTXBOcWVCYk42MU9XRnB1R1JMaW5hQkE?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "최교진 교육장관 \"대입 원서접수 시스템 직접 관리 적극 검토\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016309566",
+        "title": "서울 시내버스 16일 멈추나…협상 평행선에 재파업 기로",
+        "link": "https://n.news.naver.com/mnews/article/417/0001158261",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"누가 총 쐈다\" 7층 유리창에 구멍…사건의 전말",
-        "link": "https://n.news.naver.com/mnews/article/055/0001388151",
+        "title": "추미애, 산후조리비 지원 사업 종료에 “불가피한 선택”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005734560",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북도, '공항 중심 5대 메가 관광권' 2곳 선정…초광역 관광 거점 구축",
-        "link": "https://n.news.naver.com/mnews/article/008/0005413247",
+        "title": "교육부, 원서 접수 시스템 전면 점검...최교진 \"직접 관리 검토\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002406920",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김성수 대법관 후보 \"증여세 납부 절차 진행 중...송구하다\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005575378",
+        "title": "‘등록금 0원’ 기대감…지방 국립대 수시 지원자 12.6% 늘어",
+        "link": "https://n.news.naver.com/mnews/article/032/0003470123",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경북대, 수시 지원자·경쟁률 2년 연속 거점국립대 1위",
-        "link": "https://n.news.naver.com/mnews/article/088/0001028384",
+        "title": "‘장윤기 사건’ 경찰관들 첫 공판…“고의성 없었다”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012256851",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-14 18:08"
+  "updated": "2026-09-14 21:57"
 }
