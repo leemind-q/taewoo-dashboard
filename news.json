@@ -2,45 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "피지컬 AI 키우고 싶어도…\"기술 시험할 현장이 부족하다\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009172114",
+        "title": "카카오게임즈, 글로벌 캐주얼 게임 기업 미투온 인수(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016312546",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국형 발사체 누리호, 내달 7일 5차 발사",
-        "link": "https://n.news.naver.com/mnews/article/009/0005735663",
+        "title": "김봉균 대표 “5년내 1GW AIDC 공급할 것”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004662119",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아이폰18 출시 앞두고 ‘요금 25% 추가 할인’ 허위 정보 확산",
-        "link": "https://n.news.naver.com/mnews/article/366/0001192572",
+        "title": "누리호 내달 5차 발사, 초소형위성 5기 궤도에 뿌린다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003748264",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, AI앱 '카나나' 내달 종료…카카오톡 메인 AI로 역량 결집",
-        "link": "https://n.news.naver.com/mnews/article/003/0014191790",
+        "title": "\"오늘부터 휴대폰 요금 25% 할인\" 온라인서 퍼진 소식…사실은",
+        "link": "https://n.news.naver.com/mnews/article/088/0001028668",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오게임즈, 미투온 980억원에 인수…캐주얼 게임 강화",
-        "link": "https://n.news.naver.com/mnews/article/374/0000533063",
+        "title": "마이크론 대만노조, 창사 최대 보상안 거부 \"영업익 15% 달라\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0001058709",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "“중국이 한국산 안 사도 되는 게 위험”…K소부장 경고음 [中반도체 공습] - 중앙일보",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVXVyTkpFNkdQdzlhQjQwQzdqQ3BadmFWY3JQU2N5MDhlaVBBbzdXUDd6VzlfSVkwdFA0ODN1LTZwZ2FQc2NHcE5JSE9VQS1BWHE3TzVn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "美반도체 급락에도…삼전·닉스, 장 초반 보합권 등락 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByLWRORE1oMFc5WFhwdTZoelhiQi15cWVjdzdIYjhtREtSSGt5d3ZpZnYtZ1FfRkNqRlBqZnFnQWJlR3IwdklvTVhlNnlhc2hMbWJWaEhSNEFTNm9rOHJORdIBeEFVX3lxTE9iOU52RVVoR09IemJISnEtRGt2S2REejVMTFpMamdVaHhWVWJmYUltZG5SVzFWbTZ0RFJhMDRTOXhpSTAxb2xUeHdaM1U5M29XeTBrbW40TWJoT25Gam9Xc3FKdDFEZElLcUVieHZ4ZVBFS3VDaW9UNA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LN3FQdXphdUlZa19CdTFJSkdsQjZnaTlUZnpqSHhVenJsbzZqY2dkY2NEVWZBcVJtaVBfVmQ4OFBaeUJDdW9LSmI5SHFmRGc?oc=5",
+        "title": "믿었던 HBM 마저…중국이 다 쫓아왔다 [中반도체 공습] - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQ09SMzZRLXVYR2RvLWNnLWY0cnRvLVR6SEk3NHB0TEw3OEtMY2J2X2RUdll0Ym5uZkZIOXVHSEFvR0h5dVVBaDZXT2VPbS0xcWppMEN3?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,8 +39,18 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[지지대] 사과 한 알과 반도체 호황 사이 ‘K’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HMkQ2cU9ETE9GR2FHMExKUnhXWEdlVXVTbFpIYjVSODZ2Si1JaGxVSnluS2RQU3hCMjAxT1UyMjFmOVY0X0k5LW5LZlNXT1U?oc=5",
+        "title": "[이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면? - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LN3FQdXphdUlZa19CdTFJSkdsQjZnaTlUZnpqSHhVenJsbzZqY2dkY2NEVWZBcVJtaVBfVmQ4OFBaeUJDdW9LSmI5SHFmRGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美지수 밀려도 반도체 반등…외국인 '삼전·하닉' 1.3조 매도 멈출까 - 녹색경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mdmpvaHR6VmRfTWxjX2hOMmVrc3VxSEkzU3pZTjFSYlZ6c3YxSS1wdnlQalZHQUZGNnNiTDZqeFFvQmV2SGhfSHFQQzd5OWJIdXN6U3NFQm1vVGYyUlRJd00zZ1NfTHdL?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "뉴욕증시 ‘금리ㆍ유가 덫’… 반도체 폭락은 일단 멈췄다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIV2FvVXpjUzZLWDIxdlU1NFFaM0ktN21KakFnUGlBYmJnNzJYQ2dEUnVOWkVZaW91eHp5ZU5DZEYzazc5X0ZTdElzMk03OTg?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI픽] \"스마트폰 다음은 AI글래스\"…산학연 70여곳 뭉쳤다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HcTYzTzJRc0cxUEk1bTJQNE1GZ2thMWpzOWhnb0syWW1mRjlITDNyNWk1SFFYdkdWMXJWY05fanpiV3I0Nnc?oc=5",
+        "title": "[사설] AI시대 지역격차, 충청권 재설계에 달렸다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KdUZ3eWRMVXpSdmdQWkZsNGE1aEtHVFpxSmF0YjN4MEhlNDh0VDdqRVJkNnVuNDlxaHVTUUxmWDNSb19YeUlfZmJWT3JMcm8?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "포항시, 인공지능산업 육성 기본계획 수립 착수…AI 선도도시 도약 본격화 - 시사뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KLXp3VU4tTjM5cWZWWXVxSTBSenNrMXEtSWtmcUl3bWcxU1gzUkJZTVlUUmtvb0dMNWtrM2ZXZC00RC03UWVZX2p0dHd2S1J3NkFNQ3F0R3JxOU5jdXo3R3l2bw?oc=5",
+        "title": "오픈AI, “앤트로픽·구글과 AI 안전 문제 이미 협력 중” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdGtnREczRjRmNXdSRmpTMW1HdVNqa1ZBb0NvTFBGeGZLcHByekJ1RlpyenV1RmhlNHl5U0xFYUVISVkxMDRyXzBXYi1la0IzQlFJZG5ydUVTU1pnUERlemJZakt1YUU0OHY3NXZfRQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "여수시, AI 행정 대전환 위한 종합계획 마련 본격화 - 여수넷통뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EbXBJSEotU2k1UTFzazVLWGpNQTU4Z1NWeWlNbVVJN1JPMEZMNWxIWmFodV8ybFo0b0RXMkp4ckJtM01OTFd5VXhPSjh1OHNpSUpqdWppcmNWWVdUUDFEektWRWZvYXFfWkE?oc=5",
+        "title": "앤트로픽 CEO \"자동차처럼 모두를 위한 AI 안전표준 세워야\" - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FXzQwVUg5b215UUgxLWtPczRiLXNGb0tKWnpLZEFwbE9oWXMzbW1SaDZ0M0pxNUVJQjM2SXFFbUg4OUwxeVJ3a0hWZkFFemlsV3N5Q2NtQzlVeFdwak1IYWJGRkhnbUQzVzE5VTgzSGs1X3FW?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능: 앤트로픽 전 연구원, BBC에 '전문가들, 인류의 미래 진심으로 두려워해' - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTkRMWFRvZ0NfYVd6Z2NlbDQwZXRiYkNhV1I0VWVlUGdreFVidjVsUnhzdi15bTg5T2cwRWpzSWRMYi0yR0NpYXVxY2I4SDdmQy1YQVZXUDEySm4y0gFiQVVfeXFMTlRHQTM5dzZIdUo1QjJOVzdoRUFtaUtVSUNfd0ZFeFl6R25MV2Q0VXRjVGVRc3NHVlVXbGRESjZBdmNmYzlPMFhneGlHTXBOcWVCYk42MU9XRnB1R1JMaW5hQkE?oc=5",
+        "title": "[인공지능 줌인] 안전성과 시장 전략 사이...AI 선두 기업들의 ‘속도 조절론’에 쏠리는 시선 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OWGV3blV3elpBZEZrREI3TjBSWFYzNXdnbUdVRkpXMHplT2ViUl9OVDR5RUJwcHlhbG1xdUhzWHZGVlVQMS0xNzBxcU0yemppWGx3N0Y0cHpnSWhHMVVRek43Xy11RDliaXE4eHZSN2I?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "최태원, “김희영에 1000억” 주장 노소영 측 불기소에 항고… “허위 사실”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001192368",
+        "title": "노조 요구 다 들어주면 버스기사 연봉 8500...그래서 서울버스 또 멈춘다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005735773",
         "source": "네이버 뉴스"
       },
       {
-        "title": "충남 논산 축사에서 소 4마리 탈출...3마리 포획",
-        "link": "https://n.news.naver.com/mnews/article/052/0002407411",
+        "title": "정부, '52시간 적용 제외' 등 메가특구 노동특례 사회적 대화 제안",
+        "link": "https://n.news.naver.com/mnews/article/079/0004189455",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“재정 비상 선포하더니, 관사에 혈세 12억”…시민단체, 추미애 경기지사 고발",
-        "link": "https://n.news.naver.com/mnews/article/009/0005735407",
+        "title": "'졸업하면 대기업'...삼전·하닉·현대차 계약학과에 수험생 우르르",
+        "link": "https://n.news.naver.com/mnews/article/374/0000532943",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교육부 “경쟁률 공개후 원서 접수, 불공정 의심 땐 접수 취소 검토”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003551669",
+        "title": "\"치아 깨졌다\" 돌까지 준비해서…2천만 원 뜯었다",
+        "link": "https://n.news.naver.com/mnews/article/055/0001388590",
         "source": "네이버 뉴스"
       },
       {
-        "title": "밥 먹다 갑자기 \"악!\"…돌 씹었다며 \"뭘 줘야 가지\"",
-        "link": "https://n.news.naver.com/mnews/article/437/0000511246",
+        "title": "교육부 \"수시 경쟁률 공개 후 접수 원서 취소 검토\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014192779",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-15 19:09"
+  "updated": "2026-09-15 22:23"
 }
