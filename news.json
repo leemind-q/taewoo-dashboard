@@ -2,40 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "노벨상 수상자 3인, 서울서 AI 시대 과학의 미래 논의",
-        "link": "https://n.news.naver.com/mnews/article/277/0005818819",
+        "title": "韓 게임 향해 장관은 “뿌듯하다” 위원장은 “불효자가 효자 됐다”",
+        "link": "https://n.news.naver.com/mnews/article/005/0001874146",
         "source": "네이버 뉴스"
       },
       {
-        "title": "TSG에 韓 서브컬처 태풍 분다…넥슨·NC·스마게 부스 '인산인해'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009180142",
+        "title": "노벨상 석학들 \"AI가 과학 가속해도 인간 역할은 그대로\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016324419",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'피지컬 AI' 국제표준화, ETRI가 주도...핵심 의장단 진출",
-        "link": "https://n.news.naver.com/mnews/article/030/0003468491",
+        "title": "추석 연휴 영상통화 무료…지도앱서는 응급진료·무료주차장 한눈에",
+        "link": "https://n.news.naver.com/mnews/article/003/0014202331",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG CNS '수학적최적화' 대회 대상은 일본팀…주제 뭐였길래",
-        "link": "https://n.news.naver.com/mnews/article/079/0004191275",
+        "title": "김형태 \"흥행 공식 안 통하는 시대…유저에 도전하는 게임 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009181403",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'의약품 합성 분자구조 손쉽게 한다' 합성 조절법 개발",
-        "link": "https://n.news.naver.com/mnews/article/014/0005578351",
+        "title": "한국전기연구원, 10월 누리호 5차 발사 통해 국산 부품 우주환경 실증",
+        "link": "https://n.news.naver.com/mnews/article/088/0001029535",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "다시 오르는 반도체…특별배당 받으려면 삼성전자 28일까지 매수해야 - 세계일보",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xYUd6LW5WOEdfdEFxQXNRYVNCOFZvTjl5SEJUWG1JVHBqb0F2OXhHUjV3bnFwMkUza3V1WXpoQUhqWVpIQWhpZWJlaTZaWW43ZC1wRkRfM2nSAVRBVV95cUxONFdicmIzdWZHak90ZEVfSWd6MEJaTDJjS3B0cERscGhOTGdISzZiLWl1bTlpSUVYeHNsMDVscFpWWkhEa0lNM2JUZTFwSEJDV1BsbFg?oc=5",
+        "title": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥] - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42LWhZY09HcGVNWmNaZ0JKMmtQTlZzX21KNUt2eE52V19lU1JKb29idVZMTHdYQ2pJVVgxNWRKcXVrTEZqZElfcVh4WWtLd2N4MkE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥] - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42LWhZY09HcGVNWmNaZ0JKMmtQTlZzX21KNUt2eE52V19lU1JKb29idVZMTHdYQ2pJVVgxNWRKcXVrTEZqZElfcVh4WWtLd2N4MkE?oc=5",
+        "title": "정부, 반도체 사업장 27곳 집중 점검… 위반사항 338건 적발 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sbUNDczJmSmdvdk1aYWxQOW5Sb1MxSGhOaGpJM21HMTh4S21jUFlPS09oeWtWLWstMTk0RjI3bnl4bVF2ZTBwdkt0YWQ4ZnZ0c2pCd3BLWXZfc3c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 제조업 산안법 338건 위반…하이닉스 청주 28건 사법처리 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqRlYtVmZZUVR0eERFNWt0QUt5UU1vZ0NGY3hNekRybEo4dFQ2UkZlbFdwOElVQ2pwN29GMURVQ1JfSkJxWWlWZkNaWFphLUdmQ3pTWkdFbWVRcWV4VnBvN0JoYUtsNlBsVFBr0gFwQVVfeXFMUE9tUGduQ2YwZ2U4RDA0RnhnUE5uOHpkNE5zSGd3MERFbkUzTXg5M1E3S3JoaUwwY2lGTDlvWnJLSzhfbl9ubDk5Q282XzBMblRVdWV6cTB0SmZmNG0wMF9qTmdpd2dfSE1pdXdRMU42Sg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,13 +49,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 제조업 일자리 8년새 15% 늘었지만‥신규채용은 22%↓ - imnews.imbc.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBT2RYOGJNQWQ4Y2FmWVFUZW5JQVo0YU1yOHowZGJHczJOYnRLTFBBeTNENmhSMFAxYTAzLTVtQnIxNkFNNTFpZjQtT0RSb0M1bThqNVNqR0JVajEyU3YtcjFhYnRPNy1IUHlQN0RSYW5mNzdM0gF0QVVfeXFMT3NHQVl2N3RraHFFQmFuQ3NjV2N0YU00dmRuUUlKQXcyQk9JODRpM0hhXzZfeC1ybUdPSjY5bHNmaUpabUpBQ1JuSmtndkg1cjU0TUtndjk1TVkxSkRnSVhVWGdxd3RFTEg2RFFiR29KVG1lclE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 제조업 일자리 수 8년간 15% 늘었지만 신규채용은 22% 감소 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUxBVjVXcUhYTUVTam84U3VYeVdxSks1MW1nT1hudF9uQWpFNmFaaEw5TWZNN3FtcHcyMnBFUmFoSmhHQVJZVlA5NVVXTFdwWXZiV25nR040Y3gtck9mOVBVWEk2YU9xQjRBR3BWSW9hUEI4dlVtVlExc1Vrd1pZT2s5WEp3YVNlY0NENVh3?oc=5",
+        "title": "앰코, 광주 반도체 클러스터 투자 신호탄 쐈다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyY0VTTnpRYzlkdkxBbDRvUWxWOFBic0FxeXJVZWlDeHJlUzFYcHdJdnFkUG5mSlVLYy1vUTlzOWNSVTJsT0QwZUtDQ2dZV3c?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\" - aitimes.com",
+        "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\" - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5venBPZlVienZ2WEt4RXlxdXFOdjB3dHBXU0FGR2NxMjc5U2xrcEhGeTR6WEgxQXhOMzdqRUd2djlzTjFYRzJVekltaVhpeFBnVnBRNkRSMHktTlVwcEV3ZUNIZzZlM2tMWmc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프 \"인공지능 대신 최고지능 어떠냐\"…온라인 설문 부쳐 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UjZBYU5FektDNFgwZTVVOWRQNlVQODJQLXlkMFpQdEFrV2hhc1lCcFQxMzcwR1V3R3AzbUhjQ2FsQTFwVjNPMnphSWdsaW5XSkkydDFDT05JSE3SAWBBVV95cUxPUVloWEpIbUcyUERfcUdwV2w2bGVoYm9zbVowYkFrenItV3V6RG55S2t0czFtRHdINS1SUHJ5OUZkNDJwNVZQYi02U25tSFZEcU5MUU94WlVELUotUWdqejU?oc=5",
+        "title": "트럼프 \"'AI 군' 창설…인공지능 이름도 바꾸자\" - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iWVJlb1hlNXV4eWxiVmJscWl6VHhoOXVXYm9LdEJvNW5kV1VsQ19vSEtmWUREVVV0V3BuYnZBdlFBVUxmSENRVTFnNFNYUE5KNFRCdV9B?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI가 듣고 알아서 뚝딱...직접 '아스트라' 써보니 - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sbDEtQm9zYUR6OWhmRjNjTlRNbWRDWFlMcW1VeEcybEw3eWxPRVp4bGpqS1ZYYm9VcDBZUlpGZUR2M0o4ZTM4R3k0MUtHWlpNM3VYaDZXUTBPUHpLMWc?oc=5",
+        "title": "인천 부평고, 인공지능(AI)·로봇 체험으로 지역 학생과 배움 나눠 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3LUtkcnhCMjROUTNLclhZVDdNazBQaElvNC04clNtYThhQmJIbVpoNDdzSWhqbHBfZzRnVVdjUzdxNEJEN3Q5cGwzWkJyVlU2eGVGRG82UVJ3Z0E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“AI 속도조절을” “대놓고 담합하네?”…인공지능 기업들 고소 당했다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmTVUydHd6S241RzM4VHFIa05HSGxGMUVoSWg0LV9MOHZibWxmc1U0ZmFvR0s0UFFOX3k4TzdhWnVFcnFqS2lBR0ZPUTdKZGM?oc=5",
+        "title": "AI 위험? 비웃는 트럼프…“인공지능 부대 만들 것, 곧 차르 발표” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSV9JbHZSc0N1LU00YnVFX1dLc2tJR0hvWDNCZGdLNFlCbjJaXzNlWG1DR2NzX0MwZ2ZUSmI2OXNKYVgwMmJEdnUwWnBzdlpGQVBSM3hGZWJKMXJZUUktTDlfUEtDeG8yNEFjcXBjVQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘자원봉사자 7명 사상’ 안성 나눔장터 돌진 사고…경찰, ‘급발진’ 규명 나서",
-        "link": "https://n.news.naver.com/mnews/article/666/0000124219",
+        "title": "전통의상에 필로폰 숨겨 밀수…외국인 52명 검거",
+        "link": "https://n.news.naver.com/mnews/article/422/0000908034",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'불소 누출' SK하이닉스 청주공장, 산업안전 위반 119건 적발",
-        "link": "https://n.news.naver.com/mnews/article/052/0002409357",
+        "title": "안성 공원 플리마켓 행사장에 트럭 돌진 자원봉사 모자 숨져",
+        "link": "https://n.news.naver.com/mnews/article/005/0001874067",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국회 앞 모인 수험생·학부모…\"'수시 먹통' 6시 이후 원서 전면 취소하라\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014201351",
+        "title": "“청해부대 강화, 꼼수 파병”…李 진화에도 반발 시위 '격화'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006372909",
         "source": "네이버 뉴스"
       },
       {
-        "title": "노소영 美 20만불 밀반입·다이아 반지…‘안방 비자금’ 드디어 규명되나?",
-        "link": "https://n.news.naver.com/mnews/article/016/0002699865",
+        "title": "반도체 제조업서 법 위반 338건 적발…SK하이닉스가 3분의 1 차지",
+        "link": "https://n.news.naver.com/mnews/article/422/0000908075",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전통의상에 필로폰 숨겨 밀반입…외국인 일당 52명 검거",
-        "link": "https://n.news.naver.com/mnews/article/001/0016323702",
+        "title": "‘뺑소니 후 술타기 의혹’ 배우 이재룡 첫 공판 11월13일로 연기, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/016/0002699861",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-20 06:49"
+  "updated": "2026-09-20 12:05"
 }
