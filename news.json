@@ -2,61 +2,66 @@
   "categories": {
     "IT": [
       {
-        "title": "자라섬 떠난 'KT 보야지'...10주년 무대에 god·헤이즈·HYNN 뜬다",
-        "link": "https://n.news.naver.com/mnews/article/092/0002438147",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "노벨상 수상자 3인, 서울서 AI 시대 과학의 미래 논의",
         "link": "https://n.news.naver.com/mnews/article/277/0005818819",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“2주 걸리던 3D에셋, 3분 만에”… 도쿄게임쇼가 그린 게임 시장의 미래",
-        "link": "https://n.news.naver.com/mnews/article/023/0003999364",
+        "title": "TSG에 韓 서브컬처 태풍 분다…넥슨·NC·스마게 부스 '인산인해'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009180142",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"함께 늦추자면서 누가 먼저 멈추나\"…속도조절론에도 달리는 AI 경쟁[AI세계속으로]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005818673",
+        "title": "'피지컬 AI' 국제표준화, ETRI가 주도...핵심 의장단 진출",
+        "link": "https://n.news.naver.com/mnews/article/030/0003468491",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG CNS 주최 최적화 경진대회에 55개국 958개팀 참가",
-        "link": "https://n.news.naver.com/mnews/article/029/0003048934",
+        "title": "LG CNS '수학적최적화' 대회 대상은 일본팀…주제 뭐였길래",
+        "link": "https://n.news.naver.com/mnews/article/079/0004191275",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'의약품 합성 분자구조 손쉽게 한다' 합성 조절법 개발",
+        "link": "https://n.news.naver.com/mnews/article/014/0005578351",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독] 'SK하닉 470만원 간다' 외쳤던 애널…美 반도체리서치 업체 '법인장'으로 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJQmt3bTlSV09WMEdWLW94bnJ3bkF3bDF3MWoyOFNabVRNbWJGT0xjNk1zVnhDM3I5aldHUDBzR0w2RTRBSThwVG0yRVFyNlhFaWRMbHZhcGpmZVcyckFF0gFkQVVfeXFMTWVwU2cyOWtKR3hhb1piOC1Ta296RmljaHNDSGtqR1ZJQmRkbkx5ZWNZMnU1YlFNX0s3MmdJOVRDcTUtbUdVVmJKTGtrbzlCazdpOFU4X1VnTDNUcXdVUVZ6ZU1tMQ?oc=5",
+        "title": "다시 오르는 반도체…특별배당 받으려면 삼성전자 28일까지 매수해야 - 세계일보",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xYUd6LW5WOEdfdEFxQXNRYVNCOFZvTjl5SEJUWG1JVHBqb0F2OXhHUjV3bnFwMkUza3V1WXpoQUhqWVpIQWhpZWJlaTZaWW43ZC1wRkRfM2nSAVRBVV95cUxONFdicmIzdWZHak90ZEVfSWd6MEJaTDJjS3B0cERscGhOTGdISzZiLWl1bTlpSUVYeHNsMDVscFpWWkhEa0lNM2JUZTFwSEJDV1BsbFg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "SK하이닉스, '중국통' 부회장 전진 배치…中 현지 반도체 전략은 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5reHlxck9DVVR3SVlrVE5sc1Y2emlCREZfbzVkVHdRTjZzMTNpTGFITkFtZDhQWHVpUkVWVkYyRWhUZ1BldGlXdDlScjJrOXBwTTJBVVRaeVh2Q3BlTm5aUQ?oc=5",
+        "title": "“삼성전자 DDR5 외주물량 싹쓸이?”…나흘새 23% 뛴 SFA반도체 [이주의 Bull기둥] - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42LWhZY09HcGVNWmNaZ0JKMmtQTlZzX21KNUt2eE52V19lU1JKb29idVZMTHdYQ2pJVVgxNWRKcXVrTEZqZElfcVh4WWtLd2N4MkE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 우려에 흔들린 반도체…삼전·SK하닉, 추석 앞 반등 시험대[증시전망대] - dt.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjTTFRVmtmVWt2dTNPaGgzYkZlX1hfMG9zaGZsTmptNTkwMW43Nmpnem82eFdrNDFrQ0UyeHBPc2plZXNlZWp2dm5wbW1hZw?oc=5",
+        "title": "용인 반도체 산단 '물길' 뚫는다…하루 107만톤 공급망 구축 본격화 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZVzNGTjZQaDQ2UTVLNWRmNXNtR3lHNThHYV9nRXdSZW1SeWE0ekkybFhJcUJPWFYyazRXMmNlNy1ueVV0S1JZbVZhQVUyUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "10월 제조업 경기 전망 개선…반도체·자동차 호조 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rS1V4aVdyaHdZR3pRc3A1dThTX1d6MGdJd3BVT2ZBMnlMM1FrelJWMHRrLURjMmotR1RqYV9sMXBnSHpJNmxqNE0xblo0cGhDTTlOellHd3Jhd3Y1VGJQbG5jaFJYVlNxX3VB0gFwQVVfeXFMTV9PUzgxZHJheHdiTDhqNmxnVWFvU3k3bFYxTGVDZUlyTk0wWkZBWHNOaHo5UkNrOGR3a1pJOUpCelNkTmNDVzlsZG81ZHNZb0dsVllUYlhXTHZXSEVFOG5QaUc0dXFVM2hKUkJ6b0ozaA?oc=5",
+        "title": "반도체 제조업 일자리 8년새 15% 늘었지만‥신규채용은 22%↓ - imnews.imbc.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBT2RYOGJNQWQ4Y2FmWVFUZW5JQVo0YU1yOHowZGJHczJOYnRLTFBBeTNENmhSMFAxYTAzLTVtQnIxNkFNNTFpZjQtT0RSb0M1bThqNVNqR0JVajEyU3YtcjFhYnRPNy1IUHlQN0RSYW5mNzdM0gF0QVVfeXFMT3NHQVl2N3RraHFFQmFuQ3NjV2N0YU00dmRuUUlKQXcyQk9JODRpM0hhXzZfeC1ybUdPSjY5bHNmaUpabUpBQ1JuSmtndkg1cjU0TUtndjk1TVkxSkRnSVhVWGdxd3RFTEg2RFFiR29KVG1lclE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘고비 넘어 또 고비’ 대미 투자 합의 타결 힘겹다…美의 ‘반도체’ 언급도 주목 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqZXUwcVQ4MVRGLVVmaE9XSTdkOENRMHd2RzQyUmdHdVhyOXl2aHAyR3BPc191aF9QWE5DS2FGRkhSWkpiaVRXQVI0N25VZUJlZnFEU2VCSFZ3ZDR0RURqNUZrbGhPMmc2eUJwOXNPUjd1RTA?oc=5",
+        "title": "반도체 제조업 일자리 수 8년간 15% 늘었지만 신규채용은 22% 감소 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUxBVjVXcUhYTUVTam84U3VYeVdxSks1MW1nT1hudF9uQWpFNmFaaEw5TWZNN3FtcHcyMnBFUmFoSmhHQVJZVlA5NVVXTFdwWXZiV25nR040Y3gtck9mOVBVWEk2YU9xQjRBR3BWSW9hUEI4dlVtVlExc1Vrd1pZT2s5WEp3YVNlY0NENVh3?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\" - AI타임스",
+        "title": "美 트럼프, ‘AI軍’ 만든다… “인공지능 이름 바꿔야” 주장도 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZGtlZF9HQmljaVo5SU9xRURmX3dCZlJVMUlOVW5ZdWprVkVnUXdhYXc4Y24xMXlvNmZ6NzJfTVFqWl9Pa2NQcnJDbExTWjNGbzdqYmVtN3NtaHd6Mmg3Wmg4UW5oaWdRaVd2d29SYml4Tmh2MVoxdlMwRWRaeEFsUGNlUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\" - aitimes.com",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5venBPZlVienZ2WEt4RXlxdXFOdjB3dHBXU0FGR2NxMjc5U2xrcEhGeTR6WEgxQXhOMzdqRUd2djlzTjFYRzJVekltaVhpeFBnVnBRNkRSMHktTlVwcEV3ZUNIZzZlM2tMWmc?oc=5",
         "source": "구글 뉴스"
       },
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "AI가 듣고 알아서 뚝딱...직접 '아스트라' 써보니 - ytn.co.kr",
+        "title": "AI가 듣고 알아서 뚝딱...직접 '아스트라' 써보니 - YTN",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sbDEtQm9zYUR6OWhmRjNjTlRNbWRDWFlMcW1VeEcybEw3eWxPRVp4bGpqS1ZYYm9VcDBZUlpGZUR2M0o4ZTM4R3k0MUtHWlpNM3VYaDZXUTBPUHpLMWc?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[에이전틱 AI 맵 2026] 비큐에이아이, 저작권 확보 뉴스로 모니터링·보고서까지 자동화 - IT조선",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wSC1JUV9DbmxCUk5DMkpnN1dkZGNwdWx0X3cweFhNMVROTjJ2blJjUm9rTUcwd0tRTThtMXlwS2ttTHFkd0d6bkFZdk9zWVgtLU1aLXRGVjI1bmNMbXctWmVsNjRzMnVJc0w3U2hHUm53Z2Jj0gF0QVVfeXFMT3BILUlRX0NubEJSTkMySmc3V2RkY3B1bHRfdzB4WE0xVE5OMnZuUmNSb2tNRzB3S1FNOG0xeXBLa21McWR3R3puQVl2T3NZWC0tTVotdEZWMjVuY0xtdy1aZWw2NHMydUlzTDdTaEdSbndnYmM?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "대학 AI교육 산업현장에 맞춘다…교육부, 인공지능공학 교육과정 논의 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3SDdhVDIwZkhCd3VSZ1ZYelBrQkJJTzYtLWJqeG9XSTRZZXNLRzJ0bzQ0dlFqR2hrZm1wYXo0czRMUUd3NnZHVTd4UmhVLUwtdE9hMV9FcmJRTnFi?oc=5",
+        "title": "“AI 속도조절을” “대놓고 담합하네?”…인공지능 기업들 고소 당했다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmTVUydHd6S241RzM4VHFIa05HSGxGMUVoSWg0LV9MOHZibWxmc1U0ZmFvR0s0UFFOX3k4TzdhWnVFcnFqS2lBR0ZPUTdKZGM?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "‘식인상어가 왜 여기서?’…한반도 바다에 열대·아열대 생물 잇따라 출현",
-        "link": "https://n.news.naver.com/mnews/article/022/0004160332",
+        "title": "‘자원봉사자 7명 사상’ 안성 나눔장터 돌진 사고…경찰, ‘급발진’ 규명 나서",
+        "link": "https://n.news.naver.com/mnews/article/666/0000124219",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안성 플리마켓에 1t 트럭 돌진…모자 사망·5명 부상",
-        "link": "https://n.news.naver.com/mnews/article/277/0005818747",
+        "title": "'불소 누출' SK하이닉스 청주공장, 산업안전 위반 119건 적발",
+        "link": "https://n.news.naver.com/mnews/article/052/0002409357",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“내 캐리어가 어디에?”…인천공항에서 위탁 수하물 미탑재 속출",
-        "link": "https://n.news.naver.com/mnews/article/082/0001399038",
+        "title": "국회 앞 모인 수험생·학부모…\"'수시 먹통' 6시 이후 원서 전면 취소하라\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014201351",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘남자친구 데려오세요’ 원치 않은 임신 낙인 “미프진 암시장 사라지지 않을 것” [세상&]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002699696",
+        "title": "노소영 美 20만불 밀반입·다이아 반지…‘안방 비자금’ 드디어 규명되나?",
+        "link": "https://n.news.naver.com/mnews/article/016/0002699865",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추석 반려동물 돌봄 걱정 덜어주는 자치구들[구청25]",
-        "link": "https://n.news.naver.com/mnews/article/003/0014201289",
+        "title": "전통의상에 필로폰 숨겨 밀반입…외국인 일당 52명 검거",
+        "link": "https://n.news.naver.com/mnews/article/001/0016323702",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-20 01:26"
+  "updated": "2026-09-20 06:49"
 }
