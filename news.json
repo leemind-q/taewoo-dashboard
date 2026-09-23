@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "가격 낮추고 안전성 높이고 … 中 오픈소스 AI와 본격 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/009/0005739545",
+        "title": "\"AI 속도 늦추자\"더니…오픈AI·앤트로픽, 더 싼 신모델 맞불",
+        "link": "https://n.news.naver.com/mnews/article/014/0005580010",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KAIST 네발 로봇 '라이보2', 마라톤 완주…배터리는 34% 남았다",
-        "link": "https://n.news.naver.com/mnews/article/001/0016334089",
+        "title": "“로봇개가 42.195㎞를 뛰었다”…K-로봇, ‘마라톤’으로 네이처 뚫었다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006375180",
         "source": "네이버 뉴스"
       },
       {
-        "title": "퀄컴 “삼성·TSMC 모두 중요한 파운드리 파트너”… 2나노 협력 가능성 열어둬",
-        "link": "https://n.news.naver.com/mnews/article/366/0001194189",
+        "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동",
+        "link": "https://n.news.naver.com/mnews/article/422/0000909152",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티 미국 ADR 상장에 제동…카카오 \"현 구조 반대\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016332806",
+        "title": "네이버 자회사 네이버제트 전면파업…\"임금 동결·소통 부재 반발\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005820539",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, IPTV 3사에 과징금 부과… “단독상품 가입 막아“",
-        "link": "https://n.news.naver.com/mnews/article/023/0004000131",
+        "title": "방미통위, 회피 위원은 회의 정족수 포함…의결 때는 뺀다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014211393",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "\"AI 다음은 전력·반도체\"···드러켄밀러, 한국 산업 병목에 베팅하나 - 뉴스웨이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WSWdOMVZCLWZfTzJraW8tQmV0R281dWxDNmtsRTVaeFFMSTRkcjVfc3l2aWFUNEozSEFqd3FlenVjUGJMSV9mQldOTDgyU2REZlFvUmQ5VUdIazhQZG9kTzRyY3lpQXVqa3c?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[사이드B] 선풍기 칩부터 직접 만든다는 인도…한국 반도체가 10년 전 中 떠올린 이유 - 아이뉴스24",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aeTdnNmxCTC0tc3UwT2MzaUlFYmYzME5HaG05VDY2d0xxZ2tjVDg3OWVwT3RYZkMzbGVuc1BBZWhFbk1fZXBqZXFpVQ?oc=5",
         "source": "구글 뉴스"
       },
       {
+        "title": "美 반도체 랠리에 삼성전자 3%↑SK하이닉스 1%↑[핫스탁](종합) - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CSVdiOWRzcmIxd1YtM3BMSnY0NUpKM0JPNloxZjE1bGZlRHNVVWxlWVhFYjc5VFZ6NXgtLVU5c0ZKcnREdEZuN0Y0Y2hWWm51Z1loX0RQVDgzNUplVkdRStIBeEFVX3lxTE1FbkVMbGxZbEhTT2FoQXVjel9heEFNeTRraXZjVnk2dG1NQklOMW16M1NLcW54Mm9IUnZaOGE4emtnUWRvemhaUUhlTm5wWmN6Q2NkNG9wQ0tWTWhqb3lNTHlGalF6M05rOTNaMFdrMngzcWtRcGFIVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "P5는 평택, M15는 청주? 암호 같은 반도체 공장 이름의 비밀 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJRmVYOEZ1aFgxRmdiRGk1eUVtSFNBam5EYWx0ZDVWd2V0ZVVQYUtCWWNqR1ppM2lxT0dVcWd2cnVpWjR0MkdvMnQ4amZEZ2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서버만 찾는 AI 열풍 속 구형 칩 찬바람…한국 반도체 전환 서두른다 - g-enews.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBmVmEtQWZ5ckxVMnNKdzRqSmxVYTByTXZ2dlhycXJrdkNQTGN5cmpEeUpiM1FCMjVHaV9iemdxNzcxSExfOWo5WlpxX2M3MXVWVTlKVm5TNG9Xb1pjNWV5MGZxRndqa25BNE11MDh4Uk9kVjduUWR6NGJBUWZxVF9QS2RUSHJh?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "가위바위보 이기는 로봇손...'인공 뇌' 반도체 개발 - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTVjBwQnFTX0hvMWZqREU4dW16cEstMTNDaHNWOU5HNmdMS0lQUVo5dTFwZ0V1dDRWUWZuZDlzUGZfVm1OaDhVbDhiSklvT2dWWHlFeDM1azVfMnBmTHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체값 올랐는데 왜 우리가?\"…국내 부품사들 '날벼락' - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yYnk3SFNLSUx3ZWctWUlBZVNUN0xzRlgzN1B2cmZEZkI0eVBsQWV4LXZhYzdXaW45blp6ODNja0dVR1g0SHJXQS1uYnRrMUhTNTlsV2JWci0wdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 소부장 특화단지는 ‘시작’…민간 투자 뒷받침 ‘관건’ - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lLXpKUlloUGczdURneTBXOUs2SW5pbFR4dnFrY0owU25FaWxwcFhqR1VDclpuQ2JVUjQ4S0dnblMyTlpYV3c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ua0xENHlLU2dRX3RYQmRGSnBOTEtRQ3IwSDJnZksxdHd2akhxS2dSNG5uVmY4YnF1b0l4VDMwVEhOZC14LVdFQjhTY05MdzVreHR2NGxmdl94WEhyRldvQjR5bjlLUl9YVlhFeWxuZw?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "유엔 “냉전시기 핵무기급 위험” 지적에도…트럼프 “AI 규제 전면 거부” - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGM3dzVsTTNKc0lFakRpc0ZGZEZuX3JaRS1BejRSd3hSSDFIQ3JUdldNc24yY0lJQ3JYckJzeklRbE9rV0NVbnVwbG9lakxiQnl5c1FRYldzQVlENjRYVDliZFJQeWU3Q0ozandIMDFUV2RpcTI0TU9KZWdpdlRXeGJB?oc=5",
+        "title": "[게시판] 관세청, 인공지능 전환 콘퍼런스…AI활용 성과 공유 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmbnY5Z3lLYnZKYXhncTAzcjF1SFN0QzllWlhzTE5nTFJOc1U5ZmxFX3VyQ0tGY0kzVGFGS3h2cUxUS1ZKN1N4UlA1NWZYdkkyYjdOY1pKRTAxWVXSAWBBVV95cUxOdVR5blM0eU9kNGhaQ0JUZ09DeTFvSnp5RXJuWWlpNVFkdTRPbTNSbWN1VnJiYk12Sk1qR0FIRURwZ0NGZmsxbmdfRzBXbjlORkZidmpzQVZMUm9LazdudkM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] 미-중 AI 핫라인 제안…글로벌 수준의 AI 안전 협력 기대에는 못 미쳐 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zT29STTVUdmNLbUVRcDNRVGcyTU5tSy1FVllFa2E3MTFJT05nb1Z4ZUVYRk5rTEdwX3FsZ1lUVlIySmlfaVBNdTRfMmhBOWo3NENCYUpjdjVkVVdnUkpUcnVJdV82Zko2dW1IS1d0TQ?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "광진구, ‘인공지능(AI) 기반 고속검색시스템’으로 실종자 등 사회적 약자 골든타임 지킨다 - newszoom.kr",
         "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1QeWdPR1ZnR0N3TE5sdWNzbmlnNldkZ1U1SFIyR0hmVFUxRlBUSzcyakROS0FmdGRBWTI5QXFlNjZHMmFD?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "논산여고, 2026학년도 인공지능과 데이터과학 [AI+X] 캠프 개최 - 엠뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kTzU1d2h5UnlSNkhRMzNhTXVRNnM3U3FYdk4wNm5GZ29sWmVhRllwQmJ3TERBOXB3YlhYa1dsdTJTalBPVzBXcGU3UVdlM0VrdlFhQmgwa2I5TmlRR0kxMlB1bXRBUQ?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'대북송금 수사 사과' 이정현, 검찰총장 직무대행 맡는다",
-        "link": "https://n.news.naver.com/mnews/article/437/0000512407",
+        "title": "\"공정위 조사 멈춰달라\" 쿠팡 집행정지 기각",
+        "link": "https://n.news.naver.com/mnews/article/422/0000909207",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전재수, 상어 부캉이에 “연예인 기질 있어 예뻐 죽겠다…가오리 뿌려주고파”",
-        "link": "https://n.news.naver.com/mnews/article/009/0005739535",
+        "title": "상어 찍으려다 ‘풍덩’, 폰 찾으러 넘어간 시민…5분도 안 돼 ‘등 지느러미’ 출현",
+        "link": "https://n.news.naver.com/mnews/article/016/0002701431",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태어날 때 1kg도 안됐던 오둥이, 건강한 두돌 맞이",
-        "link": "https://n.news.naver.com/mnews/article/020/0003750525",
+        "title": "“내 SNS에 내가 죽었다고…” 쇼트트랙 김건우는 몰랐다, 무슨일?",
+        "link": "https://n.news.naver.com/mnews/article/020/0003750454",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'43년만에'...대구 미문화원 사건 피해자 국가 추가 배상 길 열려",
-        "link": "https://n.news.naver.com/mnews/article/014/0005580249",
+        "title": "포항 지진안전종합센터 2028년 상반기 준공…220억 전액 국비 투입",
+        "link": "https://n.news.naver.com/mnews/article/002/0002458138",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추경호 대구시장 \"두류공원에 2만석 돔구장 건립\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014210262",
+        "title": "\"빨리 나가\" 외국인 노동자 얼굴에 소화기 뿌려…60대 고용주 입건",
+        "link": "https://n.news.naver.com/mnews/article/057/0001970354",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-23 17:55"
+  "updated": "2026-09-23 21:16"
 }
