@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "퀄컴, 20년 만에 스마트폰 재정의…\"앱 중심서 '에이전틱 AI'로 대전환\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002438563",
+        "title": "'속도조절론' 꺼낸 오픈AI…가성비 모델 2종 신규 출시",
+        "link": "https://n.news.naver.com/mnews/article/008/0005417728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "배경훈 “AI 보안 주권 확보 필수”...네이버·LG, 공격·방어 AI ‘투트랙’ 개발",
-        "link": "https://n.news.naver.com/mnews/article/009/0005738998",
+        "title": "카카오, 카카오모빌리티 美 ADR 상장 제동…TPG 회수 미뤄질까",
+        "link": "https://n.news.naver.com/mnews/article/008/0005417553",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오, 카카오모빌리티 미 ADR 상장 '반대'…\"주주 이익 적어\"",
-        "link": "https://n.news.naver.com/mnews/article/215/0001266942",
+        "title": "LGU+, 추석 연휴 고객 혜택 확대…로밍·홈캠·구독 할인",
+        "link": "https://n.news.naver.com/mnews/article/016/0002701208",
         "source": "네이버 뉴스"
       },
       {
-        "title": "포스코DX, AI 에이전트 컨설팅도 AI로…도입 기간 절반 단축",
-        "link": "https://n.news.naver.com/mnews/article/001/0016328492",
+        "title": "구글 '제미나이 인텔리전스', 퀄컴 스냅드래곤 품고 달린다",
+        "link": "https://n.news.naver.com/mnews/article/092/0002438564",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제논, 코스닥 예심 승인… IPO 본궤도",
-        "link": "https://n.news.naver.com/mnews/article/138/0002242300",
+        "title": "개인정보유출 '티빙', 제로트러스트 기반 보안 재구성",
+        "link": "https://n.news.naver.com/mnews/article/008/0005417726",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "한미반도체 'FC 본더 75' 첫 출하…시스템반도체 패키징 시장 공략 - 머니투데이 - mt.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZU4yWWppQWJadFhQNkdJODY5ZDk0dUhxWFBNWHk3Z3dyVHZDZHI2SnFIb0puOUhROUpRWmlzNmVzSUFycmlBRlpCOW1raFJZbjZNX29YRlByOTFZQk1NaHhtRXhsVmxENUxLRNIBckFVX3lxTE9HaDc4ZV9DZkpfb21WcEthTVBTSjFnMlVRV3JvUFVaWUVMRm40Ym91Q00talh1VWczdEMxVlFKRlRfeDB6UUJObDJQN2o0Uy1FOXBwWmlfREE1ZnI0aHNsc1lTOUxMZlVKbjZKcWJLZEpDQQ?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "AI 반도체 패키징 증설 몰리는 말레이시아… 韓 HBM 관련 수출 1년 새 4.7배 증가 - 조선비즈 - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmIzU3RselhQU1gySms3dGJidVZ5YUt6SFRkV29maXdlT28tX1U4cmRYbWFidUR4RWlFZG5HX0NXNnQzaURNeTlDTTZXZUdaNmlBYnpRMXJKNzJuVmhxbDNZRXhacXNObktEV2xnV2pjbU9FU3hBZW1NREp4T1psWWVB0gGWAUFVX3lxTE9TSndIejFMejgwWl9ycjFaMm1HclZPakpXVk8wT1hxWndscWJ4OEZTRVdyOFV0dDBGb1N6amZsUkhkTlZJZzRuUnMtSVJZM1JuZmZBaUlpVm1ZRFA2MDAwei15TlA5SXUtMnctZTdrR3p4NXp5UUJIc1ZlWXpPRUJQeklhLWRPWlFGbkRtOEtnODJibVMwZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한미반도체, 2.5D 지원 첨단 패키징 장비 'FC 본더 75' 첫 출하 - zdnet.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00czJ0ak03aFAwTzRLNnBNSUE5b2ZJTTBFemdnTVRKMVVCeVliaW54T3Y0QVFDc2l1MXBWeDJqbndBSEFzcUxxZ3Fsd282R2F5ZlVOcWRB?oc=5",
+        "title": "코스피, 반도체 타고 7100선 돌파…'배당' 삼전 3%대↑[개장시황] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhVG1tVzVtYXBpWlFWdFJTbDdjZ2xCNG96bFdMN0JSc3ZFQVJhb1dhR2Vlby1MclMtUE1KUnhCbnRrbEhJRl9kOHFuU28yZkk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 훈풍·국제유가 하락에 코스피 2%대 상승 출발‥7,100선 넘어 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0VlBOT1lwYTQ5OFhtVlphZ3VZd0V3ZjZSclpkb2hPR01ZNzJ0SFhxZ3FvYVFQUlFBMy1kYmloZ2Foby1MZXBNV2FXa295STFsM2xJWUhFeWo2TGk3cDM0MTNwVlJ3SDNDMUZiUS1sU0dDNWVK0gF0QVVfeXFMT3dyLUY0T2NxcEstalE1eXJLeEd2ZnRYU0dETzBzSWk3TUQ2RHZIbTNWRHZ6TjVMOXJRamxWSWxsM21Tc1VpUF9kUkhYWi1HTUliZ09QcFJ6d2hURjJwVWFNSDc2RmZvLUUtMmhBZGJFYUd4NHc?oc=5",
+        "title": "ADB, 韓 성장률 2.6→3.2% 상향…반도체 수출·민간소비 회복세 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1a28xQTR6MWJFeG5jYzJlSl9ZS191UDNlVHRPeUJ5bzEtcUdGWXhyQlBCT1BKVXZqVWJoZ3plMkVqNnQtVVVrWkt4cDVJRTNJV3ZaZjJvSUhjU0VyY2VmTg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[뉴욕증시] 나스닥, 반도체 강세에 사상 최고 행진…마이크론, 5% 급등 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RNkF0Y3dINVVwMVcwYXpXOE5teHNCQWNkQW13Q3RtR2FwazBucVFEMFVPbmxkYy1ZY1Z1VTY2ZWwyaEg4N0ZvcTdkQWNsOFE?oc=5",
+        "title": "ADB, 韓 올해 성장률 '2.6%→3.2%' 상향…\"반도체 수출 증가\" - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IendiY2FOdVR2LU5iM0tzOG5oQ0ZCMXcxWE9NUDl0WnJ3LVUwQlJHanItRzVmM3hHWHY0NnlhUlRJcGd5LU50UER1RU9IbkZQYlB4TERQN0JOMHZPa0FMTE9aclhhc05XWGpoR0czM2VmcDE2RnptNNIBfkFVX3lxTE8xZ1ZEbnpabXphdUxlZWFwRUtuOGZIeWJoYU5zUkNObFJ4aUcyMG5sek5NaHNxMzhFTHVyS2R3OWE0dzg0M255MGdGODF2MVk1UU5HaTlZVHlvOW1VaFFqdlVEeU02STNvbTJzUTA4NzIxM0lZUWQ3Z1lyUEgtdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "ADB, 韓 3.2%·대만 11%로 상향…같은 반도체 훈풍에도 벌어진 격차 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4X05WWk5ycldKQWloQlNEa1lXM04zN3ZjZ01nd3N1NFdlMy1icUI1UTgya2xVR0RQSzFNZUVvdmxQREM3SUZWQkpvUkZvOGs?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "前구글 안전담당 임원 \"AI, SNS보다 아동에 더 위험\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cW1EX045NGtzTG9OTjA0eG85Qjc3Znk5T3E4bEMtZkI4bkx6bk1pUUJIZVZtem10c0hIUU9LRWZhMnpFWjcwYVlCT05sMkJUekdYMWxRbHZEQ2_SAWBBVV95cUxPQllrUjNqMDBibFlvLVVYaUNGR1MtOEduUlNGVGFlVG1kQXFGMlJjM0MtOTJxQTJWUk02TkVCM3g0S0wzbFFSWlJVbTQzb3F5SFAxVzROSWpySW1xOTNoZ0s?oc=5",
+        "title": "아마존, AI의 쇼핑 차단...'모두의 AI' 괜찮을까[글로벌AI브리핑] - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LUkVLNzU0SXZTSm43ZFBHR0F2eHQ0d1VqWTRMLUd0N0dxQ0tlSE9pQTZ5WlJUcmFHRFBHaDZwYnRYTXNGM01QTUtXOG5OQXM?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wMWZPZG8tb0Y2TE9mc1hxVkZaNkhNRmtBX3pVTTBsTnZiOEZUdFU5RkdpMnR4cE93eEJZckhYU3VRYk84QlZxaFVqOFl5amxQeHhING9MMDNzaVMySnRMck90OF9aQkliUVJiVzVudHZqc2lR?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“엄마, 저 바보 되어가요” 아이의 충격 고백…AI항복 막을 15분 [AI발 인류지능 퇴보] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WaVpnYkQzM1hxY25QWTBOWVU5NzRjbkFNUHlSdC1EQVdpbXB0YWhqRUw2R0YxS09QSmY4T0lzSEVTQmxPc3lyLVFuem1aMDQ?oc=5",
+        "title": "前구글 안전담당 임원 \"AI, SNS보다 아동에 더 위험\" - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVjhWVHlkZndSQ2ZKbG9xQ2Z6eW8tdGstYU92RjYyVmwxRFQ1MGFDYTZMWnQ3NXlpdW04M0p4UkpGa2lFNjVfZENEX1pFUHJDbUE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 대신 SI라고 부르자고? 트럼프, 유엔서 깜짝 작명 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1VGOGhoQU83WmctcmtfN0h3LTVTR0ZxVzdiN295WmZGMFFBdEFaeWJzRmk4dHNXTmN3a1hJaW04OE92clc5b2d4dElNWExjckluT05VMnQ2S2lEa1ItQTVsa20ybnVQTjVTeVI2X1VkTnREcnUyb0JKNldlRVFTd05Dc2tuMHQxZE9jam5kTzF1MGEzRVR4SXhMS0JCUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "울산시, 산업 인공지능전환 실증사업 본격화 - 글로벌뉴스통신GNA",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raDFGTW1ZVEVhbFRzdFlFM1BULXZvZlNNTmVPbUszSkJoSkVYcDliVWEwcHF4VDQ4cHZNNG1PeDRYd28tenF4WHRZZjNtT2pjWkhXWm9BQ3ZxMW1TbHRoVXplUkE3MFVZZk1pd1c5ZGRYTGJM?oc=5",
+        "title": "속도조절 외치던 앤트로픽·오픈AI, 새 AI모델로 가성비 속도전 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01ZW5BMldXUUx0MHBlU0ZXOENZbTJOMGdDRU5DOUpjS2ZQLU9JR01IQWxTQlc4UXFlakwtNk1vSkZrUHdzTU5nLUZRWHZONWVncjVBV2J2cGZGd03SAWBBVV95cUxPXzNwR2RZSFhRNVliWE9qajFtMEdGM19XdHZTdVZKZzdHNXRPVFVRd3ZqVzhsaVBZOUJqVjVoTGsxZFpKU3hFUEt1bl9VRmg4am9TcnNSaVZ2MUpLSDFKLTA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "울산시-HD현대중, '발전엔진·원자로' 공장 신설 각서 체결",
-        "link": "https://n.news.naver.com/mnews/article/422/0000908708",
+        "title": "유튜브·틱톡 뒤 노동자 권익 살핀다…정부, MCN 5개사 기획감독",
+        "link": "https://n.news.naver.com/mnews/article/008/0005417713",
         "source": "네이버 뉴스"
       },
       {
-        "title": "나흘째 부산 머무는 상어 '부캉이' 보러 매일 1만 명 몰린다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000955554",
+        "title": "HJ중공업, 1만100TEU급 컨테이너선 4척 수주...6789억원 규모",
+        "link": "https://n.news.naver.com/mnews/article/014/0005580171",
         "source": "네이버 뉴스"
       },
       {
-        "title": "차 막고 위협해도 못 찾아…나경원 \"우리나라 치안 어쩌다 이 지경\"",
-        "link": "https://n.news.naver.com/mnews/article/088/0001030017",
+        "title": "추석 연휴에 문 연 병원 어디? ‘응급똑똑’에 물어보세요",
+        "link": "https://n.news.naver.com/mnews/article/020/0003750231",
         "source": "네이버 뉴스"
       },
       {
-        "title": "공소청, 검사 1900명으로 출범…향후 결원 충원 않고 더 줄인다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002824330",
+        "title": "한가위 보름달은 내년에 만나요…추석 당일·이튿날 비 예보",
+        "link": "https://n.news.naver.com/mnews/article/028/0002824243",
         "source": "네이버 뉴스"
       },
       {
-        "title": "2호선 이대역 화재로 인한 무정차 통과 종료…정상 운행 재개(종합)",
-        "link": "https://n.news.naver.com/mnews/article/009/0005739262",
+        "title": "\"하지 않은 일 인정 못 해\" 김건희 매관매직 항소심, 오늘 선고",
+        "link": "https://n.news.naver.com/mnews/article/082/0001399433",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-22 23:10"
+  "updated": "2026-09-23 01:40"
 }
