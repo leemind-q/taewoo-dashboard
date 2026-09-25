@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
+        "title": "“내가 말하기 전에 알아서”… 퀄컴이 그린 ‘에이전틱 AI폰’",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194378",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "챗GPT 다음은 클로드…국내 AI앱 2위 굳혀[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016335920",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "추석 용돈 보태 아이폰18 사세요… 고가폰 노린 카드·보험사 혜택 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/469/0000955958",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "누리호 5차 발사, 고흥 우주과학관에서 먼저 만나요!",
         "link": "https://n.news.naver.com/mnews/article/011/0004665283",
         "source": "네이버 뉴스"
       },
       {
-        "title": "챗GPT 다음은 클로드…국내 AI 앱 2위 굳혀",
-        "link": "https://n.news.naver.com/mnews/article/055/0001391065",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "성능 85%·효율 20% 끌어올렸다…퀄컴, 듀얼 NPU 품은 센싱 허브 공개[스냅드래곤 서밋]",
-        "link": "https://n.news.naver.com/mnews/article/138/0002242649",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "아이폰18 프로 ‘갑자기 재부팅’ 오류…애플 다음 주 업데이트",
-        "link": "https://n.news.naver.com/mnews/article/056/0012263003",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "퀄컴, 윈도 넘어 구글·리눅스로…AI PC 영토 넓힌다",
-        "link": "https://n.news.naver.com/mnews/article/366/0001194328",
+        "title": "\"앱 열지 말고 AI에 시켜라\" MS 코파일럿, AI 운영체제로",
+        "link": "https://n.news.naver.com/mnews/article/469/0000955998",
         "source": "네이버 뉴스"
       }
     ],
@@ -56,8 +56,18 @@
     ],
     "AI": [
       {
+        "title": "트럼프 \"인공지능(AI) 대신 수퍼지능(SI) 호칭 합의\" 강조 [이상은의 워싱턴나우] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZFRrblFKSVFLZGhZcy1iSjg2WXJleUFyRlVYSHQ2ZVgtTjVDQmFjN29ZejhReU1hQzFyUlppT1owTXoxeUtGU1dfV0RNSTdJNE4wejJWTEtLdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[AI픽] 챗GPT 다음은 클로드…국내 AI앱 2위 굳혀 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42em1wOUd1STdpek16c251b2JsR1d3aGNzUy1OYXRVZkxKSU5uS01nOTIxWUJQZHJTYXBDUnNxRjZaWUZQaHc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "억만장자 빌 게이츠는 인공지능이 재앙으로 이어질 수 있다고 경고했다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjZyUkJnY1g0U2NNTlJlWEMxdkZiZFowT1VXZVl6ZHpRM2toODg3bFhOemNZczZRY1pxdVhrWDhOTUJJRkd5RkY5UlNjenNVTHkwV1Q4SkVmSUNfdFdiNllvcWtOWEtoclVBWHQ3c3MxTVNCSFZhc1B5Z0F0T2FIbkJ1QmhKQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "뉴스 기관들을 연결하여 AI가 신문에서 자동으로 정보를 스캔하고 추출하는 것을 방지합니다. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkRHWlEzOE5aZ0lyU0RlRTJLTDhQNllCakVkT24waWNQNmZDdjhaQUtDdVM4bERvTmZLNENoOEdPbGszYzM0LXZFZXRVUkt0bk1IRjdBWmIxeUw2M1ZyZmZOUlNHUThObUhLVXhEQ2N4eTBqY3pnUUNLczI5Y2ZsWjhobHExVHpVLWRQNEtsWFFjbFBpeGVWY1VuSFBvZXU5bTk1dFM0TjY0QThsMUk4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "인공지능으로 싹…’바다 청소부’ AI 해양 로봇 등장 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hLTN4LTQ1THUxem1vSU5ZNzlPVFlYWjVSN01rRE82SWxMZy1vUXp4UmtRdzBRM09RLWNvZFItdkxoSmlOTGNxMmlPMlRGWGN2ak1RSjE5dl94aC1IVVE5a2dMNkdWOUE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "샘 올트먼, UN안보리 회의에서 인공지능(AI)과 국제 안보 주제 발언 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAybU81WVp2cnhpLUZkbUpTNUdqSkNDRlJMalNFVHBJNVQyNHZfS015S2ZLcV9sVGVOaU1GWEZfQVlSOGFuUlMwdm5LZWFWQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이어지는 고속도로 귀성 행렬…연휴 첫날 오후 서울→부산 6시간 40분",
-        "link": "https://n.news.naver.com/mnews/article/081/0003683391",
+        "title": "토요일 비 내린 뒤 맑아져⋯남부 최대 80㎜ 비[내일날씨]",
+        "link": "https://n.news.naver.com/mnews/article/031/0001061242",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추석 강원 곳곳서 교통·산악사고…오토바이 운전자 1명 중상",
-        "link": "https://n.news.naver.com/mnews/article/001/0016336104",
+        "title": "\"'야차룰', 장난 아닌 학폭 범죄\"…구경만 해도 공범",
+        "link": "https://n.news.naver.com/mnews/article/001/0016335671",
         "source": "네이버 뉴스"
       },
       {
-        "title": "승객이 물 붓자 승무원은 담갔다…이륙 직전 '아찔한 화재'",
-        "link": "https://n.news.naver.com/mnews/article/437/0000512785",
+        "title": "\"가게 이름 바꾸라더니\"...새벽 분당 중식당 침입해 1시간 난동 부린 괴한들",
+        "link": "https://n.news.naver.com/mnews/article/014/0005580756",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'상어 부캉이' 구경 몰린 사람들, 연휴 첫날 10만명 넘었다",
-        "link": "https://n.news.naver.com/mnews/article/437/0000512742",
+        "title": "\"휘발유 뿌리는 것 같다\" 양주서 방화 추정 폭발 화재…1명 사망",
+        "link": "https://n.news.naver.com/mnews/article/277/0005820888",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국도서 시속 157㎞ ‘칼치기’…“딸이 아파서” 난폭운전 50대 결국",
-        "link": "https://n.news.naver.com/mnews/article/025/0003553790",
+        "title": "추석 귀성길 정체 풀려…귀경길은 새벽까지 곳곳 혼잡",
+        "link": "https://n.news.naver.com/mnews/article/003/0014213756",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-25 16:49"
+  "updated": "2026-09-25 20:18"
 }
