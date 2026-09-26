@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "\"내가 수건 개는 모습, 로봇이 배운다고?\" 피지컬 AI가 뭐길래",
-        "link": "https://n.news.naver.com/mnews/article/008/0005418315",
+        "title": "“내가 말하기 전에 알아서”… 퀄컴이 그린 ‘에이전틱 AI폰’",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194378",
         "source": "네이버 뉴스"
       },
       {
-        "title": "누리호에 실린 국산 위성 15기…우주서 어떤 임무 맡나",
-        "link": "https://n.news.naver.com/mnews/article/001/0016335639",
+        "title": "“연봉 7억원에 로봇 인재 모십니다”… 오픈AI·앤트로픽이 피지컬 AI 사업 키우는 이유는",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194450",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"달리다 무릎 다치자 운동 취소 뚝딱\"… 리퀴드 AI, 현실 세상 읽는 에이전트 공개[스냅드래곤 서밋]",
-        "link": "https://n.news.naver.com/mnews/article/138/0002242656",
+        "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
+        "link": "https://n.news.naver.com/mnews/article/056/0012263471",
         "source": "네이버 뉴스"
       },
       {
-        "title": "챗GPT 다음은 클로드…국내 AI앱 2위 자리 굳혀",
-        "link": "https://n.news.naver.com/mnews/article/422/0000909664",
+        "title": "첫 군집위성 도전…누리호 5차 위성 임무는?",
+        "link": "https://n.news.naver.com/mnews/article/422/0000909629",
         "source": "네이버 뉴스"
       },
       {
-        "title": "프랑스 지방정부도 소버린...왓츠앱 버리고 자체 메신저 추진",
-        "link": "https://n.news.naver.com/mnews/article/092/0002438774",
+        "title": "[OTT레이더] 추석인데 뭐 볼까?…극장서 놓친 화제작, 안방에서 보자",
+        "link": "https://n.news.naver.com/mnews/article/138/0002242696",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
+        "title": "TK는 \"왜 광주냐\" 했는데, 반도체 품은 전남광주, 실은 토허제에 한숨? - 매일신문",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRjdmZE95LXJzSnk2dGtHZVBOZFFiSkNhVk16dmRLbVdhWE1DMzEwN3JMV2lBV1dYa1BaUDJjenN6VFh2Zml1eDFaT2RwYkxQaXh2WkpGUk9XdENiam5wdUhB?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지 - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WNXc3OEZ0X1RBVFo2Ni0takJ0d3MxZ2swVklLRkMtSEQwTzZRb1g1V0ZUNjFnTHQ0VDJ0U0NsYmQ4Vk5NWHc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "40년 경계 허문 전남광주…'800조 반도체' 품고 남부권 중심축으로~ - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMGdwYUVtU1pickUyaHFiV1lfNXpTa2JQUVBjTndOZEdWZU92UnY0TkZsYmRiTWtVMEtxS1o1QzctTnhXNGVjV1NabkRwOHpSNWR6TEJ3N3ZlVVJmanBxdA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,30 +49,20 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[수출4강③] 반도체 47.8%·3국 51.4%…수출 절반은 '쏠림' - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MaHcxNlVkUm4yZ1BsR3NvWldPdVFKWHBJa1dJeExxV0czS2tTLTh6TFFVdXlBRzhxRURWQ1VLMmVGeDRDV3RHeEptcl9NVFlKUy1sREkwaUNKYzNGS2tLTNIBeEFVX3lxTFBWZEJSTUREMVh0MV9IOEd3ZkQ4YnhqUEViSGIwLXJmR1FEdGlWS0Z3bzA5cGd0T05fYnFRalNlOUx1TURjSkRaRGtNTUtvZWVyWG9Wb2dyS25BUGtsczJsTWcxTUdVdnk5Nlp0MFQ2RUpVdG5LTllkMg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "수출입은행, 반도체·데이터센터에 2.3조원 지원 - asiae.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xUkNNZ01aVzM5dWd6QzhVZDhMa0RlSks3Z3hUanIySmQ3a2tOQVN4YU51RzFQbkZ0Rm02MVI1QlZsRjc0d29SSFFKWkJoOTlwb1pLMkdsakwwNzZ3NGI1Rw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "미·이란 협상 기대+AI·반도체 강세에 美증시↑[오늘아침] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2Um1JZ0Z6N3NkZGpHWXc5TUNJSlJ0emItNjkwSWpqRDZFa3JKSUNtRUQwSHJXMzVFcWdqS3NUMzBXTjRvdGoxT2ZqM1hwTmM?oc=5",
+        "title": "전통 제조업에서 반도체·AI로…전남광주 산업지도 다시 그린다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibW9oZVp4Q1E1TlpXUXF5M1diUnFVcjRpWkhuYWltaFRhSDdZa2NHQjZyMzNaTzlibXR6OEgtWnJQM1lqMXNKOEFnWE51VzRQNjJGRXNHY2pfMXfSAWBBVV95cUxPczc5MkprR25ENGlYYnNFdnpvQmlmRXo4WTB3N3BlWVh0eFV1dERERjVHZi04QW1OWGFNVm1JM1ZKR0pVajJCM3JKVGk4QjYyaWltS0xfTTRBeWd5RmZHYU8?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출 - 연합뉴스 한민족센터",
+        "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출 - koreancenter.or.kr",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40dFFvNGdNYmwwMlc3bjBpTm94QncwV1lzeU9oajRtOUxLQlZoWkZaLWtYV2IyYmlNVGNjRHZac0tTOWJreHBWWmFoLTdVWVJvcFl5Q0R0VXlTMXhCZkt1Mkk0T1ZpaHdqcXY5QVkyMVZkNWpH?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프 \"인공지능(AI) 대신 수퍼지능(SI) 호칭 합의\" 강조 [이상은의 워싱턴나우] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZFRrblFKSVFLZGhZcy1iSjg2WXJleUFyRlVYSHQ2ZVgtTjVDQmFjN29ZejhReU1hQzFyUlppT1owTXoxeUtGU1dfV0RNSTdJNE4wejJWTEtLdw?oc=5",
+        "title": "AI ‘종료’ 버튼에 복종하는가…“위급시 확실하게 멈춰 세워야” - 부산일보",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hbXp1Q1JwSmUxdWVVaGowekdXejJUa0QxY2VMRXBIQVF1RHNzQTlFc2dUODRGZGlXbHZBd3ZjSndIMnJveXhfMDVTTzVUWDMyRFdwUzJMZmx3VnhCNGpBazhyZTl0WmNuSncya2FyNkttUFFx?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "2000명 오던 공원에 10만명…‘부캉이’가 바꾼 추석 풍경",
-        "link": "https://n.news.naver.com/mnews/article/005/0001874985",
+        "title": "민형배 전남광주시장 \"제주항공 유족 위해 특별팀 다시 꾸릴 것\"",
+        "link": "https://n.news.naver.com/mnews/article/469/0000955979",
         "source": "네이버 뉴스"
       },
       {
-        "title": "강원경찰, 추석 귀성길 50대 난폭운전자 검거",
-        "link": "https://n.news.naver.com/mnews/article/056/0012263388",
+        "title": "아기 분유에 소주 타 먹이고 자녀 강제추행한 40대 친부 징역 7년",
+        "link": "https://n.news.naver.com/mnews/article/421/0009191094",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추석 다음날도 전국에 비…제주도엔 시속 55㎞ 안팎 강풍",
-        "link": "https://n.news.naver.com/mnews/article/028/0002824660",
+        "title": "“부캉이 보러 가자”…부산 친수공원에 연휴 첫날 10.2만명 몰려",
+        "link": "https://n.news.naver.com/mnews/article/009/0005739906",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이륙 전 여객기서 갑자기 불…가방 속엔 '보조배터리'",
-        "link": "https://n.news.naver.com/mnews/article/215/0001267197",
+        "title": "친구 집들이 갔다가 소파 긁은 강아지에 ‘50만 원’ 배상한 견주",
+        "link": "https://n.news.naver.com/mnews/article/021/0002821207",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고속도로 상습미납 차량 통행료 작년 426억원 넘어",
-        "link": "https://n.news.naver.com/mnews/article/016/0002701829",
+        "title": "추석 당일 고속도로 양방향 정체 극심…귀경 오후 3~4시 절정",
+        "link": "https://n.news.naver.com/mnews/article/629/0000536806",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-25 23:25"
+  "updated": "2026-09-26 01:51"
 }
