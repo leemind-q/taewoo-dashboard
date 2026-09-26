@@ -2,13 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "사라진 제조사, 장악한 AI 파트너…\"우리 퀄컴이 달라졌어요\"[스냅드래곤 서밋 결산 上]",
-        "link": "https://n.news.naver.com/mnews/article/138/0002242686",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "SNS 이용자 85% “AI 콘텐츠 표시 필요”…50% “인위적·어색해”",
-        "link": "https://n.news.naver.com/mnews/article/032/0003472529",
+        "title": "SNS 이용자 10명 중 8명 \"AI로 만들었다면 밝혀야\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005821009",
         "source": "네이버 뉴스"
       },
       {
@@ -17,13 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "메타, 13년 만에 최고 월간 상승률…시총 2조 달러 눈앞",
-        "link": "https://n.news.naver.com/mnews/article/092/0002438754",
+        "title": "美는 ‘AI 비서’ 별천지, ‘뮤즈’가 대역전 노린다 [트럼프 스톡커]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004665467",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'클로드' 국내 AI 앱 2위 굳히기…1위는 챗GPT",
-        "link": "https://n.news.naver.com/mnews/article/030/0003469907",
+        "title": "5.0GHz 찍고도 \"점수는 잊어라\"… 퀄컴이 '지속 효율' 택한 까닭[스냅드래곤 서밋 결산 中]",
+        "link": "https://n.news.naver.com/mnews/article/138/0002242693",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "AI가 공장을 움직인다…피지컬 AI, '로봇 두뇌' 경쟁 본격화",
+        "link": "https://n.news.naver.com/mnews/article/119/0003136375",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,18 +39,18 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "40년 경계 허문 전남광주…'800조 반도체' 품고 남부권 중심축으로~ - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMGdwYUVtU1pickUyaHFiV1lfNXpTa2JQUVBjTndOZEdWZU92UnY0TkZsYmRiTWtVMEtxS1o1QzctTnhXNGVjV1NabkRwOHpSNWR6TEJ3N3ZlVVJmanBxdA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "SK 부지·삼성 속도…호남 반도체 산단 구축 탄력 - 아주경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3d3JtU0ZGdHZ4UFZMVW00UlRFTC1lLW0tQ1lWS1F5NFRFMHRIek14bmMzcjFXVEVRbnVJcHNEbXprM3RMa3Z6eEloVDhBelFSSUlTbGpNMTMwUdIBWEFVX3lxTE1DdXRjQVRkeHpwQ09uVnhwbDBXZUJOdExOamdVcXlaUURSSXFfdGZjTVZxM0d3aWZLUURTRE9jbngxRW04SUlDeDJ6UlN0ZFZiS0hVYVBvcGQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+] - 한국경제",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "배터리도 반도체처럼…설계 따로 생산 따로 시대 오나 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xUzR4azN1Z2stMXhIODVVOTJrLVdsc2Q3SmpXUGtDbkhkNUtUVTVQTWZvLXROTE1kMGRoVmw0UllzQVMtNWEwZXpLaW1KMVl4S3liV3lB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[수출4강③] 반도체 47.8%·3국 51.4%…수출 절반은 '쏠림' - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MaHcxNlVkUm4yZ1BsR3NvWldPdVFKWHBJa1dJeExxV0czS2tTLTh6TFFVdXlBRzhxRURWQ1VLMmVGeDRDV3RHeEptcl9NVFlKUy1sREkwaUNKYzNGS2tLTNIBeEFVX3lxTFBWZEJSTUREMVh0MV9IOEd3ZkQ4YnhqUEViSGIwLXJmR1FEdGlWS0Z3bzA5cGd0T05fYnFRalNlOUx1TURjSkRaRGtNTUtvZWVyWG9Wb2dyS25BUGtsczJsTWcxTUdVdnk5Nlp0MFQ2RUpVdG5LTllkMg?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "미·중 정상, ‘슈퍼지능 대화체’ 운영 합의…“AI 대신 SI로 부를 것” - 한겨레",
+        "title": "미·중 정상, ‘슈퍼지능 대화체’ 운영 합의…“AI 대신 SI로 부를 것” - hani.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFlRM19DTHo3bFY1MHVSM0VGSERUZTR0TWxhcXhNVGpaWTV0WkZBX05qSjVEWTVmOUJOLS1OOFFoNVFhdVdJczNfUkxpVnA2dzFQWXh1R0JhblJOUWE0enhTdkFheE1NNExHeVZPU1Jabm1MSDFuSkdwazYwUGNGaUpR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인천광역시교육청, 애플 코리아와 인간 중심 인공지능(AI) 교육 협력 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVzZTZ0lQMVFSVTdqVGl2emhQOERLMVR5YU5PTksxNHowRWRELXZuWTl4ZFJVQmN3UXdJSVNmNU84amN0TmVKRVdnMGgwVTN3WTAzVUhYY243UWtoRHJtdXZtQy1Gblc4VzlKQkhRNDM?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "\"오픈AI 에이전트, 다른 호주 정부 웹사이트에도 침투 시도\" - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOUJHelN4R2FtOFlyZ1U3bmMwME1JQUhEeUpuUEliOWpCVk9iT3A1T0I4QzExY1hqenlDNlY4bHBxcm8ycGF5RXhiSlkxWE0?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "인천광역시교육청, 애플 코리아와 인간 중심 인공지능(AI) 교육 협력 > 뉴스 - thekorea.kr",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVzZTZ0lQMVFSVTdqVGl2emhQOERLMVR5YU5PTksxNHowRWRELXZuWTl4ZFJVQmN3UXdJSVNmNU84amN0TmVKRVdnMGgwVTN3WTAzVUhYY243UWtoRHJtdXZtQy1Gblc4VzlKQkhRNDM?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "“너도나도 ‘부캉이’ 보러 부산 갔나요”…추석 연휴 이틀 간 23만명 몰렸다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005740085",
+        "title": "'관객이 축제 주인공'…안동탈춤페스티벌, 체험 프로그램 풍성",
+        "link": "https://n.news.naver.com/mnews/article/003/0014214567",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"달콤한 연애하자\"… 앱으로 만난 40대女와 성매매 2명 벌금 [사건수첩]",
-        "link": "https://n.news.naver.com/mnews/article/022/0004161919",
+        "title": "“엉덩이 기억상실증 걸렸다”…220만 유튜버 방송 중단 부른 이 병",
+        "link": "https://n.news.naver.com/mnews/article/025/0003553797",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘한의사가 남편 죽였다’ 현수막·난동 60대… 항소심도 벌금 400만원",
-        "link": "https://n.news.naver.com/mnews/article/022/0004161892",
+        "title": "“남편 살려내라” 현수막까지 내걸어…한의사에 허위사실 퍼뜨린 60대, 결국",
+        "link": "https://n.news.naver.com/mnews/article/011/0004665528",
         "source": "네이버 뉴스"
       },
       {
-        "title": "임신중지약 '미프진' 처방은 의사 마음…여전한 불법유통 유혹",
-        "link": "https://n.news.naver.com/mnews/article/629/0000536864",
+        "title": "“빤히 쳐다보는 남자들, 전부 안경 썼어요”…스마트안경 사생활 논란",
+        "link": "https://n.news.naver.com/mnews/article/009/0005740157",
         "source": "네이버 뉴스"
       },
       {
-        "title": "연휴 셋째 날 귀경길 정체 한풀 꺾여…부산→서울 5시간",
-        "link": "https://n.news.naver.com/mnews/article/421/0009192674",
+        "title": "\"말다툼하다\" 노모 살해…50대 중국 국적 여성 현행범 체포",
+        "link": "https://n.news.naver.com/mnews/article/437/0000512839",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-26 16:36"
+  "updated": "2026-09-26 19:35"
 }
