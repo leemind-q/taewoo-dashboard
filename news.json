@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "고등학생 7명 모여 만든 '꿈의 위성', 누리호 타고 '진짜 우주' 간다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005418277",
+        "title": "MS, 'AI시대 OS' 새 코파일럿 공개…챗봇서 에이전트로 진화",
+        "link": "https://n.news.naver.com/mnews/article/001/0016336355",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"AI 다음 전쟁은 '몸'\"…메타, 안경에 '뮤즈' 심는다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005580814",
         "source": "네이버 뉴스"
       },
       {
@@ -12,102 +17,97 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 콘텐츠 피로감…SNS 이용자 10명 중 8명 \"표기 필요\"",
-        "link": "https://n.news.naver.com/mnews/article/374/0000534845",
+        "title": "진짜 같은 AI 광고 왜 스킵할까…이용자 절반 “가짜는 가짜일뿐\"",
+        "link": "https://n.news.naver.com/mnews/article/243/0000103540",
         "source": "네이버 뉴스"
       },
       {
-        "title": "MS도 AI 에이전트 시대 맞아 새 코파일럿 OS 공개",
-        "link": "https://n.news.naver.com/mnews/article/052/0002411185",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "美법원, 국방부 손 들어줬다…'클로드 금지' 유지",
-        "link": "https://n.news.naver.com/mnews/article/092/0002438798",
+        "title": "이 대통령 공약 ‘모두의 AI’ 연내 출시···정말 모두에게 닿을까",
+        "link": "https://n.news.naver.com/mnews/article/032/0003472548",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WNXc3OEZ0X1RBVFo2Ni0takJ0d3MxZ2swVklLRkMtSEQwTzZRb1g1V0ZUNjFnTHQ0VDJ0U0NsYmQ4Vk5NWHc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "호남 반도체 클러스터, 2027년 상반기 첫 삽 뜬다 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcjU5SjM0cUhiaXdSSWZjZnZsSDZBdkR5d0xXZnc5TmNTaG16Z1JzMnNQNU8zaUdvMkVwaVlBVTZlTmZlVll6RU5vTjVhSFk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "TK는 \"왜 광주냐\" 했는데, 반도체 품은 전남광주, 실은 토허제에 한숨? - imaeil.com",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRjdmZE95LXJzSnk2dGtHZVBOZFFiSkNhVk16dmRLbVdhWE1DMzEwN3JMV2lBV1dYa1BaUDJjenN6VFh2Zml1eDFaT2RwYkxQaXh2WkpGUk9XdENiam5wdUhB?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "\"중국산 메모리 쏟아진다\"...'빅쇼트' 마이클 버리, AI·반도체 공매도 확대 - 머니투데이 - 머니투데이",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xQTYxSmhpVndKOHZxOTJHeGVXT0RCZUdsaVVyMVZ3M19BZlZGTHpkZlBGa3V3WDNQVWIwX0RRNDM3bC1FUUdlaXVFTzBjMkVKRk5CWWNYbTJsanRwQlA1c2xYQk00QUF40gFuQVVfeXFMT1BlV2JMV2QtRk1oa1ZMd1VxRjNlR2hyYVdHUS1BSzYxbWFoV3lzcDNnb0FiUVJSLUhZSVk5b1QwcEZxMnRoUXlNUFlvSzhnUzkxSnJjcFBObmN1QVVJV2QyTlhCX0ZsempSM2dqMVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "대구시, 시스템반도체 인프라·전문인력 양성 투자 확대 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YWRCdDJfUm5qTGtwdUNPdWhRMGN1c0FpTUdPVndkX2R2LWsxQUM0bjdKdWVTaUhZS05BZzJUNlZRM0czeDlLY2p6WnZESW56UGlvdE1zUmd4RTFTOTBXRdIBeEFVX3lxTE42TGg0bEFtQVhLT2FYeDVnV0dzSm5fRTNoODZzN2RzZkRqTGNtSldGVzBMNXdpZC02aldYaFBEcWx1cEdLOUxxaURCdmRkUVFQbFZvMVZOZWlkdm1Tb2UxZGZURTNLWi1wOXd5Z2ZtcWdkcnphY3JUTg?oc=5",
+        "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WNXc3OEZ0X1RBVFo2Ni0takJ0d3MxZ2swVklLRkMtSEQwTzZRb1g1V0ZUNjFnTHQ0VDJ0U0NsYmQ4Vk5NWHc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "호남 반도체산단 내년 첫삽…1단계 개발 준비 '착착' - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zZHlQZ3JhYzh5QVNUT0lZODRUUTRKYVJEYUJ0cU01RW9QdDNDb3NjQkpnd1Y3bUVaR1dvLU11Si1oXzQxSFBHUjlpU2d5Ym1Yam9Cb094Y2VIek0xdnNjc9IBeEFVX3lxTE51c3Bwc2xKUjEzdzlUUzZ3UC1UMjkyZmVwWGozOWxRajJhWTZQTUlJclRtbjZMVVh3WnNJX3JoODYyMVBnZ29vZXZYWUVXYzBrbThRcG9lNERsR0xZdEhMM2g2NHhPQnZOaVF1ZTRuNTBHbU1WNGpIaw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "TK는 \"왜 광주냐\" 했는데, 반도체 품은 전남광주, 실은 토허제에 한숨? - 매일신문",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRjdmZE95LXJzSnk2dGtHZVBOZFFiSkNhVk16dmRLbVdhWE1DMzEwN3JMV2lBV1dYa1BaUDJjenN6VFh2Zml1eDFaT2RwYkxQaXh2WkpGUk9XdENiam5wdUhB?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "오픈AI AI 에이전트, 미 정부 사이트들 '무단접근' - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZUhRX2NhU0ZUY0UybGJ4b0xNYUN0V2RiSjQ5T3hxSnVLTC1IM1NCNkxMdG9oVVVKdnpxM0xHSnJYRXFDWFIzc0hDWnBEajNYU3JmVmNOZTZLVnpJbmVkVtIBYEFVX3lxTE9ZZUhRX2NhU0ZUY0UybGJ4b0xNYUN0V2RiSjQ5T3hxSnVLTC1IM1NCNkxMdG9oVVVKdnpxM0xHSnJYRXFDWFIzc0hDWnBEajNYU3JmVmNOZTZLVnpJbmVkVg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "미·중 정상, ‘슈퍼지능 대화체’ 운영 합의…“AI 대신 SI로 부를 것” - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFlRM19DTHo3bFY1MHVSM0VGSERUZTR0TWxhcXhNVGpaWTV0WkZBX05qSjVEWTVmOUJOLS1OOFFoNVFhdVdJczNfUkxpVnA2dzFQWXh1R0JhblJOUWE0enhTdkFheE1NNExHeVZPU1Jabm1MSDFuSkdwazYwUGNGaUpR?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"오픈AI 에이전트, 다른 호주 정부 웹사이트에도 침투 시도\" - v.daum.net",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOUJHelN4R2FtOFlyZ1U3bmMwME1JQUhEeUpuUEliOWpCVk9iT3A1T0I4QzExY1hqenlDNlY4bHBxcm8ycGF5RXhiSlkxWE0?oc=5",
         "source": "구글 뉴스"
       },
       {
+        "title": "‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uaEpIZlBaTnJKTFNnc05iaUtpUHZOMXVQVDM2SVlTYXJROThfTm45aWdfbVdIT2NFU3E3cEltSzFpejVrTkdSSWFqaFk1SGsxLXJiSzZPUzRqNkNXOUY5eXh4NkZpMWs?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출 - 연합뉴스 한민족센터",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40dFFvNGdNYmwwMlc3bjBpTm94QncwV1lzeU9oajRtOUxLQlZoWkZaLWtYV2IyYmlNVGNjRHZac0tTOWJreHBWWmFoLTdVWVJvcFl5Q0R0VXlTMXhCZkt1Mkk0T1ZpaHdqcXY5QVkyMVZkNWpH?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "미중, ‘초지능’ 대화채널 신설…AI 사고 때도 직접 소통 - 경북매일",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4XzVsWWRNc0R6RmdwMlIwWVVRa01aMm9UNUttY0VQX092Y3ZRM0FhUlcyb2w1eWVDMVRTV0VUdnVDaEw2djZVckgyWGNkRDhNU2p4OGh3SVNiZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"AI야, 내 음식 언제 와?\"...배민, 가게배달에 인공지능 도착 예측 시스템 도입 - 생생비즈플러스",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MTnc4Y21fWjBsVkpteEpuWE1WUW5OS192MTVoWGdBOEo2TDFlaE9CUlhieXQtM1liZTZMaTkwWTBlMjIzOUNmRzIwMWNzdmNtdTl2dFp1U3NyV05WZUt5Z3BfUFpOLUw1VXZiLQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "월드코인(WLD), AI 시대 ‘인간 인증’ 승부수…가격 흐름 가를 변수는 - CBC뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WFRROWxtcWgxSUdRV3NCT1cwZUphQURfRUZXeW80dVoxTFNRYThRdW1aa3QwRWJsMTRTdVBlOWRzNWh3a1VaMWYweU5PS2xjTUMyalNWb3gyeTFuSnZQQTBQQ2FxUGM2?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "연차 없이 9일 쉬는 ‘역대급 추석 연휴’ 언제?…56년 뒤 달력 소환",
-        "link": "https://n.news.naver.com/mnews/article/020/0003750708",
+        "title": "경찰 수사부서 과·팀장 3년간 338명 지휘역량평가 ‘부적절’ 판정",
+        "link": "https://n.news.naver.com/mnews/article/087/0001220331",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추석 연휴 셋째 날 전국 곳곳 비…전남 해안·제주 최대 80㎜",
-        "link": "https://n.news.naver.com/mnews/article/018/0006375618",
+        "title": "추석 당일 오후 귀성·귀경길 정체 지속…부산→서울 8시간10분",
+        "link": "https://n.news.naver.com/mnews/article/023/0004000387",
         "source": "네이버 뉴스"
       },
       {
-        "title": "글로벌 축제·참여형 콘텐츠 강화[2026안동국제탈춤페스티벌]",
-        "link": "https://n.news.naver.com/mnews/article/088/0001030627",
+        "title": "남양주 별장서 흉기 피습…운전기사에게 당한 70대 여성",
+        "link": "https://n.news.naver.com/mnews/article/057/0001970783",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“집값 비싼 곳 청소년 자살률 낮아”…주거환경 따라 격차",
-        "link": "https://n.news.naver.com/mnews/article/016/0002701950",
+        "title": "추석 북항에 '상어 구경' 인파…사흘간 32만명 몰려",
+        "link": "https://n.news.naver.com/mnews/article/079/0004192977",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추석 연휴 셋째 날 귀경길 정체 본격화…부산→서울 7시간",
-        "link": "https://n.news.naver.com/mnews/article/018/0006375619",
+        "title": "속초해경, 속초항 인근 운항 멈춘 요트 구조",
+        "link": "https://n.news.naver.com/mnews/article/421/0009192474",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-26 07:14"
+  "updated": "2026-09-26 12:21"
 }
