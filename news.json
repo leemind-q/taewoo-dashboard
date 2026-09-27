@@ -2,62 +2,62 @@
   "categories": {
     "IT": [
       {
+        "title": "화담숲에 우리 식물 120여종…LG U+, 생물종다양성정원",
+        "link": "https://n.news.naver.com/mnews/article/009/0005740354",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "오픈AI AI 에이전트, 미 정부 사이트들 '무단접근'",
+        "link": "https://n.news.naver.com/mnews/article/055/0001391244",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "日 총무성 \"韓 통신비 비싸\"…통신업계 \"왜곡된 요금제 비교\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009193580",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "대학 반도체 연구실 클린룸 사고 막는다…과기부, 특별 현장점검 추진",
         "link": "https://n.news.naver.com/mnews/article/018/0006375869",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG유플러스, 화담숲에 IoT 기술 적용한 자생식물 정원 조성",
-        "link": "https://n.news.naver.com/mnews/article/029/0003049914",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "\"서울 통신비 뉴욕과 비슷…세계 6개 주요 도시 중 1∼2위\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016338163",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "세금으로 연구해 놓고 왜 원문 비공개? 10편 중 6편",
-        "link": "https://n.news.naver.com/mnews/article/055/0001391285",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "차단 비웃는 불법사이트 '주소 바꿔치기'… 구글 등 해외 플랫폼 책임도",
-        "link": "https://n.news.naver.com/mnews/article/006/0000137936",
+        "title": "AI 인재도 중국으로…최상위 연구자 근무지서 美 첫 추월",
+        "link": "https://n.news.naver.com/mnews/article/018/0006375793",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "코스피 30% 반등했지만…ETF 투자자, 지수형 30% 반도체 80% 물렸다 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYjBPWUhDOTBrMEp0c1o3aE1QbUdWd0w5bkhwdk5selRKVlVrQ3hod3g5czZuZEhzcG1yQUtqdTBIRTRQSGMyN2MxMXp3TDJJYWc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "반도체 설비투자 확대 훈풍… 장비주 담은 ETF 강세[ETF 스퀘어] - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTXJ3SmhwamZySms0aV9jZXY5ZFV2Q0dPc2t3dmJCSmNZRUZfRkhVNW9naXpDNVI2M3RvMWZmdEF3amxOMU1HbkRraU01a2JJUE5WSVNzQzA4Zw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "코스피 7000 되찾았는데…내 주식도 오를까, 반도체만 또 웃을까 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pbl96NjNXWVlpSE82UXhNWjV6R0J6QVJ5cXFsNzBwZjFWODNhWHFRNmFjT09oRlQwUmJqWWdWS2paQUFKTDBLZnJ2UG55c1k?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "HBM 넘어 시스템반도체로…한미반도체, AI 장비 영토 확장 - 비즈워치",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbDlRNlg0dktEQmxYMHpfajBYU1hUZFRYS2hFalFFTENXS1p1QzF6RlFWdW5LWnZGbGJmTzNZSmpHVmVLRTh5a1FtcTk5M1paUGdzV1dVRUJoTlM0QUdSUlNSRjJCWWFuYkFzTQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "박홍근 \"호남 반도체, 현 정부 임기내 생산…팹 증설도 구상\" - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMcVB3NWlUaTRPSHFqUTBmR3AxdlU5dW5jT0YyTTJVOWhhYTU2bkZUOXZuSlN1cVZPWlZqUFVxLUp4dEJFVGxEdmQ0X2dydkhOQWVUMlRjQnhrNjc5NUphdNIBeEFVX3lxTFA1R3lLQ1dOOFhMdTJiN2FqVy1nbWRHTDZyTUpuRGpVRlRWT1J4YzMyc1l4aUVnZVM4T1hlZEp0d1hELXZENDd5eS1xMWswajlaLVR4N1pUaUc5UC0tR3BZZC1Cc0VtVnRRZXl0V0k0RERsYlI4M0pwdQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광주 반도체 산단 수백억 용역 발주…지역업체는 그림의 떡 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBacURnVk8zMnpxeV85U3R0NmV4dHdDWGo2aHl6RThUamtsOUhIamdNdnhPd3JPeFlFeGQxcFJYOFVSeEQ1OTh6eDRiZU9xTms?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 메가클러스터, 전남광주 백년대계로\"[칩 메카 전남광주⑦] - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91UVYyTUdqSk1BNmltajA4NTV1emZxTFNjSUZvZDFaNE5VWEM5cjNCR2JYZnVnSzBVcFZnZ2x1YTFBWGZLcVB6c3d5M1NMajY2eENYQTEtVGZBUmZEMjRLZtIBeEFVX3lxTFB1aDI4LXJWelJ4aGVlRXRBX3VLX0puZ0M4T2xlbmlScVR3T3oxLThoZVpXVmd6US01Zm00TmFZZVBzZldzbVJkR3BmeFVKbkVTS3hGX0ZUbnBGSlZncDV3NV9UUXduRUtoNWZNSFg1eVFOUlF4SHF1ZQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91MlMyOFZGS05WUmw2SmNaWElUS0lQYU9YYkJCOWpCd05PTDdJSmRJN18tdDhaQUFhMnlBWGdUTHNwem5EazdQRG1RYjZYeTQ?oc=5",
+        "title": "수도권 반도체 공장에 전북이 핵심 소재 공급 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWWRiUHEzOGFnb3A4M0VMVjIxbE13eDJLeF9MXzBoNldBazQ1M0w0elJ5cmxsZXZtYnROeFo0NWdzeFRiWXVibnJxSnBpX1k?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "구글 연구원, ‘AI 발전 너무 빠르다’ 사표 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmRGRVFxMlh4OTFVcmVoUFN3cjVTa0JhNk1XV0JSNXlFZm1rQmdNN3NPQmh6SzZ1N1JITXFoQm1vdkNoeTB2aDV1LU9GWU5SMGRwcTJJQWhIdUpiX1VZTl9aMFNUQ3k4N1VYdkl4ZnZXZXdOYkZ6dXd4QmVYeHM5YWttVQ?oc=5",
+        "title": "\"고가 AI모델·서버 무단 탈취…다크웹서 'LLM 재킹' 범죄 급증\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENkFwZ2lyOThXVnFEdDJIdERUN205cm5CRnhzOHY4eDF3bm5ZR1ltbi1pMF81bHFGcnhmdDBlRFdnWDlpempzeXFOeENVR0JYN3loQlNtNWhPM1XSAWBBVV95cUxOMWVHOUNHQnkxM3FNbndrNE9NNWlZMFgzODF5NkZTYjZfdjk1LVBuazVDc3J1cm8xcVhBNXY5eGR6NUF2T1R4QjJ0WTlYYkVrdFNuMmgyN1d3Q0U2NXVOQXo?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,7 +66,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "제3회 대한민국 인공지능 혁신대상…'AI+피지컬 AI 로봇' 혁신기업 찾는다 - 전자신문",
+        "title": "제3회 대한민국 인공지능 혁신대상…'AI+피지컬 AI 로봇' 혁신기업 찾는다 - etnews.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04aXF0YnNHN0FoRHBoTVRWY0FQQnlOV0c0eTU1ZjVBUlhWYmo0TXhOY2h2R1hWQk5lWVJadnRESXJOYXZENEhBaEVDdzdKUQ?oc=5",
         "source": "구글 뉴스"
       },
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "추석 가정폭력 신고 '67초에 1건'… 평소보다 42.4% 급증",
-        "link": "https://n.news.naver.com/mnews/article/469/0000956105",
+        "title": "식당 이름 왜 ‘시진핑’이냐면...테러당한 분당 주인 “중식 최고 되자는 뜻”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005740457",
         "source": "네이버 뉴스"
       },
       {
-        "title": "지도자 이름 써서? 중식당 테러 용의자 4명 모두 중국인",
-        "link": "https://n.news.naver.com/mnews/article/018/0006375860",
+        "title": "경찰, 연휴 전 관계성범죄 피해자 전수 모니터링…신고 증가폭 줄어",
+        "link": "https://n.news.naver.com/mnews/article/018/0006375953",
         "source": "네이버 뉴스"
       },
       {
-        "title": "현직 검사, ‘보완수사권 박탈’ 형사소송법 개정에 권한쟁의심판 청구",
-        "link": "https://n.news.naver.com/mnews/article/025/0003554001",
+        "title": "서울 지하철역 이름 팔아 280억 벌었다…11억 최고가는 '이곳'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005418728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'랜덤채팅 성착취' 유인…위장수사에 딱 걸린다",
-        "link": "https://n.news.naver.com/mnews/article/277/0005821067",
+        "title": "상어 '부캉이' 보러…부산 북항에 추석 연휴 사흘간 32만명 몰려",
+        "link": "https://n.news.naver.com/mnews/article/014/0005581059",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰, '천공 의혹' 제기 부승찬 의원 명예훼손 사건 불기소",
-        "link": "https://n.news.naver.com/mnews/article/052/0002411519",
+        "title": "‘연휴 마지막 날’ 귀경 차량 몰리는 고속도로… 부산→서울 5시간",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194529",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-27 17:11"
+  "updated": "2026-09-27 20:19"
 }
