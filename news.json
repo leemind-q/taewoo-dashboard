@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "원안위, 고리·한빛 사고관리계획서 결론 또 못 냈다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000956965",
+        "title": "네이버웹툰, '뉴토끼' 폐쇄 후 신규 구매 7.9배 증가",
+        "link": "https://n.news.naver.com/mnews/article/001/0016347728",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 비용 80% 줄인 '가성비' AI 'GPT-6.1 솔' 공개",
-        "link": "https://n.news.naver.com/mnews/article/014/0005582608",
+        "title": "누리호 5차 발사 D-6…오태석 우주청장 “공공위성은 누리호로 쏜다. 내년 차세대 중형위성 5호도 누리호로 발사”",
+        "link": "https://n.news.naver.com/mnews/article/023/0004001312",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중국 자본에 매각된 위메이드, 노조 생겼다",
-        "link": "https://n.news.naver.com/mnews/article/023/0004001337",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "방미통위, 광고규제완화 10월 16일 시행 앞두고 설명회 개최",
-        "link": "https://n.news.naver.com/mnews/article/055/0001392261",
+        "title": "삼성, 귀 막지 않는 무선 이어폰 ‘갤럭시 버즈 온’ 공개… 27일 국내 출시",
+        "link": "https://n.news.naver.com/mnews/article/366/0001195465",
         "source": "네이버 뉴스"
       },
       {
         "title": "“AI 상담사 활용… 고객 대기시간 47초서 5초로”",
         "link": "https://n.news.naver.com/mnews/article/023/0004001393",
         "source": "네이버 뉴스"
+      },
+      {
+        "title": "과기정통부, 알뜰폰 활성화 방안 후속조치 이행",
+        "link": "https://n.news.naver.com/mnews/article/029/0003050805",
+        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "美 마이크론, ‘AI 붐’ 타고 실적 5배… 韓 반도체도 청신호 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanduUjFZT0hXTzNmcnpUS1UzSDJzd1UyTFExUTI2UXFwWUNsVGVhQjJoRkRqNWhsd3FLRk1UOGFRT1lHbjVKVENvU0lkem1DcjJiM3VuSE8wMC1NZEptcDVhQ0gtUW4xR0ZHVC15NmJjNXh5R3NJbE9PUHFpMGgzdHo4aw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "‘반도체 풍향계’ 마이크론 실적 드디어 나온다…‘삼전닉스’ 랠리 재점화할까 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKbnlTaWZOX2x0dlUzMmdMU2RmWmFVUFAzRkRkOHQ3VzJRN3VIdmNXOG1MUnRoM1pyUkNWUVB3cmxSTTJEUkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "마이크론 실적에 엔비디아 자사주까지…반도체 투심 회복 촉각 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KWGZhRWJXXzE2NUVQNmF5UTFubko2M00tbTVoMEQ3d19TVEVXM2J3TjVGZU9OUmoyU3ZVX0o2RHJhYzhaRXRDTnVxN0VMSm5oV3JtZUlkd2V6Z2ktU09lbNIBeEFVX3lxTE5QbGxCYXJpN3k4bzFzWUszVzdlSkVaX2hTTHZJOFl4bjduVFBGWkZoem5KTlZnQ0Rtd2YydUZwOEVrRktMeFE4WlhTT25oaDUwVXl5S3VrWjFCSHJ5cDNYTks3S3lwam1MLVd2SkxkUEZsSEVSaUNISg?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "대통령은 또 “속도내라”지만…호남반도체 ‘실행 계획’이 없다 - 에너지경제신문",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpOG95Q2ZlcUtybklDbXFCS1l2d3JHeE5zc2NDWTN0a3h1dmdESm4tSjR5YWoxemtkNUJHZ2ZsX08tejEyd3JMM0FUeTB3ZGRlWHhTQVNOeXFRZnM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "SK하이닉스, 윈팩에 패키징 외주 다시 맡긴다 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGNGhDNXNFRnRER1F3b0tiSFVmM01vWkozdUg3em9hRUd1TzFXUVdHU0k1U0VGOXJ0eWVzSFVGSDZmWlgxZTdTbko3dUpVM0d1RXZGNUJfRlFUb2ZSWVpzdjFQaTBFQQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "테일러 키우고 오스틴 손보고⋯삼성 美 반도체 재편 [AI 투자 속도조절론의 허실] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xd09pR1pGVXktUlFfLWItTU1sdURSV21aT0dacVpmbTc4OUtTMVA2aTNpWC1tZUVGa1FUMGRUYlFKRU95WWtOc1FFWlVRWXc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체붐에 세수 '역대 최대'…미래기금에 56조 더 넣을 수 있어 - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YS2FnZmRULUR3MHRDZGNVLXF1bVhGMWVkR0tYOWhFUHZsVDh3WGNFdktBaTZWZER2dFp4bzFNalVhRHkycWhZWkREalJkYTQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"땡큐 반도체\"…국세수입도 '슈퍼사이클', 내년 106조 더 걷힌다 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lczhVc3dGWFhJTXB4X2h0Um5OMXlLQ2QxX3IwdVNNQzhFQndialVxOGJMTi1aallUVGh0S2N1bkJaOUh5RDJXQ1UwWFFtRWdZYWlXQ1RrQ1djWlN6ZjRyNXBiMVVEdXg0UzJF0gFwQVVfeXFMTVVLSVppWTdkdlZoLU5FSVZ4WkUybDhkTTFWcm84c3NoU1EtcWJ3dWZxX3ZJVDZKcUEwbHF6dTc1RTBLMVJvbGFfQUZ6dTlnN1JpdXAxbFljZS1XVTBNYm1UcUNYczBTTEo2NEo4ZVdYVA?oc=5",
+        "title": "용인특례시, 14일 하반기 일자리박람회 개최…'반도체 산업관' 첫 신설 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tREkwT1NKdm40dk5TM3Z0NnRfNDZRYkYtbUxBaTFRdFdFZlctdGlCZmF2SU9HQ1JJYjZ1TnUtQ1NvLVpQcDR6eWtxNzgzZWs?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "인천시, 공공행정 인공지능(AI) 활용 윤리 지침 마련 논의 본격화, 30일 전문가 토론회 개최 - dhns.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2Mkg5YUdUU0JnekFBWGJXT3VKNTBBN1dXS2VNWjdlWGRCblQ4Z1A2Z3NHVVM4eEtkMHAtV0ZoWFAzZFIyVzhFeGtEOXZRblhFNDAtX28xVGFvU0xKVDI2VFAyRC01Vkk?oc=5",
+        "title": "시흥시, 인공지능(AI) 직업교육훈련으로 여성 취·창업 지원 - newszoom.kr",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ReENkb29fY09udHBMQ3p5WDVqbEhjdjNHXzlxTFJ1Rkh6OURRS1ctdXlyek9Ga3AyaUR6YkcwSWVNU05Z?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "美, 통제 벗어난 AI 에이전트 조사…오픈AI·앤트로픽 겨냥 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQT21LVWJfVTY0RHNJeTBmSkdSV1hmV19aRVVSY3pIVTVDckpncjNIS3k2SGs1U3BZVW45WmlRWG9oa3duWHE5aG4zN3JGWkVZV3hKR0JXeEXSAV5BVV95cUxOWVhoTGtaUFRzLWktOGtHODM1M0xtSG5seC1IYzl2Y3lvMDFCX0hJZGYyeGZuczc0dl94cnpub1FYVE9yc1NKRG5pMGtVc2VuSUZKZV95cFk5TGhPSGJR?oc=5",
+        "title": "안산시, 10월 1일부터 생성형 인공지능(AI) 민원상담 챗봇 운영 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zcEN4d1VyNllzUmdfN1BEYjVEcTNaLU5vbEM5SXV6SzVoSTBXdHJfalphLU55bmhJVjRxOC1GWEJtOV8wLUxsQjlUa3hTNWh2OW5pUnZyOEcxRjNZVTZlWEhBOER4cTdhcy1oV2N1YUdvd1B1?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "공석 됐던 K-문샷 AI과학자 PD, 다시 뽑았다 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94Sm5xdENGX2JLbjg4Tm84U3JvTC1neVBFckl6bWVSSDZEMURiTG1TWWlocVVxNjVRQ2U1aDNXaTdlTlBkczIwUmQybm1Wck5ldGRFSE5ia0N6NXBRZEsxU9IBYEFVX3lxTE94Sm5xdENGX2JLbjg4Tm84U3JvTC1neVBFckl6bWVSSDZEMURiTG1TWWlocVVxNjVRQ2U1aDNXaTdlTlBkczIwUmQybm1Wck5ldGRFSE5ia0N6NXBRZEsxUw?oc=5",
+        "title": "경기도, 장애인 자립지원주택에 'AI 비서' 시범사업 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSWEtEVGRBbmZIMlJtT0ZtNFFhX0M0WGd6d0s4R1d3R2ZzU2ZhSzVfN3N2OUR0WFFYNkxQS3UxVG5qaXg2ZEh0Y083LVdUZkVqNFhUSV8wOXlXUzjSAWBBVV95cUxORlR4ZzlVMGI2MTJxOURHd2JZbXVQZjI4TG13NkktZ2NXdDVHZjF0dk96RVFMM1lZcTBrRjBFVE1aWEdBSDRkOUIxQUhEMVlBVUkwMld4aWNNcXVPWXlzOGI?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "오픈AI, '불량 에이전트 해킹' 첫 피소…美FTC도 조사 압박 - 연합뉴스 한민족센터",
+        "title": "오픈AI, '불량 에이전트 해킹' 첫 피소…美FTC도 조사 압박 - koreancenter.or.kr",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaVhDT2dBUEhaZWtaOWNNTWdmMmVWczJsRXR2dDgxbWpicHlneTd6M0twbFBueFJsOUU2ekZMV0RPbzNKMzlHUldDN3J1NmdOaGxxdWgtMm1TTWZhbDBTWHcyaFp2SXRPYnhFUUROeTM5Wlox?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "순천향대학교, 인공지능(AI) 인재양성 사업 선정...전주기 AI 인재양성 체계 구축 - 뉴스타운",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jc2VoWHg5dGcxOTVUZDZjMkpvWVp1Nm5sNWdMRmFEOUd5aElTbDl5OGZia3hFS2pMX3kyRDJRZG1HZEt3cGxjNHJNUHRLeEx0QVdUMXFFbWV6QnNYQmI2QXBjR1YwLWlsVWx1bzFB?oc=5",
+        "title": "목원대·건양대, ‘인공지능(AI) 중심대학’ 공모 선정 - 굿모닝충청",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNVgxdWcxZTdvTk9YOE40TnRkZkxGSDNBQU1FQUZ0ODhCM2kwQkFWRk9SZEJreEVSZ2wwamQ1Y0s5MFRUcHVVbjNBeUpTb2NYSE9iWkNHRDFLZzFvWHVIVFpXOE5DTkNhczdpRTRWX2hOZw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "여고생 이채원 양 성폭행할 목적으로 납치하려다 살해한 장윤기 1심서 무기징역…재판부 “사회와 격리해야”",
-        "link": "https://n.news.naver.com/mnews/article/087/0001221236",
+        "title": "‘영풍제지 주가조작’ 총책 징역 15년…1,324억 원 추징",
+        "link": "https://n.news.naver.com/mnews/article/056/0012265690",
         "source": "네이버 뉴스"
       },
       {
-        "title": "피해자를 가해자인듯 몰았다... 영화계, 현대사 끊임없이 왜곡",
-        "link": "https://n.news.naver.com/mnews/article/023/0004001209",
+        "title": "법원 “김승원 통해 청탁 명백”…제넨셀 설립자 징역 4년 법정구속",
+        "link": "https://n.news.naver.com/mnews/article/028/0002825324",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경기도·도의회 협상 평행선…추경 처리 결국 10월로",
-        "link": "https://n.news.naver.com/mnews/article/003/0014224960",
+        "title": "“60대에도 월 500만원씩 번다”…유명 연예인도 딴다는 이 자격증",
+        "link": "https://n.news.naver.com/mnews/article/009/0005742391",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전남광주특별시, 광양만권 이차전지 국가공급망 거점 육성 본격화",
-        "link": "https://n.news.naver.com/mnews/article/079/0004194417",
+        "title": "여수·순천·광양 645만평 이차전지 특화단지로 뛴다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002703940",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"김승원 통해 청탁하고 브로커에 6억\"…법정구속",
-        "link": "https://n.news.naver.com/mnews/article/055/0001392241",
+        "title": "특검, 추경호에 징역 20년 구형…\"국회 안에서 계엄군 같은 역할\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000538270",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-09-30 21:18"
+  "updated": "2026-10-01 00:43"
 }
