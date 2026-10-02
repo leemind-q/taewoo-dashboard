@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "네이버, 다낭·발리 등 아시아 45개 지역 여행 검색 강화…환율·비자 한눈에",
-        "link": "https://n.news.naver.com/mnews/article/119/0003138899",
+        "title": "글로벌 기준 맞춰 보안 재정비…티빙, 클라우드 보안 체계 강화",
+        "link": "https://n.news.naver.com/mnews/article/016/0002704658",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"부처 간 이음매 잇는다\"…이해민 AI수석, 첫 CAIO 협의회 주재",
-        "link": "https://n.news.naver.com/mnews/article/421/0009207163",
+        "title": "이해민 AI수석 \"부처 간 이음매 잇겠다\"…범정부 AI 조율 첫발",
+        "link": "https://n.news.naver.com/mnews/article/092/0002439732",
         "source": "네이버 뉴스"
       },
       {
-        "title": "게임위, 확률형 아이템 표시 위반 中 게임사 행정처분 착수",
-        "link": "https://n.news.naver.com/mnews/article/366/0001195949",
+        "title": "구글, ‘우주 데이터센터’ 첫 궤도 실험…TPU 위성 발사 성공",
+        "link": "https://n.news.naver.com/mnews/article/422/0000912101",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한전, 변전소 AI 감시에 '국산 NPU' 투입…리벨리온과 현장 실증",
-        "link": "https://n.news.naver.com/mnews/article/030/0003471980",
+        "title": "농림위성 첫 성과 공개…농작물 작황 관리 활용 본격화",
+        "link": "https://n.news.naver.com/mnews/article/662/0000105501",
         "source": "네이버 뉴스"
       },
       {
-        "title": "100만 명 이상 유출되면 ‘중요사건’ 처리",
-        "link": "https://n.news.naver.com/mnews/article/056/0012267022",
+        "title": "중소PP 방송 다양성 정부 지원 법안 통과...시행령·예산 등 후속조치 서둘러야",
+        "link": "https://n.news.naver.com/mnews/article/030/0003472081",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체가 半했다… 한국수출 사상 첫 1조달러 시대 눈앞 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYRGFPVFJ6QzlVc0FDODlISFMtNUtaZ2ZXR1YwazFfeHNfVkF6YUQzdnFXU1lvNldJRHU2a3NXR3hFNTlqazhYcm5qZGRmTlRaZkNIZ3pUOFpfbmJRR3VpUng5cnBNc055RGFR0gFwQVVfeXFMUENjRXc3YXpwUXZ1b3R4MmVycXZVT0FMREtnR1hmU2tma1MxdHhoQkZmNDZBSklSc0p5cEdUaGNjRFp5WXZ2ZDhIbTRiWkt5MzhpclJvS2JwVm56WjE0VDlKenRwbGNWYVdjWGNtaFpsNQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "韓 수출 절반이 반도체…모건스탠리 \"AI 메모리 초강세 사이클\" [fn마켓워치] - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PSm9yaEZXbU9Td1htWHExaHhSeTJ2YnJPWWJVMVdwUmVLU1Y5cC15WnhmaVBtZ2VfLXNNYXI0N0I5d1NBRGVOd2VjcHo5Yzg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[속보] 9월 반도체 수출 603억달러…사상 첫 600억달러 돌파 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OQTRTb2dDV3ZxYjVpbzRtUGtZXy1EU1F5OG5xVDlVa2ZPeHVYMEtCa1loUk9ENUdkX1RnRWxiUVM1cWo5VDRaZ2h3NzYzZWZNWUlhdnZBeWhqaDDSAWBBVV95cUxQVGpqMFpQaHVXWE1TVTNNOGNLZURMM1Q4bmV5YldteVBKaVFnajU3cW5NLWw3QWtRVFhHLUgyT01zUUdlWlFSZWxHNFN6RlA5SmU1M2xzVlMzcFJOci1FSVo?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[단독] 정부, 호남 반도체 입주 삼성·SK 직원 주거비 2000억 지원 논란 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDNMT1kyZkxFMVNrZ0ZOdjRHMW9oQ3hlR29EU21NWEdWa25Dc2NhMWM1RWFob0J2eHgtM3RBcWdBZDNuQXhteExMUFVwU0xlS2VkRlJSZUpnOWpkakp4S1VubVREN1ZzNU45aFZvS3J2YXVPMDVWNzIwa0pLUmRZZXdlQTJWSnozb0p3ejRPazM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[광화문·뷰] 반도체 외줄 탄 ‘4만달러 시대’의 불안 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbzJBak1iNkFjNUJFcVo4cVQzRTFSdDVXcjhadlVmNmhWVEpnZjdzYk5xR1N3SXd0Nmd0TDBHaFAyS1Jzd0NLeDNNbHdfNVQ4azhLcjRZLUhzQW91YWlJbEgxLVVnNXBlVEYxOFoyeklLWXlBUHJDV1JRdEhlQ3NPVXR3?oc=5",
+        "title": "반도체 소부장 ETF 랠리, 이달에도 이어진다 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FNWdHc2tZdWdHaWYwYjAwcWJFSW1BcV92amNPelI5NS15UEFINUdKbGNhVGJWbjFPVkJNaG5peXJJWlRndnc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "신한운용 'SOL 글로벌DRAM반도체플러스' ETF 7일 상장 - yna.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEMzdqS3JQLXUzVzQ4QzVfSmktQVAtWkhKZHJuMV90V3FJWlVsd3UzMjdWdHlBRG9KT1FPbkl1R2tpdVpUWXNmdklHRE9hM1ZIUzhIZ3B6RVJNR1HSAWBBVV95cUxNSzJBZGFnYjkwMUlmZHp0bmVxM3F3TGNYajJDVmRvRmxPcDlTT2tHb1plQ212cW1JZk1QWElNUWhIei13ZEdpTEZkZ3FQNGkwR0FEZUQwV3pwb0VfZjdpZWI?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한미일 상장된 메모리 반도체 투자 ETF, 7일 상장 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3RnlHSXlnanIwdUpnX1RxbWM4MG4wS09vLVZOR1IzMlIzQjV0eWcxTS1BazhkVEJ5YXNhb3hUMXNMbGd3b1llWXcyTHRHSmhfUmc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대기업은 반도체, 중소기업은?…수출 성적표 뜯어보니 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSTNkOWVzMEF0NnNqSTd2SVFPUVdhMGhQUk9VSlpsZll1ZHRiaEYwUThGcldjcE5KcFVNVEhpRnVSeWNnOE14SzhpUFJWUDA?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,7 +61,7 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "동서발전, 인공지능 활용한 알리오 서비스로 공시 무결성 높인다 - 연합뉴스",
+        "title": "동서발전, 인공지능 활용한 알리오 서비스로 공시 무결성 높인다 - yna.co.kr",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bd1pPbnFObXJmS0VRejNickxidk9saTR4bGZ0S3c4ZWVBaHVOZ3VMYll5VnV6UWxTYkJXNTZETnBld29COXNWSlV2RHJCWUJUUHZWZGVyS0htTmMxeGpnNdIBYEFVX3lxTE9Bd1pPbnFObXJmS0VRejNickxidk9saTR4bGZ0S3c4ZWVBaHVOZ3VMYll5VnV6UWxTYkJXNTZETnBld29COXNWSlV2RHJCWUJUUHZWZGVyS0htTmMxeGpnNQ?oc=5",
         "source": "구글 뉴스"
       },
@@ -71,43 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "환경산업기술원, ‘인공지능(AI) 윤리 준수기관’ 확인마크 획득 - 에너지데일리",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wd1U1NHVrX2NqMlZkT0tETHh1NTlsWlQxeGl6ZFdpZHZ2TGp5a2xJVE5jLWJyOFR1eC1xc1JhQkFGLURWVERFdjZIMk5MbkFqSHBWYS1fbmhFdEp5RzFBR1MxeXBoZkZlVVFjbmNEUDN2UQ?oc=5",
+        "title": "동서발전, 알리오 공시에 인공지능(AI)활용으로 무결성 높인다 - 한국전력신문",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSHRETHlJZGFOekxBbHdpdVdkU3hYWTY4VDhHMlo3bS1fT3FvVHpWZElKX3RINGZEemJaOGRpRnZlaXNYNDdxSG10TGpMNzhMSkVHNXl0OTlwc2xiaWdmU1hEaW5yMnZjRFE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "한수원 인재개발원, 국내 교육훈련기관 최초 ‘인공지능(AI) 국제인증’ 획득 - 한국전력신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRWS1FWmpobDNYd2Q5R3RRZ05fRWxNV0JDM19Yd0NEU2Y3cElrT3V2YlBTb2RDM21ybDBybnF6MFBHNDJvcGxaUWp4SEt2NjRNWkZ6TG9ITnVQMGdpbEpLcDFYbk9BY2ljZmc?oc=5",
+        "title": "환경산업기술원, ‘인공지능(AI) 윤리 준수기관’ 확인마크 획득 - energydaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wd1U1NHVrX2NqMlZkT0tETHh1NTlsWlQxeGl6ZFdpZHZ2TGp5a2xJVE5jLWJyOFR1eC1xc1JhQkFGLURWVERFdjZIMk5MbkFqSHBWYS1fbmhFdEp5RzFBR1MxeXBoZkZlVVFjbmNEUDN2UQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'시장직 상실형' 오세훈 항소심 마무리 단계‥특검, 징역 1년 6개월 구형",
-        "link": "https://n.news.naver.com/mnews/article/214/0001526970",
+        "title": "‘명태균 여론조사비 대납’ 오세훈 오늘 2심 구형…1심은 시장직 상실형",
+        "link": "https://n.news.naver.com/mnews/article/056/0012266925",
         "source": "네이버 뉴스"
       },
       {
-        "title": "부산시, '부캉이' 개인 상표 출원 대응",
-        "link": "https://n.news.naver.com/mnews/article/015/0005338610",
+        "title": "법원, 전남 국립의대 ‘순천대 추천’ 집행정지 각하…의대 신설 속도",
+        "link": "https://n.news.naver.com/mnews/article/081/0003685761",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“국립치의학연구원 천안으로”… 충청권 4개 시도, 한 목소리",
-        "link": "https://n.news.naver.com/mnews/article/081/0003685601",
+        "title": "개천절 연휴 도심 곳곳 집회·행사...교통 혼잡 예상",
+        "link": "https://n.news.naver.com/mnews/article/052/0002414193",
         "source": "네이버 뉴스"
       },
       {
-        "title": "반복되는 백신 오접종 사고…정부, QR·바코드 대조 추진",
-        "link": "https://n.news.naver.com/mnews/article/421/0009205265",
+        "title": "한화오션 집행정지 기각…‘원청 교섭 판단’ 또 엇갈려",
+        "link": "https://n.news.naver.com/mnews/article/011/0004667770",
         "source": "네이버 뉴스"
       },
       {
-        "title": "유해진 집 주소까지 털렸다",
-        "link": "https://n.news.naver.com/mnews/article/449/0000362833",
+        "title": "한 편의점서 10여차례 도둑질한 60대…절도에 '스토킹죄'도 적용",
+        "link": "https://n.news.naver.com/mnews/article/001/0016354839",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-02 16:34"
+  "updated": "2026-10-02 21:12"
 }
