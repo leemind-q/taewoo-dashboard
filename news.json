@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "스캐터랩 AI 채팅 '제타', 청소년 하루 3시간·월 10만원 이용 제한",
-        "link": "https://n.news.naver.com/mnews/article/421/0009221289",
+        "title": "스포츠 승부예측 게임 내 '기부' 악용한 불법 환전 기승",
+        "link": "https://n.news.naver.com/mnews/article/018/0006386532",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+ '단풍 명소' 화담숲에 장기고객 초청[테크스냅]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016369943",
+        "title": "삼성SDS, 우정항공 지분 100% 인수… 항공물류 사업 강화",
+        "link": "https://n.news.naver.com/mnews/article/366/0001197359",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SK텔레콤, 성수서 만난 문화유물 지역여행으로 연결한다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005587638",
+        "title": "6G 국제회의 제주서 개막…AI로 네트워크 비용 7% 줄인다, 상용화는 안갯속",
+        "link": "https://n.news.naver.com/mnews/article/018/0006386336",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버지도, 구글·삼성·메타 ‘AI 안경’에 탑재…스마트폰 안 봐도 길 찾는다",
-        "link": "https://n.news.naver.com/mnews/article/016/0002707885",
+        "title": "김종철 방미통위 위원장 “AI로부터 청소년 보호 필요… 정보통신망법·AI 기본법 보완 지원”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001197362",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위 국감 하루 앞으로⋯YTN 민영화·방송 공정성 쟁점 예고[2026 국감]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001064804",
+        "title": "수학 난제 푸는 AI… 수학자들 “분야 넘나드는 능력 탁월, 논문 구성·표기는 난해”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001197421",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
+        "title": "미국발 반도체 매도세 코스피에 옮겨붙어…시선은 미국 CPI로 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ocW5sWTFNYkFDQVpkM0lNWVFSaDhmUm5Kak5fUW5pNGNVdnliQU9laFNDYzU0a1RyYU9CQ2NiekRNU0hTTUxWSUtTQk9sR2RZX1hsWnJKSHBCR3plMUpuZHpMendpczNL0gFuQVVfeXFMTThSc2x1a1diUXh4Rmd4UGJ4RDh2NFBGRkpVLUE3YWpXZVhlSFpUMDFYblItV1B5ZEJHejdsZTNqc0ZWS19YbkxmYk9kT1I4VDJLQ0hHVFA2WWtiYl9CR3JsMGU3MmJubkF3aDhWR3c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 반도체보다 더 빠진 코스피…\"환율·하이닉스 부진 영향\" - KB Think",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SRVpPZU9fLUtPc1FXQ01ZY1BLQTRYQlo5QXNyZ3pXUmN1alh5MUdfaXVYTi1xZG1ROWg3WTFzVHZ1XzdZbmhqTUhMY1ZaQWFRU0NucW5WY0F4SVZBQ0pJVVAwQlRZNGs5dVVoaWNJWWNMUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "코스피, 4거래일 연속 하락…반도체 투톱 동반 급락 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81bE1EdGdTbVFpODc3RC1nQ0E5cjJwMnNGWHVnbE1VUWgzVmFSeUw4VmdCODdIMV9QcWg4bzQtMlpqd01ZZmFUWmt3czc5MUlNQ0hNNm84QmJVbVk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "최태원 SK 회장 “미·중 반도체 증설 시 우리 점유율 축소…최대한 빨리 확장 해야” - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14RzdDT0VkcHJDb1lNUFFDS1JLbmFxWmZCWVpXOXZab2VBQmN1dVA5RmFMNjA2R0YxSklwdEd5RHIxVU1QWk1LdldfWmNvZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "최태원 “美·中 반도체 증설 경쟁에 뒤처지면 점유율 하락…공장 확충 서둘러야” - 조선비즈 - Chosunbiz",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTU9rQ21wcHhaMWQzSnZZWkZlTjdncUxzS1JqVThFVnZJSnRGRDBNOXk0NnExN0hadWhQU3ZKeVdEa3ZoTHZhVHdueGkxQXNkVXdRMFFyOXMzRzgwbFd4WWxYajBqZHR6NlVhNFpTbWdVMXFMaE5KWUdnVGtLTlVDR2dR0gGWAUFVX3lxTE83aHpSeEcxZjIzSkZrN1BnN0V0N0xLSEJpeTJHSi1NZDNTUHdFeDRzaUoydzhONWFFUlJWRDRhMEVPTmpEWVp1ZEFMWHNHektiSnZlVVB2TGExYWtDV1dpTV91VFFWRU93Rk9sYjFHQmtha1VPdjJuay0xa2U1ejhKMVlhU3pKMFJSZ3IwNUFHemZFS1g1UQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국내·외 상관없다…최태원 회장, AI 메모리 호황에 반도체 증설 '속도전' - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UWNTU1hubm5HUmNlOVdQSlk0WmFJTTFiM1NvTDlmMVowU3cwb0NUWTR0VHl6bnY0V08ydDMxX1B6UDRJMWhESmQxQW5FZTJjaUtqQl9SMVFkQVo4T3BhcNIBeEFVX3lxTFByeUJYb3huOVBtSTYxNWpBdzlZVXIyWno0VWYtSl80R0RYbTlDeGZvb1hKbnBQekRsVzR6WUJJdWFGQ3FMRUVPdEJLbU9laVpVQUo5Vy1XQ0h0X09UZGJzUlJ4eXFtbU00dk1uYzA0SHlvc3BiQW1hcw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "최태원 회장, 미국·중국 'AI붐' 대응 \"한국도 반도체 증설에 속도를 내야 한다\"...\"일본 공장 스터디 중\" - 녹색경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNV9VSThWWlNkWk0tT295bDFGMUk1bHNNRGZqdDFfdDJsVExMSDl6Snk4STBVR0ZQeDNXNi1JRWZ2NnV1aF9uekxlN3dfcnJVOFN0eG5lTEJSS09nLWVCM0x3TDRRWmdN?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "'좋을 때 나쁠 때를 준비해야'…반도체 호황에 대한 이창용의 진단 - 이데일리",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXhkeWVFUUx1ZWwtSk1TOG1DOHZWRFVPd3BvNmxUTGJGNUZMaDRfQ0tMVDlJeVVudm0tMF91bDZoeFBwT0UzaWlfVzB2dEswYzVyclQ5dmN5dGdwSXNLcHRxWlk2b191RXlFd2w0eVBHa1VYNWxpWlhMNktLa3BDMg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 업고 이달초 수출 261억달러…2배로 뛰며 역대 최대(종합) - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMzYzR3VUNFg2N1BpNHk5X3JjTm1YS1h2dmFsazNZamtCSGllTTlXU25BUHdERGxTMGQwbXdXa25mVUVITE95ZXN4WWtfY3dtRGc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드' - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TN0Yzd2F1NW1seno5bkM4Q2lOZzZSbkVhOGFXak5ORzBIblNYZkhubjVoM0ExU3pUanBROHVEMXhjcDEtYkJ1eWx5R1pSTm9YMVhLcHZRMmlGeWVoSS1SZtIBYEFVX3lxTE5TN0Yzd2F1NW1seno5bkM4Q2lOZzZSbkVhOGFXak5ORzBIblNYZkhubjVoM0ExU3pUanBROHVEMXhjcDEtYkJ1eWx5R1pSTm9YMVhLcHZRMmlGeWVoSS1SZg?oc=5",
+        "title": "제3회 대한민국 인공지능 혁신대상 위원회 개최…“AI·피지컬 AI 로봇 혁신 퍼스트무버 발굴로 K-AI 미래 선도” - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ibHloRjhoSFU1YlN4VjFPZ2FuZWdQOVd0eUt3ZkRxMGJOLWwxRU9BNGFWUTZueElOZnlmY1d0T19TN1hScktzeU40ZnZtUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "제주도, 공영주차장 위험상황 AI 조기 감지 시스템 구축 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UnJYY0x0SzBfZmdQZFljeE9Kd2pvdEhBYVU5czliU2NFU1RleW5XS3VxRmxjVHVkQ2dxamp2TTdzNVR0Zm1NR3V0SEZ6R29xR0E5eTZWQ2NYb2wwMEJEadIBYEFVX3lxTFB6UnJYY0x0SzBfZmdQZFljeE9Kd2pvdEhBYVU5czliU2NFU1RleW5XS3VxRmxjVHVkQ2dxamp2TTdzNVR0Zm1NR3V0SEZ6R29xR0E5eTZWQ2NYb2wwMEJEaQ?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +71,43 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능은 장애인에게 독일까, 약일까? - 은평시민신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41d0t1eEFPX0FsSEYxRGJzQWc4czVfUEtueVliX2NSelBadnpOUUI2VjM4c2tuX1AxZ2doU0Nqa19GeUdOUl9GbkVNQ0xMTUpRaHNsa1RQdTgtUjl1dHd5T0dzd1dpUXc?oc=5",
+        "title": "[인터뷰] 치매 AI, 최종 승부처는 진료실 밖...“일상 대화가 의료 데이터로” - 디멘시아뉴스",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QT084OGs4VnNYWVhkQnVzaF9qQmczYVlhVTJoQ1UzTDVZamRFWXhXVHhzV3hHMUpGUEdrb2NvbjZsOWQ3UGtJZno3WW84eG1wMzVCTENFRTh0TDZMN3BZcUdhdlNTWS1tZTAwMUdHT0gwUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "성남×카이스트 인공지능(AI)경진대회 열기 ‘후끈’…12대 1 경쟁률 기록 - 일간투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ibHVOVWRzQXBBWmZpeUYtbWtJcWVOXzFWdVk5RUoyRVB1Zm05YTVRV0NfMkFEN200Ulg1LTBKYm9KMGM3dzlnUHJQejV0bHNhYktnay1hN3R6SWFQVjNkQUhtZThONUpsLXM4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "서산시, 인공지능 기반 행정 혁신 ‘업무 현장에서 찾는다’ - 서산포스트",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZMDFGUTJMZ1BySDg1M1I5Z00wVXZyX0trM3BTV3JNaTJSQ1Z3TFlraWVkZGwxb3lfRjUzOTA0ajR4dHU0X0Z4eWpxQklJSkdXeVZoZXlHZDFod2U5aEkwMXp6QmZUblFxLWg5U3NmTQ?oc=5",
+        "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드' - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZVRXY3g1emVaNVV0OG1YQ3BGMTVLRjUxUWMzTVhfSGN4aEpWdHlsc0E3ZXRlcVZ3Nm91VVlTRTRGWUh3RDMwUV9LY1M1YmlmNDlqYkxCdzlzUjBJSVRmRjh6SVh1QkI3cXpxVkRFYlpoODdG?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "대전 대동교 15일부터 부분 통제…왕복 2차로 유지",
-        "link": "https://n.news.naver.com/mnews/article/079/0004197501",
+        "title": "광양 '파노라마 워크' 개장…구봉산 1만여 명 찾아",
+        "link": "https://n.news.naver.com/mnews/article/277/0005827359",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태양광 수익으로 복지 향상…홍천 '햇빛 소득 마을' 4곳 선정",
-        "link": "https://n.news.naver.com/mnews/article/001/0016369979",
+        "title": "한동훈 딸 사건부터 김재섭 조사까지…경찰청 국감 '공정성' 공방",
+        "link": "https://n.news.naver.com/mnews/article/001/0016371427",
         "source": "네이버 뉴스"
       },
       {
-        "title": "3명 숨진 경북 영덕 풍력발전단지 화재 사고 6개월여 만에 현장 합동감식 진행",
-        "link": "https://n.news.naver.com/mnews/article/005/0001877938",
+        "title": "한발로 위태롭게 버티는 장병…‘지뢰 폭발 뒤 정쟁만’ 공익광고 시끌",
+        "link": "https://n.news.naver.com/mnews/article/025/0003557261",
         "source": "네이버 뉴스"
       },
       {
-        "title": "직장동료 '불륜 카톡' 촬영해 유포한 아동복지시설 직원…처벌은?",
-        "link": "https://n.news.naver.com/mnews/article/057/0001972804",
+        "title": "행안장관, 임은정 감찰 지시…\"김지용 후보 지적질만 골몰\"",
+        "link": "https://n.news.naver.com/mnews/article/009/0005746837",
         "source": "네이버 뉴스"
       },
       {
-        "title": "임은정 \"1호 감찰 대상 서글픈 일\"…여당 \"상식적인 조치\"",
-        "link": "https://n.news.naver.com/mnews/article/057/0001972843",
+        "title": "교육부, '사립대 특성화'에 투자…올해 선도대학 33개교 선정",
+        "link": "https://n.news.naver.com/mnews/article/277/0005827198",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-12 01:34"
+  "updated": "2026-10-12 08:48"
 }
