@@ -2,62 +2,72 @@
   "categories": {
     "IT": [
       {
-        "title": "스포츠 승부예측 게임 내 '기부' 악용한 불법 환전 기승",
-        "link": "https://n.news.naver.com/mnews/article/018/0006386532",
+        "title": "김종철 \"KT 관련 사실조사 종료, 후속 심의 준비\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002440633",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성SDS, 우정항공 지분 100% 인수… 항공물류 사업 강화",
-        "link": "https://n.news.naver.com/mnews/article/366/0001197359",
+        "title": "청소년 AI 챗봇 안전장치 '구멍'…국내외서 잇단 유해성 논란",
+        "link": "https://n.news.naver.com/mnews/article/469/0000958794",
         "source": "네이버 뉴스"
       },
       {
-        "title": "6G 국제회의 제주서 개막…AI로 네트워크 비용 7% 줄인다, 상용화는 안갯속",
-        "link": "https://n.news.naver.com/mnews/article/018/0006386336",
+        "title": "얀 르쿤 \"AI 시대 사이버 보안, 방어자가 유리… 화이트해커 집단지성 승리\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014247387",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김종철 방미통위 위원장 “AI로부터 청소년 보호 필요… 정보통신망법·AI 기본법 보완 지원”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001197362",
+        "title": "등급분류 게임서 환전상 활개…‘기부하기’ 악용한 현금화 영업",
+        "link": "https://n.news.naver.com/mnews/article/029/0003052597",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수학 난제 푸는 AI… 수학자들 “분야 넘나드는 능력 탁월, 논문 구성·표기는 난해”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001197421",
+        "title": "\"세이프 모드 켰는데도 자살 대화\"…AI 캐릭터챗 청소년 보호 '구멍'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006386752",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "미국발 반도체 매도세 코스피에 옮겨붙어…시선은 미국 CPI로 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ocW5sWTFNYkFDQVpkM0lNWVFSaDhmUm5Kak5fUW5pNGNVdnliQU9laFNDYzU0a1RyYU9CQ2NiekRNU0hTTUxWSUtTQk9sR2RZX1hsWnJKSHBCR3plMUpuZHpMendpczNL0gFuQVVfeXFMTThSc2x1a1diUXh4Rmd4UGJ4RDh2NFBGRkpVLUE3YWpXZVhlSFpUMDFYblItV1B5ZEJHejdsZTNqc0ZWS19YbkxmYk9kT1I4VDJLQ0hHVFA2WWtiYl9CR3JsMGU3MmJubkF3aDhWR3c?oc=5",
+        "title": "또 'AI 거품론'...반도체 매도 압력, 삼전닉스 약세 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUUYwYkxJZ1VZVE1IdkRtWlJpcmNldk5EREpBSzdweGNNMW5GTHZIU3JTRkhpWEhBZk1pR1FncEVHZGpoNlZ2UG02QXNZald6aU1wVXc0Vk9wbjBZeWg0MjdfM09mUTFw0gFuQVVfeXFMTnJlclVUcFNyVWJITnBaTDZkcDNkTVpJeUhuV3JkY2p3VTJYRDZzV05DS184dG5YX1VPcjU0elJkcEVULXlmcklaRndsejdPVEloempkYmlINzMtUnpOcXdYZHNRbFFKaldBLUsxS2c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "美 반도체보다 더 빠진 코스피…\"환율·하이닉스 부진 영향\" - KB Think",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SRVpPZU9fLUtPc1FXQ01ZY1BLQTRYQlo5QXNyZ3pXUmN1alh5MUdfaXVYTi1xZG1ROWg3WTFzVHZ1XzdZbmhqTUhMY1ZaQWFRU0NucW5WY0F4SVZBQ0pJVVAwQlRZNGs5dVVoaWNJWWNMUQ?oc=5",
+        "title": "한전 사장 \"호남 반도체 전력망 비용 20% 부담…삼전닉스가 80%\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ST0NwTmFTNGZTS1JaeERHZ196dmlSc2d0MDFYelVZU0tJcXd4NlpnQTFKc0hPSkh0U1JRM3Fhc1dwbWRNMGJDT3FkUkdGZXc5dG80RU02U0stUEnSAWBBVV95cUxNYTVxM2NCOXBGbHVlZVE1TG5EanN0TnZXa2RyRlUxWElXNE9ENXY0UlBJZnhfckJQeHBmTXFSLWMteXMwNFoxaUl4NHNReG1lUU1FZGlSVTlfRTExYjVBWEY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "코스피, 4거래일 연속 하락…반도체 투톱 동반 급락 - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81bE1EdGdTbVFpODc3RC1nQ0E5cjJwMnNGWHVnbE1VUWgzVmFSeUw4VmdCODdIMV9QcWg4bzQtMlpqd01ZZmFUWmt3czc5MUlNQ0hNNm84QmJVbVk?oc=5",
+        "title": "호남 반도체 전력망 비용 1.4兆, 삼전닉스가 80% 낸다 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0pKZTNfUXFmU0psX3hySW1UN18wT1FtUnllRDByenk2aEhQUXNSLWdyZmhpdFNDVWtlR2Q1M08yeHprNlFNZmVybGV0YmRyc2RKSjZBQXBCWFJyTjNpaWF1d0traXJqMHU1MXhSYWxRa3p4OHNhblk2ZDJ6UmZyXzhYTkXSAZgBQVVfeXFMUFVWVHo0eHJMSVN2Znd0Y2h4dmRYYnVlQ09XblJ4ZEpkZlhkRG9DcGFnOFpKYk9xSk03Z09MajNrcWtkN2c3T20zTXliZEQ2WC1Fd01tNGNFSXlERFJzemZlaHJkSGpoU2R6NjBuR3AyNkNJNEpsTHppOWJIZkJIS0htZTZRQUtvRW9TRk41a21uSkhIUjk3Wk4?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "최태원 SK 회장 “미·중 반도체 증설 시 우리 점유율 축소…최대한 빨리 확장 해야” - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14RzdDT0VkcHJDb1lNUFFDS1JLbmFxWmZCWVpXOXZab2VBQmN1dVA5RmFMNjA2R0YxSklwdEd5RHIxVU1QWk1LdldfWmNvZw?oc=5",
+        "title": "산업장관 \"호남 반도체, 기업 절박해 의구심 갖지 않아도 돼\" - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVTF3ejJlNVpGT3QyMkxaajdpOGEtcGVkdVNEX1dRX0p0RXFkTFlDa3dpaUlwNW9DbjBIUnZnYnZmckltQ1V0WTh4OGpDUUFhUEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "최태원 “美·中 반도체 증설 경쟁에 뒤처지면 점유율 하락…공장 확충 서둘러야” - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTU9rQ21wcHhaMWQzSnZZWkZlTjdncUxzS1JqVThFVnZJSnRGRDBNOXk0NnExN0hadWhQU3ZKeVdEa3ZoTHZhVHdueGkxQXNkVXdRMFFyOXMzRzgwbFd4WWxYajBqZHR6NlVhNFpTbWdVMXFMaE5KWUdnVGtLTlVDR2dR0gGWAUFVX3lxTE83aHpSeEcxZjIzSkZrN1BnN0V0N0xLSEJpeTJHSi1NZDNTUHdFeDRzaUoydzhONWFFUlJWRDRhMEVPTmpEWVp1ZEFMWHNHektiSnZlVVB2TGExYWtDV1dpTV91VFFWRU93Rk9sYjFHQmtha1VPdjJuay0xa2U1ejhKMVlhU3pKMFJSZ3IwNUFHemZFS1g1UQ?oc=5",
+        "title": "AI 투자 열풍에 수익성 의문 확산…반도체 기업 실적 시험대 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWJRXzROQVplT1FnZnZ5MTJBTlU1LTlRSmJlZzFRejFTTXlwTmI3TWdJcWN6Yld6aHFneDN6X3VOc1RKSWVVb0ZlUHY5dE9HakU1T1I5cmVXTkE3azNuSnpJdmhmQVQ2Z1cxSXBoaERYQlJMZnNHZXpydjgzQWFKQ1BlMGdsQnla?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
+        "title": "제3회 대한민국 인공지능 혁신대상 위원회 개최…“AI·피지컬 AI 로봇 혁신 퍼스트무버 발굴로 K-AI 미래 선도” - 로봇신문",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tOC1xbDFld09wMEREMVpNLXFtazVPVi0teWpPMFJOY3lmMXFQOFVEd3dhWEZ4UkRLZURZZmhLT0pyemNibkhZelpSYURyeWcwVE9GZ2s4bmRuOGpudmx2NWUtZXFVOFltMkJrUw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "제3회 대한민국 인공지능 혁신대상 위원회 개최…“AI·피지컬 AI 로봇 혁신 퍼스트무버 발굴로 K-AI 미래 선도” - 전자신문",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ibHloRjhoSFU1YlN4VjFPZ2FuZWdQOVd0eUt3ZkRxMGJOLWwxRU9BNGFWUTZueElOZnlmY1d0T19TN1hScktzeU40ZnZtUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "인공지능이 폐기물 식별부터 수거 신청까지…정부, ‘가져가’ 앱 은평구 실증 개시 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSi1zNFJpTHk5VWJmSWw0NV9PSmxNdEQwZTRYbnpMUHdZQUZfTlRTUGliN3Y4TlZmYW1WOFpocmF6ZDI3OHVZbHZubC15emtJUWkzbkMxa3REa0NHRnNqLTlQOG8xVTA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "수성구, 공무원이 직접 인공지능(AI) 서비스 만든다…‘인공지능(AI) 크루’ 첫 양성 - 서울경제TV",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGeUFfVFlCX29mLUF4RzVVUkhGdFk0cDhhNEZRdTlEcEYzNlNmVzg1N29aVjc5bDNNYXFneGdJaGdHUjF4RjZ6MGZjblM0Z3NKQ0FCRXc4R2lpYmNXb1I0by10ck4?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "[인터뷰] 치매 AI, 최종 승부처는 진료실 밖...“일상 대화가 의료 데이터로” - 디멘시아뉴스",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QT084OGs4VnNYWVhkQnVzaF9qQmczYVlhVTJoQ1UzTDVZamRFWXhXVHhzV3hHMUpGUEdrb2NvbjZsOWQ3UGtJZno3WW84eG1wMzVCTENFRTh0TDZMN3BZcUdhdlNTWS1tZTAwMUdHT0gwUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드' - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZVRXY3g1emVaNVV0OG1YQ3BGMTVLRjUxUWMzTVhfSGN4aEpWdHlsc0E3ZXRlcVZ3Nm91VVlTRTRGWUh3RDMwUV9LY1M1YmlmNDlqYkxCdzlzUjBJSVRmRjh6SVh1QkI3cXpxVkRFYlpoODdG?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "광양 '파노라마 워크' 개장…구봉산 1만여 명 찾아",
-        "link": "https://n.news.naver.com/mnews/article/277/0005827359",
+        "title": "\"한동훈 딸 의혹, 새 사실 드러나면 재수사 배제 안하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0001033647",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한동훈 딸 사건부터 김재섭 조사까지…경찰청 국감 '공정성' 공방",
-        "link": "https://n.news.naver.com/mnews/article/001/0016371427",
+        "title": "[속보] 경찰, 장모 살해·아내 납치 20대 구속영장 신청",
+        "link": "https://n.news.naver.com/mnews/article/025/0003557325",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한발로 위태롭게 버티는 장병…‘지뢰 폭발 뒤 정쟁만’ 공익광고 시끌",
-        "link": "https://n.news.naver.com/mnews/article/025/0003557261",
+        "title": "대교협, '수시 먹통 사태'에 \"재발 않도록 원서접수 시스템 강화\"",
+        "link": "https://n.news.naver.com/mnews/article/214/0001528463",
         "source": "네이버 뉴스"
       },
       {
-        "title": "행안장관, 임은정 감찰 지시…\"김지용 후보 지적질만 골몰\"",
-        "link": "https://n.news.naver.com/mnews/article/009/0005746837",
+        "title": "출범 9일째 업무 숙지도 못한 중수청 직원…\"개청 초기 비상상황\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001394625",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교육부, '사립대 특성화'에 투자…올해 선도대학 33개교 선정",
-        "link": "https://n.news.naver.com/mnews/article/277/0005827198",
+        "title": "중수청, ‘김지용 비판’ 임은정 감찰 착수",
+        "link": "https://n.news.naver.com/mnews/article/081/0003688063",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-12 08:48"
+  "updated": "2026-10-12 18:43"
 }
