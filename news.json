@@ -2,62 +2,62 @@
   "categories": {
     "IT": [
       {
-        "title": "삼성전자, 건강 앱 수면·러닝 기능 업데이트",
-        "link": "https://n.news.naver.com/mnews/article/023/0004003746",
+        "title": "3일만 기록해도 수면 코칭…삼성 헬스 업데이트",
+        "link": "https://n.news.naver.com/mnews/article/018/0006387991",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'투자회사' 카카오X, 2030년 매출 10조 목표…AI·금융·콘텐츠 육성",
-        "link": "https://n.news.naver.com/mnews/article/421/0009227170",
+        "title": "카카오그룹, 인적분할 앞두고 주요 계열사 CEO 모여 ‘첫 공동 IR’ 열어",
+        "link": "https://n.news.naver.com/mnews/article/366/0001197798",
         "source": "네이버 뉴스"
       },
       {
-        "title": "티빙, 새 'CISO'에 오늘의집·요기요 출신 국태호 선임",
-        "link": "https://n.news.naver.com/mnews/article/003/0014253865",
+        "title": "넷플릭스 한국 매출 첫 1조 돌파‥81%는 미국 본사가 '꿀꺽'",
+        "link": "https://n.news.naver.com/mnews/article/214/0001528973",
         "source": "네이버 뉴스"
       },
       {
-        "title": "넷플릭스, 1000명 감원…유튜브와 경쟁 심화",
-        "link": "https://n.news.naver.com/mnews/article/277/0005828622",
+        "title": "한국 유선 인터넷 속도 ‘세계 22위’…베트남·태국에도 밀렸다",
+        "link": "https://n.news.naver.com/mnews/article/056/0012273593",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'인터넷 강국' 한국, 베트남에도 밀렸다?…정부 \"비교 한계\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016377091",
+        "title": "'1조 빅딜' 위메이드 매각 제동…잔금 8280억 납입 두 달 밀렸다",
+        "link": "https://n.news.naver.com/mnews/article/293/0000091583",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "'미국이 그렇게 막았는데'…중국 반도체 '잭팟' 터졌다 [차이나 워치] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5idGRNQ09LQjJ5X2s0UlVVaGxtWjJFVVNYeGZlT0RyaTU2bnhlVWZaSktLSldjaVBBQ3Q3M0pvek1tZVNpWmZKaDlSbkVzQV9Sb3RySkJiYWl5QQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"반도체는 삼성도 힘들어하는데\"…정 회장 \"반드시 해야\" - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXpCZ1l0R1Zoa05CQ2tnNlJ6MnFRRmtncDJndG9IcEc0NWVCdk1Cc19leTYydEhoNFZ5TE9JTHpMclU4TVp5ZjV0V3BLRThaM1l5Tjk5UHR0SVJuTkJuRjJJSDdGTkdoSWNrRkx4TkNkNHJpWXhkZFF1aXJYV2JFTDZ4ektwOW5SMThMc3RDZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 영향 받는 건 같은데…코스피만 유독 타격 큰 이유? - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNUVGckFBcldIeEd0T3Nqem1YcEhJbWV6Z2JaQ1Znc29yUW9aUDEwdU83akc5UjhyVWVNelQ1UmZnT3JLbTBaclJURnRoXzc3bzVDM2xhS0ZTeWc?oc=5",
+        "title": "\"반도체 비싸서\"…스마트폰 출하 14년 만에 최저 - SBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FOWsxSWlqb0Q3bzJNVDJPcFBMc1N5T3BpMTAyQ2Y0OXljMEViWDhfYUlHMVNrbnI2aTdXT1pUeks3OGhtc0trT1FsbklkSVZFTGNpaG9oZWIzTFh3Nm50MlBpSHk2bHBlRWfSAWZBVV95cUxPWDFaTlRZR25rem5EU2s1bTFnYkNmOFNxLUVVaXl6NmJDUTlWWnZlQUNlaVZacnhFOWNYamY5UGdlOFNpQTVwVTRyN09mY3pvNzB1RlFoUnhJZWJwWUVQRkozNkRONFE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "美 CPI 쇼크에 반도체 또 4%↓…오늘 '삼전닉스' 외국인 투매 멈출까 - 녹색경제신문",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aVWowOTBBVzAtaVF0SHg4VHR2U1JMa3lPbzU5ODN0RXczZzh3MEdvVFZUbm9XOE1nM1EzeldmbXNkWWpvX2ZkZnJzNlJwRHpDX2hmSnUwN0xxaS1aRVBaMmhvUTh5dmJh?oc=5",
+        "title": "뉴욕증시, 물가 충격·반도체 약세에 하락…나스닥 1.9%↓ - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44LWZDaVRNNnZFUWFUNEFFSXA4Tm5MQ0YyYmtyOW9fQWU3S3ZuRGo1WXJ1VHh4S0pIc1psQU9vYzBWc1RLTHJLTVhPX19VaXhQR3AyaTZ2QVFJNzA?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼전닉스 ‘형님株’ 주춤한 새…반도체 ‘소·부·장’ 아우들 상승 랠리 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Sb083ZktOWjhWdFg5T2laUXdDOXNIaVNpSE1BZjdsd0JPUUtsNTFGUC1iN2I4OWtvUWROSGNldThrN2N2MDluT3g5Q1J4RlhoM0JfLWh0ckJhNG51azB4QWNqYk9vSmRmTmstdURuTFRvZ3EyeWfSAWZBVV95cUxNTmdaS1RqcVhHZF9zY1I1T0hrMTJBQ1ZmS0s5WjUwZEpmVVBmQlBMZXdoZ3pMN05NbTJXcTZJaDNhRWYxMkZiUHowU3hJTTNZeEVQVml2RHVxMHZUT2FvVVNHOTZldFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "트럼프 \"뉴욕주에 반도체 공장 2곳 신설\"…日 210억달러 투자 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WRERrdDNLRC03dHZtT1UzQjltX3hmbVVic1dWbmxTb0lFcXIxenRQbDVjT1NESHBjT0Y1TlhZcEltNXMtVTZMZnMzTFZSVzBRcGhleXNRTHcyUkdFUEpVUENhRGk5SjJM0gFuQVVfeXFMUE9qNUlPMHVKWVZrM0lmejVZN1dzcU0tcm8zcGZWclZ2TkxYRy1XdzhpV2RwOHBLUEQ4SkxuWnhDSHJuUEU1TGpFZXB4UHZIaTNZU3VJczA0QWZNWHEwUTNMOEdSVFNwOXlBQm5wYlE?oc=5",
+        "title": "예상 웃돈 美 소비자물가에 금리인상 우려…필라델피아 반도체지수 4.3%↓ - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQ1lieFE2cHBPdzN3RGQtVUtqRk5YRzZqb2t4TXl1SjNZNlQ1WDU3UzZQSmJkNTE4SXU5aWJMRjRoc1hNTmY5SUc3ODZNM0l6SkRGdGJGRFFaSDFBRkw2RVRJdUVDMW8?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "경남교육청, 현장 교원과 함께 인공지능(AI)·디지털 교육 미래 방향 모색 - 경남일보",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81ZWg0QnV2c2JtWHZvQ2cxMmF2X1JxbWZwNFkxZW9mM29QRHI1dFJyUF9tZkxlX0d2TTFxQ2ZNVHI3bXJHOXBoRGUxTWx2alp1UXVpVWtGcThaNnBmZWEyQUdQdmpiYTRfNldr?oc=5",
+        "title": "제3회 대한민국 인공지능 혁신대상 위원회..AI와 피지컬 AI 로봇 양대 포상 영역 확대 - 제주환경일보",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWE1EOE9zaGY5eXl6N3NOTTZGUFFRQlkwLWttcEJKdjhUc0czWlo4aS16Qi15YnRlSlMtU010cXJqTUpMWUFUT0ROYm9Cam5KMDRWNUQ4dkhWNW94ekRBT2hXUy1IV0Jr?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "오픈AI, 수학 극악의 최대 난제 '리만 가설' 도전 - DongA Science",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CanVMc0FhTVBwOTFOdUxYdWJ0YTA4Y2xneEtwVkJHcHB5ZFFOTnBNOVIySGtlZ25US2NMUGVILTlHcnpnQmxWY3MtYUZRZms2aXBISg?oc=5",
+        "title": "[인공지능 줌인] 챗GPT로 쓴 9만 달러짜리 보고서, 비전문가 작성 드러나… AI 도입 속도 줄이는 글로벌 기업들 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10RnVuSkJ6bFRkWGlLSlFFMlB4bC10d2J5UTE3NGRzMElfLVNzLTJMTzdENlE4WF82b0VMelowRE9HY0hCSFlQWGhMQlhScHJRMDBGQXZ3NldNbkczQTZ4ZzVITDlTLUZXazB6RnJhcEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[포토뉴스] “대기업만 쓰면 무슨 소용...피지컬 AI, 공장 골목까지 가야” - 헬로티",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YUlQ5RGRZM09iTGxUcE5vSTJ2Q002Y0V6VVVqcHBSQmZpWUZjMVd5ZVBITUVBemk4TE5HaFVHcWkzSVRyVzlCN2dLUkstNU9KVDFXVDJEY2hkZzFiVFlF?oc=5",
+        "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\" - 서울Pn",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yUGVPcFJhRFpFZlpDMXdwS1R6eVVTTWhOWEs2YmdVaUhiUmFvc0VNMUhFYnFBdzRXYTZwQjBWdEdTM3FZRGoxUGJOVkFuVnR1ZVlkOW93SXFKWHVDcWNDUnZB?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경콘진 ‘2026 대한민국 AI(인공지능) 콘텐츠 어워즈’ 시상식 개최 - 산경일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMUE5T2VZT0lOaWFBZVFmU2owUFc4eGJ4M081dndYSWFaa1AwVjljMk1EUnRhNFQ1d2didmxaMllXemlrTFRZUmdiY2w5aEU5TVZhRFc4TENaN0JTSmRyQXZQWlNNeDIxSTktZTZiUGc?oc=5",
+        "title": "라온시큐어 AI 가드레일 '원쉴드', 인공지능 제품·서비스 확인서 획득 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYzMyWlBPNUpGUU5SRlFMLTE4c1Ztc3NVemcwR1l5WGtaWllwTzlrQUltOWQ4NElkM3dSOFlEb3FyT2lhZ3pFX25keGcya0NRNTE3YzJn?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "9호선 출근길 8회 늘린다…혼잡도 190%대→170%대로",
-        "link": "https://n.news.naver.com/mnews/article/421/0009227835",
+        "title": "정근식 “학생 줄어도 학교 역할 늘어…교육수요 반영해야”[세상&]",
+        "link": "https://n.news.naver.com/mnews/article/016/0002709158",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘나주 부부 살해’ 피의자 신상 공개…53살 박용수",
-        "link": "https://n.news.naver.com/mnews/article/056/0012273844",
+        "title": "나주 60대 부부 강도 살해한 52세 '박용수' 신상공개",
+        "link": "https://n.news.naver.com/mnews/article/014/0005588962",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이화영 측 “이달 중 재심 신청할 것…가석방 등 다른 조치 생각 안 해”",
-        "link": "https://n.news.naver.com/mnews/article/023/0004003624",
+        "title": "세계 디자인의 해법 모인 '서울디자인위크' 개막[서울]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002418720",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전주서 아내 살해한 70대 긴급체포…이전에도 여러 차례 가정폭력",
-        "link": "https://n.news.naver.com/mnews/article/028/0002827511",
+        "title": "[속보] ‘1억 공천헌금’ 무소속 강선우 의원 1심 징역 2년 6개월 선고",
+        "link": "https://n.news.naver.com/mnews/article/009/0005748377",
         "source": "네이버 뉴스"
       },
       {
-        "title": "4층 향하던 인천 칼부림 男, 20대 직장인이 대형 참사 막았다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005342186",
+        "title": "춘천 막닭축제 오늘 개막...18일까지 5일간 공지천 산책로 일원",
+        "link": "https://n.news.naver.com/mnews/article/654/0000205159",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-14 20:01"
+  "updated": "2026-10-14 23:21"
 }
