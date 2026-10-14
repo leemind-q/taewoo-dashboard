@@ -2,40 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "AI 도입 넘어 성과 창출로… 코오롱베니트 “AX 여정 끝까지 함께”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001878505",
+        "title": "코오롱베니트 대표 \"AI 도입만으론 생산성 안 높아져\"[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016373397",
         "source": "네이버 뉴스"
       },
       {
-        "title": "우주청 \"누리호 5차 발사 부탑재위성 9기 모두 교신 성공\"",
-        "link": "https://n.news.naver.com/mnews/article/469/0000959105",
+        "title": "“AIDC 데이터 폭증 잡는다”…KT, 대역폭 8배 늘린 800Gbps 'AI 전용회선' 공개",
+        "link": "https://n.news.naver.com/mnews/article/018/0006387545",
         "source": "네이버 뉴스"
       },
       {
-        "title": "HBM 상용화 기여 김정호 KAIST 교수, 과학기술혁신대상 수상",
-        "link": "https://n.news.naver.com/mnews/article/277/0005827663",
+        "title": "\"카톡에서 AI비서팀 부른다\"…카카오, 메신저 판을 바꾼다",
+        "link": "https://n.news.naver.com/mnews/article/003/0014251288",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카톡 화면 손으로 쓸면 ‘라이언’ 등장, 검색·쇼핑·예약 ‘척척’…카카오, AI 비서 ‘카나나 스페이스’ 공개",
-        "link": "https://n.news.naver.com/mnews/article/032/0003476081",
+        "title": "국감장 선 개인정보위원장 “韓 보호체계 뒤처져…엄정 대응”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004670889",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"피지컬 AI 상용화…글로벌 1강 노린다\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005425872",
+        "title": "AI 반도체 성능·전력 한계 넘는다…'K-문샷' 위원회 출범",
+        "link": "https://n.news.naver.com/mnews/article/001/0016374920",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybTlfNDRfSnlTM3l0VzBjYm5QNmpPeW9wLWJ6UGE1dTF2ZEd3Nll1LTA4dW0wVFlneHNqaWlMTzFDY21VbEF3eDluN2FVSXAyR0FQcVRuVm1kUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "D램 가격 둔화에 중국 추격까지…K-반도체 다가오는 경고음 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLWFRMmwwbHh0WEtxS2NnS2xJSFVibkdOVVJjOWtnRWVwVEhTaHVqOWxTY3FlZnB2aGlHU3RycXZGYVNwMXVXTE9MS0tBQzBBZEpZS0R1ZGh6cW9fdkdsNdIBeEFVX3lxTFA2amxzamxvOU5wczlGWTJPMG9XQjZvaUpiNHV3MDdfbTA4WEJkZ19YNF8zdVV5dnJtT18xTlNCczhjZFJGWkVQYnpLNDBNNFE2bVFmeUt1SEhrRFpVU0x6LWJfTE1sOWdhMm9OVm1OSkhENk4yNFYtOA?oc=5",
+        "title": "D램 수요 폭증 속에 “CXMT, 연내 차세대 D램 출시 예고”…거세지는 중국 추격 - 경향신문",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrVXBITVRscnc5YndTaVpKUTRsZjRKVzNPSC1UVHRSYlhHLVIydEdZZGNtYVU4bXRTNzk3RnNnNkdQa296QlNrWXhJNDllOHFRZU9iUnU1bmg0d9IBX0FVX3lxTFBBVkNYTldWZkpnWEtKUUNrY3l6ajl2aTgybERqRUdFdTZQdy12d1piaU04ME9pc0NSOFZYb2Z6Q0NlZXJQVmF4am41a2lDVTFHS2RRc3JCdlVUUUJCWUdv?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -44,35 +39,40 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "질주하는 中 메모리, 이래도 반도체 착시에 취할 건가 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbkxicXZwbEdneVJ3cEYzT2Q0UDVhd2hlaTBKQ1BoTmh4OHR5YTJCX0U2X2V0ZTBWLTlQcTFWeTdwbW91UVRYRURaR09VMjhmWlBpaUZMSlpUTmprenFnS3lkdkZiMlkyYThoZnVyNU44cXM?oc=5",
+        "title": "中창신메모리 차세대 개발?..K반도체 \"AI생태계는 다른 얘기\" - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XRlJnODh5V2R5Vmx0Z1VzVnU3Mlg5VHQzZ2VqQnI3ZlVCLWNodXRsWGZEcHhjZ1hROU1GSTUxSGN3Y21pQkNQLWJWVVRvdnctd09yQWE3YVhfNmd4UUd0TDV1MklJeEtmTkJXc9IBckFVX3lxTE50QUY3bm0xcWxPZEFWdWdCam91Y25zNmNRc0lGUExNQlpsZ0dnTFM2Z3E4MXNnTlFnZnp3c2FBNzJqWnBFUm1mRGhmWDV6RXJzbGd6eXE3aVlMbnN3MGMyOTNJcmFCamtkNGdCeGhkdHBSZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "엔비디아 반도체 활용한 유럽 AI 인프라 확장…덴마크에 연산시설 조성 - 제민일보",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSmtTVjlwQmRoLUh5ODJCTWI3ek9wSnBIeEJiWWdIbTJHOUlGRlhlNVNfZjdBQnpUSWxvS0l0VTJvWEwwSTR4MEhvcFgwRG5VOWtPLURfWW85V1BGZXA5d3l5emhkaFk?oc=5",
+        "title": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybTlfNDRfSnlTM3l0VzBjYm5QNmpPeW9wLWJ6UGE1dTF2ZEd3Nll1LTA4dW0wVFlneHNqaWlMTzFDY21VbEF3eDluN2FVSXAyR0FQcVRuVm1kUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pRThHX3JlSmVKbF9Sa0N6M0N4WlA2Y1YtWERUYUVKczFBMzlqMXZaNGg2Q0ZpSjJrMVlkdTRNXzk3YjVKbE8tSmRlcmd1QnNCc2hzZXlBZE9RVGPSAWBBVV95cUxNdHo0VDUwOVAzajFMQnNMWXBhZ21naTFkWGhZLXRDYUVUZGh3ZDBMQTQ5QlFvUDdZeE5WdWRqTmRrX0wxS3lFemRyQ19YWjhGWlg4LWZPNTBvTENwUHVqWkw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "국립공원 무인카메라에 포착된 동물, 인공지능이 자동 판별 - 사이언스타임즈",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakVCUkZqVVFtdUNXY3ZmUmNwVERhb3hsVk9lMXdrUm9ibk54c2dHUjZGR3VndDdhRW9SeVlCbjhrX1gxZjdyR0FiOTJmMTU3b0dnT3RTMm42VlBXajl4azhlbk9vbVE3cEZDT09CM2lMNEZ4aElyQU1RU0lIT0NycHo1NVQxSlo3N29HVk9iWQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"제주 AI 기본사회 목표\"…'테크플러스 제주 2026' 열려 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLdENreTdDblVYSURpT25tUWFXYlIyZWhSOWtIUDE5ZERFVjF6RUdESzJncTI3LVlDYTR2UHhBTUltWUhVamhfSTBPYk1mTExTNjNEQ2V0RVpUdzNRR29USNIBYEFVX3lxTFBLdENreTdDblVYSURpT25tUWFXYlIyZWhSOWtIUDE5ZERFVjF6RUdESzJncTI3LVlDYTR2UHhBTUltWUhVamhfSTBPYk1mTExTNjNEQ2V0RVpUdzNRR29USA?oc=5",
         "source": "구글 뉴스"
       },
       {
+        "title": "정부 AI 융복합 K-뷰티 성장 추진 \"고부가가치 시장 선점한다\" - 부산일보",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tYmJ2UERMekw4UUVHOUVFN1lhbHdidVJSVzROZzhfVVJhdWVDV3d0WC1yb3VvX0pGekFKZHV5bV85SlJmZmRiN3RwZFo3Q1BnRzFjbmFGbTZHdk5meTFCVDF4UFB4YnZxdmF5ZVVZVDNsM2ZoT2RUVGNvMA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "반도체·로봇 기술 AI로 통합…산업현장 적용 가속 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpajVUN3R3Q1pKbVhTbjlLZUV2c1pXLVVEQk85Ni1JcGVVdV96TzBFcEhPM1lCZUU5MjZaWGg2RkcwOW8tT1pUZXR1SEJDeUFMbFZQUFBib2FPb2FuZEtqY2w3Zk1vdms?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "제주, 인공지능 대전환으로 새로운 성장의 기회를 만든다 - 뉴스N제주",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZEJKc29yemo0RnlHbGk1cm1NX0VFZzU1UldKaHpsU0pBRC1RTnMzNlM0YkZncTF2b0FiWE5aZ2hEWmVFTXpQbmVhUlpPdGZScEdoMmlxUEpZeXhXX2dMeENyU25pczJLd0cweQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "광해광업공단, ‘인공지능 윤리 준수기관’ 확인 마크 획득 - 전기신문",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTnhTWm9FdjgyZ0VILWoyMFhUaTVpdE5xOHF3UTA0Y2VWMU1xTUNIQVRVY1BaM3kwX2c3RXk5ejBSYXBpeTJZd1dQblBxaUp3X1ZhNXRhZVpGVDFlM0hhdGdKT21tQ0cwOU55ctIBcEFVX3lxTE1pSnNzUDktZnNsWUFtT2VoTnRBS19XNDVsNExRb3lYZWo4ZTBQaWNmT0N2M19DcXN0eHIzdGRSTXdMVk5QRC1CLTRZZTZqcHZwbFNqZWNPeXVYTjBJUGRFdmpHR0hkSGt2RThuX21RbDY?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "수시 논술시험장서 ‘AI 안경’ 또 적발… 수능 감독 체계 ‘경고등’",
-        "link": "https://n.news.naver.com/mnews/article/081/0003688659",
+        "title": "공수처, 윤석열 '한동훈 수사·감찰방해 혐의' 각하",
+        "link": "https://n.news.naver.com/mnews/article/055/0001395137",
         "source": "네이버 뉴스"
       },
       {
-        "title": "비만치료제 투여 후 시력 손상 의심…국내서도 1건 신고",
-        "link": "https://n.news.naver.com/mnews/article/056/0012272774",
+        "title": "서울시, '펫시팅' 불법 영업 단속…\"대다수는 무등록\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014251285",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김지용 “인사 공개 비판은 부적절…기강 확립”…‘감찰 대상’ 임은정은 ‘침묵’",
-        "link": "https://n.news.naver.com/mnews/article/056/0012272973",
+        "title": "'장모 살해' 20대 구속...경찰 '계획범죄' 입증 주력",
+        "link": "https://n.news.naver.com/mnews/article/052/0002418305",
         "source": "네이버 뉴스"
       },
       {
-        "title": "살인미수 복역한 50대, 전자발찌 차고 흉기 난동…1명 심정지",
-        "link": "https://n.news.naver.com/mnews/article/015/0005341974",
+        "title": "대학 논술 시험장 ‘스마트 안경’ 잇따라 적발",
+        "link": "https://n.news.naver.com/mnews/article/056/0012272763",
         "source": "네이버 뉴스"
       },
       {
-        "title": "특검, 尹 공직선거법 사건 2심서 '1심 당선무효형 유지' 요청",
-        "link": "https://n.news.naver.com/mnews/article/001/0016373361",
+        "title": "\"금감원 등 공공기관 이전 별도 검토…헌법기관도 논의 필요\"[일문일답]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014250527",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-13 21:25"
+  "updated": "2026-10-14 00:30"
 }
