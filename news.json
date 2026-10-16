@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "출연연 박사 초봉 평균 5800만원…기관별 연봉 격차 최대 2300만원",
-        "link": "https://n.news.naver.com/mnews/article/003/0014258706",
+        "title": "\"웬만한 냉장고 한 대 값인데\"…500만원 넘은 아이폰 예약판매 시작",
+        "link": "https://n.news.naver.com/mnews/article/015/0005343218",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오 직원 설득 나선 정신아 \"인적분할, 회사 나누기 넘어 새로운 출발\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014257600",
+        "title": "매장 전시 RTX Spark 노트북에 FurMark 돌렸다가 퇴장 위기…성능은 RTX 5060보다 낮아",
+        "link": "https://n.news.naver.com/mnews/article/088/0001034840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "베슬AI, 한투증권과 GPU 파이낸싱 협력",
-        "link": "https://n.news.naver.com/mnews/article/011/0004671901",
+        "title": "오픈AI, 국내 기업 경영진 불러 모아 'AI 시대 사이버 방어 전략' 공유",
+        "link": "https://n.news.naver.com/mnews/article/008/0005427460",
         "source": "네이버 뉴스"
       },
       {
-        "title": "비싸고 무거운데 오류까지…아이폰18 프로 흥행 '먹구름'",
-        "link": "https://n.news.naver.com/mnews/article/014/0005589865",
+        "title": "베슬AI, 한국투자증권과 ‘GPU 파이낸싱’ MOU...내년까지 5만장 확보",
+        "link": "https://n.news.naver.com/mnews/article/018/0006389147",
         "source": "네이버 뉴스"
       },
       {
-        "title": "오픈AI, 韓 기업과 AI 시대 사이버 보안 전략 공유",
-        "link": "https://n.news.naver.com/mnews/article/366/0001198472",
+        "title": "박사 초봉 5800만원의 현실…30·40대 과학자들이 떠난다[2026국감]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005829299",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taXRHMEJnMVJrT3JMTzJ4RUlONmxQeVpwY1hORUduejJCWVh1eVRHOUx3OFBNRnROQUFTdU9WREZ5X193NjhTdTRlSDVDMGpvTjZQMm1sZmY5SjJ3dlJ0aFY0ay1tVnlPX2c?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "이달 21조 던진 외국인…삼전·닉스 팔았지만 반도체 공급망은 샀다 - 뉴시스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cjctaEY5RFVHcVpjZWI1VHo1aHU0STR2dWlQeGZTZUNJTllEdGx0U3dmWnBfQTFlQ2xWZUVFZ0swMVhLVVUzbzFuNDFOVURrM19raTFSaHZkMzRDMHg3X9IBeEFVX3lxTE5OaTdkWHd5ZEVjNUlOZEc4WWRfbkZSWEM5bmlJQktXVTJNb3Nzak12cDktNFF2SHFlU19fNzdyblVEQld2a0NxZ2ZLelRsa1A3WmJsQzBjY3QzUFpER2FrQV8xWHlRUUY5MXdxMWxJSE80RlFxVEgtQQ?oc=5",
@@ -44,70 +49,65 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "트럼프 “일본, 뉴욕주 반도체 공장 건설 투자”···한국·대만·일본도 콕 집어 “투자 약속” - 경향신문",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zcmRmWGtLem1pME5zb1dvQ0lVZHd6c0VWdWQ1WHhIbFc5TWZrcTJXbURHbFIwTmh5VUVqSFliVmFpYmFSVGVXWDBNZ3lPT2hxbFhBeXhLQWVVd9IBX0FVX3lxTFBBMThhZlYwM0xVUEloNjJldHhNZUhDbTU2VzRPck4yUG1DSFBYQTlUTmttd01UdEkyYkF5VHZhQkNWNlV4em4wZnJydzBjeEU4cHVia2c0NlZVVjBvMFhn?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[줌인] ‘美 반도체를 다시 위대하게’… 반도체 자립 승부처 된 뉴욕 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZm83QUZQR0E3NGd4MjF4Tno5a0VPanFPOTZwSnFYWmVrOEdFdmJoMXYxc2FVU05adTg0WmRPb21EYmlTVnViNHEtOWFERUFyNG5vTGFRSUVzbDB5dUw5SWVnOUJDMUZjMWpheWhDZkhfWDRpWDJMX2t2NjlvbWRwYTRMa3VpdWV3R3VuOUpxeHRyTmd3WWp1Yjk4akdNd9IBsgFBVV95cUxOOUJkUjFnRklNM0ZsV0ZEZGtvQlZDSXZJaUVVRnl5VGQtbkZ1RjVmNHRNNThkb2dtUENNVUxZcDlCVktIa01iSm1WYVBzQkM2WEZfeFZZdFUzNldWWWlWZ0YyZ1hxSGlDTEtzRmlMdHRhZVYtLXFZeDhkZHVLMnZ2djBYdzJHd0QyZmVtcDg5MzhCRGxDY0JaaGctaW5jbGZCSExDU3BxTkZwTkFHNnZsRDlR?oc=5",
+        "title": "반도체 주식, 단기 반등 예상되지만 2000년 유사 패턴은 추가 하락 시사 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTndKRkxObi1ZcG9YMHpQRVQzM1RoQkFjaWN4c1FFbklIU1hWWUY4ZURidVZ2UlhHLTBISmlSUkJNZGRUel9vbExlcUFmYXJFUXdWNzVhaUlxZWp4VDhFalpfVWFKU3lad0VfcUlkVUg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "[농진청] 인공지능(AI) 시대, 도시농업 교육·체험 새 역할 - 월간친환경",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwak4tUXpPOUlzXzgyVS1EeW9iOFhBdlZHRmswT0xRdXBURFl3VHo5WGFzZEwzbU1sYWRoMWZnMGxMTzFOX1g0d2tCaHpLbTJRanNOMmtwS05fSEhMakhTZWZFcTY2M2JsNzJMbFoxdGJiQQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"인공지능, 행정 문제 해결\"…부산시 데이터·AI 활용 경진대회 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2StIBYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2Sg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경북도, 인공지능(AI) 인재 혁신대학 조성 본격 추진 - 코리아투데이뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RTjlLWDhOLVZFVWREMzE5aWRTTXFLMm5wcndvTERzNV9jQ3pqMFVYZkswR0dvTnBsOUNIU0htN2NHMUZIQ09F?oc=5",
+        "title": "AI가 시세 자동 산정…부동산원, '국제 표준 경영 시스템' 인증 - 신아일보",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OSzhLcFp2OG1MY09IY0hWa0JFV0MxTHk0NjVJVDluS3JHOXFRNXpDdkZaV1V2Q2EyMGIzVmM2enY4UzctN3dqOFE0d1FQc2tzdzJleVJwNXRIc21pWGZrT1BiYnl5dmY4VENpN29sX2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경북도, 인공지능(AI) 인재 혁신대학 조성 본격 추진 - 구미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMnlRQUtoSVJoY2FvUWhZakwwQVYxeGxCX1VOMGtwVFRyN2xPVVhMMDFaUlpiVEtHTDNlTjViTDFtRy1LMThuSjJ5XzRTZ1V6TGc5QWpwU0lNR3RkRG4tYWFvM2dVZnU0MzJyVWdfYURyV3FS?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "한국부동산원, 인공지능(AI) 국제표준 인증 획득 - 한국주택경제신문",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Zcy1tSXNTWGpRckVMcEhUX2hiTnMwZE8xUUhEbjVyWlh0NWprSGgxZHp3S3lSVjBub21ic2xob2tBUGp0MW1jU0tSYVRGaGJEbjk5OXZRdmxuWml0Z0drX0ZhalM2RERZ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "경북교육청, 4개 시도교육청 손잡고 인공지능(AI) 기반 학생평가 혁신 나선다 - www.newsgb.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tNE41NzVBY2lYTm9rNS14bFpkWlFKcDNSOWNxbzM0enQ3TmNic3g1dFg1aEVxLWVWQkhHTlJzN1ozNmdBR0JMOW9ZYlRTbHpWNFAzRkNheG5CbVVBbXpFbg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "코어위브 재무 리스크가 'AI 버블 붕괴' 새 시험대, 데이터센터 투자 돈줄 마른다 - 비즈니스포스트",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BTGs0bnhUUHllWTlMX3NYOF8xampEd2pDU21MWUV5QUhRbkdlS29SNEFBbFVoVTMtMlF3TXVXQ2lsSGxYUF9fS01hY2pKSDdiYmt3ZHNUMkFwWGw3b19FU0g0NjdUa0hZUTJqcU9DVlRlRDA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "［포토뉴스］홍천군의회, 건축사회·측량협회와 간담회 - 강원일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSzdaMW41TjRhODUxaGNxWWhoWExFZUxzcWJYdDVWbmFXXzVfa3hWdng0RkpuV0h3dFcwTkZ4QmlQWWVTSFVBWVlKOHN6b0haTkctWDM3T2dXcG8?oc=5",
-        "source": "구글 뉴스"
+        "title": "'인천 흉기난동범' 구속 심사...\"죽을 죄를 지었다\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002419658",
+        "source": "네이버 뉴스"
       },
       {
-        "title": "KAI, 말레이시아서 FA-50 협력 넘어 사회공헌 확대 - 경남미디어",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQ05Iamd6LUJ4RkRYOUxYYklENmpLOU1aS2p0YkJHdlFRYjdZa296V1RpTzcxQXRGUXhZQV90V3hfcTVnVmtRS0tTVVdYaGZFbEhYNlJBZFZNTGJZM1hEMTNmMnlZVFRMbHFz?oc=5",
-        "source": "구글 뉴스"
+        "title": "부천 공장서 화재…소방관 1명 심정지·1명 중상 등 7명 부상",
+        "link": "https://n.news.naver.com/mnews/article/009/0005749591",
+        "source": "네이버 뉴스"
       },
       {
-        "title": "조계원 의원, 한국선원복지고용센터 공로패 수상 - 여수넷통뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nclRIVkNIVmNXUjNhbmRzTXkxZWFlMlZ3TFdjOHRkTXFXc3Q1dF8yX1F5ckZTbWVXM1dVWlk2a1BOWDNVcTRDa0tCYU40MzdlQnJpY0lud1d3UlVROEtHZnJndDNIYk9lckE?oc=5",
-        "source": "구글 뉴스"
+        "title": "조희대, ‘격려금·업무추진비 의혹’으로 중수청에도 고발",
+        "link": "https://n.news.naver.com/mnews/article/032/0003476800",
+        "source": "네이버 뉴스"
       },
       {
-        "title": "[카드뉴스] 후배 사랑 남기고 떠난 '충남대 84학번' - 신아일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94OG0xSU1HRW1SbDRteGEtVU5PQ1UwNTJBcGxUSjJIQzM4elZqYUh3eDk3clBMSTFyVUF3RlQzbW8zMFJheEJqSlhvRFZQdGNPTjZNOTRQbVRMVHFMdC1OUVZzOXpoY096VzR1OW14X1A?oc=5",
-        "source": "구글 뉴스"
+        "title": "\"과태료-통행료 체납 꼼짝마\" 621대 적발…3억5600만원 미납",
+        "link": "https://n.news.naver.com/mnews/article/014/0005590279",
+        "source": "네이버 뉴스"
       },
       {
-        "title": "광주시, ‘기업인의 날’ 기념식 개최 - 광주뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qVllTM082YnBaVTNwTTlDSENnQkowVWxzMUI5V1NIMV9ISWpwM29ULXlybHhseTFjS1FFc0NtZjQtbFFhZHRfWl9CTHJtTHdnczJVdzEwWU81czc3SGVMRVluT1hxRWs?oc=5",
-        "source": "구글 뉴스"
+        "title": "중수청 감찰 1호 임은정 “김지용, 잘못하시면 쓴소리 아끼지 않겠다”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003558405",
+        "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-16 08:50"
+  "updated": "2026-10-16 13:47"
 }
