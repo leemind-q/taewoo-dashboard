@@ -2,18 +2,8 @@
   "categories": {
     "IT": [
       {
-        "title": "엔비디아, AI 직접 구동하는 'RTX 스파크' 노트북 출시",
-        "link": "https://n.news.naver.com/mnews/article/031/0001066850",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "아이폰 듀오, 예약 첫날부터 \"내년 1월말 배송\"…출시 전 품귀",
-        "link": "https://n.news.naver.com/mnews/article/001/0016382414",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "빙판위 달군 스타크래프트 열기…ASL 시즌22 결승전 개막",
-        "link": "https://n.news.naver.com/mnews/article/092/0002441316",
+        "title": "‘329만원 귀한 몸’ 아이폰 듀오, 예약 첫날 품귀…“내년 1월말 배송”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002710593",
         "source": "네이버 뉴스"
       },
       {
@@ -22,8 +12,18 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"다음 목표는 '롤드컵' 우승\"…'데마시아컵 FMVP' 전어진의 포부",
-        "link": "https://n.news.naver.com/mnews/article/138/0002245075",
+        "title": "젠슨 황 'PC재발명' 현실로…이제 AI노트북이 대신 일한다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006389801",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "“6년 만에 지킨 약속”…ASL 결승전 판 키운 SOOP",
+        "link": "https://n.news.naver.com/mnews/article/011/0004672273",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "프랑스 냉장설비 해킹에 불안감 확산…우리집 냉장고는 안전할까",
+        "link": "https://n.news.naver.com/mnews/article/001/0016382496",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,23 +34,23 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"반도체주 본격 조정 아직\" 폭락장에 소환된 반도체 비관론자의 경고 - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwLXdfSkZwdUFLZWthSzZ4T0NYVlVjaW9raUFTXzdWeloxcWNyWUg2WjRETHktWDhoU29SYl91NWU5SDUtRG1KaU9VSm9DQ1ZKbDVrdXkydnM0SnZhLXp1VGNRaktVWk5CQ3llRnhvZk8?oc=5",
+        "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taXRHMEJnMVJrT3JMTzJ4RUlONmxQeVpwY1hORUduejJCWVh1eVRHOUx3OFBNRnROQUFTdU9WREZ5X193NjhTdTRlSDVDMGpvTjZQMm1sZmY5SjJ3dlJ0aFY0ay1tVnlPX2c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "이형일 \"반도체 호황 최소 내년까지 지속…수요·공급 격차 여전\" - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84cE9NWFo2ZE9LSUdvMXFNc1RSTEF1X1Nmc3R3bmFKSHZDQjFCRERWR1FyYzNWZjE0Z1BydHZQVmxnYTh1aU1lT0FXNmJqRkpRWmpQY1VhbU02TGNXTmg1RmlNS3RaLXJreUZWVVJabGptOWM?oc=5",
+        "title": "\"반도체도 이제는 재료 바꿀 때\"…실리콘 한계 넘을 '2차원 소재' - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zSHd0aGI0bExLaFdhclYzTlFOanpMWFJYdTQxODQya18tZ2c4TWxRX3VpbFU1YWx3akVuY19hVDNUOEEwQW4wSGkzbk1ROXpoanFOS3ZYSFFqTnNtZmpyVVo5RFVSYzU2ZEHSAW9BVV95cUxOZkFWMW1ia2E0LV90aG42NGJObkFJa0tHODY3VGcyMzZ0YmV2Zm1wUXh5QV96UGV3Mi1SbzdmdHlBTVdvMjUteDEta3lQU3U4bkFRNWVEZ0JPdHhyY2dzWHpfaklaM2czNHRYTTdjR28?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "메모리 반도체 주식: 과도한 우려인가? - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yOGhsUGVXdXlGOGF6UHlFSmVTZ1JmZ2F3M2JySkVHYkV4cVVMalRpUnlnLXhhNlg3S0FfYXpxNGM4QWtMYXRYdHJjdXRsWHp1OHVzNXJJOWdOUnBZNU5jWktDRHJ1c2JJNlAxRm5WNkQ?oc=5",
+        "title": "뉴시스 창사 25주년 포럼 19일 개막…AI·반도체로 '10년 후 한국' 미래 조망 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMXhhRThOZXkxMm5HaTJqWDZ6ZnJMRVVGYVJSRy1PSG00V2FBeEdGMjdIaHlqNGg1THAwRDdmc3dzQV8xaGhjMW5qZmxWOFBVb3kzWldMODRtTHBlaWstUdIBeEFVX3lxTE1PUzdpRl9HaC1GUGIwSmJYN01EZ1ZJWmlkUHg0aEpXRXgzdm1DSVc3VTVPZnltNWkzdW1aRnpRc05QSjBVN2t0aERjUlM1Y3d4bXQ1cHdsNVB4cGh0RW5KYkxWVHhFZkpmbDRicERuMlktNkpCZHdOYw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증 - 주간조선",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MRzVaYmo2cGVHV3VWNGpoVWxKUmVTeTNNV3lDcFNfUkItd3RVOEN2dkdzSnBWU2Vtd05XMVpjei13VU9Zdi1FSjNWZFRDNTNfRGZmdHJPZmJhTng1REd4Y1NIRkFoYWdvckHSAW5BVV95cUxPS1h5cmdqdFRtRFh5Qkd4ay1kTF9pczV4TEtEam9qeVZxeFA0cWFWeTZpcW9YZWxKZGxQWHBLNmZXM1FVTURKMTRJbV9mVlJBWm5SQjd6NDlDMERvQmFsalo3Z1JmcmNZSlc1ZDFndw?oc=5",
+        "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NUC0yOEY0R3NIdEhLRDJEWkQwTElSQTVaNmFXTWxyMDkwbS1QaUlhY0F6Nzg4ZGxlUWlBZm1PR2xQQnpBMkNqYzNrZnNfRnphT2Jwak1JS0pZZFBDYkVmQUt3dVcwemVHcTFlTlpONW1YeTQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,16 @@
       {
         "title": "인공지능이 기억 바꾼다면?…“AI 이미지로 ’가짜 기억’ 늘어 위험“ - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSFdsTUthMFNUeGpmTjlSNW45MEF3dEtpbzFoX25YQmZFOXpUTmswU0lBTlpxZ2dNd0NTRnlob1NGa3lKbktqcWxzSFM3NklGck85OWVKYUhNRE1WbnBWUDhpTHFnc0U?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] 오픈AI 실적 논란…지금 AI주 매수해도 될까? - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BSjRVZ19SdWdvRmRIU0RVcVJndDV5M0tMajdaM0l2QmdhRk5PU1VHQ3o2cjM2WkoxMU1LUmFvb1pDcnVjcnhCWHFmUmo5dnZSZTI4R2RVMHJXXzVBcGZzczBTdE1rTExOR3FuZGxyMVY?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"인공지능, 행정 문제 해결\"…부산시 데이터·AI 활용 경진대회 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2StIBYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2Sg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "4개 시도교육청, 인공지능(AI) 기반 학생평가 혁신나서 - 경북구미신문",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FUTNkYWpRZEl5aDFSNi0zNG9adGx2WmVzT3hJdDRVT2toWlQteW42NEE3VTBYZkt5bmlNeWpXYmhiLUlybzBKVVlXX0JmckR0T1JrUHZnSGxja3hjcml0a1RzYV9fMDNXYkE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "\"인공지능, 행정 문제 해결\"…부산시 데이터·AI 활용 경진대회 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2StIBYEFVX3lxTFBoc2dfb2lNVEUyZ0xDVHQxYXRaNVlPRFZ2cW81YUJUUXJZd1Jfa1NTclJyMjBTYnFUM2VNU3pjTFVnR3ZGaWNnV0Q1Y2FEMTNBQ0FTZnhvdXpYcm51dzV2Sg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국립창원대, 양산인공지능고와 AI·평생교육 협약 체결 - 메트로신문",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10THF6cmhCV0ZBcFJTblpXYUluNnBQNTJxYk0zdG5ZRnVxWE8xUW5KeHNRTWZ3VDJPNzlpbERwVERwWjhvOHRWQVBySjI2eGFkc3ZHVDlKQ05mY2xoczIwZA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'수사 대상 기업서 상품권 수수' 감찰받던 수사관, 중수청 팀장 임용",
-        "link": "https://n.news.naver.com/mnews/article/003/0014259645",
+        "title": "‘서해 피살 은폐 의혹’ 전현희·노영민·이인영 불기소…“증거 불충분”",
+        "link": "https://n.news.naver.com/mnews/article/023/0004004413",
         "source": "네이버 뉴스"
       },
       {
-        "title": "50대여성, 스토킹 신고 男 차에서 숨진채 발견…남성은 음독",
-        "link": "https://n.news.naver.com/mnews/article/031/0001066844",
+        "title": "“너희 없으면 이런 일 없어”…흉기 들고 자녀 위협한 부부",
+        "link": "https://n.news.naver.com/mnews/article/666/0000127807",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“너희 없으면 이런 일도 없어”…자녀에 흉기 들이댄 부모 징역형 집유",
-        "link": "https://n.news.naver.com/mnews/article/005/0001879234",
+        "title": "가정폭력 신고하고 숨었는데 주소 노출돼 살해…법원장들 “답답한 심정”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004672302",
         "source": "네이버 뉴스"
       },
       {
-        "title": "추미애, '소방관 순직'에 \"비통한 마음…추모하는 데 그치지 않고 현장 살피겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002461415",
+        "title": "아버지가 세남매에게 나눠준 복권, 1명이 10억 당첨…\"가족들도 기뻐하며 축하해줘\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005590474",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘흉기 난동’ 최충락 자택 압수수색",
-        "link": "https://n.news.naver.com/mnews/article/056/0012275582",
+        "title": "부천 화재 소방관 끝내 순직…'소방 빨대' 논란 추미애 조문",
+        "link": "https://n.news.naver.com/mnews/article/055/0001396202",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-17 19:38"
+  "updated": "2026-10-17 22:00"
 }
