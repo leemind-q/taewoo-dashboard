@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "LGU+, 순직 소방관 추모 달리기 행사 성료⋯2300여명 참여",
-        "link": "https://n.news.naver.com/mnews/article/009/0005750097",
+        "title": "'AI 해킹' 우려가 현실로…정부·기업은 방어책 고심",
+        "link": "https://n.news.naver.com/mnews/article/055/0001396286",
         "source": "네이버 뉴스"
       },
       {
-        "title": "시진핑 ‘AI 인프라’ 강조한 날…중국, AI 포함 40개 기술 수출통제 추진",
-        "link": "https://n.news.naver.com/mnews/article/028/0002827968",
+        "title": "미·중 AI 빗장에 낀 한국…‘소버린AI’ 시험대",
+        "link": "https://n.news.naver.com/mnews/article/032/0003476956",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아이폰 듀오 예약부터 품귀…329만원 가격 장벽 넘을까",
-        "link": "https://n.news.naver.com/mnews/article/014/0005590645",
+        "title": "“당신을 기억하겠습니다”…순직 소방관 이름 품고 2300여명 달렸다[르포]",
+        "link": "https://n.news.naver.com/mnews/article/029/0003053624",
         "source": "네이버 뉴스"
       },
       {
-        "title": "테슬라 ‘로드스터’ 열풍",
-        "link": "https://n.news.naver.com/mnews/article/023/0004004519",
+        "title": "스마트폰 한파 속 홀로 대박…애플·삼성, '돈 되는' 초고가 폴더블 사활[듀오 경제학下]",
+        "link": "https://n.news.naver.com/mnews/article/003/0014260236",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“1.3조 피해·50명 넘는 사상자 우려돼야 AI 중단”…앤트로픽, 美의회에 법안 제안",
-        "link": "https://n.news.naver.com/mnews/article/009/0005750111",
+        "title": "[단독] 통신 3사, 미사용 고객 사은품 年최대 420억",
+        "link": "https://n.news.naver.com/mnews/article/023/0004004584",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZG5qNVB6WHhwZmZYVXc4eGJfakxEMTdMRk1SSjdSVHZOUm1maXM2WmxYYWdFQUNkeVRxMnhwMm5sUTJXbDZ5ZDRBeWtwdllua1UwdFZ1al9Tdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥 - AI타임스",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taXRHMEJnMVJrT3JMTzJ4RUlONmxQeVpwY1hORUduejJCWVh1eVRHOUx3OFBNRnROQUFTdU9WREZ5X193NjhTdTRlSDVDMGpvTjZQMm1sZmY5SjJ3dlJ0aFY0ay1tVnlPX2c?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美증시 선물 반등…나스닥 0.7%↑·필라델피아반도체 급락세 진정 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZ3Q5RmtCcy05eUNpTWdjUDE1T1FKbjFZajR6aVJ5cFVNLXNUWk5WUmFmQUVmSkRlS0wyVFBVM2RzcGlPUUxTdmdzT2tra1hxZTBWbEVnQXpGTkQ4amdheUQ1NnNvcXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“美 신용위험 직격탄 맞은 코스피…반도체 쏠림이 급락 원인\" - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUcwTm1ZeUt2TFhsdmhRRldFbkpiU3VwVHpHVE85aHpZcktiWmUydFUtdHFwbGVDR1JKZmlrVVNrenV0S2dBU3BEUHh4Wm56MWZRLVNjNFhwRFluRG9rVG9LbTZWZEFKTUhXUGR5NzRLblZ1NlpTaG5TUk5RUDFETTE4NGc1RXVH0gGcAUFVX3lxTFBFMnJHS3gyY21NbmJ4M2FiWWtqekNZbHdDMjhvTUUyOXFmLW9NUG84UUpvYzhtRVViN3FlbldfSzUwd0lhdi1aREVJQ1VmdS1DRVkwUVFhWHR1LUVocUkxcWQyc0xRaXJ5SnlaVDVJWERWTkZuZnVMZWJ1R0ZtTXFXTTgydjNweXpJdGhoeTZDYlN3UXFNU1M1SWljRg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "광산구, ‘반도체로’ 명예도로 지정…호남 반도체 도약 의지 담았다 - 브릿지경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMDZvRlBpWnVpdGJxZ3ZOcURrYnE1SXNQTjhMZGdUOXhFLURpZlBKbmhjNk5jUldYaEx6Yk03RmVJMUpHRjZnTFBpcUFwaVI1d0xwSlhaMm40QQ?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54b2o2YVo5OHpXTzBqSEU2QnNsaE54czhFR2lPT0dhUWp6X3MxTjdxeU1RNXZwNWNvbVI2YmlfQTJkQmM0bTI0eXRna3BtekRpYWRtQzhWSkZFVzBEUzZtbtIBYEFVX3lxTE54b2o2YVo5OHpXTzBqSEU2QnNsaE54czhFR2lPT0dhUWp6X3MxTjdxeU1RNXZwNWNvbVI2YmlfQTJkQmM0bTI0eXRna3BtekRpYWRtQzhWSkZFVzBEUzZtbg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] \"AI의 미래는 특정 기업의 몫 아냐…글로벌 공동 책임 필수\" - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2VjQ2cEd0aFREalNjV0N0VjNHeEEtNFFWdGJRdWRaWWo2U0FQRmIyRHF5ZklMdlRmOHNCT0NoZnJNa0ZIUHJKc2FFVlBZYzhYeEE5MEhvdWhSRFktWDZRek9NRmpBTHk0T0Y4MFRXd2M?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대구-광주 중·고등학생, ‘세상을 이롭게 움직이는 AI(인공지능)’ 직접 만든다 - 시사뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxbmtmajBCQ09wblBYcF9FdEM3QjQ5N3QzUzRIR3poam1OTWRCLV9XbDFvUEt3TGVWeWJHX1VqZXVLbmNXdzQ2eGplckoxQ3FMQ0RGS0lIUnZEdTFHVy1hQ1RMWQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "중국서도 AI '통제 상실' 사례 있었다…지도 서비스에 접근 시도 - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gc0ktaFlyRW5sZ3NCc3RoeFZZeU5Qa3ZOcHZaQWZLMHFIU1l6N2E3RGk4ajRwRnNEYnluR0VpTllxM1VfWHBPOXhLSjM2bW50aGp6NTZFUlVxZTQ2RW14by1uVndwcUhrSjNhWEluRWg2RzFH?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“인공지능(AI)으로 대형폐기물 배출 신청 간편하게”… 은평구, ‘가져가’ 전국 최초 시범 운영 - 자치행정신문",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSXdsdTNNOElYREhRdVhCWFk3Q2kwQlhiZ2ZScWRmc2xrZVF4cGU2MzFTVU5lMzJsMEhER1BPNkFZN3pkenRMQnlYQldNNGp1Znc0aU1pTGR3OXJVU3ZYSnRjdzVfZnRQTEVYbnp3MERXTVpLNGxXRWZNdWlOaWRBcThnVWJvRm1NbzR0aVFZR3RPODMwYWZmcjBmZjdVdjRSZmxNd0NJakk4VmNydGRB?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "\"어린이집 공격도 고려\"…복합 상가 고른 이유는 '침묵'",
-        "link": "https://n.news.naver.com/mnews/article/055/0001396268",
+        "title": "주말 서울 청계광장 ‘야장 거리’ 변신",
+        "link": "https://n.news.naver.com/mnews/article/005/0001879360",
         "source": "네이버 뉴스"
       },
       {
-        "title": "120다산콜 장시간 상담 줄인다…20분 지나면 자동 종료",
-        "link": "https://n.news.naver.com/mnews/article/011/0004672365",
+        "title": "지능형교통체계 세계총회 개막…AI·자율주행 미래교통 한자리에",
+        "link": "https://n.news.naver.com/mnews/article/421/0009234103",
         "source": "네이버 뉴스"
       },
       {
-        "title": "비대면진료, 처음엔 같은 시·도 병원부터…약 처방도 제한",
-        "link": "https://n.news.naver.com/mnews/article/366/0001198640",
+        "title": "인천 강한 비바람에 항공편 결항·지연 속출…도로 침수 피해도",
+        "link": "https://n.news.naver.com/mnews/article/025/0003558675",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, ‘부천 공장 화재’ 공장 대표 업무상 과실치상 혐의 입건",
-        "link": "https://n.news.naver.com/mnews/article/056/0012275820",
+        "title": "한밤중 20대 여성 공격한 남성…휴가 나온 군인이 제압",
+        "link": "https://n.news.naver.com/mnews/article/448/0000645542",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“추미애에 빨대 250개 배송” 성난 민심…여권은 ‘자숙 모드’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001879330",
+        "title": "이철우 “현행 지방교부세 산정 체계 유지해야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012275718",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-18 21:42"
+  "updated": "2026-10-18 23:58"
 }
