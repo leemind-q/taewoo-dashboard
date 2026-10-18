@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "LGU+ 순직 소방관 추모 러닝 행사 성료…현직 소방관 119명 참가",
-        "link": "https://n.news.naver.com/mnews/article/277/0005829846",
+        "title": "LGU+, 순직 소방관 추모 달리기 행사 성료⋯2300여명 참여",
+        "link": "https://n.news.naver.com/mnews/article/009/0005750097",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"329만원 넘어도 품절\"… 아이폰 폴더블 '듀오' 인기 계속될까",
-        "link": "https://n.news.naver.com/mnews/article/014/0005590745",
+        "title": "시진핑 ‘AI 인프라’ 강조한 날…중국, AI 포함 40개 기술 수출통제 추진",
+        "link": "https://n.news.naver.com/mnews/article/028/0002827968",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"10억불 피해, 50명 사상 가능해야 AI 모델 차단\"…앤트로픽, 미 의회에 제안",
-        "link": "https://n.news.naver.com/mnews/article/119/0003143941",
+        "title": "아이폰 듀오 예약부터 품귀…329만원 가격 장벽 넘을까",
+        "link": "https://n.news.naver.com/mnews/article/014/0005590645",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안랩 \"AI 자율 공격 주의\"…명령어 한줄로 서버 해킹",
-        "link": "https://n.news.naver.com/mnews/article/015/0005343688",
+        "title": "테슬라 ‘로드스터’ 열풍",
+        "link": "https://n.news.naver.com/mnews/article/023/0004004519",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중국, AI 핵심기술 수출통제 추진…해외 진출 영향 우려",
-        "link": "https://n.news.naver.com/mnews/article/422/0000916874",
+        "title": "“1.3조 피해·50명 넘는 사상자 우려돼야 AI 중단”…앤트로픽, 美의회에 법안 제안",
+        "link": "https://n.news.naver.com/mnews/article/009/0005750111",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "전기먹는 하마 AI 반도체 열·손실 잡는다…'특수유리 기판' 뭐길래 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ScGJSYVYzLVA3d25ha2hxTzU2LXI2UlNGaUk2NkcwUm4ycTNDWi1vbzZIVDFSVzBiWG1CYWtENWRzRk9UeTJERmhTNF9MRVRzY0JBOVM3S1BVaUluNG5fTUstUTlkdG9fSmfSAW9BVV95cUxPTjRDYlpBZFYzaGNhUDZQTDNsMzdibW5qM19JdW1tMzdFc3JNYk1rT3FFR3A4YWsxSmlTaTBmOUZQSVZTODRwQUFrZ0p0Qi1uS1BEelczVlFQQXZueC10R3F6RlROaEluc1l4UFIyVlU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증 - 주간조선",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MRzVaYmo2cGVHV3VWNGpoVWxKUmVTeTNNV3lDcFNfUkItd3RVOEN2dkdzSnBWU2Vtd05XMVpjei13VU9Zdi1FSjNWZFRDNTNfRGZmdHJPZmJhTng1REd4Y1NIRkFoYWdvckHSAW5BVV95cUxPS1h5cmdqdFRtRFh5Qkd4ay1kTF9pczV4TEtEam9qeVZxeFA0cWFWeTZpcW9YZWxKZGxQWHBLNmZXM1FVTURKMTRJbV9mVlJBWm5SQjd6NDlDMERvQmFsalo3Z1JmcmNZSlc1ZDFndw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "마이크론, 휴머노이드용 고성능 D램 'EIM' 개발한다 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83TjNPcDctbnppb1doRnBWcTBOeUZmNldOQ0c5Mkl5REpMMklBZ1RJR2lBaE02T3RoU25fVGx0LXZyNHJBdHhrSTd3MTR0Y0tHb2JyTWxFNVAzSHJhcjdLMWlXdmVodw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "“2028년 D램 쏟아진다”… CXMT發 반도체 피크론 또 고개 - 국민일보",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2VLVFp4UVdJc1hNbFZfd2hKVDFtSzJzZ1Y4YldXTGdTYkhnRDY1NVpUUFFjc1VIZTlMQ3Y4bGIxMy1oTDNBYmo2T1FGUGFoM29GUWVrZWxXbFJFSE5Tb1duT0s3SHFjVGRSNzVjZThTTnRBSURfRFhzaXZndUp2eE5XYlNtbVM3MXBEN0NCaXRjR2ZzaWfSAWxBVV95cUxOcFJKUkh5bXFvWmNGMW9vWDJwdzUxUVlEOTNnclBKZTNHVnk1dE5RSjRUQ3FIa2FKLUxPaTlyWTVVazJubk1ycnlQZ1FONHI5N213SWc3MHpoNDJScTRsU1JJbE9wTVEtckN4S2w?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "호남반도체 '민·관·정' 속도전…야권 견제·지역 난제 변수 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tQkc0OEZycnlMU1hhbmx5NVZxNmpaLTdHNEhBSDBhd0J6V2dLWWw2bkFHdTg3X0Rva0tjU3l1WkRUQkEtVlg5VXZQYmdka3k4S2hkQnc5bUtWLW_SAWBBVV95cUxNU2JrZENKUFZjQ2pKWnpzRmZQZUdVZ0hjZEs0d0xySFNxWEVwN0FtLUo0TEc5UURodHZQakU3TkFpS0dRNmNvM0FGcFF6OVNIT2x3ZWVtel9SVDYzZWptTm8?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "중국서도 AI '통제 상실' 사례 있었다…지도 서비스에 접근 시도 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVTM2dTBoRXJUbWp1R0dGR3pHR2Q3YVBwTVJNNzVGU3dlYW05MEIwWDRUSWlLNzdYVGNQXzhGTE1iWVJ5LXRpSndmZmQ3UHlfaXZkNlZNY1ZjLWF0cmpUYdIBYEFVX3lxTE5VVTM2dTBoRXJUbWp1R0dGR3pHR2Q3YVBwTVJNNzVGU3dlYW05MEIwWDRUSWlLNzdYVGNQXzhGTE1iWVJ5LXRpSndmZmQ3UHlfaXZkNlZNY1ZjLWF0cmpUYQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "대구-광주 중·고등학생, ‘세상을 이롭게 움직이는 AI(인공지능)’ 직접 만든다 - 시사뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxbmtmajBCQ09wblBYcF9FdEM3QjQ5N3QzUzRIR3poam1OTWRCLV9XbDFvUEt3TGVWeWJHX1VqZXVLbmNXdzQ2eGplckoxQ3FMQ0RGS0lIUnZEdTFHVy1hQ1RMWQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "시진핑 ‘AI 인프라’ 강조한 날…중국, AI 포함 40개 기술 수출통제 추진 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43MGZ5elhGcjlFcU9ENUp5MHlEdTZFMS03a0d2VUN3WjI4amsyMDcxRkZ2Vi1rOHdfZjVYQzdrTFVXd3g1ZmU4TzJVeUdGZnBhRkh0N3dQVHZiR2R6VmJXT1NET0ZNQ0FtLU05Qg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능이 기억 바꾼다면?…“AI 이미지로 ’가짜 기억’ 늘어 위험“ - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSFdsTUthMFNUeGpmTjlSNW45MEF3dEtpbzFoX25YQmZFOXpUTmswU0lBTlpxZ2dNd0NTRnlob1NGa3lKbktqcWxzSFM3NklGck85OWVKYUhNRE1WbnBWUDhpTHFnc0U?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "중국 '천재 소년', 문샷AI 퇴사…美앤트로픽행은 부인 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ld1lhNzNaNjFpR3RCZTFqM29oU0hRUlVaRUh0cmdmTmNDRHJIc21QMG9iTFpQSmdsTUMzWVdoSTlPUngtVm5iRmVlcUdQRk1pakNjcUZPN05aemZLMVZXLW44WWY1MUtubnZBekowNFlqV093?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "이철우 “미래대응기금 신설, 지방교부세 재원과 현행 산정체계 지켜야”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001879250",
+        "title": "\"어린이집 공격도 고려\"…복합 상가 고른 이유는 '침묵'",
+        "link": "https://n.news.naver.com/mnews/article/055/0001396268",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태풍 같은 요란한 가을비... 낙엽이 배수구 막아 곳곳 침수",
-        "link": "https://n.news.naver.com/mnews/article/023/0004004482",
+        "title": "120다산콜 장시간 상담 줄인다…20분 지나면 자동 종료",
+        "link": "https://n.news.naver.com/mnews/article/011/0004672365",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 연내 '동일가치노동 동일임금' 실현 로드맵 낸다",
-        "link": "https://n.news.naver.com/mnews/article/055/0001396276",
+        "title": "비대면진료, 처음엔 같은 시·도 병원부터…약 처방도 제한",
+        "link": "https://n.news.naver.com/mnews/article/366/0001198640",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한밤 중 술 취한 채 송파구 빌라 주차장에 불지른 30대 여성 체포",
-        "link": "https://n.news.naver.com/mnews/article/025/0003558680",
+        "title": "경찰, ‘부천 공장 화재’ 공장 대표 업무상 과실치상 혐의 입건",
+        "link": "https://n.news.naver.com/mnews/article/056/0012275820",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김영권, 8억 원대 종합소득세 취소 소송 최종 패소",
-        "link": "https://n.news.naver.com/mnews/article/052/0002420191",
+        "title": "“추미애에 빨대 250개 배송” 성난 민심…여권은 ‘자숙 모드’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001879330",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-18 19:17"
+  "updated": "2026-10-18 21:42"
 }
