@@ -2,45 +2,40 @@
   "categories": {
     "IT": [
       {
+        "title": "경실련, 구글·5대 게임사 '프로젝트 허그' 조세포탈·회계부정 의혹 신고",
+        "link": "https://n.news.naver.com/mnews/article/586/0000140562",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "웹툰은 책처럼, 게임은 넓게…아이폰 듀오의 변신[써보니]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016392631",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "아무도 못 받은 15% 세액공제...전력 규제까지 AIDC 투자 딜레마",
+        "link": "https://n.news.naver.com/mnews/article/092/0002441848",
+        "source": "네이버 뉴스"
+      },
+      {
         "title": "애플 '시리 AI' 이달 한국어 서비스…말귀 넘어 맥락까지 이해",
         "link": "https://n.news.naver.com/mnews/article/001/0016390978",
         "source": "네이버 뉴스"
       },
       {
-        "title": "양자 통신 상용화 실증 본격화…3대 거점 구축한다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004673588",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "LG유플러스, 22일부터 유심 보안 자동 업데이트",
-        "link": "https://n.news.naver.com/mnews/article/014/0005592229",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "크래프톤, 독자개발 AI ‘라온-1 미니’ 공개…“누구나 무료 활용”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003559520",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "하정우 AI전략위 부위원장, 강원 이어 대구·경북 AX 현장 방문",
-        "link": "https://n.news.naver.com/mnews/article/421/0009241968",
+        "title": "크래프톤, 자체 개발 LLM ‘라온-1’ 프리뷰 공개",
+        "link": "https://n.news.naver.com/mnews/article/029/0003054370",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "반도체만 275억달러…10월 중순 수출 '역대 최대' - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZGpTN3g1Mmx0YWxXaUNLSmplNEU3TFU2cEMzaTFSX2o3N2t3VHczZ2NrbjhCWXFlWjN3cHBzM0plWHFaTEI2bW5hd2x2NWFlclFXNWRWMnVCanF4RkVvd09UZFFWRDRkVktr0gFwQVVfeXFMTzFKWk1TYUF5MC1HWjJnQjVteHBxRTBGcFFZTmlISFhPNFVTVWdEa3AwY3pWVUIxS3NSbnFQcC1Ea1hEVjJ5N0ZkUjI0RDlqaVNrNURKN1VBbFREMXI2M21qdTdqWU12NzI0Wm55dW1pZg?oc=5",
+        "title": "'월 100만장 반도체 팹' 짓는 일론 머스크, 한국 소부장에 러브콜 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ELWdVSHRwWGhwMkN3ZUxUWURRN2JlMVZKTDU0YTdDQ0JrNS1QT3o2OWZfclRJaEFYXzlHcjdTbFNkMWRnQmI5U1Y3S3RqOGlZS3RCcDBfZzYwZlM2NWZ5MmxKamNGQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "10월 1∼20일 수출 616억달러 '역대 최대'…반도체 222.5% 급증 - 매일일보",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hb0pKajQ3QWR3VzFYSS1rZ21Pb1hjV05naGtKNDRMVXdZQVMxZTluUnNDUU9RY05CTUwyYVlUdGhrU2Q5c1ZLWUZ6eGhkdHdUVmRQSzJqSGxKbkN1U0tIbHNjY2g?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"반도체 초호황 안 끝났다\"…돈 쓸어담는 '3國' 어디길래 [테크로그] - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dcng1bHdaUDlLa3B5QUM1ZDB6QmdVTFZtUzd6d2tYcDlmZVJ0M0lxNGNSX3FvckxDR1Y3SmNUY1FRN2RjbDRVYUltWWo4Rnk5NTlVbDh4ejhndw?oc=5",
+        "title": "\"너무 싼데\" 반도체로 우르르…\"삼전닉스 사라\" 오히려 목표가 올리기도 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMmItQmRBMFdoMDV2UU8yV3BYWlVZNU1rTF80X1ZsZlFFMnpBbjhQUlpOSWpQazlZMmJscWNtc2wtNTRNWGQwcXlzVFZnUGxlMkZyVWk5dWpVMDlpcWZyTTE3X0ZnUXJT0gFuQVVfeXFMTWhVM0Uzd1diUEJaTWlhQ0RfZmNzQUVYWFVjRFR3MzA5QjFhclBWUUQ5TWJlc2VtV1BlbnBrNnBwSmw3MWpPUXlQc04zVWRoT3ZRcU1zWkQxZlBmSzlFUXNUanY2LXBka0xSXzVranc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,15 +44,25 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "'월 100만장 반도체 팹' 짓는 일론 머스크, 한국 소부장에 러브콜 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ELWdVSHRwWGhwMkN3ZUxUWURRN2JlMVZKTDU0YTdDQ0JrNS1QT3o2OWZfclRJaEFYXzlHcjdTbFNkMWRnQmI5U1Y3S3RqOGlZS3RCcDBfZzYwZlM2NWZ5MmxKamNGQQ?oc=5",
+        "title": "\"30% 급락하자 저점매수?\"…트럼프 계좌서 반도체 팔고 '이 기업' 담았다 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qWnNJTmhDVGYwMVNhMXR1SVFpMGFRX3FDc2Y4T0dIMDF5ajBkMmRjTDYxQUhLOEZudTBETmlEZVBtZFRLMlRKNUxobDl6ZEVkcXo5eVN6R3dlVm9JSWt5Z19B?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "10월 1~20일 수출 616억 달러 ‘역대 최대’…반도체 222.5% ↑ - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DQmRKQ2V2NTZkWTJHcEp6WFJqT1FrbzdnYmRTbU5KdFRNM180TGxpTzZFRm5iTWxqRERxLVZLcklBS3R4c3FlcHBoejBpdUowaWRyMUtVZjROZVk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "네덜란드 방문단, 안양 인공지능(AI)·스마트 도시 기술 현장 찾았다 - 세계환경신문",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWG1LWEJBVmNlcTJLNFJEOHNZT3lwWnpMZjZPd2Jwb0ZPbGpKcE5rQXdWZmNNaklWRXdFZElmSmI3TEVaZ3llNm40X2Z6Q3FKX1dmMk1qZEh5TFhzNVpn?oc=5",
+        "title": "인공지능(AI)와 로보틱스로 여는 K-치안의 새 시대… ‘2026 국제치안산업대전’인천서 개막 - 일간대한뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVR0R6ZTJyREFyLTRlZDUwNjRMZVJLd2tWU3Fyakk2ekhKNkhnbjRtZzFkbmFHcmdKOFVjUDJLQS1NaDNNQklfLURrQm53cHVNeksydGJMRHVKOWZJMk44X0xxaGRRdXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "수원특례시, 인공지능(AI) 시민강사 양성해 지속가능한 인공지능(AI) 교육 생태계 조성한다 - 뉴스피크",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnU092bDNMbUVKZHJ1TXpEVnhlME9BeW1iT29YUFFqY011SlkxbkFmYXVud2h5UHFzV3g2ZnFzUW95RHlsN1ZzYU1IdExWN3FsMUpPQnFOU0RsRzVqVzB5TVpsSmhvendM?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,13 +71,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "수원특례시, 인공지능(AI) 시민강사 양성해 지속가능한 인공지능(AI) 교육 생태계 조성한다 - 뉴스파노라마",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HN0JzVV9uSzVGRXBtS2hESlVmaHBlY1JiMXZKR3ZJVTZhNzN3czNwckE0Qk5GVU5Jd0hWdnFEeEl2MzNmRlFJVmEwS0I4UVlEVXBuMTVYY0I0YUVzV29KcFZmTGVMMUllTzYwTGtVbw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북교육청, 점촌초 연구학교서 학생 주도 인공지능(AI) 교육의 새로운 가능성 확인 - https://www.newsgb.co.kr/",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mcHlaeTg5eFFCam53Y3AtUGJHRExBcXZOQlFtTTE1WUV1X0JYVHgzMXpDWDkzLWFITGtSbjVzazNKeXRhVlZFblhqb3A5RTJKOS16ZEU3TjY2azlhX3Zjag?oc=5",
+        "title": "네덜란드 방문단, 안양 인공지능(AI)·스마트 도시 기술 현장 찾았다 - 세계환경신문",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWG1LWEJBVmNlcTJLNFJEOHNZT3lwWnpMZjZPd2Jwb0ZPbGpKcE5rQXdWZmNNaklWRXdFZElmSmI3TEVaZ3llNm40X2Z6Q3FKX1dmMk1qZEh5TFhzNVpn?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "국가교육발전계획 시안 발표 결국 늦춰져…“쟁점 논의·사회적 합의 부족”",
-        "link": "https://n.news.naver.com/mnews/article/032/0003477712",
+        "title": "서울형 통합돌봄 도입 6개월…1만4천명에 6만9천건 연계지원",
+        "link": "https://n.news.naver.com/mnews/article/001/0016391474",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이진수 법무차관, 검찰총장 후보 고사…차기 수장 경쟁 주목",
-        "link": "https://n.news.naver.com/mnews/article/018/0006393122",
+        "title": "[속보]'탈북어민 강제북송' 정의용·서훈 항소심서 징역형 집유",
+        "link": "https://n.news.naver.com/mnews/article/018/0006392899",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 경찰 “역삼동 방화범 범행 시인…특허법인에 겁 주려고 범행했다고 진술”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002712208",
+        "title": "서울 중등교사 등 임용시험 경쟁률 발표…공립 7.5대 1로 전년보다 높아",
+        "link": "https://n.news.naver.com/mnews/article/448/0000646065",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헌재, 이진숙 가처분 일부 인용…방미통위 국정감사 참석 가능",
-        "link": "https://n.news.naver.com/mnews/article/277/0005831701",
+        "title": "'내란 가담' 박성재 전 법무장관 2심 징역 9년‥1심 25년서 대폭 감형",
+        "link": "https://n.news.naver.com/mnews/article/214/0001530481",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신변 보호 받던 전처 찾아가 흉기 휘두른 60대 남성 구속…전처는 의식 불명",
-        "link": "https://n.news.naver.com/mnews/article/087/0001225251",
+        "title": "밀양 주점 앞 동포 흉기살해…30대 캄보디아인 구속영장",
+        "link": "https://n.news.naver.com/mnews/article/003/0014268611",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-21 12:16"
+  "updated": "2026-10-21 17:33"
 }
