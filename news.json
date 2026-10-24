@@ -2,59 +2,69 @@
   "categories": {
     "IT": [
       {
-        "title": "與 추천 원안위원이 與에 \"지랄\"…국감 불려 나오자 '사과'(종합)",
-        "link": "https://n.news.naver.com/mnews/article/018/0006395105",
+        "title": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황",
+        "link": "https://n.news.naver.com/mnews/article/001/0016397852",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘아이폰 듀오’ 오늘 출시…사전예약 1분 만에 동났다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004674358",
+        "title": "AI시대 보안쇼크 PHP 사태…‘패러다임 리셋’ 서둘러야 [논설실 Pick]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753152",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "넷플릭스 한국 진출 10년…200편 제작·전 세계 회원 80% K콘텐츠 시청",
+        "link": "https://n.news.naver.com/mnews/article/008/0005430654",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "“이 가격에 누가 사나 했더니”…500만원짜리 아이폰 품귀 대란",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753372",
         "source": "네이버 뉴스"
       },
       {
         "title": "여야, LGU+ 해킹 은폐 의혹 질타⋯홍범식 \"사실 확인 시 합당한 책임\"[2026 국감]",
         "link": "https://n.news.naver.com/mnews/article/031/0001068867",
         "source": "네이버 뉴스"
-      },
-      {
-        "title": "20년 새 200㎞ 북상한 비구름…한반도 늦여름 '폭우·폭염' 동시에 덮친다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009245480",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "PHP 보안 구멍에 해킹 우려…국내 금융사들은 안전할까",
-        "link": "https://n.news.naver.com/mnews/article/003/0014274434",
-        "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "반도체가 바꾼 수출 강국… 한국, 일본 제치고 ‘빅5’ - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0h5OVJJWExheDE4c2RabkxqSXBYTWw3eUozU0JIdXc2LVFQMDlVREJlYTdKd2tlZDBlbkwtdUxhUXlwNHBOdFE2THJlcEtWdjBJZnhDOE90QXhIaDdGaU53aDV3VWF2YUZnTnB4cVlyMFRXUjZDbHhtT1NqUU12bWJmNTF3YUR5RnBNc2FBUQ?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "[단독]비엠티, 세계1위 글로벌 반도체 장비회사 공식 공급업체 승인...\"성장 싸이클 진입\" - 머니투데이 - 머니투데이",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83M1otaFFwa0VZOXdCOEJ6eW1rTE5BRG5KOUJ3R3NtT1RFYURCbGdUR05BMWcybUU2MXdrZWNvbHFfVXJJV3UxNVhiNXpvUS1SLUxLMmNpSDBBQXN1ZU5iaUNlWmdyRG5J0gFuQVVfeXFMTzRLd3ZMZjlIb3dQMWFnZ0taNF9RT0JiZkhPUDFjUFNQZHQ0M29ieDlsYlFJaTk4cTdjNF9rX3B4VFhZdDNiOFpNcUdDOXMxU1d0TGs3YS1JcmJ0NnJ4bV9tV3Fab0R4UjFxMFMyRVE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "세계 이끄는 '반도체 강국' 한국, 시작은 1988년 첫 4M DRAM 개발 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNUpXUWo2TVUzUExydVY5LU1fSEhhLWxlSzREZlFScXZIQ0xfRkgyNXh2bnVzLTMtLWJidVFURFlWSWt2eW43aXExTmpFQm1GTFlHa3hOUXFkZEnSAWBBVV95cUxON1dFYW4tUEpZNlZLUXo3bERfbWxUbWo1YS1PQlNyR3ZYT1lld0ZwY1F1Ukh5YUNPNUVZTTZZa2tHdUZRTW03TDh3Xzlrbk1fR0ZjVG5yaXVNSzluSTFQbks?oc=5",
+        "title": "[단독] 삼성 반도체, 최선단 기술 '특공대' 꾸렸다…'코어팀'으로 초격차 승부 - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bWIzblBzZVNyOEEtWXZYRVlUeHh1dW5USmhqUjFDQjhQQlZsQllabVZhWkVGOVg5NGlDUEhHaE96eUdLOVpRWXVjbHE4MXlPaU5DRWNlVW1pUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 석유화의 최종 관문…'GPU 선물'이 뭐길래 [테크토크] - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMi1QeDJvOVRRQ0tmbkQwUThDb19rX2ZUTEFZVDZ5amtMbmFOcG9NX1FqWFJkdWxJbkVXeHUzU3JjR0JCNzMzVVUyRlF4Y2tSQkRwT01KWk5vSkdOZWZBUA?oc=5",
+        "title": "AI 투자 불안에 나스닥 2.6% 급락…반도체지수 6.7%↓ [뉴욕증시 브리핑] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wY1o0ZUp1VXFkRlZZQUJHMjl6Rm0tRkVVd3EzNzU5b09fTkF0VTVsOXZNVmI2U3hhSEVKcWh2dmJFYlE1c2xzOHR4NEkxWkpQdXNLeWhRRko4Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체·폐배터리 시장 '시선집중'…UNIST 혁신기술 2종 출격 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxVGozeHIzZHdzLU0tV3QwUm1heE93SXRPVy1MMTNVWDBlellNYzI0a3NpUEVHalJyanNnX0hVQXJLNnFpRDZ3NU9FQlp5UlR6X3BNWF8xcE5LdVF2el9Ud0Vxa1NZdHN4c3fSAW9BVV95cUxNM2YtbnB2OGZzVUdZbGJqTzFsNnlhd2xoVjRYVTk1Nl90MjczQ2hXd0w1YUdRVXhNWEVXMUVYdHBNM25hQkRfdDQ2a0JtSjRKQTN2bjV5VFdRVmhfWTB0M0g2VkNZUlZwSEFrQlVBRjA?oc=5",
+        "title": "美반도체 6.7% 급락 뒤 0.4% 반등 그쳐…유가 116달러·외국인 1조 매도, 삼성·하이닉스 부담 - 녹색경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ZTljSndBVUlwX2dYXzRXU1l2OHk1b3JrTktaRTE0aG5kMS1rX3U4OUhuU0MwUzRBOE1rR3ZRRnA2R3F1MEpYbWtXcVJpQ2Y0SG9Sa0xVamR6Q3JuRFZkaFZQamdDWllq?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[뉴욕증시] 유가 급등 충격에 일제히 하락…반도체 반등 - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zenpETlhobGNPaWg2YmFUS2Q4X2xlRHpTeVBtVnlWMHo0T0JBRlh6TFlqVHp0VjBRSzlTanAybDdRdDZRQVF2NE9venZlNG9XS0dWSk1IQ0RYQQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "AI 실종자 추적 플랫폼 가동했더니...'인공지능이 옷차림으로 발견 도왔다' - 헤드라인제주",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BczMydmlqQUFxVjJWN2NkMF9UY3J1TEo3NnpUajBIMkh6N0NDNmI2SlBXeGpEbGZ5M2YyODRqVHFYaXhhZVduQmo0MXAwR2MwT0tCT0ljVkRBOWVYQU9vUHYwT1hRN0JkREhCblZLeWZqT0E?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[논설위원의 뉴스 요리] AI 학습 자료와 저작권 논란 - 부산일보",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95bXBDQWQyZXVObWxrY2FsTll5TnJQM0hXWDg5WFprenlReHNwejA2WjZsUjJPVnRlcUhfak16bnZJVkliellLSERTY2lISGlEcGd0OGVBMXVZdDZCeGhaWGVWUGlPVi1MN0NsN2ZTVmEtWm94V3NLRA?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "[AI돋보기] AI가 더 똑똑한 AI 만든다…'지능 폭발' 현실 되나 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Cb0lVUElYczJYSjJsZlV5Wl9OTkx1ZkRBUkJ3NDNzYk9GSTA1bGRXOUtuTVdoT1lNUjVtZ3VKbEJuNDk4Und5dTVqVk5pd2cxMXZZN1NvOHhTNWPSAWBBVV95cUxNdHhRX3F3dUpHN2F0OW5hVGJMUy1jN0R5T3VCUmx6cTdyQVEyTUdGZm5kbE8tUDd5Y0FGMGJ1VnoyZlB0T0NQaTRkRHE3T2d6TG1pZUxFdkFxMWF1ZjJxRXM?oc=5",
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "공직자가 직접 만드는 ‘인공지능(AI) 행정혁신’ 본격 시동 - 수원시 인터넷신문",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NT2tWcHVGanRzZldSZnlCX3RSRmV4bHFkMjg0NkFwYVNtVXlTTW95WlVyRzhLbThZRlVMYnVlbGhTNnNvYS1aYjNqRUtudS1ncHZoczF5bVYySjZVeTVvTy10czlmXzIzcW1mOHJpR1VvR0VpamdCRUln?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인탑스, 인공지능경영시스템 인증 획득…AI 신뢰성 강화 - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLWGFfS0E1WkFHQjRGNG9uUVZCbEpYVTkzUHg3OEkyc0RuS3NpbmI3Q0pKWHZWcHZYalloU2dLWENXN1BWak1JeDNoWW5pTmE5c1pWMTdVMlAxRjdUMkE4NA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "랜섬웨어부터 인공지능 무기체계까지…AI기반 방산기술보호 컨퍼런스 성료 - 드론매거진 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyN0NWYzR4N0RmMkVQeW1vMEs4RUFLWVRJTXU0NWVxMmdfOHlWQVBucU9FWWhrbHk2ZlJoWTMwbUthS3I3R1BmampEQWtpQnlmYWhXX0g4TlJrandORXhZbWtDaTI?oc=5",
+        "title": "이천시, '2026 이천시 어린이 AI 체험 한마당 – 미래상상 PLAY' 개최 - 경기1뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03SEhyOFRKVFBObFA3U0ZRMkFuUkFzOVZSdE14QWJ5R0E1Wnk0TmZ5X1ZBV2NJSlV2eWE2dHVJZWJXal92M3c1dVJyZWlERGlUZ1EteVVzRWZpTWZrZktZbg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "'금융권 해킹' 경찰이 계속 수사…서울중수청 \"수사 상당 부분 진행\"",
-        "link": "https://n.news.naver.com/mnews/article/437/0000517230",
+        "title": "\"뿔테 안경이 죄인가요\"…AI 안경 단속에 불안한 수험생들",
+        "link": "https://n.news.naver.com/mnews/article/057/0001974907",
         "source": "네이버 뉴스"
       },
       {
-        "title": "자가면역세포 치료 쉬워진다…정부 주도 '자가줄기세포' 임상 추진",
-        "link": "https://n.news.naver.com/mnews/article/008/0005430744",
+        "title": "“부캉이 머무는 곳인데, 어떡해”…부산 친수공원 인근 바다 기름 유출사고",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753075",
         "source": "네이버 뉴스"
       },
       {
-        "title": "기성용 '성폭행 의혹 제기' 초교 후배에 손배소…2심도 승소",
-        "link": "https://n.news.naver.com/mnews/article/437/0000517313",
+        "title": "'살인' 검색도 했는데…친조부 살해 혐의 20대 \"고의 인정 어려워\", 왜?",
+        "link": "https://n.news.naver.com/mnews/article/008/0005430698",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태풍 '참피' 북상에 제주 비상 대응…강풍·폭우 대비",
-        "link": "https://n.news.naver.com/mnews/article/654/0000207100",
+        "title": "'인천 흉기난동범' 최충락 공소청 송치",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753263",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"우리도 가기 힘든데 난민 전액 장학금?\"…논란 불거진 인서울 대학",
-        "link": "https://n.news.naver.com/mnews/article/088/0001036231",
+        "title": "‘얼짱시대’ 출신 인플루언서, ‘라방’ 중 바다 뛰어든 시민 구했다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753366",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-23 23:55"
+  "updated": "2026-10-24 03:50"
 }
