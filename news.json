@@ -2,55 +2,55 @@
   "categories": {
     "IT": [
       {
-        "title": "'AI 딸깍' 게임의 시대[겜플]",
-        "link": "https://n.news.naver.com/mnews/article/008/0005431018",
+        "title": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황",
+        "link": "https://n.news.naver.com/mnews/article/055/0001397882",
         "source": "네이버 뉴스"
       },
       {
-        "title": "265만원 아이폰에 밤샘 줄…애플 첫 폴더블폰 출시 첫날 '품귀'",
-        "link": "https://n.news.naver.com/mnews/article/018/0006395180",
+        "title": "KT, 분당서 고객 문화축제 '보야지 페스티벌' 개최[테크스냅]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016398680",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성, 리센느 손잡고 '폴드8' 여심 공략…티저 공개",
-        "link": "https://n.news.naver.com/mnews/article/374/0000539586",
+        "title": "“이 돈 주고 누가 사나 했는데”…500만 원 짜리 아이폰 듀오 사려고 밤새웠다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004674729",
         "source": "네이버 뉴스"
       },
       {
-        "title": "금강 위 둥근 다리 달리니 가을이 한눈에…빗속 세종런[가보니]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016398116",
+        "title": "삼성전자, 인도 스마트폰 시장서 9분기 만에 1위 탈환",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442266",
         "source": "네이버 뉴스"
       },
       {
-        "title": "PHP서 원격코드 취약점 추가 발견…KISA '긴급 임시조치' 권고",
-        "link": "https://n.news.naver.com/mnews/article/293/0000092077",
+        "title": "“암세포 움직임 초당 20장 포착”…UNIST, 초고속 현미경 개발",
+        "link": "https://n.news.naver.com/mnews/article/016/0002713927",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "[단독]비엠티, 세계1위 글로벌 반도체 장비회사 공식 공급업체 승인...\"성장 싸이클 진입\" - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83M1otaFFwa0VZOXdCOEJ6eW1rTE5BRG5KOUJ3R3NtT1RFYURCbGdUR05BMWcybUU2MXdrZWNvbHFfVXJJV3UxNVhiNXpvUS1SLUxLMmNpSDBBQXN1ZU5iaUNlWmdyRG5J0gFuQVVfeXFMTzRLd3ZMZjlIb3dQMWFnZ0taNF9RT0JiZkhPUDFjUFNQZHQ0M29ieDlsYlFJaTk4cTdjNF9rX3B4VFhZdDNiOFpNcUdDOXMxU1d0TGs3YS1JcmJ0NnJ4bV9tV3Fab0R4UjFxMFMyRVE?oc=5",
+        "title": "한국전기연구원, SiC 전력반도체 결함 판별 국제기준 오류 규명 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NOVpFRV9aYkNfSk1lU2dhVVlObjRTUlBEbV90enpqMnkwZ09LbGRkdFh0a290S0JfYUVhazVCMk5vbTlGY3VFdnlNQmg5VWxsUEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'5% 미만' 차량용 반도체 국산화...\"원팀으로 돌파\" - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ycVVRb2pHVU16RFpBUjI5c0N5U0JRQmdyMURXckV6RXBhYUtqdnNlZTZKQk1tRHNqMVFrVjhqTEpqd0syVHJZNmtKdlVMWFJEaWlGUF9nRF8xTVE3YVE?oc=5",
+        "title": "한국전기연구원, 15년 만에 SiC 반도체 결함 판별 오류 규명 - 경기일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVHkySmF5eUJnaDFVd3pOaXRvUmpYaUQ2LTRCWWF1WnNQNEI1Yms2c0RJcG5udE9GNWhDWkZLbWxmemhqVVRJUkVJUU5xaC1tTnI2TUdCcFlvVms?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[2027 산업] 반도체만 웃는다…불확실성 증폭에 업종기상도 '극과 극' - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QdjFPR1h4U2JfdzV3ZG4zT1RfUkVNd3FHT2VCVFNQcEVoODJYWlNfWEJsazl1V3ctRXdXMVBaVDQ4UV9ZZTktem9sSUpPaDJxN3ZXaVctY2h2N0HSAWBBVV95cUxNT29ER3VGUGlhclVpTUZwNVhEZGNEeWh0TERiNkJacFY4QXMwc0N1WmlXNGNzVi15dmp2RVF3cVF0M0IzVEpxdkltRkVydWZZOHJMY1M0M2Q4MEVvNnZMTTE?oc=5",
+        "title": "KERI, SiC 전력반도체 '불량 판별' 글로벌 기준 15년만에 바로잡았다 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XbVoxZURpQ0dMTnI4ZUZuYjJNeDdlM3NHZV9RQWZqV0swN0owdDNwMUV0Q3F1dWItYnRrQWhnejhLY291ZFdZYk5Jbi1MZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "정부, 반도체 투자 속도전…인허가·보상 동시 추진 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nYXZUTUpoal9tRS1lcTN5SHF2aXhYZFJITEt2T2wxbDk2ZTVnWF9WR0hIRTd5RlFwMXN4SzdaWXhCNkJNTTlVcHhRVElaQlpHT2kwYkpWQlJXVDBVdXhKMDBCZVo1aXc?oc=5",
+        "title": "11월 제조업 회복 기대 꺾였다…반도체 ‘웃고’ 휴대폰 ‘울고’ - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBla015dVkwam5nWVZHU0tCVTlrSmdzTFZ1SzVMOTVPcUJyTzZNdlhYYzRPVE9rOXJzek5WNWU3Tl9ZNHdtWU81cF9wMExWWDVoOGVrbW1hREZYNmJkV3IyWndtZlB1X1BTU1REbjVqNWxoYlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남 반도체 ‘2030년 시간표’…노동특례·인허가, 29일 당정 시험대 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EM1J1ZEFkeFM3RDhSZmk5b0FTQm1FZXlKZnJiaFk3NUVmSTlEcjhNR3hqUjR5cXNlc0lFVjc4S01sOGo5OUJsRWljM0VyREtmS24zTTF3LUtQYjRYZzFYZtIBeEFVX3lxTE9GSmVGR0I5cVdQd2hKSG1Yblhram1BaUFiRnFLQ2dzV1FoX0gzRjhwZlRJdnhkUW1fYmFRak15XzExMDhyaFIzLXJOaXVCZW9UbFFhUUZlZ0NRa1JkYW5wZXZiTUotT0dmRGVkdDJxWDItODA1aVVNOA?oc=5",
+        "title": "반도체만 웃는 제조업…자동차·화학 회복 기대 꺾여 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTGZUTWN6WTJRamwtOW03M0JZMjhhYWJvN3VnTUhOUVhuMWQ0ejFzX0hIN3JjcXJfc1dnQkhqN3J3N1NUN0pLOHUtNndGdFpCWFcySndNRUNCLTdJUUNsQ0xoY2hmZDR5MF9MVEM3ZWJCUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -61,53 +61,53 @@
         "source": "구글 뉴스"
       },
       {
+        "title": "[AI위클리] 수술 일정 짜고 순찰도 돈다…AI의 진화 어디까지 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbktHOHl6VGxZMWlSMXlLSGJlcjJXQ3JWbzFFYzdoTEtRYWw4a2lvbWRLdFpIOU9QTFhreGUzOTA2S2ZBcXJ0aDdmd2JFSXFhbkE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "[인공지능 줌인] 유럽 의학계, 정신 건강 분야 'AI 활용 가이드라인' 전격 도입 - 위키리크스한국",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iNGZfMnlwaG5HOUx6X0Y4cHFSUTh1YTlEcUdvOXdqWGpIbDYtaEVHWHhYUHBMN0xObzRfZm1fbWhKamZrOU13UDlweXdYcTNWN0hHZTUyS1g2Z3lVYW9YZnRqUkV4TjF6VF9mTFFON1I?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“한국, AI '모럴 리더십' 잡아야”…안전·신뢰를 수출 경쟁력으로 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44MjRmS05OLWkyVmRKQ3l3MTFsS3RVb0pRRE1SZF9SNnNXSkxpd2ozaU1GVmRVNldCdnhMc09VYk5jWWt0TFNoTFZ5VWFOdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "아이들의 상상력이 인공지능을 만나는 첫 경험! 「전 국민 인공지능 경진대회」, 인공지능 창작대회 본선 개최 - 메가충청뉴스",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZcU43U3NNT3pJNkthb0V2bnZoOFQzVmNBeWNsVFZXOEFxUFpzNXF1THhnMkMyY1JoRmJmNWNEd2hMS2R1dE80NkRzWjE1OXFuMWNBZ2xyLUNNV0dHWGJUZWNDVHlJLTFjTENGNw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "인공지능융합사업단, 국가 AI데이터센터 고도화 기술 세미나 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZNEVqNFV1R0k0ajVQb1VXamt5MlY0a3htU3AwU2lFWWM0bkRLUzVKYzl1Zkh6cDJGSU1ZbmNQeklINzNIZFRHanFIMUpHcDZza1l5dzFWNHpiVzjSAWBBVV95cUxNVGp2dW90LW1rSUZkUFdtT25CYk9RbmFNU0gtME8wb0MxYldZMDdqZzVKQkh3RWhhUnhOd25jNzZROXoxSlpZRlozM1BDOUMtUkZwLU1zWWhXM1F5aW1Famw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UanZ1b3QtbWtJRmRQV21PbkJiT1FuYU1TSC0wTzBvQzFiV1kwN2pnNUpCSHdFaGFSeE53bmM3NlE5ejFKWllGWjMzUEM5Qy1SRnAtTXNZaFczUXlpbUVqbNIBYEFVX3lxTE1UanZ1b3QtbWtJRmRQV21PbkJiT1FuYU1TSC0wTzBvQzFiV1kwN2pnNUpCSHdFaGFSeE53bmM3NlE5ejFKWllGWjMzUEM5Qy1SRnAtTXNZaFczUXlpbUVqbA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "장동혁 “이 대통령, AI(인공지능)에 목숨을 구걸하는 판” - 채널A",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXbXdCNWVEeU9PSnVNRC1CTlVxU2NYaVIxYUoxUFBSXzlTaXVTVHZpYnduQVpfdG8zZ3NJTENfNXlqQlNOam9Ja1JBYWljeXRDcEVnbEpoODI0T2pHdlHSAWNBVV95cUxPcVFxd3ZNSTV3akxvRkFiOFRTSzM3Wm4wY2hxTTlxTXJUWjBXLXE4T0thTXQ3dVNDSTM5RmhXOUM3R3lya1A5Z2xRUGF0UTlfTktyMWtkQmNSeGVhdWJDLVp5a3c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이태원 참사 4주기 시민추모대회…\"진상규명·피해자 지원 촉구\"",
-        "link": "https://n.news.naver.com/mnews/article/660/0000119848",
+        "title": "'음주운전 재범' 기사회생한 이유가…\"측정 전 입 헹굴 물 안줬다고\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0001036299",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독] 국내 기업 위장 취업한 北 IT 인력, 해외서 원격 근무했다",
-        "link": "https://n.news.naver.com/mnews/article/023/0004005709",
+        "title": "[속보] 부캉이, 이틀째 안보였는데…부산항 항만서 발견, 새 환경에 적응중",
+        "link": "https://n.news.naver.com/mnews/article/009/0005753426",
         "source": "네이버 뉴스"
       },
       {
-        "title": "태풍 ‘참피’ 북상…경남 모레까지 남해안 100㎜ 비",
-        "link": "https://n.news.naver.com/mnews/article/056/0012280249",
+        "title": "핼러윈 '경찰 코스프레' 주의보…유사 경찰 제복 집중단속",
+        "link": "https://n.news.naver.com/mnews/article/421/0009247965",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“기후변화로 ‘재선충병’ 매개충 활동 2주 빨라져”… 방제 까다로워졌다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004169245",
+        "title": "미성년자 성매매 유인 '각목 치기'… 5,000만 원 뜯은 10대 일당 중형",
+        "link": "https://n.news.naver.com/mnews/article/660/0000119878",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'친모 살해 혐의' 40대 여성 오늘 구속 심사",
-        "link": "https://n.news.naver.com/mnews/article/448/0000646678",
+        "title": "부산시, ‘부캉이’ 이모티콘 제작…26일 선착순 5만명 무료배포",
+        "link": "https://n.news.naver.com/mnews/article/081/0003692105",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-25 00:04"
+  "updated": "2026-10-25 05:06"
 }
