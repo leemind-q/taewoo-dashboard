@@ -2,62 +2,62 @@
   "categories": {
     "IT": [
       {
-        "title": "PHP發 보안 우려에 렌털·뷰티·택배, 긴급 점검…\"침해 사례 없어\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009251384",
+        "title": "통신요금 매기듯 AI 토큰 과금…KT, 500개 모델 연결한다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005754793",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[영상] 구매한지 6시간만에 화면이 ‘쩍’…아이폰 듀오의 처참한 내구성",
-        "link": "https://n.news.naver.com/mnews/article/009/0005754341",
+        "title": "오픈AI, ‘GPT-6.1 테라’ 공개…“이용 요금 절반 낮춰”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012281765",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG유플러스 \"TV 켜면 날씨·뉴스 한눈에\"…U+tv 첫 화면 개편",
-        "link": "https://n.news.naver.com/mnews/article/277/0005833619",
+        "title": "네이버, 브룩필드와 12조원 계약 체결…AI팩토리 사업 본궤도",
+        "link": "https://n.news.naver.com/mnews/article/025/0003560881",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버, 브룩필드와 90억달러 AI 인프라 계약",
-        "link": "https://n.news.naver.com/mnews/article/014/0005595261",
+        "title": "애플 \"아이폰 듀오 화면 결함 인정…교체품 지원\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000919928",
         "source": "네이버 뉴스"
       },
       {
-        "title": "4년 만에 예측 바꾼 IAEA…\"전 세계 원전, 크게 확대…각국 힘 모아야\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005432192",
+        "title": "서울대병원 노사, 전면 파업 하루 앞두고 임단협 잠정 합의",
+        "link": "https://n.news.naver.com/mnews/article/001/0016404579",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[미래인재 CLASS] 기술 패권의 중심에 선 반도체, 경쟁력의 근간은 ‘AI 생태계’ - SK hynix",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CVTY0dUg4VUNFX1dnMk5DTVRZeExHTlZzRW9lSm5HV1JwYzZMdWEyZlh5M2FwMGVGLXMza2laUHdSYUJXSTluRGpvOXFhSzZNUHA0UE1ha2tfS2hmQjVNdzB3?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "반도체 수출 호조에 3분기 한국 경제 1.0% '깜짝 성장' - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqSDRJeW1UQ3hjQmdlaHZjdUczTFhLWDNnVThSTXNvRDNybXB4em9nUnJGc2JfaUhIZ0pKMGtlYTZ3MC1QNk5IU2pqcXdEaEFmcVIwSlNZVXROQ03SAWBBVV95cUxNTmlyUVlkbjZiZlpwektESng4bnpNRGo4eTJ0RjZwOEk4cHc5ZGlnUVN3Z180NFJGdjJnVWFJMkxuUkNiLVRXN0QzZ1QxUThzcVdfNjNSUWdtTVFrMzN6S0s?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에도 온기 못 느끼는 가계…성장·체감경기 엇박자 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LbFRXQzVjQTdFRVllSWVJWFZvQTRKdVhzSmZhRnYwQ0lnQUxKMTJ5MDRUajRGU1Vfc2Y3OC02UFVQX3UtT0xmTGNZcFhnQWJneElrWjk1VWtHeU5keDlCaTBEa0tsNHRVc2RFYjR4ZlhNMlU?oc=5",
+        "title": "수원시-성균관대-한국나노기술원, 반도체 연구개발 업무협약 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsT0libk4zSVlQamhUbzcyNGNjejJ2b3RVaGtySmFEemxreVR0c1hHMXlsN1Z3dVM5Uzk5VlRYQzdneTZ3aVpBaXZsU0YxaEx0X0FFdkhaVGRteDg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"내 지갑은 닫혔는데\"…반도체가 이끈 3%대 성장[클릭 e시장] - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0Vk5JdFVrcGVzYnJMaWRaMVZLajRvYllQeXRBalRnTHA0XzRjQjdLRmNEMHRaS2hZQ2ZfbGRjakZmYkcxaFdzWXMzQjhodE01UUEzSnRmVi1HbHIzRTQ0dQ?oc=5",
+        "title": "반도체 기업 성장판 여는 수원시…대학·연구기관의 연구 역량까지 결집 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvZExwRXNTRmFTUldqQnM2TVJtRVdCekN1UVJMbW5vLVZySE1jRUlibnFYcXRxUmExaVZSUUYtMTFJWHNMYlFhOTFtMzNhQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "10년 간다는 반도체 슈퍼호황, 믿어도 될까? - 이코노미스트",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xb0Y1a1c4QXFVYzBNMk9uVDlZYnNqcFRqbl9LY2ZNa3pJWEVsdnRiMkxLbkR6OXBHb2pBSWNyaV9KNDdaQjVSSDJHVnVNUU5tS3lZQmd0TUlyamltZHJfZzZR?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVlVTkJJaHZ3ZXZ6Y0s4dV9uR0FuaUhuNkVpNUtQMHpxRXFoOFFVSXNtT0s0ZmYxTGJnV1BrMlQ3cjd4LXNyX1JmZlBGcGVwdmV2QlVWNDVqUQ?oc=5",
+        "title": "수원시, 양자·AI 반도체 패키징 검증 인프라 구축…국비 100억 확보 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81RlBaMUo2Ump1VFhkZl8xanVDcGVkWmF3V1ZEdkdUQ2hyZmxrdFhPV1ZPNUdzLW9aSXYyVW1SWkFnb09FWUVDRm1hQnlUTTdjM3JjMXF3?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "제주도 공직자 AI활용 확산 '인공지능 파트너' 선발 - 헤드라인제주",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RNW0ydXBxeDA5SWoxVVRlcl8yOHJkRnJ2ZVhqakl6dWF4S25ySU9aMmh5b2d5TE9VNnpGeEowZi01RUM4Y2ZYSFRnRDJCWVpyWDR6bEI0TDN6VG1ocnlKT1dwS0gwbnNwZ3I0ZnFSU01pYkk?oc=5",
+        "title": "한국소비자원, 인공지능(AI)을 악용한 부당광고 차단 - 경찰뉴스24",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdFk0cEJja0NCTWg4bnkweFY3T21QM0pFZmZjeWZPcno5VGVsOWV6clM2UGZiM3JGblZXcXplMjljY2RibnJXZ0t5QTNLNUFONEhUVExvNU93dlltckd2MEs5TkRHbzVDVnJjQWppYnc?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +66,48 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“인공지능, 암 치료 결과 74% 정확도로 예측”…英 UCL·케임브리지, 새 치료 후보까지 찾아낸 ‘설명 가능한 AI’ 개발 - 인공지능신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90RzVHZGQ5X1ZRcGwzODZXbUxma2lQdHJrRGlBaXE4dnh4dDhTSFNCSHNQMTRJSm1Dd1lEemdZZ3d1OUZxRnJnOXNobDFpRHNhZjEybUJCZkdxQ0xnNS12eE5URkxJRVE?oc=5",
+        "title": "유엔개발계획(UNDP) 찾아 ‘인공지능(AI) 허브 충남 유치’ 모색 - 파인뉴스 (청솔뉴스)",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tZ1FvMzJ3Qmo3bGVOcHFNc2MxZS1Jak9ZODFOVk14S1MtRlUxS0ZhYU05TEFVYlY0M2dNX2tzZjkyMW8xbS1j?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI가 행정정보 접속해 정보 조회·예약 신청…화성시, 시범 운영 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSjVnX2tESEVVMElKbzNGN1BHUjR0dXNlbXF6NmQwWUFZRE9pa3l1TEJjaG1DVjZHdEZORnBQbEZCR24wRkU0YkxpcVFIb3VGeXN6dTBOcHIwNWvSAWBBVV95cUxNODFkUzcxNF95WjM5aTk0VnlJYzNsalYyZlpJc3YyTDRnWHlQRjhMUzlpZll2TjVoNDJLbjBJQVpqeEJoNTJsQ2NVT2NhSUpqdk1oR3d1S0xMWlBzVEU5SVc?oc=5",
+        "title": "제주도, ‘인공지능(AI) 파트너’ 제주도정 업무 혁신 이끈다 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HelR2NFB3eFJsRHJRSU4zVjdFQlRhMzFHc051ZC1qYnpHMTVPM29HM0dHbFVaYkJxVDBERkdrcWdGdjN1TjZjQVJNWkk3TTJ1QndGUTVDY3p1RFlIdEZKT0dTaHVOd2JvTHZ2aDdQY0taTHFp?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "을지대의료원 창립 70주년 'AI와 미래의료' - 의협신문",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtV05PMUFCYS0zREFmUEFnZTZvb3dYekN3a2FNQkRSTWJUUEFzVWhOazZjNlNHbVNIOW0xbTVtRjZiQ2dWQjRSYlAyb2ROdl85SHgwVWRlOV8xQnBjLTBTWW92VWJsOXdnWDdOdlBEZ3dXdw?oc=5",
+        "title": "인천시,‘인공지능(AI) 커넥티비티 혁신도시’비전 선포 미래 모빌리티 산업 선도 - 뉴뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdGFSSHlUV1J0N25hNElHNFJqQVNxcmhDMS1saERiQnpzNnl2NHoyNktpUkl2R2dVS3ZNZUdXbnBNd01xVFNvektrZDR0d3QwMWRhbWZPVDhXNFplQXJTdGpGczFZZw?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "서울서 남고생이 여고생에 흉기 휘둘러…“과거 연인 사이” 1심서 징역 장기 7년",
-        "link": "https://n.news.naver.com/mnews/article/081/0003692936",
+        "title": "28일 ‘올공 개표소’ 검증…‘시간·인력 부족’ 선관위특검, 남은 의혹 규명 가능할까",
+        "link": "https://n.news.naver.com/mnews/article/032/0003478665",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 대법, 김건희 추가 구속영장 발부… 31일 만료 앞두고 구속 유지",
-        "link": "https://n.news.naver.com/mnews/article/469/0000962020",
+        "title": "오세훈, 강남 구룡마을 화재에 \"가용 인력·장비 총동원\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000546140",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘올공 시위’서 경찰에 침 뱉은 40대女 징역 10개월",
-        "link": "https://n.news.naver.com/mnews/article/020/0003757997",
+        "title": "정치인에서 변호사로…홍준표, 측근 구속심사서 직접 변론",
+        "link": "https://n.news.naver.com/mnews/article/215/0001270601",
         "source": "네이버 뉴스"
       },
       {
-        "title": "대형상가서 10명 살해하려 한 최충락…구치소서 자해 행위 후 치료",
-        "link": "https://n.news.naver.com/mnews/article/009/0005754716",
+        "title": "임성근 前사단장 징역 3년 확정…'채상병 순직' 3년3개월만",
+        "link": "https://n.news.naver.com/mnews/article/119/0003147521",
         "source": "네이버 뉴스"
       },
       {
-        "title": "교사 10명 중 8명 \"수능서 스마트안경 구별 어렵다\"‥'민원·분쟁' 우려도",
-        "link": "https://n.news.naver.com/mnews/article/214/0001531744",
+        "title": "헤이지니 전 직원 폭로 “연봉 2000만원, 하루 16시간 일해”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002714633",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-27 10:15"
+  "updated": "2026-10-27 15:57"
 }
