@@ -2,8 +2,13 @@
   "categories": {
     "IT": [
       {
-        "title": "LG전자 “AI 냉각 사업, 칠러 넘어 통합 솔루션으로… 기존 공조보다 높은 수익성 기대”[컨콜]",
-        "link": "https://n.news.naver.com/mnews/article/366/0001200995",
+        "title": "'인앱결제' 구글·애플에 과징금 637억 원 부과",
+        "link": "https://n.news.naver.com/mnews/article/422/0000920506",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "구글 ‘돈줄’ 검색·광고 매출 기대 이하...AI 투자 불안 커졌다[마켓무버]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004676345",
         "source": "네이버 뉴스"
       },
       {
@@ -12,35 +17,30 @@
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 잇따른 금융·공공 해킹에 민간 기반시설 172곳 긴급 점검",
-        "link": "https://n.news.naver.com/mnews/article/023/0004006425",
+        "title": "\"SKT 해킹 후 신뢰회복 대응 돋보여...기업이 먼저 손실 감수\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002442740",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글·애플 '인앱결제 강제' 과징금 637억 원‥3년 만에 결론",
-        "link": "https://n.news.naver.com/mnews/article/214/0001532017",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개[AI는 지금]",
-        "link": "https://n.news.naver.com/mnews/article/092/0002442654",
+        "title": "시총 1위 되찾은 애플…\"다음 시험대는 아이폰 수요 입증\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014285825",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "미국 정부와 줄다리기? '빅딜'에 걸린 한국 반도체의 운명 [지금이뉴스] - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcXllNzZiWjl6RnNpMmZoQnhZQXJOaHdzbkpUUkRJaER1cWUxc0h5TTNYT3FwX1d4SFZUZVdRc2RxRjJ0aEdvaXk2SS1fSEh5RDYwU0JpT1g4eEhBTlE?oc=5",
+        "title": "반도체 급등에 코스피 6,000선 돌파 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZHJkVFNMZjc5T3VXMHlMSlhOYWRWWGowQnkzNFh6a2d3OGlFd1hUNEVGTXNiNzBzdElDSTRBc2JjcExlenF2bTdfaExMVEhkcDlVX3gyY09VU0FzVDhzblU5eVRyVVk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 '투톱' 8%대 급등…삼성전자 24만원 돌파·SK하이닉스 145만원 육박 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GOFVqQ1JBd3RTUHd5T0ZxZjlWcHE4SnFUVkE5a0RQaDJHcHZBc0NvZHZCQURjbHhMV1d6dG1HUGg0NHhjNWRndmRXTWVfalIxOENmOWtGc0prdURFbHVnMtIBeEFVX3lxTE8zTm5NVlpRNGFYbmJTNmpmQUl1YVA3OGF2QUlEZW9rSVhhOGxkeGFuX3hZNEJsaG1jNEM0XzlWd0ZKSTFjNVpHM1ljb0ZWOFQzYWZTUk1ULTBMQVduUzNWVHVkNjk1cC1vN0w0RXU5blpocm5zalB2Yg?oc=5",
+        "title": "美 반도체 훈풍·하닉 호실적…코스피, 3% 올라 5800 회복 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CTGpCUnpRb3RRVk9TSHYtWEVvMTRlNnA3RUI2T2JnLVZpMU9CMmxoZU5mVFVTNUtBQjVtYWVwMGpOZGVrbmdNbzFPVUJCU25QMFIydEF4T0REY0theGpSUmQ5TE1NNldo0gFuQVVfeXFMTzNtZ2Uwa1Zxa3VCblk0bUJhOXBGbnhtU0tsN0FJNHhOaHlNWG02NUZYVTZja2p5REhfSU1ucDdaOXZhZ0NQQlVTZkFaNE43QVhFak5JamJIcHU0X0tFZGNXa3lMbzJsNUZ5TTZkMEE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "분기 매출 104조·영업익 83조 하이닉스, 반도체 고점론 일축 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWgzd0NpczNyTWlMWXZNRGM1cnVQUkpOVTNaaUdrNnQ5UF9pXzdBd1hlUmFXZkZSbFFVQU5HUXNka1dSWDVxcUd3aU80aVVJTTI5QXRmQURvSEEtMHFvMk9LaWozSldYRGpaa9IBckFVX3lxTE1HMVpFQzlYQ3R6QzIzRnJVWmpHRVRsRS1uT0phTUdhWjhHLW91Z2NDdUlPR2JFa3E0QlliQm1fc0lMdk02UFYzY2hqcUI2QmF2N3hHY0xGc3pPd095NHliVVJVY2EtNDBBdUUyUkxsdElyZw?oc=5",
+        "title": "반도체 부담 던 코스피, 10월 말 반등…연말 상승 기대감 키우나 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVGtBMmdVQjcwSEkxZWl3THNGbTN4TGpBSDc5V1E2VF8yLWdHa0xBWWxEeWl3UXhUWl9lT05KTFpERjQ5Y3ktd1lpU00yT2lnRFBoYUM1bzYzZWY5a0Q2TdIBeEFVX3lxTFBkWmJ2UC1LYlBnNXhPVTdzdkh1THVwby16bEVCWjlBWEYtZDQ4ZVdKLTR5Rm1JSFlGLWlYbzI2SzZxVTIyeVdTRThYYmk0dTNzdUJ2eENBZWdyQnpzNEpzMkpOeVhZU2NFMXVHNnBUYS1UWEhRYlprSg?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,65 +49,65 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 장비주 급락 이후 KLA Corporation 실적 발표 주목 - Investing.com 한국어",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03aWk3Ujh3REYwWE5uM3lmWkdBSmZOMlVjWVJxd0xuYm0wZ3A5SUNsTTVNSmpNdlBuU2RyaXBhMW9UQVFxVS05MHgxOWJSYVJWTnp4ajF0cGRCZ3NZUDNGSmN0ZmVYMU16R2dR?oc=5",
+        "title": "반도체 실적 호조에도…기업 경기 전망 2개월 연속 '부정적' - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLY05aRHBfRGtJdjY0VjEyQTVOZ1NVUnhNZnM2cnJVSzJ4dV9OZlN5aXdycndHc3RvWC05NXJ5Q0twc2VmNzUwTlVMTlRHVjY2czZaOGR0clVuYmfSAWBBVV95cUxPYkFLM3hiMkh1ZzhjM1E2VmxTLUZDUjBIOG00cGpTYjBoenpKOFAwMzdrd3JPMUhReENpR2RDTmZZZGg3cUZwN2NoM2hNSmJuVTBQOVpzaEFFQ0dvM2VxeVo?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "충남도 ‘인공지능(AI) 기본사회 비전선포식’ - 동방일보",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zeE1TZlRKcTdDNkRzV1o0b0F6OV82V0ZBQ09BcHFRbnVSODRLZ1J2eGFFaURoV041NDJlMUZFenJGeG1uRFZkYzJKTWtsQUZIREtFWE9YN1VvQnNvM2RqelR1dVMxVktYNmlvLW1DSXlFajQ?oc=5",
+        "title": "[목요칼럼] 공감하는 인공지능의 시대 - 대전일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYRXdRektmVkR2Nm5GNDBpTHFoZF9Yd1liUjExaWxfWnVLWlhrZ21XWjlCU1BaRW1PSjJ5YXJzVkxKbEJQYWtnLUZEeVRSdTV4R0N2azFQN01ZTHF6TFNZbWhLTXFyRVRKVnpBeUZGSdIBc0FVX3lxTE1IQnpKTkk1UWtycDAyVjNxSHlMUlIyMjloSHVDZ0Z4R1pETE1RMjRZVGh3OS1LcWN1aGtRWnRfM0JUMTM2TTEyMUZuX2J3QWlSNVdoV290d1YzMm13dk12NmhabHIxM19ESVNBN1F6NnpPWms?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "수원역·화서동 곳곳에 인공지능(AI) 주차·순찰 로봇 서비스 도입 - 경인방송 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IS3dSQzNacWhBNnNZVDFJYVJZM2dFVmNJRTlSbEpnRnN5akpueUJHMFlvSVhPZm50MmZwOGNXWVowSVhnUmlRQlAtT1NMeHZnQk9nTVpNbGJyM0Q1Zk5Vd2p0akPSAWhBVV95cUxNY0lLR0FnaGFFaW9NQVJ6ZHpHeEtON0RYS25neDR1cWlSUGl0NDJuSGRzZ2hDM21obndCU29TemZHLU1nUkpqdDdFU3dZVDN3UjlReXpVZG5CTHJCaUZKQWZQY0xFTW9BOA?oc=5",
+        "title": "정재승 교수, 아산 시민과 인공지능(AI) 시대 인간의 역할 묻다 - 국민뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44cGZqc09XQkVkMUZYRTN0V3RpdXZhWUFEQlBxWWNOSGRTcDVZa2ZHcUx2czRnejZyNVY4S1RQVWlZdDI3ZGdlMWN3?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[AI프리즘] AI 특유의 문체 없앤다…'휴머나이저' 도구 등장 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbzRJdUpwYkJmYk80a2t3NUxSdzRnbmhtTFJWeUJVVld4Tm9HREhJT18weURhOXloaWthRlJpRXlWR29SMlJPOUFmM1JBVkZPYnZuVkhXUnlMLUJ1VGpuZTJMZDE2MUY5OTVWcWxjTXhlXzB6?oc=5",
+        "title": "AI, 도입서 성과로…기업들 'AX 시프트' - 포쓰저널",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJUGgtMFVjaXNvWHBUcnFQd2hKeFpHSnljQUxQXzRyWVlkSGxneENsMTlleHFCOXJtZW5ieVRRNExwR0dBNFZJWUJXNlRseE5PQXhub1hPbEVyX3k2bjFaWm0wb0I?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경남도, 인공지능(AI)‧로봇 기반 스마트 물류장비산업 키운다 - 코리아투데이뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE96Q0FiNEZPeG1lWWtYbE0tTmNSZDBJZTQwU240eVpvNHFmTGhWR2xsdTViZDUxeHN4RTdKSlQ3NnlvOURQeEc0?oc=5",
+        "title": "도, 공무원 인공지능 역량강화 교육…어떻게 활용할 것인가? - 경기도뉴스포털",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzl0MHZlYWl1UDNjbW5jR05LWmZEeHNNMkk3NWlTWmN3dTlteDZ3eXJMak9TMFFuM3NOQkJ2cG1rLUJnYUk5VllmTlREOEh5M0pUOUVNV1pnOExvTHp1TWVtZ1BibnN6S1BhY0FCSHFhUGE1T1NBalIxOUxJckd5NmwtNE5HdjJuSktlRmI5a0FuYkxWejNzc3Q2LXZkWkpZSnV1Q2dHVXNnOVpCc29V?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI 활용 넓히는 JDC…NIA '인공지능 윤리 준수기관' 마크 획득 - 신아일보",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XdnVBREdRbjdLREVvYWdIYmpRT2xNYkpYdkhsaDBDYlZBQXRfNjZFYzJiZEVQbjZfS1JxUmd0TW5BUjlpYWQ2VnR6TGVkNXR4Z1hrSXM1OHZJWDN4MERJdDJGT2pRMDJJWjRlZW8zZ0Q?oc=5",
+        "title": "[이용호의 손에 잡히는 인공지능] AI 분류 시대, 기준을 설명하는 힘 - 한국강사신문",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdVdwYzZ5TnBFVjNualhOdXBhT2JFUnM1T28weEhpYzlsckVPaHJDT2JucUhmWEh1QUVZd29XdUlXd3BZNE5iSjAwOFFBcVRLWXUxeFBnNjZZQWY4T3dqZFE4bXZNV2xLLUtKczBWYUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "구룡마을 화재 소강상태 들어가…소방 대응 1단계로 하향",
-        "link": "https://n.news.naver.com/mnews/article/022/0004170295",
+        "title": "공정률 97%인데 또 개통 연기…위례선 트램, 안전 절차에 발목",
+        "link": "https://n.news.naver.com/mnews/article/008/0005432743",
         "source": "네이버 뉴스"
       },
       {
-        "title": "野, 아주대 소아응급실 압색 논란에 \"警, 직권남용 감찰해야\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005834795",
+        "title": "\"'수험생 집중력 향상' 광고 속지마세요\"…식약처, 부당광고 무더기 적발",
+        "link": "https://n.news.naver.com/mnews/article/421/0009255794",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전북·전남광주와 5개 시군 서해안철도 조기 건설 맞손",
-        "link": "https://n.news.naver.com/mnews/article/002/0002463147",
+        "title": "의료취약지역 우대 수가 신설… 동네의원 초진비도 6% 오른다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004170584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "북항 머물던 부캉이, 이틀째 안 보여…“활동 반경 넓혀 외해로 나갈 듯”",
-        "link": "https://n.news.naver.com/mnews/article/022/0004170606",
+        "title": "성평등장관 \"폭력 피해자 끝까지 보호…경찰과 공동대응\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016405310",
         "source": "네이버 뉴스"
       },
       {
-        "title": "송파 투표지 247만장 계수 막바지…이상투표지 검증 병행",
-        "link": "https://n.news.naver.com/mnews/article/422/0000920555",
+        "title": "민주, 소아 응급전문의 사의 표명에 \"실질적 대책 마련해야\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002425020",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-28 18:59"
+  "updated": "2026-10-28 23:06"
 }
