@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "“얼굴이 티켓이자 지갑이라고?”…네이버가 성수동서 펼친 승부수 [현장]",
-        "link": "https://n.news.naver.com/mnews/article/009/0005756853",
+        "title": "화면이 깜빡깜빡 \"디스코 모드냐\"…또 체면 구긴 애플",
+        "link": "https://n.news.naver.com/mnews/article/437/0000518435",
         "source": "네이버 뉴스"
       },
       {
-        "title": "붉은사막, 바다로 모험 확장…미지의 섬부터 수중 보물까지[오늘의 게임 업데이트]",
-        "link": "https://n.news.naver.com/mnews/article/011/0004677290",
+        "title": "깃허브 부사장 “AI가 개발자 대체? 오히려 늘어날 것”",
+        "link": "https://n.news.naver.com/mnews/article/030/0003480635",
         "source": "네이버 뉴스"
       },
       {
-        "title": "애플이 접자 삼성이 웃었다…첫 폴더블폰에 무슨 일이[정길준의 위클리 성지]",
-        "link": "https://n.news.naver.com/mnews/article/243/0000105012",
+        "title": "네이버와 카카오의 '이름값'[챗ICT]",
+        "link": "https://n.news.naver.com/mnews/article/648/0000052143",
         "source": "네이버 뉴스"
       },
       {
-        "title": "현대오토에버, 3분기 영업익 2.6%↓…AI 인프라법인에 1146억 출자",
-        "link": "https://n.news.naver.com/mnews/article/030/0003480609",
+        "title": "'아래아한글' 울타리 벗는다…글로벌 시장서 승부수 띄운 김연수 한컴號",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292437",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG디스플레이, LT소재와 공동 출원했던 美특허 9건 단독보유 전환",
-        "link": "https://n.news.naver.com/mnews/article/092/0002443278",
+        "title": "‘방탄조끼’ 입은 위성, 지구 궤도 올라갔다…대체 무슨 일이?",
+        "link": "https://n.news.naver.com/mnews/article/032/0003479827",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "\"반도체·자동차가 해냈다\"…15년 만에 나온 놀라운 기록 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SX3lpd1BUQTR4eXB3ZHdFTGNDd2ppaVFsZ2VWYzdLNFgydG9ZMFdUbXFKOE5hUUhMZWdpSHRBSVZrcEV5OTM5YkRVZXBJTmc4NnJYNEZtWWN1dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼전닉스, 반도체 호황 타고 번 돈 210조 주주에 돌려준다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTXNBUjRYQ2VwTDNPaU9wUHFqLUNrVzliTm0zTm5NRHF5RThrNzFPay11VEVxdWh1b3RwYmptWkNrU3hNclllNzA3U0JtcXd1ZkVfXzZCTHF4STjSAWBBVV95cUxOZFJqU3gtZkl6aThRUEpyY2pWQW4zQjhSMU16MEZGNkJYc2lyMU5VWWZOWndFN3I0UGVTRUcwaXlJbFh5N0dWN0R3X0FBYmY2eHNZeGV0bXRocEhDNnVzSXQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "수출 1조 달러 눈앞에...'반도체·대기업 편중' 과제 - YTN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBZUhybF9XR2JMenVyR3Jxa0paRkdfcDkxUEd2dTJJVml4c3dERFE3NFJoU05ZZ3NSclYwZXN1dGo0ZTBvVXZhMWNiTGw0SlB1Y1BIdERXdWRGSmVOVFE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZUXhRUk92VW5ZckNweXppVWtCbUNvanVJODdQakZ0N0tCU2RjaHNVa2paaVZZSzkxQl83VDlKSzlJU1FwVXgtSEdIWnFiTHRPaXc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대 - 제민일보",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15akN3SkotWnQ1cTRvNUpZNWZBblVzaUJqUWpPSEJOTV9QajVUX2JFMnR0TDY4dVB3UjVEdXh5dDdfYlpDbnFVRG1uSWlxWXJMTjJlWlQwUE1aRHJMRGVLTzE0MGk2cjA?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "AI가 나를 판단할 때 내 이야기는 누가 듣는가 - 『인공지능과 인격권』으로 읽는 인간의 존엄과 기술의 책임 - 대학지성 In&Out",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUT3liTG80blU4X3gzSmZCVC12MXIwbFNiOTlkdnFIcndmamJrYmhUQ09nLVVMRmRIMFZnYlVoSUpTcHpqaEhGUlFsbHNrMEEwM3VlVlB1ZUVtNlpsUHh2ak5FVFhVMUhHRFJ3dA?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경북매일, 독자 맞춤형 ‘AI 추천기사’ 서비스로 언론의 인공지능 전환(AX) 가속 - 경북매일",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3UEV5aWRaQ1BzRU5tYmxLNnJiak1ITmVGZzBfV3lzTVZhVGVSVmVQem5lMFJLNFp3czFnbW5Na0NXOVFkakVoeU5mTDJ5clZVZF9FYm1GSlRCQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"3분 액션신에 2억 절감\"…AI로 제작비 아끼고 창작 영역 확장 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWTVPb09ybF9Kb0t0cnBxX2V2SkZaNGpPY29LRVh6TUZTZmljWWtSdUwxcmhwV0lYdmJsNVZCSmlmOXpseW9uS1Q1VXcxYTFtWWlkYVZrVTZtbm1SMjkwNg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "미국산 AI 칩 의존 낮추는 주권 AI…한국 스타트업 대안 부상 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzE1NTJQUURLQUIyV1d4MTdBUXhKTlBqOG1yOGM2NTk1ZkRyV2lONUV4RGtvRFQ5NkJMdm5PT0FvLUxUMm1nRTY4bV9zQW9Ld0M5RHBidDVLN2FnZmp0N1c2RDJxQXlEYVVndGp6SUNmaFB4VDNiUnhfM05fdVQxTnZycmxUd1Zo?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경남교육청, ‘경남 인공지능(AI)·디지털 교육 심포지엄’ 개최 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZnpBaWlYMFZSeXNWU29lNGR3SHh3MXZuN0MxQnpEc2tVc0UwbjgycDQwX3NUaTY0dlMtV21yUVB3SHFTaEM2WG1WWEZYVld1ZS03b3ZiZG5NQ2QtRl9TM2xIOFdPU1FTa2ViMFFxLVZndw?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "“안창호 인권위원장 극우 유튜버 수준 역사 인식…사과해야”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012284530",
+        "title": "전국 곳곳서 다중 추돌사고…임산부·어린이 등 부상 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/014/0005597367",
         "source": "네이버 뉴스"
       },
       {
-        "title": "사별 후 유족연금 30%·50%·전액…연금 종류 따라 ‘감액’된다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004171233",
+        "title": "호남 천년 고도에 정원의 풍류가 흐른다[김선미의 시크릿가든]",
+        "link": "https://n.news.naver.com/mnews/article/020/0003759092",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"한국은 두 번째 조국\"…부산 전우 곁에 잠든 프랑스 참전용사",
-        "link": "https://n.news.naver.com/mnews/article/057/0001976082",
+        "title": "김병기, 6개월 만에 8차 소환…“악의와 거짓으로 점철된 고발”",
+        "link": "https://n.news.naver.com/mnews/article/277/0005836118",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김병기, 영장 반려 50일 만에 경찰 출석…“악의와 거짓 점철된 고발”",
-        "link": "https://n.news.naver.com/mnews/article/022/0004171335",
+        "title": "서울 도심 167㎞가 단풍으로 물드는 가을을 느껴보세요",
+        "link": "https://n.news.naver.com/mnews/article/022/0004171304",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, 핼러윈 앞두고 서울 클럽 8곳 마약 단속…위반 사례 '0'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005836163",
+        "title": "전 연인 찾아가 \"불 지르겠다\"...20대 구속영장 기각",
+        "link": "https://n.news.naver.com/mnews/article/052/0002426583",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-31 19:52"
+  "updated": "2026-10-31 23:09"
 }
