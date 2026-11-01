@@ -2,60 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "KT가 '열과의 전쟁' 나선 까닭…첨단기술 총동원",
-        "link": "https://n.news.naver.com/mnews/article/648/0000052148",
+        "title": "‘방탄조끼’ 입은 위성, 지구 궤도 올라갔다…대체 무슨 일이?",
+        "link": "https://n.news.naver.com/mnews/article/032/0003479827",
         "source": "네이버 뉴스"
       },
       {
-        "title": "北 라자루스, 국내 학회·언론사 웹사이트까지 해킹 거점으로",
-        "link": "https://n.news.naver.com/mnews/article/421/0009262579",
+        "title": "25년 노하우에 AI 실증 더했다…kt클라우드, 전문기업과 AIDC 경쟁력 강화",
+        "link": "https://n.news.naver.com/mnews/article/014/0005597567",
         "source": "네이버 뉴스"
       },
       {
-        "title": "귀 안 막는 '갤럭시 버즈 온' 통했다…사흘 만에 초도물량 완판",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292435",
+        "title": "과기정통부, IRIS 전면 개편…논문 고유번호 입력하면 정보 자동 등록",
+        "link": "https://n.news.naver.com/mnews/article/666/0000130041",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT 은퇴 임직원, AI 강사로 변신…1인가구 어르신 대상 생성형 AI 교육",
-        "link": "https://n.news.naver.com/mnews/article/366/0001201739",
+        "title": "KT, 복합재난 대비 통신 긴급복구 체계 점검[테크스냅]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016413747",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT, AI에 사번까지 부여한다…회사 일하는 방식 바꾼다[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016413692",
+        "title": "직원 80%가 에이전트 개발…“조직협업도 AI 중심 재설계”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004677395",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [],
-    "AI": [],
+    "반도체": [
+      {
+        "title": "이재용, 창립기념일에 日 반도체 패키징 연구 거점 찾아 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0poZnlBVExEdWZFV0FqS0pzZ2hvTWNsT3ZWcDNwX1lRLTFmWmg3cW9GYkVGSzNiMjVucVZ0RzJGdWt0ZXAzWHo0N0NyTjBBc1hZQjlYUXJFQ2hIa0ZjRVZ6V19kQW81bWFjRlNuUzI4R0VKWGZydHQ2UzlRbEVsV0d3Szc4RU94UGFtZVFVZw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이재용, 日서 AI 반도체 승부처 점검…첨단 패키징 협력 강화 - 지디넷코리아",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xVHJnZGZSTlVnbThieWlWU0xGRnIyZDAxb1QtNGJlNE5TZmdkQXFaOWlMUmdjOHF3c040T09KYjhyLU4yMkU3Nl9qUTBFbjhFd1RnWXZn?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "일본으로 달려간 이재용…'3500억 베팅' AI 반도체 승부수 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NGE3ampGTFNiakFOenVZdUNGZ2NIN0xxTzlwbHNGNDlaSWhLQU1PYkVabjNNaDhBT2xfMHhuLU5tZ3RjdHg3YkRBNC1HWlFEbXNYTjF3TVA2Zw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "삼전닉스, 반도체 호황 타고 번 돈 210조 주주에 돌려준다 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTXNBUjRYQ2VwTDNPaU9wUHFqLUNrVzliTm0zTm5NRHF5RThrNzFPay11VEVxdWh1b3RwYmptWkNrU3hNclllNzA3U0JtcXd1ZkVfXzZCTHF4STjSAWBBVV95cUxOZFJqU3gtZkl6aThRUEpyY2pWQW4zQjhSMU16MEZGNkJYc2lyMU5VWWZOWndFN3I0UGVTRUcwaXlJbFh5N0dWN0R3X0FBYmY2eHNZeGV0bXRocEhDNnVzSXQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[반도체 국제콘퍼런스]\"생산·분배·지출 선순환 구축 시급\" - 남도일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6QUZOTlE1SDNiSnRtV2lqLWlqRmlMb3hpRi00djlKNm1TeVN1UTBFdVItSElFTTV0dk9felNaSC04ajltQl9kc2d4X01WdFdCX0dnbDJVaUVTb3phVk9nYTh6VjVqMDdra2ZNatIBcEFVX3lxTFBfNW44TE9ZZ3FjRVBGSWVfVEpXUG12bnlIZWtFNGtGUVVzdU1CZEZPMEtVemg0Zm93Ykc2a0FpaWpVN0tmZnJyRTFhY2lIeUV2QlQxQ0w5S0JET181R3dWZUpORldmZkNjYmdRSDUxbHM?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
+    "AI": [
+      {
+        "title": "‘대한민국 인공지능(AI) 수도 충남’ 지능정보화사업 기획부터 체계적으로 - 충청메시지",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90WnJSZXdpa2hnTnkxQXIzWXBjN2I3ZURJNHdrWTUzT196YWVVRWd5QUxxalZPTW5LT3FKN1hMMnQ2RzdONXYxVFMwc3pUUTJ2cmJrb2FrbTM2VXhpTmVQU2NBS1JUN0cwbW0w?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHaDdNLUU1RTdXQVQ4YlM4VzljaEdWUkRqMGZUU1Vwc19FSS1IWUx6bzZlallKMWZFTTQtYXpkdW9Mb2huWnNsMzZadUZKMUR3N0hvaDBLcXByNGZuOUdYRtIBYEFVX3lxTFBHaDdNLUU1RTdXQVQ4YlM4VzljaEdWUkRqMGZUU1Vwc19FSS1IWUx6bzZlallKMWZFTTQtYXpkdW9Mb2huWnNsMzZadUZKMUR3N0hvaDBLcXByNGZuOUdYRg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "시흥시,BIX 2026 참가 성료,인공지능(AI)바이오 혁신거점 경쟁력 강화 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaERlaEN0LXFyeWNEZVhIUWhWbWtFU0VmdENGZmQ4d0M0VzktNXlSZXBGVDBSNlhPblhDbHNrNEZQWUhndmpjZEZHSm9YMFpwb1RENW5Id2gybHVLU0JTY0tMaThzenJqb3VubnAzUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경남교육청, 인공지능(AI)·디지털 교육 현장에 전문가의 지혜를 더하다 - 경남도민신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUXczNHVOMndoVEo3Y20zbmdkZDg3aVB3VFMyaWJWVl9JaFNqbDBsTUZYS000a1JlVlZ5WHdDZUVMLVhlT0loMXV0TmNSZkNYb2M0clJJV3o5eXhzSVFtYVdLaWZlNXdZ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이주배경 청소년 인공지능(AI) 캠프 - 카고뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbVBTMTU0eTZrbWU3THYtOWFlbDh1Wi1NRFU4blRaWndLRWZ3Y2hrNlRyc1pNSnNWNnA2Qk1FRnZQdzlBdzZ3ZWpDWGtXZ3VvNkdQcGl0QU5VMGNLQnY0b3daZUh1NFB1RTZ6aXRR?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "‘AI안경’ 쓰고 SAT문제 커닝해보니…정답률 83% 달한 AI는",
-        "link": "https://n.news.naver.com/mnews/article/025/0003561918",
+        "title": "[속보] 지하철 7호선 고장 열차 회송…전 구간 정상운행 재개",
+        "link": "https://n.news.naver.com/mnews/article/015/0005348876",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국민상어 '부캉이' 진짜 떠났나…나흘째 행방 묘연, 모니터링 중단",
-        "link": "https://n.news.naver.com/mnews/article/277/0005836135",
+        "title": "국민 70.1% “1년간 우울-불안 등 정신건강 문제 경험”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003759191",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서정욱 \"尹 선거법 위반 2심 생중계? 1심 바꾸려는 것…무죄 신호\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009262029",
+        "title": "소아응급실 압수수색 파장 '일파만파'…실효성 있는 해결책은?[따져보니]",
+        "link": "https://n.news.naver.com/mnews/article/448/0000648190",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] ‘핼러윈 인파 혼잡’ 지하철 이태원역 무정차 통과…“출입구 폐쇄”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003694481",
+        "title": "국민연금 20년 넘게 냈어도…여성 10명 중 6명은 월 80만원 미만",
+        "link": "https://n.news.naver.com/mnews/article/081/0003694533",
         "source": "네이버 뉴스"
       },
       {
-        "title": "주식 실패해 같이 죽으려고?…의문 투성이 '천안 일본 여성 살해' 범행 경위",
-        "link": "https://n.news.naver.com/mnews/article/586/0000141322",
+        "title": "며칠째 안 보이는 '부캉이'…낮은 수온도 영향 준 듯",
+        "link": "https://n.news.naver.com/mnews/article/055/0001399610",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-01 02:28"
+  "updated": "2026-11-01 09:37"
 }
