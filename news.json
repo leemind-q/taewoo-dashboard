@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "과기정통부, 김세웅 카카오 부사장 '국민AI서비스혁신추진단장' 선임",
-        "link": "https://n.news.naver.com/mnews/article/030/0003480760",
+        "title": "SKT 직원 4000명이 AI 에이전트 만들었다…'AX' 혁신 가속",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292504",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"상대방 숨은 역할·의도까지 추론하는 AI 훈련법 개발\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016414542",
+        "title": "AI 투자에 현금 마른 빅테크… 美 반도체 주가 줄줄이 급락",
+        "link": "https://n.news.naver.com/mnews/article/023/0004007146",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"매번 동의\" vs \"고지 후 거부\"…AI 시대 개인정보 활용 어떻게",
-        "link": "https://n.news.naver.com/mnews/article/001/0016413899",
+        "title": "온라인 넘어 공연장·경기장까지⋯현장 접점 넓히는 네이버[IT돋보기]",
+        "link": "https://n.news.naver.com/mnews/article/031/0001071072",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전력 끊김 막고 서버 열 식히고…AI 떠받치는 데이터센터 준비 박차[현장]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006401120",
+        "title": "수억원 GPU 대신하는 '가상의 발열'을 아시나요?⋯KT클라우드 목동 DC 가보니 [르포]",
+        "link": "https://n.news.naver.com/mnews/article/031/0001071084",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI로부터 원본 데이터 보호…SKT \"AX 신기술 도입 속도\"",
-        "link": "https://n.news.naver.com/mnews/article/215/0001271226",
+        "title": "KT 퇴직 임직원, 시니어 AI 교육 맡는다",
+        "link": "https://n.news.naver.com/mnews/article/029/0003056407",
         "source": "네이버 뉴스"
       }
     ],
@@ -39,8 +39,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "삼성 반도체 패키징 日 연구거점… 이재용, 문 열자 전격 방문 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Z3JDNUZfMUl0ejMtRnQyVDhOVVRCTktFcXAwRWFxTTJTX1ZvQy1SRHAyZHhOMERjREtkcG1IRDNaVTBlMlpSZkdOQUM0X3ZlQlVfRk5FYUFSZ19RdHFfRXZmN1FPUHF4WkxFcDJsUDNnR0I4N2fSAWZBVV95cUxPbm5MSXlvbDltYW82LXFxT2stNWthSklVTHYxZTJMaUU3ZHpXNzVfRVhzMUhZd0tPbWZxXzdCWGlSUU5rbThVd2VWTmp6a1NpNE95aW1uUVB3Um9VdnJ6dVhKUXNoeHc?oc=5",
+        "title": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMDNfZEpBSmtLeVpmdVdGcnlLd0VoZFZDNXJOaDN3Z28tQUFxRXhuZ2laQzNHQldSanNISkZvcDh1UktFQmlmc2dzTkItVDFxMXR6c25aTlJSeTlqZGRzV25nbmREdVZoV1NuMNIBckFVX3lxTE1zMkhEVmIyRjZZaDNscGhCSWVIR0thQ2ctRDQ4LW16dGpickZpTG5raWVTT09HYkJtNFVjbHdlUXFYSXFPQTh0enpnTjdGNXpVLTlaWGthN1lfRUlLZlJRSUZLUG5GQ3A5WExSeHJVcHp2Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -56,8 +56,13 @@
     ],
     "AI": [
       {
-        "title": "\"상대방 숨은 역할·의도까지 추론하는 AI 훈련법 개발\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wSE1wSk9aNVdmTlY1aF9vVVpkblZ6aTMtcDhnTkNEa1JnMWxNa3BMbzFOSGI3b2toZ2FZbS04ZkVXQVdJVzZEM25PUWh1d0NFeFpSaFl2OGVvcHfSAWBBVV95cUxPYXo5aVpkQldCeDh4VVhZWFpzSVFaeWhLdFdCcF9iV0s3N1hSemNPTnNhYlhQX3BBTzNHSDF2X3FzakQzaTNOUDhMc21NTmNFRllkeGo5RkJmR3QwNmRyX0k?oc=5",
+        "title": "빅테크 신용위험 우려 확산…AI 투자 열풍 속 '보험' 찾는 월가 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUkJUTFFBczZ5SHNMYVZvc0dMM1B0T3kzRFlYbmhZdkJScDREUnF3dVRwRzZBLVRqNnBrbVYtYkJrWS0wd3hZeVAySF9ldFVvTWZra1NXR1g2M2_SAWBBVV95cUxPa1hhSklRRTJHQlJlRW02a1d2blhockFWZVdLMFZRMTkxUjdIZ2s3MnpLWThITHpBNWYwdzVKUkVLSDYtRFgtUEdnbElkbXZNMnQyODlYbGZtUEVLYk9TaHU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"진료지원 AI, '다언어 국가' 남아공에 효과적…정확성 높여\"(종합) - 연합뉴스 한민족센터",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdFZnUUVjWXBKWTBCdWNncnV2bm5SNzgwZGVXX2poNjhPZS1mTXFwS3MtVjNHVEZYU3NTel9GNC02S3lVNWJFTl83aEZTNDVzSVhiQ05JbUdRanpuM1dUUlM2eWRRbHFuc0JlcUtkYU9sM1Zo?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,13 +71,8 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“거짓말하는 AI도 간파한다”... UNIST, 상대 속내 읽는 AI 학습기술 개발 - 특허뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lbXhrUGY1STMwN3lMSGswa1FWWkxKUjJQTmZpcGtuM05rWDFZb3gtajYzWnRIWDBlU1FsTTA2d0djWWJfY3RtSA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "딥시크, 여러 작업 동시 가능한 '슈퍼 에이전트' 발표 - 연합뉴스 한민족센터",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MQWJXcnBaLXNmTVBPTE9SdzczMVJhWDJWZUJwc3kzU2NSbl9KcnJheHpWZHJ0Y2tyQzRWNUlfNXRtaVMxQlZrS0MzdnFIaFJlX1RUZ1h3SWlVelNKV1J5X08yUWlDaWZ3enRjWGhhUFZ5RVZs?oc=5",
+        "title": "인공지능 시대, 생각하는 힘을 되찾는 인문학 강연 - 강남내일신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LQnpzdm92b0UtVndTRU1FZjlkUzlrTmp6MlNncXFmQmw1ZllsNGdOYU1vOW5oOXpPLVpKR2J0OU1kam1TU25wRkthOWp6ZHBCSGtrWm9SRzZYZkVWcFBGVHNrX2RaUE0?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "경찰, 천안 日여성 살해 동기 '성적 목적' 가능성도 수사(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016413469",
+        "title": "경연 프로 출연했던 유명 안무가, 지인 성폭행 혐의로 징역 3년…1심 불복해 항소",
+        "link": "https://n.news.naver.com/mnews/article/119/0003149867",
         "source": "네이버 뉴스"
       },
       {
-        "title": "핼러윈에 사탕 대신 라면을 나눠준다고? [나우,어스]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002716986",
+        "title": "11월1일은 ‘한우의 날’…“안정적 생산기반 유지 최선 다할 것”",
+        "link": "https://n.news.naver.com/mnews/article/662/0000107396",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[속보] 7호선 지하철 고장 여파…상행선 운행 1시간 넘게 지연",
-        "link": "https://n.news.naver.com/mnews/article/022/0004171453",
+        "title": "여야, 투표지 보전 두고 공방…\"부정선거 선동\" vs\"전체 투표지 보전\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000191104",
         "source": "네이버 뉴스"
       },
       {
-        "title": "과속운행하다 급정거에 승객 넘어져 사망…시내버스 기사 금고형 집유",
-        "link": "https://n.news.naver.com/mnews/article/005/0001882132",
+        "title": "정부 제도에 발칵...군수·주민 달려와 '삭발 투쟁' [자막뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/052/0002426832",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고속도로 달리는데 운전대 뒤에서 뱀이 스르륵…소방 출동 소동",
-        "link": "https://n.news.naver.com/mnews/article/422/0000921778",
+        "title": "국힘 '397억 반환' 걸린 尹선거법 위반 혐의 2심 금주 선고",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292431",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-01 16:38"
+  "updated": "2026-11-01 20:59"
 }
