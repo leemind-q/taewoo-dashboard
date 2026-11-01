@@ -2,112 +2,60 @@
   "categories": {
     "IT": [
       {
-        "title": "화면이 깜빡깜빡 \"디스코 모드냐\"…또 체면 구긴 애플",
-        "link": "https://n.news.naver.com/mnews/article/437/0000518435",
+        "title": "KT가 '열과의 전쟁' 나선 까닭…첨단기술 총동원",
+        "link": "https://n.news.naver.com/mnews/article/648/0000052148",
         "source": "네이버 뉴스"
       },
       {
-        "title": "깃허브 부사장 “AI가 개발자 대체? 오히려 늘어날 것”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003480635",
+        "title": "北 라자루스, 국내 학회·언론사 웹사이트까지 해킹 거점으로",
+        "link": "https://n.news.naver.com/mnews/article/421/0009262579",
         "source": "네이버 뉴스"
       },
       {
-        "title": "네이버와 카카오의 '이름값'[챗ICT]",
-        "link": "https://n.news.naver.com/mnews/article/648/0000052143",
+        "title": "귀 안 막는 '갤럭시 버즈 온' 통했다…사흘 만에 초도물량 완판",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292435",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'아래아한글' 울타리 벗는다…글로벌 시장서 승부수 띄운 김연수 한컴號",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292437",
+        "title": "KT 은퇴 임직원, AI 강사로 변신…1인가구 어르신 대상 생성형 AI 교육",
+        "link": "https://n.news.naver.com/mnews/article/366/0001201739",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘방탄조끼’ 입은 위성, 지구 궤도 올라갔다…대체 무슨 일이?",
-        "link": "https://n.news.naver.com/mnews/article/032/0003479827",
+        "title": "SKT, AI에 사번까지 부여한다…회사 일하는 방식 바꾼다[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016413692",
         "source": "네이버 뉴스"
       }
     ],
-    "반도체": [
-      {
-        "title": "\"반도체·자동차가 해냈다\"…15년 만에 나온 놀라운 기록 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SX3lpd1BUQTR4eXB3ZHdFTGNDd2ppaVFsZ2VWYzdLNFgydG9ZMFdUbXFKOE5hUUhMZWdpSHRBSVZrcEV5OTM5YkRVZXBJTmc4NnJYNEZtWWN1dw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "삼전닉스, 반도체 호황 타고 번 돈 210조 주주에 돌려준다 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTXNBUjRYQ2VwTDNPaU9wUHFqLUNrVzliTm0zTm5NRHF5RThrNzFPay11VEVxdWh1b3RwYmptWkNrU3hNclllNzA3U0JtcXd1ZkVfXzZCTHF4STjSAWBBVV95cUxOZFJqU3gtZkl6aThRUEpyY2pWQW4zQjhSMU16MEZGNkJYc2lyMU5VWWZOWndFN3I0UGVTRUcwaXlJbFh5N0dWN0R3X0FBYmY2eHNZeGV0bXRocEhDNnVzSXQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "수출 1조 달러 눈앞에...'반도체·대기업 편중' 과제 - YTN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBZUhybF9XR2JMenVyR3Jxa0paRkdfcDkxUEd2dTJJVml4c3dERFE3NFJoU05ZZ3NSclYwZXN1dGo0ZTBvVXZhMWNiTGw0SlB1Y1BIdERXdWRGSmVOVFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZUXhRUk92VW5ZckNweXppVWtCbUNvanVJODdQakZ0N0tCU2RjaHNVa2paaVZZSzkxQl83VDlKSzlJU1FwVXgtSEdIWnFiTHRPaXc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대 - 제민일보",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15akN3SkotWnQ1cTRvNUpZNWZBblVzaUJqUWpPSEJOTV9QajVUX2JFMnR0TDY4dVB3UjVEdXh5dDdfYlpDbnFVRG1uSWlxWXJMTjJlWlQwUE1aRHJMRGVLTzE0MGk2cjA?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
-    "AI": [
-      {
-        "title": "AI가 나를 판단할 때 내 이야기는 누가 듣는가 - 『인공지능과 인격권』으로 읽는 인간의 존엄과 기술의 책임 - 대학지성 In&Out",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUT3liTG80blU4X3gzSmZCVC12MXIwbFNiOTlkdnFIcndmamJrYmhUQ09nLVVMRmRIMFZnYlVoSUpTcHpqaEhGUlFsbHNrMEEwM3VlVlB1ZUVtNlpsUHh2ak5FVFhVMUhHRFJ3dA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북매일, 독자 맞춤형 ‘AI 추천기사’ 서비스로 언론의 인공지능 전환(AX) 가속 - 경북매일",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3UEV5aWRaQ1BzRU5tYmxLNnJiak1ITmVGZzBfV3lzTVZhVGVSVmVQem5lMFJLNFp3czFnbW5Na0NXOVFkakVoeU5mTDJ5clZVZF9FYm1GSlRCQQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"3분 액션신에 2억 절감\"…AI로 제작비 아끼고 창작 영역 확장 - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWTVPb09ybF9Kb0t0cnBxX2V2SkZaNGpPY29LRVh6TUZTZmljWWtSdUwxcmhwV0lYdmJsNVZCSmlmOXpseW9uS1Q1VXcxYTFtWWlkYVZrVTZtbm1SMjkwNg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "미국산 AI 칩 의존 낮추는 주권 AI…한국 스타트업 대안 부상 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzE1NTJQUURLQUIyV1d4MTdBUXhKTlBqOG1yOGM2NTk1ZkRyV2lONUV4RGtvRFQ5NkJMdm5PT0FvLUxUMm1nRTY4bV9zQW9Ld0M5RHBidDVLN2FnZmp0N1c2RDJxQXlEYVVndGp6SUNmaFB4VDNiUnhfM05fdVQxTnZycmxUd1Zo?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경남교육청, ‘경남 인공지능(AI)·디지털 교육 심포지엄’ 개최 > 뉴스 - 더코리아",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZnpBaWlYMFZSeXNWU29lNGR3SHh3MXZuN0MxQnpEc2tVc0UwbjgycDQwX3NUaTY0dlMtV21yUVB3SHFTaEM2WG1WWEZYVld1ZS03b3ZiZG5NQ2QtRl9TM2xIOFdPU1FTa2ViMFFxLVZndw?oc=5",
-        "source": "구글 뉴스"
-      }
-    ],
+    "반도체": [],
+    "AI": [],
     "사회": [
       {
-        "title": "전국 곳곳서 다중 추돌사고…임산부·어린이 등 부상 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/014/0005597367",
+        "title": "‘AI안경’ 쓰고 SAT문제 커닝해보니…정답률 83% 달한 AI는",
+        "link": "https://n.news.naver.com/mnews/article/025/0003561918",
         "source": "네이버 뉴스"
       },
       {
-        "title": "호남 천년 고도에 정원의 풍류가 흐른다[김선미의 시크릿가든]",
-        "link": "https://n.news.naver.com/mnews/article/020/0003759092",
+        "title": "국민상어 '부캉이' 진짜 떠났나…나흘째 행방 묘연, 모니터링 중단",
+        "link": "https://n.news.naver.com/mnews/article/277/0005836135",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김병기, 6개월 만에 8차 소환…“악의와 거짓으로 점철된 고발”",
-        "link": "https://n.news.naver.com/mnews/article/277/0005836118",
+        "title": "서정욱 \"尹 선거법 위반 2심 생중계? 1심 바꾸려는 것…무죄 신호\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009262029",
         "source": "네이버 뉴스"
       },
       {
-        "title": "서울 도심 167㎞가 단풍으로 물드는 가을을 느껴보세요",
-        "link": "https://n.news.naver.com/mnews/article/022/0004171304",
+        "title": "[속보] ‘핼러윈 인파 혼잡’ 지하철 이태원역 무정차 통과…“출입구 폐쇄”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003694481",
         "source": "네이버 뉴스"
       },
       {
-        "title": "전 연인 찾아가 \"불 지르겠다\"...20대 구속영장 기각",
-        "link": "https://n.news.naver.com/mnews/article/052/0002426583",
+        "title": "주식 실패해 같이 죽으려고?…의문 투성이 '천안 일본 여성 살해' 범행 경위",
+        "link": "https://n.news.naver.com/mnews/article/586/0000141322",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-10-31 23:09"
+  "updated": "2026-11-01 02:28"
 }
