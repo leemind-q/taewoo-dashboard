@@ -2,32 +2,37 @@
   "categories": {
     "IT": [
       {
-        "title": "SKT 직원 4000명이 AI 에이전트 만들었다…'AX' 혁신 가속",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292504",
+        "title": "KT·삼성전자, AI로 야구장 통신망 최적화…기지국 부하 최대 16% 감소",
+        "link": "https://n.news.naver.com/mnews/article/008/0005434955",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 투자에 현금 마른 빅테크… 美 반도체 주가 줄줄이 급락",
-        "link": "https://n.news.naver.com/mnews/article/023/0004007146",
+        "title": "삼성전자, 아프리카 진출 31년 만에 스마트폰 1위…'현지 맞춤 전략' 통했다",
+        "link": "https://n.news.naver.com/mnews/article/421/0009263604",
         "source": "네이버 뉴스"
       },
       {
-        "title": "온라인 넘어 공연장·경기장까지⋯현장 접점 넓히는 네이버[IT돋보기]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001071072",
+        "title": "'쩍' 갈라진 아이폰 듀오…구글·애플 637억 과징금[뉴스잇(IT)쥬]",
+        "link": "https://n.news.naver.com/mnews/article/421/0009262923",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수억원 GPU 대신하는 '가상의 발열'을 아시나요?⋯KT클라우드 목동 DC 가보니 [르포]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001071084",
+        "title": "플랫폼 밖으로 나온 네카오…오프라인에서 '단골' 잡는다",
+        "link": "https://n.news.naver.com/mnews/article/421/0009263384",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KT 퇴직 임직원, 시니어 AI 교육 맡는다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003056407",
+        "title": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292703",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "한국 수출 첫 9천억달러 돌파…반도체 수출 급증 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub0d3eGg0OVNSa3IwTkFnZW8yN0w4TXN2VTlsaVI2T2JTeUpiWm5UX1V1VjA5dEMzMmVxZkNLaTNNdkNkU2NrOVpBUTNWTzZmNG1fb05JcDZSbnpVODFsMTk4YXlGRGM?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "이재용, 창립기념일에 日 반도체 패키징 연구 거점 찾아 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0poZnlBVExEdWZFV0FqS0pzZ2hvTWNsT3ZWcDNwX1lRLTFmWmg3cW9GYkVGSzNiMjVucVZ0RzJGdWt0ZXAzWHo0N0NyTjBBc1hZQjlYUXJFQ2hIa0ZjRVZ6V19kQW81bWFjRlNuUzI4R0VKWGZydHQ2UzlRbEVsV0d3Szc4RU94UGFtZVFVZw?oc=5",
@@ -39,25 +44,30 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMDNfZEpBSmtLeVpmdVdGcnlLd0VoZFZDNXJOaDN3Z28tQUFxRXhuZ2laQzNHQldSanNISkZvcDh1UktFQmlmc2dzTkItVDFxMXR6c25aTlJSeTlqZGRzV25nbmREdVZoV1NuMNIBckFVX3lxTE1zMkhEVmIyRjZZaDNscGhCSWVIR0thQ2ctRDQ4LW16dGpickZpTG5raWVTT09HYkJtNFVjbHdlUXFYSXFPQTh0enpnTjdGNXpVLTlaWGthN1lfRUlLZlJRSUZLUG5GQ3A5WExSeHJVcHp2Zw?oc=5",
+        "title": "이재용 회장, 日 반도체 패키징 연구거점 방문…소부장 협력 강화 By EBN - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XeE84RF9tYzB4bjI2VWF4RzBkeEI1aVFBaWRIcXpVVzBFV1VZZjFDSDNiM1BCdlBnNHU3WDhOVW4yX3RLVHdTUUludkMzTVlUbTZ2LXJ0ejdLTWxEcDhXM1JIckpxVnludTNmWDNHTks?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“월요일 계좌 열기 겁나네”…美 반도체 폭락에 삼전·닉스 여파는 - 이데일리",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjFFSFRlYnlrS2dmVjhxNXlZdU9ueEFuRkZCckpqb3JKcVhKTllhNWpYMGRNZVBHNFhOdFYzczZXelJDSVVDbXNobnIxRUF6YmdYS0tLMnNYQmFrMllCZ0NVUHNmbG9xb1BEMkFfaW44TlVsYmlvYmRtUnZsalpRTg?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "AI 투자에 현금 마른 빅테크… 美 반도체 주가 줄줄이 급락 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2drcy1iejE0bVBjMXpsQWUwT1JnREJLdEc5TnVRWmM1ZlZyUlk5RGtQR3VRTHVkSmY4bmNUaEI0NzZfUTFVVmFKM0FmVEJyZTBqQjdqQ1BLa2hubWJnRE9GYWtTS21DX01GMWFwcjlIblFkc0lPS1JOdVlBOWNDX0NYNA?oc=5",
+        "title": "반도체협회 \"초광역특구법 노동 특례 환영…조속한 통과 기대\" - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9adnplS25EUnE3MGdmb1dvRzhpNXFhSXBkeVJ6anlleE9Na3dGWENrM1g4Y1dtaWVJOVBVX3hyM21uRS1heTNIWkdFdUI3SU9rVW1JeUc4UGxGU1nSAWBBVV95cUxOTm13MG9EaFVROXZ1UnJ3UnE3RUFQLXhxanJEOV8zR3BiMDBMd1hmcVpibVhudTdzU1JiZU5oV3AtVWhLY3pFcUZESVllMFBkV3Q4Y3Nld25WNVBDQS1vNHk?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "빅테크 신용위험 우려 확산…AI 투자 열풍 속 '보험' 찾는 월가 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUkJUTFFBczZ5SHNMYVZvc0dMM1B0T3kzRFlYbmhZdkJScDREUnF3dVRwRzZBLVRqNnBrbVYtYkJrWS0wd3hZeVAySF9ldFVvTWZra1NXR1g2M2_SAWBBVV95cUxPa1hhSklRRTJHQlJlRW02a1d2blhockFWZVdLMFZRMTkxUjdIZ2s3MnpLWThITHpBNWYwdzVKUkVLSDYtRFgtUEdnbElkbXZNMnQyODlYbGZtUEVLYk9TaHU?oc=5",
+        "title": "AI로 대한제국 황실 만찬 차려볼까…덕수궁서 체험 전시 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TLTZmN2dMRW1TS1FCZ3RQaVptc1I5VFdneUx4UzVPQmF1blg3YnQ5RW9ubU53c2dBOWl2VDRmeGdMdVhQcTA4Zk95cXdtMzhyQ0VzSnpzV0dqMknSAWBBVV95cUxQSDBVREFjclFOZUhZaGMzR2E2emN6YWpDSnczNTdCZTVNMUFZQnV5TnllYV9pb0RQeHVEcU9HZkE4VTYzWjlVNHZYRkY1Wmtob0pCRFNLbzlCdWlURGRLcW8?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "[인공지능 줌인] \"진짜 AI스럽네\"…영혼 없는 콘텐츠에 돌아서는 Z세대 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43eG1FOUhqWUJyUGhENkctWmNjVGREWk5LWE13ZGkyMndINnlLeXEzR3UxSXl0ajVTeU9CUHItb2pLS3I2OUhKY3NrNHctZnpKUzE0NGgyWmNWeW9NYkx4M3I0dzVES1JEZVNrcnkwWEE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "중소기업 인공지능 활용 기본계획·전담기관부터 공공데이터 확보, 시·도별 ‘AI 확산허브’구축 근거 마련 - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRDNSZ3JTZ0huUWdldEVUS3B3ampzd0MzcnlkTHhnQWM5OThPc3VGa1A0WGxIazRCQ3hjZVJEdjJhSjlqbk5wblJfVmNvSmw0TGd4UHc0VTZvd2pnMUwzV1NpVW8xTF9LVXkweUxYeGRDMk3SAXdBVV95cUxNUVpVbUdud0lGTG9KU2JWTmpzSXpva1I3cHJjNU1KUWxiWVhLWUZVSkhhQVJwajJHME10VlluU3dBcExjMWFmLXN6dmIzQlhqUjlHc2IzNnk1MllqMkpiclZZYTNWdXFaM284WDdxbTNaZERYOHFJcw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "시흥시,BIX 2026 참가 성료,인공지능(AI)바이오 혁신거점 경쟁력 강화 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaERlaEN0LXFyeWNEZVhIUWhWbWtFU0VmdENGZmQ4d0M0VzktNXlSZXBGVDBSNlhPblhDbHNrNEZQWUhndmpjZEZHSm9YMFpwb1RENW5Id2gybHVLU0JTY0tMaThzenJqb3VubnAzUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능 시대, 생각하는 힘을 되찾는 인문학 강연 - 강남내일신문",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LQnpzdm92b0UtVndTRU1FZjlkUzlrTmp6MlNncXFmQmw1ZllsNGdOYU1vOW5oOXpPLVpKR2J0OU1kam1TU25wRkthOWp6ZHBCSGtrWm9SRzZYZkVWcFBGVHNrX2RaUE0?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경남교육청, 인공지능(AI)·디지털 교육 현장의 고민에 전문가의 지혜를 더하다 - 대한민국교육신문",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpUDE3U2NXRXhGSjdrcURsQVhnRTQzVDd5ZE9admxQWTFwVDR6SFRpaHZJbFR4Qk5qclUyWnZiZ19ZZVpNWHRwaXVlZ1VCZjlQX3NZaWQ3c3hSZld6THFCWkdVcw?oc=5",
+        "title": "용산구, 인공지능(AI) 폐쇄회로텔레비전(CCTV)로 인파 위험 실시간 감지…핼러윈 안전관리 총력 - 타임뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kWFd3cnh6bDgzMlFkdXgxdGdsYmFSMW50RkJkTHlZWmJheS1SYTN3MmtlQU9Vc1ZGOU9Db0xZMUdrZi1IUTZVT0RxMi11cVlMQ1hOSA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "경연 프로 출연했던 유명 안무가, 지인 성폭행 혐의로 징역 3년…1심 불복해 항소",
-        "link": "https://n.news.naver.com/mnews/article/119/0003149867",
+        "title": "시속 171㎞ 만취 운전…40대 가장 숨지게 한 30대 여성, 항소심서 감형",
+        "link": "https://n.news.naver.com/mnews/article/022/0004171480",
         "source": "네이버 뉴스"
       },
       {
-        "title": "11월1일은 ‘한우의 날’…“안정적 생산기반 유지 최선 다할 것”",
-        "link": "https://n.news.naver.com/mnews/article/662/0000107396",
+        "title": "조선일보, 이재명 대통령 주장 옹호 \"다문화 혜택 재조정해야\"",
+        "link": "https://n.news.naver.com/mnews/article/006/0000138506",
         "source": "네이버 뉴스"
       },
       {
-        "title": "여야, 투표지 보전 두고 공방…\"부정선거 선동\" vs\"전체 투표지 보전\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000191104",
+        "title": "천안 日여성 살해 미스터리… 30대 피의자는 ‘주식투자 손실’ 탓",
+        "link": "https://n.news.naver.com/mnews/article/005/0001882152",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부 제도에 발칵...군수·주민 달려와 '삭발 투쟁' [자막뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/052/0002426832",
+        "title": "용인시, '반계유형원선생길' 명예도로 신규 지정",
+        "link": "https://n.news.naver.com/mnews/article/003/0014293714",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국힘 '397억 반환' 걸린 尹선거법 위반 혐의 2심 금주 선고",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292431",
+        "title": "화물차와 승용차 추돌해 6명 부상…밤사이 사건·사고",
+        "link": "https://n.news.naver.com/mnews/article/056/0012285090",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-01 20:59"
+  "updated": "2026-11-02 00:33"
 }
