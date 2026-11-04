@@ -2,45 +2,35 @@
   "categories": {
     "IT": [
       {
-        "title": "넥써쓰, 3분기 매출 257% 급증…원스토어 중심 사업 확장",
-        "link": "https://n.news.naver.com/mnews/article/277/0005837585",
+        "title": "과기정통부-AMD, AI 반도체 협력 가동",
+        "link": "https://n.news.naver.com/mnews/article/421/0009268929",
         "source": "네이버 뉴스"
       },
       {
-        "title": "아이폰 듀오 흔들리자 갤폴드8 웃었다…판매 20% 증가",
-        "link": "https://n.news.naver.com/mnews/article/018/0006402489",
+        "title": "아이폰 듀오 나오자 갤폴드8 판매 20% 늘었다…반사이익 이어지나",
+        "link": "https://n.news.naver.com/mnews/article/003/0014296885",
         "source": "네이버 뉴스"
       },
       {
-        "title": "SKT 사내 AI 경연대회… 악성 앱 분석 에이전트에 대상",
-        "link": "https://n.news.naver.com/mnews/article/469/0000963334",
+        "title": "카카오게임즈, 3분기 영업손실 263억…신작 효과 반영 '아직'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009268940",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'크랙게이트'에도 자신감 보인 애플…터너스 \"아이폰 듀오 반응 매우 좋아\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014297527",
+        "title": "\"업무 맥락 이해하는 AI 에이전트\"⋯스노우플레이크, 기업용 에이전트 기능 고도화",
+        "link": "https://n.news.naver.com/mnews/article/031/0001071939",
         "source": "네이버 뉴스"
       },
       {
-        "title": "로봇에 집안일 가르친다…국내 첫 인간형 로봇 데이터팩토리 개소",
-        "link": "https://n.news.naver.com/mnews/article/056/0012286284",
+        "title": "네이버 'AI탭' 국제표준 인증 받았다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005349811",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "삼성전자, 2030년 8인치 파운드리 완전 철수 - 디일렉",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1za01uUTFXdWcyNG1sbWpIRy1jT2hTaEQyVFVTcjAwb0N6amRnTHF3ckpTZl9yTVFKZ0ZZbDNoQnY2QnNLaEt0QjRSdnpmMzJobS1XNkhqcUZVR1J5T2ktbEVQRi0yZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "마벨, 루멘텀 154조에 품는다…AI 반도체 경쟁력 강화 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10UUZPNzd6YXFhbXJWeUlpU2x1WU1QVzNqV2hzUVNUeFVYZFhWdnZZSlo4czVSekdpSHNoSm5HRFFZZDBZcVkzTXA1R0QxOHJ4RVJFMnpzQ3p0aTIzSDV1Q1NwUERtem9uWHdOaVMzbEk?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "美 반도체 기업 마벨, 광통신 베팅 \"광학 업체 루멘텀 154조원에 인수\" - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWZ6cm14b3RyMGhMMWhuSXl4Z2tFR25OUjdMaTdvRTNsXzhZSzdySTBBMExpOTBpeTBkckhIWHpxLXAzRGRCbm1DN1l6akhJXzF2R3FvMDlabm9WTU5ZOFBPN1hrdmJXS1RFNG1YV1NVRmVlbWl0MUhjVmRyWEtFZ0hTNA?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -49,25 +39,35 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "[그래픽] 주요 수출 20개 품목 중 18개 증가…반도체 제외 수출도 34%↑ - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4a2tyMW5FeTF0WF9WdFVEV0wxUEpPNHNmZ1o3ektaQm9xUXpUeEVqOW5wb0toNWoxV1dRemkxaWc4WlduYkJsUHVXcDBUZUxsS2Frai1CU0Y1VkVZLXlDYg?oc=5",
+        "title": "[특징주] '반도체 장비' 심텍, 3분기 호실적에 10% 급등 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUpKdHd4Z1FGTEllTUlIbnI3SlJPMEN4eVVjQnVDc2lPQTFFMXZQWnpBdjMzeVM0cjMxVlhqUXhpYjRLVG4yRnFheGtSNS1vVkZSSE55dlNELTJXVGJuallQRDRfQUhsTDhxaGZ2OG5lRkdnazNfWEIzTlZzYmNhM0VneEJjMENfTGc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "재료硏 '웨이퍼 10장 동시 제작' 차세대 2차원 반도체 저온 공정기술 개발 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yb1NpaUxaVF9vQ0JpR09lNi1qUmZHNXgxODB5dDBaNnE1a3JleS1NdUNlRFVjV191Rmk2NlNCaDBBVmRnaFBvdHBkb3VlQQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "특징주, 예스티-반도체 장비 테마 상승세에 5.22% ↑ - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44aTdxYnpBVVYwdWU4cEMzWGZJNkwyLVY5U0tubUFQZXZ5dVAwZUJFaXZiNmQyLURWQnZZTERvVVZUOG5reVV2QXpfTlZIU2FwM2c?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "행복청, 예산 'zero'로 자체 AI 검색 서비스 구축 - 충청뉴스",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOZWlWM3Z3cEJzZjFmaXEtZWhkN1l0MF9pV3dBYVFteVhiUlV0TnpYNVNKZEpCdnp1WGk4NXhRbzM2SUJsTTJac3JWSHFqX1EydDR0aUZQcXhNS1lRYVhWZkdqU3RVQ1NTTmI0?oc=5",
+        "title": "220만 삶 ‘인공지능(AI) 대혁명’ 불지핀 충남 - 메가충청뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zbVVST2xtbmh3aHN1YlVLLTdlVExYSnhvYkF0RXY0Tk5sR1ZBYkN0TzE3Qi1aeEtWM19SWlJZa3BSMlR4aGNkV3JXbGdDajRlaFlnR0taN2p2UnRreU5SUzRUVEwtR3VDYVJRdQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "中, AI개발부터 활용까지 전과정 규제 강화…통제불능 우려 대비 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HcmVXWWlpa2xyanh0UlZqbERPYlZYVXlKZDgwZEJ1NVc2UjRpVUdPdU9FbUpXWjBSVnJ0RG5UR1lKUDN2elhMd0ZxWU5iRTgxMDZ5cnhYcmVvLTTSAWBBVV95cUxQM0FfRWowQ19jRzJJWDBxNjJlMW9FSXFOOEktSzhzMTBEREpiMEFkZjY3SXpRTnFIMHlGQ2RRM2NQUkNGWHVlNWtNYXBWLXRzblFtTE9qZkZYSC1IdkQtSEM?oc=5",
+        "title": "부산시, 인공지능 분야 유망 창업팀 11개 팀 최종 선정 - 환경포커스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PT0xFczZ3T051UHpvZTBuY1FZbW9VUXVERGc2ejl4TDRYSlU4R2M3NERrSTB6b3BFNzU5WktYRUdOOXk2eUt1SFFzZl80Z01aOUE4MEk3NTdDM3ZERlZXdlV0UQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "“기자가 AI로 뉴스룸 바꿔야”…경기일보 월례회의 ‘인공지능과 저널리즘의 미래’ 특강 - 경기일보",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rV3RXTHIyeEQ2SHFwMmxsWlBGd2g1alg5S0szdndta0FkbTFULW1xX2hvZkVEVllRWUl5Nl9CNm9YZExzaUxrcEM3SWk1bUtaOUtQa09nOVdraHc?oc=5",
+        "title": "충남, AI 기본사회 비전 선포…220만 도민 일상에 인공지능 접목 - 서울일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONnpIV2gxSHlpUXctZlB5RG9uRGd0eTgyUW9maXdzYXA0Tk5KT0ZhaGlOYVo2WFExU1pHa05CUDYxU0xDUEpIeVFjNHgwSC1JemNfVkotRWhrZUxqcHFlOUtKMU9VNDgzRGNVdNIBb0FVX3lxTE1pWE5tMmcwRDJKbG4tSnFEUUlpVGNfUktORUM0S290YzY0cGZoM09oTUkxdkNZY3VVcGVOcDMzXzZzSlRuMTN2VXRldE04bVREOG1jZzFJYnZyTk9oNzF0UVZubVp5OUFLU0xZajdXYw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -76,38 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "경남교육청, 생성형 인공지능(AI)을 교육·보육 현장으로 - 경남도민일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUFVpcy1LQmpoOENhVVItMTE5TDFyZlpyLTZtYlBlWnpMSWlZbUpxd3h6LUhzX3hwQUtsdXpBUkpidHh1TVIybnJGS3g3bnBCWE5DOHVkN0g1YVJMSi1YaEhhNXFUUG1SLWc?oc=5",
+        "title": "“인공지능(AI) 접목해 마리나산업을 고부가가치 미래산업으로…부산이 선도해야” - 핀포인트뉴스",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Pd1BZbUozbmVKTEJTNnpFNnJiSHBjUFM5Q0hmUms5N3BkVGZVME05Y1RQZmNGMXM0NHRaYWRCVVozV3prNml5MmlZRDBJUFFHeDloM2QxbEpYbEU3Qzg1VWJEVmRXQVRWcDhiOWxWTldiZXPSAXdBVV95cUxQSkNoN0VmWUFKUUNKenFXVU41UkZTR1VVdzFZcDV3Z001Sl9QSXFLOU1ZX2FVRHZja2EtTGlFUzhUVFJqSEV5R1VsX3JNaWNseDZURnR4djhlT3oxSm1rd0NHZ3NxY0c4TDdwSk5rZU8tOUhZUnZTMA?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "탑승자 확인시스템 '먹통'에 공항 2시간 불편…항공기 44편 지연",
-        "link": "https://n.news.naver.com/mnews/article/014/0005598942",
+        "title": "‘주거 제한 위반’ 한학자 보석 취소…15일 만에 재구속",
+        "link": "https://n.news.naver.com/mnews/article/056/0012286776",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[단독] \"전례없는 대법관 재제청 사태\"... 현직 판사, 전국법관대표회의 첫 소집 촉구",
-        "link": "https://n.news.naver.com/mnews/article/022/0004171982",
+        "title": "[속보] 역삼동 연쇄방화 피의자 '77세 이명수'…경찰, 신상 공개",
+        "link": "https://n.news.naver.com/mnews/article/654/0000209033",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“교육·교통 편리한 대전 이전을 희망합니다…수도권 공공기관 노조 한목소리",
-        "link": "https://n.news.naver.com/mnews/article/029/0003056909",
+        "title": "춘천시, 도내 유일 2유형 교육혁신선도지역 선정⋯내년부터 사업 추진",
+        "link": "https://n.news.naver.com/mnews/article/087/0001228279",
         "source": "네이버 뉴스"
       },
       {
-        "title": "정부, 교육혁신선도지역 43곳 지정…학교통합·격차완화 추진",
-        "link": "https://n.news.naver.com/mnews/article/028/0002830552",
+        "title": "“내란 세력과 다를바 없어”…법관들 공개 반발",
+        "link": "https://n.news.naver.com/mnews/article/011/0004678379",
         "source": "네이버 뉴스"
       },
       {
-        "title": "이화영 변호인단, 징역형 확정된 ‘쌍방울 대북송금’ 재심 청구",
-        "link": "https://n.news.naver.com/mnews/article/366/0001202155",
+        "title": "‘슈퍼모델’ 김자연, 25살 연상 손영권 전 삼성전자 사장과 결혼",
+        "link": "https://n.news.naver.com/mnews/article/366/0001202333",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-03 20:49"
+  "updated": "2026-11-04 01:05"
 }
