@@ -2,59 +2,74 @@
   "categories": {
     "IT": [
       {
-        "title": "AI기본법 중심 입법체계 정비…초지능 대응 등 7개 TF 구성",
-        "link": "https://n.news.naver.com/mnews/article/003/0014306595",
+        "title": "카카오모빌리티 \"로봇 상용화, 여러 제조사 기기 통합 운영이 핵심\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0003152300",
         "source": "네이버 뉴스"
       },
       {
-        "title": "미국발 AI 투자 불안에…배경훈 \"한국은 늦춰선 안 된다\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016426913",
+        "title": "삼성도 AI 안경 출격…젠틀몬스터 협업했다는데 가격은?",
+        "link": "https://n.news.naver.com/mnews/article/437/0000519481",
         "source": "네이버 뉴스"
       },
       {
-        "title": "결함 인정한 아이폰 듀오…무상교체 나섰지만 불만 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/055/0001401146",
+        "title": "한국 '별 따러 가자', 한·아세안 AI 창업대회 2위[AI픽]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016425986",
         "source": "네이버 뉴스"
       },
       {
-        "title": "글로벌 게임 축제 개막⋯신작·창작 플랫폼·e스포츠 한자리에[라그나로크 페스타]",
-        "link": "https://n.news.naver.com/mnews/article/031/0001073079",
+        "title": "매디슨 황, 입국 하루 앞두고 방한 취소…엔비디아 행사 예정대로",
+        "link": "https://n.news.naver.com/mnews/article/366/0001203233",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'2026 한-아세안 포럼' 싱가포르서 성료…CSP 실천·평화 해법 논의",
-        "link": "https://n.news.naver.com/mnews/article/277/0005839266",
+        "title": "“화면은 폴더블에 뺏기고 AI는 PC에 밀리고”…태블릿 출하 23% ‘뚝’",
+        "link": "https://n.news.naver.com/mnews/article/009/0005760399",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "'블루 쓰나미' 딛고 뉴욕증시 반도체 상승‥국장, 반등 가능할까? - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91bklkYl9Ba2VYQi1sREdHNmJvMWxQZkFjVmxPWHliLWNuVFFRRjdhMnUwblFqMUozQWJPa2k5YXJ5d3NBWWlOQ05BQ1BOX1NuNEpMWTlHeHlsVHRiQlRiM0czaEdTRlYzWlVIbi0yN0hHWk1JWlMwT9IBeEFVX3lxTE9xVmpRVE9uQlZ6a1hfcFpOZWF0RUtsT3ZmdUlhYlBqZElJTGc3bEhJY0tOYWluOHBEbHNLM3F3TUNUem5lbVJNZVFCQ0FDNFdubUt4LXA4T3QtOEpfZGtidTFhaS1ZbUU3QVJSdzh4cWpnYlFtaER3OQ?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "AI가 반도체 쓸어가자 자동차업계 '비상'…내년 가격 폭등 경고 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6R0FPX1NOR2xadU5ETjNIMHZXaEN6ampkY3lpVWl2SFV1ai0yN3RMS2YxMVlGREFQcXdfVkFMblBaeFpuSGxqUFR5NlNlV0Y3RV95TUxR?oc=5",
+        "title": "반도체 이틀 급락에 삼전닉스 레버리지 90% 증발 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80SnNmeVQtck9qbXE1b256YjZmam1aeHQtZVBsZ0FJOWFtaF80N3g3LWNMVWY3Y1lkeThXM1VVZGdRc2taNzJwNmFYOEVFQVl4ampFTEJ4UzVGMzQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 폭락에도 끝난 건 아니다…다음 주 반등 가를 핵심 변수는 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VSlU3TUNSU0tHUW1rSDlYQXY4NlYzY2IwRXFLYXdtellYVk1OT0JlU0cxcTFOZG96SWh6Vk9hUDV6RTR4YS02WHdjalBUazM3bzJBbEtWQ1phdmh4ZzIzMNIBeEFVX3lxTE1yYl9xZ3lFRkhqQnRkbTVsQ0xnR2pWQ2tRbGFiNnkxWHZDZUJNeklBbnNqWkpJNHdHM2ljN3JQNXBwUGtmM0RRWjE4aV9kTzA2bnI2UGl1TkVCSjdfWk1hYUcxdjdfSHpZY3VNNUh2QV81QjZEUWNDWg?oc=5",
+        "title": "“이 숫자를 봐라 … 반도체 투자 둔화기에 메모리가 가장 먼저 꺾인다” - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbnF3OThsRUpBSmxQbDVYaUU1eGpkWUtza3ZiaXJrbXpldk5rblQyLXdRdGJ6SjNuYkdGMC02MC0wVkNUT3VkMVF1OVE4VWVBd0ZfR2FR?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "[현장]“AI 일상화·반도체 호황에 쏠린 눈”…인천반도체고 입학설명회 ‘후끈’ - 인천일보",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWmc1QXY4SXY5NDExcUs5U3REUEN5LTNpbjl2bFFNaUNBeEpoc1c4MVRJM1d5MjRkOUdxMWlFYVR2Mm1XcGxjU1dRNTZubERnQnNwcFR3MHkzVGtwYWpzaFNzUENIZU05b3c?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황 끝나나?‥미중 AI경쟁은 여전히 유효 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YRHpkS1Q3MlNzOUJLV1lEZHVUT2k1MzZ0TzZQZGhrMlE5UHJZbTJqMmlLQ2Q5bXY4ZVp0a0h3QkpPb0FyR21IdzQ3WExxaGpyOG51X0t0ckpYOVRveXlPUGZxY0hkVmZNbW5PNHJZWXJXcE9tRElhWNIBeEFVX3lxTE9SaXBMMzR5VnhUc0NOZGRCSHl2WXo2NTIzSWJtc1cyczMwNDkwTGFUSUxRZFlzMzV4TU1WeGR4bERPYUExVmxhNElkUEM5RTc3NC1PTG5KNUhWenpUc0E2NTBYRGNlSnJPY1ZpYVA4R0ZvN0w4bThoMA?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "인공지능(AI)-드론 활용해 토지행정 혁신한다 - 부동산신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HT2FfSGdiZFU3MVh4MEN0UFVZY2RoTFlpTEhxY3B3Z204LXc4Y19jYmlnWEpBLXBKZ09tcHloQ09XdUtJVG9tSjNMUlNlNThsYndZOEVnSU1rVHAxOXdfZGg0NS1BM2Rk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "경북교육청 인공지능교육관, 정식 개관 `경북 AI교육의 새로운 출발` - CBN뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQlZNaUphNVNZWFZLUU1rMERtR1pLMFphX1Y2SEpsLURaNDBOTGhieUQ5R3pUa09GMXBoNXpfM2pqTG9obnN5T3loQjgxWUdaWjJJ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "글로벌 인공지능(AI) 반도체 산업의 성장 전망, 다시 관심 끌어 - 정경시사 FOCUS",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PT2tURllNeDZ0MUpTNW5HOWlqbWZNSWxrVWs1dHBmUGE3QnNYdUhaSlBoNWMwanlDUzVYMUJsdVhlV3QtVHlyZ1VqYnVQMUdlMU1WMTRHZE52NUR1NjNJN2hSMHQ2WkpU?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "메타, ‘뉴스 무단수집’ 논란 AI 약관 무기한 보류 - 연합뉴스TV",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qeWY2bWZLcnhNOHlvQ3JvV2d0d3oyQTNjaVNmVnVadHdDVDFFYVYwbXlGWGp1OGF0QW96LXBvdk5rU05fWlpCU21Bc3BRLVdOdjBDc2gtOFdMWlY5UmxvV3lVanRKV1k?oc=5",
@@ -64,50 +79,35 @@
         "title": "제조업종 32% “AI 효과 불확실”···IT업계 2배 - 시사저널e",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NT1Y3bm0wRUtBNkZSa3NTa1NmSU5Gd3NET2xNREhBcGFqX1BuXzdDdlktNURDd3BUS3JubFhsdDh6bl92cTl6X0thWWZLdnZhNXoxVEUySFFjaURodkdGWml1ek5ud0xlUXltRWZsYnRyd9IBdkFVX3lxTE1Ub2RsQVBNdjRJUHpMaGNubk0xblpUZzFvU240Y2g2c1RqaE9zOEVKSGZUQjhiY2dNd0FSQ0pVakFWTlZXUm5DMHJtUC1QeERUb1cwY3hqWkwwNWZCUTQtOHFuOGViR1dEbXl2XzgyQkQ1V3ZGWEE?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "경북교육청 인공지능교육관, 정식 개관 `경북 AI교육의 새로운 출발` - CBN뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQlZNaUphNVNZWFZLUU1rMERtR1pLMFphX1Y2SEpsLURaNDBOTGhieUQ5R3pUa09GMXBoNXpfM2pqTG9obnN5T3loQjgxWUdaWjJJ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인공지능이 작곡, 로봇이 춤…저작권은 누구 것? - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hazVKRl9VRlgta3o1XzlOVlRTSVA4YTJfWWIyMEFmTS1ubkhvTDZ5cnBCZy1uQUR0Q20wQ2pHamdQeDNkZlVodVd6N29Vc2N6M3NJWVljbTQwdmNzOEZFTy05TDBmZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[시민안전] 성남시, 인공지능(AI) 기반 ‘경기 안심 부동산’ 홍보 캠페인 진행 - 서울뉴스통신",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iUVJSbU1VdzlTN3FUQzRfMjZqR2ZpTXJTX0Q2ODF4Y3NqaGhuUWRkU2p2QkxobkVETW5SbUI4aTR3LUxLa3Z1dkJlQllqbENJNV8tcTR5QTY5dzJmV2ItQkIzTzNRZlJ1TlAw?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "이번 주말도 서울 곳곳서 집회·마라톤 이어져…교통혼잡 예상",
-        "link": "https://n.news.naver.com/mnews/article/052/0002429071",
+        "title": "제주도, 가금농장 조류인플루엔자 발생에 방역 강화",
+        "link": "https://n.news.naver.com/mnews/article/001/0016425661",
         "source": "네이버 뉴스"
       },
       {
-        "title": "불꽃축제 열린 광안리 ‘들썩’…인파 관리 ‘비상’",
-        "link": "https://n.news.naver.com/mnews/article/056/0012289197",
+        "title": "라면으로 물들고 있는 구미시, 라면축제 대박",
+        "link": "https://n.news.naver.com/mnews/article/014/0005600787",
         "source": "네이버 뉴스"
       },
       {
-        "title": "중수청, ‘쿠팡 허위 세금계산서’ 의혹 경찰로 이첩…“중복수사 우려”",
-        "link": "https://n.news.naver.com/mnews/article/032/0003481176",
+        "title": "입소문 타고 커진 ‘고랭지 김장 축제’…재료까지 모두 평창",
+        "link": "https://n.news.naver.com/mnews/article/449/0000366625",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국가경찰위, 대행 체제 경찰청장 새 후보 임명제청 오늘 심의",
-        "link": "https://n.news.naver.com/mnews/article/055/0001401125",
+        "title": "\"나를 마루타로 만들어\"...세브란스 흉기난동女 '횡설수설'",
+        "link": "https://n.news.naver.com/mnews/article/215/0001271999",
         "source": "네이버 뉴스"
       },
       {
-        "title": "레저용 새총으로 팔린 석궁형 슬링샷, 모의총포 판정…12명 송치",
-        "link": "https://n.news.naver.com/mnews/article/001/0016425996",
+        "title": "노동장관 \"중대재해 반복 기업 엄중 감독\" 지시",
+        "link": "https://n.news.naver.com/mnews/article/422/0000923802",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-07 06:25"
+  "updated": "2026-11-07 13:26"
 }
