@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "카카오모빌리티 \"로봇 상용화, 여러 제조사 기기 통합 운영이 핵심\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003152300",
+        "title": "“사람이 먼저? 로봇이 먼저?”…배송 로봇과 부딪히면 누가 배상하나",
+        "link": "https://n.news.naver.com/mnews/article/023/0004008317",
         "source": "네이버 뉴스"
       },
       {
-        "title": "삼성도 AI 안경 출격…젠틀몬스터 협업했다는데 가격은?",
-        "link": "https://n.news.naver.com/mnews/article/437/0000519481",
+        "title": "안경 쓰고 실시간 통역까지…젠틀몬스터, 메타에 맞불",
+        "link": "https://n.news.naver.com/mnews/article/088/0001038964",
         "source": "네이버 뉴스"
       },
       {
-        "title": "한국 '별 따러 가자', 한·아세안 AI 창업대회 2위[AI픽]",
-        "link": "https://n.news.naver.com/mnews/article/001/0016425986",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "매디슨 황, 입국 하루 앞두고 방한 취소…엔비디아 행사 예정대로",
-        "link": "https://n.news.naver.com/mnews/article/366/0001203233",
+        "title": "애플, 아이폰 듀오 결함 인정…교체까지는 ‘하세월’",
+        "link": "https://n.news.naver.com/mnews/article/082/0001406035",
         "source": "네이버 뉴스"
       },
       {
         "title": "“화면은 폴더블에 뺏기고 AI는 PC에 밀리고”…태블릿 출하 23% ‘뚝’",
         "link": "https://n.news.naver.com/mnews/article/009/0005760399",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "'젠슨 황 장녀' 매디슨 황 방한 전격 취소…'AI 데이'는 예정대로",
+        "link": "https://n.news.naver.com/mnews/article/018/0006405944",
         "source": "네이버 뉴스"
       }
     ],
@@ -44,13 +44,13 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "“이 숫자를 봐라 … 반도체 투자 둔화기에 메모리가 가장 먼저 꺾인다” - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbnF3OThsRUpBSmxQbDVYaUU1eGpkWUtza3ZiaXJrbXpldk5rblQyLXdRdGJ6SjNuYkdGMC02MC0wVkNUT3VkMVF1OVE4VWVBd0ZfR2FR?oc=5",
+        "title": "[현장]“AI 일상화·반도체 호황에 쏠린 눈”…인천반도체고 입학설명회 ‘후끈’ - 인천일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWmc1QXY4SXY5NDExcUs5U3REUEN5LTNpbjl2bFFNaUNBeEpoc1c4MVRJM1d5MjRkOUdxMWlFYVR2Mm1XcGxjU1dRNTZubERnQnNwcFR3MHkzVGtwYWpzaFNzUENIZU05b3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[현장]“AI 일상화·반도체 호황에 쏠린 눈”…인천반도체고 입학설명회 ‘후끈’ - 인천일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWmc1QXY4SXY5NDExcUs5U3REUEN5LTNpbjl2bFFNaUNBeEpoc1c4MVRJM1d5MjRkOUdxMWlFYVR2Mm1XcGxjU1dRNTZubERnQnNwcFR3MHkzVGtwYWpzaFNzUENIZU05b3c?oc=5",
+        "title": "경기 안성 반도체 장비 업체 공사 현장서…50대 추락사 - 머니투데이 - 머니투데이",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1QWpwTjk5eGw4TEEtVERCeTd4a1ZsZVp1dEt3MWZyWGxiODMwTGxJOE1zR3RfRjVGbjY4QmJjRG9WMHhjVDJoc25YMHVVd1U0bTJDLW9SSWVNX05VZ3dTbGtsYl9HYUhmVmk00gFwQVVfeXFMT3RDSXVOZHFBSHdOMnN4RmMzSnZHNUdCWDExR3EtVXBOMWtzTnQwRlhZOFNBYnJOMHRTQXp0Z1dvb2hncTgxU1dhUTVuZ204Skl6NlQ3ZHVJaFJfQXI2Qm12WS04QVlOSDBEb2YtZkgtQg?oc=5",
         "source": "구글 뉴스"
       }
     ],
@@ -58,6 +58,16 @@
       {
         "title": "인공지능(AI)-드론 활용해 토지행정 혁신한다 - 부동산신문",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HT2FfSGdiZFU3MVh4MEN0UFVZY2RoTFlpTEhxY3B3Z204LXc4Y19jYmlnWEpBLXBKZ09tcHloQ09XdUtJVG9tSjNMUlNlNThsYndZOEVnSU1rVHAxOXdfZGg0NS1BM2Rk?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "한국산업인력공단,톡톡 튀는 인공지능(AI) 아이디어, 산업현장의 미래를 바꾸다! - 엔디엔뉴스",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVjdVZndvWTV5TzNaTGZ3azluY2RXdjQ0UkhoTVhDMVpnUC1DbTcwOUprV2I4WC14M1ZYS2pqbzVUazhVdE9LUXlJdm9LTnZtMFkzZndjbmxJZjlSb19pbG52VEM1cnE2b001TkNn0gFyQVVfeXFMTS1kcWYtdXBXYXdIWm0wbHZXaENCREhKUE42NE9TeGtvZDB2RVR2eEJiblJIaG9TWmZIRElzMkZSalZ6OURuQkg1MDlwQXZlWjdtVE4tUEJMWF9NalhIMXVlNW1YSTBWc3JLTlVDRWU2dkZ3?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "수원시 영통구보건소, 인공지능(AI) 로봇 이용하는 어르신과 소통간담회 열어 > 뉴스 - 더코리아",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUktVcFpXZjdiZGxBWHBubjBOTF84U2NGdGFtU05pQ3I2blFUV1RxQTgzY1BlMm8tVG83Vkc1TjhjX1lDRG44VS1hU3ltMzBWMkRRWUFQdlZLM3RscFU0SGZQOTNnOFdTdjU2SWVWeHNSdw?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -69,45 +79,35 @@
         "title": "글로벌 인공지능(AI) 반도체 산업의 성장 전망, 다시 관심 끌어 - 정경시사 FOCUS",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PT2tURllNeDZ0MUpTNW5HOWlqbWZNSWxrVWs1dHBmUGE3QnNYdUhaSlBoNWMwanlDUzVYMUJsdVhlV3QtVHlyZ1VqYnVQMUdlMU1WMTRHZE52NUR1NjNJN2hSMHQ2WkpU?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "메타, ‘뉴스 무단수집’ 논란 AI 약관 무기한 보류 - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qeWY2bWZLcnhNOHlvQ3JvV2d0d3oyQTNjaVNmVnVadHdDVDFFYVYwbXlGWGp1OGF0QW96LXBvdk5rU05fWlpCU21Bc3BRLVdOdjBDc2gtOFdMWlY5UmxvV3lVanRKV1k?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "제조업종 32% “AI 효과 불확실”···IT업계 2배 - 시사저널e",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NT1Y3bm0wRUtBNkZSa3NTa1NmSU5Gd3NET2xNREhBcGFqX1BuXzdDdlktNURDd3BUS3JubFhsdDh6bl92cTl6X0thWWZLdnZhNXoxVEUySFFjaURodkdGWml1ek5ud0xlUXltRWZsYnRyd9IBdkFVX3lxTE1Ub2RsQVBNdjRJUHpMaGNubk0xblpUZzFvU240Y2g2c1RqaE9zOEVKSGZUQjhiY2dNd0FSQ0pVakFWTlZXUm5DMHJtUC1QeERUb1cwY3hqWkwwNWZCUTQtOHFuOGViR1dEbXl2XzgyQkQ1V3ZGWEE?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "제주도, 가금농장 조류인플루엔자 발생에 방역 강화",
-        "link": "https://n.news.naver.com/mnews/article/001/0016425661",
+        "title": "“대화 중 화가 나 살해”…은평구 전 연인 살해 60대男 범행 시인",
+        "link": "https://n.news.naver.com/mnews/article/022/0004173140",
         "source": "네이버 뉴스"
       },
       {
-        "title": "라면으로 물들고 있는 구미시, 라면축제 대박",
-        "link": "https://n.news.naver.com/mnews/article/014/0005600787",
+        "title": "신촌 세브란스병원서 의사에게 흉기 휘두른 50대 여성 구속",
+        "link": "https://n.news.naver.com/mnews/article/087/0001229116",
         "source": "네이버 뉴스"
       },
       {
-        "title": "입소문 타고 커진 ‘고랭지 김장 축제’…재료까지 모두 평창",
-        "link": "https://n.news.naver.com/mnews/article/449/0000366625",
+        "title": "오늘 밤 부산 광안리서 불꽃축제… 100만 인파에 안전요원 7000명 투입",
+        "link": "https://n.news.naver.com/mnews/article/023/0004008343",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"나를 마루타로 만들어\"...세브란스 흉기난동女 '횡설수설'",
-        "link": "https://n.news.naver.com/mnews/article/215/0001271999",
+        "title": "\"미친X이네, 이거\"…차량서 초등생 머리 휴대전화로 내리친 관장",
+        "link": "https://n.news.naver.com/mnews/article/008/0005437893",
         "source": "네이버 뉴스"
       },
       {
-        "title": "노동장관 \"중대재해 반복 기업 엄중 감독\" 지시",
-        "link": "https://n.news.naver.com/mnews/article/422/0000923802",
+        "title": "입동 서울서 첫얼음…설악산 -9.0도·파주 -6.6도 '초겨울 추위'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009275646",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-07 13:26"
+  "updated": "2026-11-07 18:12"
 }
