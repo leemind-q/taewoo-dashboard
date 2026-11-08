@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "‘블루 아카이브’의 특별한 ‘5주년 페스티벌’…현장 팬들 ‘열광’",
-        "link": "https://n.news.naver.com/mnews/article/009/0005760521",
+        "title": "챗GPT 국내 앱 이용자 1876만명 역대 최다…클로드도 1년 새 15배 급증",
+        "link": "https://n.news.naver.com/mnews/article/366/0001203267",
         "source": "네이버 뉴스"
       },
       {
-        "title": "챗GPT 국내 이용자 1800만명 넘어섰다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004679914",
+        "title": "\"냉장고 온도까지 해킹\" 유럽 마트 덮친 사이버 공격…한국도 긴급 보안 점검",
+        "link": "https://n.news.naver.com/mnews/article/003/0014308526",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"힌지 '바사삭' 1시간 후 저절로 수리됐다\"…아이폰 듀오 또 이상증상",
-        "link": "https://n.news.naver.com/mnews/article/008/0005438065",
+        "title": "“화면 여는데 뻑뻑, 1시간 뒤 저절로 수리” 아이폰 듀오 또 망신",
+        "link": "https://n.news.naver.com/mnews/article/025/0003563596",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"장애 어린이와 같이 뜁니다\"…넥슨, 3000명과 함께한 '기부 레이스'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014308367",
+        "title": "\"광고도 AI에 맡긴다\"…네카오, AI 광고 수익화 속도",
+        "link": "https://n.news.naver.com/mnews/article/014/0005600942",
         "source": "네이버 뉴스"
       },
       {
-        "title": "제2회 한컴문학상 대상에 성백광 시인 ‘말의 장례식’…7700여편 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/366/0001203283",
+        "title": "\"하이리스크 하이리턴\" 젠슨 황 '원맨 리더십' 너무 기댔나…불륜 인정에 '와르르'",
+        "link": "https://n.news.naver.com/mnews/article/138/0002247687",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "'中 스파이 연루' 엔비디아…AI·반도체 산업계 영향 '촉각' - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xNmdjRUo3LTJ4Qm9oYUNJekZUdllOS1JzMEgya2lLaXJJUUViOXBpYVNEMC15M0JPb2RTTkk1aUtHck16dUdtZzQ1TWV0RXFFb1p5MVNiVjFmWFZnZlh6NDFiWTc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "TSMC '메모리 반도체 사업 진출설' 공식 부인…“기존 파운드리 집중” - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqTzExU2JsNTZFYkx3cWVUeDVfTEZhWlRmMzlWTW9DMFlOa1k5R2Nhc04tN25BdVE1by1XOGdKZ3ZTRUwyRDA5eWZkSjZXdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 반도체 빅3, 11월 '코리아 러시' - 뉴스웨이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ca1FiaU1jMVdSUm0wQ09qWmFJWW52VHQ2Ykk3YThRSjM1NzdJUE84UTlBMnQ2SGVHR0FDVzRuUUtwMkxfbldkUk9ZWHRRVXg4U1IzeUF6TmpsLU1ZWXd2RmhEMUV3ZnlaMUE?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득 - AI타임스",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5icFVOaFVYQm5ZczlxN3p6bl9ISHJMd1NqMFpsN3pVRmxIcFJneDdiVFZXamRkS1o0bmc0WkRFMHpwQ0lwckxlcHhIbmJtLXQxWmNIVXRzcGZqZmp2NnFUVEt3NS03bGZoZ3c?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "美 데이터센터 제동 현실화땐 반도체 수출 제한적 제동 가능성 … 韓 성장률 타격 가능성 - 뉴데일리",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRaTRTZkVKbTdpU0hySUQ4RTgzZXJxTXhFMndNdVEycDRvQkRzVVhYbXJIblJwSjJ6eTJkQVdaZDMwdFpROHpUa1ZLc0tIN3JITFc3ZFZiLUZmT1lnaXp6X0RfdTdaZ29KV1l2VTBzLUVkUUxfUXhiWld5c9IBgAFBVV95cUxNYXNJNkRfR1c3Zi1lbkFDUWQ4WkZyMFEyWm5QM05RbTFnSjRnaUgxVjlCVXJQU2pYcUtRNDM0bVAzSEV0NXVwR2pyenVFXzUxM2VwRzNmc0xKVEZlVEFjZU41QmZla19NQWJaMGdnU244bG9GZ3BscS1yeXpOc2RUbw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "美 블루쓰나미에 다시 고환율…반도체·조선 '수혜 기대', 철강·석화 '비용 부담' 희비 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41clVZWTNvbXBna2Rya0o4YzI3WV9vVU9DTWFuZzMyTzdNQnRLcEctSzV5bFVoV2M2RUtfYUEtelBCRVhGbUNwN25jaTBaWU1GaE03TXAzZUNRd2kwR19PQtIBeEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSA?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황에 기업 여윳돈 넘쳐…고액 예금 1천조 육박 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pLW5hYW5uVkxjVkRQbjcxWG81bl9rTnU1TDNnYUc3WHFNYTFDVVp0TFgzM3JmYUljNndNOTNocEJvb0V3cUE5djBUcnI3Z3lKWjlKTno0RFVTN3M?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 호황에 여윳돈 1000조 육박…기업·가계 ‘온도차’ - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZdDI1M0dCZTVFV2hvRDZFd01mTFlPOG5QY0tGWjFqV19sOE1PcmFHeDd4NHdudGJieW80TEZKUFZSZnNFZE9qX016ZEFxRlJqMHBMbA?oc=5",
+        "title": "퀄리타스반도체, 중국 ICCAD 2026서 인터페이스 IP 실시간 시연 - 디일렉",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11b1dWVVQ5Zmtmc1h2Q01ZQS1GV2NnYUdacXh2MWNuWnd1S1hFTUFsWG1qb04wX2UyUjhYMVJic2FXTVNDcHlFdnNpU0dMOWhJZUlPOGJxV3Y4aXdtWTlmd0wwb2FMUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keGVYREY4d3RKYkRscHlfal9TbUdqTHNvUjBjdG43MlhTSmVWU2VXT1cwZUlFdmlMdUgxaTdrMGlGMDQ3NHVWenNvNVV3WlVhM1Noby1FOUREWnfSAWBBVV95cUxNZXRDQ0I2dHVXUkg4TUw4dTA1MTJPb1lnTngtXzFmWkZ6QzUyWGVmTUU1WG1vdVFWd0dPUjJ0TC1TOE9DbE5uaUUtaFZiejNFUDdXMy1QNHVrRTcwa3RoZk8?oc=5",
+        "title": "경북교육청, 인공지능(AI)․디지털 기반 교육혁신 현장 지원 역량 강화 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZF9ybXgxMzBWTFpKWTlqOFVXR1BtRmNGdTQ3UmRiUEJETHJjSGVtcDNWUHZscGFYdDRnSFBocW1kenNmclFWcE1TblgtYTd4a283Q3c4Rk1QdkUzNkRKTDE0TUN4Zw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "중국, 박리다매 전술… 개방형 AI시장 89% 장악 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1k5WHJfQWRhbGtDVG9vT1BOb2FXQl93WVlUTkR0MXlCMXptZ3NnQ1NHM2NibHB3a2k3Rkd2TnBoTllrbkFJc3BPYjdCbWprMjNMTUE1aks1OHEzUHZFQVlyVEM1WmsxOFg5Xzg4bEhsWFBtR0o4NHVvUjFMNmd5aUxpbw?oc=5",
+        "title": "\"로봇 아닌 공장을 팔아라\"…학계, 한국 AI 전략 전환 제언 - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82MW9KWU1rbFNLTnYxQjVWWGdzdTQyM3NIYmp2bkdROTJmYjdJWGRjdlh5MkFiREdfUzltQVYyRlJXRUdFbTdmc1VGR1VSdHNHQUE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[알림] 춘천시 인공지능 기본계획 보고회·제2회 AI 포럼 - 강원도민일보",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXbXpYZzd0N3BKNzhhbVVGdFhfZFNKSXZtS25BcTczNlpyNG14YklwbWhES1AtQUpFZFFmV2RJaGJGYkQ3YXk0Zm9GSy1KSmRmY0k3aFo2b3VrM3RNNmg4MzMtWURzQTg?oc=5",
+        "title": "기보, AI 위험관리체계 구축…윤리기준 강화까지 - 매일일보",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rc0lnYVhmZUJrdGxVRWYxM3c5ZEJ0VndUUjMxT09sNW9icWRrRTNIemhkSnNqc3VLSHVET3ZldllpLXE1RGFwaFBMRS10Y013UzZRaDVUTFFicFVPOFU1X3F1Nmk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "‘K-실리콘밸리’구현·인공지능(AI) 기반 행정혁신 분야 대외협력 나서는 수원시 - 기호일보",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45V2stZllqR1Fhb052VEQtOUI3YmMwMnNxUkc0STZBbXNUeHBCUDdqa2dlazUxMHQ2SGU4ZWNubTdMcXdic2FpOGNKeld1WGFQQ3lsak5NSlppRmoxSzY0eVk3aUNzSHVNOVRtMk1WRQ?oc=5",
+        "title": "AI가 부하 직원 대체하자…관리자 연봉 기준도 흔들 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wRWMwc05ROUlleFE1ek9fTTM2b1REWktnQ2R6T2FGVTNaZVNtNGVDX1NKRERMem90Y0FhdHh1RUdDZzdqb3ZHUUVOc0QtWlVrc1k4REQ1cmxEdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "필요할 때 만들고 방치···AI 도입 뒤 남겨진 '고스트 에이전트' - 시사저널e",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rLXN1aTdxUTE5ZF9GYU94UWZwb1FNMGpjTi1aUzgwYW1pZEtEMmpRUHhCaDVpdkgyaWlZZVFfZzhyV05nVUNmQ0I4Mi1QbWt4N0dYQ1FFd3dCdGVLQnAtTE13b01oZ3hzcUxiUmJKcnZCZ9IBdkFVX3lxTFBnc0dobWh0UFZFMkc2OWZRSFNMTmZQeVZBY01jenY0Tm9ubzZ6ZlF4aDJFaGhzaG1LVUc0em1TQ1lsZThEVjNKWVJCRlRIeE5laXdfdmZGM04tZVB3UUFVNzkxZDV6SE9UN2tzdlJaSkpoWHR4Nmc?oc=5",
+        "title": "예산군, 인공지능(AI) 이륜차 사고 자동신고 시스템으로 어르신 생명안전망 강화 - 충남일보",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YamwxeldoRGk1TzVSN2ZMUG5JSk5Fel9wWlE1dXEzQW91U0poN2lERGlZcDBWTmpzS2Q5T0dKMTlKeG01V0pieGlaNndKWVlzMnhFenhGTzNtcHB4NllVellsdlMyX1Rlc1psbkZnU2pUekU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "강서구 마곡동서 열수송관 파손…40대 행인 전신 60% 중화상(종합2보)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014308170",
+        "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
+        "link": "https://n.news.naver.com/mnews/article/022/0004173366",
         "source": "네이버 뉴스"
       },
       {
-        "title": "가스난로 켜고 '차박'하다 숨져...등산객 헬기 이송",
-        "link": "https://n.news.naver.com/mnews/article/052/0002429940",
+        "title": "청주 아파트서 여자친구 흉기로 살해한 20대…직접 신고 후 체포",
+        "link": "https://n.news.naver.com/mnews/article/018/0006406349",
         "source": "네이버 뉴스"
       },
       {
-        "title": "유상범 국회의원-홍횡영평 당원협, 평창고랭지 김장축제서 김장체험·농업인과 소통",
-        "link": "https://n.news.naver.com/mnews/article/087/0001229209",
+        "title": "초등 신입생 30만명도 깨졌다… 3년 만에 10만명 뚝",
+        "link": "https://n.news.naver.com/mnews/article/014/0005601055",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰총장 인선 절차 미뤄져…후보추천위 내주 개최 불발",
-        "link": "https://n.news.naver.com/mnews/article/001/0016428683",
+        "title": "[속보] 서울대 총장 최종후보자에 최해천 기계공학부 석좌교수",
+        "link": "https://n.news.naver.com/mnews/article/025/0003563623",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“밤 10시 이후엔 제발 자제해 달라”…아파트 공지문에 ‘갑론을박’",
-        "link": "https://n.news.naver.com/mnews/article/009/0005760509",
+        "title": "서울 한파 대피 '온기소' 첫 도입…이동노동자 쉼터 신설",
+        "link": "https://n.news.naver.com/mnews/article/003/0014308536",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-08 20:16"
+  "updated": "2026-11-08 23:54"
 }
