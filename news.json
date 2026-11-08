@@ -2,28 +2,28 @@
   "categories": {
     "IT": [
       {
-        "title": "“모두 같은 출발선에 섰다”... 넥슨어린이재활병원 10주년, 3000명 함께 달렸다",
-        "link": "https://n.news.naver.com/mnews/article/030/0003483173",
+        "title": "TSMC, 메모리 시장 진출설에 “파운드리에 집중할 것”",
+        "link": "https://n.news.naver.com/mnews/article/032/0003481295",
         "source": "네이버 뉴스"
       },
       {
-        "title": "AI 추천 믿었더니 취향까지 바뀐다?…반복 학습의 함정",
-        "link": "https://n.news.naver.com/mnews/article/018/0006405981",
+        "title": "\"냉장고 온도까지 해킹\" 유럽 마트 덮친 사이버 공격…한국도 긴급 보안 점검",
+        "link": "https://n.news.naver.com/mnews/article/003/0014308526",
         "source": "네이버 뉴스"
       },
       {
-        "title": "안경 쓰고 실시간 통역까지…젠틀몬스터, 메타에 맞불",
-        "link": "https://n.news.naver.com/mnews/article/088/0001038964",
+        "title": "'MBTI 페르소나' 생긴 로봇 … 캐릭터·엔터산업까지 확장",
+        "link": "https://n.news.naver.com/mnews/article/009/0005760584",
         "source": "네이버 뉴스"
       },
       {
-        "title": "금융권 해킹 방어망에 경고등…“기존 차단 방식만으론 대응 한계”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001203276",
+        "title": "\"힌지 '바사삭' 1시간 후 저절로 수리됐다\"…아이폰 듀오 또 이상증상",
+        "link": "https://n.news.naver.com/mnews/article/008/0005438065",
         "source": "네이버 뉴스"
       },
       {
-        "title": "챗GPT 국내 앱 이용자 1천800만명 첫 돌파…사용시간 2배로",
-        "link": "https://n.news.naver.com/mnews/article/001/0016428506",
+        "title": "\"한 달에 1800만명이 쓴다\"…한국인 일상 깊숙이 침투한 챗GPT",
+        "link": "https://n.news.naver.com/mnews/article/003/0014308406",
         "source": "네이버 뉴스"
       }
     ],
@@ -34,27 +34,37 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5",
+        "title": "美 필라델피아 반도체지수 12.25% 폭락…AI 규제 공포에 투매 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZ2d4NW5oaGFXVVBvNGdOSnFodDZZMm1vU0x3bkNYd2FPdmM2RmtSYWNIUU5iSGlXQXhRZThrZjFlSmdxbjc5aW5ReDJfNGlaNzZseUdFdEROOGlfUHkxYXdwdXJXZjg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 공급망 확보전…삼성·SK, 일본과 ’맞손’ - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYkJJOXAyY09pSEZFY2VjQkxEVG0wOXBTd3hxVnhEbGJBV0tpcm9RRTEyNTBmOVV3TWl2Y3dNVjA1SC1qbUZQWHlIdHBxX3hlT2U0dlo0NXNtNzZCeGNRTExCUTF5QkE?oc=5",
+        "title": "\"AI 투자 시험대는 2028년\"...센터장이 보는 반도체 미래는? - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWDBURjRweUdNNDdlSkp6QXZRSkp1UlBfdkJGVVF0azNzcGpwUUZwejRnSVQ2SVlaLUtvWGU4M1FaTzNXMDQ1UHgySWNiVTFtZV9CREFOQl9idw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "메모리 시장 진출설 불거진 TSMC “파운드리 집중” 부인 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDBibVF5eEVFV3o3em5CY3RpRXJIMVhiMl9CRTBBeXo3dUphd250ZE1hMU54VGZIRXdKTmp2ZlFpOUJMYWUxdS04RmppYkxOOTlVUktkcHBpYjhWT1d3OWl3SXNFMXR1bk1hNzY5ZGlnaUw5UFNmNlEyemNJQVpPMGJ30gGWAUFVX3lxTE5YNlExYnlLcXdrQzI2dmZJa0xVVkhkbU9DVEMwTzlRanBlSWlDbWhpWnVoeUFoXy1yY0g0d1lfMS16aDROZGhpMENXNG8tanBrS0I0NXFNUzNWcVA2eUk4ODZpVXQyamtLYm9hVGpxMTB4WkR3bndtZEh1bVAwNF9ZNmdjOHRpRmQwSTF6aGVlNXdfRC1aZw?oc=5",
         "source": "구글 뉴스"
       },
       {
         "title": "美 데이터센터 건설 제동 … 韓 반도체 투자·자금 운용 전략 재조정 불가피 - 뉴데일리",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03WllMU1lOUmlhMVd0VHMzZU9CdzNkUXZ6UmFwR3hqNjFZQ3Y4LTZfTDloZXNHc0tfazdKRmxNQ3gzb2kyeU5wa01IdHhfQmV0eUk2cXpmN0dtOW9UTUd1Q2Y2TTExVUYwTWFyaHR3TmNJQjRMQTdfTVRzNNIBgAFBVV95cUxOQ3hYS3JxOWU4WjdIdXFuNlp3ZERwdDgyQkhOLTRNWkdKNzFDUDFDSUg0ZTgxcF9acmVORHl0MDZTOUloWTE5OFNFZkotOWF5Wmo4RFo0eUVFTjZBSjdfdzJjTXczeld0OE00RkVGQTVyZlBiYU4tTzlvbWRTZHdBcA?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성 - 매일경제 마켓",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TU1ZhSTdscjNScWIzdmduX2VYXzBRODNRWTl4ZFdZM1dweFQ4SzVDYXJrX2taQ1llbVVSRlFBYXdXcjFfLVZiTUhTYnR0N3pRYmc?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "‘K-실리콘밸리’구현·인공지능(AI) 기반 행정혁신 분야 대외협력 나서는 수원시 - 기호일보",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45V2stZllqR1Fhb052VEQtOUI3YmMwMnNxUkc0STZBbXNUeHBCUDdqa2dlazUxMHQ2SGU4ZWNubTdMcXdic2FpOGNKeld1WGFQQ3lsak5NSlppRmoxSzY0eVk3aUNzSHVNOVRtMk1WRQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "김천시,찾아가는 인공지능(AI) 도구 활용 교육시범 운영 - 대경일보",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TQ1VHTmNkQmVEOWNfMDF1b0RIU0ozT091T2JuMThRQk43a0g1WS0zS3dfQnBqQ2RLcGNlUDBKa2JxLWNodGtFTTF0dVEzTmtYRGZMbGpoZkJidUpJLWpjbVM1V0tHU19w?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "AI 지출 우려 속 인공지능에 투자하는 방법 - Investing.com 한국어",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9reHUyZU0yckxYdThvZU9TdWphQUk4bldJS0g4THNaU0VIUWtsRHZKRU5hTWp5VTBjNHhWX3BjZ3BHNlRVQlpHU0RFYmlhNFlSelFLSE1rSVVQN2kwLWV5Qlp5ckxnSUhITzkxRVN1UG4?oc=5",
@@ -66,48 +76,38 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "인공지능산업법학회 '지속가능한 AI' 학술대회 - 전파신문",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RcmRoNklzQmNNbXNBNlhLSUgxTVh4VFd3d0hZb1dJY2V2bDVwaElreTdCUUwtYWlWQlAyaG9TLTM1QVNTZHByWTVGTzhuRFlXYkhjakg2LS1hMmdJektuTE01eFBUWU5EQlE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[인공지능 줌인] \"AI 광풍에 CDS 시장 부활”…대출 급증에 위험 회피 수요 폭발? - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nZmZwazF6b2VDWEZuZ0JKNWd2bU94Tmd4RXhlUXVCZ0M1cEFzYUhmYkM4X3FTUXRkM1h3R1F1bldKS3AxYUNGT1IxVmFYLW1USHNmZG5MdVcyUXBJTkhHb05ZeUVVS081cWNCMTdzYjU?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "수원시 영통구보건소, 인공지능(AI) 로봇 이용하는 어르신과 소통간담회 열어 > 뉴스 - 더코리아",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUktVcFpXZjdiZGxBWHBubjBOTF84U2NGdGFtU05pQ3I2blFUV1RxQTgzY1BlMm8tVG83Vkc1TjhjX1lDRG44VS1hU3ltMzBWMkRRWUFQdlZLM3RscFU0SGZQOTNnOFdTdjU2SWVWeHNSdw?oc=5",
+        "title": "경북교육청 인공지능교육관, 주말에도 이어진 AI 배움 ˝데이터로 탐구하고 AI로 구현하다˝ - CBN뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83TUlramxjeFhoR3ZxQnh1cHNUbnZrOWVWcjlZbWprRFVXYUNTejM3bGpHM1ozVDBPbVZ1aUtDMjR3R05scFl3cDJ0MFNIT1dMRnBV?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "\"한복이 중국 옷?\" 쿠팡·네이버 등 국내 쇼핑몰 판매글 논란",
-        "link": "https://n.news.naver.com/mnews/article/656/0000191739",
+        "title": "\"쿠팡·네이버·G마켓서도 '한복&#x3D;한푸' 판매…이제 중국 탓할 필요 없다\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009276552",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“20.2억 대박, 서울에서만 7곳 최다”…로또 1등 판매처 보니",
-        "link": "https://n.news.naver.com/mnews/article/009/0005760424",
+        "title": "서울 마곡동 도로에 파인 '100℃ 열탕'…빠진 40대 행인 중태",
+        "link": "https://n.news.naver.com/mnews/article/014/0005600805",
         "source": "네이버 뉴스"
       },
       {
-        "title": "신촌 세브란스병원 흉기난동 50대 여성 구속",
-        "link": "https://n.news.naver.com/mnews/article/277/0005839442",
+        "title": "K팝 업계도 정보 유출…SM엔터테인먼트 “주민·계좌 번호 등 개인정보 유출” 사과",
+        "link": "https://n.news.naver.com/mnews/article/449/0000366785",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방송하다 사람 기절시킨 조폭 출신 유튜버…마비 증상까지, 변호사 “실형 가능성”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002720288",
+        "title": "서울에 벌써 ‘첫눈’ 내렸다…지난해보다 26일 빨라",
+        "link": "https://n.news.naver.com/mnews/article/011/0004679840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "출소 닷새 만에 또 절도…한 달 동안 32차례 범행 저지른 40대 징역 2년",
-        "link": "https://n.news.naver.com/mnews/article/654/0000209881",
+        "title": "광안리 해변에 돗자리 깔고 “13만원이요”… 부산불꽃축제 암표 적발",
+        "link": "https://n.news.naver.com/mnews/article/366/0001203308",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-08 01:42"
+  "updated": "2026-11-08 08:43"
 }
