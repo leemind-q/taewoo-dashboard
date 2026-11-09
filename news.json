@@ -2,112 +2,112 @@
   "categories": {
     "IT": [
       {
-        "title": "배경훈 부총리, 한국 AI 정책 알린다…ITU 전권회의 참석",
-        "link": "https://n.news.naver.com/mnews/article/029/0003058023",
+        "title": "화성시, 이달 말부터 자율주행 버스 운행…남양뉴타운~새솔동 연결",
+        "link": "https://n.news.naver.com/mnews/article/056/0012289975",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LGU+, 한국어로 대화하는 AI 만든다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005351893",
+        "title": "엔비디아, 국내 벤처·스타트업 4곳 투자 깜짝 발표",
+        "link": "https://n.news.naver.com/mnews/article/011/0004680307",
         "source": "네이버 뉴스"
       },
       {
-        "title": "메타 독주 AI 안경 시장에 삼성·구글도 합류… \"12일 예약 판매 개시\"",
-        "link": "https://n.news.naver.com/mnews/article/469/0000964324",
+        "title": "엔비디아, 한국과 AI동맹 강화… “위기론 돌파구” [뉴스 투데이]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004173730",
         "source": "네이버 뉴스"
       },
       {
-        "title": "카카오모빌리티·엔비디아, AI 결합해 레벨4 자율주행 개발",
-        "link": "https://n.news.naver.com/mnews/article/001/0016430224",
+        "title": "앤트로픽, 개보위에 개인정보 유출 신고…국내 기업 클로드 계정 100여개",
+        "link": "https://n.news.naver.com/mnews/article/028/0002831434",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔비디아, 디매트릭스 이어 리벨리온과 손잡았다…국산 AI칩 세계로",
-        "link": "https://n.news.naver.com/mnews/article/018/0006406689",
+        "title": "“AI 에이전트 시대, 작업량 수천배” 인프라 특화 나선 구글 [팩플]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003563934",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "반도체 호황에도 외국인 자금 썰물…韓 주식 반전 가능성은 - 이데일리",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWQ5c08tQXVrSm5kTURTT2ZvNU1OSks1S2hNU3lUd0Vjdm9ZVUhNb3hiNnJ6MnR6X1JXN0hIZU96bUR1bmVEX0Q0N3lOTnd0OFlZb1QyTVg4MExaZkhJV3pPa1Mza3RlbzNBVWhCNnRjekFNY0pYekYwQnB5dmQ3Nw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "머스크의 초대형 반도체 공장 ‘테라팹’, 진심이었다... 일본 장비업체에 대량 발주 전달 - 조선일보",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGtUYTdEVXQ3akNUTlFRVWJheG8tUnpvYTBnY0NkTkNwbXVXLUhoeG1JUXIxSWFFVmRZam1sUmpUOThXVnh1elJtcnRtd3pzaDBxcGdXRGhPXy1raGNUWWtmNkVFUHRiTERYa3IyUDZ4Ujd2X3ZBNldTazd6d3VzVXFUcnhQVXBUYUJtWTR2clU0T1hJSWVSSVU2VzZKQQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "머스크 '테라팹' 속도전…韓·日반도체 장비업체 대형 수주기회 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcHJYeFF4NE0tUnhrMUNNY1hmU0M0ZTViLWJTOVBtU3M4LVNfeENSb2MydlJocmZhS183cUZQV1FHdV9XY2xiRWhqZXhQVW9QZkdOY2dvRUFnQQ?oc=5",
+        "title": "엔비디아만 급락…젠슨 황 스캔들, 美·中 반도체 전쟁으로 번지나 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncDhHOUl1X2Y4eE5LVVpKaUFlMXhXWlk5bEFoWU5iQ0V0akRiZ0hrUlpaN0FieXlTRl9oYm1PZnRaRDEtYkQ4anplanlMVGJncFlRVEctcnlRZw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "머스크 ‘테라팹’ 가속…日 반도체 장비사에 발주 시작 - 서울경제",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1URERrd0hHNXRkR0lGcGZjYnBIUXhWc1I3SEs0b0d5RC1TR251aDNMeG1ReFZ4Z0VkeUdlUmxuTkxUcE9JV1VPbnNWTU01MThveGfSAVNBVV95cUxOVkFqSWZkdTR0TFRTRENWS2ZYQTY4UVpTZmJ1MUFESnZfZ3d4QzRhSFNmc3Y5OTg3RC1oeGNNMUxnVGFvM1l6b1BtZkt6M0ozQmVMWQ?oc=5",
+        "title": "‘깐부 동맹인데’ 한국 기업 불똥 튈라…K-반도체 예의주시 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRQXpJM01QanhyRDdUOE9rdUhjSm9sUXNMYUo3YjB6S0VrU3JJcDZSX1otRXljeGJvdEE5RUFjc29QV0x2ZXZtVERvSVd6dWZIVW5jYg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'中 스파이 연루' 엔비디아…AI·반도체 산업계 영향 '촉각' - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xNmdjRUo3LTJ4Qm9oYUNJekZUdllOS1JzMEgya2lLaXJJUUViOXBpYVNEMC15M0JPb2RTTkk1aUtHck16dUdtZzQ1TWV0RXFFb1p5MVNiVjFmWFZnZlh6NDFiWTc?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TbU5FdE9KdlRCT3BiTlNjMkczZXczWWU1TEw0ZEtCY1dKcnRxMlZueVcyWGQzZFV2UkQ5X3dCU2Q2X1c3bVNZZ0hkS3JrN1ZxQTg3UTV3?oc=5",
+        "title": "'젠슨 황 스캔들'에 촉각 곤두선 韓 반도체…\"글로벌 공급망 요동치나\" - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BNkxLelM4QjgxZ3lZY0RqZEFxRGUtRUxPeGt0WWlvVzdIdlNDUWxHR3EzN0xDU091Z1lBUnoybjJCR1FucWdOalFiOXI4NFFVSldJTkMtX09HOC1kTkV2NdIBeEFVX3lxTFBxdW0xX3E1MUw5bWpkY2laTkxFZHZhUTRWUmlmMDdxajZaWFpsdHZjbm5YS2RoQzN2TEJCRGNoWFhWYnlwZDZ2Mk5FS0ktSVhIS0pvTk5seUtUYXFvX2RfRUVPcEZnWW55Y2ZaMjA5Uy1Pd3lLWW5lQg?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "(시론)인공지능(AI)과 대학 풍경 - 뉴스토마토",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQVnl2YlA3NEk2ZXZmeUdheFliTDJHYVBtRG8zWG5BLUpkRks0VGZuZWFrLXlJbmlJdThVTUtRSnFyU3BEVk9UaEhXMmtDaExlWXY1TjRXbTVsa09yVU04WQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "이주영 의원, 관계형 AI서비스 청소년 보호 법안 대표발의 - MEDI:GATE NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERFBnVzE1ZzdtRUdOMGFxQzdtM0ZHanpaSGZDNGJWYkhNTkpWT3dNTFgxdkZZeGhaUU9pc1Y1Ujc0UVBYVXhqVjZOZG5qWEJJS1FhYjVBZw?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"AI, 배움을 잇다\"…대구 학생 727명, AI(인공지능) 원리·윤리 탐구 축제 참여 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSbE1JandUaWlDejFMVlA2UEQxYXJQM1NNX1YwRDNWYUlUSjI5TFNRbTdjaVNwcDU0TnUwTFpNazlCZjNEa0xaek1NM0JhUmh5aVFsRnBMcllFeE0?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "지식재산처, 한·중·일 협력으로 생성형 인공지능(AI) 시대의 지식재산 인재 양성 모색 - 뉴스체인지",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lVFdIR2FBd2c2Qmx1Z0xaM0gxaVlqbzNBUHRoOFR6ZWtqZ3FaLUg1VklMRGtUQTJsb0NydGh4Sm4zdFFObEtPQS1CQQ?oc=5",
+        "title": "대구시교육청. ‘2026 AI(인공지능)·디지털 페스타’ 개최 - 데일리대구경북뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwUWxjWjlnNnRGY1NOTVU2MUJHX3BQTkYyTGJ4MThKRktNZmhrYkZPWDVieGFLbzRUTGFoaUZIM1FjWGYwcXkzdU9TQVJqbGtfaEc1c2dMWG5MYTE1RU5GNWRfTjVEdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "IPA, 항만 인공지능 대전환 AI 가이드라인 배포 - 해양한국",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tWW5QdEI2ZUdIdlEzY25YRGZCWWVDcU1fZjAyTEhlcUdTRTFscGFhWVNYYnJJdzVnLUc3bkdITXlsZzBXbWFhY2tZWUFpN0FKTm04d0FjaVNZSDlkNzN2cmFwblNZSC1CZ0JsdTJiSjRzblhjQ3BsbUZB?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "인천광역시교육청교육연수원, ‘인공지능(AI) 대전환 시대, 교육의 미래를 묻다’ 교원 연수 운영 - 일간투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMGJXdEo5dTB3bWtxRDRUdEF1bXhCVkRpWm1nNWN2d3laV05Od0FSVDJmSWF6UGtsZHRzdEkwZVdXODI2SG11STZqdDUzWVROVGxvMF9adDNvQ3B0Ykk5VzU3WjR4YXNnM0t3?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경북교육청, 학교 관리자 인공지능(AI) 리더십 강화 - 데일리대구경북뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZN29ETlk1RjZPNExiSkJ2RkdoRkpvVm9ENEtjR3ZONzJlcFkxamx2SDFnbjdINjQ3MGR1UXF6NFY4OThRa0EyYlhaYlpCUEVOdk9wOEw3aW1ER2ZXU2FmSmk5X0M5UQ?oc=5",
+        "title": "[인공지능 줌인] 유럽·미국 규제 당국, 빅테크 ‘AI 독점 및 시장 지배력 남용’ 집중 조사 확대 - 위키리크스한국",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMm16cWJLUW14dlRENHlnMC1jd1M4NnRYOGVCN1B3QkowTTY3eVF3eWRmSmFLeDNzRWlyTnNzTDFrQTQ1eFgwNnd3N2dBVmVsNk0xcGdWamdUeVpCa2xjM1RBWGlhYlFtdkluZEQ0Vlc?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "SNS로 마약 유통, 동남아 국적 유학생 등 66명 검거…마약제조까지 시도",
-        "link": "https://n.news.naver.com/mnews/article/081/0003697072",
+        "title": "\"강사가 인플루언서 발사대\"…아프다며 강의 중단한 스타 강사, 예능은 출연?",
+        "link": "https://n.news.naver.com/mnews/article/031/0001073274",
         "source": "네이버 뉴스"
       },
       {
-        "title": "울산 학교비정규직 91% 파업 찬성…27일 총파업 예고",
-        "link": "https://n.news.naver.com/mnews/article/003/0014310697",
+        "title": "‘사드기밀 유출’ 정의용 前 국가안보실장 징역 10개월 구형",
+        "link": "https://n.news.naver.com/mnews/article/025/0003563854",
         "source": "네이버 뉴스"
       },
       {
-        "title": "인권위, 정부에 '세종 이전 재검토' 요구 입장문 낸다…\"독립성 존중해야\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005438669",
+        "title": "용인시, 한국민속촌 ‘귀신 참교육’ 아동학대 논란에 운영실태 조사",
+        "link": "https://n.news.naver.com/mnews/article/366/0001203467",
         "source": "네이버 뉴스"
       },
       {
-        "title": "박수현 충남지사 “재선충병 방제 지연, 도지사 권한으로 즉시 해결”",
-        "link": "https://n.news.naver.com/mnews/article/366/0001203516",
+        "title": "김종철 경찰청장 후보자 “국무회의 참석 필요…국정방향 공유와 부처 협력”",
+        "link": "https://n.news.naver.com/mnews/article/029/0003057936",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경남 수능 시험장 104곳에 ‘스마트안경 부정행위’ 차단 전담 요원 배치",
-        "link": "https://n.news.naver.com/mnews/article/081/0003697115",
+        "title": "부산의 다음 어디에 투자하나…내년 예산 19조3513억원",
+        "link": "https://n.news.naver.com/mnews/article/277/0005840084",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-09 14:12"
+  "updated": "2026-11-09 23:30"
 }
