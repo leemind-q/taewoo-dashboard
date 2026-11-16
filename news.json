@@ -2,59 +2,74 @@
   "categories": {
     "IT": [
       {
-        "title": "\"이웃에게 AI·베이킹 가르치고 돈 번다\"…당근의 새로운 실험",
-        "link": "https://n.news.naver.com/mnews/article/008/0005441408",
+        "title": "‘사장님 단골’ 잡는다...네이버, ‘네이버플러스 사업자몰’ 개설",
+        "link": "https://n.news.naver.com/mnews/article/011/0004682572",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“명색이 아이폰인데 이게 말이 되냐” 되팔이들 좌절…중고가 뚝 떨어진 ‘아이폰 듀오’ 왜?",
-        "link": "https://n.news.naver.com/mnews/article/011/0004682326",
+        "title": "SKT GW급 AI 데이터센터 전력 파트너는 효성중공업",
+        "link": "https://n.news.naver.com/mnews/article/658/0000161361",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글로 맛집 찾고 길 안내까지 한번에…네이버·카카오 승부수는?",
-        "link": "https://n.news.naver.com/mnews/article/003/0014323446",
+        "title": "양자컴 이용 '先수집·後해독' 경계…정부, 암호 교체 4년 당긴다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006410451",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“니켈에 전자 더했더니”…암모니아 95.5% 분해, 수소 생산비 낮춘다",
-        "link": "https://n.news.naver.com/mnews/article/016/0002723839",
+        "title": "AI 부정행위 대책 내놨지만…시험장 보안 여전히 '제자리'",
+        "link": "https://n.news.naver.com/mnews/article/629/0000552369",
         "source": "네이버 뉴스"
       },
       {
-        "title": "[주간 클라우드 동향/11월③] 네이버, 2조원 ‘AI 팩토리' 첫 계약…불붙은 GPU 클라우드 매출 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/138/0002248645",
+        "title": "야놀자, 3분기 영업익 183억원…전년비 39.3%↑",
+        "link": "https://n.news.naver.com/mnews/article/092/0002445511",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
+      {
+        "title": "[비즈톡톡] HBM 하나에 500만원 주고 밀수하는 中… 반도체 굴기에도 못 넘는 ‘메모리 장벽’ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlpfMXZFVUxIdEpiU2RlbzJQY0U2UUFHSFlhLVNrc194d0t3dzNTcVpPdWNmaXpYaW43RExRNElUM0hlMTA3S01tcHoyOVdFekZnWlB6OTJxU0NNZmZZeVFqYXd2WEljWDkyN2ZUWjRoYTVZVWxRRk9QV1IwZmF6aHFR?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "\"연매출 1조원 보인다\" 제주반도체 또 최대 실적 경신 - 파이낸셜뉴스",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWGpwdTZWRG9qNTJncWpzTEZtUjg2OXdNLUo0QXgyQ2pHcXhxUlNBckNHNUM3WDdHTEVGMWdHcnI4endWVEVDZ3ktNHl1aVJobFVNanp1VWdJdw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[르포] 반도체 생산라인 내준 SK하이닉스…소부장 양산기간 1년 단축 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xOEFKSUVIdHFmenBLNFZGOFllWkZwRDJXa2lqVWNPd3Fjb1dhRkF2elkybU1fMDhnYnJrT3AwTWo0WGdsMWFzajktamZWeFZwY3o1Vk5RMlZfWDjSAWBBVV95cUxQVUR3NGRPWGp4cmp6OXh6Zl8zZFB1UXJJQ1dYdld4N2hrR09KalF2c0dtR2IzcmlnRkxyWFFTSjRyQzZ4WUJUZjVCallzQ2ZZRWlJNTlYLWVmdjl3TWlJeVo?oc=5",
+        "title": "\"호남 반도체 산단, 투자 일정 구체화해야\"…전문가 제언 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tSlpqVUVjZWhBUUNpQ3R5aGplTmJMaWtQbWhJVEtoR0ZrM0pQaXYtUkNESm1oUDBvaVlpZ3JpSFRVcDl0anRqaUcxYUZyc0lWa3hmYWNsUGdJcWfSAWBBVV95cUxNZFNCbnptQk0tcDJ0VXZ2Q3ZoS2VSZ3ZYZjNRMldDM2s0UExOU3RGR0RIZmQ0b040VXRWdE9qMFQwS1F2bXdqS2xTTTdXWVBNMlFLT0E1dXU2MTRNa29RUUE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "\"2만명이 24시간 속도전\"…2월 개장 앞둔 SK하이닉스 Y1 - 마켓인",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YQjZlcDNnRUVkd01sWlU3aTl5MXZudWRsVVNwVmNFV245RE1yNTEwZE9rZGI0SmdUOVNKOExGMFl6RFpNOGYtaDVzd1RYWTNNbWRod3ZhaWRRbmFlN0RqX3BjcGNtSTl5eVltVzUxcmd0alk?oc=5",
+        "title": "코웨이엔텍, 반도체 수처리 사업 성장에 3분기 만에 역대 최대 매출 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rT01Bd0FZOTBEaE8xVzliTlZUU2NoWVJjVU9oOFVNME5QcDNXa3cyLWllNTFyaTVDNFptNHhLa21OY2hYUUJ4aE5lRWs?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "SK하이닉스 용인 클러스터에 소부장 전용 팹…K-반도체 생태계 키운다 - 한겨레",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYcTVlSGIwZWNUSVBMT0ZXSUNWeXA4cDMwSi1GMGRqc09hQ3dQYW9Ja3lLMWg2UGxaYjZXa24wNEc4bk9Hakp3c055aUNvUXZBSTF3d0pnUVF5YjVXQ3FuRlJ5YnlyVU9LeFE?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[중국 특징주] 中 TCL중환신능원, 반도체 웨이퍼 사업 강화 위해 자회사 지분 인수 - 뉴스핌",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PNGM4MnJsTWljR0ViSExEby1YeTBtYVNHcTU5bVN2eGIyMEQzMS1BZlNXSWRsY1ExNVJiQ2ZhSzlOUV9jVHpicW5ZWXhxc1ZWck5OYzdGRzQ2N3RZ?oc=5",
+        "title": "'반도체 기업 달러 공급'…외인, 증시 순매도에도 달러·원 1335원(종합) - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4NnRMMGZNN2dBYUl5dmdieU10dDgtRzZrdHYxQzg5bTR5NTJHdHVEYThDR2VMYjJQM0VFZFRWb2pHREdoUlQ4V0llT3JweUtsNmJqV1VoaTg5elU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "인천시, 지역 인공지능(AI) 기업과 ‘글로벌 인공지능(AI) 허브’유치 전략 모색 - 인천교육일보",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MWUVjTnBJaFcwV2s2Y1BhZUtNR2NwT01ObDk1b1hRLUpMSWRTVnZxenlvMXFGZkdZMXUtLTlwbFo5R3RFbnBINFR0bmJPMG1PRzE1eXZ2cWZpOHRaeXRpbUpZVTJjTTFR?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "춘천시, 인공지능 기본계획 발표.. AI도시 조성 추진 > 뉴스데스크 - MBC 강원영동",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xS3FYREE5NlE1bG1pQV85cExVMjJrUlZUc09NTkdManBURnVDQnZ0anhjRjNvT3l2ZVJ4THV4SGFVU2hGbVBnWjllUQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "금천구, 누리집 '인공지능(AI) 다국어 자동 번역 서비스' 개시 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfaWJ2cDJER05LbVZjYTZyYzFhbENJZUh4dDR0SGRzTjJwT21rZzVjM3ZYTGZ3RUMyS3czdXZLaUQ3YUpoVDFwV05JQlJBTEZHWTFFeG93RE92M28?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "한국해양교통안전공단(KOMSA), 한국전자기술연구원(KETI)과 해양교통 인공지능(AI) 기술개발 협력 - 쉬핑뉴스넷",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaERKRkJjYUZCNlM4RWJzU2VIQ1JLUHFrdlBlemJldEl4UTVGVmxwRG9qaXQ2VFhSOUlfX1QxS203UHdSYVhxUUpzWlNSTTZtbFpwbFJxUWltaWFaYUZKellsbEh1LVZOeFBueUw3Z2R1bTA?oc=5",
@@ -64,50 +79,35 @@
         "title": "경북교육청, 인공지능(AI)․디지털 시대 사람 중심 인성교육 방향 모색 - 데일리대구경북뉴스",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JWjRCOF9QaXlNdnhjZm5zSGZUSDRmdjZNdjlfS283ODdBWFEyM0FRbFF5SUJRV1huaGwyMGVaNm1iSGJ6TzVESEtOMHFFdEdGMzQzc3kyT3loVHc1Yi1xbEFtUEhfQQ?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "[AI 프리즘] 인공지능의 진짜 위협은 '지능의 반란'이 아닌 무분별한 신뢰와 오남용 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBidy1fMmN1Vm9oS0ZHNXo2UUNQaFNLRzZ2U2N6OHl5UDk5akQ2X0NPYnZwY1ZuZmpkZzhuQTV5NXYzUEI3MG5vTUpLOUdnN3d5MHpmd0pGUDB1RzdGaXo4enZuNVF5Zy1HMnFsdFllM24?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "금천구, 누리집 ‘인공지능(AI) 다국어 자동 번역 서비스’ 개시 - 자치행정신문",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0ZyUktfRVRydzlHa0pJeFlWT05zVDFycktDOGpla21nWFVIZGFPemxJWm1pN29vLURJVHlxYlFyemtzOHJfOEViZjEwd3FLS1hpNmVzQUUta0ZVTUVHRVh2aUo1WTAtU2J1MGJzWXhHejdGZGwtRkU0TG5FcHhJRjJhWDhscVpNQmEycDdpd0gza1NEUllFRlNzdmVUVEYwcm9sbTFMUzlVQm01QllN?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "경찰대학 치안정책연구소 조정혜 경위, SCOPUS 국제학술지 「Security and Human Rights」에 인공지능(AI) 기반 예방적 대테러 전략 연구 게재 - 뉴스데일리",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQkpzREY1aW85VlVUQTdyc2dLYi14NmVOQ3ZFR0thSWZUZzB2d25TUGwzMkdRRGlaUmJ4aWdSWEdXeXdzdUl2bGNqTHpEaXFPQmMzdUJ4dXl5VWw3X2MxN2hrNm5jY0ZsUlRv?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "나흘 뒤 수능인데…‘AI 부정행위’에 공정성 포비아",
-        "link": "https://n.news.naver.com/mnews/article/081/0003699488",
+        "title": "\"AI 활용 부정행위 전수조사...의심 사례 수사 의뢰\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002433516",
         "source": "네이버 뉴스"
       },
       {
-        "title": "세무사 수석 합격자 결국 자수…서울청 광수단 배당",
-        "link": "https://n.news.naver.com/mnews/article/215/0001272814",
+        "title": "교육부 “수능 연기 없다…초소형 카메라 대책 마련할 것”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003762732",
         "source": "네이버 뉴스"
       },
       {
-        "title": "출퇴근 前 제설 끝낸다…경기도 ‘안심제설+717’ 가동",
-        "link": "https://n.news.naver.com/mnews/article/022/0004175342",
+        "title": "11만원짜리 장비에 뚫린 국가자격시험…산인공은 뒤늦게 “깊이 사과”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005763879",
         "source": "네이버 뉴스"
       },
       {
-        "title": "보조배터리… 충전율 높을수록 열폭주·발화 높았다",
-        "link": "https://n.news.naver.com/mnews/article/277/0005842851",
+        "title": "부산 도심서 처음 본 10대 여성 뒤쫓아 흉기 공격…20대 구속",
+        "link": "https://n.news.naver.com/mnews/article/629/0000552129",
         "source": "네이버 뉴스"
       },
       {
-        "title": "\"이제는 당신이 수석입니다\"…세무사 '차석' 사진에 깜짝",
-        "link": "https://n.news.naver.com/mnews/article/055/0001403258",
+        "title": "\"수능 감독관 혼자 AI 안경 가려내나\" 현장 판별 부담 '우려'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014324449",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-16 00:50"
+  "updated": "2026-11-16 07:44"
 }
