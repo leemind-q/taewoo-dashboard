@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "게임도 AI가 채웠다…국내 최대 게임쇼 ‘지스타 2026’ 본격 개막",
-        "link": "https://n.news.naver.com/mnews/article/016/0002725515",
+        "title": "국내 5대 게임사 중 4곳 빠진 지스타, ‘부산 엔터쇼’로 전환되나[팩플]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003566500",
         "source": "네이버 뉴스"
       },
       {
-        "title": "PHP 취약점 비상…GS네오텍, 취약 서버 미리 찾는다",
-        "link": "https://n.news.naver.com/mnews/article/003/0014332494",
+        "title": "11년간 못 찾은 해킹 취약점…티오리 AI가 찾아냈다[만나보니]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016453436",
         "source": "네이버 뉴스"
       },
       {
-        "title": "김지욱 LG CNS 전무[프로필]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006412684",
+        "title": "점유율 하락에 칼 빼든 스카이라이프…HCN 합병으로 효율화",
+        "link": "https://n.news.naver.com/mnews/article/119/0003157346",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG헬로비전, 7년 만에 수장 교체⋯신임 CEO에 김지훈 사업총괄",
-        "link": "https://n.news.naver.com/mnews/article/031/0001076753",
+        "title": "'PHP' 취약점 한 달 만에 또 나왔다…7개 치명적 결함 포함",
+        "link": "https://n.news.naver.com/mnews/article/003/0014334643",
         "source": "네이버 뉴스"
       },
       {
-        "title": "LG유플러스, 2027년 임원인사…AI·통신 전문가 전진 배치",
-        "link": "https://n.news.naver.com/mnews/article/011/0004684036",
+        "title": "롯데이노베이트, 동반성장지수 2년 연속 최우수 등급 받아",
+        "link": "https://n.news.naver.com/mnews/article/001/0016453501",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "반도체 호황에 수출 1조 달러 달성‥세계 4번째 - MBC 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEdXE5UDNFRzRCelZLQVRVR1dHanJ5b3BNWEoxR1V4ektxd3Y3ZTg4eXc4enE2TzU1eTVxRm13a2F0ejg5NndsaWtxM2VTdXNiZzlRejRZOGY5WTFhaWQ5bzN2YS1CdkpEbzBWVHR2R2JCMmpZ0gF0QVVfeXFMTjEyUDdhOGJaY1hCaVpPekZOcmxIb3p5M2FmZ191LXl6LWFlNXFDb0VnX05YVjJicE5scDBCTW45dWM5d3JTeGtiVGZ6Tm9nX1k3U2twTkVNN3AwS2RBWjRwbHFNQVF4d281cWRvOTd6NVpXSm4?oc=5",
+        "title": "애플도 뛰어든 '빛의 반도체'… 51조 시장 선점경쟁 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40TE1CS0ZuVmduRnpuZnNjb2NlRFZCd1ZCbnpCX1lYYWNRR3AtWkRFRnN5Q1pkUDNWYlhUdWVLcW9pMzVtRmxXczc5STFwVjRQN3hhNkdn?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "미국 반도체지수 2.4% 하락…앤트로픽 상장 첫날 AI주 투매 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDMng3ekhUS0hYcHlJTThCbGtTMVZWQkxZSmVwX0JUbExudGtMMGxqNFZFdWRlUVItY19maEtsVy0xTFVuS0FDRHNxd2p1T19GM2FneXlpcGxfVXBlbFo1em9OdGFTS0E?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "美 반도체 급락…프리마켓서 삼성전자 4%·SK하이닉스 5% 하락 - 뉴스1",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UYnotNmtDaDRXMHVUZWxKS09XX1NuR2RwN3FuRURjNzhEOWdaQXFmR2xleGVDOWJzT3FyMU9zTzhtNDJOQm5MaDJic3VMZGFqUlpta0xGNlRyRTk0cklz?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,49 +49,65 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "전국 청약 가능 반도체 배후 단지 잇달아… 용인·평택 등 연말 분양 - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POGR6N3MwRlpZYW9uWkoyVHlPY2hnXzNzTFNLaVVXUlF6dEI0UGdNVkF6Y3NlZnItLW9KMVhYNDRqVXZzRWpJU1RhbUQzenUxMnBjZnlHUWpJODBoRzhPZ28xQkFlbmtEeDBJ0gFmQVVfeXFMTkNrenJVd0MtbFNWdEtXSDMteUYyb1N5SVIzUGlreUg5U01JQktmZlEwRzlvd3hSdjl3MkF6a3l4MGlxNVBFWm5vSks2dVNEU3h5RVA2bjAwSHM4MzlWREJoYlF3V2ln?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "엔비디아는 이상무…하지만 한국 반도체 주가는 ㅠㅠ [핫클립] - KBS 뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zT3JhRElzcWdxOEo2bGw1V3JPVGpvbldlRG83Q25Cd3Ixa1EzNlpmdE5sVndJQUs1bEE3RHI0NUpCbnpTcWloZGZHU3Naa1h2Z3Rpa01WN0gySmhpaDBTY0J2Mnc1UQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "평택시, 독일 드레스덴시와 반도체 산업 협력방안 논의 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaVc3aHNDTDVrMTRzZTA1Vy1EUEJVYlVadzRUWGh6UDhURWhXczRyTU1ReGRIZmQ5MFFJN25SdG9lc2piZ2dxSW1FRFhWeGJmSlV0eWxFeWJtb2fSAWBBVV95cUxNTEkxRWxHR3NKb2w3S2NtWE9rRVpBR251M1ltckU1T1EwVjhZTXlIdlROaEE1UkdVcDE3UHdmY2NvMWtBaldpMVFYa01pVXFXSzBsdVlyRkZ5aTZvTXlxM3E?oc=5",
+        "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zZ2ZRVVN1R2tKWDhyM2NUcXpTOURMd255enpldGtObVNoUDhESDRVejJzYlZwSXBLLWJkQUxYZERhM0VWOGRDM2F5TTNiUQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
-    "AI": [],
+    "AI": [
+      {
+        "title": "경기도서관, 30일까지 인공지능(AI) 관련 문화행사 펼쳐 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XWDJjT2EtQllhbHA3cnhvemxhOHoxa2ZZNXVSOEV0UllOell0SnFQblBLZ2VYV2J5MEZzUXZDTzktanRWbGVPalBFM2VQRUxnYk9xREJYVGJ1REE?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "파주시, 관내 청년 창업자 대상 '인공지능(AI) 활용 짧은 영상 홍보 교육' 개최 - 시민행정신문",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6UE9WdHN3eWcyR3hGN1lyQ1RxNWR0NFJnMFozYlUyLW1WcEN2a1ZWNE1acTZvZEtzeVpVSDlMNmJqTWc1Q0gybm40aGRZcUtURnhxR3F6R3BtS2hEMlZ4Mjd0VW9ZejJKSnJSdV9R?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "서울시립대-한국피지컬AI협회, 인공지능 및 피지컬 AI 분야 업무협약 체결 - 한국대학신문",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tS3g2aUVJc3V0N1E2U0dnR0xDTGdhbjVHTm5OT0FnODMtdTdZbWI1ZDh2YTZPQ2I1UkI5YWdiSzQtb2dMcExiSHV1Q08ySlBjbWY1VWp3QW95ZDJXOVZPWGc4cy16dw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "구로구, 대표 누리집에 인공지능 기반 자동 번역 기능 도입 - 매일일보",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUl9BWGtoOHV2VXdSaFlRcktscWNJQXhpdXBSZU94TDZKaUVHYmpLS3lNMEhhYWVhZGw3aC1jN0Z3dGtUazBfcE5nMDBUYlZTVEYyUDJ0dnB3dFF4SmppR1BJcEc?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "李대통령 “추진 중인 아태 AI센터…인공지능 협력·혁신 구심점될 것” - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xdnFwVldtLTRlWGlEaGlOTnFTa2xMNFRoUTg3UHNNbXIwUS05dXJvWjZ0WUN0XzlfYjViTG9VelcxS1h5dDFhU2Fra1BmZw?oc=5",
+        "source": "구글 뉴스"
+      }
+    ],
     "사회": [
       {
-        "title": "천안 수능 시험장서 '스마트안경' 소지한 수험생 적발…부정행위 처리[2027수능]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005845276",
+        "title": "'초소형 카메라 소지' 수험생, 경기남부청이 수사",
+        "link": "https://n.news.naver.com/mnews/article/052/0002435273",
         "source": "네이버 뉴스"
       },
       {
-        "title": "창원시, 빅트리 '흉물' 오명 벗긴다 … 체류형 실내전망시설로 변모",
-        "link": "https://n.news.naver.com/mnews/article/277/0005845105",
+        "title": "스마트기기 부정행위자 98명 적발...실제 활용 5건",
+        "link": "https://n.news.naver.com/mnews/article/052/0002435323",
         "source": "네이버 뉴스"
       },
       {
-        "title": "‘김창민 감독 폭행 사망’ 가해자 2명 징역 12년·3년",
-        "link": "https://n.news.naver.com/mnews/article/025/0003566572",
+        "title": "[단독] 이진우 사망에도...경찰, '리트·수능 의혹' 계속 수사",
+        "link": "https://n.news.naver.com/mnews/article/052/0002435211",
         "source": "네이버 뉴스"
       },
       {
-        "title": "“국무회의 소집 건의가 계엄 용인 아냐” 내란죄 처벌 범위 축소",
-        "link": "https://n.news.naver.com/mnews/article/032/0003483917",
+        "title": "대법 “김건희 상고 전부 기각”…‘3대 의혹’ 징역 4년 확정",
+        "link": "https://n.news.naver.com/mnews/article/011/0004684038",
         "source": "네이버 뉴스"
       },
       {
-        "title": "수능 부정행위자 98명 적발…5건은 시험중 스마트기기 활용",
-        "link": "https://n.news.naver.com/mnews/article/374/0000544816",
+        "title": "돈 받고 오물 투척·래커칠…‘사적 보복’ 대행 조직 총책 등 8명 구속 송치",
+        "link": "https://n.news.naver.com/mnews/article/056/0012297214",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-19 18:01"
+  "updated": "2026-11-20 00:48"
 }
