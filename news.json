@@ -2,59 +2,74 @@
   "categories": {
     "IT": [
       {
-        "title": "엔씨 ‘리니지 클래식’, 새로운 항해 돌입…시즌2 첫 에피소드 ‘트리아’ 공개",
-        "link": "https://n.news.naver.com/mnews/article/009/0005768172",
-        "source": "네이버 뉴스"
-      },
-      {
-        "title": "국산 NPU 금융권서 성능 검증…NIPA, 금융결제원과 실증 확대",
-        "link": "https://n.news.naver.com/mnews/article/009/0005768144",
-        "source": "네이버 뉴스"
-      },
-      {
         "title": "독거노인 생명 구한 SKT ‘AI 케어’, ‘시슐랭 스타’ 영예",
         "link": "https://n.news.naver.com/mnews/article/018/0006414810",
         "source": "네이버 뉴스"
       },
       {
-        "title": "원스토어 부산 본사 이전 발표에 노조 \"조합원 99%가 반대\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016459660",
+        "title": "한국인 DNA 1만명 분석했더니\"…기존에 없던 유전변이 988만개 발견 [헬스LAB]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005608630",
         "source": "네이버 뉴스"
       },
       {
-        "title": "KRISS, AI 자신없는 분석영역까지 3차원 구현",
-        "link": "https://n.news.naver.com/mnews/article/003/0014342152",
+        "title": "23년 전 기획 꺼낸 엔씨…‘리니지 클래식’ 새 길 연다[오늘의 게임 업데이트]",
+        "link": "https://n.news.naver.com/mnews/article/011/0004685537",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "자율비행 드론 편대로 숲속 실종자 찾는다...ETRI, 기술 실증 성공",
+        "link": "https://n.news.naver.com/mnews/article/030/0003489289",
+        "source": "네이버 뉴스"
+      },
+      {
+        "title": "\"우주영토 넓힐 것\"…2030년대 중반까지 연20회 발사역량 갖춘다",
+        "link": "https://n.news.naver.com/mnews/article/001/0016461269",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
-        "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SnNNcUpXN1hIQ092aDdUZmZ4SEF3UDFUbTdFY2h4NmhpcnFyUUtKNzBTVTNISjVISm5zOHhCUHNhWjJzdlpzdEVpcXEzOFBESWpDM1pmQ1k2dw?oc=5",
+        "title": "반도체 수출 비중 9월 49.8%, 10월 49%…11월엔 50% 넘나 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FTkZTaHBEc2hHMjFxWGRKVGtra2Z6REVXY2JzVnFuZ3M2bUIyYWl4ckFXczBwMkVId19JaWJHeVZhQVdqSmgwR1FUVGFtV0psTDNkMzNfV0xLZGxjQ0F2LdIBeEFVX3lxTE03RmtDMkZHR1pBcXR0X3pFZ3laVGlpQkxyU25rM0lta1hfSE01QV9VQTBuUTM1cF9ycTFUTkJYVTRDdkNIc1hZVTMxQUtSbWtoT29KUEJ1SlFYaDJHZ0dPSkoyUnV3T2t2emJGMXFCUk1NTEl1dGtKXw?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 호황에 국민소득 4만달러?…체감 안 된다는 사람들 - 머니투데이 - 머니투데이",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WMmg2YVNfakRBUzFJNlVSa2dhdkdvTVpDM0xWVDd6cHIwaV9tYmNyU0RfTk1HbXFVR0NHTEtPcHFEUHpwcF83Z3F0dlNweWZxT08tSnhNQllXb2p4akRDNFIyNFExVXc3V1RB0gFwQVVfeXFMTkt0WnZzcHNnTEFrbVZZVGI1MTFvX1o2Q1lSaUNVR2hOOVd2UW93RjV0bWR6a01lbm9GaHlUU05iQUZ5dXdaXzNzUk9DRmV6NmxuY0toXy1yOUhiUllHNTJpaEdQcHA0SFdzNFJYQ2g1eA?oc=5",
+        "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합) - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fRHc0dGNrTjF0X1ByZHEzZjhTNm1kSm9hRjNyZE9xQ2tmYnFnVmZnTVdxTlBfTW5WanJUNHRvRmZwelhGSHgwU1dPNWZob2l3OWpKRWFMRDNzVnPSAWBBVV95cUxQU2lUejJTNU00eTJsLVBPd01TSU9ET1VraDlvVDFnS0k5ZFY3X1NIVXJCeXNJYUI4V3NqYWFZVFNMWTdaLVFScDZWN2VQYUpXbVVHaGJCczQ2VGRGTG5HWFY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "주호영, `호남 반도체` 5개월 검증 마침표…전력·인력·부지 곳곳 허점 지적 - 매일신문",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MjlaSnFCV1NIdE1ESWgwN2lJVWZLRjQyS2cxelNObTkwc2lva1NJYnhMaVg3dUdJZklKMFNWdzRlVDZ2OFlMa1VHa3F6cmRvU3FmU2ZJOUlyQlBlaTN3OEVB?oc=5",
+        "title": "11월 1~20일 수출 774억 달러 ‘역대 최대’…반도체 294.4% ↑ - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cURFSXJvNFh0QkdQaWdyU0htdnc4ZE5ZTlpQN1dOLU82UGFWZUxSZ2VxUG5rb19uTWdlUm5SeVcxQkdNRlJFenJoaUhRTXpGTElubnd4cjFqYkk?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 투자, 골목상권 '낙수효과' 기대…관건은 지역소비[반도체 호남시대⑤] - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11SURlNlNoMklwNDdSbVVMTnY2dlpfeXJobUg2Rm1TTFI3TndJdnJ5UHMySnQyX2k1bVE3SmxvTDA1QjY1NG9MV0NtM0NVUDZ0S3RSenlEWVhjNnUwNUFSLdIBeEFVX3lxTE1rbkQxS25jTmFjRkwtQzB3dXdGUU1hVDBSTFdIRDNjQUNIMGRaTHBIR0pyRTdmR1BjQ1ZEOE9fTmNmUGpJaE5aa3BoU0ZyZVNtaV9RY3RiUW10UE9jQUxmbXkybG1tYVZoNDU3OVhHbjhPWUtWOGRsWA?oc=5",
+        "title": "삼성전자 임원 승진 인사…규모 19% 줄이고 반도체 챙겨 - KBS 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92U0xoVkgxTHNtVkNlNmxHbW5hR0VVd0U0Ylc4V0w1a2hBLVRPQWVyR2NoUllQenYtZmo0MmtvZC1zUkVGN21aNldMekdZUnlyRkRtOVQxUEIyaGM?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "'서남권 반도체 클러스터' 한눈에…반도체 정보 투명공개 '칩온' - 뉴스1",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPX09fMTk3UnB0b0lwd0FMWVN6VXdzUGVmMm1PRXZIV1JkQ19kVi1NUWZpTzZ0WmJpMHdUV2dHUVdkMmxxckw4TVhsSXdHcURuaVlIMUZpMEN0X1QxV1Qw?oc=5",
+        "title": "삼성전자, 임원 승진 19% 줄였지만 반도체선 70명 대거 발탁 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dURwaHNaZDhrSDZfdTROWDU2WEJHS1JDTXIyUGloZTk2Qmt5eVpsb1Iyd3ZBMmZaU3ZoZTBDQVZfcFp1N0oxcy10MDRaZTJ6bWZteDYyVkg1SzTSAWBBVV95cUxNVk96Mlh0ZjVqc0hoVUd5OGphQ3UwQ3VoZDRMWWVtZTFXdHM3TkpsNFowbEI4aTdQaHJRS0dvMVpZbENRTF80OEhjYXJ4U1JZekF3THdyOFk2NDlzemtleHU?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
+      {
+        "title": "과속하는 인공지능에 브레이크를 걸다 - 단비뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BNU80cDFESTh3cGZyNW5MTURFXzJ2ODI4U2I2dG9ZMUVOdW1FT2k0QXFRdDB0Y2hEbldzZG1YcHVfU3NoTjFSOWJaVjl2Q1dQbWtKUlExempRbnVuUkVwTkNjYTdmb2xEaTZN?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "대구시교육청, 생성형 AI(인공지능) 활용 연수 사례 공유회 개최 “교육전문직원이 먼저 배우고 함께 확산한다” - 대한민국교육신문",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzSnF0OHhSbzBwTUY0Vm9xdXkyNXMtdVRxbFpHX01xZ3JPdjFycW12UHZGazdDekdNU2pqd3B2c2hwX2U0WmNrdU9ma2JFdTdSN0xRLW9FcjMwb0VnT3BsdlpOSQ?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "온디바이스 인공지능(AI) 활용해 수원델타플렉스 화재 예방 나선다 - 수원시 인터넷신문",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SUDZiRmlWTnljTWJaSjdDM0Y5WnRpVWxSd2w4S0VnYWZvUDNIRk5KU29ZbDBaQV9FVzQzUHdwaWIzMG5qZksxX1NBcFlWZ0R3emx2V0ZjUnhWa0tJWEs1cE1SMnEyd0N2SERtWUpoelVzTFFRbkVRTi1B?oc=5",
+        "source": "구글 뉴스"
+      },
       {
         "title": "최경진 가천대 교수, 《유리시민: 인공지능은 프라이버시와 권력의 규칙을 어떻게 다시 쓰는가》 출간 - 법률신문",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaF9KVWhPR2tma3IydlpzMUxxRmg4YmczU20zb3ZrMWhBcGFkUFNyQzE0SGRpZ2p4MV9PM0JMM1ZDNVA5aE9BMW5TN0phLVV2R3IxOENfNVdoaHl1RTZoMDltUEt6S3MtS3JfYmN30gFyQVVfeXFMTmFNbklmeFlkR1FfZmFLSUsyOXYzYm13Qm9ZUk94TWsycklPZUZUZ1k1SWZKa096SkR5Nno0YUFPR3J4aXRrZ1loNGlDOTB0NUVydjNEMURCOWhUSHpETjNoVlZfeEhPaFBIamUyRWhOWjdB?oc=5",
@@ -64,50 +79,35 @@
         "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다 - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Oa1F5dWg0WGtTanZTWUd0eEU0VjdsNXpZUjdpcTNVUWpKYWdzY3BJUGFUSWNpVm1TWVlORU9reUNtREpndUkwMEtHeXQtaXJ3T29pbThUTERFSzg?oc=5",
         "source": "구글 뉴스"
-      },
-      {
-        "title": "경북교육청, 인공지능(AI)․디지털교육 축제로 미래교육 성과 공유 - 데일리대구경북뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CMWg2bzl5N2pDTExyTUYxbFJoUE81RzNQVVE2V3UyOWZ2OS14ZHE3RzhabzV0ZDVHelZ4cXBPRnhOcFdXNmUzNXlwUjFPQUVNT2owMnJQYVIxVEZ1NGdHRzBEY1BSUQ?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다 - 헬로티",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tb2xQNkd2Q25BbHNQU1A3bnpfZmlTME4wXzlPdjhfTlhvVlIxR0hUbUtEVFhuQnF3X1NqTHh3UDlhRFg5ZlZOaElHQlVGN0Zwa3JvMmtMV2xvQl9KVXBj?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "한화운용, 인공지능(AI) 데이터센터 병목 투자 ETF 신규 상장 - 문화일보",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Sa0dlWVc1Qy1ZVHViejJuSkhSblJFaEpYem1sbU9wWWg2NEVTUlZWNHMyRWhCZmhwTVpIVUFGWUFTczBDVVktODJFU25iSVFK?oc=5",
-        "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "서울 지하철 총파업 예고…노사 최종 담판 진행중",
-        "link": "https://n.news.naver.com/mnews/article/422/0000929391",
+        "title": "서울 지하철 파업 때도 출근 시간 100% 운행…버스 3519회 증회",
+        "link": "https://n.news.naver.com/mnews/article/629/0000554917",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, '연이자율 8만%' 불법 추심 형제 사채업자 검거‥가족 협박도",
-        "link": "https://n.news.naver.com/mnews/article/214/0001537643",
+        "title": "교육부 \"중·고교 내신도 'AI 커닝' 땐 0점 처리…최대 퇴학\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001979639",
         "source": "네이버 뉴스"
       },
       {
-        "title": "노동자 5명 사망한 세아베스틸…전 대표 유죄  선고",
-        "link": "https://n.news.naver.com/mnews/article/014/0005608987",
+        "title": "정부 \"5년 내 31개 기관·5,460명 세종으로\"…이전 계획 발표",
+        "link": "https://n.news.naver.com/mnews/article/057/0001979713",
         "source": "네이버 뉴스"
       },
       {
-        "title": "법원 \"골프 3부 아닌 삼부토건\"… 송호종 위증 혐의 징역형 집유",
-        "link": "https://n.news.naver.com/mnews/article/469/0000967438",
+        "title": "전자발찌 훼손하고 도주한 성범죄자 정영모…이틀만에 세종서 검거",
+        "link": "https://n.news.naver.com/mnews/article/079/0004213010",
         "source": "네이버 뉴스"
       },
       {
-        "title": "고교 내신 ‘AI 커닝’땐 퇴학시킨다",
-        "link": "https://n.news.naver.com/mnews/article/021/0002835126",
+        "title": "\"보관하라\" 지시했지만…\"1년 지나 비웠다\" 검증 난항",
+        "link": "https://n.news.naver.com/mnews/article/055/0001405199",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-24 06:49"
+  "updated": "2026-11-24 18:42"
 }
