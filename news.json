@@ -2,62 +2,67 @@
   "categories": {
     "IT": [
       {
-        "title": "수능 401점 받은 크래프톤 AI…'라온-1 미니' 국내 대형 모델 앞섰다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005446296",
+        "title": "리니지 IP 최초 통합 축제…킨텍스에 펼쳐진 엔씨 ‘리니지 페스티벌' 가보니",
+        "link": "https://n.news.naver.com/mnews/article/092/0002446840",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국내 앱 마켓 거래액 10조원 넘어…수수료 부담·불편한 구독 해지는 문제",
-        "link": "https://n.news.naver.com/mnews/article/032/0003484967",
+        "title": "구글·애플에 쏠린 국내 앱 마켓…개발자 70% \"수수료 부담 커\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005609536",
         "source": "네이버 뉴스"
       },
       {
-        "title": "방미통위, 보도전문채널 2개사 승인 유효기간 3개월 단축",
-        "link": "https://n.news.naver.com/mnews/article/001/0016463400",
+        "title": "삼성SDS, 정부혁신 박람회서 'AI 업무 동료' 시연",
+        "link": "https://n.news.naver.com/mnews/article/018/0006415188",
         "source": "네이버 뉴스"
       },
       {
-        "title": "엔씨 이성구 CBO “리니지 클래식, 새 이야기로 확장…日 서비스도 시작”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002727987",
+        "title": "CJ ENM·LG헬로비전, 4개 채널 송출 중단 '잠정 보류'",
+        "link": "https://n.news.naver.com/mnews/article/031/0001078499",
         "source": "네이버 뉴스"
       },
       {
-        "title": "국회·방송업계 한목소리…\"낡은 규제, 통합미디어법 서둘러야\"",
-        "link": "https://n.news.naver.com/mnews/article/215/0001273956",
+        "title": "배경훈 “워터마크·CCTV·재밍…AI커닝 방지기술 다양하게 검토중”",
+        "link": "https://n.news.naver.com/mnews/article/009/0005768705",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
-      {
-        "title": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 軍간부 활용 검토” - 동아일보",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUEVuYWNoek5kVEJlMDFvMmNOX3AyWTM0bllVdjF6SjNrRDhzTUVDTE5ac0JJVzByS0pxbmxiMFhnb0VlS2Q1Um9Db1RGUXlzNVBnN2JuZzlqdWYwNmtCNGpvZGk4STdMMF93SDdMWV9NV1lwTXfSAWZBVV95cUxNNGJYVFE4MFFMNWQyMFlRYWR3d2FEY3U2dFZyMGtSTXBJSnJLQ043UEZiRTVIUmhOMzlNM1VzZ2NaNVRyc192TXhVSVFqbmhNYWVQMVI2OHItZHhyN3VjRmJpZFE4YlE?oc=5",
-        "source": "구글 뉴스"
-      },
       {
         "title": "반도체 투톱 10% 안팎 급락…코스피 6% 넘게 밀려 - 연합인포맥스",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12UGliVFpEQmFFTXNIaXE5ZHNJUDJDNlcwNDJSRVg1M1BGTGN3VTY3bXltQ2l6VkdRZWZaVFhCY0NSbFo0bUhxenJ0Zm1GVkprUVJ6YTVXZjROTjhYUWJHQUdvZWdrZFpDSF9sN3JRNjY?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "경기도, 양자-반도체 융합산업 미래 전략 모색 - 뉴시스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qV1FmdUdENlc5ZzZGUHRWOVAyUkdjTVVXZnVvOGNsUk5JUV9ObHRQQ0ZBVmdQdlNDejNma0Z1R0NleVVhVE5yVnVlM2d5NFpudXlQWENNNnVHUmZET3hrWtIBeEFVX3lxTFBQMFVfZ3V1RFBEbjUyRU1vY2ZnOGlUWm1ab0lVYkNEUlJyRFVoUllFV3h0djRxQmZWM0hMbFE5ZGdvMHhxZFJieWI4ZTlsWDRjMzRwZ0dXQ09HejBUMXpCc1djZnA0Tkp4eXJfSVI3ZEprNWNGcVhMdw?oc=5",
+        "title": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 예정 軍간부 취업 지원 검토” - 동아일보",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUEVuYWNoek5kVEJlMDFvMmNOX3AyWTM0bllVdjF6SjNrRDhzTUVDTE5ac0JJVzByS0pxbmxiMFhnb0VlS2Q1Um9Db1RGUXlzNVBnN2JuZzlqdWYwNmtCNGpvZGk4STdMMF93SDdMWV9NV1lwTXfSAWZBVV95cUxNNGJYVFE4MFFMNWQyMFlRYWR3d2FEY3U2dFZyMGtSTXBJSnJLQ043UEZiRTVIUmhOMzlNM1VzZ2NaNVRyc192TXhVSVFqbmhNYWVQMVI2OHItZHhyN3VjRmJpZFE4YlE?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "낸드값 하락, D램까지 번질까…격렬해진 '반도체 사이클 공방' - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56Q2Z3alRJNkxuWXd2X2I4NGloTU9tdzQ5RlNONjB2RE1GQUZBQ19TSmJSZUtPQkQwS09ZdFRlLVMxR3duRTg2SnVOeUl2VjZNWmZHaU1CdVg4Zw?oc=5",
+        "title": "美 ‘과잉생산 관세’ 근거 된 호남 반도체 메가 프로젝트 - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGxiRVB0LUIxWkJUTWN3aklzMVNJRVY4bjNsWjhUeE9xNGNZU2FsUF9POTF3OENGamh6S3JGOS13VEZ1a2ZDdHBRSTlrOUltOUFwb1Q3eUtHTU5Eay00cGFtYkxEY0lCdm40TFd4NGN1eVViWk4ySzY3Y2dheFRMUU85LTg?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVUdxVFJmTEk5VWdRYXNWMDBFaU4xM09vQ1RJeF9pQXl5d0hWOHBhV2hHa3pNS2ZpNUZGQlpMblBxb0V4VGVBLUlJZWktcGxXdUhWRzBJcW5RR2fSAWBBVV95cUxOdFNyTWJiVHJ0dEpEcnFXcDFXUW1VZHpYdVNCMmFnWk9XbDdBSE9weUlyTWFVTmRqYmJvUnRFeTRtcUJqa0U4NElBeFllbDdxNFFVTWtuZU9WaHR0a19NWDA?oc=5",
+        "title": "美, 韓 반도체·車 산업 지원 겨냥…“수요 없이 공급만 늘려” - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnVEYUItMkVVdDZrWE1hbWpFeHZfeG11Mjg2SUJnSWN3VDJoRTl1ME5kR3lDOEoteWVxT25JQmZNV3ExRmxuaEJyZTd3VTJCYmdUWm8tckxuV2swaGx0WHpoOEVUWFB1ZGNGaHNBNEFrSndLdDJIQWRuOU4xek01VzRKV1lGMDhKSmw2MmFNVEQzdnI4S2F1akd4V0xmd9IBsgFBVV95cUxOcmxkQnhVRjZ5RkVSV0pkNUpMVXNtX2c2U3hzY3ZfeG44em1GcXlxS004eGtQUmZDRDM4d3dNUVNiekdqZmM4RGJYc1pOc1FCTTY2ZWl1Y0dDblZMZFdBczNKdE5NbUFnSG1saUNQQmhQdmtNT2liSU5rOU9aMVNHT19ORDVzekotaHpraTRGWGNKQXp4NFhJWFRLUGpvYjRHTkxSV1pFbjRTd3dIVk5xWi1B?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "트럼프 과잉 생산 관세 임박 … K반도체, 美 현지 생산 압박 커지나 - 뉴데일리 경제",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrRlFFcHdRWXQydTN6M1NicHVFbUYwYVNIdFc4NzRKZWZVeUY5aTNCZ2N3cV9mcDBVR0dERlVBX1YzNkQzcXM4ak5meEdkejM5dUdabjEzaXo3dDZJdVN6TmtBRDRBQWMxWmtMV2IyUjlCZEJEajBDdGFTc9IBgAFBVV95cUxNaEpyUU1icEhuM2IwLXNjLU5VR3RhV3pWUjZ2TW1EeFVUQU15OHlTRWVGbHFBbVRfbmZsZGY4cDVMWW1YdW1oTUZJeFRORnVTN2NVZVJvRUV3dlJ4aXVWT3lTX05fZ1RWTnV0aUlQTE5yaXhyaGVxN09RV0NjY25UZQ?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "충북 AI 정책 자문 '충북인공지능위원회' 내년 1월 출범 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwNTY4bEg3UVJtNk1UZkJwTFlINi00VExKUlVXQkIxMGU4V05qa3p5OUR2ZFVVUWxaQ0NnYzNGdTh5Uy1lanJiblpGRnNMOUI1RGFPZkpzMEltQy01bTF3NNIBYEFVX3lxTFBwNTY4bEg3UVJtNk1UZkJwTFlINi00VExKUlVXQkIxMGU4V05qa3p5OUR2ZFVVUWxaQ0NnYzNGdTh5Uy1lanJiblpGRnNMOUI1RGFPZkpzMEltQy01bTF3NA?oc=5",
+        "title": "“충북 AI 대전환“…’충북인공지능위원회’ 내년 1월 출범 - 연합뉴스TV",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZlN6OW1FY09rTXlLbVBNTnhKYmprRlV1UEhDWHByX2wzLUxwX1BkcWZNUk93d2ZzUXRWb2RjeUJwU1lQNzl5ak1IeHJZQWVKOUZMZGx2SlZ5b2RaOFo0dlF5S2RxZTg?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "\"로봇이 움직이는 물체를 끝까지 추적한다\"…앨런인공지능연구소, 피지컬 AI 평가체계 ‘로보트랙’ 오픈소스로 - 인공지능신문",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyampGbDlScVMydjhaYzY4QWY5VzFwSE5HSkI4RzIyY3JZM3ZmRjlwYjRiZlcwX0VlbTJnNXRieVBHLTk3b1ZYbWpzWmtfaFl1NE1JZHBDS0ZfUkJSUDBlWkljTERKN00?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -71,11 +76,6 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "궁금한 아산시정 정보, 인공지능(AI)으로 더 쉽고 빠르게 찾는다 - 아산뉴스",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TMjVhR2EyLVU2VVZzYXBsZGtodWNnTGRmTEN0UWxBV0QwSS0xR1IwMGFkWE1raG4yd05ZNnhqTFlxUXMzR2RaMFBWNW0zWk96WXZUSnNicmNoTndKTDVJbHo5T2VWQm5MUEYtX3RmX1BPbGhNMjB2MlNncw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
         "title": "부산항만공사, 정부혁신박람회에서 인공지능(AI)ㆍ디지털 기반 부산항 혁신사례 알려 - 쉬핑뉴스넷",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBick9zUWdqVUZtQ2Q0R25WNXdDLUdXbnNZRDRZMHQ3Sm9RSFc5bFo4MkNRd0xySjZtR1NFMDhuLXVrbGIwLXBiRU1oY1pDVzB4akVCY2dXdlEzUWxJRDFta24tUFBoUzZlR2RYR0hVM09ncDA?oc=5",
         "source": "구글 뉴스"
@@ -83,31 +83,31 @@
     ],
     "사회": [
       {
-        "title": "\"재판 이유로 한 탄핵, 헌법질서 위태롭게 해\"…일선 법원 첫 공식 반격",
-        "link": "https://n.news.naver.com/mnews/article/586/0000143042",
-        "source": "네이버 뉴스"
+        "title": "마운자로가 일깨운 건강 계급 사회 [뉴스룸에서] - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uZmxTNDVkSDFGZy0yTEc3M2hPNU8zYkN3d0prOVMxcmc2YkdlZjQxYlBoYkVNbDJaRmpsV093aU9ua0ZyOTVDRWVfRENBUVRTSW1HYkFrOTR5U2dnSzlFXzEwSEFnQQ?oc=5",
+        "source": "구글 뉴스"
       },
       {
-        "title": "'출근길 대란' 피했다…서울지하철 노조 총파업 철회 [종합]",
-        "link": "https://n.news.naver.com/mnews/article/015/0005357822",
-        "source": "네이버 뉴스"
+        "title": "[포토뉴스] ‘2026년 전국사회복지나눔 유공자 시상식’ 성료… 168명 포상 - 복지타임즈",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkS1V1ampDekNTSVNzVjdrT2NRQk5rWE9yVjZqMjl1cnBWVkJDUE5uaVUxWDdBdXB2X0phcjBUWVoyckQ4bmk0emEwakYtRGFKOWVpZDFoVnBMeWJSczZCQ1VYU3gyY0pyc0RaXw?oc=5",
+        "source": "구글 뉴스"
       },
       {
-        "title": "“1호 국가도시공원 우리 동네 주세요”···지자체 물밑 경쟁 치열",
-        "link": "https://n.news.naver.com/mnews/article/032/0003484993",
-        "source": "네이버 뉴스"
+        "title": "[포토뉴스]인제군사회복지협 ‘소외계층 발굴 캠페인’ - 강원일보",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DaFhkNVpsd2FfVVpRMVBwRVMydTl6OWI2NHRhVkRSR3ZoVURzdEtFM2FzVC1SWVFEcTVLRFF5TmZXcndGSkF3Ri1FNE1jU0o1SlRBVG9fSXk1bGM?oc=5",
+        "source": "구글 뉴스"
       },
       {
-        "title": "정부지원 받고 벙커서 대마키운 30대 일당에 중형 구형",
-        "link": "https://n.news.naver.com/mnews/article/003/0014345229",
-        "source": "네이버 뉴스"
+        "title": "[포토뉴스] 첫눈 내린 소백산…은빛 상고대 ‘장관’ - 영주시민신문",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2aGYzR1VxSWNHT0NCeFZPLTNTME0wRWNMcmpnY3BDZGkycTh3VjVpd1BpM3FSRjVzZEoxWUI3ZmhEWnVmdzdDT2FzeEFQZlhENU5GYkJiSERtVjhNNWhGQ2M2UWs3WWNV?oc=5",
+        "source": "구글 뉴스"
       },
       {
-        "title": "전광훈 목사, ‘102억원 불법 정치자금’ 혐의 공소청 출석",
-        "link": "https://n.news.naver.com/mnews/article/029/0003061019",
-        "source": "네이버 뉴스"
+        "title": "국민 2가구 중 1가구 \"사회서비스 필요\" - 재활뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOGtOODlzOG9zQ19TOFRaZ3UtWXQ2MjNuMGdsZzdQRjAtSVdubjZmanBfYnNqbmNHcXZVLWdtaHllRGtIRXdjRlRzYW0yRDJXR1h1QkZlSklSX2dxVjhtWmI4X1pnYVdzWHlB?oc=5",
+        "source": "구글 뉴스"
       }
     ]
   },
-  "updated": "2026-11-25 12:32"
+  "updated": "2026-11-25 22:11"
 }
