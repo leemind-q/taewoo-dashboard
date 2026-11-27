@@ -2,35 +2,45 @@
   "categories": {
     "IT": [
       {
-        "title": "“이제 출퇴근길 유튜브 맘껏” 버스·지하철 타는 직장인 희소식… 전국에 도입된 ‘이것’",
-        "link": "https://n.news.naver.com/mnews/article/011/0004686661",
+        "title": "방치된 보안 허점, AI 해킹에 취약…개인정보 유출신고 2배 급증",
+        "link": "https://n.news.naver.com/mnews/article/421/0009313841",
         "source": "네이버 뉴스"
       },
       {
-        "title": "휴가 중에도 본능 못 숨겼다…엘리베이터 앞 할머니 통화에 '촉' 온 경찰",
-        "link": "https://n.news.naver.com/mnews/article/277/0005848538",
+        "title": "네이버서 전국 골프장 예약 한번에…273곳 티타임·가격 비교",
+        "link": "https://n.news.naver.com/mnews/article/018/0006416420",
         "source": "네이버 뉴스"
       },
       {
-        "title": "구글, AI 에이전트 접근에 ‘통행료’ 유료화…국내 기업도 고심",
-        "link": "https://n.news.naver.com/mnews/article/081/0003703626",
+        "title": "\"속도 넘어 품질 경쟁\"…통신 3사, 5G SA 맞춤형 서비스 본격화",
+        "link": "https://n.news.naver.com/mnews/article/421/0009312942",
         "source": "네이버 뉴스"
       },
       {
-        "title": "데이터센터 '돈맥경화'",
-        "link": "https://n.news.naver.com/mnews/article/009/0005769682",
+        "title": "도로 무너지기 전 ‘위험신호’ 포착…싱크홀 사고 막는다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002729536",
         "source": "네이버 뉴스"
       },
       {
-        "title": "'진짜 5G' 시대 열린다…맞춤형 통신서비스 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/015/0005358799",
+        "title": "국내 보안기업 해외 성과 발표…\"K보안모델 해외로\"[테크스냅]",
+        "link": "https://n.news.naver.com/mnews/article/001/0016467674",
         "source": "네이버 뉴스"
       }
     ],
     "반도체": [
       {
+        "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다 - 전자신문",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1Y2NFVhaFlmOF9zYl8ya3o1UXZ3ZjUxWVZ6MTNPblNWa0l6SVhLd0l6SUZ1NWlYT1Fza2IxS3pEN1lIWS1kMlZJbV9Fdw?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
         "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\" - 연합뉴스",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04TjBVSEh1SHQ5RXFaM0tOSHBrMzZmTDJPUzhINVlFN29Ea2ZVaGs5c0Vya1R2aTZHUEY2R2VmNnR2YW1pZXROY2ZwaTRkZXhXWkVoc1h3S1V5RE3SAWBBVV95cUxNbWxwczBRbUktS3BrampndUk4bDdxODRSMHA2VXVjMjk4ZTk4Tm5SVW1UNU1xVjMtNXg2eVNSdG9Sa1JFLTJxc3FhQUE4WDJQRlEyazMyV0didWNXd05tSEU?oc=5",
+        "source": "구글 뉴스"
+      },
+      {
+        "title": "“이재용, 머스크의 ‘반도체 장기구매 제안’에 ‘뭘 더 해줄 건데?’” - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hc1hYRWFBTW92dU15S1ZIaTVyM1NJMy1ncmk0VHdSc2piU0w0TGhZZUNLd2RFa05ONl8yQnl3SzlYZ3V2MGdZeG9qUklqa05McUE?oc=5",
         "source": "구글 뉴스"
       },
       {
@@ -39,75 +49,65 @@
         "source": "구글 뉴스"
       },
       {
-        "title": "반도체 확보에 선금까지…마이크론·삼성·SK하이닉스, 수년치 물량 선점 경쟁 - 제민일보",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04M05oU1JoemdIMGxuRThGRGpER053SVlwNHZYSEhST3JBWmJIS1I3bHRuU29Ebk9NVVZDWUVyYm1DcEFoeklkS21UTVkwRFRJS1Fja3Qzd2g5ODgtbnRTa3M5UllrZw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다 - 전자신문",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT1Y2NFVhaFlmOF9zYl8ya3o1UXZ3ZjUxWVZ6MTNPblNWa0l6SVhLd0l6SUZ1NWlYT1Fza2IxS3pEN1lIWS1kMlZJbV9Fdw?oc=5",
-        "source": "구글 뉴스"
-      },
-      {
-        "title": "반도체 700조 버는데 시총은 3배…한은 총재 \"설명하기 힘들다\" - JTBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HXzd5bUQwamRzV0t3TlQ4SFowNVFnWUt6cUJRejhrSUNqZjI3SU9KeGtlT0Z2SGlHcmRkQ1FNZGFyYTBtZ3R1VG1Va0VwZUt1VTdyOA?oc=5",
+        "title": "삼성 파운드리·연구소에 패키징 전담조직…AI칩 턴키 경쟁력 강화 - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uc0htRXdhT2NULUF1c20zWl8tVzhwMHlyYXk2SU9tYWZRVHlqemhkcWNXZ3c2SUNnNjV3TXAtN1NjcUlxUFVlZDdXU0VnTHdkRm9sQWpNNkRpalNISUxfWjk0T1NVQngzZ2IwekRvQTZzQ3M?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "AI": [
       {
-        "title": "소방관이 직접 만든 인공지능(AI)... 소방청, 공공 AI 대전환 챌린지 5개 팀 입상 - 뉴스데일리",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6WEwwbFRRMG5BYzNoaEVnXzJCeDZ3RTNYVzM2VXFta3pjTDdrRGwtNmY0Uk51VkI3R0hPRDcyMjFYWHFNY2huLVd5Ul9abFo1SkJWaUhlVk9RVi1NNUJhSkRndEdKS0pHUXBF?oc=5",
+        "title": "안성시 공직자 '인공지능(AI) 활용 바이브 코딩' 특별 교육 실시 - 경기종합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtQTZmek9vcUZWbTRPRENQVzFmRTFOZkw3R2M0OXYxNjdla05scTlZNDNQUXhWbWIyZVNDT1ZKRzFfU181SmRsLVlnZ3F2eGlsVVphNzlXTkE3YU56Slc1SHozOVdUbjB2TWhuT1NEQ3ZqSDFP?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "공무원이 직접 AI를 개발한다…인공지능이 바꾸는 대한민국 행정 - 용인신문",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNamgxdjRFTlBSdWdhSDNmQXRKekVZVzZOS3dXQmQwTUxiMl94WXB3bnk1VlhUbVFITGsxelJMMm90N3BtYUdGM19Ob3AtMTVIRFpuVXFZZG1NaE8wNTBEZC1WQUg?oc=5",
+        "title": "인공지능(AI)을 활용한 부정행위 대응 방안 관련해 열린 교육위 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Da2toUFFtd2dncUozTzdYZ0tad2g1VlhvdkZraDRMWUd4WnhZQ19xSDExUl9Dd25mOXdVLUNxUVR1Q21QMzZtZ3NrTFVKVzdyLUlBeTBLcTZzWXZ0a1g3MWI1SjFsUQ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "[인공지능 줌인] 월스트리트, AI 증시 흔들리면 부유층 지갑도 닫힌다 - 위키리크스한국",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tVFZkUUNyb201ZFppZVJfdVlCUHIwbHBDVTRhTU1SamZpTEhCWGtqTXdWc3VNZGhlS0F5M1NWNEp6VGhwajJid0poRnZqbkFFTWswVWdia1J5ZUp6VkxMVVJQbEdKdGRDM2Vlc1ZnUk8?oc=5",
+        "title": "특징주, 바이브컴퍼니-지능형로봇/인공지능(AI) 테마 상승세에 5.41% ↑ - 매일경제 마켓",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nOWtMU0J5akRNbkF6amlzQXFQMFJYa1cxRTFXMkxTTFRrNUNPY0UtV3dqQTFQNy10THE0RmoxcS13bHZKNlNfekN0OWpVRms2N1E?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "수은, 인공지능(AI) 가치사슬 핵심부품 기업 종합 지원체제 구축 - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bFlnaXhKQTJxeUlHYzNVckZmS3BMUV9BTHYwWjl5b0ZQend0UlhhNnhtMVBwVklydkpPdGg3b3c1bG9pQ1hzdjJab1NoU2c1Nk1uQVpWMHdsblU?oc=5",
+        "title": "공무원연금공단-JDC, '인공지능(AI) 감사·윤리 헌장' 공동 선포 - 뉴스데일리",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zcjFQN2llRkR2MkFoWXlQdzd2SHE1VlJLWVhlcFhwWGlTMEdGSjdfUXpiMTZGYlJvZXUzWVV4T2pCX1p0UU1JeTRQT0FxSkVhckFpcVJ2dDNaZ3ZIMVY5c1UxVnUtZXE4QzNZ?oc=5",
         "source": "구글 뉴스"
       },
       {
-        "title": "언론 매체의 생명인 뉴스도 인공지능(AI)이 다루는 세상이 됐다! - 브레이크뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tQ1RoWW5IZUxQa0pieVhWRjhrVHI5SFNKZ2xkOE5mbFlQS0ZYcVpnUll0bWRyTHZWSnNUNzhodGNqdw?oc=5",
+        "title": "이도마루, 인공지능·로봇으로 배우는 ‘피지컬AI ’디지털교실 운영 - 굿뉴스365",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PakVyYUJ0cmJKUE1ZS2d4ZFc3S3dpMjFodVdXdVpZM3Z6bHJlbXdlWkt0WlFkTHlQOGpCVGF1Mngtc2xiTXZuRU8wcldkNjZUU2p1MWxUeFJrNHFZamI0VFNzV2pEeVN2cW16QVc4TEdOMFp0R0E?oc=5",
         "source": "구글 뉴스"
       }
     ],
     "사회": [
       {
-        "title": "침몰 해광호 수중수색 위해 감압챔버 갖춘 해군 광양함 동원",
-        "link": "https://n.news.naver.com/mnews/article/001/0016464378",
+        "title": "‘마약 투약’ 前정치인 아들, 이번엔 성관계 영상 유포 협박 혐의 등 체포",
+        "link": "https://n.news.naver.com/mnews/article/009/0005769924",
         "source": "네이버 뉴스"
       },
       {
-        "title": "검찰총장 후보 사상 첫 '추가 천거'…법무부 \"추천위 기능 보장\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016465730",
+        "title": "경찰, 부정행위 ‘세무사 시험 수석’ 구속영장 신청",
+        "link": "https://n.news.naver.com/mnews/article/056/0012301963",
         "source": "네이버 뉴스"
       },
       {
-        "title": "경찰, '리트 만점' 故이진우 자택 등 압수수색…부정행위 의혹 수사 확대",
-        "link": "https://n.news.naver.com/mnews/article/666/0000133881",
+        "title": "광주 도시철도 2호선 사업비 또 늘듯…최대 3조5천억 전망",
+        "link": "https://n.news.naver.com/mnews/article/001/0016464872",
         "source": "네이버 뉴스"
       },
       {
-        "title": "해킹 계정 구매해 허위 ‘성형 후기’…성형외과 등 검거",
-        "link": "https://n.news.naver.com/mnews/article/056/0012301716",
+        "title": "\"끝장낸다\" 야구방망이 휘둘러놓고…'적반하장' 남성 징역",
+        "link": "https://n.news.naver.com/mnews/article/055/0001406315",
         "source": "네이버 뉴스"
       },
       {
-        "title": "헌재 “외국인 정치활동 일괄 금지한 출입국관리법, 헌법불합치”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003568261",
+        "title": "통합 LCC 본사 유치…‘글로벌 관문 공항’ 발판[집중취재]",
+        "link": "https://n.news.naver.com/mnews/article/056/0012302109",
         "source": "네이버 뉴스"
       }
     ]
   },
-  "updated": "2026-11-26 23:11"
+  "updated": "2026-11-27 05:15"
 }
